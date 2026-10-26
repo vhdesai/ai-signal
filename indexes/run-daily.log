@@ -1,95 +1,105 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 
 Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights:  91%|█████████ | 181/199 [00:00<00:00, 1807.82it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1844.38it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2802.35it/s]
 {
   "command": "run-daily",
   "stages": {
     "ingest": {
-      "digests_total": 1510,
-      "digests_changed": 14,
+      "digests_total": 1535,
+      "digests_changed": 25,
       "changed": [
-        "news\\2026-10-21_065709_Final-Daily-AI-News-Digest.md",
-        "news\\2026-10-21_180918_Inbox_Your Daily AI News Digest.md",
-        "news\\2026-10-22_000000_Publication-Sources.md",
-        "news\\2026-10-22_060515_Inbox_Daily AI News Digest – October 22, 2026.md",
-        "news\\2026-10-22_060929_Inbox_Daily AI News Digest – October 22, 2026.md",
-        "news\\2026-10-22_062022_Inbox_Daily AI News Digest – October 22, 2026.md",
-        "news\\2026-10-22_064732_Inbox_ClawPilot - Daily AI News Digest – October 22, 2026.md",
-        "news\\2026-10-22_065023_Final-Daily-AI-News-Digest.md",
-        "news\\2026-10-22_065822_Inbox_Daily AI News Digest – October 22, 2026.md",
-        "news\\2026-10-22_065841_Final-Daily-AI-News-Digest.md",
-        "news\\2026-10-22_070518_Inbox_Daily AI News Digest – October 22, 2026.md",
-        "news\\2026-10-22_100251_Inbox_Fw- Daily AI News Digest – October 22, 2026.md",
-        "news\\daily-ai-news-digest-2026-10-21.md",
-        "news\\daily-ai-news-digest-2026-10-22.md"
+        "news\\2026-10-23_065801_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-24_000000_Publication-Sources.md",
+        "news\\2026-10-24_060056_Inbox_Daily AI News Digest - October 24, 2026.md",
+        "news\\2026-10-24_060928_Inbox_Daily AI News Digest - October 24, 2026.md",
+        "news\\2026-10-24_062015_Inbox_Daily AI News Digest - October 24, 2026.md",
+        "news\\2026-10-24_064722_Inbox_ClawPilot - Daily AI News Digest - October 24, 2026.md",
+        "news\\2026-10-24_065045_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-24_065335_Inbox_Daily AI News Digest - October 24, 2026.md",
+        "news\\2026-10-24_065742_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-24_070002_Inbox_Daily AI News Digest - October 24, 2026.md",
+        "news\\2026-10-25_000000_Publication-Sources.md",
+        "news\\2026-10-25_060218_Inbox_Daily AI News Digest - October 25, 2026.md",
+        "news\\2026-10-25_060531_Inbox_Daily AI News Digest - October 25, 2026.md",
+        "news\\2026-10-25_060912_Inbox_Daily AI News Digest - October 25, 2026.md",
+        "news\\2026-10-25_061756_Inbox_Daily AI News Digest - October 25, 2026.md",
+        "news\\2026-10-25_064653_Inbox_ClawPilot - Daily AI News Digest - October 25, 2026.md",
+        "news\\2026-10-25_065051_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-25_065306_Inbox_Daily AI News Digest - October 25, 2026.md",
+        "news\\2026-10-25_065751_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-25_070019_Inbox_Daily AI News Digest - October 25, 2026.md",
+        "news\\2026-10-26_065055_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-26_121525_Final-Daily-AI-News-Digest.md",
+        "news\\daily-ai-news-digest-2026-10-23.md",
+        "news\\daily-ai-news-digest-2026-10-24.md",
+        "news\\daily-ai-news-digest-2026-10-25.md"
       ]
     },
     "split": {
-      "digests_parsed": 1514,
-      "articles_written": 14561,
-      "events_parsed": 125,
+      "digests_parsed": 1539,
+      "articles_written": 14702,
+      "events_parsed": 128,
       "event_articles_written": 78,
-      "skipped_publication_sources": 55,
-      "skipped_thin_articles": 5020
+      "skipped_publication_sources": 57,
+      "skipped_thin_articles": 5059
     },
     "index": {
-      "articles_indexed": 10600,
+      "articles_indexed": 10688,
       "embeddings": {
         "enabled": true,
-        "added": 37,
-        "total": 10600,
-        "md_rewritten": 10599
+        "added": 88,
+        "total": 10688,
+        "md_rewritten": 10687
       }
     },
     "dedupe": {
-      "articles": 10600,
+      "articles": 10688,
       "exact_duplicates": 6,
-      "canonical": 7853,
-      "semantic_duplicates": 2741,
-      "related_links": 32313
+      "canonical": 7921,
+      "semantic_duplicates": 2761,
+      "related_links": 32599
     },
     "build-graph": {
       "status": "ok",
-      "articles_linked": 10600,
-      "wikilinks_emitted": 72422,
+      "articles_linked": 10688,
+      "wikilinks_emitted": 72946,
       "entity_hubs": 34,
       "topic_hubs": 8,
       "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
     },
     "validate-urls": {
-      "checked": 4978,
-      "ok": 3785,
-      "broken": 1193,
-      "missing": 5599,
+      "checked": 5009,
+      "ok": 4131,
+      "broken": 878,
+      "missing": 5656,
       "skipped": 23
     },
     "repair-urls": {
-      "attempted": 11,
-      "repaired": 9,
+      "attempted": 10,
+      "repaired": 8,
       "unresolved": 2,
       "skipped": 0,
       "reverted": 0,
       "deferred": 0,
       "terminated": "completed",
-      "elapsed_s": 298.0,
+      "elapsed_s": 305.4,
       "max_workers": 10
     },
     "build-site-daily": {
-      "pages": 304,
-      "articles": 10600,
-      "canonical": 7853,
+      "pages": 308,
+      "articles": 10688,
+      "canonical": 7921,
       "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
       "mode": "incremental",
-      "changed_articles": 126,
-      "written_files": 105,
-      "elapsed_s": 19.0
+      "changed_articles": 440,
+      "written_files": 173,
+      "elapsed_s": 16.55
     },
     "publish": {
       "status": "dry-run",
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20261022T201851+0000-db6903.json"
+  "run_log": "indexes\\runs\\run-20261026T192703+0000-b2729b.json"
 }

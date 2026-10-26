@@ -4,8 +4,8 @@ title: Chinese AI agent reportedly linked to cyberattacks on Japanese companies
 date: '2026-10-22'
 source: '[WSJ Pro Cybersecurity]'
 url_original: null
-url_canonical: https://mainichi.jp/english/articles/20261020/p2g/00m/0bu/017000c
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-22_065023_Final-Daily-AI-News-Digest.md
 content_hash: c1880b2b4df25c61ff0ee90c969adfb8df4b25bb81ee54b5e4276c1e90220ede
 normalized_title_hash: 88d5629176b61e3e

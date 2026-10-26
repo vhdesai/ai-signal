@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 726
+member_count: 727
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 726 connected article(s).
+> Auto-generated entity hub. 727 connected article(s).
 
+- `2026-10-23` [[2026-10-23-aws-commitments-extend-through-2027|AWS commitments extend through 2027]]
 - `2026-10-21` [[2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin|Walmart opens an agent gateway while rivals continue blocking shopping bots]]
 - `2026-10-20` [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro|US orders federal agencies to remove China’s DeepSeek AI from their systems]]
 - `2026-10-20` [[2026-10-20-new-coverage-cloudflare-previews-clairic-extraction-model|New coverage: Cloudflare previews Clairic extraction model]]

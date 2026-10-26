@@ -31,8 +31,8 @@ related_article_ids:
 - 2026-05-23-researchers-from-northwestern-and-american-university-tested
 - 2026-05-15-researchers-at-northwestern-university-and-american-universi
 - 2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl
+- 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 - 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
-- 2026-05-17-microsoft-corp-dev-ai-intelligence
 embedding_id: 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 event_name: ''
 ---
@@ -46,5 +46,5 @@ A joint study by researchers at Northwestern University and American University 
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-05-23-researchers-from-northwestern-and-american-university-tested]] · [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]] · [[2026-05-17-microsoft-corp-dev-ai-intelligence]]
+**Related:** [[2026-05-23-researchers-from-northwestern-and-american-university-tested]] · [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]]
 <!-- graph:end -->

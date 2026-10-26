@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
+- 2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou
 - 2026-08-28-meta-ai-s-evoharness-rl-reportedly-boosts-agent-efficiency
-- 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
 embedding_id: 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
 event_name: ''
 ---
@@ -41,5 +41,5 @@ This paper presents a framework in which AI agents use evolutionary search algor
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-08-28-meta-ai-s-evoharness-rl-reportedly-boosts-agent-efficiency]] · [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]]
+**Related:** [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou]] · [[2026-08-28-meta-ai-s-evoharness-rl-reportedly-boosts-agent-efficiency]]
 <!-- graph:end -->

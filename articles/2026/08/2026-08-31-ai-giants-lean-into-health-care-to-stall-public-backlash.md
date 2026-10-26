@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
+- 2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo
 - 2026-05-13-a-landmark-policy-shift-reported-today-medicare-has-introduc
 - 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
-- 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
 embedding_id: 2026-08-31-ai-giants-lean-into-health-care-to-stall-public-backlash
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Axios reports that major AI firms are leaning further into health care use cases
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-05-13-a-landmark-policy-shift-reported-today-medicare-has-introduc]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]]
+**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo]] · [[2026-05-13-a-landmark-policy-shift-reported-today-medicare-has-introduc]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]]
 <!-- graph:end -->

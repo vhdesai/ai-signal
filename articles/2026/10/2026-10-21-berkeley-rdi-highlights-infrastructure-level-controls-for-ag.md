@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
 - 2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-- 2026-07-20-openai-outlines-safety-and-alignment-concerns-for-long-horiz
+- 2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion
 embedding_id: 2026-10-21-berkeley-rdi-highlights-infrastructure-level-controls-for-ag
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Berkeley RDI's weekly briefing summarized a security meetup focused on securing 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-07-20-openai-outlines-safety-and-alignment-concerns-for-long-horiz]]
+**Related:** [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion]]
 <!-- graph:end -->

@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 925
+member_count: 931
 ---
 
 # Meta
 
-> Auto-generated entity hub. 925 connected article(s).
+> Auto-generated entity hub. 931 connected article(s).
 
+- `2026-10-26` [[2026-10-26-meta-s-muse-reaches-10-million-downloads-shifting-focus-to-m|Meta's Muse reaches 10 million downloads, shifting focus to monetization quality]]
+- `2026-10-26` [[2026-10-26-meta-s-muse-passes-10-million-users-putting-monetization-in|Meta's Muse passes 10 million users, putting monetization in focus]]
+- `2026-10-26` [[2026-10-26-meta-launches-approximately-35-billion-in-equity-offerings-f|Meta launches approximately $35 billion in equity offerings for its AI expansion]]
+- `2026-10-26` [[2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo|Big Tech's litigation exposure offers a warning for AI deployment]]
+- `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
+- `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
 - `2026-10-22` [[2026-10-22-meta-reshapes-financing-as-ai-spend-surges-and-muse-monetiza|Meta reshapes financing as AI spend surges and Muse monetization accelerates]]
 - `2026-10-21` [[2026-10-21-october-22-2026-dealbook|[October 22, 2026] · DealBook]]
 - `2026-10-20` [[2026-10-20-meta-s-muse-reaches-10-million-u-s-downloads-in-40-days|Meta's Muse reaches 10 million U.S. downloads in 40 days]]

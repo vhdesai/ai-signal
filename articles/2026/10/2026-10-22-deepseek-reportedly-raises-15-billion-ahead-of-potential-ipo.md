@@ -4,8 +4,8 @@ title: DeepSeek reportedly raises $15 billion ahead of potential IPO
 date: '2026-10-22'
 source: Wall Street Journal
 url_original: null
-url_canonical: https://qz.com/deepseek-15-billion-funding-round-possible-ipo-102226
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-22_100251_Inbox_Fw- Daily AI News Digest – October
   22, 2026.md
 content_hash: b339fb903d762d89533fcc7604a8fc1d695ac7b5ec72253743bb2f6654410df2

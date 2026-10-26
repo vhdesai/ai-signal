@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-23-daily-ai-news-digest-october-25-2026
+- 2026-10-22-daily-ai-news-digest-october-24-2026
 - 2026-10-10-daily-ai-news-digest-october-11-2026
 - 2026-06-26-daily-ai-news-digest-june-26-2026
 - 2026-10-12-daily-ai-news-digest-october-13-2026
-- 2026-10-10-tech-workers-are-bringing-ai-compute-into-the-home-signaling
-- 2026-10-17-daily-ai-news-digest-october-18-2026
 embedding_id: 2026-10-18-daily-ai-news-digest-october-20-2026
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The strongest signals today are that AI is moving into operational systems while
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-10-10-daily-ai-news-digest-october-11-2026]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[2026-10-12-daily-ai-news-digest-october-13-2026]] · [[2026-10-10-tech-workers-are-bringing-ai-compute-into-the-home-signaling]] · [[2026-10-17-daily-ai-news-digest-october-18-2026]]
+**Related:** [[2026-10-23-daily-ai-news-digest-october-25-2026]] · [[2026-10-22-daily-ai-news-digest-october-24-2026]] · [[2026-10-10-daily-ai-news-digest-october-11-2026]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[2026-10-12-daily-ai-news-digest-october-13-2026]]
 <!-- graph:end -->

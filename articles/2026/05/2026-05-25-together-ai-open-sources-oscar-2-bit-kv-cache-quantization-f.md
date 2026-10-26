@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s
-- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
+- 2026-10-25-marktechpost-s-technical-walkthrough-examines-a-heavily-quan
 embedding_id: 2026-05-25-together-ai-open-sources-oscar-2-bit-kv-cache-quantization-f
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OSCAR is an attention-aware 2-bit KV-cache quantization system designed to slash
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]]
+**Related:** [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s]] · [[2026-10-25-marktechpost-s-technical-walkthrough-examines-a-heavily-quan]]
 <!-- graph:end -->

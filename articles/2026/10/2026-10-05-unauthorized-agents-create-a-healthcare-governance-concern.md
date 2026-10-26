@@ -19,9 +19,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-24-washington-s-message-to-ai-execs-please-shut-up
 - 2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity
 - 2026-08-11-120-organizations-back-safe-a-reporting-framework-for-rogue
-- 2026-09-23-september-24-2026
 embedding_id: 2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Axios reports unchecked healthcare agents raise privacy and safety concerns as a
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity]] · [[2026-08-11-120-organizations-back-safe-a-reporting-framework-for-rogue]] · [[2026-09-23-september-24-2026]]
+**Related:** [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up]] · [[2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity]] · [[2026-08-11-120-organizations-back-safe-a-reporting-framework-for-rogue]]
 <!-- graph:end -->

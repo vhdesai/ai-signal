@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation
-- 2026-08-03-chatgpt-s-reported-dominance-in-identifiable-house-spending
+- 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 embedding_id: 2026-05-19-cmu-edinburgh-tu-delft-study-big-ai-uses-big-tobacco-lobbyin
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Researchers from the University of Edinburgh, Trinity College Dublin, TU Delft, 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-research-big-ai-uses-big-tobacco-style-lobbying-tactics-to-i]] · [[2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation]] · [[2026-08-03-chatgpt-s-reported-dominance-in-identifiable-house-spending]]
+**Related:** [[2026-05-18-research-big-ai-uses-big-tobacco-style-lobbying-tactics-to-i]] · [[2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]]
 <!-- graph:end -->

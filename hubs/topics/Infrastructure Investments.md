@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1843
+member_count: 1846
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1843 connected article(s).
+> Auto-generated topic hub. 1846 connected article(s).
 
+- `2026-10-26` [[2026-10-26-sk-hynix-pauses-solidigm-s-us-listing-as-ai-valuations-face|SK Hynix pauses Solidigm's US listing as AI valuations face a market test]]
+- `2026-10-26` [[2026-10-26-meta-launches-approximately-35-billion-in-equity-offerings-f|Meta launches approximately $35 billion in equity offerings for its AI expansion]]
+- `2026-10-25` [[2026-10-25-spacex-reports-a-roughly-40-billion-gpu-financing-commitment|SpaceX reports a roughly $40 billion GPU-financing commitment]]
 - `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]
 - `2026-10-20` [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure|FINANCINGCREDIT RISKCoreWeave's debt puts AI infrastructure financing under scrutiny]]
 - `2026-10-20` [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo|EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders]]

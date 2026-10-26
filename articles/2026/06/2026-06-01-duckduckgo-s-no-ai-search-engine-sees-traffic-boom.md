@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-27-duckduckgo-installs-jump-30-amid-ai-search-backlash
 - 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
+- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 - 2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic
-- 2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r
 embedding_id: 2026-06-01-duckduckgo-s-no-ai-search-engine-sees-traffic-boom
 event_name: ''
 ---
@@ -38,5 +38,5 @@ DuckDuckGo made its AI-free search experience easier to set as a default, report
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-duckduckgo-installs-jump-30-amid-ai-search-backlash]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic]] · [[2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r]]
+**Related:** [[2026-05-27-duckduckgo-installs-jump-30-amid-ai-search-backlash]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead
 - 2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 - 2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project
 - 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
-- 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
 embedding_id: 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI is reportedly negotiating to raise at least $30B at a $1.4T valuation, ev
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]] · [[2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo]]
+**Related:** [[2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead]] · [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]]
 <!-- graph:end -->

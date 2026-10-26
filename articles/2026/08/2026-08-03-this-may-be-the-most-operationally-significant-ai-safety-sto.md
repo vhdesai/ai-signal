@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden
 - 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
-- 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
+- 2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion
 embedding_id: 2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto
 event_name: ''
 ---
@@ -38,5 +38,5 @@ This may be the most operationally significant AI safety story of the period bec
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]]
+**Related:** [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion]]
 <!-- graph:end -->

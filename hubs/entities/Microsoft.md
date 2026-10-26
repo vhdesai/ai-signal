@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1063
+member_count: 1070
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1063 connected article(s).
+> Auto-generated entity hub. 1070 connected article(s).
 
+- `2026-10-25` [[2026-10-25-marktechpost-reports-microsoft-research-released-agensh-a-mu|MarkTechPost reports Microsoft Research released Agensh, a multi-agent harness designed to scale coding teams up to…]]
+- `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
+- `2026-10-24` [[2026-10-24-microsoft-open-sources-agensh-a-decentralized-harness-tested|Microsoft open-sources Agensh, a decentralized harness tested up to 1,024 coding agents]]
+- `2026-10-24` [[2026-10-24-microsoft-agensh-surfaces-a-harness-pattern-for-large-multi|Microsoft Agensh surfaces a harness pattern for large multi-agent orchestration]]
+- `2026-10-24` [[2026-10-24-cross-model-political-preference-findings-raise-governance-a|Cross-model political-preference findings raise governance and evaluation questions]]
+- `2026-10-22` [[2026-10-22-microsoft-reports-ai-diagnostic-gains-on-complex-cases-in-sc|Microsoft reports AI diagnostic gains on complex cases in Science-backed evaluation]]
+- `2026-10-22` [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion|ConnectWise breach reportedly enabled AI-assisted intrusion attempts across thousands of organizations]]
 - `2026-10-19` [[2026-10-19-securitymicrosoft-adds-guardian-agents-to-monitor-enterprise|SECURITYMicrosoft adds Guardian Agents to monitor enterprise AI agents]]
 - `2026-10-19` [[2026-10-19-newagent-securitymicrosoft-adds-guardian-agents-and-agent-di|NEWAGENT SECURITYMicrosoft adds Guardian Agents and agent discovery to enterprise security]]
 - `2026-10-19` [[2026-10-19-microsoft-xnode-and-sumsub-add-control-planes-for-rogue-agen|Microsoft, Xnode and Sumsub add control planes for rogue agents and agent identity]]

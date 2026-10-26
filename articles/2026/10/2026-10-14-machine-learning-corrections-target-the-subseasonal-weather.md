@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools
 - 2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event
 - 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
-- 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
+- 2026-10-23-security-leaders-warn-of-faster-flaw-discovery
 embedding_id: 2026-10-14-machine-learning-corrections-target-the-subseasonal-weather
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers report machine-learning corrections that improve weather forecas
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o]] · [[2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools]] · [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]] · [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]]
+**Related:** [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o]] · [[2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools]] · [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]] · [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]]
 <!-- graph:end -->

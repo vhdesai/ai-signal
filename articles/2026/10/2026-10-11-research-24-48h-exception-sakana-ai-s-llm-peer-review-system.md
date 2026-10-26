@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-10-sakana-ai-reports-an-llm-peer-review-system-that-catches-73
 - 2026-10-11-model-openai-24-48h-exception-openai-lists-new-gpt-rosalind
 - 2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag
-- 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
+- 2026-10-24-washington-s-message-to-ai-execs-please-shut-up
 embedding_id: 2026-10-11-research-24-48h-exception-sakana-ai-s-llm-peer-review-system
 event_name: ''
 ---
@@ -36,5 +36,5 @@ RESEARCH 24–48H EXCEPTION Sakana AI’s LLM Peer Review System Catches 73% of 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-10-sakana-ai-reports-an-llm-peer-review-system-that-catches-73]] · [[2026-10-11-model-openai-24-48h-exception-openai-lists-new-gpt-rosalind]] · [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]]
+**Related:** [[2026-10-10-sakana-ai-reports-an-llm-peer-review-system-that-catches-73]] · [[2026-10-11-model-openai-24-48h-exception-openai-lists-new-gpt-rosalind]] · [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag]] · [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys
 - event-acm-cais-2026-acm-cais-2026-tressoir
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
-- 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 embedding_id: 2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers presented Tressoir, a framework that unifies online, offline, an
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys]] · [[event-acm-cais-2026-acm-cais-2026-tressoir]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]]
+**Related:** [[2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys]] · [[event-acm-cais-2026-acm-cais-2026-tressoir]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]]
 <!-- graph:end -->

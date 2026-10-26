@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-- 2026-10-07-subject-daily-ai-news-digest-october-7-2026
+- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 embedding_id: 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
 event_name: ''
 ---
@@ -48,5 +48,5 @@ A Wharton / GBK Collective study cited by The Information found most managers st
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Huawei]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]]
+**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]]
 <!-- graph:end -->

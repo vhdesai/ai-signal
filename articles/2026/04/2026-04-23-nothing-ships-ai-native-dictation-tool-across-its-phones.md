@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
+- 2026-10-24-new-block-s-dessa-brings-full-duplex-voice-ai-onto-local-har
 - 2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model
+- 2026-10-24-block-unveils-a-local-full-duplex-voice-model-for-real-time
 - 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
-- 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
-- 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
 embedding_id: 2026-04-23-nothing-ships-ai-native-dictation-tool-across-its-phones
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Nothing launched an on-device dictation feature powered by a small speech-to-tex
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model]] · [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo]] · [[2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop]] · [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]]
+**Related:** [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-10-24-new-block-s-dessa-brings-full-duplex-voice-ai-onto-local-har]] · [[2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model]] · [[2026-10-24-block-unveils-a-local-full-duplex-voice-model-for-real-time]] · [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo]]
 <!-- graph:end -->

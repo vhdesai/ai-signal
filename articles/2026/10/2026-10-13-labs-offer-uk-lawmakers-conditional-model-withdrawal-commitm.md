@@ -26,11 +26,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners
 - 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 - 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
 - 2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
-- 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 embedding_id: 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
 event_name: ''
 ---
@@ -44,5 +44,5 @@ OpenAI and Anthropic told MPs they would pull models UK security agencies show a
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus]] · [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]]
+**Related:** [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus]] · [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-13-dig-bench-a-benchmark-isolating-scientific-discovery-ability
 - 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
-- 2026-04-15-research-breakthroughs
+- 2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou
 embedding_id: 2026-09-25-explorationbench-measuring-ai-exploration-in-verifiable-alie
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A new benchmark drops AI agents into procedurally defined worlds whose rules are
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-13-dig-bench-a-benchmark-isolating-scientific-discovery-ability]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-04-15-research-breakthroughs]]
+**Related:** [[2026-08-13-dig-bench-a-benchmark-isolating-scientific-discovery-ability]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou]]
 <!-- graph:end -->

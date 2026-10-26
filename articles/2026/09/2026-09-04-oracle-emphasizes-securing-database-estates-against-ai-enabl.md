@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-securing-data-against-ai-enabled-attacks-how-oracle-protects
+- 2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion
 - 2026-08-02-attackers-target-open-source-ai-as-big-tech-embraces-it
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
-- 2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain
 embedding_id: 2026-09-04-oracle-emphasizes-securing-database-estates-against-ai-enabl
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Omdia published an analysis of Oracle's approach to protecting database estates 
 
 **Entities:** [[Oracle]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-securing-data-against-ai-enabled-attacks-how-oracle-protects]] · [[2026-08-02-attackers-target-open-source-ai-as-big-tech-embraces-it]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain]]
+**Related:** [[2026-09-04-securing-data-against-ai-enabled-attacks-how-oracle-protects]] · [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion]] · [[2026-08-02-attackers-target-open-source-ai-as-big-tech-embraces-it]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]]
 <!-- graph:end -->

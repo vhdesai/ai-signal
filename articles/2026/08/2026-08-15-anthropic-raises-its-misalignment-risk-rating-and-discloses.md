@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-15-anthropic-raises-misalignment-risk-rating-discloses-unreleas
 - 2026-08-15-anthropic-raises-its-misalignment-risk-rating-and-shelves-an
+- 2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp
 - 2026-09-01-anthropic-rolls-out-enterprise-frontier-safeguards
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
-- 2026-06-06-anthropic-suffers-multi-model-claude-outage
 embedding_id: 2026-08-15-anthropic-raises-its-misalignment-risk-rating-and-discloses
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic's second company-wide risk report lifts its catastrophic-misalignment 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-15-anthropic-raises-misalignment-risk-rating-discloses-unreleas]] · [[2026-08-15-anthropic-raises-its-misalignment-risk-rating-and-shelves-an]] · [[2026-09-01-anthropic-rolls-out-enterprise-frontier-safeguards]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]]
+**Related:** [[2026-08-15-anthropic-raises-misalignment-risk-rating-discloses-unreleas]] · [[2026-08-15-anthropic-raises-its-misalignment-risk-rating-and-shelves-an]] · [[2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp]] · [[2026-09-01-anthropic-rolls-out-enterprise-frontier-safeguards]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]]
 <!-- graph:end -->

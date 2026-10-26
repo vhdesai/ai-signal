@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s
 - 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
 - 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
+- 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
-- 2026-09-11-notable-arxiv-ml-submissions-dated-friday-11-september
 embedding_id: 2026-08-05-end-to-end-bayesian-marketing-mix-modeling-with-google-merid
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A technical walkthrough builds a complete Bayesian marketing-mix-modeling pipeli
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s]] · [[2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6]] · [[2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-09-11-notable-arxiv-ml-submissions-dated-friday-11-september]]
+**Related:** [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s]] · [[2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6]] · [[2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]]
 <!-- graph:end -->

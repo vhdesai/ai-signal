@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 - 2026-10-12-openai-makes-progress-reducing-chatgpt-delusions
-- 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
+- 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 embedding_id: 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 event_name: ''
 ---
@@ -61,5 +61,5 @@ A reported case of romantic ChatGPT obsession has sharpened concerns over AI com
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]] · [[2026-10-12-openai-makes-progress-reducing-chatgpt-delusions]] · [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th]]
+**Related:** [[2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]] · [[2026-10-12-openai-makes-progress-reducing-chatgpt-delusions]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]]
 <!-- graph:end -->

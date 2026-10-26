@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows
 - 2026-07-24-chatgpt-desktop-voice-mode-now-works-with-chatgpt-work-and-c
 - 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
-- 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
+- 2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi
 embedding_id: 2026-10-11-voice-ai-still-lacks-a-clear-chatgpt-style-adoption-moment-e
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch reports that voice AI executives see strong investment momentum but n
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows]] · [[2026-07-24-chatgpt-desktop-voice-mode-now-works-with-chatgpt-work-and-c]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]] · [[2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop]]
+**Related:** [[2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows]] · [[2026-07-24-chatgpt-desktop-voice-mode-now-works-with-chatgpt-work-and-c]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]] · [[2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi]]
 <!-- graph:end -->

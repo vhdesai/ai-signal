@@ -4,8 +4,8 @@ title: Cognizant and Google Cloud scale a Gemini deployment workforce
 date: '2026-10-22'
 source: CIO Dive
 url_original: null
-url_canonical: https://news.cognizant.com/2026-10-19-Cognizant-and-Google-Cloud-Expand-Alliance-to-Accelerate-Agentic-Enterprise-Transformation
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-22_100251_Inbox_Fw- Daily AI News Digest – October
   22, 2026.md
 content_hash: 9b0641482369bce23b7aa3916a087e7ed3c9a097581a2012e21d0237dbdf265a

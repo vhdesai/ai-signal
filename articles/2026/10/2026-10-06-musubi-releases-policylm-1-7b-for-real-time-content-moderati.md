@@ -19,10 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-24-cross-model-political-preference-findings-raise-governance-a
 - 2026-08-08-mistral-releases-shieldstral-1-0-3b-policy-adaptive-safety-c
+- 2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod
 - 2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
-- 2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g
 embedding_id: 2026-10-06-musubi-releases-policylm-1-7b-for-real-time-content-moderati
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Musubi announced PolicyLM-1.7B, an open-weight lightweight decision model design
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-08-mistral-releases-shieldstral-1-0-3b-policy-adaptive-safety-c]] · [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g]]
+**Related:** [[2026-10-24-cross-model-political-preference-findings-raise-governance-a]] · [[2026-08-08-mistral-releases-shieldstral-1-0-3b-policy-adaptive-safety-c]] · [[2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod]] · [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]]
 <!-- graph:end -->

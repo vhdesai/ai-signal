@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base
+- 2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu
 - 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 - 2026-08-22-anonymous-ox-alpha-model-draws-developers-with-free-1m-token
@@ -37,5 +38,5 @@ OrcaRouter released OrcaCyber Zero 1.5, a hosted cybersecurity model aimed at au
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base]] · [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-08-22-anonymous-ox-alpha-model-draws-developers-with-free-1m-token]]
+**Related:** [[2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base]] · [[2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu]] · [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-08-22-anonymous-ox-alpha-model-draws-developers-with-free-1m-token]]
 <!-- graph:end -->

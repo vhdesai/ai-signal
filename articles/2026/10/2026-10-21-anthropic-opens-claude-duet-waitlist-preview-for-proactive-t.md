@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-22-anthropic-introduces-claude-duet-for-professional-agent-work
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 embedding_id: 2026-10-21-anthropic-opens-claude-duet-waitlist-preview-for-proactive-t
@@ -36,5 +37,5 @@ Anthropic announced a U.S. preview waitlist for Claude Duet focused on longer-ru
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]]
+**Related:** [[2026-10-22-anthropic-introduces-claude-duet-for-professional-agent-work]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]]
 <!-- graph:end -->

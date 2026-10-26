@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-25-marktechpost-s-technical-walkthrough-examines-a-heavily-quan
 - 2026-07-28-multiverse-computing-raises-570m-series-c-at-1-7b-valuation
 - 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
-- 2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads
 embedding_id: 2026-08-25-multiverse-computing-reports-4-bit-compressed-model-matching
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Multiverse Computing published a compression-plus-"healing" technique in which a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-28-multiverse-computing-raises-570m-series-c-at-1-7b-valuation]] · [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads]]
+**Related:** [[2026-10-25-marktechpost-s-technical-walkthrough-examines-a-heavily-quan]] · [[2026-07-28-multiverse-computing-raises-570m-series-c-at-1-7b-valuation]] · [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]]
 <!-- graph:end -->

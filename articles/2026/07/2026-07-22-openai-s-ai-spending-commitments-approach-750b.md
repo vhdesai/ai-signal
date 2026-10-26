@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead
 - 2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion
 - 2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total
 - 2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion
 - 2026-08-10-openai-reportedly-completes-7-billion-employee-tender-offer
-- 2026-07-09-can-ai-answer-the-3-trillion-question
 embedding_id: 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 event_name: ''
 ---
@@ -41,5 +41,5 @@ TechCrunch reports that OpenAI's cumulative compute and infrastructure commitmen
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-08-10-openai-reportedly-completes-7-billion-employee-tender-offer]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]]
+**Related:** [[2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead]] · [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-08-10-openai-reportedly-completes-7-billion-employee-tender-offer]]
 <!-- graph:end -->

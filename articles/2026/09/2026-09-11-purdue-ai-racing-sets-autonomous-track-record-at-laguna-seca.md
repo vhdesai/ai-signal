@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-13-conference-proceedings-published-through-springer-today-high
 - 2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re
 - 2026-07-09-purdue-makes-ai-competency-a-graduation-requirement-across-2
+- 2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou
 embedding_id: 2026-09-11-purdue-ai-racing-sets-autonomous-track-record-at-laguna-seca
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Purdue's student-faculty team ran a 1:27.731 lap, becoming the first autonomous 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]] · [[2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re]] · [[2026-07-09-purdue-makes-ai-competency-a-graduation-requirement-across-2]]
+**Related:** [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]] · [[2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re]] · [[2026-07-09-purdue-makes-ai-competency-a-graduation-requirement-across-2]] · [[2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou]]
 <!-- graph:end -->

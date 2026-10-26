@@ -4,8 +4,8 @@ title: CIOs are being warned that AI may never be cheaper than it is now
 date: '2026-10-22'
 source: '[CIO Dive]'
 url_original: null
-url_canonical: https://fortune.com/2026/08/12/cios-and-ctos-spent-years-lauding-ai-now-with-costs-rising-theyre-putting-limits-on-how-its-used/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-22_065023_Final-Daily-AI-News-Digest.md
 content_hash: 5d9d0617af4515c74b00ef0b5d3f3713a55cb73dff1b7dd90d256422c53d6399
 normalized_title_hash: abfd518f908a3e6b

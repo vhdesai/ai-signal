@@ -1,13 +1,18 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1316
+member_count: 1321
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1316 connected article(s).
+> Auto-generated topic hub. 1321 connected article(s).
 
+- `2026-10-26` [[2026-10-26-ai-valuation-concerns-hit-the-ipo-market-as-sk-hynix-pauses|AI valuation concerns hit the IPO market as SK Hynix pauses Solidigm listing]]
+- `2026-10-25` [[2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp|Anthropic's expected IPO filing could reset transparency expectations for frontier AI economics]]
+- `2026-10-25` [[2026-10-25-anthropic-files-for-an-ipo-turning-a-prospective-disclosure|Anthropic files for an IPO, turning a prospective disclosure into a public-market test]]
+- `2026-10-22` [[2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead|OpenAI is reportedly preparing a new $30B private raise ahead of IPO]]
+- `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15b-days-after-new-u-s-federal-re|DeepSeek reportedly raises $15B days after new U.S. federal restrictions]]
 - `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
 - `2026-10-20` [[2026-10-20-october-19-2026-dealbook|[October 19, 2026] · DealBook]]
 - `2026-10-20` [[2026-10-20-fundingmanufacturingarda-industries-emerges-with-232-million|FUNDINGMANUFACTURINGArda Industries emerges with $232 million for manufacturing AI]]

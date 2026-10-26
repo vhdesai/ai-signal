@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft%20AI%20Independence%20Day
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft%20AI%20Independence%20Day
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: bd08a0d24eccf3ca51887ecff356bacdd9944cab0d63862e5264b91ac36dc6e5
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
 - 2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on
 - 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
-- 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
+- 2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion
 embedding_id: 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information described Microsoft’s effort to demonstrate that its AI platfo
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]]
+**Related:** [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion]]
 <!-- graph:end -->

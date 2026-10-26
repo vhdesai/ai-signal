@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-10-18-taste-bench-shows-agents-still-make-poor-long-term-strategic
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
-- 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
+- 2026-10-24-cross-model-political-preference-findings-raise-governance-a
 embedding_id: 2026-10-18-research-taste-bench-shows-agents-still-make-poor-long-term
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Taste-Bench evaluates strategic decisions during long-running tasks. Even the be
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-18-taste-bench-shows-agents-still-make-poor-long-term-strategic]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]]
+**Related:** [[2026-10-18-taste-bench-shows-agents-still-make-poor-long-term-strategic]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]] · [[2026-10-24-cross-model-political-preference-findings-raise-governance-a]]
 <!-- graph:end -->

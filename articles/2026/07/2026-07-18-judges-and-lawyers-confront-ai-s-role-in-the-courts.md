@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo
 - 2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in
 - 2026-10-04-the-information-ai-agent-hacks-are-setting-up-the-next-legal
 - 2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim
 - 2026-03-28-at-the-axios-ai-dc-summit-industry-leaders-and-legal-experts
-- 2026-08-23-legal-tech-startups-are-repackaging-ai-disruption-in-a-riski
 embedding_id: 2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Axios reports that judges and lawyers are grappling with AI's role in the legal 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in]] · [[2026-10-04-the-information-ai-agent-hacks-are-setting-up-the-next-legal]] · [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim]] · [[2026-03-28-at-the-axios-ai-dc-summit-industry-leaders-and-legal-experts]] · [[2026-08-23-legal-tech-startups-are-repackaging-ai-disruption-in-a-riski]]
+**Related:** [[2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo]] · [[2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in]] · [[2026-10-04-the-information-ai-agent-hacks-are-setting-up-the-next-legal]] · [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim]] · [[2026-03-28-at-the-axios-ai-dc-summit-industry-leaders-and-legal-experts]]
 <!-- graph:end -->

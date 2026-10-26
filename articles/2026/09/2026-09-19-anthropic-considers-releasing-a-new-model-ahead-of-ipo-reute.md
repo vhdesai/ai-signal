@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp
 - 2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the
 - 2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op
 - 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
-- 2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo
 embedding_id: 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reuters reported that Anthropic is considering releasing a new AI model ahead of
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Company Investments]]
-**Related:** [[2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the]] · [[2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo]]
+**Related:** [[2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp]] · [[2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the]] · [[2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]]
 <!-- graph:end -->

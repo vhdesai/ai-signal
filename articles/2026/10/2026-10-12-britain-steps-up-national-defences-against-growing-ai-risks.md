@@ -30,10 +30,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
+- 2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
 - 2026-09-27-daily-ai-news-digest-september-27-2026
-- 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 embedding_id: 2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks
 event_name: ''
 ---
@@ -47,5 +47,5 @@ UK ministers will expand frontier-AI cyber-defence pilots that found over 1,000 
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-09-27-daily-ai-news-digest-september-27-2026]] · [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr]]
+**Related:** [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]] · [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-09-27-daily-ai-news-digest-september-27-2026]]
 <!-- graph:end -->

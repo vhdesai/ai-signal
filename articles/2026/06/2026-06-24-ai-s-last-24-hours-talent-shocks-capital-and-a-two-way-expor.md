@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-07-31-ai-at-the-collision-of-capability-and-reality
 - event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
 - 2026-07-12-july-13-2026
+- 2026-10-22-daily-ai-news-digest-october-24-2026
 - 2026-06-27-daily-ai-news-digest-june-27-2026
-- 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 embedding_id: 2026-06-24-ai-s-last-24-hours-talent-shocks-capital-and-a-two-way-expor
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The past day was defined less by new models than by people, money, and policy. G
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-07-12-july-13-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
+**Related:** [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-07-12-july-13-2026]] · [[2026-10-22-daily-ai-news-digest-october-24-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]]
 <!-- graph:end -->

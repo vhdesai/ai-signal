@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
 - 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
+- 2026-10-24-ai-enabled-attacks-are-accelerating-and-increasing-pressure
 - 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
-- 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 embedding_id: 2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Decrypt reported that AI labs are calling for stronger cyber defenses after demo
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]]
+**Related:** [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]] · [[2026-10-24-ai-enabled-attacks-are-accelerating-and-increasing-pressure]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]]
 <!-- graph:end -->

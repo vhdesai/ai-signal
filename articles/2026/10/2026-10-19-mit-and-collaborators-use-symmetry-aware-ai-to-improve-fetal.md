@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-19-researchmedical-imagingsymmetry-aware-ai-targets-motion-erro
 - 2026-10-19-research-healthcaresymmetry-aware-ai-aims-to-improve-prenata
 - 2026-10-19-why-teaching-ai-about-symmetry-could-make-prenatal-diagnosis
-- 2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d
+- 2026-10-22-mit-introduces-design-software-for-embedding-sensing-into-ev
 embedding_id: 2026-10-19-mit-and-collaborators-use-symmetry-aware-ai-to-improve-fetal
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers at MIT, Boston Children's Hospital, and Inria developed E(3)-Pose, a
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-10-19-symmetry-aware-ai-targets-motion-errors-in-fetal-mri]] · [[2026-10-19-researchmedical-imagingsymmetry-aware-ai-targets-motion-erro]] · [[2026-10-19-research-healthcaresymmetry-aware-ai-aims-to-improve-prenata]] · [[2026-10-19-why-teaching-ai-about-symmetry-could-make-prenatal-diagnosis]] · [[2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d]]
+**Related:** [[2026-10-19-symmetry-aware-ai-targets-motion-errors-in-fetal-mri]] · [[2026-10-19-researchmedical-imagingsymmetry-aware-ai-targets-motion-erro]] · [[2026-10-19-research-healthcaresymmetry-aware-ai-aims-to-improve-prenata]] · [[2026-10-19-why-teaching-ai-about-symmetry-could-make-prenatal-diagnosis]] · [[2026-10-22-mit-introduces-design-software-for-embedding-sensing-into-ev]]
 <!-- graph:end -->

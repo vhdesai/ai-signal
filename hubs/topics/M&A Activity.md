@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 515
+member_count: 517
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 515 connected article(s).
+> Auto-generated topic hub. 517 connected article(s).
 
+- `2026-10-26` [[2026-10-26-enterprise-data-is-emerging-as-a-primary-ai-training-asset|Enterprise data is emerging as a primary AI training asset]]
+- `2026-10-26` [[2026-10-26-companies-workplace-data-becomes-a-contested-ai-training-ass|Companies' workplace data becomes a contested AI training asset]]
 - `2026-10-20` [[2026-10-20-openai-acquires-orchestra-bio-to-deepen-life-sciences-operat|OpenAI acquires Orchestra Bio to deepen life-sciences operations]]
 - `2026-10-18` [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after|Disney agrees to hire most of Character.AI's workforce after bankruptcy filing]]
 - `2026-10-13` [[2026-10-13-openai-pushes-ahead-with-next-model-despite-loop-transformer|OpenAI pushes ahead with next model despite loop-transformer safety concerns and eyes Trail of Bits]]

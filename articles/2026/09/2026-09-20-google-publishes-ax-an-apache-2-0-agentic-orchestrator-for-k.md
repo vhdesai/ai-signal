@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-20-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne
 - 2026-09-21-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne
 - 2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete
+- 2026-10-22-google-cloud-introduces-agent-compute-engine-with-microvm-is
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
-- 2026-08-18-google-open-sources-sam-sovereign-agent-mesh-for-zero-trust
 embedding_id: 2026-09-20-google-publishes-ax-an-apache-2-0-agentic-orchestrator-for-k
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google released AX ("Agent Executor"), an Apache 2.0 distributed runtime that tr
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-20-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne]] · [[2026-09-21-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne]] · [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-08-18-google-open-sources-sam-sovereign-agent-mesh-for-zero-trust]]
+**Related:** [[2026-09-20-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne]] · [[2026-09-21-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne]] · [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete]] · [[2026-10-22-google-cloud-introduces-agent-compute-engine-with-microvm-is]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]]
 <!-- graph:end -->

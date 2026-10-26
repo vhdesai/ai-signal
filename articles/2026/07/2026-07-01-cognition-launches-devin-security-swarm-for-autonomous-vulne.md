@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner
+- 2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu
+- 2026-10-24-cognition-open-sources-a-vulnerability-fix-plugin-for-recent
+- 2026-10-25-marktechpost-reports-cognition-published-open-source-remedia
 - 2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra
-- 2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents
-- 2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete
-- 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 embedding_id: 2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cognition, maker of the Devin coding agent, launched Devin Security Swarm, which
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner]] · [[2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra]] · [[2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents]] · [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete]] · [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]]
+**Related:** [[2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner]] · [[2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu]] · [[2026-10-24-cognition-open-sources-a-vulnerability-fix-plugin-for-recent]] · [[2026-10-25-marktechpost-reports-cognition-published-open-source-remedia]] · [[2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra]]
 <!-- graph:end -->

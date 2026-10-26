@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-23-legal-tech-startups-are-repackaging-ai-disruption-in-a-riski
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 - 2026-05-27-how-to-close-ai-s-accountability-loophole
+- 2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo
 - 2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge
-- 2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal
 embedding_id: 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The FT examines a wave of legal technology startups repackaging general-purpose 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-23-legal-tech-startups-are-repackaging-ai-disruption-in-a-riski]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-05-27-how-to-close-ai-s-accountability-loophole]] · [[2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge]] · [[2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal]]
+**Related:** [[2026-08-23-legal-tech-startups-are-repackaging-ai-disruption-in-a-riski]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-05-27-how-to-close-ai-s-accountability-loophole]] · [[2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo]] · [[2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge]]
 <!-- graph:end -->

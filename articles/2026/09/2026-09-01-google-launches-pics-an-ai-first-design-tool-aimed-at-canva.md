@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi
 - 2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google
 - 2026-09-01-google-launches-google-pics-a-workspace-native-ai-image-crea
+- 2026-10-22-canva-releases-its-first-in-house-image-generation-model
 - 2026-07-08-google-photos-adds-a-new-ai-video-remix-tool
 embedding_id: 2026-09-01-google-launches-pics-an-ai-first-design-tool-aimed-at-canva
 event_name: ''
@@ -39,5 +40,5 @@ Google Pics is a prompt-driven design and image-editing product built into Googl
 
 **Entities:** [[Adobe]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi]] · [[2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google]] · [[2026-09-01-google-launches-google-pics-a-workspace-native-ai-image-crea]] · [[2026-07-08-google-photos-adds-a-new-ai-video-remix-tool]]
+**Related:** [[2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi]] · [[2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google]] · [[2026-09-01-google-launches-google-pics-a-workspace-native-ai-image-crea]] · [[2026-10-22-canva-releases-its-first-in-house-image-generation-model]] · [[2026-07-08-google-photos-adds-a-new-ai-video-remix-tool]]
 <!-- graph:end -->

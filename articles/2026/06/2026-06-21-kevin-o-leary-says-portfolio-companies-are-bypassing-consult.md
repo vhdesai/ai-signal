@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-21-private-equity-deploys-army-of-ai-wonks-to-embed-in-portfoli
 - 2026-09-27-pitchbook-weekend-pitch-should-pe-partners-actually-know-how
 - 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
+- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 - 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
-- 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
 embedding_id: 2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Business Insider reported comments from investor Kevin O'Leary that companies he
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-21-private-equity-deploys-army-of-ai-wonks-to-embed-in-portfoli]] · [[2026-09-27-pitchbook-weekend-pitch-should-pe-partners-actually-know-how]] · [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]] · [[2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep]]
+**Related:** [[2026-08-21-private-equity-deploys-army-of-ai-wonks-to-embed-in-portfoli]] · [[2026-09-27-pitchbook-weekend-pitch-should-pe-partners-actually-know-how]] · [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]]
 <!-- graph:end -->

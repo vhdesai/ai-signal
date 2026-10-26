@@ -4,8 +4,8 @@ title: CIOs are warned that current AI pricing may be a temporary low
 date: '2026-10-22'
 source: CIO Dive
 url_original: null
-url_canonical: https://www.cio.com/article/4097012/new-software-pricing-metrics-will-force-cios-to-change-negotiating-tactics.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-22_100251_Inbox_Fw- Daily AI News Digest – October
   22, 2026.md
 content_hash: d11a0be3fdf1e6e4ba5ba14f2b1193bae09eddbdbc64e531ecf61ac489e447fa

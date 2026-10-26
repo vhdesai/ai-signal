@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 479
+member_count: 481
 ---
 
 # Apple
 
-> Auto-generated entity hub. 479 connected article(s).
+> Auto-generated entity hub. 481 connected article(s).
 
+- `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
+- `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
 - `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]
 - `2026-10-18` [[2026-10-18-oppo-partners-with-manus-to-bring-ai-agents-to-devices|OPPO partners with Manus to bring AI agents to devices]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]

@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-04-apple-approves-first-ai-agent-on-messages-for-business
 related_article_ids:
-- 2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu
-- 2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive
-- 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
+- 2026-10-25-techcrunch-s-roundup-of-text-message-based-agents-shows-a-gr
+- 2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi
+- 2026-10-24-messaging-native-ai-agents-are-expanding-as-a-distribution-m
 embedding_id: 2026-06-04-apple-approves-first-ai-agent-on-messages-for-business-platf
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple approved Poke as the first AI agent on its Messages for Business platform,
 **Entities:** [[Apple]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business]]
-**Related:** [[2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu]] · [[2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive]] · [[2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal]]
+**Related:** [[2026-10-25-techcrunch-s-roundup-of-text-message-based-agents-shows-a-gr]] · [[2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi]] · [[2026-10-24-messaging-native-ai-agents-are-expanding-as-a-distribution-m]]
 <!-- graph:end -->

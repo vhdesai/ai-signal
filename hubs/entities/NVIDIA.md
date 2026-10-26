@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1714
+member_count: 1720
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1714 connected article(s).
+> Auto-generated entity hub. 1720 connected article(s).
 
+- `2026-10-26` [[2026-10-26-honeywell-introduces-forge-plant-cognition-for-refinery-oper|Honeywell introduces Forge Plant Cognition for refinery operations]]
+- `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
+- `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
+- `2026-10-23` [[2026-10-23-openai-says-frontier-training-will-use-cached-or-simulated-w|OpenAI says frontier training will use cached or simulated web instead of live internet]]
+- `2026-10-23` [[2026-10-23-nvidia-linked-microduck-consumer-robots-pass-20-000-preorder|Nvidia-linked Microduck consumer robots pass 20,000 preorders]]
+- `2026-10-23` [[2026-10-23-nvidia-releases-nemotron-3-5-bolt-e4b-for-local-agent-worklo|NVIDIA releases Nemotron 3.5 Bolt E4B for local agent workloads]]
 - `2026-10-21` [[2026-10-21-nvidia-expands-isaac-robotics-assets-for-general-purpose-dev|Nvidia expands Isaac robotics assets for general-purpose development]]
 - `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]
 - `2026-10-20` [[2026-10-20-nvidia-backs-german-startups-and-industrial-ai-collaboration|Nvidia backs German startups and industrial-AI collaboration]]

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-26-two-thirds-of-it-leaders-report-ai-results-only-eight-of-160
+- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 - 2026-07-31-ai-at-the-collision-of-capability-and-reality
 - 2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev
 - 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
-- 2026-09-27-openai-says-80-90-percent-of-its-research-already-targets-gp
 embedding_id: 2026-09-26-two-thirds-of-it-leaders-report-ai-results-but-few-would-int
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At an event with 160 IT VPs, roughly two-thirds raised hands to say they had mea
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-26-two-thirds-of-it-leaders-report-ai-results-only-eight-of-160]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-09-27-openai-says-80-90-percent-of-its-research-already-targets-gp]]
+**Related:** [[2026-09-26-two-thirds-of-it-leaders-report-ai-results-only-eight-of-160]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]]
 <!-- graph:end -->

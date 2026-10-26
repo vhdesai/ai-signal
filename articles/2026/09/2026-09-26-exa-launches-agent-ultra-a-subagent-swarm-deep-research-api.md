@@ -23,6 +23,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-24-anthropic-sandbox-runtime-gains-attention-as-os-level-sandbo
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 - 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
@@ -39,5 +40,5 @@ Agent Ultra is the highest-effort tier of Exa's Agent API, coordinating subagent
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
+**Related:** [[2026-10-24-anthropic-sandbox-runtime-gains-attention-as-os-level-sandbo]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
 <!-- graph:end -->

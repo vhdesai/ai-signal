@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit
 - 2026-08-20-openai-keeps-its-largest-frontier-rl-run-on-hold-over-cyber
+- 2026-10-23-openai-says-frontier-training-will-use-cached-or-simulated-w
 - 2026-09-26-openai-pauses-frontier-training-evaluation-and-tool-use-infe
 embedding_id: 2026-10-12-hardwired-frontier-ai-pause-is-technically-feasible-uc-berke
 event_name: ''
@@ -36,5 +37,5 @@ A 26-researcher working group including UC Berkeley, Princeton, Stanford, Harvar
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit]] · [[2026-08-20-openai-keeps-its-largest-frontier-rl-run-on-hold-over-cyber]] · [[2026-09-26-openai-pauses-frontier-training-evaluation-and-tool-use-infe]]
+**Related:** [[2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit]] · [[2026-08-20-openai-keeps-its-largest-frontier-rl-run-on-hold-over-cyber]] · [[2026-10-23-openai-says-frontier-training-will-use-cached-or-simulated-w]] · [[2026-09-26-openai-pauses-frontier-training-evaluation-and-tool-use-infe]]
 <!-- graph:end -->

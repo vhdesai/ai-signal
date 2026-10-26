@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli
-- 2026-09-11-spacex-signs-1-1b-per-month-ai-compute-deal-with-undisclosed
+- 2026-10-25-spacex-reports-a-roughly-40-billion-gpu-financing-commitment
 embedding_id: 2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m
 event_name: ''
 ---
@@ -44,5 +44,5 @@ The Information reports SpaceX’s AI unit held talks over the summer about leas
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli]] · [[2026-09-11-spacex-signs-1-1b-per-month-ai-compute-deal-with-undisclosed]]
+**Related:** [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli]] · [[2026-10-25-spacex-reports-a-roughly-40-billion-gpu-financing-commitment]]
 <!-- graph:end -->

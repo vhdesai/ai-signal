@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with
 - 2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti
 - 2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork
+- 2026-10-25-marktechpost-reports-cognition-published-open-source-remedia
 - 2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline
-- 2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti
 embedding_id: 2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MarkTechPost published a Crawlee for Python workflow for building web-crawling p
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with]] · [[2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti]] · [[2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]]
+**Related:** [[2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with]] · [[2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti]] · [[2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork]] · [[2026-10-25-marktechpost-reports-cognition-published-open-source-remedia]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]]
 <!-- graph:end -->

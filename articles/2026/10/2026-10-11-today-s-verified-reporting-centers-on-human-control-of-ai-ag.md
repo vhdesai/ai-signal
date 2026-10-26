@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-04-10-practitioners-who-deployed-agentic-ai-pipelines-in-late-2025
-- 2026-10-11-the-digest-prioritizes-original-date-verified-publications-a
+- 2026-10-22-daily-ai-news-digest-october-24-2026
 embedding_id: 2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Today's verified reporting centers on human control of AI agents, independent ev
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-04-10-practitioners-who-deployed-agentic-ai-pipelines-in-late-2025]] · [[2026-10-11-the-digest-prioritizes-original-date-verified-publications-a]]
+**Related:** [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-04-10-practitioners-who-deployed-agentic-ai-pipelines-in-late-2025]] · [[2026-10-22-daily-ai-news-digest-october-24-2026]]
 <!-- graph:end -->

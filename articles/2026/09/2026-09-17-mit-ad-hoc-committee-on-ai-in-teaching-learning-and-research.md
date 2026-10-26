@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 - 2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap
-- 2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s
+- 2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou
 embedding_id: 2026-09-17-mit-ad-hoc-committee-on-ai-in-teaching-learning-and-research
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training, c
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap]] · [[2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s]]
+**Related:** [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap]] · [[2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou]]
 <!-- graph:end -->

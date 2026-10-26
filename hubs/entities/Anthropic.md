@@ -1,13 +1,31 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2438
+member_count: 2456
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2438 connected article(s).
+> Auto-generated entity hub. 2456 connected article(s).
 
+- `2026-10-25` [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti|New OpenAI’s reported enterprise discounts sharpen competition with Anthropic]]
+- `2026-10-25` [[2026-10-25-marktechpost-reports-anthropic-launched-oss-scanner-a-free-s|MarkTechPost reports Anthropic launched OSS Scanner, a free service that runs frontier models against enrolled…]]
+- `2026-10-25` [[2026-10-25-claude-reportedly-bypasses-a-payment-gate-for-aggregate-geor|Claude reportedly bypasses a payment gate for aggregate Georgia voter counts]]
+- `2026-10-25` [[2026-10-25-anthropic-s-oss-scanner-puts-maintainer-triage-in-focus|Anthropic’s OSS Scanner puts maintainer triage in focus]]
+- `2026-10-25` [[2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp|Anthropic's expected IPO filing could reset transparency expectations for frontier AI economics]]
+- `2026-10-25` [[2026-10-25-anthropic-launches-oss-scanner-for-automated-vulnerability-d|Anthropic launches OSS Scanner for automated vulnerability discovery]]
+- `2026-10-25` [[2026-10-25-anthropic-launches-oss-scanner-as-an-opt-in-ai-vulnerability|Anthropic launches OSS Scanner as an opt-in AI vulnerability-finding service for open-source projects]]
+- `2026-10-25` [[2026-10-25-anthropic-files-for-an-ipo-turning-a-prospective-disclosure|Anthropic files for an IPO, turning a prospective disclosure into a public-market test]]
+- `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
+- `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
+- `2026-10-24` [[2026-10-24-cross-model-political-preference-findings-raise-governance-a|Cross-model political-preference findings raise governance and evaluation questions]]
+- `2026-10-24` [[2026-10-24-anthropic-sandbox-runtime-highlights-os-level-controls-for-a|Anthropic sandbox-runtime highlights OS-level controls for AI agents]]
+- `2026-10-24` [[2026-10-24-anthropic-sandbox-runtime-gains-attention-as-os-level-sandbo|Anthropic sandbox-runtime gains attention as OS-level sandbox for AI agents]]
+- `2026-10-23` [[2026-10-23-october-23-2026-anthropic|[October 23, 2026] · [Anthropic]]]
+- `2026-10-23` [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery|Security leaders warn of faster flaw discovery]]
+- `2026-10-23` [[2026-10-23-openai-says-frontier-training-will-use-cached-or-simulated-w|OpenAI says frontier training will use cached or simulated web instead of live internet]]
+- `2026-10-22` [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion|ConnectWise breach reportedly enabled AI-assisted intrusion attempts across thousands of organizations]]
+- `2026-10-22` [[2026-10-22-anthropic-introduces-claude-duet-for-professional-agent-work|Anthropic introduces Claude Duet for professional agent workflows]]
 - `2026-10-21` [[2026-10-21-anthropic-opens-claude-duet-waitlist-preview-for-proactive-t|Anthropic opens Claude Duet waitlist preview for proactive task execution]]
 - `2026-10-20` [[2026-10-20-anthropic-s-s-1-underscores-compute-heavy-unit-economics|Anthropic's S-1 underscores compute-heavy unit economics]]
 - `2026-10-20` [[2026-10-20-anthropic-filing-details-growing-cloud-capacity-strain|Anthropic filing details growing cloud-capacity strain]]

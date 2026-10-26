@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
+- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
+- 2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
-- 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 embedding_id: 2026-10-05-lina-khan-says-ai-companies-are-replaying-big-tech-s-old-pla
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Business Insider reported that former FTC Chair Lina Khan warned AI companies ar
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]]
+**Related:** [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]]
 <!-- graph:end -->

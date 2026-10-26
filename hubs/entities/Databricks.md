@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 163
+member_count: 164
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 163 connected article(s).
+> Auto-generated entity hub. 164 connected article(s).
 
+- `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-14` [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection|DeepMind and Singapore develop local scam detection]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]

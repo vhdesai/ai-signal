@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-22-openai-launches-the-decisions-api-for-low-latency-decision-w
 - 2026-10-09-openai-decisions-api-enters-public-beta-for-typed-low-latenc
 - 2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs
 - 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
 - 2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod
-- 2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents
 embedding_id: 2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI’s Decisions API is in public beta for typed outputs such as predicates,
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-09-openai-decisions-api-enters-public-beta-for-typed-low-latenc]] · [[2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs]] · [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring]] · [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod]] · [[2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents]]
+**Related:** [[2026-10-22-openai-launches-the-decisions-api-for-low-latency-decision-w]] · [[2026-10-09-openai-decisions-api-enters-public-beta-for-typed-low-latenc]] · [[2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs]] · [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring]] · [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod]]
 <!-- graph:end -->

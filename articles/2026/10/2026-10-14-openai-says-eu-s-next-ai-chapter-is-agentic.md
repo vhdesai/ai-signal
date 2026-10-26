@@ -5,7 +5,7 @@ date: '2026-10-14'
 source: OpenAI
 url_original: https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
 url_canonical: https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 38b45b12fe6362a5fd4d3189c6a2a8ca07454adeb1e5774fc81387913d9aba44

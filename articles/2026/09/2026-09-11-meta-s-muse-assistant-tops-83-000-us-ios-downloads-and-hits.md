@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
 - 2026-10-20-meta-s-muse-reaches-10-million-u-s-downloads-in-40-days
 - 2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory
-- 2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t
+- 2026-10-26-meta-s-muse-reaches-10-million-downloads-shifting-focus-to-m
 embedding_id: 2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta's consumer agent surpassed 83,000 US iOS downloads and reached No. 2 on the
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-10-20-meta-s-muse-reaches-10-million-u-s-downloads-in-40-days]] · [[2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory]] · [[2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t]]
+**Related:** [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-10-20-meta-s-muse-reaches-10-million-u-s-downloads-in-40-days]] · [[2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory]] · [[2026-10-26-meta-s-muse-reaches-10-million-downloads-shifting-focus-to-m]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-09-04-intuit-shares-its-agentic-disaster-recovery-architecture
 - 2026-09-04-intuit-shares-agentic-disaster-recovery-architecture-built-a
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
+- 2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu
 embedding_id: 2026-09-04-intuit-puts-a-bedrock-reasoning-layer-above-deterministic-di
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Intuit describes an agent that selects recovery workflows, checks readiness, and
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-04-intuit-shares-its-agentic-disaster-recovery-architecture]] · [[2026-09-04-intuit-shares-agentic-disaster-recovery-architecture-built-a]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]]
+**Related:** [[2026-09-04-intuit-shares-its-agentic-disaster-recovery-architecture]] · [[2026-09-04-intuit-shares-agentic-disaster-recovery-architecture-built-a]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu]]
 <!-- graph:end -->

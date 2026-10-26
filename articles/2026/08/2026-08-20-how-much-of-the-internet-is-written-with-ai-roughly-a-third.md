@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-20-pew-finds-one-in-ten-webpages-shows-signs-of-ai-authorship
 - 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
-- 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
+- 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 embedding_id: 2026-08-20-how-much-of-the-internet-is-written-with-ai-roughly-a-third
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Pew found that about 35% of web pages published after ChatGPT's release show sig
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-20-pew-one-third-of-web-pages-published-since-chatgpt-s-launch]] · [[2026-08-20-pew-finds-one-in-ten-webpages-shows-signs-of-ai-authorship]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]]
+**Related:** [[2026-08-20-pew-one-third-of-web-pages-published-since-chatgpt-s-launch]] · [[2026-08-20-pew-finds-one-in-ten-webpages-shows-signs-of-ai-authorship]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-15-ey-creates-ai-value-realization-office-to-govern-ai-spending
+- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 - 2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning
 - 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value
-- 2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand
 embedding_id: 2026-08-06-ibm-launches-apptio-ai-value-roi-to-connect-ai-spend-to-busi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ IBM introduced Apptio AI Value & ROI (public preview), giving finance and techno
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-15-ey-creates-ai-value-realization-office-to-govern-ai-spending]] · [[2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning]] · [[2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga]] · [[2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value]] · [[2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand]]
+**Related:** [[2026-08-15-ey-creates-ai-value-realization-office-to-govern-ai-spending]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning]] · [[2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga]] · [[2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value]]
 <!-- graph:end -->

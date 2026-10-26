@@ -1,18 +1,58 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4997
+member_count: 5037
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4997 connected article(s).
+> Auto-generated topic hub. 5037 connected article(s).
 
+- `2026-10-26` [[2026-10-26-sk-hynix-pauses-solidigm-s-us-listing-as-ai-valuations-face|SK Hynix pauses Solidigm's US listing as AI valuations face a market test]]
+- `2026-10-26` [[2026-10-26-meta-s-muse-reaches-10-million-downloads-shifting-focus-to-m|Meta's Muse reaches 10 million downloads, shifting focus to monetization quality]]
+- `2026-10-26` [[2026-10-26-meta-s-muse-passes-10-million-users-putting-monetization-in|Meta's Muse passes 10 million users, putting monetization in focus]]
+- `2026-10-26` [[2026-10-26-meta-launches-approximately-35-billion-in-equity-offerings-f|Meta launches approximately $35 billion in equity offerings for its AI expansion]]
+- `2026-10-26` [[2026-10-26-honeywell-introduces-forge-plant-cognition-for-refinery-oper|Honeywell introduces Forge Plant Cognition for refinery operations]]
+- `2026-10-26` [[2026-10-26-ai-valuation-concerns-hit-the-ipo-market-as-sk-hynix-pauses|AI valuation concerns hit the IPO market as SK Hynix pauses Solidigm listing]]
+- `2026-10-25` [[2026-10-25-venture-firms-reach-for-faster-financing-structures-to-back|Venture firms reach for faster financing structures to back AI companies]]
+- `2026-10-25` [[2026-10-25-techcrunch-s-updated-ai-graveyard-tracks-shutdowns-pivots-an|TechCrunch’s updated "AI graveyard" tracks shutdowns, pivots, and rollbacks across startup and big-tech AI products]]
+- `2026-10-25` [[2026-10-25-marktechpost-s-technical-walkthrough-examines-a-heavily-quan|MarkTechPost’s technical walkthrough examines a heavily quantized Qwen3.8-derived model intended to preserve…]]
+- `2026-10-25` [[2026-10-25-marktechpost-reports-cognition-published-open-source-remedia|MarkTechPost reports Cognition published open-source remediation skills for high-severity PHP, Node.js, and…]]
+- `2026-10-25` [[2026-10-25-anthropic-s-oss-scanner-puts-maintainer-triage-in-focus|Anthropic’s OSS Scanner puts maintainer triage in focus]]
+- `2026-10-25` [[2026-10-25-anthropic-launches-oss-scanner-for-automated-vulnerability-d|Anthropic launches OSS Scanner for automated vulnerability discovery]]
+- `2026-10-25` [[2026-10-25-anthropic-files-for-an-ipo-turning-a-prospective-disclosure|Anthropic files for an IPO, turning a prospective disclosure into a public-market test]]
+- `2026-10-25` [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s|AI's financial payoff beyond big tech remains difficult to see in aggregate data]]
+- `2026-10-24` [[2026-10-24-underdog-saluki-27b-spotlights-aggressive-2-bit-compression|Underdog Saluki 27B spotlights aggressive 2-bit compression tradeoffs for tool-calling workloads]]
+- `2026-10-24` [[2026-10-24-underdog-saluki-27b-emphasizes-2-bit-compression-for-tool-ca|Underdog Saluki 27B emphasizes 2-bit compression for tool-calling workloads]]
+- `2026-10-24` [[2026-10-24-the-ai-graveyard-narrative-highlights-rapid-product-churn-ac|The AI graveyard narrative highlights rapid product churn across AI startups and incumbents]]
+- `2026-10-24` [[2026-10-24-the-ai-graveyard-narrative-highlights-faster-shutdown-and-pi|The AI graveyard narrative highlights faster shutdown and pivot cycles]]
+- `2026-10-24` [[2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod|Study finds strong partisan divergence between API-level model recommendations in U.S. midterm race prompts]]
+- `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
+- `2026-10-24` [[2026-10-24-new-block-s-dessa-brings-full-duplex-voice-ai-onto-local-har|New Block’s Dessa brings full-duplex voice AI onto local hardware]]
+- `2026-10-24` [[2026-10-24-microsoft-agensh-surfaces-a-harness-pattern-for-large-multi|Microsoft Agensh surfaces a harness pattern for large multi-agent orchestration]]
+- `2026-10-24` [[2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi|Messaging-native AI agents expand as a no-new-app distribution strategy]]
+- `2026-10-24` [[2026-10-24-messaging-native-ai-agents-are-expanding-as-a-distribution-m|Messaging-native AI agents are expanding as a distribution model]]
+- `2026-10-24` [[2026-10-24-cross-model-political-preference-findings-raise-governance-a|Cross-model political-preference findings raise governance and evaluation questions]]
+- `2026-10-24` [[2026-10-24-cognition-open-sources-a-vulnerability-fix-plugin-for-recent|Cognition open-sources a vulnerability-fix plugin for recent critical PHP, Node, and GitLab issues]]
+- `2026-10-24` [[2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu|Cognition details Devin vulnerability remediation across plugin and CI paths]]
+- `2026-10-24` [[2026-10-24-block-s-new-voice-model-sounds-eerily-human|Block’s new voice model sounds eerily human]]
+- `2026-10-24` [[2026-10-24-block-unveils-a-local-full-duplex-voice-model-for-real-time|Block unveils a local full-duplex voice model for real-time interaction]]
+- `2026-10-24` [[2026-10-24-block-unveils-a-full-duplex-voice-model-designed-to-run-loca|Block unveils a full-duplex voice model designed to run locally]]
+- `2026-10-24` [[2026-10-24-anthropic-sandbox-runtime-highlights-os-level-controls-for-a|Anthropic sandbox-runtime highlights OS-level controls for AI agents]]
+- `2026-10-24` [[2026-10-24-anthropic-sandbox-runtime-gains-attention-as-os-level-sandbo|Anthropic sandbox-runtime gains attention as OS-level sandbox for AI agents]]
+- `2026-10-23` [[2026-10-23-nvidia-linked-microduck-consumer-robots-pass-20-000-preorder|Nvidia-linked Microduck consumer robots pass 20,000 preorders]]
+- `2026-10-23` [[2026-10-23-daily-ai-news-digest-october-25-2026|Daily AI News Digest – October 25, 2026]]
+- `2026-10-22` [[2026-10-22-uber-expands-chatgpt-work-from-pilot-to-all-30-000-employees|Uber expands ChatGPT Work from pilot to all 30,000 employees]]
+- `2026-10-22` [[2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead|OpenAI is reportedly preparing a new $30B private raise ahead of IPO]]
 - `2026-10-22` [[2026-10-22-meta-reshapes-financing-as-ai-spend-surges-and-muse-monetiza|Meta reshapes financing as AI spend surges and Muse monetization accelerates]]
 - `2026-10-22` [[2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr|Japanese analysis links Chinese AI tooling to a broader intrusion campaign]]
+- `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15b-days-after-new-u-s-federal-re|DeepSeek reportedly raises $15B days after new U.S. federal restrictions]]
 - `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
+- `2026-10-22` [[2026-10-22-daily-ai-news-digest-october-24-2026|Daily AI News Digest – October 24, 2026]]
 - `2026-10-22` [[2026-10-22-cognizant-to-train-18-000-google-cloud-ai-specialists|Cognizant to train 18,000 Google Cloud AI specialists]]
 - `2026-10-22` [[2026-10-22-cognizant-and-google-cloud-scale-a-gemini-deployment-workfor|Cognizant and Google Cloud scale a Gemini deployment workforce]]
+- `2026-10-22` [[2026-10-22-anthropic-introduces-claude-duet-for-professional-agent-work|Anthropic introduces Claude Duet for professional agent workflows]]
+- `2026-10-22` [[2026-10-22-1password-launches-delegated-agent-login-without-exposing-us|1Password launches delegated agent login without exposing user passwords]]
 - `2026-10-21` [[2026-10-21-october-22-2026-dealbook|[October 22, 2026] · DealBook]]
 - `2026-10-21` [[2026-10-21-the-kraft-group-is-treating-trust-as-a-core-enterprise-ai-ro|The Kraft Group is treating trust as a core enterprise AI rollout lever]]
 - `2026-10-21` [[2026-10-21-robotics-and-physical-ai-funding-accelerates-sharply|Robotics and physical-AI funding accelerates sharply]]

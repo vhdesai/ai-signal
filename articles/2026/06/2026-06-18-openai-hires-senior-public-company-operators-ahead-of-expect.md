@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 - 2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential
-- 2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving
+- 2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead
 embedding_id: 2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect
 event_name: ''
 ---
@@ -41,5 +41,5 @@ TechCrunch reported that OpenAI is adding experienced corporate leaders as it pr
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential]] · [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]]
+**Related:** [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential]] · [[2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead]]
 <!-- graph:end -->

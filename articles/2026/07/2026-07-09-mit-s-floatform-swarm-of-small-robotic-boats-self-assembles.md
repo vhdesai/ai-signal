@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-mit-unveils-floatform-swarms-of-tiny-robot-boats-that-self-a
+- 2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou
 - 2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot
-- 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
 embedding_id: 2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles
 event_name: ''
 ---
@@ -35,5 +35,5 @@ MIT CSAIL and Senseable City Lab researchers (labs of Daniela Rus and Carlo Ratt
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-mit-unveils-floatform-swarms-of-tiny-robot-boats-that-self-a]] · [[2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]]
+**Related:** [[2026-07-09-mit-unveils-floatform-swarms-of-tiny-robot-boats-that-self-a]] · [[2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou]] · [[2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot]]
 <!-- graph:end -->

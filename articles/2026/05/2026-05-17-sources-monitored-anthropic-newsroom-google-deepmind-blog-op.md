@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu
+- 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 - 2026-04-20-daily-ai-news-digest-prepared-april-20-2026
 - 2026-10-01-reports-cover-openai-departures-over-information-handling-al
 - 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
-- 2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open
 embedding_id: 2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Sources monitored: Anthropic Newsroom · Google DeepMind Blog · OpenAI Blog · 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu]] · [[2026-04-20-daily-ai-news-digest-prepared-april-20-2026]] · [[2026-10-01-reports-cover-openai-departures-over-information-handling-al]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open]]
+**Related:** [[2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-04-20-daily-ai-news-digest-prepared-april-20-2026]] · [[2026-10-01-reports-cover-openai-departures-over-information-handling-al]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo
+- 2026-10-23-nvidia-releases-nemotron-3-5-bolt-e4b-for-local-agent-worklo
 - 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
 - 2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai
-- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 embedding_id: 2026-10-19-nvidia-expands-nemotron-with-enterprise-and-edge-models-for
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA released Nemotron 3.5 Super VL, an open 120-billion-parameter model for e
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]]
+**Related:** [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo]] · [[2026-10-23-nvidia-releases-nemotron-3-5-bolt-e4b-for-local-agent-worklo]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai]]
 <!-- graph:end -->

@@ -25,11 +25,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
 - 2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a
 - 2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning
-- 2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re
 embedding_id: 2026-08-24-carnegie-mellon-ai-is-showing-a-revenue-payoff
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Carnegie Mellon research indicates that AI is beginning to demonstrate measurabl
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[Perplexity]]
 **Topics:** [[Model Breakthroughs]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off]] · [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a]] · [[2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]]
+**Related:** [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off]] · [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a]] · [[2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning]]
 <!-- graph:end -->

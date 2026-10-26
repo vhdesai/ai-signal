@@ -1,15 +1,38 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2303
+member_count: 2326
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2303 connected article(s).
+> Auto-generated topic hub. 2326 connected article(s).
 
+- `2026-10-26` [[2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo|Big Tech's litigation exposure offers a warning for AI deployment]]
+- `2026-10-25` [[2026-10-25-techcrunch-s-roundup-of-text-message-based-agents-shows-a-gr|TechCrunch’s roundup of text-message-based agents shows a growing competitive layer delivered over SMS/iMessage/RCS…]]
+- `2026-10-25` [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti|New OpenAI’s reported enterprise discounts sharpen competition with Anthropic]]
+- `2026-10-25` [[2026-10-25-marktechpost-reports-anthropic-launched-oss-scanner-a-free-s|MarkTechPost reports Anthropic launched OSS Scanner, a free service that runs frontier models against enrolled…]]
+- `2026-10-25` [[2026-10-25-claude-reportedly-bypasses-a-payment-gate-for-aggregate-geor|Claude reportedly bypasses a payment gate for aggregate Georgia voter counts]]
+- `2026-10-25` [[2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp|Anthropic's expected IPO filing could reset transparency expectations for frontier AI economics]]
+- `2026-10-25` [[2026-10-25-ai-venture-financing-is-becoming-faster-and-structurally-mor|AI venture financing is becoming faster and structurally more complex]]
+- `2026-10-24` [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up|Washington's message to AI execs: Please shut up]]
+- `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
+- `2026-10-24` [[2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod|Study finds strong partisan divergence between API-level model recommendations in U.S. midterm race prompts]]
+- `2026-10-24` [[2026-10-24-rapid-model-progress-is-aging-benchmark-assumptions-faster-t|Rapid model progress is aging benchmark assumptions faster than expected]]
+- `2026-10-24` [[2026-10-24-new-block-s-dessa-brings-full-duplex-voice-ai-onto-local-har|New Block’s Dessa brings full-duplex voice AI onto local hardware]]
+- `2026-10-24` [[2026-10-24-forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s|Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.]]
+- `2026-10-24` [[2026-10-24-cross-model-political-preference-findings-raise-governance-a|Cross-model political-preference findings raise governance and evaluation questions]]
+- `2026-10-24` [[2026-10-24-block-s-new-voice-model-sounds-eerily-human|Block’s new voice model sounds eerily human]]
+- `2026-10-24` [[2026-10-24-block-unveils-a-local-full-duplex-voice-model-for-real-time|Block unveils a local full-duplex voice model for real-time interaction]]
+- `2026-10-24` [[2026-10-24-block-unveils-a-full-duplex-voice-model-designed-to-run-loca|Block unveils a full-duplex voice model designed to run locally]]
+- `2026-10-24` [[2026-10-24-ai-enabled-attacks-are-accelerating-and-increasing-pressure|AI-enabled attacks are accelerating and increasing pressure on internet defenses]]
+- `2026-10-24` [[2026-10-24-ai-assisted-attacks-increase-the-burden-on-internet-defender|AI-assisted attacks increase the burden on internet defenders]]
+- `2026-10-23` [[2026-10-23-openai-says-frontier-training-will-use-cached-simulated-web|OpenAI says frontier training will use cached/simulated web instead of live internet]]
+- `2026-10-23` [[2026-10-23-openai-says-frontier-training-will-use-cached-or-simulated-w|OpenAI says frontier training will use cached or simulated web instead of live internet]]
+- `2026-10-23` [[2026-10-23-openai-and-poland-s-nask-announce-partnership-on-ai-safety-a|OpenAI and Poland's NASK announce partnership on AI safety and security research]]
 - `2026-10-22` [[2026-10-22-ibm-releases-granite-speech-5-0-2b-under-apache-2-0|IBM releases Granite Speech 5.0 2B under Apache 2.0]]
 - `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
+- `2026-10-22` [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion|ConnectWise breach reportedly enabled AI-assisted intrusion attempts across thousands of organizations]]
 - `2026-10-22` [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane|Chinese AI agent reportedly linked to cyberattacks on Japanese companies]]
 - `2026-10-22` [[2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p|AI-assisted discovery of critical PHP flaws triggers broad patch urgency]]
 - `2026-10-21` [[2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin|Walmart opens an agent gateway while rivals continue blocking shopping bots]]

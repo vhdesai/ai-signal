@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l
 - 2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs
+- 2026-10-22-openai-launches-the-decisions-api-for-low-latency-decision-w
 - 2026-09-10-openai-opens-the-agents-api-in-public-beta
 - 2026-06-20-multiple-developers-reported-markedly-different-performance
 embedding_id: 2026-10-09-openai-decisions-api-enters-public-beta-for-typed-low-latenc
@@ -38,5 +39,5 @@ OpenAI's Decisions API is in public beta and is designed to convert text or imag
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l]] · [[2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs]] · [[2026-09-10-openai-opens-the-agents-api-in-public-beta]] · [[2026-06-20-multiple-developers-reported-markedly-different-performance]]
+**Related:** [[2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l]] · [[2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs]] · [[2026-10-22-openai-launches-the-decisions-api-for-low-latency-decision-w]] · [[2026-09-10-openai-opens-the-agents-api-in-public-beta]] · [[2026-06-20-multiple-developers-reported-markedly-different-performance]]
 <!-- graph:end -->

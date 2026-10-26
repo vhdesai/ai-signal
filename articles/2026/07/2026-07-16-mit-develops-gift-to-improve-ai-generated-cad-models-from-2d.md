@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-01-instructmesh-helps-users-repair-generated-designs-before-fab
 - 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
 - 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
-- 2026-08-27-mit-framework-pushes-protein-design-beyond-naturally-occurri
+- 2026-10-22-mit-introduces-design-software-for-embedding-sensing-into-ev
 embedding_id: 2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT researchers introduced GIFT, a framework that helps vision-language models c
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-10-01-instructmesh-helps-users-repair-generated-designs-before-fab]] · [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]] · [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat]] · [[2026-08-27-mit-framework-pushes-protein-design-beyond-naturally-occurri]]
+**Related:** [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-10-01-instructmesh-helps-users-repair-generated-designs-before-fab]] · [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]] · [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat]] · [[2026-10-22-mit-introduces-design-software-for-embedding-sensing-into-ev]]
 <!-- graph:end -->

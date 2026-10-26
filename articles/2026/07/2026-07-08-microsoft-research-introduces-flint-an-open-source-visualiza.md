@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
+- 2026-10-24-microsoft-open-sources-agensh-a-decentralized-harness-tested
 - 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
-- 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 embedding_id: 2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft Research released Flint, an open-source visualization language that le
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
+**Related:** [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-10-24-microsoft-open-sources-agensh-a-decentralized-harness-tested]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers]]
 <!-- graph:end -->

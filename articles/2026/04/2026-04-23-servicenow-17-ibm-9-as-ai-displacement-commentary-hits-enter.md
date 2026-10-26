@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to
 - 2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv
 - 2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin
+- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 - 2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in
-- 2026-08-16-silver-lake-workday-talks-signal-potential-end-to-ai-driven
 embedding_id: 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
 event_name: ''
 ---
@@ -38,5 +38,5 @@ ServiceNow shares fell 17% and IBM dropped 9% after earnings-call commentary sug
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to]] · [[2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv]] · [[2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin]] · [[2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in]] · [[2026-08-16-silver-lake-workday-talks-signal-potential-end-to-ai-driven]]
+**Related:** [[2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to]] · [[2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv]] · [[2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in]]
 <!-- graph:end -->

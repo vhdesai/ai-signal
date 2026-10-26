@@ -1,15 +1,55 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3575
+member_count: 3615
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3575 connected article(s).
+> Auto-generated topic hub. 3615 connected article(s).
 
+- `2026-10-25` [[2026-10-25-techcrunch-reports-on-a-convovo-study-led-by-a-cornell-affil|TechCrunch reports on a Convovo study led by a Cornell-affiliated researcher examining forced-choice election…]]
+- `2026-10-25` [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti|New OpenAI’s reported enterprise discounts sharpen competition with Anthropic]]
+- `2026-10-25` [[2026-10-25-marktechpost-s-technical-walkthrough-examines-a-heavily-quan|MarkTechPost’s technical walkthrough examines a heavily quantized Qwen3.8-derived model intended to preserve…]]
+- `2026-10-25` [[2026-10-25-marktechpost-reports-microsoft-research-released-agensh-a-mu|MarkTechPost reports Microsoft Research released Agensh, a multi-agent harness designed to scale coding teams up to…]]
+- `2026-10-25` [[2026-10-25-marktechpost-reports-anthropic-launched-oss-scanner-a-free-s|MarkTechPost reports Anthropic launched OSS Scanner, a free service that runs frontier models against enrolled…]]
+- `2026-10-25` [[2026-10-25-block-introduced-a-voice-model-it-says-can-run-locally-on-hi|Block introduced a voice model it says can run locally on high-end consumer hardware while speaking and listening…]]
+- `2026-10-25` [[2026-10-25-anthropic-launches-oss-scanner-for-automated-vulnerability-d|Anthropic launches OSS Scanner for automated vulnerability discovery]]
+- `2026-10-24` [[2026-10-24-underdog-saluki-27b-spotlights-aggressive-2-bit-compression|Underdog Saluki 27B spotlights aggressive 2-bit compression tradeoffs for tool-calling workloads]]
+- `2026-10-24` [[2026-10-24-underdog-saluki-27b-emphasizes-2-bit-compression-for-tool-ca|Underdog Saluki 27B emphasizes 2-bit compression for tool-calling workloads]]
+- `2026-10-24` [[2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod|Study finds strong partisan divergence between API-level model recommendations in U.S. midterm race prompts]]
+- `2026-10-24` [[2026-10-24-once-difficult-math-questions-show-why-ai-benchmarks-need-re|Once-difficult math questions show why AI benchmarks need regular renewal]]
+- `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
+- `2026-10-24` [[2026-10-24-new-block-s-dessa-brings-full-duplex-voice-ai-onto-local-har|New Block’s Dessa brings full-duplex voice AI onto local hardware]]
+- `2026-10-24` [[2026-10-24-microsoft-open-sources-agensh-a-decentralized-harness-tested|Microsoft open-sources Agensh, a decentralized harness tested up to 1,024 coding agents]]
+- `2026-10-24` [[2026-10-24-messaging-native-ai-agents-are-expanding-as-a-distribution-m|Messaging-native AI agents are expanding as a distribution model]]
+- `2026-10-24` [[2026-10-24-kimi-k3-1-pro-launches|Kimi K3.1 Pro launches]]
+- `2026-10-24` [[2026-10-24-forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s|Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.]]
+- `2026-10-24` [[2026-10-24-cross-model-political-preference-findings-raise-governance-a|Cross-model political-preference findings raise governance and evaluation questions]]
+- `2026-10-24` [[2026-10-24-block-s-new-voice-model-sounds-eerily-human|Block’s new voice model sounds eerily human]]
+- `2026-10-24` [[2026-10-24-block-s-local-full-duplex-voice-model-points-toward-lower-la|Block's local, full-duplex voice model points toward lower-latency assistants]]
+- `2026-10-24` [[2026-10-24-block-s-full-duplex-local-voice-model-points-to-lower-latenc|Block's full-duplex local voice model points to lower-latency assistant economics]]
+- `2026-10-24` [[2026-10-24-block-unveils-a-local-full-duplex-voice-model-for-real-time|Block unveils a local full-duplex voice model for real-time interaction]]
+- `2026-10-24` [[2026-10-24-block-unveils-a-full-duplex-voice-model-designed-to-run-loca|Block unveils a full-duplex voice model designed to run locally]]
+- `2026-10-23` [[2026-10-23-october-23-2026-anthropic|[October 23, 2026] · [Anthropic]]]
+- `2026-10-23` [[2026-10-23-virginia-directs-ai-related-cyber-response-planning|Virginia directs AI-related cyber-response planning]]
+- `2026-10-23` [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery|Security leaders warn of faster flaw discovery]]
+- `2026-10-23` [[2026-10-23-openai-separates-frontier-training-from-the-live-web|OpenAI separates frontier training from the live web]]
+- `2026-10-23` [[2026-10-23-nvidia-releases-nemotron-3-5-bolt-e4b-for-local-agent-worklo|NVIDIA releases Nemotron 3.5 Bolt E4B for local agent workloads]]
+- `2026-10-23` [[2026-10-23-moonshot-ai-releases-kimi-k3-1-pro-with-1m-token-context|Moonshot AI releases Kimi K3.1 Pro with 1M-token context]]
+- `2026-10-23` [[2026-10-23-kyutai-releases-cadre-video-autoencoders-to-reduce-world-mod|Kyutai releases CADRE video autoencoders to reduce world-model latency]]
+- `2026-10-23` [[2026-10-23-kyutai-releases-cadre-video-autoencoders-aimed-at-lower-inte|Kyutai releases CADRE video autoencoders aimed at lower interactive world-model lag]]
+- `2026-10-23` [[2026-10-23-daily-ai-news-digest-october-25-2026|Daily AI News Digest – October 25, 2026]]
+- `2026-10-23` [[2026-10-23-banks-plan-for-severe-ai-disruptions|Banks plan for severe AI disruptions]]
+- `2026-10-23` [[2026-10-23-aws-commitments-extend-through-2027|AWS commitments extend through 2027]]
+- `2026-10-22` [[2026-10-22-openai-launches-the-decisions-api-for-low-latency-decision-w|OpenAI launches the Decisions API for low-latency decision workflows]]
+- `2026-10-22` [[2026-10-22-microsoft-reports-ai-diagnostic-gains-on-complex-cases-in-sc|Microsoft reports AI diagnostic gains on complex cases in Science-backed evaluation]]
+- `2026-10-22` [[2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou|MIT researchers report unscripted play behavior in autonomous AI-agent island experiments]]
+- `2026-10-22` [[2026-10-22-mit-introduces-design-software-for-embedding-sensing-into-ev|MIT introduces design software for embedding sensing into everyday fabricated objects]]
 - `2026-10-22` [[2026-10-22-ibm-releases-granite-speech-5-0-2b-under-apache-2-0|IBM releases Granite Speech 5.0 2B under Apache 2.0]]
 - `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
+- `2026-10-22` [[2026-10-22-daily-ai-news-digest-october-24-2026|Daily AI News Digest – October 24, 2026]]
+- `2026-10-22` [[2026-10-22-canva-releases-its-first-in-house-image-generation-model|Canva releases its first in-house image generation model]]
 - `2026-10-22` [[2026-10-22-cios-are-warned-that-current-ai-pricing-may-be-a-temporary-l|CIOs are warned that current AI pricing may be a temporary low]]
 - `2026-10-22` [[2026-10-22-ai-assisted-analysis-surfaced-a-critical-php-vulnerability-w|AI-assisted analysis surfaced a critical PHP vulnerability with broad web impact]]
 - `2026-10-21` [[2026-10-21-spacex-cloud-demand-from-ai-labs-highlights-persistent-capac|SpaceX cloud demand from AI labs highlights persistent capacity pressure]]

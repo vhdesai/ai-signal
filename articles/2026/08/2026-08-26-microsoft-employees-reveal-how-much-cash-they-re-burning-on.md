@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
 - 2026-08-26-microsoft-is-leaving-investors-flying-blind-on-its-ai-busine
 - 2026-08-26-microsoft-leaving-investors-flying-blind-on-ai-businesses
+- 2026-10-26-companies-workplace-data-becomes-a-contested-ai-training-ass
 - 2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing
-- 2026-08-29-the-a-i-token-tax-how-ai-costs-are-reshaping-enterprise-budg
 embedding_id: 2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on
 event_name: ''
 ---
@@ -39,5 +39,5 @@ BI viewed an internal spreadsheet showing how much Microsoft employees are spend
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-08-26-microsoft-is-leaving-investors-flying-blind-on-its-ai-busine]] · [[2026-08-26-microsoft-leaving-investors-flying-blind-on-ai-businesses]] · [[2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing]] · [[2026-08-29-the-a-i-token-tax-how-ai-costs-are-reshaping-enterprise-budg]]
+**Related:** [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-08-26-microsoft-is-leaving-investors-flying-blind-on-its-ai-busine]] · [[2026-08-26-microsoft-leaving-investors-flying-blind-on-ai-businesses]] · [[2026-10-26-companies-workplace-data-becomes-a-contested-ai-training-ass]] · [[2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing]]
 <!-- graph:end -->

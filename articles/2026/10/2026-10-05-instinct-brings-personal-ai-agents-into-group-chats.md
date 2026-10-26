@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-24-messaging-native-ai-agents-are-expanding-as-a-distribution-m
+- 2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi
 - 2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
 - 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
 - 2026-09-25-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
-- 2026-10-15-new-research-reports-that-personal-ai-agents-can-help-networ
-- 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
 embedding_id: 2026-10-05-instinct-brings-personal-ai-agents-into-group-chats
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Instinct launched group chats where friends can use an AI agent together for tra
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-09-25-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-10-15-new-research-reports-that-personal-ai-agents-can-help-networ]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]]
+**Related:** [[2026-10-24-messaging-native-ai-agents-are-expanding-as-a-distribution-m]] · [[2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi]] · [[2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-09-25-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: Axios
 url_original: https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade
 url_canonical: https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-08_061755_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 0e556aa9c8cf1f03dfb9d251fe5d0bcaa62049dccdf8c68955a77b1ecd91cb0e
@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
+- 2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo
 - 2026-05-03-ai-generated-actors-and-scripts-now-ineligible-for-oscar-nom
-- 2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s
 embedding_id: 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Axios reports that any suggestion of generative AI use has become a severe reput
 
 **Entities:** [[Amazon]] · [[Databricks]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-03-ai-generated-actors-and-scripts-now-ineligible-for-oscar-nom]] · [[2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s]]
+**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo]] · [[2026-05-03-ai-generated-actors-and-scripts-now-ineligible-for-oscar-nom]]
 <!-- graph:end -->

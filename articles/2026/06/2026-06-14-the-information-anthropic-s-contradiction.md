@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp
 - 2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p
 - 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s
 - 2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i
-- 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
 embedding_id: 2026-06-14-the-information-anthropic-s-contradiction
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information's briefing highlighted the contradiction at the heart of Anthrop
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p]] · [[2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s]] · [[2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]]
+**Related:** [[2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp]] · [[2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p]] · [[2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s]] · [[2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i]]
 <!-- graph:end -->

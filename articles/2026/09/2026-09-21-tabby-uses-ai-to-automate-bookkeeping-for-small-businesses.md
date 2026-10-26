@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
 - 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
+- 2026-10-24-the-ai-graveyard-narrative-highlights-faster-shutdown-and-pi
 - 2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck
-- 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
-- 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
+- 2026-10-25-techcrunch-s-updated-ai-graveyard-tracks-shutdowns-pivots-an
 embedding_id: 2026-09-21-tabby-uses-ai-to-automate-bookkeeping-for-small-businesses
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch profiled Tabby, an AI bookkeeping startup built by a former accountan
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck]] · [[2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]]
+**Related:** [[2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-10-24-the-ai-graveyard-narrative-highlights-faster-shutdown-and-pi]] · [[2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck]] · [[2026-10-25-techcrunch-s-updated-ai-graveyard-tracks-shutdowns-pivots-an]]
 <!-- graph:end -->

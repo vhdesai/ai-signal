@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion
 - 2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent
 - 2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy
 - 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
 - 2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
-- 2026-10-18-enterprises-adopting-ai-agents-discover-they-now-manage-digi
 embedding_id: 2026-10-15-new-research-reports-that-personal-ai-agents-can-help-networ
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Publication window: items published Oct 14 – Oct 15, 2026 (last 24 hours). Com
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent]] · [[2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]] · [[2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-10-18-enterprises-adopting-ai-agents-discover-they-now-manage-digi]]
+**Related:** [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion]] · [[2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent]] · [[2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]] · [[2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]]
 <!-- graph:end -->

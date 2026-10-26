@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
+- 2026-10-24-anthropic-sandbox-runtime-gains-attention-as-os-level-sandbo
 - 2026-09-12-openai-s-agents-api-enters-public-beta-renting-out-the-codex
-- 2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c
-- 2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i
+- 2026-10-24-anthropic-sandbox-runtime-highlights-os-level-controls-for-a
 embedding_id: 2026-08-27-comparative-review-of-agent-sandbox-platforms-normalizes-col
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A technical comparison of the agent sandbox platforms most teams shortlist — E
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-09-12-openai-s-agents-api-enters-public-beta-renting-out-the-codex]] · [[2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c]] · [[2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i]]
+**Related:** [[2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-10-24-anthropic-sandbox-runtime-gains-attention-as-os-level-sandbo]] · [[2026-09-12-openai-s-agents-api-enters-public-beta-renting-out-the-codex]] · [[2026-10-24-anthropic-sandbox-runtime-highlights-os-level-controls-for-a]]
 <!-- graph:end -->

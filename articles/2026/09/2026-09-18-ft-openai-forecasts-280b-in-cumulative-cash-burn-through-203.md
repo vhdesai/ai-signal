@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-21-both-openai-and-anthropic-are-approaching-public-markets-at
 - 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
+- 2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 embedding_id: 2026-09-18-ft-openai-forecasts-280b-in-cumulative-cash-burn-through-203
 event_name: ''
@@ -39,5 +40,5 @@ The Financial Times reports OpenAI is projecting close to $280 billion in cumula
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-06-21-both-openai-and-anthropic-are-approaching-public-markets-at]] · [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
+**Related:** [[2026-06-21-both-openai-and-anthropic-are-approaching-public-markets-at]] · [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]] · [[2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
 <!-- graph:end -->

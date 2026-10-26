@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-23-openai-blog-focused-on-new-models-and-evaluation-principles
 - 2026-07-16-google-ai-mode-adds-app-integrations-for-instacart-canva-and
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
+- 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 - 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
-- 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 embedding_id: 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google today updated its AI Mode and AI Overviews products to surface firsthand 
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-23-openai-blog-focused-on-new-models-and-evaluation-principles]] · [[2026-07-16-google-ai-mode-adds-app-integrations-for-instacart-canva-and]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]]
+**Related:** [[2026-09-23-openai-blog-focused-on-new-models-and-evaluation-principles]] · [[2026-07-16-google-ai-mode-adds-app-integrations-for-instacart-canva-and]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]]
 <!-- graph:end -->

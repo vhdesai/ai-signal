@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-moonshot-s-kimi-k3-intensifies-the-open-weight-model-race
+- 2026-10-24-kimi-k3-1-pro-launches
 - 2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-rel
 - 2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-eve
 - 2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model
-- 2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open
 embedding_id: 2026-07-21-moonshot-ai-suspends-new-kimi-k3-subscriptions-as-demand-ove
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Moonshot suspended new K3 subscriptions ~48 hours after launch as demand exceede
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-27-moonshot-s-kimi-k3-intensifies-the-open-weight-model-race]] · [[2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-rel]] · [[2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-eve]] · [[2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model]] · [[2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open]]
+**Related:** [[2026-07-27-moonshot-s-kimi-k3-intensifies-the-open-weight-model-race]] · [[2026-10-24-kimi-k3-1-pro-launches]] · [[2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-rel]] · [[2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-eve]] · [[2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model]]
 <!-- graph:end -->

@@ -1,13 +1,30 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2778
+member_count: 2795
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2778 connected article(s).
+> Auto-generated entity hub. 2795 connected article(s).
 
+- `2026-10-25` [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti|New OpenAI’s reported enterprise discounts sharpen competition with Anthropic]]
+- `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
+- `2026-10-24` [[2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod|Study finds strong partisan divergence between API-level model recommendations in U.S. midterm race prompts]]
+- `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
+- `2026-10-24` [[2026-10-24-forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s|Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.]]
+- `2026-10-24` [[2026-10-24-cross-model-political-preference-findings-raise-governance-a|Cross-model political-preference findings raise governance and evaluation questions]]
+- `2026-10-24` [[2026-10-24-block-s-new-voice-model-sounds-eerily-human|Block’s new voice model sounds eerily human]]
+- `2026-10-23` [[2026-10-23-you-com-launches-inference-router-for-open-weight-and-fronti|You.com launches Inference Router for open-weight and frontier-model access]]
+- `2026-10-23` [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery|Security leaders warn of faster flaw discovery]]
+- `2026-10-23` [[2026-10-23-openai-separates-frontier-training-from-the-live-web|OpenAI separates frontier training from the live web]]
+- `2026-10-23` [[2026-10-23-openai-says-frontier-training-will-use-cached-simulated-web|OpenAI says frontier training will use cached/simulated web instead of live internet]]
+- `2026-10-23` [[2026-10-23-openai-says-frontier-training-will-use-cached-or-simulated-w|OpenAI says frontier training will use cached or simulated web instead of live internet]]
+- `2026-10-23` [[2026-10-23-openai-details-storage-architecture-scaling-for-1b-chatgpt-u|OpenAI details storage architecture scaling for 1B+ ChatGPT users]]
+- `2026-10-23` [[2026-10-23-openai-and-poland-s-nask-announce-partnership-on-ai-safety-a|OpenAI and Poland's NASK announce partnership on AI safety and security research]]
+- `2026-10-22` [[2026-10-22-openai-launches-the-decisions-api-for-low-latency-decision-w|OpenAI launches the Decisions API for low-latency decision workflows]]
+- `2026-10-22` [[2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead|OpenAI is reportedly preparing a new $30B private raise ahead of IPO]]
+- `2026-10-22` [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion|ConnectWise breach reportedly enabled AI-assisted intrusion attempts across thousands of organizations]]
 - `2026-10-22` [[2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p|AI-assisted discovery of critical PHP flaws triggers broad patch urgency]]
 - `2026-10-21` [[2026-10-21-october-22-2026-wsj-pro-cybersecurity|[October 22, 2026] · WSJ Pro Cybersecurity]]
 - `2026-10-21` [[2026-10-21-openai-models-are-coming-to-google-cloud-marketplace|OpenAI models are coming to Google Cloud Marketplace]]

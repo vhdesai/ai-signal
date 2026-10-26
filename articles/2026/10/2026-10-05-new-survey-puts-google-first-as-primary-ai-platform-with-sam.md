@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r
 - 2026-08-11-gemini-app-crosses-1-billion-monthly-active-users
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
-- 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
+- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 embedding_id: 2026-10-05-new-survey-puts-google-first-as-primary-ai-platform-with-sam
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google leads the survey’s primary-platform responses at 48%, combining Gemini 
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r]] · [[2026-08-11-gemini-app-crosses-1-billion-monthly-active-users]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]]
+**Related:** [[2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r]] · [[2026-08-11-gemini-app-crosses-1-billion-monthly-active-users]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]]
 <!-- graph:end -->

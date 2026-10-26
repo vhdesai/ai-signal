@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-24-ai-enabled-attacks-are-accelerating-and-increasing-pressure
 - 2026-08-23-openai-executive-warns-of-ongoing-persistent-ai-driven-cyber
 - 2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber
-- 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
-- 2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m
+- 2026-10-24-ai-assisted-attacks-increase-the-burden-on-internet-defender
 embedding_id: 2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI published a warning that AI is making cyber attacks materially more sophi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-23-openai-executive-warns-of-ongoing-persistent-ai-driven-cyber]] · [[2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m]]
+**Related:** [[2026-10-24-ai-enabled-attacks-are-accelerating-and-increasing-pressure]] · [[2026-08-23-openai-executive-warns-of-ongoing-persistent-ai-driven-cyber]] · [[2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber]] · [[2026-10-24-ai-assisted-attacks-increase-the-burden-on-internet-defender]]
 <!-- graph:end -->

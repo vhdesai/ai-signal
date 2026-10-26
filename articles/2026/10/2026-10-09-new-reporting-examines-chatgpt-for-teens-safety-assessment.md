@@ -30,9 +30,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 - 2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards
 - 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
-- 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
 embedding_id: 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 event_name: ''
 ---
@@ -46,5 +46,5 @@ CNBC covers an October 7 study questioning ChatGPT for Teens safeguards. OpenAI 
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Databricks]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards]] · [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th]] · [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]]
+**Related:** [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards]] · [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war
+- 2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp
 - 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
-- 2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent
 embedding_id: 2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Forbes reported that Anthropic plans to release an IPO prospectus after Labor Da
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent]]
+**Related:** [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war]] · [[2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]]
 <!-- graph:end -->

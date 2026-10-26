@@ -4,8 +4,8 @@ title: Cognizant to train 18,000 Google Cloud AI specialists
 date: '2026-10-22'
 source: '[CIO Dive]'
 url_original: null
-url_canonical: https://news.cognizant.com/2026-10-19-Cognizant-and-Google-Cloud-Expand-Alliance-to-Accelerate-Agentic-Enterprise-Transformation
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-22_065023_Final-Daily-AI-News-Digest.md
 content_hash: 6c092e1faacff9fff6c511abe0dd75c9b4f86d78b1a72403ededd2505d026508
 normalized_title_hash: bec1215bf4791cc9

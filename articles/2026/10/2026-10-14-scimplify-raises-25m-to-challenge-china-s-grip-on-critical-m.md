@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo
 - 2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round
+- 2026-10-22-deepseek-reportedly-raises-15b-days-after-new-u-s-federal-re
 embedding_id: 2026-10-14-scimplify-raises-25m-to-challenge-china-s-grip-on-critical-m
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Scimplify raised $25M as it expands a platform for AI-assisted specialty chemica
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo]] · [[2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round]]
+**Related:** [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo]] · [[2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round]] · [[2026-10-22-deepseek-reportedly-raises-15b-days-after-new-u-s-federal-re]]
 <!-- graph:end -->

@@ -1,15 +1,21 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1668
+member_count: 1674
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1668 connected article(s).
+> Auto-generated topic hub. 1674 connected article(s).
 
+- `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
+- `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
+- `2026-10-24` [[2026-10-24-kimi-k3-1-pro-launches|Kimi K3.1 Pro launches]]
+- `2026-10-23` [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery|Security leaders warn of faster flaw discovery]]
 - `2026-10-22` [[2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr|Japanese analysis links Chinese AI tooling to a broader intrusion campaign]]
+- `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15b-days-after-new-u-s-federal-re|DeepSeek reportedly raises $15B days after new U.S. federal restrictions]]
 - `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
+- `2026-10-22` [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion|ConnectWise breach reportedly enabled AI-assisted intrusion attempts across thousands of organizations]]
 - `2026-10-22` [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane|Chinese AI agent reportedly linked to cyberattacks on Japanese companies]]
 - `2026-10-20` [[2026-10-20-october-20-2026-wsj-pro-cybersecurity|[October 20, 2026] · WSJ Pro Cybersecurity]]
 - `2026-10-20` [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro|US orders federal agencies to remove China’s DeepSeek AI from their systems]]

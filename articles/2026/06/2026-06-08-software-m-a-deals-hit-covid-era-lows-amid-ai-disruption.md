@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
+- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 - 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 - 2026-07-17-cybersecurity-m-a-heads-for-record-year-as-ai-security-start
-- 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
 embedding_id: 2026-06-08-software-m-a-deals-hit-covid-era-lows-amid-ai-disruption
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Software M&A volume has fallen to COVID-era lows, driven by AI-related disruptio
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]] · [[2026-07-17-cybersecurity-m-a-heads-for-record-year-as-ai-security-start]] · [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]]
+**Related:** [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]] · [[2026-07-17-cybersecurity-m-a-heads-for-record-year-as-ai-security-start]]
 <!-- graph:end -->

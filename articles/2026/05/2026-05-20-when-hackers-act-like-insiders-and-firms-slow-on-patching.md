@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
 - 2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse
+- 2026-10-24-ai-assisted-attacks-increase-the-burden-on-internet-defender
 - 2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in
 - 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
 embedding_id: 2026-05-20-when-hackers-act-like-insiders-and-firms-slow-on-patching
@@ -36,5 +37,5 @@ WSJ Pro Cybersecurity reports a sharp rise in attacker tradecraft that mimics le
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse]] · [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]]
+**Related:** [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse]] · [[2026-10-24-ai-assisted-attacks-increase-the-burden-on-internet-defender]] · [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]]
 <!-- graph:end -->

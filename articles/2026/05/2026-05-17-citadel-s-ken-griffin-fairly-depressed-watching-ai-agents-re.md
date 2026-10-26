@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real
 - 2026-07-30-aschenbrenner-s-situational-awareness-ai-fund-forced-to-sell
+- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 - 2026-10-20-amazon-s-ai-buildout-is-draining-cash
 - 2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t
-- 2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts
 embedding_id: 2026-05-17-citadel-s-ken-griffin-fairly-depressed-watching-ai-agents-re
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Speaking at Stanford GSB's Leadership Forum, Citadel founder Ken Griffin — unt
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real]] · [[2026-07-30-aschenbrenner-s-situational-awareness-ai-fund-forced-to-sell]] · [[2026-10-20-amazon-s-ai-buildout-is-draining-cash]] · [[2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t]] · [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]]
+**Related:** [[2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real]] · [[2026-07-30-aschenbrenner-s-situational-awareness-ai-fund-forced-to-sell]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-10-20-amazon-s-ai-buildout-is-draining-cash]] · [[2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t]]
 <!-- graph:end -->

@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 - 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
+- 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 embedding_id: 2026-07-19-current-ai-races-to-build-public-interest-ai-infrastructure
 event_name: ''
 ---
@@ -38,5 +39,5 @@ TechCrunch profiles Current AI, a nonprofit building open public AI infrastructu
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-19-nonprofit-current-ai-races-to-build-an-open-world-wide-web-o]] · [[2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie]]
+**Related:** [[2026-07-19-nonprofit-current-ai-races-to-build-an-open-world-wide-web-o]] · [[2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]]
 <!-- graph:end -->

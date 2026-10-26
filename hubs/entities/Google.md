@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1669
+member_count: 1673
 ---
 
 # Google
 
-> Auto-generated entity hub. 1669 connected article(s).
+> Auto-generated entity hub. 1673 connected article(s).
 
+- `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
+- `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
+- `2026-10-22` [[2026-10-22-google-cloud-introduces-agent-compute-engine-with-microvm-is|Google Cloud introduces Agent Compute Engine with microVM isolation per agent session]]
+- `2026-10-22` [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion|ConnectWise breach reportedly enabled AI-assisted intrusion attempts across thousands of organizations]]
 - `2026-10-22` [[2026-10-22-cognizant-to-train-18-000-google-cloud-ai-specialists|Cognizant to train 18,000 Google Cloud AI specialists]]
 - `2026-10-22` [[2026-10-22-cognizant-and-google-cloud-scale-a-gemini-deployment-workfor|Cognizant and Google Cloud scale a Gemini deployment workforce]]
 - `2026-10-21` [[2026-10-21-u-s-senators-open-scrutiny-of-ai-deployment-in-schools|U.S. senators open scrutiny of AI deployment in schools]]

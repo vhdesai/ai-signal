@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-18-anthropic-governance-timing-exception-anthropic-proposes-a-p
+- 2026-10-23-october-23-2026-anthropic
 - 2026-08-24-anthropic-resolves-a-multi-model-claude-outage-after-a-month
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
 - 2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat
@@ -37,5 +38,5 @@ Anthropic migrated its monorepo to Scion as daily merges exceeded 30,000. This i
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-18-anthropic-governance-timing-exception-anthropic-proposes-a-p]] · [[2026-08-24-anthropic-resolves-a-multi-model-claude-outage-after-a-month]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat]]
+**Related:** [[2026-10-18-anthropic-governance-timing-exception-anthropic-proposes-a-p]] · [[2026-10-23-october-23-2026-anthropic]] · [[2026-08-24-anthropic-resolves-a-multi-model-claude-outage-after-a-month]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat]]
 <!-- graph:end -->

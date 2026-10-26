@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-24-cross-model-political-preference-findings-raise-governance-a
+- 2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
-- 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
-- 2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models
 embedding_id: 2026-07-20-model-context-protocol-update-aims-to-make-agent-integration
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reports that the Model Context Protocol is moving toward a looser, mo
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models]]
+**Related:** [[2026-10-24-cross-model-political-preference-findings-raise-governance-a]] · [[2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]]
 <!-- graph:end -->

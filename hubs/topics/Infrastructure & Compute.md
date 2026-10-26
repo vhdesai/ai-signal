@@ -1,13 +1,24 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2256
+member_count: 2267
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2256 connected article(s).
+> Auto-generated topic hub. 2267 connected article(s).
 
+- `2026-10-26` [[2026-10-26-enterprise-data-is-emerging-as-a-primary-ai-training-asset|Enterprise data is emerging as a primary AI training asset]]
+- `2026-10-26` [[2026-10-26-companies-workplace-data-becomes-a-contested-ai-training-ass|Companies' workplace data becomes a contested AI training asset]]
+- `2026-10-26` [[2026-10-26-ai-payoff-outside-tech-remains-contested-despite-sustained-s|AI payoff outside tech remains contested despite sustained spending]]
+- `2026-10-25` [[2026-10-25-spacex-reports-a-roughly-40-billion-gpu-financing-commitment|SpaceX reports a roughly $40 billion GPU-financing commitment]]
+- `2026-10-25` [[2026-10-25-marktechpost-s-technical-walkthrough-examines-a-heavily-quan|MarkTechPost’s technical walkthrough examines a heavily quantized Qwen3.8-derived model intended to preserve…]]
+- `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
+- `2026-10-24` [[2026-10-24-cross-model-political-preference-findings-raise-governance-a|Cross-model political-preference findings raise governance and evaluation questions]]
+- `2026-10-24` [[2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu|Cognition details Devin vulnerability remediation across plugin and CI paths]]
+- `2026-10-23` [[2026-10-23-you-com-launches-inference-router-for-open-weight-and-fronti|You.com launches Inference Router for open-weight and frontier-model access]]
+- `2026-10-23` [[2026-10-23-openai-details-storage-architecture-scaling-for-1b-chatgpt-u|OpenAI details storage architecture scaling for 1B+ ChatGPT users]]
+- `2026-10-22` [[2026-10-22-google-cloud-introduces-agent-compute-engine-with-microvm-is|Google Cloud introduces Agent Compute Engine with microVM isolation per agent session]]
 - `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
 - `2026-10-22` [[2026-10-22-cios-are-warned-that-current-ai-pricing-may-be-a-temporary-l|CIOs are warned that current AI pricing may be a temporary low]]
 - `2026-10-22` [[2026-10-22-cios-are-being-warned-that-ai-may-never-be-cheaper-than-it-i|CIOs are being warned that AI may never be cheaper than it is now]]

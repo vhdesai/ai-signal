@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 560
+member_count: 562
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 560 connected article(s).
+> Auto-generated entity hub. 562 connected article(s).
 
+- `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15b-days-after-new-u-s-federal-re|DeepSeek reportedly raises $15B days after new U.S. federal restrictions]]
 - `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
+- `2026-10-22` [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion|ConnectWise breach reportedly enabled AI-assisted intrusion attempts across thousands of organizations]]
 - `2026-10-20` [[2026-10-20-october-20-2026-wsj-pro-cybersecurity|[October 20, 2026] · WSJ Pro Cybersecurity]]
 - `2026-10-20` [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro|US orders federal agencies to remove China’s DeepSeek AI from their systems]]
 - `2026-10-20` [[2026-10-20-u-s-orders-federal-civilian-agencies-to-remove-deepseek-tech|U.S. orders federal civilian agencies to remove DeepSeek technology]]

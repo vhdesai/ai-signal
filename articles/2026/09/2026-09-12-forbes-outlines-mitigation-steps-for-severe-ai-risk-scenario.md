@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-23-banks-plan-for-severe-ai-disruptions
 - 2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u
 - 2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026
 - 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
 - 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
-- 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
 embedding_id: 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Forbes published a management-oriented piece on mitigating severe AI risk, refle
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u]] · [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]] · [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]]
+**Related:** [[2026-10-23-banks-plan-for-severe-ai-disruptions]] · [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u]] · [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]] · [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]]
 <!-- graph:end -->

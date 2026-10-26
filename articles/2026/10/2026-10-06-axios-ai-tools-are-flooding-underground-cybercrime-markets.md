@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo
 - 2026-07-20-reports-say-an-ai-agent-carried-out-an-end-to-end-cyberattac
 - 2026-09-26-top-ai-companies-are-probing-tens-of-thousands-of-security-i
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
 - 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
-- 2026-07-18-retailers-prepare-for-bots-as-buyers
 embedding_id: 2026-10-06-axios-ai-tools-are-flooding-underground-cybercrime-markets
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Axios reported that AI tools are flooding underground cybercrime markets, adding
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-20-reports-say-an-ai-agent-carried-out-an-end-to-end-cyberattac]] · [[2026-09-26-top-ai-companies-are-probing-tens-of-thousands-of-security-i]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]]
+**Related:** [[2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo]] · [[2026-07-20-reports-say-an-ai-agent-carried-out-an-end-to-end-cyberattac]] · [[2026-09-26-top-ai-companies-are-probing-tens-of-thousands-of-security-i]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]]
 <!-- graph:end -->
