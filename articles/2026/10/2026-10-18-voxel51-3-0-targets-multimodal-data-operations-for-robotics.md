@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
+- 2026-10-27-liquid-ai-releases-lfm3-family-of-2b-class-multimodal-open-w
 - 2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou
 - 2026-10-21-mistral-releases-voxtral-3-speech-models-and-voice-agent-sdk
-- 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 embedding_id: 2026-10-18-voxel51-3-0-targets-multimodal-data-operations-for-robotics
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Voxel51 released version 3.0 of its multimodal data platform, adding time-series
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou]] · [[2026-10-21-mistral-releases-voxtral-3-speech-models-and-voice-agent-sdk]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]]
+**Related:** [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-10-27-liquid-ai-releases-lfm3-family-of-2b-class-multimodal-open-w]] · [[2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou]] · [[2026-10-21-mistral-releases-voxtral-3-speech-models-and-voice-agent-sdk]]
 <!-- graph:end -->

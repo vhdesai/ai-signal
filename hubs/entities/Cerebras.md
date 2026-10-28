@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 199
+member_count: 202
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 199 connected article(s).
+> Auto-generated entity hub. 202 connected article(s).
 
+- `2026-10-28` [[2026-10-28-nvidia-and-oracle-announce-multi-gigawatt-vera-rubin-expansi|NVIDIA and Oracle announce multi-gigawatt Vera Rubin expansion plans on OCI]]
+- `2026-10-28` [[2026-10-28-cerebras-and-oracle-plan-oci-availability-for-cerebras-infer|Cerebras and Oracle plan OCI availability for Cerebras inference]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
 - `2026-10-10` [[2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability|Cerebras growth invites Nvidia comparisons, but profitability and customer concentration remain key gaps]]

@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 727
+member_count: 733
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 727 connected article(s).
+> Auto-generated entity hub. 733 connected article(s).
 
+- `2026-10-28` [[2026-10-28-amazon-expands-shop-direct-to-defend-against-cross-retailer|Amazon expands Shop Direct to defend against cross-retailer AI shopping agents]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
+- `2026-10-27` [[2026-10-27-liquid-ai-releases-the-lfm3-open-weight-model-family|Liquid AI releases the LFM3 open-weight model family]]
+- `2026-10-27` [[2026-10-27-google-deepmind-previews-genie-4-with-native-audio|Google DeepMind previews Genie 4 with native audio]]
+- `2026-10-27` [[2026-10-27-amazon-s-economics-in-anthropic-s-ipo-appear-larger-than-mos|Amazon’s economics in Anthropic’s IPO appear larger than most VC outcomes]]
+- `2026-10-27` [[2026-10-27-amazon-guidance-favors-outcomes-over-ai-usage-volume|Amazon guidance favors outcomes over AI-usage volume]]
 - `2026-10-23` [[2026-10-23-aws-commitments-extend-through-2027|AWS commitments extend through 2027]]
 - `2026-10-21` [[2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin|Walmart opens an agent gateway while rivals continue blocking shopping bots]]
 - `2026-10-20` [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro|US orders federal agencies to remove China’s DeepSeek AI from their systems]]

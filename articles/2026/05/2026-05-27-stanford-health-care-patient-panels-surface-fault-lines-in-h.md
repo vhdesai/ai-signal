@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
+- 2026-10-27-unapproved-ai-tool-use-exposed-patient-data-at-johns-hopkins
 - 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
 - 2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care
 - 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
-- 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
 embedding_id: 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Stanford Health Care's 18-month experiment of running new AI tools past patient 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca]] · [[2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care]] · [[2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]]
+**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-10-27-unapproved-ai-tool-use-exposed-patient-data-at-johns-hopkins]] · [[2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca]] · [[2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care]] · [[2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-28-anthropic-pushes-claude-deeper-into-drug-discovery-with-acqu
 - 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed
-- 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 embedding_id: 2026-07-28-icon-to-deploy-anthropic-s-claude-across-the-clinical-trial
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Contract research organization ICON plc (NASDAQ: ICLR) announced a multi-year co
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]]
+**Related:** [[2026-10-28-anthropic-pushes-claude-deeper-into-drug-discovery-with-acqu]] · [[2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed]]
 <!-- graph:end -->

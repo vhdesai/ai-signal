@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-for
 - 2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo
 - 2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea
-- 2026-10-20-anthropic-filing-details-growing-cloud-capacity-strain
+- 2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme
 embedding_id: 2026-08-11-anthropic-macquarie-and-gic-form-theseus-infrastructure
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic, Macquarie, and GIC announced Theseus Infrastructure — a platform to
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-for]] · [[2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo]] · [[2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea]] · [[2026-10-20-anthropic-filing-details-growing-cloud-capacity-strain]]
+**Related:** [[2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-for]] · [[2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo]] · [[2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea]] · [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme]]
 <!-- graph:end -->

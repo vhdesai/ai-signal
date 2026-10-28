@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and
 - 2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and
+- 2026-10-27-berkeley-linked-leann-work-highlights-major-vector-index-mem
 - 2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt
 embedding_id: 2026-09-19-linkup-releases-sparseup-a-149m-parameter-open-source-sparse
 event_name: ''
@@ -35,5 +36,5 @@ SPARSEUP is a learned sparse embedding model on a 149M-parameter ModernBERT back
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and]] · [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and]] · [[2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt]]
+**Related:** [[2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and]] · [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and]] · [[2026-10-27-berkeley-linked-leann-work-highlights-major-vector-index-mem]] · [[2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt]]
 <!-- graph:end -->

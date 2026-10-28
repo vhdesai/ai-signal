@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-10-21-october-22-2026-wsj-pro-cybersecurity
 - 2026-10-22-ai-assisted-analysis-surfaced-a-critical-php-vulnerability-w
 - 2026-10-23-security-leaders-warn-of-faster-flaw-discovery
+- 2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
-- 2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li
 embedding_id: 2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Coverage described high-severity PHP vulnerabilities discovered with AI-assisted
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-21-october-22-2026-wsj-pro-cybersecurity]] · [[2026-10-22-ai-assisted-analysis-surfaced-a-critical-php-vulnerability-w]] · [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li]]
+**Related:** [[2026-10-21-october-22-2026-wsj-pro-cybersecurity]] · [[2026-10-22-ai-assisted-analysis-surfaced-a-critical-php-vulnerability-w]] · [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]] · [[2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]]
 <!-- graph:end -->

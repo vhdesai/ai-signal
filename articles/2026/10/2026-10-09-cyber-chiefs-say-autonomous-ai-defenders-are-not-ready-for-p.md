@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-24-ai-assisted-attacks-increase-the-burden-on-internet-defender
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-10-24-ai-enabled-attacks-are-accelerating-and-increasing-pressure
-- 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
+- 2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale
 embedding_id: 2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p
 event_name: ''
 ---
@@ -38,5 +38,5 @@ WSJ Pro CyberSecurity reported that cyber leaders remain skeptical that autonomo
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-09-autonomous-ai-defenders-are-not-ready-for-full-autonomy-cybe]] · [[2026-10-24-ai-assisted-attacks-increase-the-burden-on-internet-defender]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-10-24-ai-enabled-attacks-are-accelerating-and-increasing-pressure]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]]
+**Related:** [[2026-10-09-autonomous-ai-defenders-are-not-ready-for-full-autonomy-cybe]] · [[2026-10-24-ai-assisted-attacks-increase-the-burden-on-internet-defender]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-10-24-ai-enabled-attacks-are-accelerating-and-increasing-pressure]] · [[2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale]]
 <!-- graph:end -->

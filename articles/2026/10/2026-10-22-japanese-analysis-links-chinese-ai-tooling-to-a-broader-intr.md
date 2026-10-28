@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane
 - 2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
-- 2026-10-24-ai-assisted-attacks-increase-the-burden-on-internet-defender
+- 2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale
 embedding_id: 2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr
 event_name: ''
 ---
@@ -36,5 +36,5 @@ WSJ Pro Cybersecurity reported claims from a Japanese security firm that Chinese
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-10-24-ai-assisted-attacks-increase-the-burden-on-internet-defender]]
+**Related:** [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale]]
 <!-- graph:end -->

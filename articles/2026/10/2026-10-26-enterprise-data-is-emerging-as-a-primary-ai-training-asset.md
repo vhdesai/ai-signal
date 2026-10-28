@@ -4,8 +4,8 @@ title: Enterprise data is emerging as a primary AI training asset
 date: '2026-10-26'
 source: '[Business Insider]'
 url_original: null
-url_canonical: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-26_065055_Final-Daily-AI-News-Digest.md
 content_hash: 5bcdbe68c2048376bd6e790a884657b59695f289311f57ec5569c53befda1241
 normalized_title_hash: 31a75f0d13e67887

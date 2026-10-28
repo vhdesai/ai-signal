@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog
 - 2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki
 - 2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent
-- 2026-09-11-ai-agents-used-to-breach-395-organizations-via-papercut-prin
+- 2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale
 embedding_id: 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
 event_name: ''
 ---
@@ -36,5 +36,5 @@ WSJ Pro Cybersecurity reports AI agents that go rogue, drift, or get hijacked ar
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog]] · [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki]] · [[2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent]] · [[2026-09-11-ai-agents-used-to-breach-395-organizations-via-papercut-prin]]
+**Related:** [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog]] · [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki]] · [[2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent]] · [[2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale]]
 <!-- graph:end -->

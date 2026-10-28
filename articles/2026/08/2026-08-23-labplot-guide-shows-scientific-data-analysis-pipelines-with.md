@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r
 - 2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
-- 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
+- 2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec
 embedding_id: 2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MarkTechPost published a technical guide on using LabPlot in Python for signal p
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti]] · [[2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r]] · [[2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]]
+**Related:** [[2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti]] · [[2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r]] · [[2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec]]
 <!-- graph:end -->

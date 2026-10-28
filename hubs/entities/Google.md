@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1673
+member_count: 1682
 ---
 
 # Google
 
-> Auto-generated entity hub. 1673 connected article(s).
+> Auto-generated entity hub. 1682 connected article(s).
 
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-over-alleged-gpt-4o-medication-advice|Parents sue OpenAI over alleged GPT-4o medication advice]]
+- `2026-10-27` [[2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b|OpenAI plans to buy Google TPUs as Google expands AI chips beyond its own cloud]]
+- `2026-10-27` [[2026-10-27-liquid-ai-releases-lfm3-family-of-2b-class-multimodal-open-w|Liquid AI releases LFM3 family of 2B-class multimodal open-weight models]]
+- `2026-10-27` [[2026-10-27-google-deepmind-s-genie-4-adds-native-audio-and-longer-real|Google DeepMind’s Genie 4 adds native audio and longer real-time world consistency]]
+- `2026-10-27` [[2026-10-27-google-deepmind-previews-genie-4-with-native-audio|Google DeepMind previews Genie 4 with native audio]]
+- `2026-10-27` [[2026-10-27-former-meta-ai-leader-launches-startup-aimed-at-office-and-w|Former Meta AI leader launches startup aimed at Office and Workspace workflows]]
+- `2026-10-27` [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme|Anthropic’s commitments underscore the scale of Google’s emerging TPU business]]
+- `2026-10-27` [[2026-10-27-amazon-guidance-favors-outcomes-over-ai-usage-volume|Amazon guidance favors outcomes over AI-usage volume]]
 - `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
 - `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
 - `2026-10-22` [[2026-10-22-google-cloud-introduces-agent-compute-engine-with-microvm-is|Google Cloud introduces Agent Compute Engine with microVM isolation per agent session]]

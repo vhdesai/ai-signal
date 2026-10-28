@@ -4,8 +4,8 @@ title: SK Hynix pauses Solidigm's US listing as AI valuations face a market test
 date: '2026-10-26'
 source: '[Wall Street Journal]'
 url_original: null
-url_canonical: https://tech-insider.org/sk-hynix-solidigm-us-ipo-on-hold-dual-listing-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-26_121525_Final-Daily-AI-News-Digest.md
 content_hash: 066cabc56f8baf7d0d6c1c403a5880219b059f34fb3a6ff3a85cacb32d8e3385
 normalized_title_hash: 955f8969567608d7

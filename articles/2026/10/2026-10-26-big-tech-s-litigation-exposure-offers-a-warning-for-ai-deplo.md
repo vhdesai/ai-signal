@@ -4,8 +4,8 @@ title: Big Tech's litigation exposure offers a warning for AI deployment
 date: '2026-10-26'
 source: '[Axios]'
 url_original: null
-url_canonical: https://techjusticelaw.org/resources/tracker/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-26_121525_Final-Daily-AI-News-Digest.md
 content_hash: 2f0e46cc1e6e6f4bf0b34363b832ae4fad314b69698f1d46800f1499901bfd7f
 normalized_title_hash: 2400e830597acfae

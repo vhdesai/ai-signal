@@ -6,7 +6,7 @@ date: '2026-10-09'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China%20AI%20model%20race%20Xiaomi%20Meituan%20miHoYo
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China%20AI%20model%20race%20Xiaomi%20Meituan%20miHoYo
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-10_065918_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 80d2190f80c047355f990169ae54be6a1bd4c5a432a89b048ec96a4131c7eedd

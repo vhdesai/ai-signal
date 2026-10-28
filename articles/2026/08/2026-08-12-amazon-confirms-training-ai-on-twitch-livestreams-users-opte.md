@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-13-twitch-opts-all-streamers-into-amazon-ai-training-by-default
 - 2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set
 - 2026-07-17-patreon-blocks-ai-training-bots-instead-of-relying-on-robots
-- 2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o
+- 2026-10-27-amazon-guidance-favors-outcomes-over-ai-usage-volume
 embedding_id: 2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Twitch confirmed Amazon is using streamer content to train generative AI models,
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl]] · [[2026-08-13-twitch-opts-all-streamers-into-amazon-ai-training-by-default]] · [[2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set]] · [[2026-07-17-patreon-blocks-ai-training-bots-instead-of-relying-on-robots]] · [[2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o]]
+**Related:** [[2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl]] · [[2026-08-13-twitch-opts-all-streamers-into-amazon-ai-training-by-default]] · [[2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set]] · [[2026-07-17-patreon-blocks-ai-training-bots-instead-of-relying-on-robots]] · [[2026-10-27-amazon-guidance-favors-outcomes-over-ai-usage-volume]]
 <!-- graph:end -->

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 931
+member_count: 933
 ---
 
 # Meta
 
-> Auto-generated entity hub. 931 connected article(s).
+> Auto-generated entity hub. 933 connected article(s).
 
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
+- `2026-10-27` [[2026-10-27-former-meta-ai-leader-launches-startup-aimed-at-office-and-w|Former Meta AI leader launches startup aimed at Office and Workspace workflows]]
 - `2026-10-26` [[2026-10-26-meta-s-muse-reaches-10-million-downloads-shifting-focus-to-m|Meta's Muse reaches 10 million downloads, shifting focus to monetization quality]]
 - `2026-10-26` [[2026-10-26-meta-s-muse-passes-10-million-users-putting-monetization-in|Meta's Muse passes 10 million users, putting monetization in focus]]
 - `2026-10-26` [[2026-10-26-meta-launches-approximately-35-billion-in-equity-offerings-f|Meta launches approximately $35 billion in equity offerings for its AI expansion]]

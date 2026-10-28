@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 255
+member_count: 256
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 255 connected article(s).
+> Auto-generated entity hub. 256 connected article(s).
 
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-21` [[2026-10-21-mistral-releases-voxtral-3-speech-models-and-voice-agent-sdk|Mistral releases Voxtral 3 speech models and voice-agent SDK]]
 - `2026-10-20` [[2026-10-20-anthropic-circulates-draft-u-s-bill-with-catastrophic-risk-i|Anthropic circulates draft U.S. bill with catastrophic-risk intervention thresholds]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]

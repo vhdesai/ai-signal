@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 233
+member_count: 234
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 233 connected article(s).
+> Auto-generated entity hub. 234 connected article(s).
 
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]
 - `2026-10-20` [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo|EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders]]
 - `2026-10-18` [[2026-10-18-oppo-partners-with-manus-to-bring-ai-agents-to-devices|OPPO partners with Manus to bring AI agents to devices]]

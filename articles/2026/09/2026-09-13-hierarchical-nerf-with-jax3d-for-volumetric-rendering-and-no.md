@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into
 - 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
 - 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
-- 2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical
+- 2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec
 embedding_id: 2026-09-13-hierarchical-nerf-with-jax3d-for-volumetric-rendering-and-no
 event_name: ''
 ---
@@ -37,5 +37,5 @@ An end-to-end hierarchical Neural Radiance Field implementation built “using J
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world]] · [[2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical]]
+**Related:** [[2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world]] · [[2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-14-eight-states-challenge-openai-s-safety-representations
 - 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
+- 2026-10-27-lawsuit-alleges-harmful-medical-guidance-from-gpt-4o-interac
 - 2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch
 - 2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over
-- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 embedding_id: 2026-10-18-eight-states-sue-openai-over-chatgpt-safety
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Eight states sued OpenAI over ChatGPT safety, adding state-level consumer-protec
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-14-eight-states-challenge-openai-s-safety-representations]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch]] · [[2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]]
+**Related:** [[2026-10-14-eight-states-challenge-openai-s-safety-representations]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-10-27-lawsuit-alleges-harmful-medical-guidance-from-gpt-4o-interac]] · [[2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch]] · [[2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over]]
 <!-- graph:end -->

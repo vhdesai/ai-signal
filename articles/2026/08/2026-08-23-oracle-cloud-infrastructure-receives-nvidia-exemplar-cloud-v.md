@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-13-iren-delivers-horizon-1-to-microsoft-and-achieves-nvidia-exe
 - 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
+- 2026-10-28-nvidia-and-oracle-announce-multi-gigawatt-vera-rubin-expansi
 - 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
 - 2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode
-- 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
 embedding_id: 2026-08-23-oracle-cloud-infrastructure-receives-nvidia-exemplar-cloud-v
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Oracle published that OCI achieved NVIDIA Exemplar Cloud validation for NVIDIA G
 
 **Entities:** [[NVIDIA]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-13-iren-delivers-horizon-1-to-microsoft-and-achieves-nvidia-exe]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]]
+**Related:** [[2026-08-13-iren-delivers-horizon-1-to-microsoft-and-achieves-nvidia-exe]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-10-28-nvidia-and-oracle-announce-multi-gigawatt-vera-rubin-expansi]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode]]
 <!-- graph:end -->

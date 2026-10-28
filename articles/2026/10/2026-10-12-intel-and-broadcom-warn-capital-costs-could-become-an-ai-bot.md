@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris
 - 2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund
 - 2026-10-20-amazon-s-ai-buildout-is-draining-cash
-- 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
+- 2026-10-28-big-tech-s-ai-buildout-is-colliding-with-rising-capital-requ
 embedding_id: 2026-10-12-intel-and-broadcom-warn-capital-costs-could-become-an-ai-bot
 event_name: ''
 ---
@@ -39,5 +39,5 @@ CNBC reported that Intel and Broadcom leaders flagged financing costs and invest
 
 **Entities:** [[Intel]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris]] · [[2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund]] · [[2026-10-20-amazon-s-ai-buildout-is-draining-cash]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]]
+**Related:** [[2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris]] · [[2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund]] · [[2026-10-20-amazon-s-ai-buildout-is-draining-cash]] · [[2026-10-28-big-tech-s-ai-buildout-is-colliding-with-rising-capital-requ]]
 <!-- graph:end -->

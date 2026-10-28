@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds
+- 2026-10-27-genie-4-a-new-generation-of-world-simulation
+- 2026-10-27-google-deepmind-s-genie-4-adds-native-audio-and-longer-real
 - 2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i
 - 2026-09-02-fei-fei-li-s-world-labs-unveils-atlas-a-photorealistic-inter
-- 2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese
-- 2026-08-29-code-as-world-turns-real-videos-into-executable-mujoco-physi
 embedding_id: 2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Unveiled at Google I/O 2026, the Genie world-modeling system now incorporates St
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i]] · [[2026-09-02-fei-fei-li-s-world-labs-unveils-atlas-a-photorealistic-inter]] · [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-08-29-code-as-world-turns-real-videos-into-executable-mujoco-physi]]
+**Related:** [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-10-27-genie-4-a-new-generation-of-world-simulation]] · [[2026-10-27-google-deepmind-s-genie-4-adds-native-audio-and-longer-real]] · [[2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i]] · [[2026-09-02-fei-fei-li-s-world-labs-unveils-atlas-a-photorealistic-inter]]
 <!-- graph:end -->

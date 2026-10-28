@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-12-google-turboquant-sets-new-bar-for-efficient-vector-compress
 - 2026-04-04-google-research-published-turboquant-a-vector-quantization-a
 - 2026-03-28-google-s-announcement-of-turboquant-an-ai-driven-quantizatio
+- 2026-10-27-berkeley-linked-leann-work-highlights-major-vector-index-mem
 - 2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti
-- 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 embedding_id: 2026-05-12-google-releases-turboquant-for-efficient-vector-compression
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google introduced TurboQuant, a new vector compression scheme aimed at large-sca
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-12-google-turboquant-sets-new-bar-for-efficient-vector-compress]] · [[2026-04-04-google-research-published-turboquant-a-vector-quantization-a]] · [[2026-03-28-google-s-announcement-of-turboquant-an-ai-driven-quantizatio]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
+**Related:** [[2026-05-12-google-turboquant-sets-new-bar-for-efficient-vector-compress]] · [[2026-04-04-google-research-published-turboquant-a-vector-quantization-a]] · [[2026-03-28-google-s-announcement-of-turboquant-an-ai-driven-quantizatio]] · [[2026-10-27-berkeley-linked-leann-work-highlights-major-vector-index-mem]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]]
 <!-- graph:end -->

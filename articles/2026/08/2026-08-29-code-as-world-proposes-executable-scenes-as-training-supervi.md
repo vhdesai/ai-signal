@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into
+- 2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
-- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 embedding_id: 2026-08-29-code-as-world-proposes-executable-scenes-as-training-supervi
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Code-as-World is also a research signal for physical reasoning: verified executa
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]]
+**Related:** [[2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into]] · [[2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor]]
 <!-- graph:end -->

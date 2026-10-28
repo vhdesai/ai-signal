@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
 - 2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis
+- 2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com
 - 2026-07-17-ai-s-wider-availability-puts-pressure-on-openai-and-anthropi
-- 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
 embedding_id: 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch analyzed the emerging two-tier enterprise model market: frontier mode
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]] · [[2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis]] · [[2026-07-17-ai-s-wider-availability-puts-pressure-on-openai-and-anthropi]] · [[2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr]]
+**Related:** [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]] · [[2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis]] · [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com]] · [[2026-07-17-ai-s-wider-availability-puts-pressure-on-openai-and-anthropi]]
 <!-- graph:end -->

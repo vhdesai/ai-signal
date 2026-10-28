@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-10-12-intel-and-broadcom-warn-capital-costs-could-become-an-ai-bot
+- 2026-10-28-big-tech-s-ai-buildout-is-colliding-with-rising-capital-requ
 - 2026-08-11-daily-ai-news-digest-august-11-2026
-- 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 embedding_id: 2026-10-20-amazon-s-ai-buildout-is-draining-cash
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Internal reporting indicates Amazon's AI expansion is under significant financia
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-10-12-intel-and-broadcom-warn-capital-costs-could-become-an-ai-bot]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]]
+**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-10-12-intel-and-broadcom-warn-capital-costs-could-become-an-ai-bot]] · [[2026-10-28-big-tech-s-ai-buildout-is-colliding-with-rising-capital-requ]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
 <!-- graph:end -->

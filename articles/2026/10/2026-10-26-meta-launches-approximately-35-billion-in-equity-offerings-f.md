@@ -4,8 +4,8 @@ title: Meta launches approximately $35 billion in equity offerings for its AI ex
 date: '2026-10-26'
 source: '[Meta Investor Relations]'
 url_original: null
-url_canonical: https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-26_121525_Final-Daily-AI-News-Digest.md
 content_hash: 33905d382680eef20a054f631babd10368c677c77e9688ef45b245e0b8f13b2a
 normalized_title_hash: 478618d3b612ef04

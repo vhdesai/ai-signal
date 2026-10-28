@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-20-anthropic-s-s-1-underscores-compute-heavy-unit-economics
+- 2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com
 - 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
 - 2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp
 embedding_id: 2026-10-20-anthropic-filing-details-growing-cloud-capacity-strain
@@ -38,5 +39,5 @@ Reporting on Anthropic's leaked S-1 indicates the company is balancing strong gr
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-20-anthropic-s-s-1-underscores-compute-heavy-unit-economics]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp]]
+**Related:** [[2026-10-20-anthropic-s-s-1-underscores-compute-heavy-unit-economics]] · [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp]]
 <!-- graph:end -->

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 189
+member_count: 192
 ---
 
 # IBM
 
-> Auto-generated entity hub. 189 connected article(s).
+> Auto-generated entity hub. 192 connected article(s).
 
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-over-alleged-gpt-4o-medication-advice|Parents sue OpenAI over alleged GPT-4o medication advice]]
+- `2026-10-27` [[2026-10-27-liquid-ai-releases-the-lfm3-open-weight-model-family|Liquid AI releases the LFM3 open-weight model family]]
 - `2026-10-22` [[2026-10-22-ibm-releases-granite-speech-5-0-2b-under-apache-2-0|IBM releases Granite Speech 5.0 2B under Apache 2.0]]
 - `2026-10-20` [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro|US orders federal agencies to remove China’s DeepSeek AI from their systems]]
 - `2026-10-19` [[2026-10-19-ibm-research-launched-a-new-course-explaining-how-ai-models|IBM Research launched a new course explaining how AI models run on modern accelerators. The course targets a growing skills gap: developers and technical leaders need to understand hardware-aware AI execution, not just model APIs. It fits the broader shift toward custom chips, Trainium, Maia, Ascend, and heterogeneous AI infrastructure.]]

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 562
+member_count: 563
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 562 connected article(s).
+> Auto-generated entity hub. 563 connected article(s).
 
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15b-days-after-new-u-s-federal-re|DeepSeek reportedly raises $15B days after new U.S. federal restrictions]]
 - `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
 - `2026-10-22` [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion|ConnectWise breach reportedly enabled AI-assisted intrusion attempts across thousands of organizations]]

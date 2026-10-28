@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 - 2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
+- 2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec
 embedding_id: 2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Meta detailed MetaRoCE, a purpose-built RDMA transport for AI-scale Ethernet fab
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
+**Related:** [[2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec]]
 <!-- graph:end -->

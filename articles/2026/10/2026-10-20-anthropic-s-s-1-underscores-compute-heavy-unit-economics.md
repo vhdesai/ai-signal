@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-20-anthropic-filing-details-growing-cloud-capacity-strain
+- 2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com
 - 2026-08-24-pitchbook-anticipating-anthropic-s-s-1-filing
 - 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
 - 2026-09-30-anthropic-s-1-explicitly-names-ai-existential-risk-50-of-rev
-- 2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r
 embedding_id: 2026-10-20-anthropic-s-s-1-underscores-compute-heavy-unit-economics
 event_name: ''
 ---
@@ -39,5 +39,5 @@ WSJ coverage frames Anthropic's filing as a growth story with substantial comput
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-10-20-anthropic-filing-details-growing-cloud-capacity-strain]] · [[2026-08-24-pitchbook-anticipating-anthropic-s-s-1-filing]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-09-30-anthropic-s-1-explicitly-names-ai-existential-risk-50-of-rev]] · [[2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r]]
+**Related:** [[2026-10-20-anthropic-filing-details-growing-cloud-capacity-strain]] · [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com]] · [[2026-08-24-pitchbook-anticipating-anthropic-s-s-1-filing]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-09-30-anthropic-s-1-explicitly-names-ai-existential-risk-50-of-rev]]
 <!-- graph:end -->

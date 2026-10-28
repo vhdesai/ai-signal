@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1720
+member_count: 1724
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1720 connected article(s).
+> Auto-generated entity hub. 1724 connected article(s).
 
+- `2026-10-28` [[2026-10-28-nvidia-and-oracle-announce-multi-gigawatt-vera-rubin-expansi|NVIDIA and Oracle announce multi-gigawatt Vera Rubin expansion plans on OCI]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
+- `2026-10-27` [[2026-10-27-openai-spotlights-retell-s-scale-in-voice-agent-workloads|OpenAI spotlights Retell’s scale in voice-agent workloads]]
+- `2026-10-27` [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme|Anthropic’s commitments underscore the scale of Google’s emerging TPU business]]
 - `2026-10-26` [[2026-10-26-honeywell-introduces-forge-plant-cognition-for-refinery-oper|Honeywell introduces Forge Plant Cognition for refinery operations]]
 - `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
 - `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]

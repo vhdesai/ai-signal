@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
+- 2026-10-28-nvidia-and-oracle-announce-multi-gigawatt-vera-rubin-expansi
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
 - 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
-- 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
 embedding_id: 2026-10-12-nvidia-contributes-vera-rubin-ai-factory-designs-to-ocp-and
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At the Open Compute Project Global Summit, NVIDIA announced open architecture co
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]]
+**Related:** [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-10-28-nvidia-and-oracle-announce-multi-gigawatt-vera-rubin-expansi]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]]
 <!-- graph:end -->

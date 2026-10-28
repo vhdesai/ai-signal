@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1321
+member_count: 1325
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1321 connected article(s).
+> Auto-generated topic hub. 1325 connected article(s).
 
+- `2026-10-28` [[2026-10-28-former-doj-antitrust-leaders-launch-fluxcap-an-ai-platform-f|Former DOJ antitrust leaders launch FluxCap, an AI platform for litigation]]
+- `2026-10-27` [[2026-10-27-who-controls-anthropic-post-ipo-remains-a-central-governance|Who controls Anthropic post-IPO remains a central governance question]]
+- `2026-10-27` [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com|Anthropic’s IPO filing exposes frontier AI economics and compute intensity]]
+- `2026-10-27` [[2026-10-27-amazon-s-economics-in-anthropic-s-ipo-appear-larger-than-mos|Amazon’s economics in Anthropic’s IPO appear larger than most VC outcomes]]
 - `2026-10-26` [[2026-10-26-ai-valuation-concerns-hit-the-ipo-market-as-sk-hynix-pauses|AI valuation concerns hit the IPO market as SK Hynix pauses Solidigm listing]]
 - `2026-10-25` [[2026-10-25-anthropic-s-expected-ipo-filing-could-reset-transparency-exp|Anthropic's expected IPO filing could reset transparency expectations for frontier AI economics]]
 - `2026-10-25` [[2026-10-25-anthropic-files-for-an-ipo-turning-a-prospective-disclosure|Anthropic files for an IPO, turning a prospective disclosure into a public-market test]]

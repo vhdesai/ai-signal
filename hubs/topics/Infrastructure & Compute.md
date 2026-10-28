@@ -1,13 +1,19 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2267
+member_count: 2273
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2267 connected article(s).
+> Auto-generated topic hub. 2273 connected article(s).
 
+- `2026-10-28` [[2026-10-28-nvidia-and-oracle-announce-multi-gigawatt-vera-rubin-expansi|NVIDIA and Oracle announce multi-gigawatt Vera Rubin expansion plans on OCI]]
+- `2026-10-28` [[2026-10-28-big-tech-s-ai-buildout-is-colliding-with-rising-capital-requ|Big Tech’s AI buildout is colliding with rising capital requirements and memory constraints]]
+- `2026-10-27` [[2026-10-27-openai-spotlights-retell-s-scale-in-voice-agent-workloads|OpenAI spotlights Retell’s scale in voice-agent workloads]]
+- `2026-10-27` [[2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b|OpenAI plans to buy Google TPUs as Google expands AI chips beyond its own cloud]]
+- `2026-10-27` [[2026-10-27-onsemi-explores-a-ferric-acquisition-as-ai-chip-power-demand|Onsemi explores a Ferric acquisition as AI-chip power demands rise]]
+- `2026-10-27` [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme|Anthropic’s commitments underscore the scale of Google’s emerging TPU business]]
 - `2026-10-26` [[2026-10-26-enterprise-data-is-emerging-as-a-primary-ai-training-asset|Enterprise data is emerging as a primary AI training asset]]
 - `2026-10-26` [[2026-10-26-companies-workplace-data-becomes-a-contested-ai-training-ass|Companies' workplace data becomes a contested AI training asset]]
 - `2026-10-26` [[2026-10-26-ai-payoff-outside-tech-remains-contested-despite-sustained-s|AI payoff outside tech remains contested despite sustained spending]]

@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1846
+member_count: 1849
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1846 connected article(s).
+> Auto-generated topic hub. 1849 connected article(s).
 
+- `2026-10-28` [[2026-10-28-nvidia-and-oracle-announce-multi-gigawatt-vera-rubin-expansi|NVIDIA and Oracle announce multi-gigawatt Vera Rubin expansion plans on OCI]]
+- `2026-10-28` [[2026-10-28-big-tech-s-ai-buildout-is-colliding-with-rising-capital-requ|Big Tech’s AI buildout is colliding with rising capital requirements and memory constraints]]
+- `2026-10-27` [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme|Anthropic’s commitments underscore the scale of Google’s emerging TPU business]]
 - `2026-10-26` [[2026-10-26-sk-hynix-pauses-solidigm-s-us-listing-as-ai-valuations-face|SK Hynix pauses Solidigm's US listing as AI valuations face a market test]]
 - `2026-10-26` [[2026-10-26-meta-launches-approximately-35-billion-in-equity-offerings-f|Meta launches approximately $35 billion in equity offerings for its AI expansion]]
 - `2026-10-25` [[2026-10-25-spacex-reports-a-roughly-40-billion-gpu-financing-commitment|SpaceX reports a roughly $40 billion GPU-financing commitment]]

@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 300
+member_count: 306
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 300 connected article(s).
+> Auto-generated entity hub. 306 connected article(s).
 
+- `2026-10-28` [[2026-10-28-nvidia-and-oracle-announce-multi-gigawatt-vera-rubin-expansi|NVIDIA and Oracle announce multi-gigawatt Vera Rubin expansion plans on OCI]]
+- `2026-10-28` [[2026-10-28-cerebras-and-oracle-plan-oci-availability-for-cerebras-infer|Cerebras and Oracle plan OCI availability for Cerebras inference]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-over-alleged-gpt-4o-medication-advice|Parents sue OpenAI over alleged GPT-4o medication advice]]
+- `2026-10-27` [[2026-10-27-openai-spotlights-retell-s-scale-in-voice-agent-workloads|OpenAI spotlights Retell’s scale in voice-agent workloads]]
+- `2026-10-27` [[2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b|OpenAI plans to buy Google TPUs as Google expands AI chips beyond its own cloud]]
 - `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
 - `2026-10-20` [[2026-10-20-partnership-healthcareastrazeneca-and-oracle-partner-on-ai-e|PARTNERSHIP HEALTHCAREAstraZeneca and Oracle partner on AI-enabled clinical research]]
 - `2026-10-19` [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain|Credit stress threatens to unwind AI bull case; Oracle remains in focus]]

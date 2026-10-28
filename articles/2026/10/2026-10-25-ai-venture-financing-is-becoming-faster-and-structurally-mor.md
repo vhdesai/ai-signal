@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-25-venture-firms-reach-for-faster-financing-structures-to-back
 - 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
+- 2026-10-28-big-tech-s-ai-buildout-is-colliding-with-rising-capital-requ
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
-- 2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch
 embedding_id: 2026-10-25-ai-venture-financing-is-becoming-faster-and-structurally-mor
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Information reports that investors are increasingly using LP pools and wareh
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-25-venture-firms-reach-for-faster-financing-structures-to-back]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch]]
+**Related:** [[2026-10-25-venture-firms-reach-for-faster-financing-structures-to-back]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-10-28-big-tech-s-ai-buildout-is-colliding-with-rising-capital-requ]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]]
 <!-- graph:end -->

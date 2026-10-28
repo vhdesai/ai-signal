@@ -4,8 +4,8 @@ title: Meta's Muse passes 10 million users, putting monetization in focus
 date: '2026-10-26'
 source: '[Wall Street Journal]; [October 26, 2026] · [Meta Investor Relations]'
 url_original: null
-url_canonical: https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-26_121525_Final-Daily-AI-News-Digest.md
 content_hash: be3f95baf3a95b7bf1cfef544e1576cc8223ddcd2f78fc8ab642427e0756bdbf
 normalized_title_hash: bab184065eb00d6a

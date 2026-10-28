@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
 - 2026-09-26-insurers-say-hospital-ai-tools-added-942m-to-healthcare-spen
 - 2026-09-26-insurers-claim-ai-has-added-942m-to-us-healthcare-costs-in-t
-- 2026-09-14-rocket-doctor-ai-reports-u-s-operating-momentum-ahead-of-tow
+- 2026-10-27-unapproved-ai-tool-use-exposed-patient-data-at-johns-hopkins
 embedding_id: 2026-07-05-nhs-to-embed-an-ai-triage-tool-in-the-nhs-app-for-200-000-pa
 event_name: ''
 ---
@@ -37,5 +37,5 @@ NHS England said it will roll out an AI triage tool inside the NHS App that asks
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca]] · [[2026-09-26-insurers-say-hospital-ai-tools-added-942m-to-healthcare-spen]] · [[2026-09-26-insurers-claim-ai-has-added-942m-to-us-healthcare-costs-in-t]] · [[2026-09-14-rocket-doctor-ai-reports-u-s-operating-momentum-ahead-of-tow]]
+**Related:** [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca]] · [[2026-09-26-insurers-say-hospital-ai-tools-added-942m-to-healthcare-spen]] · [[2026-09-26-insurers-claim-ai-has-added-942m-to-us-healthcare-costs-in-t]] · [[2026-10-27-unapproved-ai-tool-use-exposed-patient-data-at-johns-hopkins]]
 <!-- graph:end -->

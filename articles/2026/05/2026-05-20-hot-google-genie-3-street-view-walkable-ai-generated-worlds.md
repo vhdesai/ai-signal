@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi
 - 2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i
+- 2026-10-27-genie-4-a-new-generation-of-world-simulation
 - 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
-- 2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio
-- 2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city
+- 2026-10-27-google-deepmind-s-genie-4-adds-native-audio-and-longer-real
 embedding_id: 2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind has connected its Genie 3 world model to Street View imagery, al
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi]] · [[2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i]] · [[2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl]] · [[2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio]] · [[2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city]]
+**Related:** [[2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi]] · [[2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i]] · [[2026-10-27-genie-4-a-new-generation-of-world-simulation]] · [[2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl]] · [[2026-10-27-google-deepmind-s-genie-4-adds-native-audio-and-longer-real]]
 <!-- graph:end -->

@@ -1,13 +1,30 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3615
+member_count: 3632
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3615 connected article(s).
+> Auto-generated topic hub. 3632 connected article(s).
 
+- `2026-10-28` [[2026-10-28-openai-highlights-legora-s-legal-work-operating-layer-built|OpenAI highlights Legora’s legal-work operating layer built on ChatGPT and Codex]]
+- `2026-10-28` [[2026-10-28-openai-and-anthropic-independently-claim-to-disprove-the-exp|OpenAI and Anthropic independently claim to disprove the Exponential Time Hypothesis]]
+- `2026-10-28` [[2026-10-28-cerebras-and-oracle-plan-oci-availability-for-cerebras-infer|Cerebras and Oracle plan OCI availability for Cerebras inference]]
+- `2026-10-28` [[2026-10-28-anthropic-pushes-claude-deeper-into-drug-discovery-with-acqu|Anthropic pushes Claude deeper into drug discovery with acquisition and pharma partnerships]]
+- `2026-10-27` [[2026-10-27-who-controls-anthropic-post-ipo-remains-a-central-governance|Who controls Anthropic post-IPO remains a central governance question]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-over-alleged-gpt-4o-medication-advice|Parents sue OpenAI over alleged GPT-4o medication advice]]
+- `2026-10-27` [[2026-10-27-openai-spotlights-retell-s-scale-in-voice-agent-workloads|OpenAI spotlights Retell’s scale in voice-agent workloads]]
+- `2026-10-27` [[2026-10-27-liquid-ai-releases-the-lfm3-open-weight-model-family|Liquid AI releases the LFM3 open-weight model family]]
+- `2026-10-27` [[2026-10-27-liquid-ai-releases-lfm3-family-of-2b-class-multimodal-open-w|Liquid AI releases LFM3 family of 2B-class multimodal open-weight models]]
+- `2026-10-27` [[2026-10-27-lawsuit-alleges-harmful-medical-guidance-from-gpt-4o-interac|Lawsuit alleges harmful medical guidance from GPT-4o interactions]]
+- `2026-10-27` [[2026-10-27-google-deepmind-s-genie-4-adds-native-audio-and-longer-real|Google DeepMind’s Genie 4 adds native audio and longer real-time world consistency]]
+- `2026-10-27` [[2026-10-27-genie-4-a-new-generation-of-world-simulation|Genie 4: A new generation of world simulation]]
+- `2026-10-27` [[2026-10-27-former-meta-ai-leader-launches-startup-aimed-at-office-and-w|Former Meta AI leader launches startup aimed at Office and Workspace workflows]]
+- `2026-10-27` [[2026-10-27-debate-intensifies-over-claims-that-frontier-models-challeng|Debate intensifies over claims that frontier models challenged ETH assumptions]]
+- `2026-10-27` [[2026-10-27-berkeley-linked-leann-work-highlights-major-vector-index-mem|Berkeley-linked LEANN work highlights major vector-index memory compression tradeoffs]]
+- `2026-10-27` [[2026-10-27-amazon-s-economics-in-anthropic-s-ipo-appear-larger-than-mos|Amazon’s economics in Anthropic’s IPO appear larger than most VC outcomes]]
+- `2026-10-27` [[2026-10-27-amazon-guidance-favors-outcomes-over-ai-usage-volume|Amazon guidance favors outcomes over AI-usage volume]]
 - `2026-10-25` [[2026-10-25-techcrunch-reports-on-a-convovo-study-led-by-a-cornell-affil|TechCrunch reports on a Convovo study led by a Cornell-affiliated researcher examining forced-choice election…]]
 - `2026-10-25` [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti|New OpenAI’s reported enterprise discounts sharpen competition with Anthropic]]
 - `2026-10-25` [[2026-10-25-marktechpost-s-technical-walkthrough-examines-a-heavily-quan|MarkTechPost’s technical walkthrough examines a heavily quantized Qwen3.8-derived model intended to preserve…]]

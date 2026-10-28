@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1674
+member_count: 1675
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1674 connected article(s).
+> Auto-generated topic hub. 1675 connected article(s).
 
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
 - `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
 - `2026-10-24` [[2026-10-24-kimi-k3-1-pro-launches|Kimi K3.1 Pro launches]]

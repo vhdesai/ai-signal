@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 428
+member_count: 429
 ---
 
 # xAI
 
-> Auto-generated entity hub. 428 connected article(s).
+> Auto-generated entity hub. 429 connected article(s).
 
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-24` [[2026-10-24-block-s-new-voice-model-sounds-eerily-human|Block’s new voice model sounds eerily human]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-12` [[2026-10-12-xai-and-cursor-bundle-grok-cursor-and-x-premium-into-one-sub|xAI and Cursor bundle Grok, Cursor and X Premium into one subscription]]

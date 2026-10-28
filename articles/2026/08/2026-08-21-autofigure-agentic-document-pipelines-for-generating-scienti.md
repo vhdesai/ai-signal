@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with
 - 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
 - 2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu
+- 2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-- 2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec
 embedding_id: 2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MarkTechPost published a technical walkthrough of AutoFigure, a toolkit that gen
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with]] · [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]] · [[2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec]]
+**Related:** [[2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with]] · [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]] · [[2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu]] · [[2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
 <!-- graph:end -->

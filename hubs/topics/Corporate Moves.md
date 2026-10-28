@@ -1,13 +1,24 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5037
+member_count: 5048
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5037 connected article(s).
+> Auto-generated topic hub. 5048 connected article(s).
 
+- `2026-10-28` [[2026-10-28-former-doj-antitrust-leaders-launch-fluxcap-an-ai-platform-f|Former DOJ antitrust leaders launch FluxCap, an AI platform for litigation]]
+- `2026-10-28` [[2026-10-28-anthropic-buys-a-one-person-biotech-and-starts-its-own-drug|Anthropic buys a one-person biotech and starts its own drug programmes]]
+- `2026-10-28` [[2026-10-28-amazon-expands-shop-direct-to-defend-against-cross-retailer|Amazon expands Shop Direct to defend against cross-retailer AI shopping agents]]
+- `2026-10-27` [[2026-10-27-who-controls-anthropic-post-ipo-remains-a-central-governance|Who controls Anthropic post-IPO remains a central governance question]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-over-alleged-gpt-4o-medication-advice|Parents sue OpenAI over alleged GPT-4o medication advice]]
+- `2026-10-27` [[2026-10-27-openai-spotlights-retell-s-scale-in-voice-agent-workloads|OpenAI spotlights Retell’s scale in voice-agent workloads]]
+- `2026-10-27` [[2026-10-27-liquid-ai-releases-the-lfm3-open-weight-model-family|Liquid AI releases the LFM3 open-weight model family]]
+- `2026-10-27` [[2026-10-27-google-deepmind-s-genie-4-adds-native-audio-and-longer-real|Google DeepMind’s Genie 4 adds native audio and longer real-time world consistency]]
+- `2026-10-27` [[2026-10-27-former-meta-ai-leader-launches-startup-aimed-at-office-and-w|Former Meta AI leader launches startup aimed at Office and Workspace workflows]]
+- `2026-10-27` [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com|Anthropic’s IPO filing exposes frontier AI economics and compute intensity]]
+- `2026-10-27` [[2026-10-27-amazon-s-economics-in-anthropic-s-ipo-appear-larger-than-mos|Amazon’s economics in Anthropic’s IPO appear larger than most VC outcomes]]
 - `2026-10-26` [[2026-10-26-sk-hynix-pauses-solidigm-s-us-listing-as-ai-valuations-face|SK Hynix pauses Solidigm's US listing as AI valuations face a market test]]
 - `2026-10-26` [[2026-10-26-meta-s-muse-reaches-10-million-downloads-shifting-focus-to-m|Meta's Muse reaches 10 million downloads, shifting focus to monetization quality]]
 - `2026-10-26` [[2026-10-26-meta-s-muse-passes-10-million-users-putting-monetization-in|Meta's Muse passes 10 million users, putting monetization in focus]]

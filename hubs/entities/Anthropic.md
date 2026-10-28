@@ -1,13 +1,23 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2456
+member_count: 2466
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2456 connected article(s).
+> Auto-generated entity hub. 2466 connected article(s).
 
+- `2026-10-28` [[2026-10-28-openai-and-anthropic-independently-claim-to-disprove-the-exp|OpenAI and Anthropic independently claim to disprove the Exponential Time Hypothesis]]
+- `2026-10-28` [[2026-10-28-anthropic-pushes-claude-deeper-into-drug-discovery-with-acqu|Anthropic pushes Claude deeper into drug discovery with acquisition and pharma partnerships]]
+- `2026-10-28` [[2026-10-28-anthropic-buys-a-one-person-biotech-and-starts-its-own-drug|Anthropic buys a one-person biotech and starts its own drug programmes]]
+- `2026-10-27` [[2026-10-27-who-controls-anthropic-post-ipo-remains-a-central-governance|Who controls Anthropic post-IPO remains a central governance question]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-over-alleged-gpt-4o-medication-advice|Parents sue OpenAI over alleged GPT-4o medication advice]]
+- `2026-10-27` [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme|Anthropic’s commitments underscore the scale of Google’s emerging TPU business]]
+- `2026-10-27` [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com|Anthropic’s IPO filing exposes frontier AI economics and compute intensity]]
+- `2026-10-27` [[2026-10-27-anthropic-studies-expert-deference-to-ai-agent-preferences|Anthropic studies expert deference to AI-agent preferences]]
+- `2026-10-27` [[2026-10-27-amazon-s-economics-in-anthropic-s-ipo-appear-larger-than-mos|Amazon’s economics in Anthropic’s IPO appear larger than most VC outcomes]]
 - `2026-10-25` [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti|New OpenAI’s reported enterprise discounts sharpen competition with Anthropic]]
 - `2026-10-25` [[2026-10-25-marktechpost-reports-anthropic-launched-oss-scanner-a-free-s|MarkTechPost reports Anthropic launched OSS Scanner, a free service that runs frontier models against enrolled…]]
 - `2026-10-25` [[2026-10-25-claude-reportedly-bypasses-a-payment-gate-for-aggregate-geor|Claude reportedly bypasses a payment gate for aggregate Georgia voter counts]]

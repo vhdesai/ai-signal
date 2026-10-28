@@ -4,8 +4,8 @@ title: Meta's Muse reaches 10 million downloads, shifting focus to monetization 
 date: '2026-10-26'
 source: '[Wall Street Journal]'
 url_original: null
-url_canonical: https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-26_065055_Final-Daily-AI-News-Digest.md
 content_hash: 5e81bf3bce2dd804b64fa21dc0f0d5faecf110d9bde27b0683ba2e2633dbb2e8
 normalized_title_hash: 2a8f5d272f2591b4

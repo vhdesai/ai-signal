@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-18-wsj-deep-dive-trump-s-privateer-hacking-plan-brings-high-ris
 - 2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially
 - 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
-- 2026-08-01-ai-for-car-diagnostics-promise-and-pitfalls-of-consumer-ai-t
+- 2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale
 embedding_id: 2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig
 event_name: ''
 ---
@@ -34,5 +34,5 @@ WSJ Pro reports that the rapidly expanding data footprint inside connected vehic
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-18-wsj-deep-dive-trump-s-privateer-hacking-plan-brings-high-ris]] · [[2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially]] · [[2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt]] · [[2026-08-01-ai-for-car-diagnostics-promise-and-pitfalls-of-consumer-ai-t]]
+**Related:** [[2026-08-18-wsj-deep-dive-trump-s-privateer-hacking-plan-brings-high-ris]] · [[2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially]] · [[2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt]] · [[2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale]]
 <!-- graph:end -->

@@ -1,13 +1,21 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2326
+member_count: 2334
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2326 connected article(s).
+> Auto-generated topic hub. 2334 connected article(s).
 
+- `2026-10-28` [[2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec|Princeton and collaborators release FlashMap speculative decoding approach]]
+- `2026-10-28` [[2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale|AI-assisted cyberattacks are accelerating at internet scale]]
+- `2026-10-27` [[2026-10-27-unapproved-ai-tool-use-exposed-patient-data-at-johns-hopkins|Unapproved AI-tool use exposed patient data at Johns Hopkins Bayview]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
+- `2026-10-27` [[2026-10-27-lawsuit-alleges-harmful-medical-guidance-from-gpt-4o-interac|Lawsuit alleges harmful medical guidance from GPT-4o interactions]]
+- `2026-10-27` [[2026-10-27-florida-advances-a-broader-state-level-ai-privacy-and-safety|Florida advances a broader state-level AI privacy and safety agenda]]
+- `2026-10-27` [[2026-10-27-bank-of-america-warns-customers-against-giving-ai-assistants|Bank of America warns customers against giving AI assistants banking passwords]]
+- `2026-10-27` [[2026-10-27-anthropic-studies-expert-deference-to-ai-agent-preferences|Anthropic studies expert deference to AI-agent preferences]]
 - `2026-10-26` [[2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo|Big Tech's litigation exposure offers a warning for AI deployment]]
 - `2026-10-25` [[2026-10-25-techcrunch-s-roundup-of-text-message-based-agents-shows-a-gr|TechCrunch’s roundup of text-message-based agents shows a growing competitive layer delivered over SMS/iMessage/RCS…]]
 - `2026-10-25` [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti|New OpenAI’s reported enterprise discounts sharpen competition with Anthropic]]

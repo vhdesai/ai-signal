@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2795
+member_count: 2802
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2795 connected article(s).
+> Auto-generated entity hub. 2802 connected article(s).
 
+- `2026-10-28` [[2026-10-28-openai-highlights-legora-s-legal-work-operating-layer-built|OpenAI highlights Legora’s legal-work operating layer built on ChatGPT and Codex]]
+- `2026-10-28` [[2026-10-28-openai-and-anthropic-independently-claim-to-disprove-the-exp|OpenAI and Anthropic independently claim to disprove the Exponential Time Hypothesis]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
+- `2026-10-27` [[2026-10-27-parents-sue-openai-over-alleged-gpt-4o-medication-advice|Parents sue OpenAI over alleged GPT-4o medication advice]]
+- `2026-10-27` [[2026-10-27-openai-spotlights-retell-s-scale-in-voice-agent-workloads|OpenAI spotlights Retell’s scale in voice-agent workloads]]
+- `2026-10-27` [[2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b|OpenAI plans to buy Google TPUs as Google expands AI chips beyond its own cloud]]
+- `2026-10-27` [[2026-10-27-google-deepmind-s-genie-4-adds-native-audio-and-longer-real|Google DeepMind’s Genie 4 adds native audio and longer real-time world consistency]]
 - `2026-10-25` [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti|New OpenAI’s reported enterprise discounts sharpen competition with Anthropic]]
 - `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
 - `2026-10-24` [[2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod|Study finds strong partisan divergence between API-level model recommendations in U.S. midterm race prompts]]

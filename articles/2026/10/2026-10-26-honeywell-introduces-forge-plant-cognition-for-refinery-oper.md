@@ -4,8 +4,8 @@ title: Honeywell introduces Forge Plant Cognition for refinery operations
 date: '2026-10-26'
 source: '[Business Wire]'
 url_original: null
-url_canonical: https://www.honeywell.com/us/en/news/press-releases/2026/10/honeywell-technologies-launches-forge-plant-cognition-with-dangote-built-with-ndivia-ai-dell-technologies
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-26_121525_Final-Daily-AI-News-Digest.md
 content_hash: 7bfbf2106c96ccea76625a686496ec7432f4d79adfce6f8dd97ffde673fdbbbf
 normalized_title_hash: 9545c9940509e5df

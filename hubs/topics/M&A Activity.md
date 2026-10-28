@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 517
+member_count: 520
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 517 connected article(s).
+> Auto-generated topic hub. 520 connected article(s).
 
+- `2026-10-28` [[2026-10-28-anthropic-pushes-claude-deeper-into-drug-discovery-with-acqu|Anthropic pushes Claude deeper into drug discovery with acquisition and pharma partnerships]]
+- `2026-10-28` [[2026-10-28-anthropic-buys-a-one-person-biotech-and-starts-its-own-drug|Anthropic buys a one-person biotech and starts its own drug programmes]]
+- `2026-10-27` [[2026-10-27-onsemi-explores-a-ferric-acquisition-as-ai-chip-power-demand|Onsemi explores a Ferric acquisition as AI-chip power demands rise]]
 - `2026-10-26` [[2026-10-26-enterprise-data-is-emerging-as-a-primary-ai-training-asset|Enterprise data is emerging as a primary AI training asset]]
 - `2026-10-26` [[2026-10-26-companies-workplace-data-becomes-a-contested-ai-training-ass|Companies' workplace data becomes a contested AI training asset]]
 - `2026-10-20` [[2026-10-20-openai-acquires-orchestra-bio-to-deepen-life-sciences-operat|OpenAI acquires Orchestra Bio to deepen life-sciences operations]]

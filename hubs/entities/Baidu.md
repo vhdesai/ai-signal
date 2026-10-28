@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 125
+member_count: 126
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 125 connected article(s).
+> Auto-generated entity hub. 126 connected article(s).
 
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]

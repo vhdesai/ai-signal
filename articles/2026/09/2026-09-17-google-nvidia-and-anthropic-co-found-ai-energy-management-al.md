@@ -25,8 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-17-google-nvidia-and-anthropic-launch-ai-energy-management-alli
+- 2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme
 - 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
-- 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
 embedding_id: 2026-09-17-google-nvidia-and-anthropic-co-found-ai-energy-management-al
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google, Nvidia, and Anthropic co-founded the AI Energy Management Alliance (AEMA
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-17-google-nvidia-and-anthropic-launch-ai-energy-management-alli]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]]
+**Related:** [[2026-09-17-google-nvidia-and-anthropic-launch-ai-energy-management-alli]] · [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]]
 <!-- graph:end -->

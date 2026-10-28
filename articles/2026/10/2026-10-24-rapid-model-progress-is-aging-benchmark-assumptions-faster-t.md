@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-24-once-difficult-math-questions-show-why-ai-benchmarks-need-re
 - 2026-06-26-this-preprint-argues-that-standard-benchmarks-substantially
+- 2026-10-27-debate-intensifies-over-claims-that-frontier-models-challeng
 - 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
-- 2026-07-22-openai-publishes-research-on-capacity-measurement-for-fronti
 embedding_id: 2026-10-24-rapid-model-progress-is-aging-benchmark-assumptions-faster-t
 event_name: ''
 ---
@@ -35,5 +35,5 @@ The Wall Street Journal notes that math tasks that previously challenged frontie
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-24-once-difficult-math-questions-show-why-ai-benchmarks-need-re]] · [[2026-06-26-this-preprint-argues-that-standard-benchmarks-substantially]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-07-22-openai-publishes-research-on-capacity-measurement-for-fronti]]
+**Related:** [[2026-10-24-once-difficult-math-questions-show-why-ai-benchmarks-need-re]] · [[2026-06-26-this-preprint-argues-that-standard-benchmarks-substantially]] · [[2026-10-27-debate-intensifies-over-claims-that-frontier-models-challeng]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]]
 <!-- graph:end -->

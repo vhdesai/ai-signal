@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-17-doj-investigating-andreessen-horowitz-over-partners-holding
 - 2026-08-21-doj-investigating-a16z-under-112-year-old-antitrust-law-over
 - 2026-08-18-a16z-faces-doj-antitrust-scrutiny-over-board-seats-at-databr
-- 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
+- 2026-10-28-former-doj-antitrust-leaders-launch-fluxcap-an-ai-platform-f
 embedding_id: 2026-08-17-doj-investigating-a16z-over-board-seats-at-competing-ai-data
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DOJ examining whether a16z partners violated Section 8 of the Clayton Act via in
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-17-doj-investigating-andreessen-horowitz-over-board-seats-at-co]] · [[2026-08-17-doj-investigating-andreessen-horowitz-over-partners-holding]] · [[2026-08-21-doj-investigating-a16z-under-112-year-old-antitrust-law-over]] · [[2026-08-18-a16z-faces-doj-antitrust-scrutiny-over-board-seats-at-databr]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]]
+**Related:** [[2026-08-17-doj-investigating-andreessen-horowitz-over-board-seats-at-co]] · [[2026-08-17-doj-investigating-andreessen-horowitz-over-partners-holding]] · [[2026-08-21-doj-investigating-a16z-under-112-year-old-antitrust-law-over]] · [[2026-08-18-a16z-faces-doj-antitrust-scrutiny-over-board-seats-at-databr]] · [[2026-10-28-former-doj-antitrust-leaders-launch-fluxcap-an-ai-platform-f]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-24-ai-enabled-attacks-are-accelerating-and-increasing-pressure
+- 2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
 - 2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p
 - 2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos
-- 2026-10-22-ai-assisted-analysis-surfaced-a-critical-php-vulnerability-w
 embedding_id: 2026-10-24-ai-assisted-attacks-increase-the-burden-on-internet-defender
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ reports growing use of AI in cyberattacks and mounting pressure on defenders
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-24-ai-enabled-attacks-are-accelerating-and-increasing-pressure]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p]] · [[2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos]] · [[2026-10-22-ai-assisted-analysis-surfaced-a-critical-php-vulnerability-w]]
+**Related:** [[2026-10-24-ai-enabled-attacks-are-accelerating-and-increasing-pressure]] · [[2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p]] · [[2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos]]
 <!-- graph:end -->

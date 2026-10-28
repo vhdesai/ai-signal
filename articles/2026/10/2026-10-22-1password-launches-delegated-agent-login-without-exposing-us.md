@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
+- 2026-10-27-bank-of-america-warns-customers-against-giving-ai-assistants
 - 2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi
-- 2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa
 embedding_id: 2026-10-22-1password-launches-delegated-agent-login-without-exposing-us
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reports 1Password for Agents, which lets agents complete account sign
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi]] · [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]]
+**Related:** [[2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-10-27-bank-of-america-warns-customers-against-giving-ai-assistants]] · [[2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi]]
 <!-- graph:end -->

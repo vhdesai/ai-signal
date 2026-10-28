@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
 - 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
+- 2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme
 - 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
 - 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
-- 2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow
 embedding_id: 2026-09-11-google-cloud-publishes-thomas-kurian-s-goldman-sachs-communi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Primary-source metrics worth recording: 17 product lines with more than $1 billi
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow]]
+**Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a]] · [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]]
 <!-- graph:end -->

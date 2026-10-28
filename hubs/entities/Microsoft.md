@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1070
+member_count: 1072
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1070 connected article(s).
+> Auto-generated entity hub. 1072 connected article(s).
 
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
+- `2026-10-27` [[2026-10-27-former-meta-ai-leader-launches-startup-aimed-at-office-and-w|Former Meta AI leader launches startup aimed at Office and Workspace workflows]]
 - `2026-10-25` [[2026-10-25-marktechpost-reports-microsoft-research-released-agensh-a-mu|MarkTechPost reports Microsoft Research released Agensh, a multi-agent harness designed to scale coding teams up to…]]
 - `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
 - `2026-10-24` [[2026-10-24-microsoft-open-sources-agensh-a-decentralized-harness-tested|Microsoft open-sources Agensh, a decentralized harness tested up to 1,024 coding agents]]

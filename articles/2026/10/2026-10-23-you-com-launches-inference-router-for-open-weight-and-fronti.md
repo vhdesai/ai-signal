@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
 - 2026-07-23-stripe-reportedly-in-talks-to-buy-ai-model-marketplace-openr
+- 2026-10-28-cerebras-and-oracle-plan-oci-availability-for-cerebras-infer
 - 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
-- 2026-05-25-chinese-models-cross-60-of-all-openrouter-usage
 embedding_id: 2026-10-23-you-com-launches-inference-router-for-open-weight-and-fronti
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AiThority reports You.com launched an OpenAI-compatible inference router with SL
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-07-23-stripe-reportedly-in-talks-to-buy-ai-model-marketplace-openr]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]] · [[2026-05-25-chinese-models-cross-60-of-all-openrouter-usage]]
+**Related:** [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-07-23-stripe-reportedly-in-talks-to-buy-ai-model-marketplace-openr]] · [[2026-10-28-cerebras-and-oracle-plan-oci-availability-for-cerebras-infer]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]]
 <!-- graph:end -->

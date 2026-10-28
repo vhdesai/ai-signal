@@ -23,6 +23,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
 - 2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the
@@ -39,5 +40,5 @@ The Information indicates Anthropic could make public its IPO paperwork imminent
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]]
-**Related:** [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the]]
+**Related:** [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the]]
 <!-- graph:end -->

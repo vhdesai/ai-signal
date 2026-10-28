@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c
 - 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
+- 2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b
+- 2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme
 - 2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch
-- 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 embedding_id: 2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Sources inside Google report that internal competition for TPU allocations has i
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]] · [[2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
+**Related:** [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b]] · [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme]] · [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]]
 <!-- graph:end -->

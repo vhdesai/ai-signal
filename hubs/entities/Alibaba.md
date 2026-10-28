@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 456
+member_count: 457
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 456 connected article(s).
+> Auto-generated entity hub. 457 connected article(s).
 
+- `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
 - `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]
 - `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]

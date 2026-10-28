@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
 - 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
+- 2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec
 - 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
-- 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
 embedding_id: 2026-05-02-apple-s-machine-learning-research-team-published-three-paper
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple's machine learning research team published three papers at ICASSP 2026 cov
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]] · [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod]] · [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]]
+**Related:** [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]] · [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec]] · [[2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod]]
 <!-- graph:end -->
