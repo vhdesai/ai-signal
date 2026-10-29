@@ -5,7 +5,7 @@ date: '2026-09-17'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/17/google-nvidia-anthropic-aema-energy-alliance/
 url_canonical: https://techcrunch.com/2026/09/17/google-nvidia-anthropic-aema-energy-alliance/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-19_070347_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 1893e7863fed2c989aaf1eccfe5e6bda72447b8976a4cc55e6e3c556f72a0da5

@@ -5,7 +5,7 @@ date: '2026-10-27'
 source: '[WSJ Pro Cybersecurity]'
 url_original: https://www.beckershospitalreview.com/healthcare-information-technology/ai/johns-hopkins-alerts-3182-patients-after-worker-uploads-data-to-unapproved-ai-tool/
 url_canonical: https://www.beckershospitalreview.com/healthcare-information-technology/ai/johns-hopkins-alerts-3182-patients-after-worker-uploads-data-to-unapproved-ai-tool/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-28_065034_Final-Daily-AI-News-Digest.md
 content_hash: 8351d78d29005a2ed530ef66cd19325e0066d0ce84b0b38830dd459d49d18628
 normalized_title_hash: 5daaafc1b1cbbc0b

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8
 - 2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea
 - 2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co
-- 2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr
+- 2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net
 embedding_id: 2026-07-30-microsoft-q4-blowout-profit-jumps-31-cloud-posts-fastest-gro
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft reported quarterly profit of $35.8 billion, a 31% surge that beat cons
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8]] · [[2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea]] · [[2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co]] · [[2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr]]
+**Related:** [[2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8]] · [[2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea]] · [[2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co]] · [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net]]
 <!-- graph:end -->

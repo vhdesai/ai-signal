@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: PitchBook
 url_original: https://pitchbook.com/news/articles/kalshi-long-odds-tech-pe-software-credit-2026-09-25
 url_canonical: https://pitchbook.com/news/articles/kalshi-long-odds-tech-pe-software-credit-2026-09-25
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-25_181041_Inbox_Fw Daily AI News Digest – September
   25, 2026.md
 content_hash: 31fafdc8d82566001ca05a20a0d59cdecb5acd87879f8327d911d6c9c20a6f30
@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-29-october-29-2026-pitchbook
 - 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
 - 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
 - 2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows
-- 2026-10-19-october-20-2026-pitchbook
 embedding_id: 2026-09-25-pitchbook-software-borrowers-under-stress-lead-private-credi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PitchBook's Daily Pitch reports the private-credit watchlist rose to 583 compani
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows]] · [[2026-10-19-october-20-2026-pitchbook]]
+**Related:** [[2026-10-29-october-29-2026-pitchbook]] · [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows]]
 <!-- graph:end -->

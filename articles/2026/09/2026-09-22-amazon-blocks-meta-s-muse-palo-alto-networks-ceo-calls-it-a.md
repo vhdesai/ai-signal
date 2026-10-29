@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: The Information
 url_original: https://www.theinformation.com/articles/the-briefings-amazon-v-meta
 url_canonical: https://www.theinformation.com/articles/the-briefings-amazon-v-meta
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 82e931c2c349566821f0487c4297c9d0de37d80bc00b00168cb1e54f56a26c59

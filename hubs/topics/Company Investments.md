@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1325
+member_count: 1329
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1325 connected article(s).
+> Auto-generated topic hub. 1329 connected article(s).
 
+- `2026-10-29` [[2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back|NYSE's Lynn Martin says Anthropic's listing is holding back the IPO pipeline]]
+- `2026-10-29` [[2026-10-29-daily-ai-news-digest-october-29-2026|Daily AI News Digest – October 29, 2026]]
+- `2026-10-29` [[2026-10-29-anthropic-s-ipo-is-setting-the-tempo-for-the-entire-listings|Anthropic's IPO is setting the tempo for the entire listings pipeline]]
+- `2026-10-28` [[2026-10-28-october-28-2026-house-science-committee-democrats|[October 28, 2026] · [House Science Committee Democrats]]]
 - `2026-10-28` [[2026-10-28-former-doj-antitrust-leaders-launch-fluxcap-an-ai-platform-f|Former DOJ antitrust leaders launch FluxCap, an AI platform for litigation]]
 - `2026-10-27` [[2026-10-27-who-controls-anthropic-post-ipo-remains-a-central-governance|Who controls Anthropic post-IPO remains a central governance question]]
 - `2026-10-27` [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com|Anthropic’s IPO filing exposes frontier AI economics and compute intensity]]

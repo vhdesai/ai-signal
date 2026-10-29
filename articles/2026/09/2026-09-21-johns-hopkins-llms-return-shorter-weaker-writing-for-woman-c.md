@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: Tech Xplore (Johns Hopkins release)]
 url_original: https://techxplore.com/news/2026-09-llms-weaker-writing-woman-coded-prompts.html
 url_canonical: https://techxplore.com/news/2026-09-llms-weaker-writing-woman-coded-prompts.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: 48eb140c8ec2a93f6beac9f8b12dd5df8c6b98e12c630a3c818592e304695a4d
@@ -31,6 +31,7 @@ related_article_ids:
 - 2026-09-21-johns-hopkins-llms-return-weaker-writing-for-woman-coded-pro
 - 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
 - 2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu
+- 2026-10-29-university-of-washington-researchers-presented-micro-languag
 - 2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a
 embedding_id: 2026-09-21-johns-hopkins-llms-return-shorter-weaker-writing-for-woman-c
 event_name: ''
@@ -45,5 +46,5 @@ Johns Hopkins researchers — senior author Anjalie Field, lead Katherine Van Ko
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Microsoft]] · [[Mistral]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-21-johns-hopkins-llms-return-weaker-writing-for-woman-coded-pro]] · [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]] · [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]]
+**Related:** [[2026-09-21-johns-hopkins-llms-return-weaker-writing-for-woman-coded-pro]] · [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]] · [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu]] · [[2026-10-29-university-of-washington-researchers-presented-micro-languag]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]]
 <!-- graph:end -->

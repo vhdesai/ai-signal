@@ -5,7 +5,7 @@ date: '2026-10-28'
 source: '[AiThority]'
 url_original: https://aithority.com/machine-learning/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure/
 url_canonical: https://aithority.com/machine-learning/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-28_131127_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: e13ae3c5f8cf4dce2f5ea4a741ae5b034989f6d25b37d8adcd8bde601b0b1369

@@ -5,7 +5,7 @@ date: '2026-10-14'
 source: Reuters
 url_original: https://www.reuters.com/business/finance/anthropics-q3-revenue-surges-45-nearly-17-billion-2026-10-14/
 url_canonical: https://www.reuters.com/business/finance/anthropics-q3-revenue-surges-45-nearly-17-billion-2026-10-14/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-15_061934_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 54fa2d7f10bb4e5f9418b70c375fe5536d8bfca98c6458542c523c25f83b5866

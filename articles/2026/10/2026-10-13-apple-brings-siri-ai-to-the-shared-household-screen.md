@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: Apple
 url_original: https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/
 url_canonical: https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-14_063518_Inbox_Daily AI News Digest – October
   14, 2026.md
 content_hash: b50a080055a99a6bbcfa32cc45f41607287f1bdf9f3af5fe49c7c6ce1e9a389e

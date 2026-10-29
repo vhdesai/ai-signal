@@ -6,7 +6,7 @@ date: '2026-10-14'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/
 url_canonical: https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 69794a7e3a8a1235b5dd8ac429f1fe7e63abf5130f7fa8d3b983633ba7ce6f22

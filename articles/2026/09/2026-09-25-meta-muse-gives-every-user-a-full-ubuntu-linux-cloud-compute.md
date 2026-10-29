@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: The Decoder
 url_original: https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/
 url_canonical: https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: ed42021c2ca3af0994d041cb498e08ae54ddcbe7a6fa780feb3ba7f9b251b4bf

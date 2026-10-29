@@ -5,7 +5,7 @@ date: '2026-10-08'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts
 url_canonical: https://www.scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: 26fbbbe9b4027d32c6a4a250e7c24f29708b1f8dd71d4c50624ee97ff3ef250b

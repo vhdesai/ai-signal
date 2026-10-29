@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: BuildFastWithAI
 url_original: https://blog.buildfastwithai.com/ai-news-today-september-22-2026
 url_canonical: https://blog.buildfastwithai.com/ai-news-today-september-22-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_062119_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: c90ed38aa153b76e21b02a254d4ec2fe4f12060d9f781576b2784aecfe1eeb07

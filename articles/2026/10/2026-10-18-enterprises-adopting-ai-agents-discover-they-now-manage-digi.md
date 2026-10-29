@@ -5,7 +5,7 @@ date: '2026-10-18'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3371246/ai-promise-was-automation-reality-managing-digital-workers
 url_canonical: https://www.scmp.com/tech/big-tech/article/3371246/ai-promise-was-automation-reality-managing-digital-workers
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-18_123234_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 1070291806d18d192991d88488ce3917b2132d1046a1c580088487972f5b7e3d

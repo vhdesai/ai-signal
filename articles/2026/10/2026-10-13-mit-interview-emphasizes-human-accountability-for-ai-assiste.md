@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: MIT School of Architecture and Planning
 url_original: https://sap.mit.edu/news/qa-building-accountability-behind-our-words-and-ais-civic-conversations
 url_canonical: https://sap.mit.edu/news/qa-building-accountability-behind-our-words-and-ais-civic-conversations
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_065254_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 7bb4cd0e2e8f8a7a1a5c7fc1666d4a95728038ede0c9970ae35180fd0a7327f9

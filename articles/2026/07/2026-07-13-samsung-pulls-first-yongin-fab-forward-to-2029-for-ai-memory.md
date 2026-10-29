@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Next Web · The Information
 url_original: https://thenextweb.com/news/samsung-yongin-first-fab-2029
 url_canonical: https://thenextweb.com/news/samsung-yongin-first-fab-2029
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: 1e3865b48c730a85ad5a31e7aa0ce36e5717306ebfc76072e4c14a5f8674dfd1

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
+- 2026-10-29-october-28-2026-cnbc
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
-- 2026-10-17-meta-removes-disputed-ai-training-language-from-business-ter
 embedding_id: 2026-07-08-france-s-competition-watchdog-orders-meta-to-negotiate-with
 event_name: ''
 ---
@@ -39,5 +39,5 @@ France’s antitrust authority ordered Meta to negotiate “in good faith” wit
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-10-17-meta-removes-disputed-ai-training-language-from-business-ter]]
+**Related:** [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-10-29-october-28-2026-cnbc]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]]
 <!-- graph:end -->

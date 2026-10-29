@@ -5,7 +5,7 @@ date: '2026-06-27'
 source: Softonic
 url_original: https://en.softonic.com/articles/illada-is-out-the-8b-model-matches-qwen2-5-7b
 url_canonical: https://en.softonic.com/articles/illada-is-out-the-8b-model-matches-qwen2-5-7b
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: f554bb60b633677f150b78ce35b1abcb71a45f5ae9b5c09c5a2d35b4f1a59804

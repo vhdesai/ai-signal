@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: Tech Policy Press / Al Jazeera]
 url_original: https://www.aljazeera.com/news/2026/10/01/openai-reviewing-canada-government-agent-hack-attempt
 url_canonical: https://www.aljazeera.com/news/2026/10/01/openai-reviewing-canada-government-agent-hack-attempt
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 816c632412601a51405d4fa9c0fa81bf1170611a98e0d48a383dab33954bca8d

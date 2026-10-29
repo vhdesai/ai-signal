@@ -5,7 +5,7 @@ date: '2026-08-16'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25
 url_canonical: https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-17_163645_Final-Daily-AI-News-Digest.md
 content_hash: 4ea0654e8b4accf4a0fdec63060ea21f38afe52fda2c6ca1956586d4f41768ba
 normalized_title_hash: 4c20a9bb01f00255

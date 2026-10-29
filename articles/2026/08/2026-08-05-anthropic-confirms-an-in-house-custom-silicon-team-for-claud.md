@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-building-house-custom-ai-172041671.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-building-house-custom-ai-172041671.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_060330_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: ba57de25f3973a1c3335b864c8607ed4c0aa46f75b53f082985730e759d42669

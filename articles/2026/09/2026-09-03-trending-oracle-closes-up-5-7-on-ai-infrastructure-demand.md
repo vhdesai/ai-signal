@@ -23,8 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
+- 2026-10-29-october-29-2026-pitchbook
 - 2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain
-- 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke
+- 2026-10-29-ai-buildout-financing-shifts-toward-discipline-as-oracle-cap
 embedding_id: 2026-09-03-trending-oracle-closes-up-5-7-on-ai-infrastructure-demand
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Oracle closed sharply higher on Thursday, up 5.7% against a softer broader marke
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke]]
+**Related:** [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-10-29-october-29-2026-pitchbook]] · [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain]] · [[2026-10-29-ai-buildout-financing-shifts-toward-discipline-as-oracle-cap]]
 <!-- graph:end -->

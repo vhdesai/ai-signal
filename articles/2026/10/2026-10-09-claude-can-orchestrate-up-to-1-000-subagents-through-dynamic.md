@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: The Decoder
 url_original: https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/
 url_canonical: https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: a0bccd7bb46a42033279640438c22a69a01147c8f403676d7e34fa8633fdef78

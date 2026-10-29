@@ -5,7 +5,7 @@ date: '2026-10-27'
 source: '[The Information]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+Google+TPU+spending
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+Google+TPU+spending
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-28_065034_Final-Daily-AI-News-Digest.md
 content_hash: dbc6f1f79e8522e80accd53704a8771b480763ec1fe166792271b6bd13c06060
 normalized_title_hash: abd762f3bbc5c6de

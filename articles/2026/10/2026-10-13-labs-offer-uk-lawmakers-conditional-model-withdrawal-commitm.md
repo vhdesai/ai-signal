@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: 17:07 UTC · Sky News
 url_original: https://news.sky.com/story/tech-firms-promise-to-take-down-ai-platforms-if-british-secret-services-show-they-are-unsafe-13598926
 url_canonical: https://news.sky.com/story/tech-firms-promise-to-take-down-ai-platforms-if-british-secret-services-show-they-are-unsafe-13598926
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-14_060653_Inbox_Daily AI News Digest – October
   14, 2026.md
 content_hash: b84d491fa32f29eba1cceac05de93033d7f6494f3f2226fba9954d7a21504fe4

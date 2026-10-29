@@ -5,7 +5,7 @@ date: '2026-10-12'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/
 url_canonical: https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_060534_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 31e352a6a101323291ddf5fae3470e30fefae4064bae00f478d4c2853c17b6a5

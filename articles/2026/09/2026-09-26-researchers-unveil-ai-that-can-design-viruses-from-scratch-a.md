@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: The Cool Down / Times of India
 url_original: https://www.thecooldown.com/researchers-ai-design-viruses-from-scratch-2026
 url_canonical: https://www.thecooldown.com/researchers-ai-design-viruses-from-scratch-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 043a891108d4902486b8f47080ca911a7bd0abf82a1fc29ce6632423d6f3ec0a

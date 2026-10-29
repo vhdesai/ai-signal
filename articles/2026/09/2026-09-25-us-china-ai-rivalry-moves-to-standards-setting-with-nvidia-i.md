@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-central-global-ai-031851274.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-central-global-ai-031851274.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060617_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 865ebcb330e4ddd482dc1256c1f5390e4c3c574e91763cc428ffa668b17868d0

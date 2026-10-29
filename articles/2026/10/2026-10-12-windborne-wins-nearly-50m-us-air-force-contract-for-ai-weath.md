@@ -5,7 +5,7 @@ date: '2026-10-12'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/
 url_canonical: https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: c48a54cc179c112172a84ee02aa690c1003e3f7dfbde34983b8bf8ce398fcc20

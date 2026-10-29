@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
+- 2026-10-29-servicenow-sinks-19-as-investors-price-ai-risk-to-saas-even
 - 2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin
 - 2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar
 - 2026-10-11-ai-driven-dynamic-pricing-raises-consumer-trust-and-data-use
-- 2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p
 embedding_id: 2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ ServiceNow CEO Bill McDermott told Business Insider the company has moved off pu
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin]] · [[2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar]] · [[2026-10-11-ai-driven-dynamic-pricing-raises-consumer-trust-and-data-use]] · [[2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p]]
+**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-10-29-servicenow-sinks-19-as-investors-price-ai-risk-to-saas-even]] · [[2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin]] · [[2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar]] · [[2026-10-11-ai-driven-dynamic-pricing-raises-consumer-trust-and-data-use]]
 <!-- graph:end -->

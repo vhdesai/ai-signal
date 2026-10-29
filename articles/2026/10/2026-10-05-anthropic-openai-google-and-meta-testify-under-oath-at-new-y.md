@@ -6,7 +6,7 @@ date: '2026-10-05'
 source: CNBC
 url_original: https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html
 url_canonical: https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-06_060540_Inbox_Daily AI News Digest - October
   6, 2026.md
 content_hash: 646867f161a798594e4f80abc195e9b6ce133b9038ff5d4b0347f702780fe779

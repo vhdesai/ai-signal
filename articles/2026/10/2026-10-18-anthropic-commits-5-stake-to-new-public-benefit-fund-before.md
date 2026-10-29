@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-10-19-anthropic-public-benefit-pledge-draws-market-debate
 - 2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun
 - 2026-10-18-anthropic-commits-5-of-shares-to-new-public-benefit-fund
+- 2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back
 embedding_id: 2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Anthropic plans to set aside 5% of shares for a new public-benefit fund before i
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-10-18-anthropic-commits-5-stake-to-public-benefit-fund-before-ipo]] · [[2026-10-19-anthropic-public-benefit-pledge-draws-market-debate]] · [[2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun]] · [[2026-10-18-anthropic-commits-5-of-shares-to-new-public-benefit-fund]]
+**Related:** [[2026-10-18-anthropic-commits-5-stake-to-public-benefit-fund-before-ipo]] · [[2026-10-19-anthropic-public-benefit-pledge-draws-market-debate]] · [[2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun]] · [[2026-10-18-anthropic-commits-5-of-shares-to-new-public-benefit-fund]] · [[2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back]]
 <!-- graph:end -->

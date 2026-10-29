@@ -1,15 +1,24 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3632
+member_count: 3641
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3632 connected article(s).
+> Auto-generated topic hub. 3641 connected article(s).
 
+- `2026-10-29` [[2026-10-29-university-of-washington-researchers-presented-micro-languag|University of Washington researchers presented micro language models with 8 to 30 million parameters at EMNLP 2026]]
+- `2026-10-29` [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with|Google ships Gemini 4 Carbon weeks after Argon, leading with cyber-defense capability]]
+- `2026-10-29` [[2026-10-29-daishin-securities-reported-exposure-of-38-490-customers-per|Daishin Securities reported exposure of 38,490 customers' personal data, while Mirae Asset Global Investments and…]]
+- `2026-10-29` [[2026-10-29-carnegie-mellon-researchers-analyzed-14-581-facebook-ad-post|Carnegie Mellon researchers analyzed 14,581 Facebook ad posts from 310 pages linking to 383 domains and found spending…]]
+- `2026-10-28` [[2026-10-28-october-29-2026-the-information|[October 29, 2026] · [The Information]]]
+- `2026-10-28` [[2026-10-28-voice-ai-in-vogue-nvidia-releases-new-open-transcription-mod|Voice AI in vogue: Nvidia releases new open transcription model]]
 - `2026-10-28` [[2026-10-28-openai-highlights-legora-s-legal-work-operating-layer-built|OpenAI highlights Legora’s legal-work operating layer built on ChatGPT and Codex]]
 - `2026-10-28` [[2026-10-28-openai-and-anthropic-independently-claim-to-disprove-the-exp|OpenAI and Anthropic independently claim to disprove the Exponential Time Hypothesis]]
+- `2026-10-28` [[2026-10-28-openai-and-anthropic-both-claim-ai-models-disproved-the-expo|OpenAI and Anthropic both claim AI models disproved the exponential time hypothesis]]
+- `2026-10-28` [[2026-10-28-nvidia-releases-open-nemotron-transcription-weights-with-spe|NVIDIA releases open Nemotron transcription weights with speaker labels and translation]]
+- `2026-10-28` [[2026-10-28-nvidia-releases-nemotron-transcription-weights-with-multilin|NVIDIA releases Nemotron transcription weights with multilingual speech features]]
 - `2026-10-28` [[2026-10-28-cerebras-and-oracle-plan-oci-availability-for-cerebras-infer|Cerebras and Oracle plan OCI availability for Cerebras inference]]
 - `2026-10-28` [[2026-10-28-anthropic-pushes-claude-deeper-into-drug-discovery-with-acqu|Anthropic pushes Claude deeper into drug discovery with acquisition and pharma partnerships]]
 - `2026-10-27` [[2026-10-27-who-controls-anthropic-post-ipo-remains-a-central-governance|Who controls Anthropic post-IPO remains a central governance question]]

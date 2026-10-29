@@ -5,7 +5,7 @@ date: '2026-10-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/
 url_canonical: https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-21_065709_Final-Daily-AI-News-Digest.md
 content_hash: 34dc203f080dc96734ed2a4f9b8a28080c08eb597ffacf06d342099e2104d1b2
 normalized_title_hash: 2890060534d1f654

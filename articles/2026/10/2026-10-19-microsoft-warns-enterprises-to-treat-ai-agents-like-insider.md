@@ -5,7 +5,7 @@ date: '2026-10-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/
 url_canonical: https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-20_131013_Inbox_Daily AI News Digest – October
   20, 2026.md
 content_hash: afd925a5d834128be4353b8ab6ec1cc5ce2b4901ef84abad7f884e6ac6d38543

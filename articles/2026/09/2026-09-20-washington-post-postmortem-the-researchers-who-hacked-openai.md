@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: The Washington Post
 url_original: https://www.washingtonpost.com/technology/2026/09/20/hacktron-openai-claude-opus-5-postmortem/
 url_canonical: https://www.washingtonpost.com/technology/2026/09/20/hacktron-openai-claude-opus-5-postmortem/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-20_070031_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: e5273161a39a126863fe71c62f49efea29fb085c137a2ca3d24abbd2e56cc308

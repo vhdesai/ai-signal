@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: The Next Web
 url_original: https://thenextweb.com/news/microsoft-maia-300-chip-tsmc-production-boost-nvidia
 url_canonical: https://thenextweb.com/news/microsoft-maia-300-chip-tsmc-production-boost-nvidia
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_060300_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 821221d940a862f09d09b6e7e1d035ba3db979ba0acd1edc3174409752389392

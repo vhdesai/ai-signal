@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: The Decoder / The Information
 url_original: https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/
 url_canonical: https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-14_061129_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 11d831c2ca277fe241ce1a98e24a15a921910ce0e7533b66e30f27a56a10fea3

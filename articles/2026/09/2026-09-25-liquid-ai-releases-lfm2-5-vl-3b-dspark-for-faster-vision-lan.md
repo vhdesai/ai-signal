@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/
 url_canonical: https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060618_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 95e0b59e39f9e8b949c6cf43c0edf1c2828a3b90d43ec2f26c84f559e129f7e5

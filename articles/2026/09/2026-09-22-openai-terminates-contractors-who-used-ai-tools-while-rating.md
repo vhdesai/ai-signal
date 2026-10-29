@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Gizmodo
 url_original: https://gizmodo.com/ai-contractors-shouldnt-use-ai-to-evaluate-ai-model-says-ai-company-2000815621
 url_canonical: https://gizmodo.com/ai-contractors-shouldnt-use-ai-to-evaluate-ai-model-says-ai-company-2000815621
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 6c8b98d53cf82fa64d8c398b8241d5cf3655071359abcc341c538df477a37683

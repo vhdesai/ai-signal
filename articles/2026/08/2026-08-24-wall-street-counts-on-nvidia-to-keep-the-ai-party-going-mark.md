@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: The Wall Street Journal / Yahoo Finance
 url_original: https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c
 url_canonical: https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: e973ab5f0089e5275f12755514b475ea43038d928e7490922434f075d1c85fd2
 normalized_title_hash: 84c29b2f1655b150

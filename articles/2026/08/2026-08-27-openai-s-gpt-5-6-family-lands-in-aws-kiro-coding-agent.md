@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: ADTmag
 url_original: https://adtmag.com/articles/2026/08/27/openai-gpt-5dot6-models-arrive-in-aws-kiro-coding-agent.aspx
 url_canonical: https://adtmag.com/articles/2026/08/27/openai-gpt-5dot6-models-arrive-in-aws-kiro-coding-agent.aspx
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_065356_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 8d5791104b9d8b08ad693c0b3e88e5840389e39a41241ec91a41f7d7de3ff31c

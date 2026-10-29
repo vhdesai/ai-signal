@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: WSJ (via TechStartups) · OpenAI
 url_original: https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/
 url_canonical: https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 5df166a48ceb2008b31b1e89984b68b4b50b31a8056ad4ca6882116f507fdb20

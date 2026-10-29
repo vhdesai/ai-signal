@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: Nature Machine Intelligence**
 url_original: https://www.nature.com/articles/s42256-026-01262-4
 url_canonical: https://www.nature.com/articles/s42256-026-01262-4
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-06_084325_Final-Daily-AI-News-Digest.md
 content_hash: 9fac66eedbb7945a3796deaa77a6e5e256d2d4cc5477c31821aec0713e095496
 normalized_title_hash: 5664afdda2867312

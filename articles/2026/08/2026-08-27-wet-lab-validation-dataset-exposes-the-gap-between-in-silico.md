@@ -6,7 +6,7 @@ date: '2026-08-27'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/
 url_canonical: https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_060357_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 8de2b493eff21f0821390dc7ac4c66a65bf7825ae8e7b7ce54128332a1533e86

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 733
+member_count: 736
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 733 connected article(s).
+> Auto-generated entity hub. 736 connected article(s).
 
+- `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]
+- `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
+- `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
 - `2026-10-28` [[2026-10-28-amazon-expands-shop-direct-to-defend-against-cross-retailer|Amazon expands Shop Direct to defend against cross-retailer AI shopping agents]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-27` [[2026-10-27-liquid-ai-releases-the-lfm3-open-weight-model-family|Liquid AI releases the LFM3 open-weight model family]]

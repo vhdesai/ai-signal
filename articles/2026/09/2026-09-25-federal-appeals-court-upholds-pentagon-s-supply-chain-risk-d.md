@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html
 url_canonical: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_062118_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 57c5d0bfacf416e97cda75268248ab1238296f113bc93c01d19f2f50c5282110

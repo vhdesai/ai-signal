@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: Machine Learning Mastery
 url_original: https://machinelearningmastery.com/integrating-agentic-ai-with-existing-machine-learning-pipelines/
 url_canonical: https://machinelearningmastery.com/integrating-agentic-ai-with-existing-machine-learning-pipelines/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_060711_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 8b2218a23524bd62a5eed127f4e1a98a60dd00017308397fad1f116f7987bfac

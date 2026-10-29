@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: TechRepublic
 url_original: https://www.techrepublic.com/article/news-cursor-git-code-execution-vulnerability-cve-2026-63093/
 url_canonical: https://www.techrepublic.com/article/news-cursor-git-code-execution-vulnerability-cve-2026-63093/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 28574e5591d3d8e1b322c463b16f5b3c65ce115968207725d307eeeeaa347e92

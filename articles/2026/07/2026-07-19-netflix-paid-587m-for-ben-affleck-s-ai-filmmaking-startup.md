@@ -5,7 +5,7 @@ date: '2026-07-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/
 url_canonical: https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-20_065739_Final-Daily-AI-News-Digest.md
 content_hash: 71c7e6a828013e358d4d1e1405addf4085e4b0e101355e21e1137d933f7cbc66
 normalized_title_hash: ae6832852518bc65

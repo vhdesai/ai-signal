@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: MindStudio
 url_original: https://www.mindstudio.ai/blog/cognition-swe-2-coding-model
 url_canonical: https://www.mindstudio.ai/blog/cognition-swe-2-coding-model
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_060802_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: ecce24ab80625e9a54f9192491f3f4fbddd9681998b341306a580404f51d177d

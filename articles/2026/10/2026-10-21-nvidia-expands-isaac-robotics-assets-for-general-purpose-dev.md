@@ -5,7 +5,7 @@ date: '2026-10-21'
 source: AiThority
 url_original: https://aithority.com/robots/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data/
 url_canonical: https://aithority.com/robots/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-21_065709_Final-Daily-AI-News-Digest.md
 content_hash: 12a889c983948e6af0e1c27561eace8376617b1a6dcdc254404c2df37856fb83
 normalized_title_hash: 385e11beb0a5d553

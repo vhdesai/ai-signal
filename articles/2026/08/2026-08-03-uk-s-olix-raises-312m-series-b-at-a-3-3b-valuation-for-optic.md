@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: PitchBook
 url_original: https://pitchbook.com/news/articles/olix-raises-europes-largest-chip-round-at-3-3b-valuation
 url_canonical: https://pitchbook.com/news/articles/olix-raises-europes-largest-chip-round-at-3-3b-valuation
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-03_062808_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: d2ae30a95a7215f018dff1b31c4f813c897ddf383daba77e3f80dfba9558c83d

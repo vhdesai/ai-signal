@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/
 url_canonical: https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-14_063518_Inbox_Daily AI News Digest – October
   14, 2026.md
 content_hash: 295e49d4f05b3d3ce6a98b28884d45f362b184595b6905d2dd99c6e90fdba349

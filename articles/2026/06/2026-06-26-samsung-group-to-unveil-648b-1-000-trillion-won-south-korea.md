@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: CNA
 url_original: https://www.channelnewsasia.com/business/samsung-group-unveil-648-billion-south-korea-investments-including-chip-plants-report-says-6211521
 url_canonical: https://www.channelnewsasia.com/business/samsung-group-unveil-648-billion-south-korea-investments-including-chip-plants-report-says-6211521
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 108b3d88c9cb2d1e1f538ce06b2335907c56aaefa14960dd9b3e5233b7ac56bf

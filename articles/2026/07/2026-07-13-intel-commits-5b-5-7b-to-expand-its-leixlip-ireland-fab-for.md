@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: RTÉ**
 url_original: https://www.rte.ie/news/business/2026/0713/1583104-new-intel-leixlip-jobs/
 url_canonical: https://www.rte.ie/news/business/2026/0713/1583104-new-intel-leixlip-jobs/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-13_065032_Final-Daily-AI-News-Digest.md
 content_hash: d17244b775acce1902d1ec744cccba3414146d65efb8bfc0da560b9125cedb57
 normalized_title_hash: 26f24f627f8e5ada

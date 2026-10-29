@@ -5,7 +5,7 @@ date: '2026-08-16'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Workday+buyout+SaaS+sell-off
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Workday+buyout+SaaS+sell-off
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-17_065758_Final-Daily-AI-News-Digest.md
 content_hash: 760e63cd09f10a54646eeb9787951efbfe437d180d19343b90cd3c64f9315a0a
 normalized_title_hash: 294662d65a0a3ad6

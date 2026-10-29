@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: JERA
 url_original: https://www.jera.co.jp/en/news/information/20261001_2535
 url_canonical: https://www.jera.co.jp/en/news/information/20261001_2535
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-01_061253_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: ab42ce049492898185a8cda25f2ca69aae71a5415da649dbc3bee0d17963ef92

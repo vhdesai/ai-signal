@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: 'Source: The Decoder / Wall Street Journal'
 url_original: https://the-decoder.com/anthropic-is-about-to-become-the-first-profitable-ai-lab/
 url_canonical: https://the-decoder.com/anthropic-is-about-to-become-the-first-profitable-ai-lab/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 870854b4dfe0c8f4150cb1b2881e9b28a32e99f5f0ae00221d3b35f8b743ff53

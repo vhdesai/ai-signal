@@ -5,7 +5,7 @@ date: '2026-07-19'
 source: Semafor
 url_original: https://www.semafor.com/article/07/19/2026/ai-memory-shortage-puts-pressure-on-governments-to-act
 url_canonical: https://www.semafor.com/article/07/19/2026/ai-memory-shortage-puts-pressure-on-governments-to-act
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-20_065739_Final-Daily-AI-News-Digest.md
 content_hash: 18b4f452f27ff48e2c258f528ad683e8bade14e2c0ee2e43ac21fd7c5eff4e05
 normalized_title_hash: 09f79d5812da7d40

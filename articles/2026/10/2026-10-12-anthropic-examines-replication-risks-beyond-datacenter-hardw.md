@@ -5,7 +5,7 @@ date: '2026-10-12'
 source: Anthropic Frontier Red Team
 url_original: https://www.anthropic.com/research/self-replicating-ai
 url_canonical: https://www.anthropic.com/research/self-replicating-ai
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_065254_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 003184db634ef8daef37e8256d9351d94627678ed1b301dd2d4c1ba049aa5932

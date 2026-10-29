@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude
+- 2026-10-29-october-28-2026-techcrunch
 - 2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen
 - 2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become
 embedding_id: 2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00
@@ -38,5 +39,5 @@ Anthropic launched a startup program offering a free year of Claude Team and $1,
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude]] · [[2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen]] · [[2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become]]
+**Related:** [[2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude]] · [[2026-10-29-october-28-2026-techcrunch]] · [[2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen]] · [[2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become]]
 <!-- graph:end -->

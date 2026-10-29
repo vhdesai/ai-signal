@@ -5,7 +5,7 @@ date: '2026-09-26'
 source: The Guardian
 url_original: https://www.theguardian.com/technology/2026/sep/26/oxford-bodleian-library-openai-training-data-agreement
 url_canonical: https://www.theguardian.com/technology/2026/sep/26/oxford-bodleian-library-openai-training-data-agreement
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 8bf25b7b0f4042393efd2291901defd7c4a7a6d7e356752797c52708063166f4

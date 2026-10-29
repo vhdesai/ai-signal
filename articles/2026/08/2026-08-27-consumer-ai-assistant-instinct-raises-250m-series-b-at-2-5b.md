@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/instinct-ai-assistant-raises-250-173454497.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/instinct-ai-assistant-raises-250-173454497.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_061348_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: d8c45db0d72957e3eb7e1b07ba6daf90e700ae389f976cfb3de6fdabc7d4ce1f

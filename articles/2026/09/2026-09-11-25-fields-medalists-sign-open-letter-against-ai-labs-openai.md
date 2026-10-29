@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: TechCrunch; follow-up Gizmodo, September 12
 url_original: https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/
 url_canonical: https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: a2161037b8b4c95191fb8b2f6999ca9115195c0c998ca69caf206da42aae2f45

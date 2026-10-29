@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/glm-5-3-flash-will-likely-handle-45-of-your-ai-workloads
 url_canonical: https://venturebeat.com/orchestration/glm-5-3-flash-will-likely-handle-45-of-your-ai-workloads
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-28_061348_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 931ddc093bf7a823673353df31726921a6991ed26931b23f7f98346f3dd998fc

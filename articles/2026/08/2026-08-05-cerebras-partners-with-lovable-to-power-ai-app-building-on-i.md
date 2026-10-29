@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: Yahoo Finance / Cerebras
 url_original: https://finance.yahoo.com/technology/ai/articles/lovable-cerebras-partner-power-ai-132500808.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/lovable-cerebras-partner-power-ai-132500808.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 56196c7afffcaa16b34a5345da1bd12e26e81f9b2efcf98911f323ebca01c980

@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: The Information
 url_original: https://www.theinformation.com/articles/anthropic-and-openais-share-of-ai-startup-revenues-rises-to-89-percent
 url_canonical: https://www.theinformation.com/articles/anthropic-and-openais-share-of-ai-startup-revenues-rises-to-89-percent
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-13_070011_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 89f57d30020c3e72e3363303ccd0f9710277053279836353464c7d14015d8f22

@@ -5,7 +5,7 @@ date: '2026-09-29'
 source: PR Newswire via Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/fortune-unveils-expanded-2026-fortune-120000943.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/fortune-unveils-expanded-2026-fortune-120000943.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: f49df9d2e473c816d8c5456bdd7eeab4fddf3e1b43e9c5f1570c66bd1a18f0ef

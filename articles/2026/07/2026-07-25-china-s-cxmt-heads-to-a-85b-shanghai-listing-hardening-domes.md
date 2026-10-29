@@ -6,7 +6,7 @@ date: '2026-07-25'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/321597/20260725/cxmt-hits-star-market-monday-86b-war-chest-hard-equipment-ceiling.htm
 url_canonical: https://www.techtimes.com/articles/321597/20260725/cxmt-hits-star-market-monday-86b-war-chest-hard-equipment-ceiling.htm
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: c596ef17e42ef9a89f2a2a762337083941299451236fcf710b9eeeb62e37da6e

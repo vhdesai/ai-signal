@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Markets Insider
 url_original: https://markets.businessinsider.com/news/stocks/abb-s-new-direct-current-portfolio-aims-to-rewire-ai-data-center-energy-infrastructure-1036559695
 url_canonical: https://markets.businessinsider.com/news/stocks/abb-s-new-direct-current-portfolio-aims-to-rewire-ai-data-center-energy-infrastructure-1036559695
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_060714_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 8ab5e43dc46972d23ff009a43488b47c9f743c18e6232832786962dbd0d04639

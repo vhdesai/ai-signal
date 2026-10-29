@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: CBS News
 url_original: https://www.cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google/
 url_canonical: https://www.cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_060546_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: b60436341fd0fe9e92e6700675e5b457c52081b821b4c01961ecb3da9ee610de
@@ -25,6 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-19-class-action-alleges-anthropic-openai-google-and-xai-illegal
+- 2026-10-29-october-28-2026-cnbc
 - 2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl
@@ -41,5 +42,5 @@ Four named plaintiffs who pay for ChatGPT, Claude, Grok or Gemini subscriptions 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-19-class-action-alleges-anthropic-openai-google-and-xai-illegal]] · [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl]]
+**Related:** [[2026-09-19-class-action-alleges-anthropic-openai-google-and-xai-illegal]] · [[2026-10-29-october-28-2026-cnbc]] · [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl]]
 <!-- graph:end -->

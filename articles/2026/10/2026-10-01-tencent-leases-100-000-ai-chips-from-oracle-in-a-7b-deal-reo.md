@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: Reuters / Benzinga / Quartz]
 url_original: https://www.reuters.com/technology/tencent-oracle-100000-ai-chips-7-billion-lease-2026-10-01/
 url_canonical: https://www.reuters.com/technology/tencent-oracle-100000-ai-chips-7-billion-lease-2026-10-01/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 0d36c05d36a8df098a0444a6741f80d4bee8df035b1210f4596a8d5e9c2a6bb5

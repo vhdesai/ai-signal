@@ -6,7 +6,7 @@ date: '2026-10-13'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/
 url_canonical: https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_060534_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 9b3beb615fa1a8b9994220bee38a1c1f417723b4d3c1ecb95bdec86b00b27901

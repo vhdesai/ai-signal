@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Axios (via Mint) / Politico
 url_original: https://www.livemint.com/news/us-news/white-house-wants-us-government-review-of-openai-anthropic-s-new-ai-models-before-uk-access-report-11790271763243.html
 url_canonical: https://www.livemint.com/news/us-news/white-house-wants-us-government-review-of-openai-anthropic-s-new-ai-models-before-uk-access-report-11790271763243.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 778d66d87e8bd88396c8200c625eb21413f3c3f674a3434eb53041841db7457c

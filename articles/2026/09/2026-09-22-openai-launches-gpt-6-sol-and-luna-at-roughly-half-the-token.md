@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: OpenAI
 url_original: https://openai.com/index/introducing-gpt-6-sol-and-luna
 url_canonical: https://openai.com/index/introducing-gpt-6-sol-and-luna
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-23_061121_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 4aa15aea5399a39b1b07f9aceeb15c5bb61ed7c23355a4fd548708153df6eac7

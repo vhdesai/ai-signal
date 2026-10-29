@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: NBC News
 url_original: https://www.nbcnews.com/tech/security/hackers-breach-openai-rcna598518
 url_canonical: https://www.nbcnews.com/tech/security/hackers-breach-openai-rcna598518
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_060546_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: df6346b3940e68cb0261d4bd26590a4d72bdcbc89e7497c6a9b9fcf37aaabb23

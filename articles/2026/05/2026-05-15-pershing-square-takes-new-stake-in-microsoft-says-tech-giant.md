@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope
+- 2026-10-29-october-28-2026-wall-street-journal
 - 2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t
 - 2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal
 - 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
-- 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 embedding_id: 2026-05-15-pershing-square-takes-new-stake-in-microsoft-says-tech-giant
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Bill Ackman's Pershing Square disclosed a newly built position in Microsoft, arg
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]] · [[2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t]] · [[2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal]] · [[2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]]
+**Related:** [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]] · [[2026-10-29-october-28-2026-wall-street-journal]] · [[2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t]] · [[2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal]] · [[2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered]]
 <!-- graph:end -->

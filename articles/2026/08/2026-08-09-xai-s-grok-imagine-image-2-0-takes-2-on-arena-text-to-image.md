@@ -6,7 +6,7 @@ date: '2026-08-09'
 source: The Next Web
 url_original: https://thenextweb.com/news/grok-imagine-image-2-editing-arena-ranking-spacexai
 url_canonical: https://thenextweb.com/news/grok-imagine-image-2-editing-arena-ranking-spacexai
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 93b4b4e28b5cf97b9d883366e0e831fc079bc06a0c23240564a3aaebe20bbe29

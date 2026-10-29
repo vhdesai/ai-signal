@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness
 url_canonical: https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 43e3c0cdac5e0303459736168a44a7af045476b6359bf7179e16eb3924892ff7

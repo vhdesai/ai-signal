@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Business Insider
 url_original: https://www.businessinsider.com/ai-workplace-more-productive-less-social-2026-5
 url_canonical: https://www.businessinsider.com/ai-workplace-more-productive-less-social-2026-5
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-26_081412_Inbox_Daily AI News Digest –– May 26,
   2026 (Corrected Cowork Edition).md
 content_hash: 1a1b75afb0efed5b478713ed8893697ff72c93ddaffbe5de9231f1cb3f12518d

@@ -5,7 +5,7 @@ date: '2026-10-14'
 source: Google Research
 url_original: https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/
 url_canonical: https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-15_061934_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 57d09b9ffa9c65ec2299c14fc488ed7e774546644ab1d24284e3cd258da74083

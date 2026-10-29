@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Reuters via Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/fidji-simo-joins-nscale-board-135549280.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/fidji-simo-joins-nscale-board-135549280.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 55ecdad70c4b9eed76c9754ebf70c7e0e430d7ec469ee176a3fc48780df35edc

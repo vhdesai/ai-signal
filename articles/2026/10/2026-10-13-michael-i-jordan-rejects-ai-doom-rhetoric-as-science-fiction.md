@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: The Decoder
 url_original: https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/
 url_canonical: https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 7a76d5700ca62e0e4ad04b2bbfcfc579c09548dce156549bb506092c118c7a99

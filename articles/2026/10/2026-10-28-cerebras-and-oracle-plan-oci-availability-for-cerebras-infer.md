@@ -5,7 +5,7 @@ date: '2026-10-28'
 source: '[AiThority]'
 url_original: https://aithority.com/machine-learning/cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-infrastructure/
 url_canonical: https://aithority.com/machine-learning/cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-infrastructure/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-28_131127_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: 6aafbfe13215d9c5f8a4a4d87abcdd2c0167ff566920fe431b797b0adc686701

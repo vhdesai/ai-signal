@@ -5,7 +5,7 @@ date: '2026-10-18'
 source: The Decoder
 url_original: https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/
 url_canonical: https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-18_123234_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: cd247979ed0499c6711b32ebde727aa564ae7964b44b691c4e41a38aa9673ddf

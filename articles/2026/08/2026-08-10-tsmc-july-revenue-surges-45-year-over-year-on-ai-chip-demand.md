@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html
 url_canonical: https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-10_082903_Inbox_Fw Daily AI News Digest - August
   10, 2026.md
 content_hash: 30b3d64dac7c3252ea06d8769e520ab54d49c4a82c6341ed346db19860a6242c

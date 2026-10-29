@@ -5,7 +5,7 @@ date: '2026-10-12'
 source: Meta; The Information
 url_original: https://about.fb.com/news/2026/10/introducing-muse-wonder-models/
 url_canonical: https://about.fb.com/news/2026/10/introducing-muse-wonder-models/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_065254_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 4f969e4dc74659d4735e64077fb186dcd7342310eccc2934e76e9e967d607f71

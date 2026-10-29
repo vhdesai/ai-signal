@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: Business Wire / Yahoo Finance / The Next Web
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-macquarie-asset-management-gic-120400841.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-macquarie-asset-management-gic-120400841.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: a9d3bfef5d55c59332427b0147048cc1f6b51ab1045e530fd248e515fbf6b21c

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
+- 2026-10-28-october-28-2026-house-science-committee-democrats
 - 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 - 2026-08-08-three-frontier-labs-containment-failures-traced-to-a-single
 - 2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig
-- 2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg
 embedding_id: 2026-07-23-mit-projects-selected-for-funding-under-doe-s-genesis-missio
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI Safety & Policy Bipartisan AI Kill Switch Act introduced in the House; FRONTI
 
 **Entities:** [[Amazon]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-08-08-three-frontier-labs-containment-failures-traced-to-a-single]] · [[2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig]] · [[2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg]]
+**Related:** [[2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft]] · [[2026-10-28-october-28-2026-house-science-committee-democrats]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-08-08-three-frontier-labs-containment-failures-traced-to-a-single]] · [[2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: VentureBeat
 url_original: https://venturebeat.com/business/superstep-capital-invests-in-zencore-to-build-the-leading-independent-google-cloud-ai-services-platform
 url_canonical: https://venturebeat.com/business/superstep-capital-invests-in-zencore-to-build-the-leading-independent-google-cloud-ai-services-platform
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-26_061318_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 3c5f7bbcca31b898cec878e9930193112809cc52009207bd4be3fd3945267967

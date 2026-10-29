@@ -5,7 +5,7 @@ date: '2026-10-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/
 url_canonical: https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-21_065709_Final-Daily-AI-News-Digest.md
 content_hash: c6a5bef7f8aa8502e63c5ac4d383313409a3ddf942967caaa326ac1b9fdbe531
 normalized_title_hash: 4b043560aae2efd2

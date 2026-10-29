@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Trump+AI+rule+China+remote+access+chips
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Trump+AI+rule+China+remote+access+chips
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-28_065040_Final-Daily-AI-News-Digest.md
 content_hash: 7ca3faf22ca2723d9bac225f9aef0b587eb123ffa963696450cfc8a0f425e255
 normalized_title_hash: 7e4c6a3376a47f67

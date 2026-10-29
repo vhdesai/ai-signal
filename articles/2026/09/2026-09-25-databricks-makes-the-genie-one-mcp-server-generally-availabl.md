@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Databricks release notes
 url_original: https://docs.databricks.com/aws/en/release-notes/product/2026/september
 url_canonical: https://docs.databricks.com/aws/en/release-notes/product/2026/september
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: f698497ab4e836ca929ef6f6f08e0c27ac546da16c22d04cde6eac8bf29ef879
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
 - 2026-05-23-google-confirms-gemini-spark-mcp-rollout-canva-magic-layers
+- 2026-10-28-openai-and-servicenow-pair-available-mcp-integration-with-pl
 - 2026-08-21-replit-ships-an-mcp-server-for-managing-apps-from-chatgpt-cl
 - 2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark
-- 2026-06-25-openai-brings-codex-remote-to-general-availability-across-al
 embedding_id: 2026-09-25-databricks-makes-the-genie-one-mcp-server-generally-availabl
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Databricks moved the Genie One MCP server to general availability in Unity Gatew
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-05-23-google-confirms-gemini-spark-mcp-rollout-canva-magic-layers]] · [[2026-08-21-replit-ships-an-mcp-server-for-managing-apps-from-chatgpt-cl]] · [[2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark]] · [[2026-06-25-openai-brings-codex-remote-to-general-availability-across-al]]
+**Related:** [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-05-23-google-confirms-gemini-spark-mcp-rollout-canva-magic-layers]] · [[2026-10-28-openai-and-servicenow-pair-available-mcp-integration-with-pl]] · [[2026-08-21-replit-ships-an-mcp-server-for-managing-apps-from-chatgpt-cl]] · [[2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark]]
 <!-- graph:end -->

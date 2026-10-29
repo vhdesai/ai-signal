@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: Euronews
 url_original: https://www.euronews.com/next/2026/08/10/new-rules-leave-chinese-users-mourning-ai-boyfriends-and-girlfriends
 url_canonical: https://www.euronews.com/next/2026/08/10/new-rules-leave-chinese-users-mourning-ai-boyfriends-and-girlfriends
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-10_082903_Inbox_Fw Daily AI News Digest - August
   10, 2026.md
 content_hash: 9316e80edce5ff00efcd95836205649fbf1f6ad26f7e421d35561b4927402a75

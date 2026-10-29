@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: The Decoder
 url_original: https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/
 url_canonical: https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_061113_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 57eec8eddc73e4665158515c0c8e6f5cdf458894ccc8464f5642994ab23aead2

@@ -6,7 +6,7 @@ date: '2026-07-25'
 source: Forbes
 url_original: https://www.forbes.com/sites/sandycarter/2026/07/25/huangs-open-weights-letter-doubled-to-50-without-amazon-and-anthropic/
 url_canonical: https://www.forbes.com/sites/sandycarter/2026/07/25/huangs-open-weights-letter-doubled-to-50-without-amazon-and-anthropic/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: d522f6d30a90a9c2995294836b1103c1b441a5a806f78f0705cde1078cc60877

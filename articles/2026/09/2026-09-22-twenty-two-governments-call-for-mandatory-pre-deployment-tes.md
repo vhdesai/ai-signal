@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: Al Jazeera
 url_original: https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers
 url_canonical: https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_060610_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: ae457f509dff36f1326d1f9880133f6021e25f06e671f09c980bc188f6563dc0

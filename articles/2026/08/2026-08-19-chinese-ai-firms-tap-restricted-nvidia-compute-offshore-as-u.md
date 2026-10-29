@@ -6,7 +6,7 @@ date: '2026-08-19'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html
 url_canonical: https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-20_065002_Final-Daily-AI-News-Digest.md
 content_hash: 397ee1909555a888183a88e61d8b099c608278f4356744c16661fb830dc3026b
 normalized_title_hash: d024957b5120e248

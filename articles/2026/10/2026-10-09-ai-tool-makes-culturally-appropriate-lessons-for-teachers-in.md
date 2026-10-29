@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: 2:20 a.m. AEDT · Mirage News repost of Cornell Chronicle
 url_original: https://www.miragenews.com/ai-tool-creates-culturally-relevant-lessons-for-1757145/
 url_canonical: https://www.miragenews.com/ai-tool-creates-culturally-relevant-lessons-for-1757145/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-09_060344_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: 9d6e00070ff6fb5848c2a0c6968ca68fbe128e84d2710e3eb0385b14ead6a243

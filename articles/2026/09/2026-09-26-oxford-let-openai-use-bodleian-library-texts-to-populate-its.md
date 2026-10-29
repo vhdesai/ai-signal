@@ -5,7 +5,7 @@ date: '2026-09-26'
 source: The Next Web
 url_original: https://thenextweb.com/news/oxford-bodleian-openai-training-data
 url_canonical: https://thenextweb.com/news/oxford-bodleian-openai-training-data
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060536_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: fd3e79dadb4c96744d560dcd013c6a8599c68239f223c62c999506a7aa3b0236

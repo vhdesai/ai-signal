@@ -5,7 +5,7 @@ date: '2026-10-22'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/
 url_canonical: https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-23_065801_Final-Daily-AI-News-Digest.md
 content_hash: d6f18030915f6936a3b0766d004a527d1e9c5e89c8299644dc5e852cc6702642
 normalized_title_hash: f3d1924e3edd837a

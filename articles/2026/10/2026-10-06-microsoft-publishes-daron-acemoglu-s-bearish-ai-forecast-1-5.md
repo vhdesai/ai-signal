@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
 - 2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
-- 2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop
+- 2026-10-29-october-28-2026-wall-street-journal
 embedding_id: 2026-10-06-microsoft-publishes-daron-acemoglu-s-bearish-ai-forecast-1-5
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft published Nobel economist Daron Acemoglu's view that AI may add only a
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop]]
+**Related:** [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-10-29-october-28-2026-wall-street-journal]]
 <!-- graph:end -->

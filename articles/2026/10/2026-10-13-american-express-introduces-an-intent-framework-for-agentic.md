@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/
 url_canonical: https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_060534_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: ac3cbde7f3fe75e5cc343016d5cadee8d2bf7f9c95d98d781e1715080753565a
@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-10-13-amex-introduces-framework-to-prevent-unauthorized-ai-agent-p
 - 2026-09-28-google-moves-agentic-commerce-to-checkout-a-buy-button-on-fl
 - 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
-- 2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo
 embedding_id: 2026-10-13-american-express-introduces-an-intent-framework-for-agentic
 event_name: ''
 ---
@@ -36,5 +35,5 @@ American Express introduced an Intent Intelligence Framework intended to prevent
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-13-amex-introduces-intent-framework-to-prevent-unauthorized-ai]] · [[2026-10-13-amex-introduces-framework-to-prevent-unauthorized-ai-agent-p]] · [[2026-09-28-google-moves-agentic-commerce-to-checkout-a-buy-button-on-fl]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]] · [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]]
+**Related:** [[2026-10-13-amex-introduces-intent-framework-to-prevent-unauthorized-ai]] · [[2026-10-13-amex-introduces-framework-to-prevent-unauthorized-ai-agent-p]] · [[2026-09-28-google-moves-agentic-commerce-to-checkout-a-buy-button-on-fl]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]]
 <!-- graph:end -->

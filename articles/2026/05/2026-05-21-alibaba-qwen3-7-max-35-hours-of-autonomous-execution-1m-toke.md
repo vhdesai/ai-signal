@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: 'Source: VentureBeat'
 url_original: https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code
 url_canonical: https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 291f93513ac7564cd20a442b8065c931bc988456b9c4d58b0064c170a694c43f

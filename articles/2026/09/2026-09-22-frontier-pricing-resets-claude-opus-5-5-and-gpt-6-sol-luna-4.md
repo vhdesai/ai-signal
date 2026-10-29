@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html
 url_canonical: https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_062226_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 89bda36ba6967af0cdf2e6f859839a9250ec1f13dfcdee5af250ede5a36dfafe

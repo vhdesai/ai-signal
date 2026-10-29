@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: CNBC
 url_original: https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html
 url_canonical: https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-14_063518_Inbox_Daily AI News Digest – October
   14, 2026.md
 content_hash: 223c7a4bfd2ef22ff9bebede3c2b235cf178d83edb5638011bb452fd8e021007

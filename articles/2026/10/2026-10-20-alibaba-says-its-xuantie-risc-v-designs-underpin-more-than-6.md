@@ -6,7 +6,7 @@ date: '2026-10-20'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3371402/alibabas-risc-v-ip-powers-over-6-billion-shipped-chips-tech-giant-targets-ai-autos
 url_canonical: https://www.scmp.com/tech/big-tech/article/3371402/alibabas-risc-v-ip-powers-over-6-billion-shipped-chips-tech-giant-targets-ai-autos
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-20_131013_Inbox_Daily AI News Digest – October
   20, 2026.md
 content_hash: 6b4d01a3fab20df2c83b1936a666456f88fb7da41e442c70eff9a71bdb97a060

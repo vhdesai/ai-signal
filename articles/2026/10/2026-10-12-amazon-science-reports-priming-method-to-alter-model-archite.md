@@ -6,7 +6,7 @@ date: '2026-10-12'
 source: Amazon Science
 url_original: https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch
 url_canonical: https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_060534_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 436f4aae9819275749a40c67c8d6e78e4a7bcbebd763fa4c25012b6edefd8079

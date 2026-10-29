@@ -5,7 +5,7 @@ date: '2026-10-18'
 source: October 18, 2026, 6:30 AM BST
 url_original: https://www.telegraph.co.uk/business/2026/10/18/microsoft-axes-ai-deal-setback-uk-data-centre-pioneer/
 url_canonical: https://www.telegraph.co.uk/business/2026/10/18/microsoft-axes-ai-deal-setback-uk-data-centre-pioneer/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-18_062116_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 085728780aa3c0b72556c85c53ebfc630d7e34ffd85087c6231100c0190bac4d

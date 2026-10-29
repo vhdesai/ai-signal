@@ -5,7 +5,7 @@ date: '2026-10-18'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-18_123234_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 376df873ffd1db596c59bd6166301775ea689ec145e0acaf5eb4129cc3264fd4

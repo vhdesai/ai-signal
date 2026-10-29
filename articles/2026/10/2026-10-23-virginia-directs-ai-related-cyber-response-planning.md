@@ -5,7 +5,7 @@ date: '2026-10-23'
 source: '[Governor of Virginia]'
 url_original: https://www.governor.virginia.gov/newsroom/news-releases/2026/october-releases/name-1127607-en.html
 url_canonical: https://www.governor.virginia.gov/newsroom/news-releases/2026/october-releases/name-1127607-en.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-24_062015_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: 172820ebbe4c00f65509a9a0c2fc493efbdd6218426b6133bb0f0b85bf5a89f1

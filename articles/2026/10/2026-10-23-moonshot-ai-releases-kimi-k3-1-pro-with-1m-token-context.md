@@ -5,7 +5,7 @@ date: '2026-10-23'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/
 url_canonical: https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-24_070002_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: e61e75866773a68212b11fe9490f87fd780415d734e68136c839152c5e745aa6

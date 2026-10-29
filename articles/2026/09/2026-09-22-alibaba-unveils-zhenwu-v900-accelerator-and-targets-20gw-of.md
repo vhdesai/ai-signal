@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html
 url_canonical: https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_062038_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 4df403d895b1e92a2a8289a64734657a1879d6669896432da3ee86f7723fc1d8

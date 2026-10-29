@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Business Wire
 url_original: https://markets.businessinsider.com/news/stocks/multiverse-computing-announces-series-c-fundraising-targeting-up-to-570m-500m-to-power-efficient-ai-from-edge-to-cloud-1036366033
 url_canonical: https://markets.businessinsider.com/news/stocks/multiverse-computing-announces-series-c-fundraising-targeting-up-to-570m-500m-to-power-efficient-ai-from-edge-to-cloud-1036366033
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: 850fa963483e6eb76e82f62f3c2bef91faef79f1939b2ae32fe15ac9d23cd123

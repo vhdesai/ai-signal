@@ -5,7 +5,7 @@ date: '2026-10-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/
 url_canonical: https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-21_065709_Final-Daily-AI-News-Digest.md
 content_hash: 01d78c0ee17c10faadbae2400c6df84fc5bb93c565bbf003cb4fbdd6b4af721d
 normalized_title_hash: 90e7623e64b1c630

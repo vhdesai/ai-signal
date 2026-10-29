@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Hindustan Times / Analytics Insight
 url_original: https://www.hindustantimes.com/world-news/us-news/claude-down-update-thousands-complain-of-outage-as-mythos-5-1-fable-5-1-opus-5-face-issues-what-happened-how-to-fix-101790039567777.html
 url_canonical: https://www.hindustantimes.com/world-news/us-news/claude-down-update-thousands-complain-of-outage-as-mythos-5-1-fable-5-1-opus-5-face-issues-what-happened-how-to-fix-101790039567777.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 9d5714263595bf2f0e8f648d40c4f684986a398204c38e73d8884804fbecaa39

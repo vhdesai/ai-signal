@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 306
+member_count: 313
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 306 connected article(s).
+> Auto-generated entity hub. 313 connected article(s).
 
+- `2026-10-29` [[2026-10-29-october-29-2026-pitchbook|[October 29, 2026] · [PitchBook]]]
+- `2026-10-29` [[2026-10-29-daily-ai-news-digest-october-29-2026|Daily AI News Digest – October 29, 2026]]
+- `2026-10-29` [[2026-10-29-ai-buildout-financing-shifts-toward-discipline-as-oracle-cap|AI buildout financing shifts toward discipline as Oracle caps capex and lenders lean in]]
+- `2026-10-28` [[2026-10-28-october-28-2026-house-science-committee-democrats|[October 28, 2026] · [House Science Committee Democrats]]]
+- `2026-10-28` [[2026-10-28-october-27-2026-the-information|[October 27, 2026] · [The Information]]]
+- `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
+- `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
 - `2026-10-28` [[2026-10-28-nvidia-and-oracle-announce-multi-gigawatt-vera-rubin-expansi|NVIDIA and Oracle announce multi-gigawatt Vera Rubin expansion plans on OCI]]
 - `2026-10-28` [[2026-10-28-cerebras-and-oracle-plan-oci-availability-for-cerebras-infer|Cerebras and Oracle plan OCI availability for Cerebras inference]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]

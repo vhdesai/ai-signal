@@ -5,7 +5,7 @@ date: '2026-10-14'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/
 url_canonical: https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-15_061934_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 14a34c7727b31eb6c9b8ba85b1afb9f8e93e8bd52197498ce368c67fd9fc9f80

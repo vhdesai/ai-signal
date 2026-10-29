@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: 8:33 a.m. AEDT · Mirage News repost of MIT News
 url_original: https://www.miragenews.com/3-questions-best-path-forward-for-ai-in-academia-1757383/
 url_canonical: https://www.miragenews.com/3-questions-best-path-forward-for-ai-in-academia-1757383/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-09_060344_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: feefc5164ec2f475918a57426c68677c7ea806743072f07bdbe1a255bd6f5f78

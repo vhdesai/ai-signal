@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: The Decoder
 url_original: https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/
 url_canonical: https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: d5960861b0902ce80daf2dd96c44e476e2e7933a4a2cd3e398ac3bd6e4e28997

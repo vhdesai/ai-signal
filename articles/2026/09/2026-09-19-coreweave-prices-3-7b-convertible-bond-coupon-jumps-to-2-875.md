@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: The Information
 url_original: https://www.theinformation.com/articles/coreweave-prices-3-7-billion-convertible-bond-offering
 url_canonical: https://www.theinformation.com/articles/coreweave-prices-3-7-billion-convertible-bond-offering
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_000917_Inbox_Fw Daily AI News Digest - September
   21, 2026.md
 content_hash: c8c3baacc1efd3f2e11c54bbcf045f66d0c1937a8ed740b7e70a0e3db90f3cb4

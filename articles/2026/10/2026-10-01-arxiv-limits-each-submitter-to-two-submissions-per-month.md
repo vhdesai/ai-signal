@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: arXiv
 url_original: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/
 url_canonical: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-02_061956_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: ecfc9c22eb9e62376310f8ba46f83afb1c30e055ef44de275b89886948cb6f76

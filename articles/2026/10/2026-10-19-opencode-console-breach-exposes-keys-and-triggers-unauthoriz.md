@@ -5,7 +5,7 @@ date: '2026-10-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/
 url_canonical: https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-20_065831_Final-Daily-AI-News-Digest.md
 content_hash: 6f7375a388c5ca83e2553f68b1ba8133229fdc9e6bd90b961af08d7d234fefd1
 normalized_title_hash: e658607a5fa7241b

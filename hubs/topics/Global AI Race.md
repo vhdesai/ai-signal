@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1675
+member_count: 1679
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1675 connected article(s).
+> Auto-generated topic hub. 1679 connected article(s).
 
+- `2026-10-29` [[2026-10-29-daishin-securities-reported-exposure-of-38-490-customers-per|Daishin Securities reported exposure of 38,490 customers' personal data, while Mirae Asset Global Investments and…]]
+- `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
+- `2026-10-28` [[2026-10-28-nvidia-faces-doj-questions-on-hugging-face-as-a-counterintel|Nvidia faces DOJ questions on Hugging Face as a counterintelligence report adds pressure]]
+- `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-24` [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners|UK announces AI Biosecurity Lab with frontier-model partners]]
 - `2026-10-24` [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m|New Cornell-linked study examines political preferences in model API responses]]

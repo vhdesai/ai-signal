@@ -6,7 +6,7 @@ date: '2026-10-20'
 source: The Decoder
 url_original: https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/
 url_canonical: https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-20_131013_Inbox_Daily AI News Digest – October
   20, 2026.md
 content_hash: 6f5d8961994460fc7f1879b26ba9552f80b348256e34f87684c84fd7103e5196

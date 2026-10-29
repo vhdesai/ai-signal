@@ -1,16 +1,25 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2466
+member_count: 2475
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2466 connected article(s).
+> Auto-generated entity hub. 2475 connected article(s).
 
+- `2026-10-29` [[2026-10-29-october-28-2026-techcrunch|[October 28, 2026] · [TechCrunch]]]
+- `2026-10-29` [[2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back|NYSE's Lynn Martin says Anthropic's listing is holding back the IPO pipeline]]
+- `2026-10-29` [[2026-10-29-daily-ai-news-digest-october-29-2026|Daily AI News Digest – October 29, 2026]]
+- `2026-10-29` [[2026-10-29-anthropic-s-ipo-is-setting-the-tempo-for-the-entire-listings|Anthropic's IPO is setting the tempo for the entire listings pipeline]]
+- `2026-10-28` [[2026-10-28-october-28-2026-house-science-committee-democrats|[October 28, 2026] · [House Science Committee Democrats]]]
+- `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
 - `2026-10-28` [[2026-10-28-openai-and-anthropic-independently-claim-to-disprove-the-exp|OpenAI and Anthropic independently claim to disprove the Exponential Time Hypothesis]]
+- `2026-10-28` [[2026-10-28-openai-and-anthropic-both-claim-ai-models-disproved-the-expo|OpenAI and Anthropic both claim AI models disproved the exponential time hypothesis]]
+- `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
 - `2026-10-28` [[2026-10-28-anthropic-pushes-claude-deeper-into-drug-discovery-with-acqu|Anthropic pushes Claude deeper into drug discovery with acquisition and pharma partnerships]]
 - `2026-10-28` [[2026-10-28-anthropic-buys-a-one-person-biotech-and-starts-its-own-drug|Anthropic buys a one-person biotech and starts its own drug programmes]]
+- `2026-10-28` [[2026-10-28-ai-cost-governance-becomes-a-product-as-anthropic-ships-spen|AI cost governance becomes a product as Anthropic ships spend reporting and banks right-size models]]
 - `2026-10-27` [[2026-10-27-who-controls-anthropic-post-ipo-remains-a-central-governance|Who controls Anthropic post-IPO remains a central governance question]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-over-alleged-gpt-4o-medication-advice|Parents sue OpenAI over alleged GPT-4o medication advice]]

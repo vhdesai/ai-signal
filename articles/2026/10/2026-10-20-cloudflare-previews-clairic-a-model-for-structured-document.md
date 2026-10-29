@@ -5,7 +5,7 @@ date: '2026-10-20'
 source: The Decoder
 url_original: https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/
 url_canonical: https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-20_131013_Inbox_Daily AI News Digest – October
   20, 2026.md
 content_hash: 7cebf67d91a9ee991f8c37586fe7756d70536fb506af5bf74684dfec7c8db670

@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Forbes
 url_original: https://www.forbes.com/sites/zacharyfolk/2026/08/26/meta-agrees-to-1668-billion-settlement-in-social-media-addiction-trial/
 url_canonical: https://www.forbes.com/sites/zacharyfolk/2026/08/26/meta-agrees-to-1668-billion-settlement-in-social-media-addiction-trial/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-27_062110_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: f7123c0b5184c2228ad87c109762a84a21b518dbc77ea2f9e968bcbaee4cdb6f

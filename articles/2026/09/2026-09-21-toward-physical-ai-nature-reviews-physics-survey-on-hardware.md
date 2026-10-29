@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-09-physical-ai-hardware-neural-network.html
 url_canonical: https://techxplore.com/news/2026-09-physical-ai-hardware-neural-network.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 17dbe46ddadeb3761a467ffa88e2dfd7aadf058dd6fcd9c63868b3b0be03892d

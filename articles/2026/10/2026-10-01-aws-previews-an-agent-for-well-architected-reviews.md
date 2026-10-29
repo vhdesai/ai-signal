@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: AWS
 url_original: https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent
 url_canonical: https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-02_061956_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 1c0b4dbdb7b2d17dcd34bb5584d3b702f2d3bdc06c3ab987fb9d7ddc5339098a

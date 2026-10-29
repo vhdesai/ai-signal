@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Blockonomi
 url_original: https://blockonomi.com/openai-enables-chatgpt-to-access-and-manage-imessages-on-macos-devices/
 url_canonical: https://blockonomi.com/openai-enables-chatgpt-to-access-and-manage-imessages-on-macos-devices/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_062347_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: ae0f3078c4630f8240f2f23b8d929c9bd0aed8757e5ad2d833ed5e94c25ff526

@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: Reuters
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-customers-warned-ai-related-180912617.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-customers-warned-ai-related-180912617.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_062105_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 573a7d54ccfb7cb986fef7496651617163c6218613e4e12ac5e91f262caafb61

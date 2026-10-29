@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: The Economic Times
 url_original: https://economictimes.indiatimes.com/tech/technology/chinas-deepseek-considers-new-fundraising-after-first-round/articleshow/132389513.cms
 url_canonical: https://economictimes.indiatimes.com/tech/technology/chinas-deepseek-considers-new-fundraising-after-first-round/articleshow/132389513.cms
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_061116_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 7bf5618fe2bfc510b89be917a1f903cfdf849d7ce8ce2635fbbd5a1b89799e63

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
 - 2026-08-29-nvidia-developer-updates-point-to-local-tensorrt-llm-deploym
+- 2026-10-28-voice-ai-in-vogue-nvidia-releases-new-open-transcription-mod
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-09-02-new-nvidia-open-sources-switchyard-a-rust-proxy-for-cross-pr
-- 2026-08-21-nvidia-partners-with-cloverleaf-infrastructure-for-data-cent
 embedding_id: 2026-08-18-nvidia-releases-tensorrt-model-connect-in-public-preview
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia published TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-08-29-nvidia-developer-updates-point-to-local-tensorrt-llm-deploym]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-09-02-new-nvidia-open-sources-switchyard-a-rust-proxy-for-cross-pr]] · [[2026-08-21-nvidia-partners-with-cloverleaf-infrastructure-for-data-cent]]
+**Related:** [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-08-29-nvidia-developer-updates-point-to-local-tensorrt-llm-deploym]] · [[2026-10-28-voice-ai-in-vogue-nvidia-releases-new-open-transcription-mod]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-09-02-new-nvidia-open-sources-switchyard-a-rust-proxy-for-cross-pr]]
 <!-- graph:end -->

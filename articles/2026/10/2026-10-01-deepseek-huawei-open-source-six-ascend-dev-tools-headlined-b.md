@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: The Next Web / Semafor / TechNode Global]
 url_original: https://thenextweb.com/news/deepseek-huawei-open-source-ascend-tilelang-cuda-alternative
 url_canonical: https://thenextweb.com/news/deepseek-huawei-open-source-ascend-tilelang-cuda-alternative
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 0b340e70d3ec347de86cca1af1a609fc08feec743ea05ecf49b5a60966006db5

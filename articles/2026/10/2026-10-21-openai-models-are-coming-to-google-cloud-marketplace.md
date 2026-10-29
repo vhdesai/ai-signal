@@ -5,7 +5,7 @@ date: '2026-10-21'
 source: OpenAI
 url_original: https://openai.com/index/openai-models-google-cloud/
 url_canonical: https://openai.com/index/openai-models-google-cloud/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-21_065709_Final-Daily-AI-News-Digest.md
 content_hash: ba21c4e0c013d7c36a1a844955d86346298d1641eb1b30ad4ff930749d3661b3
 normalized_title_hash: 41038624e9c8c585

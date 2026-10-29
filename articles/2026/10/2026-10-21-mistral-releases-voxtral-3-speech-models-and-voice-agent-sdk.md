@@ -5,7 +5,7 @@ date: '2026-10-21'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/
 url_canonical: https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-21_065709_Final-Daily-AI-News-Digest.md
 content_hash: 87e71cdd8cafb50fb03c5deb373d4850b0d4589a1b6e6f1bb4432aad5e991672
 normalized_title_hash: 763a1490734e46d2

@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Google Cloud Blog
 url_original: https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/
 url_canonical: https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: f3d029b184500069a3dda6538dd9e7556138bbb426cbfe4d68ea43eda4a030c0
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
+- 2026-10-28-october-27-2026-the-information
 - 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
 - 2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme
 - 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
-- 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
 embedding_id: 2026-09-11-google-cloud-publishes-thomas-kurian-s-goldman-sachs-communi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Primary-source metrics worth recording: 17 product lines with more than $1 billi
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a]] · [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]]
+**Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-10-28-october-27-2026-the-information]] · [[2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a]] · [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]]
 <!-- graph:end -->

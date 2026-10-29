@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/
 url_canonical: https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-10_060708_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: f880cb3762047160f9e57f404c6fe6401fb5ac84e2201dcb3c1bd09aa88eaea0

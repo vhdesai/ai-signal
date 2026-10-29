@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: Techstrong.ai
 url_original: https://techstrong.ai/articles/openai-slashes-ai-inference-costs-by-half-in-major-shift-in-infrastructure-economics-report/
 url_canonical: https://techstrong.ai/articles/openai-slashes-ai-inference-costs-by-half-in-major-shift-in-infrastructure-economics-report/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: a460250894950bf68923e56dabec4fcdf0ed651122aac8a90f05c73fbb0fc5cd

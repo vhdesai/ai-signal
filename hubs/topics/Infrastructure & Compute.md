@@ -1,14 +1,23 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2273
+member_count: 2282
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2273 connected article(s).
+> Auto-generated topic hub. 2282 connected article(s).
 
+- `2026-10-29` [[2026-10-29-october-29-2026-pitchbook|[October 29, 2026] · [PitchBook]]]
+- `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]
+- `2026-10-29` [[2026-10-29-marvell-explores-a-lumentum-deal-as-optical-interconnect-bec|Marvell explores a Lumentum deal as optical interconnect becomes an AI bottleneck]]
+- `2026-10-29` [[2026-10-29-daily-ai-news-digest-october-29-2026|Daily AI News Digest – October 29, 2026]]
+- `2026-10-29` [[2026-10-29-ai-buildout-financing-shifts-toward-discipline-as-oracle-cap|AI buildout financing shifts toward discipline as Oracle caps capex and lenders lean in]]
+- `2026-10-28` [[2026-10-28-october-27-2026-the-information|[October 27, 2026] · [The Information]]]
+- `2026-10-28` [[2026-10-28-voice-ai-in-vogue-nvidia-releases-new-open-transcription-mod|Voice AI in vogue: Nvidia releases new open transcription model]]
+- `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
 - `2026-10-28` [[2026-10-28-nvidia-and-oracle-announce-multi-gigawatt-vera-rubin-expansi|NVIDIA and Oracle announce multi-gigawatt Vera Rubin expansion plans on OCI]]
+- `2026-10-28` [[2026-10-28-house-democrats-seek-48-hour-reporting-of-ai-safety-incident|House Democrats seek 48-hour reporting of AI safety incidents]]
 - `2026-10-28` [[2026-10-28-big-tech-s-ai-buildout-is-colliding-with-rising-capital-requ|Big Tech’s AI buildout is colliding with rising capital requirements and memory constraints]]
 - `2026-10-27` [[2026-10-27-openai-spotlights-retell-s-scale-in-voice-agent-workloads|OpenAI spotlights Retell’s scale in voice-agent workloads]]
 - `2026-10-27` [[2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b|OpenAI plans to buy Google TPUs as Google expands AI chips beyond its own cloud]]

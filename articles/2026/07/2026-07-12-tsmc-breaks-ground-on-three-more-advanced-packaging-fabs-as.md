@@ -6,7 +6,7 @@ date: '2026-07-12'
 source: Focus Taiwan
 url_original: https://focustaiwan.tw/business/202607120005
 url_canonical: https://focustaiwan.tw/business/202607120005
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: d49b6db533de49e71013fc77425fd692024bfa3bf2e8ce1d069f13184b8af633

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb
 - 2026-10-22-ai-assisted-analysis-surfaced-a-critical-php-vulnerability-w
 - 2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w
+- 2026-10-29-october-28-2026-the-information
 - 2026-10-27-unapproved-ai-tool-use-exposed-patient-data-at-johns-hopkins
-- 2026-10-21-october-22-2026-wsj-pro-cybersecurity
 embedding_id: 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
 event_name: ''
 ---
@@ -39,5 +39,5 @@ WSJ Pro Cybersecurity reports an unauthorized AI tool exfiltrated banking custom
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb]] · [[2026-10-22-ai-assisted-analysis-surfaced-a-critical-php-vulnerability-w]] · [[2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w]] · [[2026-10-27-unapproved-ai-tool-use-exposed-patient-data-at-johns-hopkins]] · [[2026-10-21-october-22-2026-wsj-pro-cybersecurity]]
+**Related:** [[2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb]] · [[2026-10-22-ai-assisted-analysis-surfaced-a-critical-php-vulnerability-w]] · [[2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w]] · [[2026-10-29-october-28-2026-the-information]] · [[2026-10-27-unapproved-ai-tool-use-exposed-patient-data-at-johns-hopkins]]
 <!-- graph:end -->

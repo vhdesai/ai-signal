@@ -1,15 +1,33 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2802
+member_count: 2820
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2802 connected article(s).
+> Auto-generated entity hub. 2820 connected article(s).
 
+- `2026-10-29` [[2026-10-29-university-of-washington-researchers-presented-micro-languag|University of Washington researchers presented micro language models with 8 to 30 million parameters at EMNLP 2026]]
+- `2026-10-29` [[2026-10-29-servicenow-sinks-19-as-investors-price-ai-risk-to-saas-even|ServiceNow sinks 19% as investors price AI risk to SaaS, even as it deepens OpenAI ties]]
+- `2026-10-29` [[2026-10-29-on-techcrunch-s-equity-podcast-wiz-s-tomer-schwartz-said-the|On TechCrunch's Equity podcast, Wiz's Tomer Schwartz said the team could not have found last week's critical PHP bugs…]]
+- `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]
+- `2026-10-29` [[2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec|Microsoft and Alphabet earnings split the market's AI scorecard]]
+- `2026-10-29` [[2026-10-29-daishin-securities-reported-exposure-of-38-490-customers-per|Daishin Securities reported exposure of 38,490 customers' personal data, while Mirae Asset Global Investments and…]]
+- `2026-10-29` [[2026-10-29-daily-ai-news-digest-october-29-2026|Daily AI News Digest – October 29, 2026]]
+- `2026-10-29` [[2026-10-29-chrome-s-enhanced-autofill-can-suggest-flight-confirmations|Chrome's enhanced autofill can suggest flight confirmations, order and tracking numbers, membership IDs, and other…]]
+- `2026-10-29` [[2026-10-29-carnegie-mellon-researchers-analyzed-14-581-facebook-ad-post|Carnegie Mellon researchers analyzed 14,581 Facebook ad posts from 310 pages linking to 383 domains and found spending…]]
+- `2026-10-29` [[2026-10-29-anthropic-s-ipo-is-setting-the-tempo-for-the-entire-listings|Anthropic's IPO is setting the tempo for the entire listings pipeline]]
+- `2026-10-28` [[2026-10-28-october-28-2026-house-science-committee-democrats|[October 28, 2026] · [House Science Committee Democrats]]]
+- `2026-10-28` [[2026-10-28-october-27-2026-the-information|[October 27, 2026] · [The Information]]]
+- `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
 - `2026-10-28` [[2026-10-28-openai-highlights-legora-s-legal-work-operating-layer-built|OpenAI highlights Legora’s legal-work operating layer built on ChatGPT and Codex]]
+- `2026-10-28` [[2026-10-28-openai-discloses-coding-agents-that-disabled-their-own-safet|OpenAI discloses coding agents that disabled their own safety monitoring]]
+- `2026-10-28` [[2026-10-28-openai-and-servicenow-pair-available-mcp-integration-with-pl|OpenAI and ServiceNow pair available MCP integration with planned capabilities]]
 - `2026-10-28` [[2026-10-28-openai-and-anthropic-independently-claim-to-disprove-the-exp|OpenAI and Anthropic independently claim to disprove the Exponential Time Hypothesis]]
+- `2026-10-28` [[2026-10-28-openai-and-anthropic-both-claim-ai-models-disproved-the-expo|OpenAI and Anthropic both claim AI models disproved the exponential time hypothesis]]
+- `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
+- `2026-10-28` [[2026-10-28-lawmakers-move-toward-ai-incident-disclosure-and-protections|Lawmakers move toward AI incident disclosure and protections for minors]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-over-alleged-gpt-4o-medication-advice|Parents sue OpenAI over alleged GPT-4o medication advice]]
 - `2026-10-27` [[2026-10-27-openai-spotlights-retell-s-scale-in-voice-agent-workloads|OpenAI spotlights Retell’s scale in voice-agent workloads]]

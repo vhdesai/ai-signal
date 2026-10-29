@@ -5,7 +5,7 @@ date: '2026-08-31'
 source: The New York Times
 url_original: https://thenextweb.com/news/meta-anthropic-10bn-spending-projection
 url_canonical: https://thenextweb.com/news/meta-anthropic-10bn-spending-projection
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: e9a323cfd143856b385ce31d8a06824cb2b2060228997831c884c6586c4cb4cf
 normalized_title_hash: e84405213ca57ae6

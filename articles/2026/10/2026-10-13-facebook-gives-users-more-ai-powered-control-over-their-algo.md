@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/
 url_canonical: https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: e027b657a0df41a155f694d6174397e94c5d7fc2414001c51ec00b43e41a6887

@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: Forbes · Nvidia
 url_original: https://www.forbes.com/sites/jimosman/2026/08/27/nvidia-stock-blowout-earnings-reveal-a-279-billion-bet-on-ai/
 url_canonical: https://www.forbes.com/sites/jimosman/2026/08/27/nvidia-stock-blowout-earnings-reveal-a-279-billion-bet-on-ai/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: eace413dc0f171217eb415161f576d7c874ed9d06c3f1b92a0fe6f0a001f9f3f

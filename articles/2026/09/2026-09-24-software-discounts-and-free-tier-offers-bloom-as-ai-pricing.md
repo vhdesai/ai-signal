@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Information (The Briefing)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Amazon+Quick+Plus+free+Microsoft+Copilot+discount+AI+pricing
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Amazon+Quick+Plus+free+Microsoft+Copilot+discount+AI+pricing
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 89512bd03e8f7ffcca7643f0d404753a70a1be4318a17fc433eae90794a34d06

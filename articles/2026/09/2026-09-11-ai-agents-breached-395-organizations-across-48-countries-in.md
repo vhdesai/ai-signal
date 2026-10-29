@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Help Net Security
 url_original: https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/
 url_canonical: https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060721_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 9c53fe5e174a5d3125fad3b8c671c23b9c0ec22ce854eefbefa73094e5141a66

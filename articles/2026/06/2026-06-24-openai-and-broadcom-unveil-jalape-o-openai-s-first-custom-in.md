@@ -5,7 +5,7 @@ date: '2026-06-24'
 source: VentureBeat
 url_original: https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models
 url_canonical: https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
 content_hash: a442bf33415418e88b23fe183a75b162c43b1e8fb20838285f5ac48e8051f301

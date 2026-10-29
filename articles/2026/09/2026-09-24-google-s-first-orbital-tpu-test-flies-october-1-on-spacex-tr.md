@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: Ars Technica]
 url_original: https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/
 url_canonical: https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_065921_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 114cb55e1c19b5feed995c9fbd075ff27527777692d95b96f7fd9703fec9e3c0

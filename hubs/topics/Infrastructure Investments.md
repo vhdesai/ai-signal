@@ -1,13 +1,21 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1849
+member_count: 1857
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1849 connected article(s).
+> Auto-generated topic hub. 1857 connected article(s).
 
+- `2026-10-29` [[2026-10-29-october-29-2026-pitchbook|[October 29, 2026] · [PitchBook]]]
+- `2026-10-29` [[2026-10-29-october-28-2026-wall-street-journal|[October 28, 2026] · [Wall Street Journal]]]
+- `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]
+- `2026-10-29` [[2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec|Microsoft and Alphabet earnings split the market's AI scorecard]]
+- `2026-10-29` [[2026-10-29-daily-ai-news-digest-october-29-2026|Daily AI News Digest – October 29, 2026]]
+- `2026-10-29` [[2026-10-29-ai-buildout-financing-shifts-toward-discipline-as-oracle-cap|AI buildout financing shifts toward discipline as Oracle caps capex and lenders lean in]]
+- `2026-10-28` [[2026-10-28-october-28-2026-house-science-committee-democrats|[October 28, 2026] · [House Science Committee Democrats]]]
+- `2026-10-28` [[2026-10-28-october-27-2026-the-information|[October 27, 2026] · [The Information]]]
 - `2026-10-28` [[2026-10-28-nvidia-and-oracle-announce-multi-gigawatt-vera-rubin-expansi|NVIDIA and Oracle announce multi-gigawatt Vera Rubin expansion plans on OCI]]
 - `2026-10-28` [[2026-10-28-big-tech-s-ai-buildout-is-colliding-with-rising-capital-requ|Big Tech’s AI buildout is colliding with rising capital requirements and memory constraints]]
 - `2026-10-27` [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme|Anthropic’s commitments underscore the scale of Google’s emerging TPU business]]

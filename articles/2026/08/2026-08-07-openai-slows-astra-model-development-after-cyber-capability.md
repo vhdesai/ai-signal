@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: TechCrunch / OpenAI Blog
 url_original: https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/
 url_canonical: https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_060740_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 92b67bab1f50ce60747d294f7559c94f4e8daa17291d1e45fb7655157a55b77d

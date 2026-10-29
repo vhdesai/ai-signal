@@ -5,7 +5,7 @@ date: '2026-09-29'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html
 url_canonical: https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 2df40350239fa71228fc6224997e0a8b15fb1134fb131b84c2ea08ba1a7adee7

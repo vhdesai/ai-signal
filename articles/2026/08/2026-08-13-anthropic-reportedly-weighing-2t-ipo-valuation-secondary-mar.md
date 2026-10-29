@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: Yahoo Finance (Financial Times) · The Wall Street Journal · Business Insider
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-could-reportedly-target-2-110104379.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-could-reportedly-target-2-110104379.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: 5fc9969a3dfb52eab39dd981a8c598a02c542a1f6dca659f6ef831d13e748342
 normalized_title_hash: 9ed7146f0f85723d

@@ -5,7 +5,7 @@ date: '2026-10-19'
 source: MIT News
 url_original: https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019
 url_canonical: https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-20_065831_Final-Daily-AI-News-Digest.md
 content_hash: 2af16315f96f1c9ec035be93cf0b1f7b4c2e1d162c48f9fed5441f9cdf665e5f
 normalized_title_hash: 16131396566b9f83

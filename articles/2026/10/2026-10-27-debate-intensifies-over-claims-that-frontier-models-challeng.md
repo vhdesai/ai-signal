@@ -5,7 +5,7 @@ date: '2026-10-27'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/
 url_canonical: https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-28_131127_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: f894284dd08e6c3049dcaab424722d4258ffbed2ce69a5b79e14ca2f52d4bb4c

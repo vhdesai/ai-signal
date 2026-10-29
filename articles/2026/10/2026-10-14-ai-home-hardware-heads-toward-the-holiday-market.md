@@ -5,7 +5,7 @@ date: '2026-10-14'
 source: 11:00 UTC · CNBC
 url_original: https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html
 url_canonical: https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-14_060653_Inbox_Daily AI News Digest – October
   14, 2026.md
 content_hash: c4c4b6be9cd0f2541cd5784e5feb0fa112b2b500bd71949d55012bd602de6f86

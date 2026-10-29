@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: '[AMD]'
 url_original: https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market
 url_canonical: https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-08_062022_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: cb49e3dc46b83718dec40e822aa476146e00369ff3dbe5c4c0ba6d66e5fb47ef

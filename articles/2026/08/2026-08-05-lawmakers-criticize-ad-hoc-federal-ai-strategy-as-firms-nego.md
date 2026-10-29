@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: Defense One
 url_original: https://www.defenseone.com/technology/2026/08/ai-models-white-house-and-companies-secret-safety-measures/415227/
 url_canonical: https://www.defenseone.com/technology/2026/08/ai-models-white-house-and-companies-secret-safety-measures/415227/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_062205_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 40a03718d3ea3b2524ed5f089d7bb16e59d5858e76bcd3aa25c82645e5869966
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-09-the-information-confusion-reigns-over-the-white-house-s-ai-w
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
+- 2026-10-28-october-28-2026-house-science-committee-democrats
 - 2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
-- 2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re
 embedding_id: 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
 event_name: ''
 ---
@@ -39,5 +39,5 @@ As the review framework takes effect, reporting indicates the White House is wor
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-09-the-information-confusion-reigns-over-the-white-house-s-ai-w]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re]]
+**Related:** [[2026-09-09-the-information-confusion-reigns-over-the-white-house-s-ai-w]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-10-28-october-28-2026-house-science-committee-democrats]] · [[2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]]
 <!-- graph:end -->

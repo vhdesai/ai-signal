@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Windows Latest
 url_original: https://www.windowslatest.com/2026/08/04/microsoft-teams-is-fighting-ai-deepfake-meetings-with-a-new-report-button-rolling-out-august-2026/
 url_canonical: https://www.windowslatest.com/2026/08/04/microsoft-teams-is-fighting-ai-deepfake-meetings-with-a-new-report-button-rolling-out-august-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 313f50a2cb214dc6c6ba5f97762e6f1e1a1a2ea0089ba87b3d551f1ed67f7c6c

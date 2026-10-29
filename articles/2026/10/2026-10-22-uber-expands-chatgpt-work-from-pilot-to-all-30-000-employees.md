@@ -5,7 +5,7 @@ date: '2026-10-22'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/
 url_canonical: https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-23_065801_Final-Daily-AI-News-Digest.md
 content_hash: a49984488a25027c495339a717931388084a48a38dab71008870f5c33ce5b8fd
 normalized_title_hash: 2678a93e691676ec

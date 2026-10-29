@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Firstpost
 url_original: https://www.firstpost.com/tech/microsoft-confirms-copilot-super-app-is-coming-this-year-bringing-chat-coding-and-ai-agents-together-14035056.html
 url_canonical: https://www.firstpost.com/tech/microsoft-confirms-copilot-super-app-is-coming-this-year-bringing-chat-coding-and-ai-agents-together-14035056.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 976a78934630976d8e8b7bbbd513855d61360324d5e89f65f628f39bd3ad0422

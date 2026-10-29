@@ -6,7 +6,7 @@ date: '2026-07-14'
 source: The Next Web
 url_original: https://thenextweb.com/news/nvidia-halves-asia-buyer-list-china-crackdown
 url_canonical: https://thenextweb.com/news/nvidia-halves-asia-buyer-list-china-crackdown
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_065741_Final-Daily-AI-News-Digest.md
 content_hash: 5d3fa04ee75ef6db0c5e435c6601b9cd535d936fe3479360eb2246a0a52b32ec
 normalized_title_hash: 3f926871f1630fea

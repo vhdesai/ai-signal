@@ -5,7 +5,7 @@ date: '2026-10-14'
 source: MIT News
 url_original: https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014
 url_canonical: https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-15_061934_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: efa16b4e5b2f73a6ba8990c0d4b286f58f579c110052bd56bf4b84e17ac1ac0d

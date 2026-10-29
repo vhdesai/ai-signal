@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: Chosun / Foreign Policy Journal
 url_original: https://biz.chosun.com/en/2026/09/27/microsoft-consolidates-copilot-enterprise-ai-platform-2026
 url_canonical: https://biz.chosun.com/en/2026/09/27/microsoft-consolidates-copilot-enterprise-ai-platform-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: e58a586e4d6b879244156fbeca531fa8901a238ca048634ed93538c144478c27

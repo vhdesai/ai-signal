@@ -5,7 +5,7 @@ date: '2026-10-14'
 source: Iowa Attorney General
 url_original: https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-lawsuit-against-openai-for-deceiving-iowa-parents-and-iowans
 url_canonical: https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-lawsuit-against-openai-for-deceiving-iowa-parents-and-iowans
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-15_061934_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 77345cf1b4bc3ef259c40081127fa6a3206868745837c2a2b4ad1841b97b2d4d

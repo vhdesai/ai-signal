@@ -5,7 +5,7 @@ date: '2026-10-20'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/policy/article/3371540/china-creates-state-owned-firm-xiongan-develop-nations-ai-data-resources
 url_canonical: https://www.scmp.com/tech/policy/article/3371540/china-creates-state-owned-firm-xiongan-develop-nations-ai-data-resources
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-20_131013_Inbox_Daily AI News Digest – October
   20, 2026.md
 content_hash: c539dc2d8efaa27a4ba5ee80b0a61d09e1c57ad4ab2de2bc484eee948d5b4340

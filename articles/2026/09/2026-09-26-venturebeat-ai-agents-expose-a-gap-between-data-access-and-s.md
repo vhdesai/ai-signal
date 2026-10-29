@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: VentureBeat
 url_original: https://venturebeat.com/security/ai-agents-are-exposing-a-security-gap-between-the-data-they-read-and-the-systems-they-can-change/
 url_canonical: https://venturebeat.com/security/ai-agents-are-exposing-a-security-gap-between-the-data-they-read-and-the-systems-they-can-change/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_060626_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: ed9200245165e32e4c4c85315a57ffcb893bff4054ce0f817b84215d7ee8fe07

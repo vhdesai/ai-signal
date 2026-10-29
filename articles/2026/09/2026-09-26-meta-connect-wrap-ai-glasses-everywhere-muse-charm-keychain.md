@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: TechCrunch / Business Insider
 url_original: https://techcrunch.com/2026/09/26/meta-connect-2026-smart-glasses-muse-vr-recap/
 url_canonical: https://techcrunch.com/2026/09/26/meta-connect-2026-smart-glasses-muse-vr-recap/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 4daeceafce91eccd5b840307e207145c18d9fff2013d3af4857dae310d43146d

@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-09-ai-reliable-detectors.html
 url_canonical: https://techxplore.com/news/2026-09-ai-reliable-detectors.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060139_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 972945d6e99c23a555b46f0178e91e850f0e750be250a4d976dbded44e497a39

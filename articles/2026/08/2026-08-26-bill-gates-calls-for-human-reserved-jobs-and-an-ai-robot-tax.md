@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: The Guardian (via TechStartups) · Policy / industry-wide
 url_original: https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/
 url_canonical: https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 4210d311b57660bcb4a0a62f41b119cbe250a1b79fff1a0caade95f95695f066

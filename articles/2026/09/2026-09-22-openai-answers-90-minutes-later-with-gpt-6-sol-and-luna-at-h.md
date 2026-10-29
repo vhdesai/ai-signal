@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/
 url_canonical: https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_060610_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 91bf487f894e4843f9a5debdf6f339a68e9b65b102e4f8e8a17c6435206cc0a1

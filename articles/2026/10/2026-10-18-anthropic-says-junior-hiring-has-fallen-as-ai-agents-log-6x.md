@@ -5,7 +5,7 @@ date: '2026-10-18'
 source: The Decoder
 url_original: https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/
 url_canonical: https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-18_123234_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 65706fc9ccd9143ed1800957f37e811649dce40159303736e4dab58b477df327

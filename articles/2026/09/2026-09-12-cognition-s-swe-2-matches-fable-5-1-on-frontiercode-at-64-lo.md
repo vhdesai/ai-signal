@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/
 url_canonical: https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_061723_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: aa88f9111c6143af0158306b51aea220f1078017a39292a77860dbc3a8316c73

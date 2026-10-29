@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: explainx.ai
 url_original: https://www.explainx.ai/blog/stepfun-step-5-preview-pareto-frontier-launch-2026
 url_canonical: https://www.explainx.ai/blog/stepfun-step-5-preview-pareto-frontier-launch-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 6aeda489f60b7dd9bb0b2bd6caf97421611e7232df726b083fa90d88c98f6c94

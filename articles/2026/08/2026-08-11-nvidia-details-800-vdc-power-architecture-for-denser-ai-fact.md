@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/
 url_canonical: https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-12_060916_Inbox_Daily AI News Digest - August 12,
   2026.md
 content_hash: 509dc5bdf22c552093bf84b56db75abb4a3a909bdd33a69d2d2593eb33318831

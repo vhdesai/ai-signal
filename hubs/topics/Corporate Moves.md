@@ -1,16 +1,34 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5048
+member_count: 5066
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5048 connected article(s).
+> Auto-generated topic hub. 5066 connected article(s).
 
+- `2026-10-29` [[2026-10-29-october-28-2026-wall-street-journal|[October 28, 2026] · [Wall Street Journal]]]
+- `2026-10-29` [[2026-10-29-october-28-2026-techcrunch|[October 28, 2026] · [TechCrunch]]]
+- `2026-10-29` [[2026-10-29-october-28-2026-cnbc|[October 28, 2026] · [CNBC]]]
+- `2026-10-29` [[2026-10-29-servicenow-sinks-19-as-investors-price-ai-risk-to-saas-even|ServiceNow sinks 19% as investors price AI risk to SaaS, even as it deepens OpenAI ties]]
+- `2026-10-29` [[2026-10-29-publishers-begin-serving-ads-that-only-ai-agents-can-see|Publishers begin serving ads that only AI agents can see]]
+- `2026-10-29` [[2026-10-29-on-techcrunch-s-equity-podcast-wiz-s-tomer-schwartz-said-the|On TechCrunch's Equity podcast, Wiz's Tomer Schwartz said the team could not have found last week's critical PHP bugs…]]
+- `2026-10-29` [[2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back|NYSE's Lynn Martin says Anthropic's listing is holding back the IPO pipeline]]
+- `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]
+- `2026-10-29` [[2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec|Microsoft and Alphabet earnings split the market's AI scorecard]]
+- `2026-10-29` [[2026-10-29-daishin-securities-reported-exposure-of-38-490-customers-per|Daishin Securities reported exposure of 38,490 customers' personal data, while Mirae Asset Global Investments and…]]
+- `2026-10-29` [[2026-10-29-daily-ai-news-digest-october-29-2026|Daily AI News Digest – October 29, 2026]]
+- `2026-10-29` [[2026-10-29-anthropic-s-ipo-is-setting-the-tempo-for-the-entire-listings|Anthropic's IPO is setting the tempo for the entire listings pipeline]]
+- `2026-10-28` [[2026-10-28-october-29-2026-the-information-2|[October 29, 2026] · [The Information]]]
+- `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
+- `2026-10-28` [[2026-10-28-openai-and-servicenow-pair-available-mcp-integration-with-pl|OpenAI and ServiceNow pair available MCP integration with planned capabilities]]
+- `2026-10-28` [[2026-10-28-nvidia-faces-doj-questions-on-hugging-face-as-a-counterintel|Nvidia faces DOJ questions on Hugging Face as a counterintelligence report adds pressure]]
+- `2026-10-28` [[2026-10-28-github-expands-copilot-with-managed-projects-and-usage-based|GitHub expands Copilot with managed projects and usage-based enterprise access]]
 - `2026-10-28` [[2026-10-28-former-doj-antitrust-leaders-launch-fluxcap-an-ai-platform-f|Former DOJ antitrust leaders launch FluxCap, an AI platform for litigation]]
 - `2026-10-28` [[2026-10-28-anthropic-buys-a-one-person-biotech-and-starts-its-own-drug|Anthropic buys a one-person biotech and starts its own drug programmes]]
 - `2026-10-28` [[2026-10-28-amazon-expands-shop-direct-to-defend-against-cross-retailer|Amazon expands Shop Direct to defend against cross-retailer AI shopping agents]]
+- `2026-10-28` [[2026-10-28-ai-cost-governance-becomes-a-product-as-anthropic-ships-spen|AI cost governance becomes a product as Anthropic ships spend reporting and banks right-size models]]
 - `2026-10-27` [[2026-10-27-who-controls-anthropic-post-ipo-remains-a-central-governance|Who controls Anthropic post-IPO remains a central governance question]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-over-alleged-gpt-4o-medication-advice|Parents sue OpenAI over alleged GPT-4o medication advice]]
 - `2026-10-27` [[2026-10-27-openai-spotlights-retell-s-scale-in-voice-agent-workloads|OpenAI spotlights Retell’s scale in voice-agent workloads]]

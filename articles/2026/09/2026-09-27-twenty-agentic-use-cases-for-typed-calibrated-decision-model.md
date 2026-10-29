@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/
 url_canonical: https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_060201_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 1a9f0ff2504f37ca0cb4d9bf7256e52cad64200c2f6d5602fffdb132d52b97af

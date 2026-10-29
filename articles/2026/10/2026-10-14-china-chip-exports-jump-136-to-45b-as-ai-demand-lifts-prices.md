@@ -5,7 +5,7 @@ date: '2026-10-14'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3370858/china-chip-exports-jump-136-us45b-ai-frenzy-jacks-prices
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3370858/china-chip-exports-jump-136-us45b-ai-frenzy-jacks-prices
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: d93c264d270660b6e7099fb599e69fb4bf5cde5b6070c1cfe2ffd4f8c7e68628

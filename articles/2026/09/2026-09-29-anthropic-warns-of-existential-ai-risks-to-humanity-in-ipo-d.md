@@ -5,7 +5,7 @@ date: '2026-09-29'
 source: The Guardian / Reuters / 24-7 Wall St.
 url_original: https://247wallst.com/investing/2026/09/29/anthropic-ipo-warns-of-existential-risks-to-humanity/
 url_canonical: https://247wallst.com/investing/2026/09/29/anthropic-ipo-warns-of-existential-risks-to-humanity/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: cd18a0b0f6a1b779d38e613438a7b1bbc34570edca0fe58786ce5e68ea4e297c

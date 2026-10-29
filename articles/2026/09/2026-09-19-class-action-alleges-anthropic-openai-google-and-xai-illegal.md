@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: CBS News
 url_original: https://www.cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google/
 url_canonical: https://www.cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_065604_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: ca71f071108b2efb7d7b4b805ddcaa422fb83b375895bbb6b07c29ac72157d97

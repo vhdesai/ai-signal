@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/
 url_canonical: https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_060534_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 62339232caf6e365ba4f0b5a452bce02eea4edca42ad3ac3df2af2454d697060

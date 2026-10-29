@@ -5,7 +5,7 @@ date: '2026-10-23'
 source: '[OpenAI Blog]'
 url_original: https://openai.com/index/scaling-storage-one-billion-users-part-two/
 url_canonical: https://openai.com/index/scaling-storage-one-billion-users-part-two/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-24_070002_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: 12852cc97a56f9c650f725988dd1e89fe2d76ea7f92c9a945583a3b29706c907

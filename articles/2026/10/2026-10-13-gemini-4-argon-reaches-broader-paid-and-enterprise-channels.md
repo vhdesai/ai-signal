@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: Google
 url_original: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-14_063518_Inbox_Daily AI News Digest – October
   14, 2026.md
 content_hash: aec7ea54bc5b65b5082b7a376f6100ba1799591c374c759fab9daa08266934ee
@@ -22,7 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-28-october-29-2026-the-information
 - 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
+- 2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with
 - 2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing
 embedding_id: 2026-10-13-gemini-4-argon-reaches-broader-paid-and-enterprise-channels
 event_name: ''
@@ -37,5 +39,5 @@ Google broadened Argon access across APIs and paid products. Introductory pricin
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]] · [[2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing]]
+**Related:** [[2026-10-28-october-29-2026-the-information]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]] · [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with]] · [[2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing]]
 <!-- graph:end -->

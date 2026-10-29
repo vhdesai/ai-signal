@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: Adweek / eMarketer
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 3c0e7a33c6b6d901ac1f4d5104d10ce09abd3f8280b5d0f0b1dd3bdfd4bd25ea

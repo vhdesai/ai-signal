@@ -5,7 +5,7 @@ date: '2026-10-08'
 source: 2:08 p.m. PDT · Yahoo Finance
 url_original: https://finance.yahoo.com/technology/article/oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-openai-revenue-disclosure-180233070.html
 url_canonical: https://finance.yahoo.com/technology/article/oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-openai-revenue-disclosure-180233070.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-09_060344_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: c00d67fce44e43dd934b63e5bda647635f032f1402b21cbcdda7d9b67f7711a3

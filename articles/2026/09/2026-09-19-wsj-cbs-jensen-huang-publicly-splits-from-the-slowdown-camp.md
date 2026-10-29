@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: The Wall Street Journal / CBS News
 url_original: https://www.wsj.com/tech/ai/dario-says-ai-should-slow-down-jensen-wants-to-go-full-steam-ahead
 url_canonical: https://www.wsj.com/tech/ai/dario-says-ai-should-slow-down-jensen-wants-to-go-full-steam-ahead
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-20_070031_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: def2f26ef34b43499a451ab88e2f00a3d99db60b0d1a1a347b19d5066fed8e2c

@@ -25,6 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u
+- 2026-10-28-october-28-2026-house-science-committee-democrats
 embedding_id: 2026-10-06-new-york-lawmakers-grill-openai-anthropic-google-and-meta-ex
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Top executives and safety officials from major AI labs appeared before New York 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u]]
+**Related:** [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u]] · [[2026-10-28-october-28-2026-house-science-committee-democrats]]
 <!-- graph:end -->

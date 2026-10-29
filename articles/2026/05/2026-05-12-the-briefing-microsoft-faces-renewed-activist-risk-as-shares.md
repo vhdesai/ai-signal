@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-29-october-28-2026-wall-street-journal
 - 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
 - 2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
 - 2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow
-- 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
 embedding_id: 2026-05-12-the-briefing-microsoft-faces-renewed-activist-risk-as-shares
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft shares are down nearly 16% YTD, the worst performer of big tech. Briti
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow]] · [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down]]
+**Related:** [[2026-10-29-october-28-2026-wall-street-journal]] · [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow]]
 <!-- graph:end -->

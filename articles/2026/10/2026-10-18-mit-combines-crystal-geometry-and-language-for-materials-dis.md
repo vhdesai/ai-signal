@@ -5,7 +5,7 @@ date: '2026-10-18'
 source: October 18, 2026; date-only publication
 url_original: https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018
 url_canonical: https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-18_062116_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: b0c7f4e588f889786b63949bbb4f2320221002eacd7c1b6fe00b7c4dbb38a854

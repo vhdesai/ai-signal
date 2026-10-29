@@ -6,7 +6,7 @@ date: '2026-07-22'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html
 url_canonical: https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-23_065018_Final-Daily-AI-News-Digest.md
 content_hash: 74a6584071bbb5f4035807843db7f4063228e2597c7875f657df003c508646ac
 normalized_title_hash: 371c7326798ad392
@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-29-october-28-2026-wall-street-journal
+- 2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec
 - 2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi
 - 2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en
 - 2026-07-30-amazon-lifts-2026-capex-to-220b-as-aws-growth-accelerates-to
-- 2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex
-- 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
 embedding_id: 2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Alphabet reported Q2 revenue of $119.8B (up 24%), with Google Cloud surging 82% 
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi]] · [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-07-30-amazon-lifts-2026-capex-to-220b-as-aws-growth-accelerates-to]] · [[2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]]
+**Related:** [[2026-10-29-october-28-2026-wall-street-journal]] · [[2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec]] · [[2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi]] · [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-07-30-amazon-lifts-2026-capex-to-220b-as-aws-growth-accelerates-to]]
 <!-- graph:end -->

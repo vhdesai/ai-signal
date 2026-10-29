@@ -6,7 +6,7 @@ date: '2026-08-03'
 source: Analytics India Magazine
 url_original: https://analyticsindiamag.com/ai-news/openais-unreleased-astra-model-solved-10-long-standing-math-computer-science-problems
 url_canonical: https://analyticsindiamag.com/ai-news/openais-unreleased-astra-model-solved-10-long-standing-math-computer-science-problems
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_060905_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 79090d436da20edd5887af3cb2d924315b64cc04c009720640226b73f002dabb

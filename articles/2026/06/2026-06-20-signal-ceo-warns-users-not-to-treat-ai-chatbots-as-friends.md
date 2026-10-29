@@ -5,7 +5,7 @@ date: '2026-06-20'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/
 url_canonical: https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-21_060000_Daily-AI-News-Digest.md
 content_hash: 4e0262b45128f09df218b8fac8474efd73eaf68491920c56a0a0d690b2ce0341
 normalized_title_hash: 01bcbce1a1994c70

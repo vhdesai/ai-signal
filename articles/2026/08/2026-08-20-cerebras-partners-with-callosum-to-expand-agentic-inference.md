@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: GLOBE NEWSWIRE via Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/cerebras-callosum-partner-deliver-ultra-121800248.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/cerebras-callosum-partner-deliver-ultra-121800248.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 3ebf0380be33ea400e26e0055e798110386445412a24a03f671828e20fcc5295

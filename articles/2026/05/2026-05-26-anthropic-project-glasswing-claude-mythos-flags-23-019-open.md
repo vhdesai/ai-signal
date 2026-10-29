@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: eWeek
 url_original: https://www.eweek.com/news/claude-mythos-vulnerabilities-may-2026/
 url_canonical: https://www.eweek.com/news/claude-mythos-vulnerabilities-may-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 60a8a18ffe6cd055eae97c866f9e7031a09ceb73395b4d17387e7db390eb80eb

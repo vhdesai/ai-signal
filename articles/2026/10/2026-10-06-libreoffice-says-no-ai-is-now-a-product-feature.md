@@ -5,7 +5,7 @@ date: '2026-10-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/
 url_canonical: https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-07_060628_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: 1eff1a523ee0f1997ff2fba85b5018cef5d4538eec31302b99685bd0916ccc01

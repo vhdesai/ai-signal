@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html
 url_canonical: https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 4eef340706af080b1b5fe4c0140aa5e1f3a33850155236e0b4168dd8dbf1e169

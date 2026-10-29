@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili
 - 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
 - 2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op
-- 2026-10-07-anthropic-widens-access-to-ai-cyber-capabilities-for-vetted
+- 2026-10-29-october-28-2026-techcrunch
 embedding_id: 2026-10-07-anthropic-and-aws-formalize-the-forward-deployed-engineer-pu
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic and AWS are expanding certification efforts for forward-deployed engin
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili]] · [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]] · [[2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op]] · [[2026-10-07-anthropic-widens-access-to-ai-cyber-capabilities-for-vetted]]
+**Related:** [[2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili]] · [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]] · [[2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op]] · [[2026-10-29-october-28-2026-techcrunch]]
 <!-- graph:end -->

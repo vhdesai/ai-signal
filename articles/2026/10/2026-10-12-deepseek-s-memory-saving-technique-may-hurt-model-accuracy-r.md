@@ -5,7 +5,7 @@ date: '2026-10-12'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3370550/deepseeks-cost-saving-ai-may-lead-inaccuracy-model-performance-research
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3370550/deepseeks-cost-saving-ai-may-lead-inaccuracy-model-performance-research
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 754cdf92599bb7d468512eb1f5fb88eb88b862a0a552ec2dd6c789b788231873

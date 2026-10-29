@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: The Next Web
 url_original: https://thenextweb.com/news/meta-muse-spark-api-delay
 url_canonical: https://thenextweb.com/news/meta-muse-spark-api-delay
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: a9cee0bc5cf7248bb4c1dad17b55452b7456b34c0d836468841412b3684731df

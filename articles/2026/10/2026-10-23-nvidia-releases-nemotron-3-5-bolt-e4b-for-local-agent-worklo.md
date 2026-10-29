@@ -5,7 +5,7 @@ date: '2026-10-23'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/
 url_canonical: https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-24_070002_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: af7f658975ad8804afdb0f93e7e5e090154e02ea978e5b44d1a4748f7bc54a93

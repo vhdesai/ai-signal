@@ -5,7 +5,7 @@ date: '2026-10-19'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Pentagon%20Emil%20Michael%20export%20controls%20AI%20labs
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Pentagon%20Emil%20Michael%20export%20controls%20AI%20labs
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-19_065717_Final-Daily-AI-News-Digest.md
 content_hash: 1a88d7b231b4f8d74bd8c6c7f1a84dc92a3f360fb296d7bbc5c5e6c79f540ec0
 normalized_title_hash: 0c90f78306efc4fe

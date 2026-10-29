@@ -5,7 +5,7 @@ date: '2026-10-28'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/
 url_canonical: https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-28_131127_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: 9f4926a0836c727b126c20cf108f88c877fabc7801cffb8d7009e6c8a4b5ce23

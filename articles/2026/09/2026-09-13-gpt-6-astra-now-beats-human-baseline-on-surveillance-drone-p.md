@@ -6,7 +6,7 @@ date: '2026-09-13'
 source: The Decoder
 url_original: https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/
 url_canonical: https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_061036_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 975b536c01fe5d9ba8a9daa3f5c41117daa391147929b371a32e5979fef61229

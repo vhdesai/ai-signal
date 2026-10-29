@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: The Conversation / phys.org
 url_original: https://phys.org/news/2026-08-generative-ai-mathematics.html
 url_canonical: https://phys.org/news/2026-08-generative-ai-mathematics.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 318c21361a0f8439f22d346d7ba7878f35b4a05d44c06346b603bbe7371169de

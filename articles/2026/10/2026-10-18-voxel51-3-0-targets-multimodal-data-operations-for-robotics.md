@@ -6,7 +6,7 @@ date: '2026-10-18'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/
 url_canonical: https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-18_123055_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 1a85b69a15796c8e946e5f5e7c6283849f20749ee1a342a0873623119ff25c16

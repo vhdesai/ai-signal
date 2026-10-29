@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/
 url_canonical: https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_060534_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 15dea4c0d96b9f2185f1dd962527a50f119eb02adf57b9680a8389114e11b5bc

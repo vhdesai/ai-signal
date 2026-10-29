@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: The Decoder
 url_original: https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/
 url_canonical: https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: a35a7080f272b1d5b23c0e6901ccf9d66562ec50cb6914b6ffaff5c35fb34310

@@ -6,7 +6,7 @@ date: '2026-10-18'
 source: The Decoder
 url_original: https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/
 url_canonical: https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-18_123234_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 8ff14cf76b45b1dd1b27b354d5bd4d7317c1dc1907a2560c7758559e68d7ac38

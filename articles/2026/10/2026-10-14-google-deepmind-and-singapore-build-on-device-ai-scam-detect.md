@@ -6,7 +6,7 @@ date: '2026-10-14'
 source: Google DeepMind
 url_original: https://deepmind.google/blog/on-device-ai-scam-detection-mddi/
 url_canonical: https://deepmind.google/blog/on-device-ai-scam-detection-mddi/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 419bee4d09385b7895f566ff6d723ea57b4dcd3e36b66161cfa3f2f48cd47855

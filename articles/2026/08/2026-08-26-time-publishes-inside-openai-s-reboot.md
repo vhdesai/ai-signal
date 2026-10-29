@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TIME · OpenAI
 url_original: https://time.com/article/2026/08/26/openai-sam-altman-interview/
 url_canonical: https://time.com/article/2026/08/26/openai-sam-altman-interview/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 4d553ae3bb0d172747ac071f0eeae9cd8bacf75a8b5dc1856737a75970ab231d

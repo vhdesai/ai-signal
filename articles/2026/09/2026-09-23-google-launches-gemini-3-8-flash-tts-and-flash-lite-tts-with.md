@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: Google DeepMind
 url_original: https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/
 url_canonical: https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_061515_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 9521821ceee8f2e4a116bdaeb54670cb3b31f70279aaea5fa6b2f709451cd6ba

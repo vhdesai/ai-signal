@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
-- 2026-10-02-pitchbook-anthropic-pre-ipo-investor-event-scheduled-mid-nov
+- 2026-10-29-october-28-2026-techcrunch
 embedding_id: 2026-09-21-pitchbook-ai-has-security-chiefs-scared-stiff-anthropic-myth
 event_name: ''
 ---
@@ -41,5 +41,5 @@ PitchBook reports enterprise security budgets are opening up in response to auto
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com]] · [[2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-10-02-pitchbook-anthropic-pre-ipo-investor-event-scheduled-mid-nov]]
+**Related:** [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com]] · [[2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-10-29-october-28-2026-techcrunch]]
 <!-- graph:end -->

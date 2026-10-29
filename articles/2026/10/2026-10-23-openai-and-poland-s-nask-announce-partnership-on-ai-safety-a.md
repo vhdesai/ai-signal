@@ -5,7 +5,7 @@ date: '2026-10-23'
 source: '[OpenAI Blog]'
 url_original: https://openai.com/index/openai-nask-ai-safety-security-partnership
 url_canonical: https://openai.com/index/openai-nask-ai-safety-security-partnership
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-23_065801_Final-Daily-AI-News-Digest.md
 content_hash: e4a0536b3ab780acfb7f87d207e6d28e57e74ee89d0e5e4f9e15a6c5084894e1
 normalized_title_hash: a28fc2778db3c1a2

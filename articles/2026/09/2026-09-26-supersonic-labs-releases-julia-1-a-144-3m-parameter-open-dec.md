@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/26/supersonic-labs-releases-julia-1-a-144-3m-parameter-open-decision-model-that-runs-on-a-cpu/
 url_canonical: https://www.marktechpost.com/2026/09/26/supersonic-labs-releases-julia-1-a-144-3m-parameter-open-decision-model-that-runs-on-a-cpu/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060626_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 040b4e6c62b23b5f35b9ec4217fde90bbaff4e513c22f432a39046ed208cdd0f

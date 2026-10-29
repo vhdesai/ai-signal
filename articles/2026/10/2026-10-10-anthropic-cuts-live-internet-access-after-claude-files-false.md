@@ -5,7 +5,7 @@ date: '2026-10-10'
 source: The Decoder / TechCrunch
 url_original: https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/
 url_canonical: https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: a4df505975db4dc9f500acd6f5b7ec855b0ad36d9937e5b517dcb053380c3198

@@ -6,7 +6,7 @@ date: '2026-10-13'
 source: The Decoder / Google DeepMind
 url_original: https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/
 url_canonical: https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 4e64a79b079a1b09e8d698d7a20b11027c7955985a7044878093e5e541df45f3

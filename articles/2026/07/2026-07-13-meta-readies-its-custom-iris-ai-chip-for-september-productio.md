@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Verge / TechStartups
 url_original: https://techstartups.com/2026/07/13/top-tech-news-today-july-13-2026-apple-anthropic-blackstone-meta-openai-samsung-sharefile-more/
 url_canonical: https://techstartups.com/2026/07/13/top-tech-news-today-july-13-2026-apple-anthropic-blackstone-meta-openai-samsung-sharefile-more/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 8bf0213972c7710ea946b32fcef63ae95d72d3960c19083efd5c857df0e41d4c

@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: The Decoder
 url_original: https://the-decoder.de/
 url_canonical: https://the-decoder.de/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 59de491eac6a4a7d65da7716d0a72a9589b39952e701b423c4e93730e7465976

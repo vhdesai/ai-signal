@@ -5,7 +5,7 @@ date: '2026-08-31'
 source: Forkast / Stanford HAI
 url_original: https://forkast.news/stanford-hai-proposes-fiduciary-duty-for-ai-agent-developers/
 url_canonical: https://forkast.news/stanford-hai-proposes-fiduciary-duty-for-ai-agent-developers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 1ffa360e42269790a70d917f2edef2907e28374a6c512e56c5bfa995cf4c2ece
 normalized_title_hash: 87a9030cd38e75c7

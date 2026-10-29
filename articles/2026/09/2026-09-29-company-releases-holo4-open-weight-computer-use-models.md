@@ -5,7 +5,7 @@ date: '2026-09-29'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/29/h-company-releases-holo4-open-weight-computer-use-models-that-click-code-and-call-tools-across-desktop-web-android-and-apis/
 url_canonical: https://www.marktechpost.com/2026/09/29/h-company-releases-holo4-open-weight-computer-use-models-that-click-code-and-call-tools-across-desktop-web-android-and-apis/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 63c924b5c3db8c60f67b538966d756ee21d932c6789a0f0fcb7bdf08f56812b8

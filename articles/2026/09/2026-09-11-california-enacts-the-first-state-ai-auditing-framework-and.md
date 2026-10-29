@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: Transparency Coalition
 url_original: https://www.transparencycoalition.ai/news/ai-legislative-update-september11-2026
 url_canonical: https://www.transparencycoalition.ai/news/ai-legislative-update-september11-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_061723_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 1e881f41d9affe2d4111343660181826fce8198ed7046d01ce6e9481bc407b9c

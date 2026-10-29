@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: CNBC / Reuters
 url_original: https://www.cnbc.com/2026/09/29/anthropic-leaders-to-control-ai-lab-to-promote-public-good-over-market-forces-reuters.html
 url_canonical: https://www.cnbc.com/2026/09/29/anthropic-leaders-to-control-ai-lab-to-promote-public-good-over-market-forces-reuters.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 310f53210a04460416aa5ad46177b8b3dc4b82435538bd5d9749477145701712

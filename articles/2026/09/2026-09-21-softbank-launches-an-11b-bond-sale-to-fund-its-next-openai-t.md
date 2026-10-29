@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: The Business Times
 url_original: https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/softbank-group-launches-over-us10-billion-bonds-openai-investment
 url_canonical: https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/softbank-group-launches-over-us10-billion-bonds-openai-investment
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060727_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: f2e59c7639dbacb52a7d6e62b273306f902433f1ec6daa591e2b909c6f37e064

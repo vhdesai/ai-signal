@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: Ars Technica
 url_original: https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/
 url_canonical: https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-02_062423_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 47ab118ba84767b3738ab45d261d69c04f1b682cb8f13e81eba361a1ff8e4732
@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-29-october-28-2026-cnbc
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 - 2026-08-29-ai-stops-being-a-software-category-courts-capital-and-contra
 - 2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit
-- 2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue
 embedding_id: 2026-10-01-court-dismisses-publisher-antitrust-challenges-to-ai-overvie
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Ars Technica reported dismissal of Chegg and Penske antitrust suits. The ruling 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-08-29-ai-stops-being-a-software-category-courts-capital-and-contra]] · [[2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit]] · [[2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue]]
+**Related:** [[2026-10-29-october-28-2026-cnbc]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-08-29-ai-stops-being-a-software-category-courts-capital-and-contra]] · [[2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit]]
 <!-- graph:end -->

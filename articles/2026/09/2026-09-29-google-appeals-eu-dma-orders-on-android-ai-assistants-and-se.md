@@ -5,7 +5,7 @@ date: '2026-09-29'
 source: Euronews / Bloomberg / Reuters
 url_original: https://www.euronews.com/2026/09/29/google-appeals-eu-data-sharing-order-warns-of-irreversible-harm
 url_canonical: https://www.euronews.com/2026/09/29/google-appeals-eu-data-sharing-order-warns-of-irreversible-harm
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 9e120aba14e59682ac5faa3335767bb7a089d5fcfa18018c9b4f20498475c2af

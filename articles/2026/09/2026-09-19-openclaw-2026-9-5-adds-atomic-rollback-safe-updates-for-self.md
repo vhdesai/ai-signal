@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/
 url_canonical: https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_065604_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 66438d317272164987256b5bf7a2369b0bc296893b46c9649d916379b9c2139b

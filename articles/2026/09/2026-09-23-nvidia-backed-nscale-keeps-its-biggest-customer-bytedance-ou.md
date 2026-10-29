@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: The Decoder
 url_original: https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/
 url_canonical: https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_061515_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: ef911bb0f8b5bc3ae66d7c96bee0c6237de1c92c0fea87c0b911837df4752964

@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: Business Insider
 url_original: https://markets.businessinsider.com/news/stocks/cerebras-systems-accelerates-european-expansion-with-200mw-of-ai-compute-capacity-by-end-of-2027-1036309838
 url_canonical: https://markets.businessinsider.com/news/stocks/cerebras-systems-accelerates-european-expansion-with-200mw-of-ai-compute-capacity-by-end-of-2027-1036309838
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_061848_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 19961129d868db8b2e8778944faf0cc74e2f96ffb036a02945f521cb07a76bf4

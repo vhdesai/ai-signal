@@ -5,7 +5,7 @@ date: '2026-10-06'
 source: OpenAI
 url_original: https://openai.com/index/atlassian-partnership/
 url_canonical: https://openai.com/index/atlassian-partnership/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-07_060628_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: 4710ab2ea9d6bfecd2771478aa86ded08ef0529775b5e8edb0a96e6fd8f0a91f

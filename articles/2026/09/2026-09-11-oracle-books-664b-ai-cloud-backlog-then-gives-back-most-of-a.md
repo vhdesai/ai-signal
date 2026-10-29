@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/oracle-nearly-erases-7-jump-181329239.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/oracle-nearly-erases-7-jump-181329239.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060721_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: ea9e472e70dfe9538caf1de7f602a2c7bdff6e5ec1aad155c29f60722e5c865a

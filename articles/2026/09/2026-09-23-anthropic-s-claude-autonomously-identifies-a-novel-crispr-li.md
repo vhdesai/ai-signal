@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: Anthropic / The Information]
 url_original: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
 url_canonical: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 0c98a4b99813c59153e635202d324cb740d9bd5c66e96a097d7fbb5dead7a960

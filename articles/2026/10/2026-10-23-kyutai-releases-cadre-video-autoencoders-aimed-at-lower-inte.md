@@ -6,7 +6,7 @@ date: '2026-10-23'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/
 url_canonical: https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-24_065335_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: c460feeb0c1014597f946b5e9285b1a4ef8411ba9f5d81390eae9eabcdceeac8

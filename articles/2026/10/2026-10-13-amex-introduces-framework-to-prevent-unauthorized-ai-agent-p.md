@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/
 url_canonical: https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 41a21d34b643a0140cf629ae37d3c4e0d08c1e7b86a55415ad0378e5ef78b976
@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-10-13-american-express-introduces-an-intent-framework-for-agentic
 - 2026-10-19-industry-stripe-says-ai-agent-purchases-are-adding-up-but-wo
 - 2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production
-- 2026-07-18-retailers-prepare-for-bots-as-buyers
 embedding_id: 2026-10-13-amex-introduces-framework-to-prevent-unauthorized-ai-agent-p
 event_name: ''
 ---
@@ -36,5 +35,5 @@ American Express introduced a framework designed to ensure AI agents only make p
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-13-american-express-introduces-an-intent-framework-for-agentic]] · [[2026-10-19-industry-stripe-says-ai-agent-purchases-are-adding-up-but-wo]] · [[2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]]
+**Related:** [[2026-10-13-american-express-introduces-an-intent-framework-for-agentic]] · [[2026-10-19-industry-stripe-says-ai-agent-purchases-are-adding-up-but-wo]] · [[2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production]]
 <!-- graph:end -->

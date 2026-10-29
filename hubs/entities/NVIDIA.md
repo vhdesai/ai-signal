@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1724
+member_count: 1733
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1724 connected article(s).
+> Auto-generated entity hub. 1733 connected article(s).
 
+- `2026-10-29` [[2026-10-29-october-28-2026-cnbc|[October 28, 2026] · [CNBC]]]
+- `2026-10-28` [[2026-10-28-october-28-2026-house-science-committee-democrats|[October 28, 2026] · [House Science Committee Democrats]]]
+- `2026-10-28` [[2026-10-28-october-27-2026-the-information|[October 27, 2026] · [The Information]]]
+- `2026-10-28` [[2026-10-28-voice-ai-in-vogue-nvidia-releases-new-open-transcription-mod|Voice AI in vogue: Nvidia releases new open transcription model]]
+- `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
+- `2026-10-28` [[2026-10-28-nvidia-faces-doj-questions-on-hugging-face-as-a-counterintel|Nvidia faces DOJ questions on Hugging Face as a counterintelligence report adds pressure]]
+- `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
+- `2026-10-28` [[2026-10-28-nvidia-releases-open-nemotron-transcription-weights-with-spe|NVIDIA releases open Nemotron transcription weights with speaker labels and translation]]
+- `2026-10-28` [[2026-10-28-nvidia-releases-nemotron-transcription-weights-with-multilin|NVIDIA releases Nemotron transcription weights with multilingual speech features]]
 - `2026-10-28` [[2026-10-28-nvidia-and-oracle-announce-multi-gigawatt-vera-rubin-expansi|NVIDIA and Oracle announce multi-gigawatt Vera Rubin expansion plans on OCI]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-27` [[2026-10-27-openai-spotlights-retell-s-scale-in-voice-agent-workloads|OpenAI spotlights Retell’s scale in voice-agent workloads]]

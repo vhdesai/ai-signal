@@ -5,7 +5,7 @@ date: '2026-08-19'
 source: Computerworld
 url_original: https://www.computerworld.com/article/4211325/microsoft-finally-patches-critical-one-click-copilot-vulnerability-more-than-eight-months-after-learning-of-it.html
 url_canonical: https://www.computerworld.com/article/4211325/microsoft-finally-patches-critical-one-click-copilot-vulnerability-more-than-eight-months-after-learning-of-it.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-20_065002_Final-Daily-AI-News-Digest.md
 content_hash: ca0c4f89ac9eee406d85399f97b87cd648c1c1ceedb8fab029896473e66e930d
 normalized_title_hash: 9a465494673f9b07

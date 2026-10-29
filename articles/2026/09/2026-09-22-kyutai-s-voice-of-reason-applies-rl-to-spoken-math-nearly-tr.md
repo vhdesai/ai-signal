@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: MarkTechPost / Kyutai
 url_original: https://www.marktechpost.com/2026/09/22/kyutai-releases-voice-of-reason-a-speech-native-model-that-solves-spoken-math-with-reinforcement-learning/
 url_canonical: https://www.marktechpost.com/2026/09/22/kyutai-releases-voice-of-reason-a-speech-native-model-that-solves-spoken-math-with-reinforcement-learning/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 0c929adeab351e6574e975d4f2b79a20f04dbd8fbea1e0ae8d1e89a46dee34e3

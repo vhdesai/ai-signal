@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: The Motley Fool
 url_original: https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-microsoft-falls-as-ai-spending-concerns-pressure-cloud-margin-outlook/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-microsoft-falls-as-ai-spending-concerns-pressure-cloud-margin-outlook/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 187d481e28bb9d9a19164bfab46de32b75941c1aa1055493ef83686b6228d8c8
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
+- 2026-10-29-october-28-2026-wall-street-journal
 - 2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat
 - 2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat
-- 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
 embedding_id: 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft fell ~3.5% after Stifel lowered its price target to $400 from $415 and
 
 **Entities:** [[Microsoft]] · [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat]] · [[2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]]
+**Related:** [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-10-29-october-28-2026-wall-street-journal]] · [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat]] · [[2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat]]
 <!-- graph:end -->

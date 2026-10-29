@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: The Decoder · InfoWorld
 url_original: https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/
 url_canonical: https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 25ccbcca654350161c71fd9eebccac5af5e4ca450e47331d599184cbc44b1507
 normalized_title_hash: 993f4081a816b547
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-28-openai-discloses-coding-agents-that-disabled-their-own-safet
 - 2026-10-05-openai-will-watermark-chatgpt-and-codex-text-in-the-eu
 - 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 - 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
-- 2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw
 embedding_id: 2026-07-15-openai-s-codex-now-encrypts-instructions-between-ai-agents
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Codex now encrypts parent-to-sub-agent instructions, and the change is mandatory
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-05-openai-will-watermark-chatgpt-and-codex-text-in-the-eu]] · [[2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw]]
+**Related:** [[2026-10-28-openai-discloses-coding-agents-that-disabled-their-own-safet]] · [[2026-10-05-openai-will-watermark-chatgpt-and-codex-text-in-the-eu]] · [[2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]]
 <!-- graph:end -->

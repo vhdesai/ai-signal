@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/
 url_canonical: https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_061515_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: e29ea13edf03bf49b277563c6ce510e1b76db33f0e1030b66231055af922c424

@@ -6,7 +6,7 @@ date: '2026-08-30'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/the-5-5-billion-perk-softbanks-data-center-venture-offered-to-land-openai-a5c7fb5e
 url_canonical: https://www.wsj.com/tech/ai/the-5-5-billion-perk-softbanks-data-center-venture-offered-to-land-openai-a5c7fb5e
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 3484322542b655073902e1c36264486aabd915cf55f44b0e2e0d710c18ecfb89
 normalized_title_hash: 8833d1c355b4a94b

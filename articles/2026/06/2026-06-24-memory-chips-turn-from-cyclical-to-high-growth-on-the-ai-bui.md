@@ -5,7 +5,7 @@ date: '2026-06-24'
 source: Forbes
 url_original: https://www.forbes.com/sites/rashishrivastava/2026/06/24/the-worlds-largest-tech-companies-memory-chips-skyrocket-amid-ai-data-center-buildout/
 url_canonical: https://www.forbes.com/sites/rashishrivastava/2026/06/24/the-worlds-largest-tech-companies-memory-chips-skyrocket-amid-ai-data-center-buildout/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
 content_hash: d141f55262d142eb66740a4899adbb38ed62b6493329b716acfe80c88e315dad

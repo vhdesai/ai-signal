@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: The Decoder
 url_original: https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/
 url_canonical: https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 4ae1bffd3efa354c49f82bbdde94ee1931dadfddfa6920de724e9c5baede9edb

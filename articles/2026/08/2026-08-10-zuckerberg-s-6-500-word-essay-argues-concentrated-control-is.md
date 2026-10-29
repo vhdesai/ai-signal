@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: Axios
 url_original: https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta
 url_canonical: https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-10_060307_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 9291732be3bdcecde8722cc118ca29582f884c5ce20b9583f1b99c2474161ce2

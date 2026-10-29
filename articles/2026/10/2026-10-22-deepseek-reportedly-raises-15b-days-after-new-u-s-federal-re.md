@@ -5,7 +5,7 @@ date: '2026-10-22'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/
 url_canonical: https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-23_065801_Final-Daily-AI-News-Digest.md
 content_hash: 6f5411aefb751d1e26e8da1ab5e4e56d3031418810cb3749981b377db9300d44
 normalized_title_hash: fa54cbaf2b4f42bf

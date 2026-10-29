@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: The Decoder
 url_original: https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/
 url_canonical: https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-14_061129_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 83c26360a5ed97af3aba6f9c7ac898401e6ea5312a76fb877b7ef44d2e1697db

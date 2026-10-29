@@ -7,7 +7,7 @@ source: arXiv:2609.30266 (ELLIS Institute Tübingen / Max Planck Institute for I
   Systems / University of Tübingen), via Enterprise DNA
 url_original: https://arxiv.org/abs/2609.30266
 url_canonical: https://arxiv.org/abs/2609.30266
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060139_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: e2e9f1b48a59f104e3c849a5587764e397cbd9cccbe1ee70f6ea3d8128f17b5e

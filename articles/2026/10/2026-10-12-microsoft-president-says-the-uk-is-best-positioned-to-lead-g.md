@@ -6,7 +6,7 @@ date: '2026-10-12'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/
 url_canonical: https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_060534_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 147aaff94c589fb43305c7a595f265f97d02bae7134dfc0a5dd0b40e4de9610a

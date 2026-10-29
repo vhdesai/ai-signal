@@ -6,7 +6,7 @@ date: '2026-08-08'
 source: TechCrunch / The New York Times
 url_original: https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/
 url_canonical: https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-09_061128_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: f9b0c4de8ef1ceb67809d298b265bdfc4664334717c4d3d189c95d7a53c42780

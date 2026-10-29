@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: The New York Times
 url_original: https://www.theinformation.com/articles/the-doj-is-investigating-nvidias-licensing-deal-with-chip-startup-groq
 url_canonical: https://www.theinformation.com/articles/the-doj-is-investigating-nvidias-licensing-deal-with-chip-startup-groq
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-12_070058_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: a27f3af182ae33eba8b269166a73367b96ff6ee1f71cfd348f1896e437073f28
@@ -22,9 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-29-october-28-2026-cnbc
+- 2026-10-28-nvidia-faces-doj-questions-on-hugging-face-as-a-counterintel
 - 2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside
 - 2026-08-24-nvidia-says-groq-racks-will-be-online-this-year-following-20
-- 2026-06-22-groq-confirms-650m-raise-and-pivots-to-inference-neocloud
 embedding_id: 2026-09-10-doj-investigating-nvidia-s-20b-groq-license-and-hire-deal-fo
 event_name: ''
 ---
@@ -38,5 +39,5 @@ The Department of Justice is examining whether Nvidia structured its $20B Groq d
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside]] · [[2026-08-24-nvidia-says-groq-racks-will-be-online-this-year-following-20]] · [[2026-06-22-groq-confirms-650m-raise-and-pivots-to-inference-neocloud]]
+**Related:** [[2026-10-29-october-28-2026-cnbc]] · [[2026-10-28-nvidia-faces-doj-questions-on-hugging-face-as-a-counterintel]] · [[2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside]] · [[2026-08-24-nvidia-says-groq-racks-will-be-online-this-year-following-20]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: The Silicon Review · Google DeepMind · Thinking Machines Lab · OpenAI
 url_original: https://thesiliconreview.com/2026/08/barret-zoph-joins-google-deepmind-vp-research-thinking-machines
 url_canonical: https://thesiliconreview.com/2026/08/barret-zoph-joins-google-deepmind-vp-research-thinking-machines
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 0310f4594d5f2c954ecfa14c2bb68335cfe459dc52c901777ab3c2d6ba9a450f

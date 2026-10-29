@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: Cisco Talos Intelligence Blog
 url_original: https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/
 url_canonical: https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 8185a24c199c750d10de95d6060fb9d1d3e3308b304e518fa74139371e6ae19e

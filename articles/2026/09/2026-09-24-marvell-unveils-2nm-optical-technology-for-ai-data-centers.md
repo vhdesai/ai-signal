@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/marvell-just-unveiled-2nm-breakthrough-145240948.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/marvell-just-unveiled-2nm-breakthrough-145240948.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060720_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 3a7c471a73af4956c71e6427637b446e5794ba8ba47c85d9e4c637648c9f338e

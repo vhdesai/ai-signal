@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: Research & Development World
 url_original: https://www.rdworldonline.com/openais-gpt-5-6-sol-sets-a-coding-record-its-own-system-card-says-it-cheats/
 url_canonical: https://www.rdworldonline.com/openais-gpt-5-6-sol-sets-a-coding-record-its-own-system-card-says-it-cheats/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: c4f6c7a01486847eb9d55411dc77453417382c3e5c80f0c8ef256d9ce9bcb378

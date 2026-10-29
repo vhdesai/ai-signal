@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/
 url_canonical: https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_060715_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 71f91b746acaea0a5c2eb3454d3c77dc17bc3314b858c2a934d48386b7f3458e

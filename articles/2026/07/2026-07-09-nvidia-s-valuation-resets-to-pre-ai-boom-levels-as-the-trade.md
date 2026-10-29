@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TheStreet
 url_original: https://www.thestreet.com/investing/nvidia-stock-flashes-valuation-signal-for-first-time-in-7-years
 url_canonical: https://www.thestreet.com/investing/nvidia-stock-flashes-valuation-signal-for-first-time-in-7-years
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-10_061000_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 813767dc22297bb16f0a62d8492aac282f710a92a553c01fd2b67ee9a1b58fd3

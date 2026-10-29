@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: The Decoder
 url_original: https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/
 url_canonical: https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: dde323060fbe7e3e82ec59a90319ccec5a82131a83e0becf0d1a40e0c2add43b

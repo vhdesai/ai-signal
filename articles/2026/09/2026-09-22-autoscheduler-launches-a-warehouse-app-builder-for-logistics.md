@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/
 url_canonical: https://www.artificialintelligence-news.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 2efd0bb59121309c6d1a0ec78f6740e1f16dd80daf16961160eb4151e2003240

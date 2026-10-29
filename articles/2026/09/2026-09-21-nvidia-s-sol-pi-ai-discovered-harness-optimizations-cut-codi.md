@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: MarkTechPost]
 url_original: https://www.marktechpost.com/2026/09/21/nvidia-sol-pi-ai-discovered-harness-optimizations-coding-agents/
 url_canonical: https://www.marktechpost.com/2026/09/21/nvidia-sol-pi-ai-discovered-harness-optimizations-coding-agents/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: 6b7657c23bb48956596b4fb3c92a49eb1a56aa331980c56b7502311d533e4569

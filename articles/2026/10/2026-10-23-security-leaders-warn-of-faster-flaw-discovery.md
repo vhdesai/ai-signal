@@ -5,7 +5,7 @@ date: '2026-10-23'
 source: '[The Guardian]'
 url_original: https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability
 url_canonical: https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-24_062015_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: ce311c73a7a9655215b66f237ced5d8335c05b4c796ccdf5f2a06604f7074de0
@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-29-october-28-2026-the-information
 - 2026-10-21-october-22-2026-wsj-pro-cybersecurity
 - 2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p
 - 2026-10-24-washington-s-message-to-ai-execs-please-shut-up
-- 2026-07-11-new-warning-in-race-to-superintelligence
-- 2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m
+- 2026-10-29-on-techcrunch-s-equity-podcast-wiz-s-tomer-schwartz-said-the
 embedding_id: 2026-10-23-security-leaders-warn-of-faster-flaw-discovery
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Guardian’s reaction reporting warns AI-assisted flaw discovery may strain 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-10-21-october-22-2026-wsj-pro-cybersecurity]] · [[2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p]] · [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up]] · [[2026-07-11-new-warning-in-race-to-superintelligence]] · [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m]]
+**Related:** [[2026-10-29-october-28-2026-the-information]] · [[2026-10-21-october-22-2026-wsj-pro-cybersecurity]] · [[2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p]] · [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up]] · [[2026-10-29-on-techcrunch-s-equity-podcast-wiz-s-tomer-schwartz-said-the]]
 <!-- graph:end -->

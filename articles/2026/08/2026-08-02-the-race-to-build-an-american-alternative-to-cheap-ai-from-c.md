@@ -5,7 +5,7 @@ date: '2026-08-02'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a
 url_canonical: https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-02_065015_Final-Daily-AI-News-Digest.md
 content_hash: 41c0895c22dee8627aef4dc3861b84985fd95f5f04cbffd3bcce9b9a26207307
 normalized_title_hash: d339f55515a9f841

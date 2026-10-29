@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: Alibaba Cloud
 url_original: https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy
 url_canonical: https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 0f64835126883f9f4e222d9872818538e25d86281ef195f54d3e9f4496407201

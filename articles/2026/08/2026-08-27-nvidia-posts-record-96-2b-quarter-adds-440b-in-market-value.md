@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html
 url_canonical: https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_061348_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 83018ef57aaa8661197ab6129bb36f5e2fb4e2682a94c76d6654ddab2487933f

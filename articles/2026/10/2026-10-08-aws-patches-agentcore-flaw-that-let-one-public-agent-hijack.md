@@ -6,7 +6,7 @@ date: '2026-10-08'
 source: The Decoder
 url_original: https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/
 url_canonical: https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: 680c0291fc85deccdab0fcf7ee3dbecf0c75fdc6bcf211b912d94c9fd5c6d7bc

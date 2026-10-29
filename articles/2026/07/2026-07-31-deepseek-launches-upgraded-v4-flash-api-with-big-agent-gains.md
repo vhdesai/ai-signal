@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: The News International · DeepSeek
 url_original: https://www.thenews.com.pk/latest/1410820-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains-what-developers-need-to-know
 url_canonical: https://www.thenews.com.pk/latest/1410820-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains-what-developers-need-to-know
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: a9171af321bbe65942f7820987efe81d46be1036eea7a7be51dbd3e8eeb924cf

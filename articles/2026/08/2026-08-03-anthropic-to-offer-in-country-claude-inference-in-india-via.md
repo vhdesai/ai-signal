@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Moneycontrol
 url_original: https://www.moneycontrol.com/artificial-intelligence/anthropic-to-enable-local-data-processing-for-claude-in-india-through-amazon-bedrock-article-13992577.html
 url_canonical: https://www.moneycontrol.com/artificial-intelligence/anthropic-to-enable-local-data-processing-for-claude-in-india-through-amazon-bedrock-article-13992577.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-03_062808_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: 7debd1b47038e218a94002984c3835d3dacdc78709814b565fa386733154fa30

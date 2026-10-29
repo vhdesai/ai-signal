@@ -6,7 +6,7 @@ source: reporting published 8:53 AM IST (03:23 UTC) · GOV.UK (Cabinet Office); 
   timing corroborated by Business Standard (Bloomberg) · Timestamped reporting
 url_original: https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab
 url_canonical: https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-24_060056_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: 9e326f40013d66f0820735f5572987cb49b3e83e2cb66a9f6259e451119a7489

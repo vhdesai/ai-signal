@@ -6,7 +6,7 @@ date: '2026-10-17'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
 url_canonical: https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-18_123055_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: f55236d6d98d91a4c7b79cb4fc1ab6088340cedfb82fb2cc1ec5ae46476ae0c7

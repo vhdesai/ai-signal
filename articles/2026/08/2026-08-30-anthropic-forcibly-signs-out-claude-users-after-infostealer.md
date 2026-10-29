@@ -6,7 +6,7 @@ date: '2026-08-30'
 source: BleepingComputer / Help Net Security
 url_original: https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/
 url_canonical: https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: f747df4fed4c39ba3143162d14937d0f5db261cee77cfa6a5da55439c33780cf
 normalized_title_hash: c8970e6e43bcdf65

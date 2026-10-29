@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: The Decoder
 url_original: https://the-decoder.com/openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creator-product-division/
 url_canonical: https://the-decoder.com/openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creator-product-division/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_061121_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 4810e75947f840ff656cfcb48c03e34d0c97f40119568648110a402b3d874892

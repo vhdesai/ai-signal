@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: Stability AI
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 8f2ce5626d38ef8a50af724df25e7f614bbde2fd45986c8dc46249354440e43c

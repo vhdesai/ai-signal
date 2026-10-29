@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: The Decoder
 url_original: https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/
 url_canonical: https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 99bf00a2a2766c888600820a09b0a5701b06304ec36dc351fa6035273a105ee7

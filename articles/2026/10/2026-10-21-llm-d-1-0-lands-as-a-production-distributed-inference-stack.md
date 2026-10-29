@@ -5,7 +5,7 @@ date: '2026-10-21'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/
 url_canonical: https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-21_065709_Final-Daily-AI-News-Digest.md
 content_hash: ce855520412da8463bd67343adf6e595edc1e88365d011a53fa15ec207582836
 normalized_title_hash: 78ad8ecff798b833

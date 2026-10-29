@@ -5,7 +5,7 @@ date: '2026-05-14'
 source: TechBooky
 url_original: https://www.techbooky.com/anthropic-debuts-claude-for-small-business-featuring-pre-built-ai-workflows-connectors/
 url_canonical: https://www.techbooky.com/anthropic-debuts-claude-for-small-business-featuring-pre-built-ai-workflows-connectors/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 663b63bf572faa01776465875fe41f7361ad6be923bdd5df1547e667c36159af

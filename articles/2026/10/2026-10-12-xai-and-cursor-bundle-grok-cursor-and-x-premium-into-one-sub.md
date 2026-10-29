@@ -5,7 +5,7 @@ date: '2026-10-12'
 source: xAI / Cursor
 url_original: https://x.ai/news/x-subscription
 url_canonical: https://x.ai/news/x-subscription
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_065254_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 243400e603c6132ab11d8f546749777179631a97778c7eff64c080e26b85e848

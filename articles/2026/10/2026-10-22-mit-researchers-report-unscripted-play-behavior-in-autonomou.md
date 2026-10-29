@@ -6,7 +6,7 @@ date: '2026-10-22'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/
 url_canonical: https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-23_065801_Final-Daily-AI-News-Digest.md
 content_hash: 338497cfe58be58251969aa8b938c1c706f82fbec410f068637b3f27965d0559
 normalized_title_hash: e31003a4d96d3176

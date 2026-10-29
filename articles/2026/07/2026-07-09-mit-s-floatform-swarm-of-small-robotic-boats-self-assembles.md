@@ -6,7 +6,7 @@ date: '2026-07-09'
 source: MIT News
 url_original: https://techxplore.com/news/2026-07-small-aquatic-robots-reconfigurable.html
 url_canonical: https://techxplore.com/news/2026-07-small-aquatic-robots-reconfigurable.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_062836_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 283256f6a7fc7b8e73a986ba75527526a6bcf3fcb57d4cc799488db325f3471a

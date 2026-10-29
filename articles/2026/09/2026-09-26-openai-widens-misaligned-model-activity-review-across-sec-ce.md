@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html
 url_canonical: https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060536_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: e8d22e06aab7fd147de11055e7b7d0080ac01b00d4104a298867cb16332982f4

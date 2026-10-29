@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 271
+member_count: 273
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 271 connected article(s).
+> Auto-generated entity hub. 273 connected article(s).
 
+- `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
+- `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]
 - `2026-10-19` [[2026-10-19-governancereported-proposalsaltman-outlines-competing-endgam|GOVERNANCEREPORTED PROPOSALSAltman outlines competing endgames for governing frontier AI]]
 - `2026-10-19` [[2026-10-19-deepseek-is-helping-shape-huawei-s-future-ai-processors|DeepSeek is helping shape Huawei's future AI processors]]

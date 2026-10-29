@@ -6,7 +6,7 @@ date: '2026-09-15'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/15/salesforce-nvidia-koa-reasoning-model-dreamforce/
 url_canonical: https://techcrunch.com/2026/09/15/salesforce-nvidia-koa-reasoning-model-dreamforce/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: bfa5cc4bea25a872de0ea20e87573e34168f83e878efe744adf39d3c0bccb9ef
 normalized_title_hash: ae8583563e093ed8

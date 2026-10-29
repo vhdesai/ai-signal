@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Business Insider
 url_original: https://markets.businessinsider.com/news/stocks/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing-1036542900
 url_canonical: https://markets.businessinsider.com/news/stocks/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing-1036542900
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-14_062355_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 8b07cb359982e3649ea2567877ea80be02134e5c30f7b3701e6927d720310fe9

@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: '[Business Standard]'
 url_original: https://www.business-standard.com/technology/artificial-intelligence/data-centre-firm-am-intelligence-orders-9-000-nvidia-vera-rubin-systems-126082500791_1.html
 url_canonical: https://www.business-standard.com/technology/artificial-intelligence/data-centre-firm-am-intelligence-orders-9-000-nvidia-vera-rubin-systems-126082500791_1.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 7cab509fe4ee1f9c9b90e50ae7be66e0d76d6afd764e4b96149c1907a4ea3baa

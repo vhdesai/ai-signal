@@ -5,7 +5,7 @@ date: '2026-09-17'
 source: OpenAI
 url_original: https://openai.com/index/astra-for-law/
 url_canonical: https://openai.com/index/astra-for-law/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-19_060730_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: b2f5b39beb6d8fb7b97350fd9d966048b94daab0072de90df123199da84d63d9

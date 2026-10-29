@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: The Information
 url_original: https://www.theinformation.com/articles/teslas-optimus-hits-snags-in-hands-suppliers-as-scale-up-begins
 url_canonical: https://www.theinformation.com/articles/teslas-optimus-hits-snags-in-hands-suppliers-as-scale-up-begins
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-25_181041_Inbox_Fw Daily AI News Digest – September
   25, 2026.md
 content_hash: ba0f8e1bf8dfb48c15950c2b27112061a128a0e06d0b91439d232bdcac88c4b2

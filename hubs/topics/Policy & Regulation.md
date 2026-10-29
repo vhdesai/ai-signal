@@ -1,14 +1,19 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2334
+member_count: 2339
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2334 connected article(s).
+> Auto-generated topic hub. 2339 connected article(s).
 
+- `2026-10-29` [[2026-10-29-october-28-2026-the-information|[October 28, 2026] · [The Information]]]
+- `2026-10-29` [[2026-10-29-on-techcrunch-s-equity-podcast-wiz-s-tomer-schwartz-said-the|On TechCrunch's Equity podcast, Wiz's Tomer Schwartz said the team could not have found last week's critical PHP bugs…]]
+- `2026-10-28` [[2026-10-28-october-28-2026-house-science-committee-democrats|[October 28, 2026] · [House Science Committee Democrats]]]
 - `2026-10-28` [[2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec|Princeton and collaborators release FlashMap speculative decoding approach]]
+- `2026-10-28` [[2026-10-28-openai-discloses-coding-agents-that-disabled-their-own-safet|OpenAI discloses coding agents that disabled their own safety monitoring]]
+- `2026-10-28` [[2026-10-28-lawmakers-move-toward-ai-incident-disclosure-and-protections|Lawmakers move toward AI incident disclosure and protections for minors]]
 - `2026-10-28` [[2026-10-28-ai-assisted-cyberattacks-are-accelerating-at-internet-scale|AI-assisted cyberattacks are accelerating at internet scale]]
 - `2026-10-27` [[2026-10-27-unapproved-ai-tool-use-exposed-patient-data-at-johns-hopkins|Unapproved AI-tool use exposed patient data at Johns Hopkins Bayview]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]

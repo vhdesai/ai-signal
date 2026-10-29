@@ -6,7 +6,7 @@ date: '2026-10-14'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3370871/chinese-memory-giant-ymtc-grow-revenue-6-times-faster-peers-ipo-nears-report
 url_canonical: https://www.scmp.com/tech/big-tech/article/3370871/chinese-memory-giant-ymtc-grow-revenue-6-times-faster-peers-ipo-nears-report
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 33b5ba1eab716ffa40e8d5675a8273c114ec23b45a05a23d515ecd88ac9626d0

@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: Florida Phoenix
 url_original: https://floridaphoenix.com/2026/09/28/florida-ag-files-to-block-chatgpt-development-and-place-restrictions-on-openai/
 url_canonical: https://floridaphoenix.com/2026/09/28/florida-ag-files-to-block-chatgpt-development-and-place-restrictions-on-openai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060713_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 9353742be49da3e82791518bed18aa08fa857722f553aba3e93281528a9459f5

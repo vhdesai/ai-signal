@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Techish
 url_original: https://tech-ish.com/2026/09/25/meta-unveils-muse-charm-a-keychain-device-for-its-muse-ai-agent-with-no-price-yet/
 url_canonical: https://tech-ish.com/2026/09/25/meta-unveils-muse-charm-a-keychain-device-for-its-muse-ai-agent-with-no-price-yet/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: b5f8b81e86eddca5671f590f305b01915ffd2cef99bede3c6b1d5cd2029c4523

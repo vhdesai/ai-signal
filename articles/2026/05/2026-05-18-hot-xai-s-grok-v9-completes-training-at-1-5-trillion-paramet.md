@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: AIBase News
 url_original: https://news.aibase.com/news/28048
 url_canonical: https://news.aibase.com/news/28048
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: ccc022f1837cb6ecb342333eab19fc47dde5587386b0394165d78e194ddc6271

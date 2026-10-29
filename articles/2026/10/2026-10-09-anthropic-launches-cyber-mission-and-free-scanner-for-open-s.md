@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: The Decoder
 url_original: https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/
 url_canonical: https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: b87d992c3d983a462e4b858cbe32f57e4050afb703b3fb4334c8d35c83208335

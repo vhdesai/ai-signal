@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: TechCrunch · FinTech Magazine
 url_original: https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/
 url_canonical: https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: ea9339aab770d9db87d3d0777d9e17cb8c09eae8f1959dc6149cc53da69aae23
 normalized_title_hash: ac73bcdd0d683acc

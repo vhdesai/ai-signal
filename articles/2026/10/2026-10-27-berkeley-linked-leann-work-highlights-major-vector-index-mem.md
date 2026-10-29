@@ -6,7 +6,7 @@ date: '2026-10-27'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/
 url_canonical: https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-28_131127_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: 965f4c4a75ff0b12cccb5de457fbc076894a87d6eb64154e2c35f14863c25540

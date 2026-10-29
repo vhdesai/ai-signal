@@ -6,7 +6,7 @@ date: '2026-07-30'
 source: Technology Record
 url_original: https://www.technologyrecord.com/article/microsoft-is-developing-a-copilot-super-app-that-will-launch-later-in-2026
 url_canonical: https://www.technologyrecord.com/article/microsoft-is-developing-a-copilot-super-app-that-will-launch-later-in-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: c3c6549292e148ced820725cf2570e501b1e87326c1d981524aa4160de6f3b9a

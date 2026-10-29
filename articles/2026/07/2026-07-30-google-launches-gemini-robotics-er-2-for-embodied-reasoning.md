@@ -6,7 +6,7 @@ date: '2026-07-30'
 source: Google DeepMind Blog
 url_original: https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/
 url_canonical: https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_060541_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 5d7f9ba276d3d6c6b30a14243d7bb7d9bb51a0317976d611abdd86f65ba72fb6

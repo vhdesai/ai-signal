@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Business Insider
 url_original: https://www.businessinsider.com/nvidia-staffs-new-ai-safety-team-push-for-open-models-2026-8
 url_canonical: https://www.businessinsider.com/nvidia-staffs-new-ai-safety-team-push-for-open-models-2026-8
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_061741_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 66f33a87fe5239392aaa4b171c326c4338b5a41f045a43652f21248aee7213d5

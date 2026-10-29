@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: Unite.AI · The New York Times
 url_original: https://www.unite.ai/river-ai-raises-1-1b-out-of-stealth-to-rebuild-the-stack-for-personal-ai/
 url_canonical: https://www.unite.ai/river-ai-raises-1-1b-out-of-stealth-to-rebuild-the-stack-for-personal-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-12_065059_Final-Daily-AI-News-Digest.md
 content_hash: ffd41360d829cf3fe4b6f283a5cbd4b532b11a45ccbd3a2c2b294744db0167bd
 normalized_title_hash: 00a53a6aeb5203be

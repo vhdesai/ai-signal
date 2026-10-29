@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: '11:07 a.m. EDT · Source: CNBC Make It'
 url_original: https://www.cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html
 url_canonical: https://www.cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-10_060251_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 181aaa21bd9a6cdaaf0fda7d9a0fda1323c5e7c56070c5362aeb5cda45d9a237

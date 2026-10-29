@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: VentureBeat
 url_original: https://venturebeat.com/security/ai-agents-have-routed-around-access-blocks-only-9-of-companies-in-venturebeats-august-survey-isolate-high-risk-agents
 url_canonical: https://venturebeat.com/security/ai-agents-have-routed-around-access-blocks-only-9-of-companies-in-venturebeats-august-survey-isolate-high-risk-agents
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 6def33289b46124df8950a2b4e5abcfa61412d9d7db8a44f86c95718fa8e7469

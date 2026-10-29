@@ -5,7 +5,7 @@ date: '2026-08-19'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/samsung-raises-advanced-foundry-prices-161553482.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/samsung-raises-advanced-foundry-prices-161553482.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-20_065002_Final-Daily-AI-News-Digest.md
 content_hash: 2e19e9f3112614e62f14dab2f8785995080cbb02e5dc0090c5aa1b5858acaf5e
 normalized_title_hash: 74012b6323d144b1

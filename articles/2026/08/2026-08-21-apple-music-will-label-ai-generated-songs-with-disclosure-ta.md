@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: The Next Web
 url_original: https://thenextweb.com/news/apple-music-made-with-ai-labels-mandatory-tags
 url_canonical: https://thenextweb.com/news/apple-music-made-with-ai-labels-mandatory-tags
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_061248_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 03d613c72e64fa6ba09c2e22bb02cdf8be05571fb2939427eaaad9ca822b3c8b

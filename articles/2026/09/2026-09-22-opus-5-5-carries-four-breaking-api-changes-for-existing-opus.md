@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Claude Platform Docs
 url_original: https://platform.claude.com/docs/en/models/opus-5-5/overview
 url_canonical: https://platform.claude.com/docs/en/models/opus-5-5/overview
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_062038_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 22cb077d80e9c3bd439da5e6eeb33da7d64e4bb077c0ac3dce398f4e5d62f0ce

@@ -5,7 +5,7 @@ date: '2026-10-22'
 source: '[OpenAI Blog]'
 url_original: https://openai.com/index/decisions-api
 url_canonical: https://openai.com/index/decisions-api
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-23_065801_Final-Daily-AI-News-Digest.md
 content_hash: b12c7bf04c65824cdeafc1cb539d043a8dd7e051b8a7a936824df9b2af99199d
 normalized_title_hash: 15bcbc6525896de1

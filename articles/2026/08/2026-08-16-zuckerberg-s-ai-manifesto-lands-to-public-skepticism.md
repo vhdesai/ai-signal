@@ -5,7 +5,7 @@ date: '2026-08-16'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/
 url_canonical: https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-17_163645_Final-Daily-AI-News-Digest.md
 content_hash: 04de09dcfff4990b6a77ec2cc245671db634f1a4304de96a19d53d555e3e9236
 normalized_title_hash: f9831d46a4a7bd5a

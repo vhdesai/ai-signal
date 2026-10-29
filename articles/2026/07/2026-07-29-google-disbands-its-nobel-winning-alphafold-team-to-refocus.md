@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Engadget
 url_original: https://www.engadget.com/2225849/google-shuts-down-alphafold/
 url_canonical: https://www.engadget.com/2225849/google-shuts-down-alphafold/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 3bc26bdb793465a21fd409cbab3864cf5378bef198287c01889fa216099d049d

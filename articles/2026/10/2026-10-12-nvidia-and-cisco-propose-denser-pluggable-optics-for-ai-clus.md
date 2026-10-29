@@ -5,7 +5,7 @@ date: '2026-10-12'
 source: NVIDIA Newsroom
 url_original: https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories
 url_canonical: https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_065254_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 7777d0bcdf5c543aef8a21be9c0091716e9285149df2ecd622f4d602dade163a

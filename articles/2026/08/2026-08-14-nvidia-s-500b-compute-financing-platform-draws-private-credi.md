@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-08-14/private-credit-roundup-nvidias-half-trillion-for-chips-financing-plus-others
 url_canonical: https://money.usnews.com/investing/news/articles/2026-08-14/private-credit-roundup-nvidias-half-trillion-for-chips-financing-plus-others
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
 content_hash: 0fb6aa9da1f222715f9cb2250ad6e71c1609c952e1f3ab175a56e513e736bf8e
 normalized_title_hash: 486f042e75a55cb2

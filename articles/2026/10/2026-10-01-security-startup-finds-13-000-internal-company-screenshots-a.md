@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: The Decoder
 url_original: https://the-decoder.com/security-startup-finds-more-than-13000-internal-company-screenshots-that-ai-agents-uploaded-publicly/
 url_canonical: https://the-decoder.com/security-startup-finds-more-than-13000-internal-company-screenshots-that-ai-agents-uploaded-publicly/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 226ba52eac676f593caf9c2a32f09cbc295279dd51b1400e07cfc4f3f0955bd8

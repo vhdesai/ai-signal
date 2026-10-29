@@ -6,7 +6,7 @@ date: '2026-10-05'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/ai-breast-cancer-startups/
 url_canonical: https://blogs.nvidia.com/blog/ai-breast-cancer-startups/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-06_060540_Inbox_Daily AI News Digest - October
   6, 2026.md
 content_hash: e5373489b84b2c467d579dbc73770bad4ee76f16d000d01a61d139a750e6c0ac

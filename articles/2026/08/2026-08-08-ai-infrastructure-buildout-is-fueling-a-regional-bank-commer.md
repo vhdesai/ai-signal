@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/markets/article/the-ai-boom-ripples-into-regional-banks-as-lending-picks-up-112917906.html
 url_canonical: https://finance.yahoo.com/markets/article/the-ai-boom-ripples-into-regional-banks-as-lending-picks-up-112917906.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-08_061755_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 61a8451e92b9a8a36a46f6a72484cd26b7a15016a6f943227023b48db8636077

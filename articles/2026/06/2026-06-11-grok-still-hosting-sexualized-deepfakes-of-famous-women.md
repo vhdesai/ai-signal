@@ -5,7 +5,7 @@ date: '2026-06-11'
 source: Wired
 url_original: https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/
 url_canonical: https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-12_070109_Final-Daily-AI-News-Digest.md
 content_hash: b2b5558c0e6f0088cba8d9efcdcb9356d91f986f2a44071cee0acbea9df70322
 normalized_title_hash: 13414c04201773d6

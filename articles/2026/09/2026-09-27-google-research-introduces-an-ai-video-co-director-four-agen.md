@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation/
 url_canonical: https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_060201_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 899f44c421bb2cca6a73285ed18f23c1db5fe693957cb51b5e88280e821b2f7a

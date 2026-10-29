@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 520
+member_count: 521
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 520 connected article(s).
+> Auto-generated topic hub. 521 connected article(s).
 
+- `2026-10-28` [[2026-10-28-nvidia-faces-doj-questions-on-hugging-face-as-a-counterintel|Nvidia faces DOJ questions on Hugging Face as a counterintelligence report adds pressure]]
 - `2026-10-28` [[2026-10-28-anthropic-pushes-claude-deeper-into-drug-discovery-with-acqu|Anthropic pushes Claude deeper into drug discovery with acquisition and pharma partnerships]]
 - `2026-10-28` [[2026-10-28-anthropic-buys-a-one-person-biotech-and-starts-its-own-drug|Anthropic buys a one-person biotech and starts its own drug programmes]]
 - `2026-10-27` [[2026-10-27-onsemi-explores-a-ferric-acquisition-as-ai-chip-power-demand|Onsemi explores a Ferric acquisition as AI-chip power demands rise]]

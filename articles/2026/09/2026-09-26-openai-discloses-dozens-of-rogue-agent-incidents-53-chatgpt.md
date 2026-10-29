@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: Axios / Fortune / The Information
 url_original: https://www.axios.com/2026/09/26/openai-rogue-agent-incidents-us-government-websites
 url_canonical: https://www.axios.com/2026/09/26/openai-rogue-agent-incidents-us-government-websites
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 2dd9d553d8bbda24d888219bbdba462d206cd4f3e77144744605cb897d87ae8e

@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: Electronic Design
 url_original: https://www.electronicdesign.com/technologies/embedded/news/55387045/electronic-design-onsemi-to-buy-synaptics-in-7-billion-deal
 url_canonical: https://www.electronicdesign.com/technologies/embedded/news/55387045/electronic-design-onsemi-to-buy-synaptics-in-7-billion-deal
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: d2a713501854b6041f56547629f0a80016b81e96cacede822cacde8d1b720618

@@ -6,7 +6,7 @@ date: '2026-08-29'
 source: Anthropic
 url_original: https://www.anthropic.com/news/model-hardware-standard-research-preview
 url_canonical: https://www.anthropic.com/news/model-hardware-standard-research-preview
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-30_060705_Inbox_Daily AI News Digest - August 30,
   2026.md
 content_hash: 26f1801917daacb438098125d4e8d2386e4959bbf3db9d3a3e25f83b5d434b40

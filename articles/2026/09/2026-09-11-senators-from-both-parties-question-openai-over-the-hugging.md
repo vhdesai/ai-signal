@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: PBS NewsHour
 url_original: https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face
 url_canonical: https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: f7a77cefe5557d8eb09a1bd3c099278286904074d54476699c1f7c24e741bb53

@@ -5,7 +5,7 @@ date: '2026-10-12'
 source: 3:10 p.m. BST · UK government press release via Wired-Gov
 url_original: https://www.wired-gov.net/wg/news.nsf/articles/Britain+steps+up+national+defences+against+growing+AI+risks+12102026151000
 url_canonical: https://www.wired-gov.net/wg/news.nsf/articles/Britain+steps+up+national+defences+against+growing+AI+risks+12102026151000
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-13_061330_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: c412adb484fdd070d74b6173bdf6bbabfe4f663a4911dcd168fab1150e728df0

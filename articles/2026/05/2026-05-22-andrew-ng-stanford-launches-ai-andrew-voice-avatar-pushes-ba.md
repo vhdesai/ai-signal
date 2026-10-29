@@ -5,7 +5,7 @@ date: '2026-05-22'
 source: The Batch / DeepLearning.AI
 url_original: https://www.cmu.edu/news/stories/archives/2026/may/nvidia-founder-ceo-jensen-huang-to-carnegie-mellon-university-graduates-shape-what-comes-next
 url_canonical: https://www.cmu.edu/news/stories/archives/2026/may/nvidia-founder-ceo-jensen-huang-to-carnegie-mellon-university-graduates-shape-what-comes-next
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 36077fef6b1fe6d146c6162e113e1e5b77953c65f528b65d0f811ef1009dd1df

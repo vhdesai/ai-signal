@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/
 url_canonical: https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061956_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 720e379f22c2f34bfca8f6e6580a9050ee38e27506b66baac44f50634b50d19a
