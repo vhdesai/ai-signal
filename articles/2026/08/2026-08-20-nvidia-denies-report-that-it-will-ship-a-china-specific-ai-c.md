@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Reuters
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-ship-ai-chip-china-170938345.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-ship-ai-chip-china-170938345.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060504_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 266fcd61110b55c010fe5bec830b45a12b49e6b8fe6998e8da97d047e8268bba

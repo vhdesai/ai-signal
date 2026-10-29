@@ -6,7 +6,7 @@ date: '2026-10-17'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/
 url_canonical: https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-18_123055_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 0ba250f3cc860682eb219751711375b5cc418f9964790e5d84d821b7ed9f6338

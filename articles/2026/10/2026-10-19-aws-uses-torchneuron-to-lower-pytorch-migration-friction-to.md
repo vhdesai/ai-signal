@@ -5,7 +5,7 @@ date: '2026-10-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/
 url_canonical: https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-20_131013_Inbox_Daily AI News Digest – October
   20, 2026.md
 content_hash: 5db58b1ed814d59587067c77ead6ee14b4ba39fef30582d741ef7f4e56fb484d

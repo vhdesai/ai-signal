@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: 9to5Mac
 url_original: https://9to5mac.com/2026/10/09/apple-acqui-hires-ai-startup-founded-by-former-notebooklm-developers/
 url_canonical: https://9to5mac.com/2026/10/09/apple-acqui-hires-ai-startup-founded-by-former-notebooklm-developers/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-10_065339_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 88b5c9bf7b27c80d8687fff19850a68ca48feb81a78f7e14c239974cc7b24d15

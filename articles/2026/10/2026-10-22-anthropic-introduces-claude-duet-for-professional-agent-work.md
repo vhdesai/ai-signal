@@ -5,7 +5,7 @@ date: '2026-10-22'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/
 url_canonical: https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-23_065801_Final-Daily-AI-News-Digest.md
 content_hash: d658bed0ebc6ebb2203ebfd7e74889d0a94c04ffe2c7a2e40d3c8ddf9a237317
 normalized_title_hash: 06bd951c592135a1

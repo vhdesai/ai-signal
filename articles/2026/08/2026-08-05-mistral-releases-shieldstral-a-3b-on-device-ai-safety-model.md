@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: IBL News
 url_original: https://iblnews.org/story/ai-leaders-call-for-faster-innovation-with-stronger-guardrails-mistral-presents-a-3b-parameter-open-model
 url_canonical: https://iblnews.org/story/ai-leaders-call-for-faster-innovation-with-stronger-guardrails-mistral-presents-a-3b-parameter-open-model
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 48dbe058f7cb5fdde6c120575940c27633f8f2b60be74b0102597387f61e5e76

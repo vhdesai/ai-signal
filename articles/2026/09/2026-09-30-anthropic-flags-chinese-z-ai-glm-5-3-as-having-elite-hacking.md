@@ -6,7 +6,7 @@ date: '2026-09-30'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3369354/anthropic-raises-alarm-over-elite-hacking-ability-chinese-firm-zais-glm-53
 url_canonical: https://www.scmp.com/tech/big-tech/article/3369354/anthropic-raises-alarm-over-elite-hacking-ability-chinese-firm-zais-glm-53
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: c124c741b542f59d51abd914a2ad7315b36bf9da6dc2979f20f73c59fe5a2ce0

@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Databricks
 url_original: https://www.databricks.com/blog/introducing-officeqa-pro-v2-new-benchmark-enterprise-grounded-reasoning
 url_canonical: https://www.databricks.com/blog/introducing-officeqa-pro-v2-new-benchmark-enterprise-grounded-reasoning
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061741_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 1d3408b0042de511bc427814b9de50b41a2c6fe0513a9c25c0f13b6db03cda12

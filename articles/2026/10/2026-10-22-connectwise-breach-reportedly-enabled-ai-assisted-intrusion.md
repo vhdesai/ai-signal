@@ -6,7 +6,7 @@ date: '2026-10-22'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/
 url_canonical: https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-23_065801_Final-Daily-AI-News-Digest.md
 content_hash: dd5970dd03d2c38e69df070b74ae917c10c72a11c335d017d7005927e820bef0
 normalized_title_hash: cdee98be27d6f067

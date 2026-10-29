@@ -5,7 +5,7 @@ date: '2026-10-11'
 source: Business Insider
 url_original: https://www.businessinsider.com/parenting-expert-emily-oster-chatgpt-teens-ai-2026-10
 url_canonical: https://www.businessinsider.com/parenting-expert-emily-oster-chatgpt-teens-ai-2026-10
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-11_101102_Inbox_Daily AI News Digest - October
   11, 2026.md
 content_hash: a0d884e0c79263e582c1388c92c33d131dc59c337dbaf20b221087131dfe4b7f

@@ -5,7 +5,7 @@ date: '2026-10-10'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3370428/open-source-ai-europes-only-path-tech-independence-says-alibaba-chairman-joe-tsai
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3370428/open-source-ai-europes-only-path-tech-independence-says-alibaba-chairman-joe-tsai
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 9858416eae4a52e00ae0bd0a509985b406930a236bd6c704d19bc3a3e3829711

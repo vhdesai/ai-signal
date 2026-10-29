@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/
 url_canonical: https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_060558_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: b19273307bccb5481927e5db978392b46d18bbd645adc5d0c1236e3711932026

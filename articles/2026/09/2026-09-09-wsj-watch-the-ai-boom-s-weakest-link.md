@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: WSJ
 url_original: https://www.wsj.com/newsletters/markets-am-watch-the-ai-booms-weakest-link
 url_canonical: https://www.wsj.com/newsletters/markets-am-watch-the-ai-booms-weakest-link
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: bce06a81b4893fe8b3d02f632ede29aae814d3577583dacd0fcedd6098513eb2
 normalized_title_hash: 9a0a93b20bd71d7e

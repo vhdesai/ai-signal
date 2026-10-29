@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: The Batch / DeepLearning.AI
 url_original: https://www.andrewng.org/writing
 url_canonical: https://www.andrewng.org/writing
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 027c28afde590ff7db5310220519be1a19e6f450feb6727f464d749caa1b8ccc

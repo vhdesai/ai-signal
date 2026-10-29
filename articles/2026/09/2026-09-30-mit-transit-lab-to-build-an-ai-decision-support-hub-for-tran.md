@@ -5,7 +5,7 @@ date: '2026-09-30'
 source: MIT News
 url_original: https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930
 url_canonical: https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-01_061253_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: db72459ecb58a32a41120e26def3629594b0f9937f325836837ef4f48e905e0e

@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: The Hacker News**
 url_original: https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html
 url_canonical: https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-28_065054_Final-Daily-AI-News-Digest.md
 content_hash: 6049c866b412a851b3d80685148c70bf7dc0ebd923caf070bd5a9a0e5e0cebe0
 normalized_title_hash: 7ade4b78736b67f7

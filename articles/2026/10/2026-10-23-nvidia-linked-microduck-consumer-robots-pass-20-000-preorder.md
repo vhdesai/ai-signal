@@ -5,7 +5,7 @@ date: '2026-10-23'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/
 url_canonical: https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-24_070002_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: 2f856eea1c27501b11ed66c9f71edaf44872dc7d30e55adf56fa8570055ff273

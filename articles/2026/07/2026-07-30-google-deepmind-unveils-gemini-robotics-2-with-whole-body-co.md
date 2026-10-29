@@ -6,7 +6,7 @@ date: '2026-07-30'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/
 url_canonical: https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061911_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 31a09c43b850d759d974280088906721c914847e7da30ca3f307b7cfad3769f1

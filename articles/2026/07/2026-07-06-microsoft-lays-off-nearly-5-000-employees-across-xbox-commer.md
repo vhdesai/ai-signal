@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/
 url_canonical: https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: a0228c5d09b38606250ff1d1928aa20310283259a92496fc53a5cb383263ae7f

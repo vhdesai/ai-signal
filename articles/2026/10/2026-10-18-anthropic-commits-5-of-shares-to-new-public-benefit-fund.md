@@ -5,7 +5,7 @@ date: '2026-10-18'
 source: Anthropic
 url_original: https://www.anthropic.com/news/public-benefit-fund
 url_canonical: https://www.anthropic.com/news/public-benefit-fund
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-18_123055_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: a4f5d5c8655b0beb9c28ce690c57fdbbd1ebe11bed32fce11a94ec50141d82a2

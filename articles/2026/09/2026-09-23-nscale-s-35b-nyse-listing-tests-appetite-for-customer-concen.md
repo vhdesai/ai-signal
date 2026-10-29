@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: The AI Insider / TechCrunch]
 url_original: https://theaiinsider.tech/2026/09/23/nscale-ipo-to-test-investor-appetite-for-ai-cloud-provider-reliant-on-microsoft-and-anthropic/
 url_canonical: https://theaiinsider.tech/2026/09/23/nscale-ipo-to-test-investor-appetite-for-ai-cloud-provider-reliant-on-microsoft-and-anthropic/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: be934e33ff3b55aa06af974e4deb90e58b2d7f50490f20596302dec5546eeff7

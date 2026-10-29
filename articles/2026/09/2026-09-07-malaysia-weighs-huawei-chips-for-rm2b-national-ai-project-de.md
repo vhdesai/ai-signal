@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: Bloomberg
 url_original: https://www.bloomberg.com/news/articles/2026-09-07/malaysia-considers-defying-us-with-huawei-chips-for-ai-projects
 url_canonical: https://www.bloomberg.com/news/articles/2026-09-07/malaysia-considers-defying-us-with-huawei-chips-for-ai-projects
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: 77cf6665bed746f3b781c04c298d41239861e996d8e4d35a6f69815057fb39b6
 normalized_title_hash: effc979a52af945a

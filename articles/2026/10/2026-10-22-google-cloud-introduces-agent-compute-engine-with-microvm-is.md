@@ -6,7 +6,7 @@ date: '2026-10-22'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/
 url_canonical: https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-23_065801_Final-Daily-AI-News-Digest.md
 content_hash: 9b1e59c8b4e699c98a6069f6e9ba1dc8ab30065e14471dbf9fa7016b815eb568
 normalized_title_hash: d8c5982e4563c7e5

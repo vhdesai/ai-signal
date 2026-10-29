@@ -5,7 +5,7 @@ date: '2026-10-05'
 source: Tech Wire Asia
 url_original: https://techwireasia.com/2026/10/google-ai-chips-space-orbital-data-centres/
 url_canonical: https://techwireasia.com/2026/10/google-ai-chips-space-orbital-data-centres/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-06_060540_Inbox_Daily AI News Digest - October
   6, 2026.md
 content_hash: ad458278487c57846171ae916e07ff42e9852139fd50ce80e250634e6fa38b0e

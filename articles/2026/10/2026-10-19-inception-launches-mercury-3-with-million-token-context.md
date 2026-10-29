@@ -5,7 +5,7 @@ date: '2026-10-19'
 source: Inception
 url_original: https://www.inceptionlabs.ai/blog/introducing-mercury-3
 url_canonical: https://www.inceptionlabs.ai/blog/introducing-mercury-3
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-20_065831_Final-Daily-AI-News-Digest.md
 content_hash: 85e7804e74f7365abb858e24ed22a2806cafc9bcef7180e51d01f33ae7963770
 normalized_title_hash: 3e83efb8df1e5ff1

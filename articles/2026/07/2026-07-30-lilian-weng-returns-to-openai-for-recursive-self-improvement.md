@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Lilian%20Weng%20returns%20OpenAI
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Lilian%20Weng%20returns%20OpenAI
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: 03560b472b4ba82d7ad1d13bc4433c79f32704f5d23d1d6ca2c215f440ddd0c2

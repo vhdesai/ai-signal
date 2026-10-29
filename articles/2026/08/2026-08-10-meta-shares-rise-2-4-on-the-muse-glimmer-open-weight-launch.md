@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: Yahoo Finance / Investing.com
 url_original: https://finance.yahoo.com/technology/ai/articles/meta-shares-rise-muse-glimmer-121926544.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/meta-shares-rise-muse-glimmer-121926544.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: e570ade9796cd3ed334936a1215fe8b002869cef152e2bd93a9f96a57eb1a0f4

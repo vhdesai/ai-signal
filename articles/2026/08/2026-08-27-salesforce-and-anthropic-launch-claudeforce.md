@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: August 27, 2026
 url_original: https://finance.yahoo.com/technology/ai/articles/salesforce-anthropic-launch-claudeforce-ai-120620067.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/salesforce-anthropic-launch-claudeforce-ai-120620067.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: d897fcbc6a085f98b7ebaa8d20ae79c2edba6c5b573ebd51fa517709caf5eb93

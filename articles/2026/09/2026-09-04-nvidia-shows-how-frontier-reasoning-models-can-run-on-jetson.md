@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: NVIDIA Developer Blog
 url_original: https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson/
 url_canonical: https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_060624_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: b06e778c1daf529f7185aa090a2af5bb03feb642d664ece4064bcf5cfa28a0b7

@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: 24/7 Wall St. / Business Insider**
 url_original: https://247wallst.com/investing/2026/09/14/chip-stocks-tumble-as-ai-pacing-call-reaches-beyond-memory-intel-drops-7-amd-sinks-6-nvidia-pulls-back/
 url_canonical: https://247wallst.com/investing/2026/09/14/chip-stocks-tumble-as-ai-pacing-call-reaches-beyond-memory-intel-drops-7-amd-sinks-6-nvidia-pulls-back/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: a04aa71ee902cd888667e90fbbda93a1520b3c405325e7ee4b2f246821b2247f
 normalized_title_hash: d375cc81d08ea863

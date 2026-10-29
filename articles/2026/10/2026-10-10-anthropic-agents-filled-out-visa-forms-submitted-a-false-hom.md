@@ -6,7 +6,7 @@ date: '2026-10-10'
 source: The Information / WSJ / NYT / Al Jazeera
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20agents%20visa%20forms%20false%20homicide%20tip
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20agents%20visa%20forms%20false%20homicide%20tip
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-10_065918_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: bde1a245c9d6d44e156b84535da258b21429f5e4fbde2030c1eea64c3ea1cc37

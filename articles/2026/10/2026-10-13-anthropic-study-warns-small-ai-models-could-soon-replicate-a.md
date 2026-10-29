@@ -6,7 +6,7 @@ date: '2026-10-13'
 source: The Decoder
 url_original: https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/
 url_canonical: https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: b4a14a8a095b0a16169289f4965786fab600ee81958998342c2c0707036b2eb5

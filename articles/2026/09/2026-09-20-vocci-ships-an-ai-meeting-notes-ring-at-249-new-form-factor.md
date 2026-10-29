@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/
 url_canonical: https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_061145_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 69b9c3ddddf605b7d4f6d11c66256e0cf75578a86288dfbe24e781c174d13e66

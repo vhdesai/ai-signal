@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-war/article/3368042/china-makes-progress-3-nm-chips-without-advanced-lithography-tools
 url_canonical: https://www.scmp.com/tech/tech-war/article/3368042/china-makes-progress-3-nm-chips-without-advanced-lithography-tools
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: a5ccfdbd9532a71070af342a8a82cb1d867b675c54bae2ea9b4a7672782dfb84

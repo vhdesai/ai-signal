@@ -5,7 +5,7 @@ date: '2026-10-27'
 source: '[Wall Street Journal]'
 url_original: https://www.wsj.com/pro/cybersecurity/florida-leads-states-on-ai-privacy-and-safety-15db2c85
 url_canonical: https://www.wsj.com/pro/cybersecurity/florida-leads-states-on-ai-privacy-and-safety-15db2c85
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-28_065034_Final-Daily-AI-News-Digest.md
 content_hash: b281cd511239d0dc2590bd3b9d26f7623702a2e2c5d54682f5e8a49fe79c1293
 normalized_title_hash: c3b0dc60ec6bb73b

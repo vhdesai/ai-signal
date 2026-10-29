@@ -5,7 +5,7 @@ date: '2026-10-24'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/
 url_canonical: https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-24_070002_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: be7fc828974c75f9644c7e223f2c28b514c7847f3a3c30722e5062e9e9b2110f

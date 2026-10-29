@@ -5,7 +5,7 @@ date: '2026-10-12'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/
 url_canonical: https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-13_060534_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 337bf2efdcf8c0165f77336c391cb7d4f57be272c82a2dafc08801ae953a4d94

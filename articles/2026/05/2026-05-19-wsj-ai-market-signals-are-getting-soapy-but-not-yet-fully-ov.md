@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/finance/investing/is-ai-a-bubble-its-starting-to-get-soapy-cfd01706
 url_canonical: https://www.wsj.com/finance/investing/is-ai-a-bubble-its-starting-to-get-soapy-cfd01706
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 5ded315ddef21a1c8b7d1e95d94e04c3acb0f5f75fad4819ffccd961608b096d

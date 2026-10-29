@@ -5,7 +5,7 @@ date: '2026-10-19'
 source: PitchBook
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=CoreWeave%20debt%20reckoning
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=CoreWeave%20debt%20reckoning
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-20_065831_Final-Daily-AI-News-Digest.md
 content_hash: 2e8243e9ae9003d49af3ca159c8f351fbb1520d73cc6c2ea6743d59af287aa70
 normalized_title_hash: f339fde8d82a1719

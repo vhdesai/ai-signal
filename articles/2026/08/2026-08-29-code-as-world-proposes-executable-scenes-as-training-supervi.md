@@ -6,7 +6,7 @@ date: '2026-08-29'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/
 url_canonical: https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-30_060705_Inbox_Daily AI News Digest - August 30,
   2026.md
 content_hash: d19434eaa324166be8949ee13ebb0ad4ca88cb42b755b083afcfc3ee4f9480d9

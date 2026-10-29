@@ -5,7 +5,7 @@ date: '2026-10-23'
 source: '[Reuters]'
 url_original: https://www.reuters.com/business/retail-consumer/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-2026-10-23/
 url_canonical: https://www.reuters.com/business/retail-consumer/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-2026-10-23/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-24_062015_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: 720b6a135cc42f76b12f618ba393b8812c554cd933346b238f6a850e298afb84

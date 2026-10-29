@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: cffd2f0f9a9c491b50b7e2962754b9f92d2e19099309145a873a6288af9e56f7

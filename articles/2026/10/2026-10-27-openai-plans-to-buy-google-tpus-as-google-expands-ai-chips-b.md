@@ -5,7 +5,7 @@ date: '2026-10-27'
 source: '[The Information]'
 url_original: https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips
 url_canonical: https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-28_065034_Final-Daily-AI-News-Digest.md
 content_hash: 14903407eee571c2832e5d909defda2e5d92deb519c710176d470cd4014781b8
 normalized_title_hash: df0393bdff685886

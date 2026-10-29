@@ -5,7 +5,7 @@ date: '2026-10-17'
 source: October 17, 2026, 11:48 AM PDT
 url_original: https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
 url_canonical: https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-18_062116_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 5a0b2505fac40bd5b221d6d1fc2a00435f28eb81c095702d2173ecb3ddc7fcb7

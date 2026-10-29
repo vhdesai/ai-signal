@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: Anthropic
 url_original: https://claude.com/blog/claude-for-commerce-agents
 url_canonical: https://claude.com/blog/claude-for-commerce-agents
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-03_060703_Inbox_Daily AI News Digest – September
   3, 2026.md
 content_hash: 099fab197ce223169a841792d3b0ca2d0f18a2cfa4e490c2b828359c42819d9c

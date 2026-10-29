@@ -6,7 +6,7 @@ date: '2026-09-07'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Wafer%20inference%20acquisition%20offers
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Wafer%20inference%20acquisition%20offers
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-07_142255_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 23cded0a3863323503736347cf488894d1634ab925017134cb0580058c2e36e9

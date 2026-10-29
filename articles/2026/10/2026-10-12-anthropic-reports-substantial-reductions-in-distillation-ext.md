@@ -5,7 +5,7 @@ date: '2026-10-12'
 source: Anthropic
 url_original: https://www.anthropic.com/research/distillation-defenses
 url_canonical: https://www.anthropic.com/research/distillation-defenses
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-13_065254_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: e19ef1a2388b590811eb1d036fe549fc41f2e313244b4093ce278acb88620855

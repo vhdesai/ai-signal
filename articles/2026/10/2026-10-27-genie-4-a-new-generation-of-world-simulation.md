@@ -5,7 +5,7 @@ date: '2026-10-27'
 source: 9:01 a.m. PDT · Google DeepMind Blog
 url_original: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
 url_canonical: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-28_130142_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: bc770f427e78bd2593779b0e32bf450eaca1d0b9fbcef4e5caf90db507a0f1af

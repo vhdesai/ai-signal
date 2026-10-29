@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: OpenAI
 url_original: https://openai.com/index/gpt-6-sol-luna/
 url_canonical: https://openai.com/index/gpt-6-sol-luna/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-23_070112_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: af5a5397973b318f81c5ee13d7afcab22301e556d86877f86fb1cfad917ee832

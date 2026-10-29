@@ -6,7 +6,7 @@ date: '2026-10-10'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/cerebras-big-nvidias-data-center-005701692.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/cerebras-big-nvidias-data-center-005701692.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-11_101102_Inbox_Daily AI News Digest - October
   11, 2026.md
 content_hash: 42868bee39c85c83636aa4b2394d644dec2e93fde32fb75d8152e9aaf74f7697

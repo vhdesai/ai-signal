@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/
 url_canonical: https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: bf1f4bd1688e63c0d6dcf0ba9b504a8301a49aa040473ec0d3dc47f2cc68b0cd

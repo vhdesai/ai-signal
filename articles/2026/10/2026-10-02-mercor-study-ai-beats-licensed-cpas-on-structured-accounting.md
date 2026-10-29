@@ -6,7 +6,7 @@ date: '2026-10-02'
 source: The Decoder
 url_original: https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/
 url_canonical: https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 8d5710eae71887c648f28f7f22d328de9434ddb76d8e0fec579e80b7c46650cb

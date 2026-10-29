@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: Phys.org
 url_original: https://phys.org/news/2026-09-anthropic-touts-ai-biology-discovery.html
 url_canonical: https://phys.org/news/2026-09-anthropic-touts-ai-biology-discovery.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_062342_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: d1d55614195ca4a4fee1dc856c1105249ad1a3456f5e523ac495725923538588

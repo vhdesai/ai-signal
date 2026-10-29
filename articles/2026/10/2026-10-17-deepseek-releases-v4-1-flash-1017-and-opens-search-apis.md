@@ -5,7 +5,7 @@ date: '2026-10-17'
 source: October 17, 2026; exact publication time unavailable
 url_original: https://api-docs.deepseek.com/news/news261017/
 url_canonical: https://api-docs.deepseek.com/news/news261017/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-18_062116_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 8ca759d299d215a88fedbc8fc35a197f7acc358994d4c4d0c69597ed034470e5

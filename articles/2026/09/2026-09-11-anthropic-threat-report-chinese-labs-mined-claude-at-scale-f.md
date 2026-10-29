@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: The Decoder
 url_original: https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data/
 url_canonical: https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_061125_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: f47a114db742a2fcfe74d9194dffce88f294975b6722b30d07677501e4e8cbc8

@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: The Decoder
 url_original: https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/
 url_canonical: https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 81720aab2dfede8976f17a75e1969e7351d61f3ee24e782f329bf2948e5a506c

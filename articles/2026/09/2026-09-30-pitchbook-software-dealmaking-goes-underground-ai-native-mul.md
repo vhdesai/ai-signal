@@ -6,7 +6,7 @@ date: '2026-09-30'
 source: PitchBook]
 url_original: https://pitchbook.com/news/articles/software-dealmakers-underground-ai-multiples-2026-09
 url_canonical: https://pitchbook.com/news/articles/software-dealmakers-underground-ai-multiples-2026-09
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: 7f5a0b8a9e1312eeb9eeea0311cc046ea90ff1c8d9fe65a3773d9f9e8316a8d3

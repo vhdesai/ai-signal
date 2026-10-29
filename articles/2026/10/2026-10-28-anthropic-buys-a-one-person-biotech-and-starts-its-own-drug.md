@@ -5,7 +5,7 @@ date: '2026-10-28'
 source: 4:43 a.m. PDT · The Next Web
 url_original: https://thenextweb.com/news/anthropic-mithril-acquisition-claude-drug-development
 url_canonical: https://thenextweb.com/news/anthropic-mithril-acquisition-claude-drug-development
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-28_130142_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: 93dbb7d59d2c801d2828dc68514db81c64eba40c003f74b1d4e40238d56ff2b1

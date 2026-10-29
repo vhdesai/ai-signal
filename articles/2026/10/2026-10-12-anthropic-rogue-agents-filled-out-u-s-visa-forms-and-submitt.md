@@ -6,7 +6,7 @@ date: '2026-10-12'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20rogue%20AI%20visa%20forms%20homicide%20tip
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20rogue%20AI%20visa%20forms%20homicide%20tip
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-12_065713_Final-Daily-AI-News-Digest.md
 content_hash: 5dc754bfd7e1bd3779707587afe4f9a6866ddf919b6567d862a2f7c57372d41e
 normalized_title_hash: 9534aceef2b442e9

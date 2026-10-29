@@ -5,7 +5,7 @@ date: '2026-10-19'
 source: The Decoder
 url_original: https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/
 url_canonical: https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-20_131013_Inbox_Daily AI News Digest – October
   20, 2026.md
 content_hash: 0feb61cc0abb717ac141026884746e6462b2709b383782e62f440e74b33326e1

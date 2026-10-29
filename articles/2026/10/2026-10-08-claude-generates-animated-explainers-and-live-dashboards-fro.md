@@ -5,7 +5,7 @@ date: '2026-10-08'
 source: The Decoder
 url_original: https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/
 url_canonical: https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: e68717a74a91c997d2b504e2f87218357e24184bd6bd1d7d1ec79c4c86260319

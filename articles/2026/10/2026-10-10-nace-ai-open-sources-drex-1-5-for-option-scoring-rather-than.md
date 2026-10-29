@@ -5,7 +5,7 @@ date: '2026-10-10'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/
 url_canonical: https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-10_065339_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 5173b233f1636718c482d948c6f10f6af853486499f4a48bef90777a96738478

@@ -5,7 +5,7 @@ date: '2026-10-08'
 source: The Decoder
 url_original: https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/
 url_canonical: https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: d16f61e3785f8534f9fa25297b272ca80f44f789312cf326ee1dac40e4a81f40

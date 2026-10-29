@@ -5,7 +5,7 @@ date: '2026-08-30'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/
 url_canonical: https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-31_060712_Inbox_Daily AI News Digest – August 31,
   2026.md
 content_hash: 03a9aed3985840ba34152df46d407e4bb66e8b579cbaebedaf3385d438959140

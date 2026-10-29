@@ -5,7 +5,7 @@ date: '2026-10-27'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/
 url_canonical: https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-28_131127_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: 403c0d95484e39f9c60219cc06e0664e2a16b0e5f7ea3aa548a14d54fdeb9845

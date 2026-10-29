@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: The Decoder / TechCrunch
 url_original: https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/
 url_canonical: https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 8d1283accb5ccda139915286592a15233f183a7c80a82c4a7d348a99499ed568

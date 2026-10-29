@@ -5,7 +5,7 @@ date: '2026-10-14'
 source: Axios
 url_original: https://www.axios.com/2026/10/14/apple-ai-hardware-smart-display-homeview
 url_canonical: https://www.axios.com/2026/10/14/apple-ai-hardware-smart-display-homeview
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-15_061934_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 41e6bf58effe5eeaa3014d20bdace774ab42a195d21befe9762353e0eddec680

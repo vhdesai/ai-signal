@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: Carnegie Mellon University / SEI
 url_original: https://sei.cmu.edu/news/sei-defines-framework-for-national-security-cyber-research/
 url_canonical: https://sei.cmu.edu/news/sei-defines-framework-for-national-security-cyber-research/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 1321e6550755eff15fd28a21e03876b2219cc11762d577dc3d19fe3b4d0229b1

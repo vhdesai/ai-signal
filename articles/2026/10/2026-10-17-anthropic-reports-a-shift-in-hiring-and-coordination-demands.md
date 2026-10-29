@@ -5,7 +5,7 @@ date: '2026-10-17'
 source: 1:21 p.m. PDT · TechCrunch
 url_original: https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/
 url_canonical: https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-18_060206_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: e526ef9c275aa4f65bfde616fbf3c286742d12484a967b1adb7a7ac2f8d659e0

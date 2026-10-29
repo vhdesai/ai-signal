@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Associated Press
 url_original: https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d
 url_canonical: https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-14_060731_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: dd0e6611cc62b17a0c5b02221f6bf597dd1a1b9f82d41f359540814f92819ec7

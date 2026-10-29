@@ -6,7 +6,7 @@ date: '2026-10-02'
 source: The Decoder
 url_original: https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/
 url_canonical: https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 9b403c1a368202e279d0ee623dae73808d638206196e0d70a22ee9aea1a89245

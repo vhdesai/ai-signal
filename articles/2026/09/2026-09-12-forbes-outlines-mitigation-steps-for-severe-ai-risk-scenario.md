@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: Forbes
 url_original: https://www.forbes.com/sites/bryanrobinson/2026/09/12/5-steps-to-mitigate-what-some-experts-warn-is-an-ai-doomsday/
 url_canonical: https://www.forbes.com/sites/bryanrobinson/2026/09/12/5-steps-to-mitigate-what-some-experts-warn-is-an-ai-doomsday/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_060641_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 8de587a60232e513f9ad45917c2d9999a2d30304d94762f36ffc4fbf2f65a401

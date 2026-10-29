@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-06-ai-hiring-software-screens-millions.html
 url_canonical: https://techxplore.com/news/2026-06-ai-hiring-software-screens-millions.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 105123b5655ab0579c399fc720d95ff3160b591af5ef37bd71aae3dbbec31d35

@@ -5,7 +5,7 @@ date: '2026-10-27'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/
 url_canonical: https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-28_131127_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: b72c6df2acae8708c50cfd38bc8ad4b9259560f73f5e59337f6678e9faf92b1a

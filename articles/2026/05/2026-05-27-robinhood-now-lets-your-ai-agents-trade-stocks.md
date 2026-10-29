@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/
 url_canonical: https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 89a5376398b3956d1e545a0381f7cb59502a13c14ef30409bf730dd795fcc369

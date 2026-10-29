@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/
 url_canonical: https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_060624_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 92225f3e48c039676ba48ca4fca3ad897373327719b24ebb299cdc88490822c1

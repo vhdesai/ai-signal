@@ -5,7 +5,7 @@ date: '2026-08-31'
 source: AiThority
 url_original: https://aithority.com/it-and-devops/cloud/cloudflare-introduces-adaptive-intelligence-reverses-the-economics-of-automated-cyber-attacks/
 url_canonical: https://aithority.com/it-and-devops/cloud/cloudflare-introduces-adaptive-intelligence-reverses-the-economics-of-automated-cyber-attacks/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 5634166810a16452e39ffdbb2e1b4013f33eb378bd949e58cbb1ecde80b900ff
 normalized_title_hash: 4d6d4da1fe4466bd

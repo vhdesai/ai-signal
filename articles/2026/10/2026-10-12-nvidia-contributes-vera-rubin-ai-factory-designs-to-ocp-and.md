@@ -6,7 +6,7 @@ date: '2026-10-12'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/
 url_canonical: https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-13_060534_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 96c17d0f177408a4a8af4576d0c072d4a1799ac910d5544c2f2e74692ca67a9a

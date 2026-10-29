@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: Newscase
 url_original: https://www.newscase.com/microns-fully-booked-fabs-put-the-spotlight-back-on-september-30/
 url_canonical: https://www.newscase.com/microns-fully-booked-fabs-put-the-spotlight-back-on-september-30/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_065650_Final-Daily-AI-News-Digest.md
 content_hash: b33cbc0d2d97af12045024347b966ec1f73c447dbfc1d3915cb455e70322c6e4
 normalized_title_hash: dbe3bca4e700f392

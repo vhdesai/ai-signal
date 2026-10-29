@@ -6,7 +6,7 @@ date: '2026-10-13'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Applied%20Lam%20AI%20chip%20equipment%20stocks
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Applied%20Lam%20AI%20chip%20equipment%20stocks
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-13_065254_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: bb80164695aa80a78f550b9a8caff56688e202d31f5d6e865b210f15f4cb706b

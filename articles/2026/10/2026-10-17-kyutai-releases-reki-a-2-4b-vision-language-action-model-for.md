@@ -5,7 +5,7 @@ date: '2026-10-17'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/
 url_canonical: https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-18_123055_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 0b97bc2ad94aa997be9276fc940a468d6381f908cc2387db27a0e4c47d941232

@@ -6,7 +6,7 @@ date: '2026-10-09'
 source: TechCrunch
 url_original: https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/
 url_canonical: https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-10_060708_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 7a856f1e0ba845de541495f0cb192de5785efd30c528d3e98e5d8f1c956134de

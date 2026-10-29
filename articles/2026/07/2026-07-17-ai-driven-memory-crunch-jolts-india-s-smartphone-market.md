@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/
 url_canonical: https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-19_065029_Final-Daily-AI-News-Digest.md
 content_hash: 1172790cd20d748873b76f0bf787d10b441b8eb57ca3fb693ad6b9c2514da033
 normalized_title_hash: 96085ac1712f656c

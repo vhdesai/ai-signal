@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/
 url_canonical: https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061438_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: f7acab51e97307d9b802fa93db17027775715df145907571fff5c82fabf47188

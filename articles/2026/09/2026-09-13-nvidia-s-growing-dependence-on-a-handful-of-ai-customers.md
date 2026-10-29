@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: The Information**
 url_original: https://www.theinformation.com/articles/nvidias-growing-dependence-on-a-few-big-customers
 url_canonical: https://www.theinformation.com/articles/nvidias-growing-dependence-on-a-few-big-customers
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: d7990a2ebc5f6621356c9c8bbcd85eb10b8dffe3396514add6367979c622950b
 normalized_title_hash: 99a5e80eb44d15b8

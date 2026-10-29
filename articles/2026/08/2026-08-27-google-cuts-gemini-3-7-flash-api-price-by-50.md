@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: International Business Times Singapore · Google / Alphabet
 url_original: https://www.ibtimes.sg/googles-gemini-3-7-flash-just-dropped-50-why-2027-price-cut-rare-window-92805
 url_canonical: https://www.ibtimes.sg/googles-gemini-3-7-flash-just-dropped-50-why-2027-price-cut-rare-window-92805
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 883b990779785b451470072b64c28fdeb146702ee9e2ce2a1af8caa79bd7c48a

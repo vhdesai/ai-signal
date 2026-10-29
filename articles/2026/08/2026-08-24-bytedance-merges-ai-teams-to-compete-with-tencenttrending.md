@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Daily Tech News Show
 url_original: https://dailytechnewsshow.com/2026/08/24/bytedance-merges-ai-teams-to-compete-with-tencent-dth/
 url_canonical: https://dailytechnewsshow.com/2026/08/24/bytedance-merges-ai-teams-to-compete-with-tencent-dth/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 077f00e78a40502308f8ca41c071d35c19c2f22c82d6985080dc22013740e2ef

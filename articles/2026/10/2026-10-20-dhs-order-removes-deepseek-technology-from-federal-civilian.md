@@ -5,7 +5,7 @@ date: '2026-10-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/
 url_canonical: https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-21_065709_Final-Daily-AI-News-Digest.md
 content_hash: c68d50f41d25b39222223ac29500194e2f5b8af54409f6c0c3c98127e596256e
 normalized_title_hash: c91ff6362da330a8

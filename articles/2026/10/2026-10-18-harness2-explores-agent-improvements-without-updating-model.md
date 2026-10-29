@@ -5,7 +5,7 @@ date: '2026-10-18'
 source: October 18, 2026; date-only publication
 url_original: https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/
 url_canonical: https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-18_062116_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 58e5f18123243ea4ea539832c1910e70b8a528b9c3aba9e2d7e23815c52de9eb

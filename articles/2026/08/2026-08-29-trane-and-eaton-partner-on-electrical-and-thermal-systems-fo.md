@@ -5,7 +5,7 @@ date: '2026-08-29'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/eaton-ai-data-center-healthcare-090651273.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/eaton-ai-data-center-healthcare-090651273.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-30_065043_Final-Daily-AI-News-Digest.md
 content_hash: b762dba89b8cd567eeb5483bf569323333358e83e98635a230c22136d9f8f041
 normalized_title_hash: 3c7659b8c6ca99dd

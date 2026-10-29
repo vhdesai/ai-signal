@@ -5,7 +5,7 @@ date: '2026-10-14'
 source: IBM Newsroom
 url_original: https://newsroom.ibm.com/2026-10-14-ibm-study-eight-in-ten-emea-enterprises-escalate-ai-incidents-to-board-or-c-suite-as-ai-agents-test-governance
 url_canonical: https://newsroom.ibm.com/2026-10-14-ibm-study-eight-in-ten-emea-enterprises-escalate-ai-incidents-to-board-or-c-suite-as-ai-agents-test-governance
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-15_061934_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: bf69cea8e463b06731af024e9da466aa8a6b2c1d2c33d153e9c8dbd8d8824220

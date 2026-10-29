@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Information
 url_original: https://www.theinformation.com/articles/deepseeks-annualized-revenue-hits-1-billion-as-startup-finalizes-7-5-billion-fundraising
 url_canonical: https://www.theinformation.com/articles/deepseeks-annualized-revenue-hits-1-billion-as-startup-finalizes-7-5-billion-fundraising
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
   24, 2026.md
 content_hash: 76bebee7e1f2fa2b025b2619fdc29dd52127f138d3374755d84f2ece92867d30

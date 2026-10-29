@@ -5,7 +5,7 @@ date: '2026-10-18'
 source: The Decoder
 url_original: https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/
 url_canonical: https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-18_123234_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 473651423e5ab33175916194b0404b6ae91d4951b64e5ca41ad4fdd60f4ecbec

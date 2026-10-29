@@ -6,7 +6,7 @@ date: '2026-06-05'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/
 url_canonical: https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-06_070013_Final-Daily-AI-News-Digest.md
 content_hash: c729ad49cf3703fa8fbc298a18346e87c5ebbc3bcf560f6bce9efd520db99fa3
 normalized_title_hash: 561599f81eac2a72

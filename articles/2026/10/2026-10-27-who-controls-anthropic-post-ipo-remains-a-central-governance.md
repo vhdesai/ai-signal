@@ -5,7 +5,7 @@ date: '2026-10-27'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/
 url_canonical: https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-28_131127_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: 700cb9d1da1b6df778d226a48dfa1a3a25417c3dea532cf2f499f32f2d244ff4

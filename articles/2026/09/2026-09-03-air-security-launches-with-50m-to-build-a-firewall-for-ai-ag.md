@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: SecurityWeek
 url_original: https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/
 url_canonical: https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-03_065052_Final-Daily-AI-News-Digest.md
 content_hash: ba77601eb718175fdf87ede80fd82f22da401d4de78851f2c9ff303f624258b7
 normalized_title_hash: 20f4d22ae28d39b8

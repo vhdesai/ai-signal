@@ -5,7 +5,7 @@ date: '2026-10-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/
 url_canonical: https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-21_065709_Final-Daily-AI-News-Digest.md
 content_hash: af1bf47bdc8b8c1a385934ae431d8352369f1be6e3afa18cae6d5213e777f9cc
 normalized_title_hash: 681b0a2ef4e78ce5

@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/
 url_canonical: https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: a58a21395b0ff8fbaa6c8c620250466b66172cd042675578feef2b8495c4f303

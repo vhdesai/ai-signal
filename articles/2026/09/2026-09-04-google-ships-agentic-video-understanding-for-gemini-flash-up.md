@@ -6,7 +6,7 @@ date: '2026-09-04'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/
 url_canonical: https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: a9ddd67cfa6f6dfc355b4a4e82fb1c408ee3dc0161e8dd8834b8c96b27d13da5

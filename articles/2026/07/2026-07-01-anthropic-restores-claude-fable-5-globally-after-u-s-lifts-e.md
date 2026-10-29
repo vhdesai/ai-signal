@@ -6,7 +6,7 @@ date: '2026-07-01'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it
 url_canonical: https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: 93ee522713542eec144159a0f07be2222e09b3b789418b7fd3da7c52b325709f

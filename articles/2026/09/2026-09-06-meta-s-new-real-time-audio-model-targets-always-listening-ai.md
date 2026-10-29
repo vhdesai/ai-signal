@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: The Decoder
 url_original: https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/
 url_canonical: https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_065650_Final-Daily-AI-News-Digest.md
 content_hash: 2e9ea57bb47dcf172c35f443630bcfe4080f1da36f9b5b458b9951ea4e230171
 normalized_title_hash: c3a6336f1e204093

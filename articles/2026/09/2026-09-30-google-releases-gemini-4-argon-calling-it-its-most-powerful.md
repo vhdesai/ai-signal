@@ -5,7 +5,7 @@ date: '2026-09-30'
 source: TechCrunch / Google DeepMind
 url_original: https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/
 url_canonical: https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 6a1c1cc24899fb441551da40c62e248617c460cd661f3eb48cc80f229792a4b7

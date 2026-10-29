@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Unite.AI
 url_original: https://www.unite.ai/xpeng-robotics-raises-900m-first-round-at-6-3b-valuation/
 url_canonical: https://www.unite.ai/xpeng-robotics-raises-900m-first-round-at-6-3b-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_061731_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 93810cb54434af1dbdb124be7d48f6eddc91cb76431f58bea1943363a3cc93f1

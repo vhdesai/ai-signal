@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: The Information
 url_original: https://www.theinformation.com/articles/blackstone-exec-says-big-unknowns-remain-for-ai-credit-demand
 url_canonical: https://www.theinformation.com/articles/blackstone-exec-says-big-unknowns-remain-for-ai-credit-demand
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: ae448b126bb11e7b618bc76e81b5485e9f17661d439572346207a82f64d5063d

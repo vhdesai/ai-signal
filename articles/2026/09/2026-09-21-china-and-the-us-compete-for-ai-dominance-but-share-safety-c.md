@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Tech Xplore
 url_original: https://techxplore.com/machine-learning-ai-news/
 url_canonical: https://techxplore.com/machine-learning-ai-news/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 7ec841535ec36fbb0d7a50afd578c16026dd4a612b5b1f62e4ea79faa2ba191f

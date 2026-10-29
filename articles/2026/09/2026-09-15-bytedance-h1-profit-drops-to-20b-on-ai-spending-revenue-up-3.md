@@ -5,7 +5,7 @@ date: '2026-09-15'
 source: The Information
 url_original: https://www.theinformation.com/articles/bytedances-first-half-profit-drops-to-20-billion-weighed-down-by-ai-spending
 url_canonical: https://www.theinformation.com/articles/bytedances-first-half-profit-drops-to-20-billion-weighed-down-by-ai-spending
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: 15e869d7393f29f4df61f4140c4aba3c9df460c65f1cc078314974f06e7cabd2
 normalized_title_hash: 82b18b0d10bd5dcb

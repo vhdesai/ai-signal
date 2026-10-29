@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: The Decoder
 url_original: https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/
 url_canonical: https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 63176d815d976de55b1640e199730d9426e9627bb1c2d98c8664c69b953b5bca

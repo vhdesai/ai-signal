@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Ars Technica
 url_original: https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/
 url_canonical: https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_062154_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 5cd86fc417d2e32591e1e86d396fd0588b650301b76925d92952d0d56fdda7ac

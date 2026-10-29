@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/06/25/patronus-ai-grabs-50m-funding-stress-test-ai-agents-simulated-environments/
 url_canonical: https://siliconangle.com/2026/06/25/patronus-ai-grabs-50m-funding-stress-test-ai-agents-simulated-environments/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 00c4003395e01aaeb14af9012925c8059667f9683c38ebf58c525fdaab06c412

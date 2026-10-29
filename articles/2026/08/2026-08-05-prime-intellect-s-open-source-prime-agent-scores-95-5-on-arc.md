@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: Prime Intellect
 url_original: https://www.primeintellect.ai/blog/prime-agent
 url_canonical: https://www.primeintellect.ai/blog/prime-agent
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061505_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: c7d4c9a1556880d699786342abae981358be220441acb0d0ba5be46499d98538

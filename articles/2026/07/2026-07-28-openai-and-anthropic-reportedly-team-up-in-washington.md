@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI%20Anthropic%20Washington%20AI%20policy
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI%20Anthropic%20Washington%20AI%20policy
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: aa163f34189b5fed881f7b966f46a471e95f7b371beba1df0fc2a0382861a122

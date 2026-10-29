@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: The Decoder
 url_original: https://the-decoder.com/western-mathematicians-fear-ai-makes-them-dumber-while-china-builds-an-entire-alliance-for-it/
 url_canonical: https://the-decoder.com/western-mathematicians-fear-ai-makes-them-dumber-while-china-builds-an-entire-alliance-for-it/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 660b8ddda013083f90247ab9f1235b7add80c546b3139234f602d3119f1292df

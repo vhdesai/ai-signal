@@ -5,7 +5,7 @@ date: '2026-10-12'
 source: SpaceXSI
 url_original: https://x.ai/news/x-subscription
 url_canonical: https://x.ai/news/x-subscription
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-13_062649_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: d38d0a2d902b0851e7e233893ea13f40c92602ddbf75a88e695eaaaad7f698af

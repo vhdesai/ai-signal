@@ -5,7 +5,7 @@ date: '2026-10-27'
 source: '[OpenAI Blog]'
 url_original: https://openai.com/index/retell-ai
 url_canonical: https://openai.com/index/retell-ai
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-28_131127_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: 14a59385f5b7790c3eb9fee0c4704845c03b62d78706b70e62019ea681d4cc92

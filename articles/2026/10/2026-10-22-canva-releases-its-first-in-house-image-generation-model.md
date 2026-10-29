@@ -5,7 +5,7 @@ date: '2026-10-22'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/
 url_canonical: https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-23_065801_Final-Daily-AI-News-Digest.md
 content_hash: e8a91e41a2b534849b39dd690ce1c7b372929ad1b12f940177e32e8a18c56ca0
 normalized_title_hash: befb71c6a7da526f

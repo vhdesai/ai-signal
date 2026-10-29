@@ -5,7 +5,7 @@ date: '2026-10-23'
 source: '[Axios]'
 url_original: https://www.axios.com/2026/10/23/ai-catastrophe-wall-street
 url_canonical: https://www.axios.com/2026/10/23/ai-catastrophe-wall-street
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-24_062015_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: 5cd0b9f9d8e51d1faf5dff100032aa256fb9bf25bfa919f46835af25b7d2095e

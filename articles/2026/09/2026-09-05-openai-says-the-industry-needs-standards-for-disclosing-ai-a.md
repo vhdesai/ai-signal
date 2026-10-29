@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: Gizmodo
 url_original: https://gizmodo.com/openai-says-it-wants-to-create-a-standard-for-revealing-ai-alignment-meltdowns-2000807865
 url_canonical: https://gizmodo.com/openai-says-it-wants-to-create-a-standard-for-revealing-ai-alignment-meltdowns-2000807865
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_060801_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 7a2bf1985a5b88879a2e2d8e4e5384ad6f5ac487a383ab33e1cefffdda2900d1

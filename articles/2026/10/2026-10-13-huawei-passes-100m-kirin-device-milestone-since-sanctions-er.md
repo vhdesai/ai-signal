@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3370766/huawei-once-hobbled-us-sanctions-passes-100-million-kirin-chip-milestone
 url_canonical: https://www.scmp.com/tech/big-tech/article/3370766/huawei-once-hobbled-us-sanctions-passes-100-million-kirin-chip-milestone
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 9541bb3a95a062a2905a87b6a1dd4431db9d7f360fa8b139aeebf470c3fefd24

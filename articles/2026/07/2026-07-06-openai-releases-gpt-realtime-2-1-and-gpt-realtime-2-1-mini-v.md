@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: OpenAI
 url_original: https://community.openai.com/t/new-realtime-models-on-the-api-gpt-realtime-2-1-and-gpt-realtime-2-1-mini/1385896
 url_canonical: https://community.openai.com/t/new-realtime-models-on-the-api-gpt-realtime-2-1-and-gpt-realtime-2-1-mini/1385896
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-07_062455_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: a89cab58786b0ec3bb2688bb93c386965143cd50e2c5c8d69724952979a489f4

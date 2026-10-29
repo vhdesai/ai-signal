@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/
 url_canonical: https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: c040a4dbc9a2e7faa8bffaaa9007bc4e73043b821a60396873757155319b2d72

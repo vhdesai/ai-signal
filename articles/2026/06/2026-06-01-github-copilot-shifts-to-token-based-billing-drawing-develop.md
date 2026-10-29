@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: The Indian Express
 url_original: https://indianexpress.com/article/technology/tech-news-technology/microsoft-github-copilot-token-billing-ai-costs-rising-10716800/
 url_canonical: https://indianexpress.com/article/technology/tech-news-technology/microsoft-github-copilot-token-billing-ai-costs-rising-10716800/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_060804_Daily-AI-News-Digest.md
 content_hash: 45f63431befa93d7a4c0e5a56fb0d1eace8031436698fe9cd704f7e87df7a316
 normalized_title_hash: b33124b285ed7769

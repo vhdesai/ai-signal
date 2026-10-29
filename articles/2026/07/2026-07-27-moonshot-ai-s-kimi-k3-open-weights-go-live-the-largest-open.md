@@ -6,7 +6,7 @@ date: '2026-07-27'
 source: The Hans India
 url_original: https://www.thehansindia.com/technology/tech-news/moonshots-kimi-k3-model-is-ready-for-public-download-after-unsettling-openai-and-anthropic-1101865
 url_canonical: https://www.thehansindia.com/technology/tech-news/moonshots-kimi-k3-model-is-ready-for-public-download-after-unsettling-openai-and-anthropic-1101865
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-27_061009_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: d4a8313ea5c5bc80105443d3d9bb32cf47fbf534f602e63a2d0dc6e9e19d0779

@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: TechRepublic / Tom's Hardware
 url_original: https://www.techrepublic.com/article/news-alibaba-zhenwu-v900-ai-chip-500000-cluster-2026
 url_canonical: https://www.techrepublic.com/article/news-alibaba-zhenwu-v900-ai-chip-500000-cluster-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-23_070112_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 2f28d7c88b7fcabecec08802144d7e99e09e9ef7639168fe63c3ea907f5a44e6

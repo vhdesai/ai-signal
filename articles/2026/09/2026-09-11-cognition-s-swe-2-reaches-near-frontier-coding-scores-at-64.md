@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/327315/20260911/cognition-swe-2-beats-frontier-coding-ai-64-lower-cost-using-single-run-rl-training.htm
 url_canonical: https://www.techtimes.com/articles/327315/20260911/cognition-swe-2-beats-frontier-coding-ai-64-lower-cost-using-single-run-rl-training.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_062305_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: ea64f4efbceb5410255b79071c31ada689e68b7b15bfddba65aefcc348047c0f

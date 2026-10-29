@@ -5,7 +5,7 @@ date: '2026-10-23'
 source: '[AiThority]'
 url_original: https://aithority.com/machine-learning/you-com-launches-inference-router-bringing-enterprise-grade-reliability-to-open-weight-ai-models-on-demand/
 url_canonical: https://aithority.com/machine-learning/you-com-launches-inference-router-bringing-enterprise-grade-reliability-to-open-weight-ai-models-on-demand/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-24_070002_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: 4fdf7d3b5a153283949e982837e1ee726c8070d63d0866a6a2ea9c9531458da1

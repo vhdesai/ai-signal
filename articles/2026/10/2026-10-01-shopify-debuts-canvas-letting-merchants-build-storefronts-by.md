@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/
 url_canonical: https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 553e97468d67739900d22288de388d7be12db5c32bfc569c868e06a3f58f07a9

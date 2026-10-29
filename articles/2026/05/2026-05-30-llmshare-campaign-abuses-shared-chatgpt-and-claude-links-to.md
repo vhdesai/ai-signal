@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: Cybernews
 url_original: https://cybernews.com/cybercrime/hackers-turn-chatgpt-into-a-malware-delivery-platform/
 url_canonical: https://cybernews.com/cybercrime/hackers-turn-chatgpt-into-a-malware-delivery-platform/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-31_163748_Daily-AI-News-Digest.md
 content_hash: c9be760bbf32a9332af9cfb2976ca5044e9b9357b456de6b629718254d5f7107
 normalized_title_hash: fe70cd3ddb4750fc

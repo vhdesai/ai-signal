@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: The Decoder
 url_original: https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/
 url_canonical: https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: b426fbf71145a20a7719bfbb50e8518b9ddfbb1dad8d629c41002412593dadab

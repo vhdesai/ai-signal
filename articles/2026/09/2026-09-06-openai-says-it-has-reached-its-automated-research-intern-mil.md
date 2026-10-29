@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: Engadget
 url_original: https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/
 url_canonical: https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_062415_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 918aac2d727cb491f74218b6563d9fe065277403587c9d1ae56221d6732c1f87

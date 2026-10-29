@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: The Decoder
 url_original: https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/
 url_canonical: https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 4805776a3337c59d96a48f7e16a4be6c3a214497d15324e77e237496119079f4

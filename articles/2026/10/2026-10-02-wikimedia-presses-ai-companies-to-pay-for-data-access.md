@@ -5,7 +5,7 @@ date: '2026-10-02'
 source: Axios, syndicated by Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/were-not-asking-charity-wikimedia-090005980.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/were-not-asking-charity-wikimedia-090005980.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-02_061956_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: ae82288a3f8b3683c1c276bcb32eecb37bb269298c91937e143499b1c9521954

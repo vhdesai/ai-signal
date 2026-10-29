@@ -5,7 +5,7 @@ date: '2026-10-23'
 source: '[OpenAI]'
 url_original: https://openai.com/index/securing-our-frontier-model-training-environment/
 url_canonical: https://openai.com/index/securing-our-frontier-model-training-environment/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-24_062015_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: ac1821ebe8353ba09269f0728e2e1d1d3c0e95430399a7fe741cd5af67c5edb9

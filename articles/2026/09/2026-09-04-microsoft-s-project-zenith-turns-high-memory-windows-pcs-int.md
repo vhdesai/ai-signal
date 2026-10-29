@@ -6,7 +6,7 @@ date: '2026-09-04'
 source: TechRepublic
 url_original: https://www.techrepublic.com/article/news-microsoft-project-zenith-windows-developer-pcs/
 url_canonical: https://www.techrepublic.com/article/news-microsoft-project-zenith-windows-developer-pcs/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061438_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 67925cde060455298a1ae19a4eb35909d5f743f1001e583f2c246292cc585e06

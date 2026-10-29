@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Decrypt
 url_original: https://decrypt.co/375058/openai-ai-agents-secretly-coordinated-hugging-face-hack
 url_canonical: https://decrypt.co/375058/openai-ai-agents-secretly-coordinated-hugging-face-hack
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_084748_Final-Daily-AI-News-Digest.md
 content_hash: b38c2049975bad70518d222cfb773d0b6ed21b09b0ed2ab8604fc285cecd4096
 normalized_title_hash: ec73aad7bc4819a1

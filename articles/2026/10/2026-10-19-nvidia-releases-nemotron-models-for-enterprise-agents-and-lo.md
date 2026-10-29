@@ -5,7 +5,7 @@ date: '2026-10-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/
 url_canonical: https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-20_131013_Inbox_Daily AI News Digest – October
   20, 2026.md
 content_hash: 1fcbc3d3e18040b710dcc6da2cb29df413f377651deb531b34f4554e25f06518

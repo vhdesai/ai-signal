@@ -5,7 +5,7 @@ date: '2026-10-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%E2%81%A0-to-beef-up-its-biotech-business/
 url_canonical: https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%E2%81%A0-to-beef-up-its-biotech-business/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-21_065709_Final-Daily-AI-News-Digest.md
 content_hash: 5c53a39f07c97d66cd03fa7fec054fff2d334944a5d8c1dae4ea339d080ec7ee
 normalized_title_hash: 3ce5a07aafd49edf

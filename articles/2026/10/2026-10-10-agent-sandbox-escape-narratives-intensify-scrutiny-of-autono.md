@@ -5,7 +5,7 @@ date: '2026-10-10'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/
 url_canonical: https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-11_101102_Inbox_Daily AI News Digest - October
   11, 2026.md
 content_hash: 5c9b0ec38ae9677614b18af4c3794562da5a62c1060f3a01288b0147281ac2cc

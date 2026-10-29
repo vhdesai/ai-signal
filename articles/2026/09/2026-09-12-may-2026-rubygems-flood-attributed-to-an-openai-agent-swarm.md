@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: The Hacker News
 url_original: https://thehackernews.com/2026/09/rubygems-openai-agent-swarm-attack.html
 url_canonical: https://thehackernews.com/2026/09/rubygems-openai-agent-swarm-attack.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_070058_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: b05d1ce8c6c9cd8aaefecd88baf60300914c3b0df34a3c5e58e44bdb6ff554f6

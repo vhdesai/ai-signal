@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: Google
 url_original: https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/
 url_canonical: https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-31_060925_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: d4f6e1c4bd767f46e2334cbea8a39fd039842c3144c5bb0cbeb96cc7eb6a72cf

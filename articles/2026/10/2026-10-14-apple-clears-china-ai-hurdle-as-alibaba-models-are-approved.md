@@ -6,7 +6,7 @@ date: '2026-10-14'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3370893/china-approves-alibaba-ai-models-use-iphone-duo-and-other-apple-handsets
 url_canonical: https://www.scmp.com/tech/big-tech/article/3370893/china-approves-alibaba-ai-models-use-iphone-duo-and-other-apple-handsets
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: a8f51e7d57dd0118675457302e3476d6e967eaca93a6e89116d7bc8369b7b809

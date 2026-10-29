@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: The Decoder
 url_original: https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/
 url_canonical: https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_061230_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 65909c46975b30d22e524d93eb99cd14080b495b67a41fbca3eac69aa342f49d

@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/09/14/nvidia-expands-cuda-q-platform-support-fault-tolerant-quantum-processors/
 url_canonical: https://siliconangle.com/2026/09/14/nvidia-expands-cuda-q-platform-support-fault-tolerant-quantum-processors/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-14_065405_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 77e468fddf743312b1f84ec38dbc6cbb557f3f177c0ae9477c915e59fd42a495

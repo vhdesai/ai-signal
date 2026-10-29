@@ -5,7 +5,7 @@ date: '2026-10-27'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/
 url_canonical: https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-28_131127_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: 90618fbea2430967850fa4513c1805a2f239bb56558e11b0c7a2854b63a6a4d9

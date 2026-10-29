@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: Forbes
 url_original: https://www.forbes.com/sites/jonmarkman/2026/09/02/anthropic-plans-to-release-ipo-prospectus-after-labor-day/
 url_canonical: https://www.forbes.com/sites/jonmarkman/2026/09/02/anthropic-plans-to-release-ipo-prospectus-after-labor-day/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-03_060703_Inbox_Daily AI News Digest – September
   3, 2026.md
 content_hash: d82778a29a435b2920ed11989e26f33c62d74db2aa710de13e1e7854dd9aed13

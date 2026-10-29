@@ -5,8 +5,8 @@ title: Big Tech’s AI buildout is colliding with rising capital requirements an
 date: '2026-10-28'
 source: '[DealBook]'
 url_original: https://www.nytimes.com/section/dealbook
-url_canonical: https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html
-url_status: repaired
+url_canonical: https://www.nytimes.com/section/dealbook
+url_status: found
 digest_source: digests\raw\2026-10-28_065034_Final-Daily-AI-News-Digest.md
 content_hash: 21f18bc93340d547ad266717207bfb40198473ddb0e3cfd47ca041248d050cab
 normalized_title_hash: 41710fff5faaf93b

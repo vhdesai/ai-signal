@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/
 url_canonical: https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-13_060534_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: ac3cbde7f3fe75e5cc343016d5cadee8d2bf7f9c95d98d781e1715080753565a

@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: VentureBeat
 url_original: https://venturebeat.com/infrastructure/black-forest-labs-debuts-flux-3-action-an-open-weights-ai-robotics-model-that-tops-the-leaderboard-at-half-the-size-of-its-competition
 url_canonical: https://venturebeat.com/infrastructure/black-forest-labs-debuts-flux-3-action-an-open-weights-ai-robotics-model-that-tops-the-leaderboard-at-half-the-size-of-its-competition
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-24_061044_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: d47f076940e709b7e5fb46f104877ddcdc241432cb0ab33f2507a6d7ef93f81e

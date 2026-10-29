@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: South China Morning Post
 url_original: https://www.scmp.com/plus/news/china/diplomacy/article/3367456/xi-touts-brics-cooperation-ai-us-titans-flag-tech-risks
 url_canonical: https://www.scmp.com/plus/news/china/diplomacy/article/3367456/xi-touts-brics-cooperation-ai-us-titans-flag-tech-risks
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_061129_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 54f260fdbb7a99e05df7b74feeb2552523d519fea68ffdb7b75aa8b92c0a1e37

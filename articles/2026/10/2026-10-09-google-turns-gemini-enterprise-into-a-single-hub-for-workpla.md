@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/google-gemini-agent-enterprise-thomas-kurian/832561/
 url_canonical: https://www.ciodive.com/news/google-gemini-agent-enterprise-thomas-kurian/832561/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-10_065339_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 82660b9c6e8e937c0e02ee2261020d7b358b82c4a21299176c55dcf4dda89743

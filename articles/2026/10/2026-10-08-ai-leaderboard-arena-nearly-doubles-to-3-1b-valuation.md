@@ -5,7 +5,7 @@ date: '2026-10-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/
 url_canonical: https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: 5d8c4de61e49bad1b0cd5a50ca2aa2725d07bf9f932663b13435f673059d1c47

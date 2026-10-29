@@ -5,7 +5,7 @@ date: '2026-10-22'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/
 url_canonical: https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-23_065801_Final-Daily-AI-News-Digest.md
 content_hash: d4a39b687fcee9c4c50e52a32b9ab4e23b5bdf8316fb2baad87cbb53608e044e
 normalized_title_hash: a05a824e0a60fdc5

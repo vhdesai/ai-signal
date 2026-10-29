@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash
 url_canonical: https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_062352_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 27510f8542c8ebd3a6bc47c7cefd0c3c984b05061506c6cf54965d36e1cd800a

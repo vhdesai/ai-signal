@@ -5,7 +5,7 @@ date: '2026-10-07'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/
 url_canonical: https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: ac285dab7c9022bb2ff58b8fbc2b3467a2cf8433b67306599c779fe30c83681f

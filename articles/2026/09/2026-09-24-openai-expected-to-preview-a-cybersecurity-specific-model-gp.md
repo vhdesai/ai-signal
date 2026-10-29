@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Gizmodo / Fortune]
 url_original: https://gizmodo.com/openai-may-announce-new-security-model-gpt-6-cyber-within-days-2000817143
 url_canonical: https://gizmodo.com/openai-may-announce-new-security-model-gpt-6-cyber-within-days-2000817143
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_065721_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: c1c7a19699c97cd8e2d373ff59e9367882bf021d2ad204a51463abbf65217944

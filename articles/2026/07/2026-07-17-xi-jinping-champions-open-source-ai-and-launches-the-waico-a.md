@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: Al Jazeera**
 url_original: https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it
 url_canonical: https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: 8963448f3cdff9a6fbe4268ca09aed003f20ba788b9ab8056cdbda4f76e6f000
 normalized_title_hash: b435315b34694d4e

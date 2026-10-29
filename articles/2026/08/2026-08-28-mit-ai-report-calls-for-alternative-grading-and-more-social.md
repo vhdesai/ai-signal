@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: Inside Higher Ed · MIT
 url_original: https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/28/mit-ai-report-calls-alternative-grading
 url_canonical: https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/28/mit-ai-report-calls-alternative-grading
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: aeb3d1973d5e43cd74845aa99879e1ce463572d6129d87b9b5556b13398c6b60

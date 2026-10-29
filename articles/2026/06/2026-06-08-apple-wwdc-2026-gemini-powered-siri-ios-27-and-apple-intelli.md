@@ -6,7 +6,7 @@ date: '2026-06-08'
 source: The Verge; Engadget; Wired; TechCrunch; Bloomberg
 url_original: https://www.engadget.com/2189169/apple-wwdc-2026-live-blog-siri-ai-ios-27/
 url_canonical: https://www.engadget.com/2189169/apple-wwdc-2026-live-blog-siri-ai-ios-27/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-08_070034_Final-Daily-AI-News-Digest.md
 content_hash: b840fd2e1259a11025baf9e0d638424a248515fa4d1b0846f603ed6cbef395fc
 normalized_title_hash: aa4a8e18d35b4395

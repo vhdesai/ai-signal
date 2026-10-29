@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/healthcare/articles/rocket-doctor-ai-provides-operational-120000096.html
 url_canonical: https://finance.yahoo.com/healthcare/articles/rocket-doctor-ai-provides-operational-120000096.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_060731_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 2fa8926b9231495926bcad69f560f61e942a09101db5b97c8ea24d299ae48c7c

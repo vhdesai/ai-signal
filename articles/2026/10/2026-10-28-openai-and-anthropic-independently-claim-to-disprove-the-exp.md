@@ -5,7 +5,7 @@ date: '2026-10-28'
 source: '[The Information]'
 url_original: https://www.theinformation.com/briefings/openai-anthropic-claim-cryptography-breakthrough-day
 url_canonical: https://www.theinformation.com/briefings/openai-anthropic-claim-cryptography-breakthrough-day
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-28_065034_Final-Daily-AI-News-Digest.md
 content_hash: 3c7b1cf8765cc2dc7f2dda64b4d54680de061df07959a00133927c9e5be51e19
 normalized_title_hash: 951c80f25e1f4851

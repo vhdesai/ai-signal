@@ -6,7 +6,7 @@ date: '2026-10-28'
 source: '[The Information]'
 url_original: https://www.anthropic.com/research/early-progress-drug-development
 url_canonical: https://www.anthropic.com/research/early-progress-drug-development
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-28_065034_Final-Daily-AI-News-Digest.md
 content_hash: ac23ea024bb80670434098093f911a39423a6914dc9e310fa83f933c66bbcb98
 normalized_title_hash: f43d58fae7cf0c0b

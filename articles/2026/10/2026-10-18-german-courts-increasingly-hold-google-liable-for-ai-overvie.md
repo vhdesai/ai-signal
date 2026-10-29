@@ -5,7 +5,7 @@ date: '2026-10-18'
 source: The Decoder
 url_original: https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/
 url_canonical: https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-18_123234_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 7339826f478fddd17c577fa87a47ac305305db127cb05121df53131c4faa9a29

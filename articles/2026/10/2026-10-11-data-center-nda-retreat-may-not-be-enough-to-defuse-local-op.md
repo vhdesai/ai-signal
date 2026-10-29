@@ -6,7 +6,7 @@ date: '2026-10-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/
 url_canonical: https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-11_101102_Inbox_Daily AI News Digest - October
   11, 2026.md
 content_hash: 451682e8682f50ef6e88a8ce368df7932f84d5b6381568ff98670b319f3a42ef

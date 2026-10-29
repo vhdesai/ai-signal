@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/
 url_canonical: https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-10_065339_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: c2cd482a3f7b4b7fddfb661868765bdf90c8e22f1a4491b48cd215ed42e42d87

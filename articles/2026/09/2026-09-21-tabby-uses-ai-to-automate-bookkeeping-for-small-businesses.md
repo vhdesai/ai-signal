@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/
 url_canonical: https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_060610_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: acbdbe6cb5d889c1451a229e4d43b1adb971fd1a4ceb4c66a3a30db6301fa0a5

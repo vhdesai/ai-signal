@@ -5,7 +5,7 @@ date: '2026-10-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/
 url_canonical: https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-18_123234_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: 77ace7a5e14bb555b3e393c7695ec6d8f4eb9127e145df64016cc3b62aad99af

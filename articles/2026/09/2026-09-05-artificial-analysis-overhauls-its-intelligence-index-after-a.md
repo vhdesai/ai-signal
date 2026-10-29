@@ -6,7 +6,7 @@ date: '2026-09-05'
 source: The Decoder · OpenAI / Anthropic
 url_original: https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/
 url_canonical: https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_060643_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 865d4a494bfab357dfbfda9978c35f6f483f0d2c86d99ebd55552afbff282c84

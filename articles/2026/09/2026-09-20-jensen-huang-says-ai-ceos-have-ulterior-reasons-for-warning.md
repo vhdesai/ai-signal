@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: Business Insider / CBS News
 url_original: https://ca.news.yahoo.com/nvidias-jensen-huang-says-ai-191713977.html
 url_canonical: https://ca.news.yahoo.com/nvidias-jensen-huang-says-ai-191713977.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 6fa7d0365042088a44dfa344389ecb4441c2e0db5c6859f9075c2e6a5be30cd8

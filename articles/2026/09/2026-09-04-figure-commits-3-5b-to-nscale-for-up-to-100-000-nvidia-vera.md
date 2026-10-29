@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Forbes
 url_original: https://www.forbes.com/sites/johnkoetsier/2026/09/04/how-figure-committed-35-billion-for-ai-compute-after-raising-only-19-billion/
 url_canonical: https://www.forbes.com/sites/johnkoetsier/2026/09/04/how-figure-committed-35-billion-for-ai-compute-after-raising-only-19-billion/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_062136_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 5411669e37a1abcccda5ba466fb175a34aed8dbc34be301fe737001ef53d21a1

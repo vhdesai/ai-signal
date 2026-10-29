@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Yicai Global
 url_original: https://www.yicaiglobal.com/news/saudi-tech-firm-launches-worlds-first-arabic-llm-built-on-chinas-minimax-m3
 url_canonical: https://www.yicaiglobal.com/news/saudi-tech-firm-launches-worlds-first-arabic-llm-built-on-chinas-minimax-m3
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_065239_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 18cbfb3d1d5c1ad326de87cdea6d17781387f7535cb4afa6e7cf6fc02415c65f

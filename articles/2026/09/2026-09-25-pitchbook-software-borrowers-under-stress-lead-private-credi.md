@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: PitchBook
 url_original: https://pitchbook.com/news/articles/kalshi-long-odds-tech-pe-software-credit-2026-09-25
 url_canonical: https://pitchbook.com/news/articles/kalshi-long-odds-tech-pe-software-credit-2026-09-25
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-25_181041_Inbox_Fw Daily AI News Digest – September
   25, 2026.md
 content_hash: 31fafdc8d82566001ca05a20a0d59cdecb5acd87879f8327d911d6c9c20a6f30

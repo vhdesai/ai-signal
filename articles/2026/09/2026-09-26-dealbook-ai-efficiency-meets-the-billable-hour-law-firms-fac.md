@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: The New York Times DealBook]
 url_original: https://www.nytimes.com/2026/09/26/business/dealbook/law-firms-ai-billable-hour.html
 url_canonical: https://www.nytimes.com/2026/09/26/business/dealbook/law-firms-ai-billable-hour.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-26_065801_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: ca0d49e296ea320e087f306d31ceb8b5a7910b731fd764384b2bf82592d93225

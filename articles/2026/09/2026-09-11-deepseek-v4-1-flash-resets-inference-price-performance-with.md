@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: VentureBeat; corroborated by TechRepublic
 url_original: https://venturebeat.com/technology/deepseek-v4-1-flash-debuts-with-0-003-1m-off-peak-cached-input-rate-and-benchmarks-eclipsing-gpt-5-6-sol-claude-opus-5
 url_canonical: https://venturebeat.com/technology/deepseek-v4-1-flash-debuts-with-0-003-1m-off-peak-cached-input-rate-and-benchmarks-eclipsing-gpt-5-6-sol-claude-opus-5
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 580c0f6a153b3889647ff94aba5c5ccf593612809036d01a89bef8091f27d9d1

@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: CNBC
 url_original: https://creati.ai/ai-news/2026-05-19/
 url_canonical: https://creati.ai/ai-news/2026-05-19/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: b4947e3a4441cd5653a397a522e2eecf34668b0384ca7bd8b8ae4bd3e126b047

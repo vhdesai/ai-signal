@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: 9to5Google
 url_original: https://9to5google.com/2026/10/09/gemini-auto-free-users/
 url_canonical: https://9to5google.com/2026/10/09/gemini-auto-free-users/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-10_065339_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 827030ff7deafee70783d043f12c3343af579846e66cb59acd70e179db23d54e

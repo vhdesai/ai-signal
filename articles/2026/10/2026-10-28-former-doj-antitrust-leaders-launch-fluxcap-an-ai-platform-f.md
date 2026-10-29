@@ -5,7 +5,7 @@ date: '2026-10-28'
 source: '[DealBook]'
 url_original: https://www.nytimes.com/section/dealbook
 url_canonical: https://www.nytimes.com/section/dealbook
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-28_065034_Final-Daily-AI-News-Digest.md
 content_hash: c670856e20176ac939d9986385db8a0153ed932c92f3479d7637bb8ea1654e35
 normalized_title_hash: 75890e24770ce7ea

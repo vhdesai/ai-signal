@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/
 url_canonical: https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
 content_hash: 2cf96cf1b1d13d8cb1cb32d00452f600404a173818294cc2edb10c2d7a947a03

@@ -6,7 +6,7 @@ date: '2026-10-23'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
 url_canonical: https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-24_070002_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: 309dffc8ead23826047c14abf4014a16906af10acefffcd100b1fe8e1820df4d

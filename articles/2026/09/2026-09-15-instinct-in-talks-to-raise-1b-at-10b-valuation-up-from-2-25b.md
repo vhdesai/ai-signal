@@ -5,7 +5,7 @@ date: '2026-09-15'
 source: The Information
 url_original: https://www.theinformation.com/articles/ai-agent-startup-instinct-in-talks-for-10-billion-valuation
 url_canonical: https://www.theinformation.com/articles/ai-agent-startup-instinct-in-talks-for-10-billion-valuation
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-16_065920_Final-Daily-AI-News-Digest.md
 content_hash: 1504685b51a1e2f6bf69081168efa397b4811d3c7d601c08bfd010612ddd242e
 normalized_title_hash: af9671e28a6b048f

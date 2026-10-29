@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: The Decoder
 url_original: https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/
 url_canonical: https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 37d3662e6c317256a8d06b8bff73b824d711932b4814bf74adf0a426af988821

@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: The Hindu
 url_original: https://www.thehindu.com/news/national/karnataka/karnataka-explores-partnership-with-anthropic-for-governance-skilling-and-deep-tech-growth/article71312525.ece
 url_canonical: https://www.thehindu.com/news/national/karnataka/karnataka-explores-partnership-with-anthropic-for-governance-skilling-and-deep-tech-growth/article71312525.ece
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 48a4107688de3d03e1d258490fcc375ad792dd0a5c20d364b4672970f1265fd5

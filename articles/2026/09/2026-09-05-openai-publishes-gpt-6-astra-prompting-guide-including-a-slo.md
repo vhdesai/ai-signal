@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: The Decoder · OpenAI
 url_original: https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/
 url_canonical: https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_060643_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: e05eb9215072bb2e5419f41ebed29af9f058aae0b00c9e769d5866291715448e

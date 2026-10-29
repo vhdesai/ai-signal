@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: The Stanford Daily
 url_original: https://stanforddaily.com/2026/09/23/exploring-ai-and-humanities-stanford/
 url_canonical: https://stanforddaily.com/2026/09/23/exploring-ai-and-humanities-stanford/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 83b47b83339f4536d997599fdcb48b7ea6ea949ea60bafb4d7fae5f0ee55ebd4

@@ -6,7 +6,7 @@ date: '2026-10-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/
 url_canonical: https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-11_101102_Inbox_Daily AI News Digest - October
   11, 2026.md
 content_hash: fa79e98d3067fe88719eedf4c3f634448bf98d2a0d7cf22d3809b8864c9381ef

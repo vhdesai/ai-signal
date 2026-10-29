@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/
 url_canonical: https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: dd7c00e59323011c2c93ad7af1137edccd1746fbee8793bd55331378696c3e80

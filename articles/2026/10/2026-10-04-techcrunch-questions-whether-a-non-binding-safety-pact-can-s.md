@@ -6,7 +6,7 @@ date: '2026-10-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/
 url_canonical: https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-05_081053_Inbox_Daily AI News Digest – October
   5, 2026.md
 content_hash: 985d93d49a45770d731a8d3dac49828e71e05650aa2e1aaf68d2e723851b7b38

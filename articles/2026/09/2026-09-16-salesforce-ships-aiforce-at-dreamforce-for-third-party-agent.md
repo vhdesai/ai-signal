@@ -5,7 +5,7 @@ date: '2026-09-16'
 source: The Information / CIO Dive
 url_original: https://www.theinformation.com/articles/the-briefings-metas-ai-subscriptions
 url_canonical: https://www.theinformation.com/articles/the-briefings-metas-ai-subscriptions
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-16_065920_Final-Daily-AI-News-Digest.md
 content_hash: 42fa36498246517cf2c767b9c972e3e459c73352d6a9716385d30d2ef8937568
 normalized_title_hash: c12633372bd2615a

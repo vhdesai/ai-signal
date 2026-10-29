@@ -5,7 +5,7 @@ date: '2026-10-28'
 source: '[WSJ Pro Cybersecurity]'
 url_original: https://www.wsj.com/pro/cybersecurity/ai-hackers-are-attacking-the-entire-internet-one-ceo-warns-1aeeec33
 url_canonical: https://www.wsj.com/pro/cybersecurity/ai-hackers-are-attacking-the-entire-internet-one-ceo-warns-1aeeec33
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-28_065034_Final-Daily-AI-News-Digest.md
 content_hash: bcd8219c7a8160a173b6da19a5a613739caaf44155333a4f1ca70760569e4d71
 normalized_title_hash: 49f40fb56c5335cf

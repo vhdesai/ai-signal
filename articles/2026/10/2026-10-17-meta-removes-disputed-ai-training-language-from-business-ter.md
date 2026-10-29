@@ -5,7 +5,7 @@ date: '2026-10-17'
 source: October 17, 2026, 8:04 AM PDT
 url_original: https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
 url_canonical: https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-18_062116_Inbox_Daily AI News Digest - October
   18, 2026.md
 content_hash: f1b3912ddd08dfcc2fddc4500f9022514e4ffc012cf05b8c258b36d5d96f4cb2

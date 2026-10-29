@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: Forbes
 url_original: https://www.forbes.com/sites/sandycarter/2026/07/13/claude-fable-5-extends-to-july-19-7-days-7-power-moves/
 url_canonical: https://www.forbes.com/sites/sandycarter/2026/07/13/claude-fable-5-extends-to-july-19-7-days-7-power-moves/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: b867b48006bec7ef672bf1a46bf08028875b1ef1fc3b4b3087682b8b6886ec00

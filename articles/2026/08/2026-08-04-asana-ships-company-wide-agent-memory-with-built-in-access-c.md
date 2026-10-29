@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets
 url_canonical: https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: a2c206591262e9c33c5f31b3cd48444f159a026192ca0b653708de43b4d5c79b

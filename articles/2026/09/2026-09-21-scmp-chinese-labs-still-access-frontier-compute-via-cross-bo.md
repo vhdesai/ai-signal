@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt
 url_canonical: https://www.scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_061145_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: c1bf1340d8932e4c7abffbcc5b72d0a810053e048c378606ee1ae72ff87e05e7

@@ -5,7 +5,7 @@ date: '2026-10-24'
 source: '[Moonshot AI]'
 url_original: https://www.kimi.ai/blog/kimi-k3-1-pro
 url_canonical: https://www.kimi.ai/blog/kimi-k3-1-pro
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-24_062015_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: 47278dc7981ed6fbc8eed07ca7c85ab6de81c955f015570d170c3e48ccfcf942

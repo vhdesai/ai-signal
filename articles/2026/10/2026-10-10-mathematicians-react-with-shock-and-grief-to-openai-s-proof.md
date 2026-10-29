@@ -5,7 +5,7 @@ date: '2026-10-10'
 source: The Decoder
 url_original: https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/
 url_canonical: https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 3d25ee34393417d410c6e15a97a50a391addb4e70929529ea507040865483e64

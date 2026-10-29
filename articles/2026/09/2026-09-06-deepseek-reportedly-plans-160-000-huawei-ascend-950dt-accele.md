@@ -6,7 +6,7 @@ date: '2026-09-06'
 source: TechStory
 url_original: https://techstory.in/deepseek-plans-160000-huawei-ai-chips-for-massive-china-data-center/
 url_canonical: https://techstory.in/deepseek-plans-160000-huawei-ai-chips-for-massive-china-data-center/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-07_060623_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: c464210f13f1ab2730ae0862e91f9b10b68a86f2ed28fb30e581762fae6f2b64

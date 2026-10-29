@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: VentureBeat; Moneycontrol; MarkTechPost
 url_original: https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system
 url_canonical: https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 2cc61720cfc4ef64aadc7e0fc2712be63fb9a7d1bee12084cc8a53ce18e559d6
 normalized_title_hash: 879f51ea56f05aa4

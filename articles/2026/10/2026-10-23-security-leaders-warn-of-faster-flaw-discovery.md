@@ -5,7 +5,7 @@ date: '2026-10-23'
 source: '[The Guardian]'
 url_original: https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability
 url_canonical: https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-24_062015_Inbox_Daily AI News Digest - October
   24, 2026.md
 content_hash: ce311c73a7a9655215b66f237ced5d8335c05b4c796ccdf5f2a06604f7074de0

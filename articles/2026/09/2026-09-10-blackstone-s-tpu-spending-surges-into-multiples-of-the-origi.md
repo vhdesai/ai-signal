@@ -6,7 +6,7 @@ date: '2026-09-10'
 source: The Information
 url_original: https://www.theinformation.com/articles/blackstones-tpu-spending-surges-as-firm-eyes-dominant-role-in-ai
 url_canonical: https://www.theinformation.com/articles/blackstones-tpu-spending-surges-as-firm-eyes-dominant-role-in-ai
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_070058_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: eb5c0234ba93a7e139c5f2485d01a8527ce3557d2c231819ae10e9071f499ce1

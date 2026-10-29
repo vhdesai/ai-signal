@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/
 url_canonical: https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: c055fdacbcdf3e8560416e60157be6227c0c9fc2453b7d715779b7da1bb7544c

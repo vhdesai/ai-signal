@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: TradingKey
 url_original: https://www.tradingkey.com/analysis/stocks/us-stocks/262166073-micron-taiwan-employee-compensation-68-months-union-profit-sharing-15-percent-tradingkey
 url_canonical: https://www.tradingkey.com/analysis/stocks/us-stocks/262166073-micron-taiwan-employee-compensation-68-months-union-profit-sharing-15-percent-tradingkey
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_062355_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 5409ba518cae4be7cb1e9dd07b6e99050a88a4bf63a6c475ead3592a0f7eb8e1

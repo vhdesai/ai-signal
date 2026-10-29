@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: CoinCentral
 url_original: https://coincentral.com/tencent-stock-jumps-5-after-launching-new-ai-image-model/
 url_canonical: https://coincentral.com/tencent-stock-jumps-5-after-launching-new-ai-image-model/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_060727_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 06b7a6348407a2e0ab7459ec33b7315d05c299f179651f72bb57444f0ff3700b

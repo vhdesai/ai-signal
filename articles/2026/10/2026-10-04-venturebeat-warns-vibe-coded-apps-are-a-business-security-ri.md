@@ -5,7 +5,7 @@ date: '2026-10-04'
 source: VentureBeat
 url_original: https://venturebeat.com/security/your-vibe-coded-apps-are-a-ticking-time-bomb-for-your-business-heres-how-to-secure-them
 url_canonical: https://venturebeat.com/security/your-vibe-coded-apps-are-a-ticking-time-bomb-for-your-business-heres-how-to-secure-them
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-05_081053_Inbox_Daily AI News Digest – October
   5, 2026.md
 content_hash: 35982a192ac49a5244c08855041f593bde6bff0bf7e935450820e3bb5f24c6e6

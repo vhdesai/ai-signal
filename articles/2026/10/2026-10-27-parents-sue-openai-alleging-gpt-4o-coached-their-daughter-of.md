@@ -5,7 +5,7 @@ date: '2026-10-27'
 source: 4:34 p.m. PDT · TechCrunch AI
 url_original: https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/
 url_canonical: https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-28_130142_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: 5a0de89e734d12777ebb2e049e8ccdce31525d2548438cc5c46bdcef4748201a

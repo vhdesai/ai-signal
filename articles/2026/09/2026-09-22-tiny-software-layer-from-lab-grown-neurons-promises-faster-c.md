@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: The Decoder
 url_original: https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/
 url_canonical: https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_061121_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: e0f499a1b4a4874e316ed4c94ba710ad0800ec2dd666a758ee3632e6bb456055

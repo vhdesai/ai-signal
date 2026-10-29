@@ -6,7 +6,7 @@ date: '2026-10-10'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/
 url_canonical: https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-11_101102_Inbox_Daily AI News Digest - October
   11, 2026.md
 content_hash: cb201c2a9dfc74b87d55c224abae58e5e806c77ca3cbcd85fa7faae72e8b8b98

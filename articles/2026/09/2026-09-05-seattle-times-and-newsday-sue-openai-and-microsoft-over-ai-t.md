@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/
 url_canonical: https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_061415_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 08255c25317c234da7d00b2a45b3215943326c378aec66a2ac8c5b4b9387ead0

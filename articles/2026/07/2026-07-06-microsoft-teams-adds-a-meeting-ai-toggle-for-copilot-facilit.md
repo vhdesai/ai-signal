@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: Windows Report
 url_original: https://windowsreport.com/microsoft-teams-gets-new-meeting-ai-toggle-for-copilot-facilitator-and-recap/
 url_canonical: https://windowsreport.com/microsoft-teams-gets-new-meeting-ai-toggle-for-copilot-facilitator-and-recap/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-07_062455_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 6fbb15b5831368fb7c4ff202dd559ff1f3aee558d8bfc2106be10c7c14e0aac4

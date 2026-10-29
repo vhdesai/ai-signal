@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Forbes
 url_original: https://www.forbes.com/sites/michaelashley/2026/09/04/at-ifa-2026-ai-finally-gets-a-body/
 url_canonical: https://www.forbes.com/sites/michaelashley/2026/09/04/at-ifa-2026-ai-finally-gets-a-body/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-04_060802_Inbox_Daily AI News Digest – September
   4, 2026.md
 content_hash: 5be3aeed88fa9c51b9ab479d8c2f37d32f644ba6272f2f974b7fe65451797a62

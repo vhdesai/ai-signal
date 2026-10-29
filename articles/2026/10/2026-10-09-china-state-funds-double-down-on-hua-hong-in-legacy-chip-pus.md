@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3370297/china-state-funds-double-down-hua-hong-legacy-chip-push
 url_canonical: https://www.scmp.com/tech/big-tech/article/3370297/china-state-funds-double-down-hua-hong-legacy-chip-push
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: f29f5b5319a9550a861f3b198d083d0dd478376d40a78af4a78a2d0185bdcf1b

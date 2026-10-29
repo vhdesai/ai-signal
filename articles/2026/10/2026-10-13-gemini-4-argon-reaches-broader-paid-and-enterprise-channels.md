@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: Google
 url_original: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-14_063518_Inbox_Daily AI News Digest – October
   14, 2026.md
 content_hash: aec7ea54bc5b65b5082b7a376f6100ba1799591c374c759fab9daa08266934ee

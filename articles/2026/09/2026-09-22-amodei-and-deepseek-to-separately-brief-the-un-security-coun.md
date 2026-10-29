@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: Bloomberg / Reuters]
 url_original: https://www.bloomberg.com/news/articles/2026-09-22/anthropic-ceo-dario-amodei-to-brief-un-security-council-on-ai-risks
 url_canonical: https://www.bloomberg.com/news/articles/2026-09-22/anthropic-ceo-dario-amodei-to-brief-un-security-council-on-ai-risks
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: ff70b0fdb79bf5f0d60511653ab956a1247d0507fce7159a20fc20bd09e7a30d

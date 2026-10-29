@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/28/pollen-robotics-hugging-face-microduck-399-open-source-rl-biped-robot/
 url_canonical: https://www.marktechpost.com/2026/08/28/pollen-robotics-hugging-face-microduck-399-open-source-rl-biped-robot/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-29_060713_Inbox_Daily AI News Digest - August 29,
   2026.md
 content_hash: 43aae8f7aab0da0607bfd162b66d9ec4c58cb7ee0f5a744d2d4658214d19fb03

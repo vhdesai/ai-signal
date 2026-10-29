@@ -6,7 +6,7 @@ date: '2026-07-08'
 source: CBS News / AFP · The Wall Street Journal
 url_original: https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/
 url_canonical: https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_083415_Inbox_Fw Daily AI News Digest - July
   9, 2026.md
 content_hash: 24acfdeb106761f2ee046367fdfff31cd6f66678d38dfcc6d37c685f899c5627

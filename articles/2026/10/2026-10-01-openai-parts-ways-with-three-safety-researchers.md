@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: TechCrunch, reporting The Wall Street Journal
 url_original: https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/
 url_canonical: https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-02_061956_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 59ab6afe36e2f8c7e894d5668c475619843c923cc5f0440dfeebe524eabfacfa

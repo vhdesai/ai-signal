@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: iTechify
 url_original: https://itechify.com/2026/08/20/gemini-chrome-android-rollout/
 url_canonical: https://itechify.com/2026/08/20/gemini-chrome-android-rollout/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 6ee4f1ea07faf11a8e1ce68c01a2cba5a868f579d6e6deea9d8519a089a29eb1

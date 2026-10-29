@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3367955/china-see-major-shift-huawei-ai-model-training-2027-rotating-chair
 url_canonical: https://www.scmp.com/tech/big-tech/article/3367955/china-see-major-shift-huawei-ai-model-training-2027-rotating-chair
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 597d22f638e9920e116e90d54be25479deed5c2771dcd166626e613fb15b78d6

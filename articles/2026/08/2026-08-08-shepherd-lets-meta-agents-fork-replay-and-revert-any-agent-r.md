@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/
 url_canonical: https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_062204_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 5cadc93f311a7871afdb84f66649a729bb5cd386bc95227fe0afb1b2a4bca7e3

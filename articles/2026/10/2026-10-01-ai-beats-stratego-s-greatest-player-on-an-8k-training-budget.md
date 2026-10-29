@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: The Decoder
 url_original: https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/
 url_canonical: https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 1c3055a1b37ab61d59dc70817ce2ecf99a1394398741c2a35d7919b72c3644be

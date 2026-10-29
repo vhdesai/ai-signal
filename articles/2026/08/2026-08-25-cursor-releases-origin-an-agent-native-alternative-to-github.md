@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: InfoQ
 url_original: https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/
 url_canonical: https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_163610_Inbox_Fw Daily AI News Digest - August
   25, 2026.md
 content_hash: f7c6da5b4b1256583a222a6c90f52071b42931855ef6ee03cdbff9275419d5ec

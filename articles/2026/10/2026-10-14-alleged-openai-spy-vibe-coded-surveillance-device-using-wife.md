@@ -5,7 +5,7 @@ date: '2026-10-14'
 source: The Decoder
 url_original: https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/
 url_canonical: https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 30153849adbe5ac571b4fdea5e9cc57a9684392e21ee8260f73b69b3b7581a28

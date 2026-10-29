@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/04/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/
 url_canonical: https://techcrunch.com/2026/09/04/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_060624_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: c16d3e495b0de378119c4d2e0d31b09d28a80685a7f297d660f04dc7b6d7b963

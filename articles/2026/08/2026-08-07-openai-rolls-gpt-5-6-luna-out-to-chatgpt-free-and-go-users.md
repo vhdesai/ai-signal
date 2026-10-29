@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Lowyat.NET
 url_original: https://www.lowyat.net/2026/400781/chatgpt-free-go-luna-unlimited-chat/
 url_canonical: https://www.lowyat.net/2026/400781/chatgpt-free-go-luna-unlimited-chat/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 725160574ab4a0db2f364a23e98cccef1ce56ff4d9aca2d629f2415a70967b8d

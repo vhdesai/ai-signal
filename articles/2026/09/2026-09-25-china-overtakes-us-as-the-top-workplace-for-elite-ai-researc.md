@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3368809/china-overtakes-us-top-workplace-elite-ai-researchers-study-finds
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3368809/china-overtakes-us-top-workplace-elite-ai-researchers-study-finds
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 006f7cb8692bc308cd84bef85ecf95aefd202078f79cb2761a304bc47fbbf190

@@ -5,7 +5,7 @@ date: '2026-10-27'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/
 url_canonical: https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-28_131127_Inbox_Daily AI News Digest – October
   28, 2026.md
 content_hash: 35846484047af3bd7bd1becef460b6714a5a0a8a9eecba14c8d042d1670c55d2

@@ -5,7 +5,7 @@ date: '2026-10-12'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/
 url_canonical: https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 4fbfdd0f6f50a8b6ea2d656e65878e0d6e6ce730ad6cb9ec8651d15ba4620c4e
