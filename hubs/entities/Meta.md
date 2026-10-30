@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 935
+member_count: 938
 ---
 
 # Meta
 
-> Auto-generated entity hub. 935 connected article(s).
+> Auto-generated entity hub. 938 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
+- `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
 - `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]

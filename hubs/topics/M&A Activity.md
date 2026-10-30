@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 521
+member_count: 524
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 521 connected article(s).
+> Auto-generated topic hub. 524 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
+- `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-29` [[2026-10-29-october-29-2026-wall-street-journal|[October 29, 2026] · [Wall Street Journal]]]
 - `2026-10-28` [[2026-10-28-nvidia-faces-doj-questions-on-hugging-face-as-a-counterintel|Nvidia faces DOJ questions on Hugging Face as a counterintelligence report adds pressure]]
 - `2026-10-28` [[2026-10-28-anthropic-pushes-claude-deeper-into-drug-discovery-with-acqu|Anthropic pushes Claude deeper into drug discovery with acquisition and pharma partnerships]]
 - `2026-10-28` [[2026-10-28-anthropic-buys-a-one-person-biotech-and-starts-its-own-drug|Anthropic buys a one-person biotech and starts its own drug programmes]]

@@ -25,6 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
+- 2026-10-29-deepseek-s-16-billion-round-puts-chinese-state-capital-behin
 - 2026-06-03-deepseek-nears-7-4b-maiden-fundraise-led-by-tencent-and-catl
 - 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
 embedding_id: 2026-10-12-deepseek-backs-ex-tencent-scientist-s-400m-robotics-lab
@@ -40,5 +41,5 @@ DeepSeek is leading a $400M seed round for Winverse AI, a robotics startup found
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-06-03-deepseek-nears-7-4b-maiden-fundraise-led-by-tencent-and-catl]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]]
+**Related:** [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-10-29-deepseek-s-16-billion-round-puts-chinese-state-capital-behin]] · [[2026-06-03-deepseek-nears-7-4b-maiden-fundraise-led-by-tencent-and-catl]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]]
 <!-- graph:end -->

@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2282
+member_count: 2284
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2282 connected article(s).
+> Auto-generated topic hub. 2284 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
+- `2026-10-30` [[2026-10-30-runware-plans-an-assembly-line-for-prefabricated-ai-data-cen|Runware plans an assembly line for prefabricated AI data center pods]]
 - `2026-10-29` [[2026-10-29-october-29-2026-pitchbook|[October 29, 2026] · [PitchBook]]]
 - `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]
 - `2026-10-29` [[2026-10-29-marvell-explores-a-lumentum-deal-as-optical-interconnect-bec|Marvell explores a Lumentum deal as optical interconnect becomes an AI bottleneck]]

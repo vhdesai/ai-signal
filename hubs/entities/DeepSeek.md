@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 565
+member_count: 568
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 565 connected article(s).
+> Auto-generated entity hub. 568 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-29` [[2026-10-29-deepseek-s-16-billion-round-puts-chinese-state-capital-behin|DeepSeek's $16 billion round puts Chinese state capital behind a national AI champion]]
+- `2026-10-29` [[2026-10-29-crowdstrike-details-ai-driven-espionage-scaled-across-200-pl|CrowdStrike details AI-driven espionage scaled across 200-plus organizations]]
 - `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
 - `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]

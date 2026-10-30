@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 736
+member_count: 738
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 736 connected article(s).
+> Auto-generated entity hub. 738 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]
 - `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
 - `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]

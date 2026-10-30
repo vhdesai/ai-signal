@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1857
+member_count: 1861
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1857 connected article(s).
+> Auto-generated topic hub. 1861 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
+- `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-30` [[2026-10-30-runware-plans-an-assembly-line-for-prefabricated-ai-data-cen|Runware plans an assembly line for prefabricated AI data center pods]]
+- `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-29` [[2026-10-29-october-29-2026-pitchbook|[October 29, 2026] · [PitchBook]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-wall-street-journal|[October 28, 2026] · [Wall Street Journal]]]
 - `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]

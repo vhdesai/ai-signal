@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-09-warden-stealer-targets-claude-codex-grok-and-cursor-data
+- 2026-10-29-october-29-2026-cursor
 - 2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy
 - 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
-- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 embedding_id: 2026-10-10-rea-connects-claude-code-and-cursor-to-ghidra-and-ida-pro-wa
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CyberSecurityNews reports the REA tool connects Claude Code and Cursor to Ghidra
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-09-warden-stealer-targets-claude-codex-grok-and-cursor-data]] · [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
+**Related:** [[2026-10-09-warden-stealer-targets-claude-codex-grok-and-cursor-data]] · [[2026-10-29-october-29-2026-cursor]] · [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]]
 <!-- graph:end -->

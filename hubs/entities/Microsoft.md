@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1079
+member_count: 1081
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1079 connected article(s).
+> Auto-generated entity hub. 1081 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
+- `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-wall-street-journal|[October 28, 2026] · [Wall Street Journal]]]
 - `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]
 - `2026-10-29` [[2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec|Microsoft and Alphabet earnings split the market's AI scorecard]]

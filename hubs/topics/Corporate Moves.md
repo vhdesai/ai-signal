@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5066
+member_count: 5071
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5066 connected article(s).
+> Auto-generated topic hub. 5071 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
+- `2026-10-29` [[2026-10-29-october-30-2026-pitchbook|[October 30, 2026] · [PitchBook]]]
+- `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
+- `2026-10-29` [[2026-10-29-october-29-2026-wall-street-journal|[October 29, 2026] · [Wall Street Journal]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-wall-street-journal|[October 28, 2026] · [Wall Street Journal]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-techcrunch|[October 28, 2026] · [TechCrunch]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-cnbc|[October 28, 2026] · [CNBC]]]
@@ -17,6 +21,7 @@ member_count: 5066
 - `2026-10-29` [[2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back|NYSE's Lynn Martin says Anthropic's listing is holding back the IPO pipeline]]
 - `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]
 - `2026-10-29` [[2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec|Microsoft and Alphabet earnings split the market's AI scorecard]]
+- `2026-10-29` [[2026-10-29-deepseek-s-16-billion-round-puts-chinese-state-capital-behin|DeepSeek's $16 billion round puts Chinese state capital behind a national AI champion]]
 - `2026-10-29` [[2026-10-29-daishin-securities-reported-exposure-of-38-490-customers-per|Daishin Securities reported exposure of 38,490 customers' personal data, while Mirae Asset Global Investments and…]]
 - `2026-10-29` [[2026-10-29-daily-ai-news-digest-october-29-2026|Daily AI News Digest – October 29, 2026]]
 - `2026-10-29` [[2026-10-29-anthropic-s-ipo-is-setting-the-tempo-for-the-entire-listings|Anthropic's IPO is setting the tempo for the entire listings pipeline]]

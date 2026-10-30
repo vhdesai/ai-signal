@@ -5,8 +5,8 @@ title: Google ships Gemini 4 Carbon weeks after Argon, leading with cyber-defens
 date: '2026-10-29'
 source: '[The Information]; [October 28, 2026] · [Google]'
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-29_065728_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: adff935b8078d27560921464b3ff94da90a65da8e690a6bef4108c69a5ff7e8a

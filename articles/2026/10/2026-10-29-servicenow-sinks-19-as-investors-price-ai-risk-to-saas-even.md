@@ -5,8 +5,8 @@ title: ServiceNow sinks 19% as investors price AI risk to SaaS, even as it deepe
 date: '2026-10-29'
 source: '[The Information]; [October 28, 2026] · [OpenAI]'
 url_original: null
-url_canonical: https://finance.yahoo.com/markets/stocks/articles/servicenow-19-crash-says-wall-110258575.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-29_065728_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: b04a660d939826b5ec69052f2ef0bf05fb1ec928db346abc961b063b8a30f6f4

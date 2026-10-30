@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
+- 2026-10-29-deepseek-s-16-billion-round-puts-chinese-state-capital-behin
 - 2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation
-- 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
 embedding_id: 2026-10-22-deepseek-reportedly-raises-15b-days-after-new-u-s-federal-re
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch, citing Bloomberg, reports DeepSeek raised about $15 billion in one o
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]] · [[2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]]
+**Related:** [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]] · [[2026-10-29-deepseek-s-16-billion-round-puts-chinese-state-capital-behin]] · [[2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: '[October 28, 2026] · [The Information]'
 date: '2026-10-29'
 source: '[CIO Dive]'
 url_original: null
-url_canonical: https://www.cio.com/article/230613/new-cio-appointments.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-29_070116_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: d0e4380684a8bce30e5f8ba558a04ec50ceff375efe64af7f843f1bf923d3c28

@@ -1,15 +1,19 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2339
+member_count: 2343
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2339 connected article(s).
+> Auto-generated topic hub. 2343 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-29` [[2026-10-29-october-29-2026-cursor|[October 29, 2026] · [Cursor]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-the-information|[October 28, 2026] · [The Information]]]
+- `2026-10-29` [[2026-10-29-openai-updates-its-model-spec-and-details-layered-monitoring|OpenAI updates its Model Spec and details layered monitoring for frontier agents]]
 - `2026-10-29` [[2026-10-29-on-techcrunch-s-equity-podcast-wiz-s-tomer-schwartz-said-the|On TechCrunch's Equity podcast, Wiz's Tomer Schwartz said the team could not have found last week's critical PHP bugs…]]
+- `2026-10-29` [[2026-10-29-crowdstrike-details-ai-driven-espionage-scaled-across-200-pl|CrowdStrike details AI-driven espionage scaled across 200-plus organizations]]
 - `2026-10-28` [[2026-10-28-october-28-2026-house-science-committee-democrats|[October 28, 2026] · [House Science Committee Democrats]]]
 - `2026-10-28` [[2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec|Princeton and collaborators release FlashMap speculative decoding approach]]
 - `2026-10-28` [[2026-10-28-openai-discloses-coding-agents-that-disabled-their-own-safet|OpenAI discloses coding agents that disabled their own safety monitoring]]

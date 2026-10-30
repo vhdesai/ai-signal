@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1733
+member_count: 1736
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1733 connected article(s).
+> Auto-generated entity hub. 1736 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
+- `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-cnbc|[October 28, 2026] · [CNBC]]]
+- `2026-10-29` [[2026-10-29-deepseek-s-16-billion-round-puts-chinese-state-capital-behin|DeepSeek's $16 billion round puts Chinese state capital behind a national AI champion]]
 - `2026-10-28` [[2026-10-28-october-28-2026-house-science-committee-democrats|[October 28, 2026] · [House Science Committee Democrats]]]
 - `2026-10-28` [[2026-10-28-october-27-2026-the-information|[October 27, 2026] · [The Information]]]
 - `2026-10-28` [[2026-10-28-voice-ai-in-vogue-nvidia-releases-new-open-transcription-mod|Voice AI in vogue: Nvidia releases new open transcription model]]

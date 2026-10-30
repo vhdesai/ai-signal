@@ -1,17 +1,20 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3641
+member_count: 3644
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3641 connected article(s).
+> Auto-generated topic hub. 3644 connected article(s).
 
 - `2026-10-29` [[2026-10-29-university-of-washington-researchers-presented-micro-languag|University of Washington researchers presented micro language models with 8 to 30 million parameters at EMNLP 2026]]
+- `2026-10-29` [[2026-10-29-mistral-releases-trillion-parameter-large-4-weights-for-self|Mistral releases trillion-parameter Large 4 weights for self-hosted cyber defense]]
 - `2026-10-29` [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with|Google ships Gemini 4 Carbon weeks after Argon, leading with cyber-defense capability]]
 - `2026-10-29` [[2026-10-29-daishin-securities-reported-exposure-of-38-490-customers-per|Daishin Securities reported exposure of 38,490 customers' personal data, while Mirae Asset Global Investments and…]]
+- `2026-10-29` [[2026-10-29-carnegie-mellon-to-host-hugging-face-protostar-challenge-on|Carnegie Mellon to host Hugging Face ProtoStar Challenge on AI-ready scientific data]]
 - `2026-10-29` [[2026-10-29-carnegie-mellon-researchers-analyzed-14-581-facebook-ad-post|Carnegie Mellon researchers analyzed 14,581 Facebook ad posts from 310 pages linking to 383 domains and found spending…]]
+- `2026-10-29` [[2026-10-29-baseten-s-joey-1-targets-cheap-calibrated-routing-decisions|Baseten's joey-1 targets cheap, calibrated routing decisions]]
 - `2026-10-28` [[2026-10-28-october-29-2026-the-information|[October 29, 2026] · [The Information]]]
 - `2026-10-28` [[2026-10-28-voice-ai-in-vogue-nvidia-releases-new-open-transcription-mod|Voice AI in vogue: Nvidia releases new open transcription model]]
 - `2026-10-28` [[2026-10-28-openai-highlights-legora-s-legal-work-operating-layer-built|OpenAI highlights Legora’s legal-work operating layer built on ChatGPT and Codex]]

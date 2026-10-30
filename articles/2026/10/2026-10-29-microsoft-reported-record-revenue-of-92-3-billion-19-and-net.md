@@ -5,8 +5,8 @@ title: Microsoft reported record revenue of $92.3 billion (+19%) and net income 
 date: '2026-10-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.geekwire.com/2026/microsoft-azure-revenue-surges-48-to-33-2b-beating-expectations-as-cloud-and-ai-demand-grows/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-29_060610_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: 7369b02a079b0bbce391b63529842c80f4a67a6406eacfcb151884b6335eab95

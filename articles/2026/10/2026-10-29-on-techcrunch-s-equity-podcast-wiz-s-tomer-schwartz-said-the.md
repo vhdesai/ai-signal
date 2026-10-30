@@ -5,8 +5,8 @@ title: On TechCrunch's Equity podcast, Wiz's Tomer Schwartz said the team could 
 date: '2026-10-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-29_060610_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: e80396e7c00bc0d56d381a97cfb75658efd7bff8ce21acaf1c8d00302abeb1fd

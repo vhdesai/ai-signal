@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1329
+member_count: 1330
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1329 connected article(s).
+> Auto-generated topic hub. 1330 connected article(s).
 
+- `2026-10-29` [[2026-10-29-october-30-2026-pitchbook|[October 30, 2026] · [PitchBook]]]
 - `2026-10-29` [[2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back|NYSE's Lynn Martin says Anthropic's listing is holding back the IPO pipeline]]
 - `2026-10-29` [[2026-10-29-daily-ai-news-digest-october-29-2026|Daily AI News Digest – October 29, 2026]]
 - `2026-10-29` [[2026-10-29-anthropic-s-ipo-is-setting-the-tempo-for-the-entire-listings|Anthropic's IPO is setting the tempo for the entire listings pipeline]]

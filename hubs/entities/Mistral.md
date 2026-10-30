@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 258
+member_count: 260
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 258 connected article(s).
+> Auto-generated entity hub. 260 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-29` [[2026-10-29-mistral-releases-trillion-parameter-large-4-weights-for-self|Mistral releases trillion-parameter Large 4 weights for self-hosted cyber defense]]
 - `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
 - `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]

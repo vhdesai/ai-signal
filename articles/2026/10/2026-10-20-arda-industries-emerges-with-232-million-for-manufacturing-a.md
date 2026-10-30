@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-20-fundingmanufacturingarda-industries-emerges-with-232-million
+- 2026-10-29-october-30-2026-pitchbook
 - 2026-08-12-ai-coding-valuations-accelerate-cognition-40b-lovable-13-3b
 - 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
 - 2026-10-20-eka-robotics-raises-150-million-at-a-1-45-billion-valuation
-- 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
 embedding_id: 2026-10-20-arda-industries-emerges-with-232-million-for-manufacturing-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DealBook reports that Arda Industries is emerging from stealth with a $232 milli
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-10-20-fundingmanufacturingarda-industries-emerges-with-232-million]] · [[2026-08-12-ai-coding-valuations-accelerate-cognition-40b-lovable-13-3b]] · [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]] · [[2026-10-20-eka-robotics-raises-150-million-at-a-1-45-billion-valuation]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]]
+**Related:** [[2026-10-20-fundingmanufacturingarda-industries-emerges-with-232-million]] · [[2026-10-29-october-30-2026-pitchbook]] · [[2026-08-12-ai-coding-valuations-accelerate-cognition-40b-lovable-13-3b]] · [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]] · [[2026-10-20-eka-robotics-raises-150-million-at-a-1-45-billion-valuation]]
 <!-- graph:end -->

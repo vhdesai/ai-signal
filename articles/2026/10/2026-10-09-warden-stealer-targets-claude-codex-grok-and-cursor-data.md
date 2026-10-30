@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-10-rea-connects-claude-code-and-cursor-to-ghidra-and-ida-pro-wa
+- 2026-10-29-october-29-2026-cursor
 - 2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
-- 2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu
 embedding_id: 2026-10-09-warden-stealer-targets-claude-codex-grok-and-cursor-data
 event_name: ''
 ---
@@ -35,5 +35,5 @@ GBHackers reports Warden Stealer malware is targeting Claude, Codex, Grok, and C
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-10-rea-connects-claude-code-and-cursor-to-ghidra-and-ida-pro-wa]] · [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]]
+**Related:** [[2026-10-10-rea-connects-claude-code-and-cursor-to-ghidra-and-ida-pro-wa]] · [[2026-10-29-october-29-2026-cursor]] · [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]]
 <!-- graph:end -->

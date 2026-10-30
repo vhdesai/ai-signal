@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit
+- 2026-10-29-october-29-2026-cursor
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
-- 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 embedding_id: 2026-09-17-the-information-same-flaw-found-across-claude-code-codex-gem
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Information reported that the same vulnerability class was found across seve
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]]
+**Related:** [[2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit]] · [[2026-10-29-october-29-2026-cursor]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]]
 <!-- graph:end -->

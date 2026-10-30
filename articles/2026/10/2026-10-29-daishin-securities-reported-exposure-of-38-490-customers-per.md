@@ -5,8 +5,8 @@ title: Daishin Securities reported exposure of 38,490 customers' personal data, 
 date: '2026-10-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://news.jkn.co.kr/editions/english/post/1054676
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-29_060610_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: 843fe4d1fa2fd0e8f559c88870850751520b0b1f72b989b6cd7a06800d28d8b2

@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1692
+member_count: 1694
 ---
 
 # Google
 
-> Auto-generated entity hub. 1692 connected article(s).
+> Auto-generated entity hub. 1694 connected article(s).
 
+- `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-wall-street-journal|[October 28, 2026] · [Wall Street Journal]]]
+- `2026-10-29` [[2026-10-29-mistral-releases-trillion-parameter-large-4-weights-for-self|Mistral releases trillion-parameter Large 4 weights for self-hosted cyber defense]]
 - `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]
 - `2026-10-29` [[2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec|Microsoft and Alphabet earnings split the market's AI scorecard]]
 - `2026-10-29` [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with|Google ships Gemini 4 Carbon weeks after Argon, leading with cyber-defense capability]]

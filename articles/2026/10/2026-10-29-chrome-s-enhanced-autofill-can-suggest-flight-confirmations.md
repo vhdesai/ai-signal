@@ -5,8 +5,8 @@ title: Chrome's enhanced autofill can suggest flight confirmations, order and tr
 date: '2026-10-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-29_060610_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: 802c82839d4a013508d644e7333d289b0f3ef7c110b5d0a85152dd0aae357b70

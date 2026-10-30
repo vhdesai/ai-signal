@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-29-carnegie-mellon-to-host-hugging-face-protostar-challenge-on
 - 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 - 2026-08-20-how-much-of-the-internet-is-written-with-ai-roughly-a-third
-- 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 embedding_id: 2026-10-29-carnegie-mellon-researchers-analyzed-14-581-facebook-ad-post
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Carnegie Mellon researchers analyzed 14,581 Facebook ad posts from 310 pages lin
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-08-20-how-much-of-the-internet-is-written-with-ai-roughly-a-third]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
+**Related:** [[2026-10-29-carnegie-mellon-to-host-hugging-face-protostar-challenge-on]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-08-20-how-much-of-the-internet-is-written-with-ai-roughly-a-third]]
 <!-- graph:end -->

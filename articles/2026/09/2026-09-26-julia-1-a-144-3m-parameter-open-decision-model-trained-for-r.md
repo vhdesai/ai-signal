@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-26-supersonic-labs-releases-julia-1-a-144-3m-parameter-open-dec
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
+- 2026-10-29-baseten-s-joey-1-targets-cheap-calibrated-routing-decisions
 - 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
 embedding_id: 2026-09-26-julia-1-a-144-3m-parameter-open-decision-model-trained-for-r
 event_name: ''
@@ -37,5 +38,5 @@ Brazilian lab Supersonic Labs released Julia 1, a 144.3M-parameter Apache 2.0 mo
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-26-supersonic-labs-releases-julia-1-a-144-3m-parameter-open-dec]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]]
+**Related:** [[2026-09-26-supersonic-labs-releases-julia-1-a-144-3m-parameter-open-dec]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-10-29-baseten-s-joey-1-targets-cheap-calibrated-routing-decisions]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]]
 <!-- graph:end -->

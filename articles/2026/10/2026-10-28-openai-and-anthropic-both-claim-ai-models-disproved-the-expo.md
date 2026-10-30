@@ -5,7 +5,7 @@ date: '2026-10-28'
 source: '[The Information]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+Anthropic+cryptography
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+Anthropic+cryptography
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-29_070116_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: db1bd1d75cafd291a496c57ce862c97ccac4aca0bbf4ad19ac464384bbb30720

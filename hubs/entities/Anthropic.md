@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2475
+member_count: 2478
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2475 connected article(s).
+> Auto-generated entity hub. 2478 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
+- `2026-10-30` [[2026-10-30-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
+- `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-techcrunch|[October 28, 2026] · [TechCrunch]]]
 - `2026-10-29` [[2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back|NYSE's Lynn Martin says Anthropic's listing is holding back the IPO pipeline]]
 - `2026-10-29` [[2026-10-29-daily-ai-news-digest-october-29-2026|Daily AI News Digest – October 29, 2026]]

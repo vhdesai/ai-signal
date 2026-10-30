@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information
+- 2026-10-29-october-29-2026-cursor
 - 2026-10-28-github-expands-copilot-with-managed-projects-and-usage-based
 - 2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit
-- 2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod
 embedding_id: 2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Microsoft confirmed a worldwide GitHub impairment affecting the web experience, 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information]] · [[2026-10-28-github-expands-copilot-with-managed-projects-and-usage-based]] · [[2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit]] · [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod]]
+**Related:** [[2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information]] · [[2026-10-29-october-29-2026-cursor]] · [[2026-10-28-github-expands-copilot-with-managed-projects-and-usage-based]] · [[2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit]]
 <!-- graph:end -->

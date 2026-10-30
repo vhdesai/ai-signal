@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i
+- 2026-10-29-october-30-2026-pitchbook
 - 2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit
 - 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
@@ -36,5 +37,5 @@ Liner, an evidence-first AI research platform, raised $36.1 million in Series C 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
-**Related:** [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]]
+**Related:** [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-10-29-october-30-2026-pitchbook]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]]
 <!-- graph:end -->

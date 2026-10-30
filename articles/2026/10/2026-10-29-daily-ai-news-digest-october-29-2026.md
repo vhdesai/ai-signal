@@ -4,8 +4,8 @@ title: Daily AI News Digest – October 29, 2026
 date: '2026-10-29'
 source: 'Source window: October 27, 6:50 AM – October 29, 6:50 AM PDT'
 url_original: null
-url_canonical: https://www.action1.com/patch-tuesday/vulnerability-digest-october-2026-third-party-updates/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-29_065728_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: e538b9f13fc80bcb827bf85ebbfb58253814f131547d305bf261707b0b3b7bfb

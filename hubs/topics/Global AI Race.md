@@ -1,14 +1,17 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1679
+member_count: 1682
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1679 connected article(s).
+> Auto-generated topic hub. 1682 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-29` [[2026-10-29-deepseek-s-16-billion-round-puts-chinese-state-capital-behin|DeepSeek's $16 billion round puts Chinese state capital behind a national AI champion]]
 - `2026-10-29` [[2026-10-29-daishin-securities-reported-exposure-of-38-490-customers-per|Daishin Securities reported exposure of 38,490 customers' personal data, while Mirae Asset Global Investments and…]]
+- `2026-10-29` [[2026-10-29-crowdstrike-details-ai-driven-espionage-scaled-across-200-pl|CrowdStrike details AI-driven espionage scaled across 200-plus organizations]]
 - `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
 - `2026-10-28` [[2026-10-28-nvidia-faces-doj-questions-on-hugging-face-as-a-counterintel|Nvidia faces DOJ questions on Hugging Face as a counterintelligence report adds pressure]]
 - `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]

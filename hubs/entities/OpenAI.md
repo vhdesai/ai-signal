@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2820
+member_count: 2823
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2820 connected article(s).
+> Auto-generated entity hub. 2823 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-29` [[2026-10-29-october-29-2026-wall-street-journal|[October 29, 2026] · [Wall Street Journal]]]
 - `2026-10-29` [[2026-10-29-university-of-washington-researchers-presented-micro-languag|University of Washington researchers presented micro language models with 8 to 30 million parameters at EMNLP 2026]]
 - `2026-10-29` [[2026-10-29-servicenow-sinks-19-as-investors-price-ai-risk-to-saas-even|ServiceNow sinks 19% as investors price AI risk to SaaS, even as it deepens OpenAI ties]]
+- `2026-10-29` [[2026-10-29-openai-updates-its-model-spec-and-details-layered-monitoring|OpenAI updates its Model Spec and details layered monitoring for frontier agents]]
 - `2026-10-29` [[2026-10-29-on-techcrunch-s-equity-podcast-wiz-s-tomer-schwartz-said-the|On TechCrunch's Equity podcast, Wiz's Tomer Schwartz said the team could not have found last week's critical PHP bugs…]]
 - `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]
 - `2026-10-29` [[2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec|Microsoft and Alphabet earnings split the market's AI scorecard]]

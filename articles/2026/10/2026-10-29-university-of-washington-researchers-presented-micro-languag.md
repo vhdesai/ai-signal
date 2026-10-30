@@ -5,8 +5,8 @@ title: University of Washington researchers presented micro language models with
 date: '2026-10-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://arxiv.org/abs/2604.19642
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-29_060610_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: 5aa803b5db3c571b96b79db891d37273d0f050298e46e26e9e0c16ce7611e143
