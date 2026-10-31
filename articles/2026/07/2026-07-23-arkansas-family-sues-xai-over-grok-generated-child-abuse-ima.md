@@ -4,8 +4,8 @@ title: Arkansas Family Sues xAI Over Grok-Generated Child-Abuse Images
 date: '2026-07-23'
 source: Unite.AI**
 url_original: https://www.unite.ai/arkansas-family-sues-xai-over-grok-child-abuse-images/
-url_canonical: https://www.unite.ai/arkansas-family-sues-xai-over-grok-child-abuse-images/
-url_status: broken
+url_canonical: https://www.europesays.com/ai/117011/
+url_status: repaired
 digest_source: digests\raw\2026-07-24_065052_Final-Daily-AI-News-Digest.md
 content_hash: 10318b7814e694995b5599c003a18a3d80c69255cbee6370ec6a3a64c4e14734
 normalized_title_hash: bae0c9f959f3136e

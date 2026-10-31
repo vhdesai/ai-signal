@@ -4,8 +4,8 @@ title: 'Baseten CEO: AI Inference Is a New Cloud Layer, Distinct From Hyperscale
 date: '2026-05-19'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hopper.webdirections.org/share/0da4183fe4339afd/e600d2f6-4594-11f1-8bd7-fbfbbecaebaa
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: d46ff79f2c1499d6201d71b4ce1a702b4283bbbc824af78560630557351c6ea9

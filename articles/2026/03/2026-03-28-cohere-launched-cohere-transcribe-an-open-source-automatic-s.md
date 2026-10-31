@@ -5,8 +5,8 @@ title: 'Cohere launched Cohere Transcribe, an open-source automatic speech recog
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cohere.com/blog/transcribe
+url_status: repaired
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: a271424b302c9771958af27c5781a1e15772827b7f5720e7d9a58e74d71b6ee3

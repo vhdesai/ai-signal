@@ -4,8 +4,8 @@ title: IBM says AI hardware cost pressure delayed mainframe purchases
 date: '2026-07-22'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aidirectory.com/news/ibm-ai-spending-delayed-mainframe-purchases-weak-quarter
+url_status: repaired
 digest_source: digests\raw\2026-07-23-daily-ai-news-digest.md
 content_hash: 1db1fd5fb184d7f82985502aea924c124cf78579e63f790bf504e43acda32b05
 normalized_title_hash: f2bb9ccd7f9625ac

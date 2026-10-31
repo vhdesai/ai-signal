@@ -4,8 +4,8 @@ title: Government fight with Anthropic raises broader free-speech questions
 date: '2026-07-13'
 source: The New York Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/322372/20260730/pentagons-anthropic-case-gotten-worse-judge-signals-first-amendment-stakes-all-ai-companies.htm
+url_status: repaired
 digest_source: digests\raw\2026-07-13-daily-ai-news-digest.md
 content_hash: 7db358ae9319058f0afc4b4b4aa5fdfac9aa0efcb30db2a8f4113b45c8759e57
 normalized_title_hash: 681662991d777048

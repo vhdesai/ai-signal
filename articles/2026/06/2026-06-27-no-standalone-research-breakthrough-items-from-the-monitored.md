@@ -5,8 +5,8 @@ title: No standalone research‑breakthrough items from the monitored labs carri
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.buildthisnow.com/blog/guide/mechanics/ai-research-june-2026
+url_status: repaired
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 1134b4b0ec00548fd2ab0c69bd7bb041baa71a8d23133901401aedbb4c7a92e1

@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1330
+member_count: 1333
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1330 connected article(s).
+> Auto-generated topic hub. 1333 connected article(s).
 
+- `2026-10-31` [[2026-10-31-openai-s-latest-round-reportedly-falls-well-short-of-its-30|OpenAI's latest round reportedly falls well short of its $30 billion goal]]
+- `2026-10-31` [[2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr|Drug discovery becomes a frontier-lab growth story for Anthropic and Isomorphic Labs]]
+- `2026-10-30` [[2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra|Anthropic's financing stack shows strain: an expected junk rating and an Nvidia backstop]]
 - `2026-10-29` [[2026-10-29-october-30-2026-pitchbook|[October 30, 2026] · [PitchBook]]]
 - `2026-10-29` [[2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back|NYSE's Lynn Martin says Anthropic's listing is holding back the IPO pipeline]]
 - `2026-10-29` [[2026-10-29-daily-ai-news-digest-october-29-2026|Daily AI News Digest – October 29, 2026]]

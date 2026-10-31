@@ -5,8 +5,8 @@ title: That sort of multiyear government contract still accounts for a lot of mi
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.brookings.edu/articles/the-evolution-of-artificial-intelligence-ai-spending-by-the-u-s-government/
+url_status: repaired
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: a8d0b9d1d5e4bbdb6cfeef340b34d19c77ebb834f00066135603f8d6291f1978
 normalized_title_hash: 1c6635603f711a83

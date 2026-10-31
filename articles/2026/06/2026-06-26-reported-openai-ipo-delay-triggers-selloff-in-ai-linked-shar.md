@@ -4,8 +4,8 @@ title: Reported OpenAI IPO delay triggers selloff in AI-linked shares
 date: '2026-06-26'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ainvest.com/news/openai-ipo-delay-report-triggers-chip-selloff-nvidia-micron-amd-crosshairs-2606/
+url_status: repaired
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 8ae6484eff825069e8b6b271be37c78ca9c8000a50edb60770fe29d437a61321

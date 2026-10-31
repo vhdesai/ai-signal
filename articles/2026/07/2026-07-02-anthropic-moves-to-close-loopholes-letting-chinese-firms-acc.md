@@ -4,8 +4,8 @@ title: Anthropic moves to close loopholes letting Chinese firms access Claude
 date: '2026-07-02'
 source: Financial Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.banklesstimes.com/articles/2026/07/03/anthropic-moves-to-block-chinese-firms-using-claude-via-offshore-workarounds/
+url_status: repaired
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 2d676bccc93452ef39015d13f7f9288e42cd2c2625dab4d0b80b8d657f0e3f24

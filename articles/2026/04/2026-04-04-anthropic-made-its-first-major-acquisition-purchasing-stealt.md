@@ -5,8 +5,8 @@ title: Anthropic made its first major acquisition, purchasing stealth biotech AI
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 4e9748b5ba6425b9251a1ef4e592c2259930189d06578c1c303f1da7918e35db

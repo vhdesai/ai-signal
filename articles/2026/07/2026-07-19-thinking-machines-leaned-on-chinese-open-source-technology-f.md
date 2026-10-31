@@ -4,8 +4,8 @@ title: Thinking Machines leaned on Chinese open-source technology for its debut 
 date: '2026-07-19'
 source: Financial Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thevalue.engineering/news/mira-murati-inkling-thinking-machines-launch.html
+url_status: repaired
 digest_source: digests\raw\2026-07-20_065739_Final-Daily-AI-News-Digest.md
 content_hash: 6d88390f0c4d5ab361235e8f674ea70bec5369190d79924c65d4f25492afec1f
 normalized_title_hash: d1acdebd20092a4d

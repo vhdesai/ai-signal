@@ -5,8 +5,8 @@ title: Google opened Gemini's Nano Banana–powered personalized image generatio
 date: '2026-06-30'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/
+url_status: repaired
 digest_source: digests\raw\2026-06-30_062533_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 42334853041c66a3a279992b6b0ca7f4eb05787a697c86b4fc34e0d2f39d5639

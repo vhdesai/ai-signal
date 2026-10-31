@@ -4,8 +4,8 @@ title: OpenRouter Raises $113M Series B at $1.3B Valuation Led by CapitalG
 date: '2026-05-26'
 source: TechCrunch / PitchBook
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071821_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 11d76420850bf43a505d809ad4d48f5945d88948e5c4ad3ec5d505095117a538

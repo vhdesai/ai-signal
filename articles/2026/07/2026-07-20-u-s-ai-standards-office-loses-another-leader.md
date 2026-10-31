@@ -4,8 +4,8 @@ title: U.S. AI standards office loses another leader
 date: '2026-07-20'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.thebrief.news/en/standard/article/4671/nists-ai-standards-agency-loses-its-third-director-of-2026
+url_status: repaired
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: c4753569801f3b94ae4180aa913afac6d8b02ae48b2818e697de97f28ef62076
 normalized_title_hash: c5ba017881a760b2

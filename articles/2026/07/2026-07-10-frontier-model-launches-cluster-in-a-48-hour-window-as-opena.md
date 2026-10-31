@@ -5,8 +5,8 @@ title: Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Me
 date: '2026-07-10'
 source: 'Source window: last 24 hours (Jul 9, 06:09 – Jul 10, 06:09 PDT) · 10 items'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/new-ai-model-announcements-openai-meta-grok-2026-7
+url_status: repaired
 digest_source: digests\raw\2026-07-10_061848_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: b120fbcc2b3b1284fa1f1f8da4505643cb3d4c85afb551d9db4f53f1fb007233

@@ -5,8 +5,8 @@ title: 92,000+ Tech Layoffs in First Five Months of 2026 — Meta, Microsoft, Am
 date: '2026-05-11'
 source: 🔗 Economic Times  · 🏢 Industry-wide
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://economictimes.indiatimes.com/news/new-updates/over-92000-tech-layoffs-in-just-5-months-of-2026-ai-replacing-jobs-faster-than-expected-as-meta-microsoft-amazon-job-cuts-trigger-fear-in-us/articleshow/131010353.cms
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: fe66899af3139a0616bb35faac7f15e4898fef3e752b73072df146e479a45b5f

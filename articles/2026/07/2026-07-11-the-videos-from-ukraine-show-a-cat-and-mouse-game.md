@@ -4,8 +4,8 @@ title: The videos from Ukraine show a cat-and-mouse game
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.kyivpost.com/videos/69362
+url_status: repaired
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: 3605d148238194a680ba12053f3db6a26cb217092a76374ab6f5c2b6ab449268
 normalized_title_hash: 571baea78a84319c

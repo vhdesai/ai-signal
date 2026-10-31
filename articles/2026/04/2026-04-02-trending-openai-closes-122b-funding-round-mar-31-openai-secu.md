@@ -5,8 +5,8 @@ title: '[TRENDING] OpenAI Closes $122B Funding Round (Mar 31) OpenAI secured $12
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 2027fe86b7e723919b59f04aac06e1a08123b7976069d5d8b0ee4315c398ad26

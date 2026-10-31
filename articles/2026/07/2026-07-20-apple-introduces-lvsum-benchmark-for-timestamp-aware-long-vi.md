@@ -4,8 +4,8 @@ title: Apple introduces LVSum benchmark for timestamp-aware long video summariza
 date: '2026-07-20'
 source: Apple Machine Learning Research
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://machinelearning.apple.com/research/lvsum-video-summarization
+url_status: repaired
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: f53f8984eb2f86374966114ea31b9cab5018224e55c46353972197cc6ba8a512
 normalized_title_hash: '7666008271647521'

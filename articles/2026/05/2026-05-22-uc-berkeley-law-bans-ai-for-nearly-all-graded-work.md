@@ -4,8 +4,8 @@ title: UC Berkeley Law Bans AI for Nearly All Graded Work
 date: '2026-05-22'
 source: Forbes / Yahoo / The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.yahoo.com/news/politics/articles/uc-berkeley-law-bans-ai-150051078.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 6ede8a26eda108c2e3beffb1b4ab05554ffac7c885a3bdd02abbc929ff787730

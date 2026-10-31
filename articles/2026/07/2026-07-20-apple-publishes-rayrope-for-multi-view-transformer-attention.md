@@ -4,8 +4,8 @@ title: Apple publishes RayRoPE for multi-view transformer attention
 date: '2026-07-20'
 source: Apple Machine Learning Research
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://machinelearning.apple.com/research/rayrope-projective-ray
+url_status: repaired
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: 3676d752d2ea004e02171fd7375c4dddfe38fafec250ecc8bd666aabf25b5968
 normalized_title_hash: 414fe9fdd8cedd41

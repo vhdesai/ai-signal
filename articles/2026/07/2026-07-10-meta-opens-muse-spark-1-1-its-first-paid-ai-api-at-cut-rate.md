@@ -4,8 +4,8 @@ title: Meta opens Muse Spark 1.1 — its first paid AI API — at cut-rate prici
 date: '2026-07-10'
 source: 'Source: Android Authority / Bloomberg'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/320088/20260710/metas-muse-spark-11-opens-paid-api-one-quarter-anthropic-openai-rates.htm
+url_status: repaired
 digest_source: digests\raw\2026-07-10_060949_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 74ae844b8f62019491af7248335ac237ccb4eba606dcb57dc0afab8531604b79

@@ -4,8 +4,8 @@ title: 'CFO-ing in the AI era: measuring outcomes when the rules keep moving'
 date: '2026-05-04'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/cfo-advice-managing-budgets-ai-amy-butte-2026-5
+url_status: repaired
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: 182b2e4e3f75d20df244e6b96ff690e4412615a06ad6005be62afba43d1199d1

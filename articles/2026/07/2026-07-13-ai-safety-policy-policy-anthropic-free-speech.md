@@ -5,8 +5,8 @@ date: '2026-07-13'
 source: Government fight with Anthropic raises broader free-speech questions July
   13, 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.motherjones.com/politics/2026/10/anthropics-ai-safety-bill-has-an-alarming-threshold-for-government-action/
+url_status: repaired
 digest_source: digests\raw\2026-07-13_060546_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: c3ec9394b31ca0a1549c1c9d12704d65564e79037e074c4efeeababeed79de21

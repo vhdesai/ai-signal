@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1694
+member_count: 1697
 ---
 
 # Google
 
-> Auto-generated entity hub. 1694 connected article(s).
+> Auto-generated entity hub. 1697 connected article(s).
 
+- `2026-10-31` [[2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr|Drug discovery becomes a frontier-lab growth story for Anthropic and Isomorphic Labs]]
+- `2026-10-30` [[2026-10-30-october-30-2026-google|[October 30, 2026] · [Google]]]
+- `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
 - `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-wall-street-journal|[October 28, 2026] · [Wall Street Journal]]]
 - `2026-10-29` [[2026-10-29-mistral-releases-trillion-parameter-large-4-weights-for-self|Mistral releases trillion-parameter Large 4 weights for self-hosted cyber defense]]

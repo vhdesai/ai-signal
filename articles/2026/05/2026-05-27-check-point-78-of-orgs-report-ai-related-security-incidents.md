@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: Check Point / AiThority
 url_original: https://aithority.com/
 url_canonical: https://aithority.com/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 2aaba4e0e0f99ea757df20a680d0b45361d833b8dab1a0d4abb00e673bd3b193

@@ -4,8 +4,8 @@ title: Advocates tell Google to fix AI Mode or leave classrooms
 date: '2026-07-19'
 source: Mashable
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://mashable.com/tech/is-google-search-ai-mode-safe-for-students
+url_status: repaired
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: d0ca64815b94f1671782b22765dc9d1fea981df95c2724179881066a13ca53c3
 normalized_title_hash: 935b76c343e7e8b2

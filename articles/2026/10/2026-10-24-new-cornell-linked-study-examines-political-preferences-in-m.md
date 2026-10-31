@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 - 2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod
-- 2026-10-24-cross-model-political-preference-findings-raise-governance-a
+- 2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi
 embedding_id: 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 event_name: ''
 ---
@@ -48,5 +48,5 @@ TechCrunch reports Cornell-led testing found partisan differences in forced-choi
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Apple]] · [[Databricks]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod]] · [[2026-10-24-cross-model-political-preference-findings-raise-governance-a]]
+**Related:** [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod]] · [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi]]
 <!-- graph:end -->

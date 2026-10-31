@@ -4,8 +4,8 @@ title: 'Microsoft Build 2026: Azure, Fabric, data, and app platform'
 date: '2026-06-02'
 source: Microsoft Build 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/
+url_status: repaired
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
 content_hash: 66d1998f6d95b591ed31c224834a1b2249b4bb97b2a419617652bf326515c953
 normalized_title_hash: 2d28f68a916f1e2e

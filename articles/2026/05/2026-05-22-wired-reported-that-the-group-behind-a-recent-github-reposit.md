@@ -5,8 +5,8 @@ title: Wired reported that the group behind a recent GitHub repositories breach 
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: fbb92c14afb698896392f62df1682f0928f4e48e55f45e0f8bb5c997be2119a4

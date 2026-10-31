@@ -5,8 +5,8 @@ title: After the White House staggered OpenAI's GPT‑5.6 rollout and temporaril
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenewstack.io/openai-gpt56-access-restricted/
+url_status: repaired
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: b3c327f8cc638b6995cef1c1745559ee7d17ff36788301b4c4f459c7cd01c672

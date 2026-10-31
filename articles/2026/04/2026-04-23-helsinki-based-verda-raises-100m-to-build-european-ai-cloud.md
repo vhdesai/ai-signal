@@ -4,8 +4,8 @@ title: Helsinki-based Verda raises €100M to build European AI cloud
 date: '2026-04-23'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://nordictech.news/p/verda-raises-100m-ai-cloud-helsinki
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 6e1c4dfd67ab6029c73496ca187da12acd97a752e076adda2b8ea6cabb851be8

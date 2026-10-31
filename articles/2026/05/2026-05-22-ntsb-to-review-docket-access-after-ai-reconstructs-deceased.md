@@ -4,8 +4,8 @@ title: NTSB to review docket access after AI reconstructs deceased pilots' voice
 date: '2026-05-22'
 source: 'Source: TechCrunch via Creati.ai'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: ab61c6e7de6afff5eda72f1e4a06e747d53ba62aef08718079cfc2a578c15404

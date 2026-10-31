@@ -5,8 +5,8 @@ title: Canva's updated AI assistant now uses its AI model to let users create ed
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 4051cf47d86615b722ab77c08209b757161cfad36cb155568d6a1135a95d9c3d

@@ -4,8 +4,8 @@ title: 'Q1 2026 cloud market: $129B record, AI as the wedge'
 date: '2026-05-04'
 source: CRN
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.crn.com/news/cloud/2026/cloud-market-share-q1-2026-aws-microsoft-google-battling-in-ai-era
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: e15d87e41b36cdbc17b1554a4666a83659334baad1dcb33aef46bf4acc2f73df
 normalized_title_hash: dedae62c687fb080

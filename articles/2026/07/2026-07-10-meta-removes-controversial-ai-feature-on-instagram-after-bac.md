@@ -4,8 +4,8 @@ title: Meta removes controversial AI feature on Instagram after backlash
 date: '2026-07-10'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/
+url_status: repaired
 digest_source: digests\raw\2026-07-12_061123_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 9bc1fba380386365876aff9c059dd18bdba305cb4e5fbd8752d6a80b28bc3464

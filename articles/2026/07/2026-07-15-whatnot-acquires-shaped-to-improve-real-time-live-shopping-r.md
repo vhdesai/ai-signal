@@ -4,8 +4,8 @@ title: Whatnot acquires Shaped to improve real-time live shopping recommendation
 date: '2026-07-15'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/
+url_status: repaired
 digest_source: digests\raw\2026-07-16-daily-ai-news-digest.md
 content_hash: 4cbf0e2cac38d9e545f2c357997f9e3898bf42bfc0cf13fe21422306055525b2
 normalized_title_hash: 718fe8c58b2003ee

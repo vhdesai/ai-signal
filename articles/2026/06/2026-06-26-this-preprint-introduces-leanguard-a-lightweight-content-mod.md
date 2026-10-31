@@ -5,8 +5,8 @@ title: This preprint introduces LeanGuard, a lightweight content-moderation and 
 date: '2026-06-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2606.26686
+url_status: repaired
 digest_source: digests\raw\2026-06-26_060327_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 726ff4261a5aa25ce712365e6693ad0aa14ad64a6702fd04df34bae5c42cc30a

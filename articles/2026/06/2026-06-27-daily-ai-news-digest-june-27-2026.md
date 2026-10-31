@@ -4,8 +4,8 @@ title: Daily AI News Digest – June 27, 2026
 date: '2026-06-27'
 source: 09:18 AM PDT
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://digestlibrary.com/2026/09/04/khwateen-digest-june-2026/
+url_status: repaired
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 6a488066203e357a4167fb752fbe3be074ef87d9190fea3ae08aff92a5774d6b

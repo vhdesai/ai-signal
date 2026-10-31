@@ -4,8 +4,8 @@ title: ChatGPT Ads Launch in UK as OpenAI Outlines EU Privacy Rules
 date: '2026-06-08'
 source: Digiday
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://digiday.com/marketing/chatgpt-ads-land-in-u-k-as-openai-outlines-eu-privacy-rules/
+url_status: repaired
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: 6bc844d944f0d8263ff170410b61e51d57607c7af1e6bde3d12d25595cf54d86
 normalized_title_hash: 117bf5163eda225f

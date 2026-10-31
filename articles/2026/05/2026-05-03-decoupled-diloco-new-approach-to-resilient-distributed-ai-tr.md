@@ -4,8 +4,8 @@ title: 'Decoupled DiLoCo: New Approach to Resilient, Distributed AI Training'
 date: '2026-05-03'
 source: Google DeepMind Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://deepmind.google/blog/decoupled-diloco/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080843_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: e2b47d7dd28b88993d4778c7e75fd2881f8cb5bb7dfc9283a5bdcffce678cfc3
 normalized_title_hash: 3d7042071bcfcb9d

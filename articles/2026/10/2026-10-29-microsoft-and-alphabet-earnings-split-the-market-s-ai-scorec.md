@@ -27,8 +27,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-29-october-28-2026-wall-street-journal
 - 2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex
+- 2026-10-31-october-30-2026-wall-street-journal
 - 2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi
-- 2026-10-29-october-30-2026-dealbook
 embedding_id: 2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Microsoft grew revenue 19% to $92.3 billion, Azure rose 48% to $33 billion, and 
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-29-october-28-2026-wall-street-journal]] · [[2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex]] · [[2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi]] · [[2026-10-29-october-30-2026-dealbook]]
+**Related:** [[2026-10-29-october-28-2026-wall-street-journal]] · [[2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex]] · [[2026-10-31-october-30-2026-wall-street-journal]] · [[2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi]]
 <!-- graph:end -->

@@ -1,14 +1,16 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2343
+member_count: 2345
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2343 connected article(s).
+> Auto-generated topic hub. 2345 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-30-2026-microsoft-bing-blog|[October 30, 2026] · [Microsoft Bing Blog]]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
 - `2026-10-29` [[2026-10-29-october-29-2026-cursor|[October 29, 2026] · [Cursor]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-the-information|[October 28, 2026] · [The Information]]]
 - `2026-10-29` [[2026-10-29-openai-updates-its-model-spec-and-details-layered-monitoring|OpenAI updates its Model Spec and details layered monitoring for frontier agents]]

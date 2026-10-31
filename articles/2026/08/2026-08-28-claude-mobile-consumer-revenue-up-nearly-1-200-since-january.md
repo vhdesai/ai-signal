@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-30-anthropic-s-internal-claude-usage-now-exceeds-its-payroll-at
 - 2026-03-30-anthropic-paid-subscriptions-more-than-doubled-in-2026
 - 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b
 - 2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue
-- 2026-08-18-anthropic-s-annualized-revenue-tops-65-billion-ahead-of-ipo
 embedding_id: 2026-08-28-claude-mobile-consumer-revenue-up-nearly-1-200-since-january
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic’s Claude generated an estimated $97.2M in mobile consumer revenue in
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-30-anthropic-paid-subscriptions-more-than-doubled-in-2026]] · [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b]] · [[2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue]] · [[2026-08-18-anthropic-s-annualized-revenue-tops-65-billion-ahead-of-ipo]]
+**Related:** [[2026-10-30-anthropic-s-internal-claude-usage-now-exceeds-its-payroll-at]] · [[2026-03-30-anthropic-paid-subscriptions-more-than-doubled-in-2026]] · [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b]] · [[2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue]]
 <!-- graph:end -->

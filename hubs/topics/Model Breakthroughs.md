@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3644
+member_count: 3646
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3644 connected article(s).
+> Auto-generated topic hub. 3646 connected article(s).
 
+- `2026-10-31` [[2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr|Drug discovery becomes a frontier-lab growth story for Anthropic and Isomorphic Labs]]
+- `2026-10-30` [[2026-10-30-microsoft-research-and-uc-berkeley-s-tokeneconomizer-cuts-co|Microsoft Research and UC Berkeley's TokenEconomizer cuts coding-agent costs by up to 31%]]
 - `2026-10-29` [[2026-10-29-university-of-washington-researchers-presented-micro-languag|University of Washington researchers presented micro language models with 8 to 30 million parameters at EMNLP 2026]]
 - `2026-10-29` [[2026-10-29-mistral-releases-trillion-parameter-large-4-weights-for-self|Mistral releases trillion-parameter Large 4 weights for self-hosted cyber defense]]
 - `2026-10-29` [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with|Google ships Gemini 4 Carbon weeks after Argon, leading with cyber-defense capability]]

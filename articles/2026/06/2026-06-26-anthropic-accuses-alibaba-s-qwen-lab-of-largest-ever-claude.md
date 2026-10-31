@@ -5,8 +5,8 @@ title: Anthropic accuses Alibaba's Qwen lab of largest-ever Claude "distillation
 date: '2026-06-26'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/
+url_status: repaired
 digest_source: digests\raw\2026-06-28_060911_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 1451463b8ea05420da37dbe75ac51e29d6ad8c272a65bf2e86cf4ff65933eee9

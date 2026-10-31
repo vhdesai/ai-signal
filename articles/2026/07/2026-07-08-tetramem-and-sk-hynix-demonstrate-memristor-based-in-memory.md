@@ -4,8 +4,8 @@ title: TetraMem and SK hynix Demonstrate Memristor-Based In-Memory Computing SoC
 date: '2026-07-08'
 source: Business Wire
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tetramem.com/joint-research-paper-with-sk-hynix-published-a-memristor-based-in-memory-computing-soc-with-efficient-depthwise-convolution/
+url_status: repaired
 digest_source: digests\raw\2026-07-08_070221_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: ad2c1187202cfd047b6db5f9abee39e3ba5858985dc0deaa2b96d2c4258aa876

@@ -4,8 +4,8 @@ title: EU Forces Meta to Readmit ChatGPT to WhatsApp; Distribution Battles Inten
 date: '2026-07-13'
 source: Multiple sources
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/320541/20260715/eu-forces-meta-reopen-whatsapp-chatgpt-after-rare-antitrust-order.htm
+url_status: repaired
 digest_source: digests\raw\2026-07-14_065240_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: ab4f614fd024a52fc96c99de7730e24eec120bc5f39ec990bacb78584060d545

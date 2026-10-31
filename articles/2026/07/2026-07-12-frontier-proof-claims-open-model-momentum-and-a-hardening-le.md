@@ -5,8 +5,8 @@ title: Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Polic
 date: '2026-07-12'
 source: 'Source window: Jul 11 06:17 – Jul 12 06:17 PDT'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://policywindow.org/wiki/meta-frontier-ai-framework
+url_status: repaired
 digest_source: digests\raw\2026-07-12_063131_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: ac594bb719b9367c52c3adee187419a01c04f034ff1dd095dbeb36ea92f5279a

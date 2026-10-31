@@ -5,8 +5,8 @@ title: As of yesterday, Microsoft removed free Copilot Chat access from Word, Ex
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcommunity.microsoft.com/discussions/microsoft-copilot/removal-of-copilot-chat-availability-in-m365-apps/4502990
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: d7ea27803ee95217c98e76da1c7d2283391ba1edca2c671f79a70a8871b0b551

@@ -4,8 +4,8 @@ title: Amazon CTO says enterprises are pivoting to cheaper open-source models
 date: '2026-07-10'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fortune.com/2026/07/10/amazon-cto-companies-shifting-toward-cheaper-opensource-ai-models-werner-vogels/
+url_status: repaired
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
 content_hash: 39a7480f4227d4f8e39bb44be5b495ab7fc5889d409f4a4da60e84c41dc337f4

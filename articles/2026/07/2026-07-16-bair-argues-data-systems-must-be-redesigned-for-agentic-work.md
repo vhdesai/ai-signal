@@ -4,8 +4,8 @@ title: BAIR argues data systems must be redesigned for agentic workloads
 date: '2026-07-16'
 source: BAIR Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/
+url_status: repaired
 digest_source: digests\raw\2026-07-16-daily-ai-news-digest.md
 content_hash: 682050fea3e458ef530b7f211b84eb60e1bcfbd023823977385937cafcf2c214
 normalized_title_hash: 29954c587d1b7d32

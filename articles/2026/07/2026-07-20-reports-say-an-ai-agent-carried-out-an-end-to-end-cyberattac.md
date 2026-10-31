@@ -5,8 +5,8 @@ title: Reports say an AI agent carried out an end-to-end cyberattack against Hug
 date: '2026-07-20'
 source: Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://metr.org/hugging-face-incident-report-aug-2026.pdf
+url_status: repaired
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: 1406858885c39079d56f39f4d5badadc7c00e26e5a8f53eb59ed1f5c01b01cad
 normalized_title_hash: 1695c29b628b1f97

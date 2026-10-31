@@ -4,8 +4,8 @@ title: Trump Kills AI Safety Executive Order After Musk, Zuckerberg, and Sacks I
 date: '2026-05-22'
 source: Semafor / The Decoder / Axios / Washington Post
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/trump-pulls-ai-safety-order-after-last-minute-calls-from-musk-zuckerberg-and-sacks/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 345e9575790f3b02cc5e6e8c996e05122105c0e42ebff7955ed4cbc5f2f4f362

@@ -1,14 +1,18 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1081
+member_count: 1085
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1081 connected article(s).
+> Auto-generated entity hub. 1085 connected article(s).
 
+- `2026-10-31` [[2026-10-31-october-30-2026-wall-street-journal|[October 30, 2026] · [Wall Street Journal]]]
+- `2026-10-30` [[2026-10-30-october-30-2026-microsoft-bing-blog|[October 30, 2026] · [Microsoft Bing Blog]]]
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
+- `2026-10-30` [[2026-10-30-microsoft-research-and-uc-berkeley-s-tokeneconomizer-cuts-co|Microsoft Research and UC Berkeley's TokenEconomizer cuts coding-agent costs by up to 31%]]
+- `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
 - `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-wall-street-journal|[October 28, 2026] · [Wall Street Journal]]]
 - `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]

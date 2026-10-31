@@ -4,8 +4,8 @@ title: 'Anthropic CFO: More Than 90% of Code at Anthropic Now Written by Claude 
 date: '2026-05-16'
 source: 📰 The Economic Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-claude-writes-90-of-code-cfo-krishna-rao-reveals-productivity-gains/articleshow/131121594.cms
+url_status: repaired
 digest_source: digests\raw\2026-05-16_071157_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: b8d6f491d76aef2ab3f63918d6dfd11b71416cc167fae5b8dc748b75ed81756d

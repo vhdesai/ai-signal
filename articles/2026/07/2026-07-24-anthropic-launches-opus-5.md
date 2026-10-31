@@ -4,8 +4,8 @@ title: Anthropic launches Opus 5
 date: '2026-07-24'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/
+url_status: repaired
 digest_source: digests\raw\2026-07-25-daily-ai-news-digest.md
 content_hash: 28d94cbb9c6e1ecb99023d6fd17e9191184a53f02f204c219b350e59172d5b56
 normalized_title_hash: ee4bf367c6ab8769

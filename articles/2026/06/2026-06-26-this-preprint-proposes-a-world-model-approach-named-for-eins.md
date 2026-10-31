@@ -5,8 +5,8 @@ title: This preprint proposes a "world model" approach, named for Einstein, aime
 date: '2026-06-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/html/2607.06401v1
+url_status: repaired
 digest_source: digests\raw\2026-06-26_060327_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: b7567c1f07b6ce3852e14dbe00965a365d13b0cd1466c5e98ad66419284ed53b

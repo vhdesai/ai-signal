@@ -4,8 +4,8 @@ title: Anthropic's $1.5 billion copyright settlement receives final approval
 date: '2026-07-20'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/
+url_status: repaired
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: 764760a3d5036892583c0568dab461977417a7c96fd5071d7944243276ae82c3
 normalized_title_hash: 15650b327f64159e

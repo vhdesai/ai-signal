@@ -4,8 +4,8 @@ title: News organizations ask a federal court to sanction OpenAI in copyright ca
 date: '2026-07-09'
 source: 'Source: UPI'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aljazeera.com/economy/2026/7/9/nyt-led-group-asks-court-to-sanction-openai-in-us-copyright-dispute
+url_status: repaired
 digest_source: digests\raw\2026-07-10_060949_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: fd298c32c350beddf5739fe5c72128c5c9e0310de1813b9ac12287c17ef79c13

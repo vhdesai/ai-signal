@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-05-planetizen-reports-mit-is-creating-an-ai-powered-hub-for-pub
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
+- 2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi
 embedding_id: 2026-09-30-mit-transit-lab-to-build-an-ai-decision-support-hub-for-tran
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT described PTIQ, a transit-agency decision-support platform. Google.org is pr
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-05-planetizen-reports-mit-is-creating-an-ai-powered-hub-for-pub]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]]
+**Related:** [[2026-10-05-planetizen-reports-mit-is-creating-an-ai-powered-hub-for-pub]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi]]
 <!-- graph:end -->

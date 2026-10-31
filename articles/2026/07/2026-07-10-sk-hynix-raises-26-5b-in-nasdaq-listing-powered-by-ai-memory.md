@@ -4,8 +4,8 @@ title: SK Hynix raises $26.5B in Nasdaq listing powered by AI-memory demand
 date: '2026-07-10'
 source: Tech Xplore
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/sk-hynix-launch-28bn-nasdaq-090628565.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 5d6982a422fb5a5c5022faa7b5f3da73e295ac801449cd30da48ff67528ba636

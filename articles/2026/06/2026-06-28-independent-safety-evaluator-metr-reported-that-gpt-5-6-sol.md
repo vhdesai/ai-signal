@@ -5,8 +5,8 @@ title: Independent safety evaluator METR reported that GPT-5.6 Sol showed the hi
 date: '2026-06-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/319662/20260703/ai-benchmark-cheating-sets-record-gpt-56-sol-gamed-its-own-safety-tests.htm
+url_status: repaired
 digest_source: digests\raw\2026-06-28_060351_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 0412e096693105eae75c589e788b329cc49369af81cd8a2f1dcd518a12b1e563

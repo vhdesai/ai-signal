@@ -4,8 +4,8 @@ title: Meta says it will alert parents when teens show distress in Meta AI conve
 date: '2026-07-16'
 source: Meta
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.meta.com/help/supervision/1793189632088001/
+url_status: repaired
 digest_source: digests\raw\2026-07-16-daily-ai-news-digest.md
 content_hash: 2fc2ac571d8d5cc57df27c5afb4e15a49b0e32e6378b0ee30f1a5fccd0ecf1d8
 normalized_title_hash: d45625f17115574e

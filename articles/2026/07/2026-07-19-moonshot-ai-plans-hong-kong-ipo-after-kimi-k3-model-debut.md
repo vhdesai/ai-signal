@@ -4,8 +4,8 @@ title: Moonshot AI plans Hong Kong IPO after Kimi K3 model debut
 date: '2026-07-19'
 source: Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/moonshot-ai-targets-hong-kong-121906680.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: 0616bc82147fc2bbdac545f6bc4129664551a499ef77f6f8aba754b7d61c83bc
 normalized_title_hash: 803411d18c32b75d

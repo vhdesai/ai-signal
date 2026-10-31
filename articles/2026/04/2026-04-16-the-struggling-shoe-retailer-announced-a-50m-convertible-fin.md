@@ -5,8 +5,8 @@ title: The struggling shoe retailer announced a $50M convertible financing facil
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://marketchameleon.com/articles/b/2026/4/15/allbirds-secures-50m-financing-pivots-to-ai-compute-special-dividend
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: d79c1b2210497e183f54d0e9dd8ecedcb3d424a8d2da49510d017d58823db6ef

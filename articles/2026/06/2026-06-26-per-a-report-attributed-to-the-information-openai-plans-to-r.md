@@ -5,8 +5,8 @@ title: Per a report attributed to The Information, OpenAI plans to release GPT-5
 date: '2026-06-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thehill.com/policy/technology/5942770-openai-staggers-gpt-56/
+url_status: repaired
 digest_source: digests\raw\2026-06-26_060327_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 16b3fbac208d4900179bdb7b7352146166ffc64140641e5d71adc6d8c57f524f

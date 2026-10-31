@@ -1,16 +1,18 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1861
+member_count: 1863
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1861 connected article(s).
+> Auto-generated topic hub. 1863 connected article(s).
 
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
 - `2026-10-30` [[2026-10-30-runware-plans-an-assembly-line-for-prefabricated-ai-data-cen|Runware plans an assembly line for prefabricated AI data center pods]]
+- `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
+- `2026-10-30` [[2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra|Anthropic's financing stack shows strain: an expected junk rating and an Nvidia backstop]]
 - `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-29` [[2026-10-29-october-29-2026-pitchbook|[October 29, 2026] · [PitchBook]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-wall-street-journal|[October 28, 2026] · [Wall Street Journal]]]

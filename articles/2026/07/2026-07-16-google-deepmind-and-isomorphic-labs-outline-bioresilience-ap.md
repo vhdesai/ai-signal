@@ -4,8 +4,8 @@ title: Google DeepMind and Isomorphic Labs outline bioresilience approach
 date: '2026-07-16'
 source: Google DeepMind Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/our-approach-to-bioresilience/isomorphic-labs-our-approach-to-bioresilience.pdf
+url_status: repaired
 digest_source: digests\raw\2026-07-16-daily-ai-news-digest.md
 content_hash: f47b0bf0d5a7da21cb65c739201a188d4a89dbf789fc2abcd966dafc39af9e29
 normalized_title_hash: 891d963d37644b4b

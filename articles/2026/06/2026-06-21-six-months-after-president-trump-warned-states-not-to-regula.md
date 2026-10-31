@@ -5,8 +5,8 @@ title: Six months after President Trump warned states not to regulate AI, they a
 date: '2026-06-21'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fortune.com/2026/06/14/trump-federal-vs-state-ai-regulation-ai-republicans-democrats/
+url_status: repaired
 digest_source: digests\raw\2026-06-21-daily-ai-news-digest.md
 content_hash: 0b2ee4c4b2010261b9dae3574740a3bb85248c3e3fbc5a1eda794288be8abcb9
 normalized_title_hash: a298a99434340017

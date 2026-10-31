@@ -4,8 +4,8 @@ title: Cerebras shares fall ~10% on first earnings report as a public company
 date: '2026-06-23'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.datacenterdynamics.com/en/news/cerebras-shares-fall-by-20-percent-after-company-publishes-first-earnings-report-since-its-ipo/
+url_status: repaired
 digest_source: digests\raw\2026-06-24_060529_Inbox_Daily AI News Digest - June 24,
   2026.md
 content_hash: 26b43cd296865d736904dba6200528c28fce155da55fd2e38088224ca6da7ea8

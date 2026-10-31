@@ -4,8 +4,8 @@ title: 'Microsoft Build 2026: Microsoft 365, Teams, Marketplace, and ecosystem'
 date: '2026-06-02'
 source: Microsoft Build 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.microsoft.com/build-2026/
+url_status: repaired
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
 content_hash: fa2abd71b946a96e7cb22a3c478fb98c4f90dd32babc91ebca25f20bc2417b4f
 normalized_title_hash: f51d86b0ec8090d5

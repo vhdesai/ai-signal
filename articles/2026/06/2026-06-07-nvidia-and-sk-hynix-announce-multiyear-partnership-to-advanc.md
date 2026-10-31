@@ -5,8 +5,8 @@ title: Nvidia and SK Hynix Announce Multiyear Partnership to Advance Memory for 
 date: '2026-06-07'
 source: NVIDIA Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://nvidianews.nvidia.com/news/sk-hynix-ai-factory
+url_status: repaired
 digest_source: digests\raw\2026-06-08_060034_Daily-AI-News-Digest.md
 content_hash: ad30a8e2e4f1225bb5340d3916c015aff3214f276d3678c0eefbe008f49edb1c
 normalized_title_hash: 32fa2710f7b2a2d9

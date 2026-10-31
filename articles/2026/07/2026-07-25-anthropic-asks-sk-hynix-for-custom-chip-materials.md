@@ -4,8 +4,8 @@ title: Anthropic asks SK Hynix for custom-chip materials
 date: '2026-07-25'
 source: Startup Fortune
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://n8nlab.io/news/anthropic-custom-ai-chips-sk-hynix
+url_status: repaired
 digest_source: digests\raw\2026-07-26_065947_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 390e3eb895af17c71b0cf2494c8ae45f629d8ad47603432acf5b2c5dff0256c1

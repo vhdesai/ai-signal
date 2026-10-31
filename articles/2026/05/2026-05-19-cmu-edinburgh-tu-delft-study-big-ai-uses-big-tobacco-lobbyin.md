@@ -4,8 +4,8 @@ title: 'CMU / Edinburgh / TU Delft Study: Big AI Uses Big Tobacco Lobbying Playb
 date: '2026-05-19'
 source: Phys.org / University of Edinburgh
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.tun.com/home/study-big-ai-uses-big-tobacco-tactics-to-shape-regulation/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 9b7958f580adb53f21cb582e011eac95ff2743d39c070da5593cf1d960643d7d

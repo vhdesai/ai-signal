@@ -5,8 +5,8 @@ title: Infrastructure China China's Biren raises ~$892.5M to scale GPUs against 
 date: '2026-07-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/biren-892m-gpu-raise-nvidia-china
+url_status: repaired
 digest_source: digests\raw\2026-07-06_060841_Inbox_Daily AI News Digest - July 6,
   2026.md
 content_hash: 99c25b743a5fbb0a86939087554d7b3cae7cf6e15ae2734b1b30e79095984664

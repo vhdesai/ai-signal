@@ -5,8 +5,8 @@ title: On March 24, threat actor TeamPCP executed a sophisticated supply chain a
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://labs.cloudsecurityalliance.org/research/csa-research-note-teampcp-supply-chain-ai-tooling-20260330-c/
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 7d18042fddc55e2fe3102b4b1cec3deff12af38ab5d9beae988c3ee8fedac5e4

@@ -4,8 +4,8 @@ title: AI fuels a record $200bn M&A boom in the US power sector
 date: '2026-06-29'
 source: Financial Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://developinglight.com/stories/ai-fuels-record-200bn-m-a-boom-in-us-power-sector-188a8a99
+url_status: repaired
 digest_source: digests\raw\2026-06-29_060726_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 3f61d04c475af5123917627b9b38375657deb7b76a8dc5997e6d633d37256ad7

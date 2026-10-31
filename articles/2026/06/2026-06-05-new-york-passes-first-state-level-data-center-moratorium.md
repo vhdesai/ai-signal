@@ -4,8 +4,8 @@ title: New York Passes First State-Level Data Center Moratorium
 date: '2026-06-05'
 source: The Verge; Spectrum News; The Guardian
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theverge.com/policy/944041/new-york-data-center-moratorium
+url_status: repaired
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 53d5676cffdf6eb2eaca2ef3458dfdb769da9f207273670a8ca2de8ceea38b94

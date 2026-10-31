@@ -5,8 +5,8 @@ title: Reporting on OpenAI's GPT-5.6 (Sol/Terra/Luna) preview, this piece detail
 date: '2026-06-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/introducing-gpt-6-sol-and-luna/
+url_status: repaired
 digest_source: digests\raw\2026-06-28_060351_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 56e42ecf05c7531c3f86508912830e736e449fd5e2650d2508b211ed6518f7f0

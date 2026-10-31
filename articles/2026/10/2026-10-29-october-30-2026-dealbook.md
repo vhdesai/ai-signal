@@ -23,6 +23,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-31-october-30-2026-wall-street-journal
 - 2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex
 - 2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
@@ -39,5 +40,5 @@ Alphabet lost roughly $500 billion in market value as search revenue fell short,
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex]] · [[2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
+**Related:** [[2026-10-31-october-30-2026-wall-street-journal]] · [[2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex]] · [[2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
 <!-- graph:end -->

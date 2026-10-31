@@ -4,8 +4,8 @@ title: Users warn OpenAI's GPT-5.6 Sol can take destructive file actions
 date: '2026-07-14'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/
+url_status: repaired
 digest_source: digests\raw\2026-07-15-daily-ai-news-digest.md
 content_hash: 357c16076b8dbd6c104d4425132700cb39b5aea6bf02da56a2cd618bb42c940b
 normalized_title_hash: 679c97b74c6bc613

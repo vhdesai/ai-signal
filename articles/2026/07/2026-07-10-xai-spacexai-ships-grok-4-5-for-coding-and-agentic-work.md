@@ -4,8 +4,8 @@ title: xAI (SpaceXAI) ships Grok 4.5 for coding and agentic work
 date: '2026-07-10'
 source: 'Source: Reuters / ET BrandEquity'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech.yahoo.com/ai/articles/spacexai-launches-grok-4-5-204749219.html
+url_status: repaired
 digest_source: digests\raw\2026-07-10_060949_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 688decceac68170f355ee7e02e3c31249283749b5b87dadf2b98ade528d2a16e

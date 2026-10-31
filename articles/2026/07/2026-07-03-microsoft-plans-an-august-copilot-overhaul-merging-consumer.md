@@ -5,8 +5,8 @@ title: Microsoft plans an August Copilot overhaul, merging consumer and enterpri
 date: '2026-07-03'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft%20Copilot
-url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft%20Copilot
-url_status: broken
+url_canonical: https://windowsforum.com/news/microsoft-to-merge-copilot-apps-by-aug-2026-add-paid-agents-cut-clutter.435024/
+url_status: repaired
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 04ac63234930d44b1ad37bb47af16d607f8c293285ee1372639e565eef78f9a3

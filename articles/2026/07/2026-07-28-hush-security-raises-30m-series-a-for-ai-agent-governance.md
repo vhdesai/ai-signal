@@ -4,8 +4,8 @@ title: Hush Security Raises $30M Series A for AI-Agent Governance
 date: '2026-07-28'
 source: SecurityWeek
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/
+url_status: repaired
 digest_source: digests\raw\2026-07-28_065310_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 8548037d480a694607ca5f42bf63b10a3249c13d432fcc37f6a7c0d06ed19959

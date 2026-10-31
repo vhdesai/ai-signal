@@ -4,8 +4,8 @@ title: Bipartisan Policy Center examines how AI is actually changing U.S. firms
 date: '2026-07-15'
 source: Bipartisan Policy Center
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://bipartisanpolicy.org/article/ai-and-the-workforce-what-is-actually-going-on-inside-american-firms/
+url_status: repaired
 digest_source: digests\raw\2026-07-15-daily-ai-news-digest.md
 content_hash: d9186a3008a272b94d3a2e93f7f6eff5736a37c1ff212bd42b2f72271139b9e4
 normalized_title_hash: 6cbd12bfa765f858

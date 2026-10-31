@@ -4,8 +4,8 @@ title: ChatGPT desktop voice mode now works with ChatGPT Work and Codex
 date: '2026-07-24'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/
+url_status: repaired
 digest_source: digests\raw\2026-07-25-daily-ai-news-digest.md
 content_hash: 059a42c5b7ef45132d1727d23e90c0ff3f680828c9d9dd58fc2a05cebe4a51a8
 normalized_title_hash: c1d0ba89bda535f6

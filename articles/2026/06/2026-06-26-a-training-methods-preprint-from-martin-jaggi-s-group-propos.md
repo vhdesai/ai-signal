@@ -5,8 +5,8 @@ title: A training-methods preprint from Martin Jaggi’s group proposes decoupli
 date: '2026-06-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2606.25971
+url_status: repaired
 digest_source: digests\raw\2026-06-26_060327_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 3f2953219181e761b2a98c30716efbc7b628fe78945f6a67da650a30155e1342

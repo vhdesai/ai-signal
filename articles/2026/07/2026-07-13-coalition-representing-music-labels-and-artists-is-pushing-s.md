@@ -8,8 +8,8 @@ date: '2026-07-13'
 source: AI Safety & Policy HOT WORKFORCE 200+ researchers and 15 Nobel laureates warn
   on AI labor disruption [July 13, 2026]
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.hollywoodreporter.com/music/music-industry-news/riaa-pushes-for-ai-labels-on-streaming-services-1236643840/
+url_status: repaired
 digest_source: digests\raw\2026-07-13_065937_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: 0bd95b2dff8d588a85fa8635c244c4fd8fbe90bc216866a27de798d5623e79db

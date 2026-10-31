@@ -1,14 +1,22 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5071
+member_count: 5079
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5071 connected article(s).
+> Auto-generated topic hub. 5079 connected article(s).
 
+- `2026-10-31` [[2026-10-31-october-30-2026-wall-street-journal|[October 30, 2026] · [Wall Street Journal]]]
+- `2026-10-31` [[2026-10-31-openai-s-latest-round-reportedly-falls-well-short-of-its-30|OpenAI's latest round reportedly falls well short of its $30 billion goal]]
+- `2026-10-31` [[2026-10-31-legal-engineer-becomes-one-of-law-s-hottest-roles-as-ai-rewi|Legal engineer becomes one of law's hottest roles as AI rewires the profession]]
+- `2026-10-31` [[2026-10-31-factory-s-droid-1-0-makes-harness-design-a-cost-lever-for-co|Factory's Droid 1.0 makes harness design a cost lever for coding agents]]
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
+- `2026-10-30` [[2026-10-30-doordash-s-agent-orders-are-a-reality-check-on-agentic-comme|DoorDash's agent orders are a reality check on agentic commerce]]
+- `2026-10-30` [[2026-10-30-chatgpt-desktop-app-can-now-run-inference-through-amazon-bed|ChatGPT desktop app can now run inference through Amazon Bedrock in AWS GovCloud]]
+- `2026-10-30` [[2026-10-30-anthropic-s-internal-claude-usage-now-exceeds-its-payroll-at|Anthropic's internal Claude usage now exceeds its payroll at retail prices]]
+- `2026-10-30` [[2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra|Anthropic's financing stack shows strain: an expected junk rating and an Nvidia backstop]]
 - `2026-10-29` [[2026-10-29-october-30-2026-pitchbook|[October 30, 2026] · [PitchBook]]]
 - `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-29` [[2026-10-29-october-29-2026-wall-street-journal|[October 29, 2026] · [Wall Street Journal]]]

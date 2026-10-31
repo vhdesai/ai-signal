@@ -4,8 +4,8 @@ title: Big Tech's 2026 AI capex tracking near $700–725B
 date: '2026-05-04'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://countly.net/ai-capex-spending-2026-big-tech-statistics
+url_status: repaired
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: 7f36108311b71011ae7ba07858b1bf8b6b800e77f2f5d2f910d360c801967a4f

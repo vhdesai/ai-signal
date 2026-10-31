@@ -5,8 +5,8 @@ title: U.S. Commerce clears Anthropic's Mythos 5 for ~100 vetted orgs; Fable 5 s
 date: '2026-06-27'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html
+url_status: repaired
 digest_source: digests\raw\2026-06-28_061921_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: fd2a92500deab72bf67f54ab4f46537a95d3e2c10523fa22339d4d04ee21dff7

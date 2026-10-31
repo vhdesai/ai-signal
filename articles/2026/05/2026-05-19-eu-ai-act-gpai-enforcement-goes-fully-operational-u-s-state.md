@@ -5,8 +5,8 @@ title: EU AI Act GPAI Enforcement Goes Fully Operational; U.S. State Laws Activa
 date: '2026-05-19'
 source: Beyond Tomorrow / EU Commission
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-gpai-enforcement-20260803-csa-st/
+url_status: repaired
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: a803493fd78a3db38d8097629e929b88b54980d5ded92718f2bf0a14f81a9f72

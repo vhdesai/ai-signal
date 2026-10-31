@@ -5,8 +5,8 @@ title: All 21 items were confirmed published within the last 24 hours (June 28â€
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.devflokers.com/blog/ai-tech-news-model-releases-june-2026
+url_status: repaired
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: db74c0cfaa037bf9e08e8bee4474eb2acbc55efcdedda637702ad8b1b8c26fea

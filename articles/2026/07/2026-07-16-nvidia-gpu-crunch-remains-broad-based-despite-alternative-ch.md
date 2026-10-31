@@ -4,8 +4,8 @@ title: Nvidia GPU crunch remains broad-based despite alternative-chip momentum
 date: '2026-07-16'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.zerohedge.com/technology/nvidia-could-delay-new-gpu-due-deepening-memory-crunch
+url_status: repaired
 digest_source: digests\raw\2026-07-17-daily-ai-news-digest.md
 content_hash: 256f5401bf27784196fbf728fab95e01a9ef61b8d8f4044b972d98bfd0d9cc0a
 normalized_title_hash: 0d7789a8fccb6c87

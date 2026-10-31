@@ -4,8 +4,8 @@ title: Huawei commits $11.7B to autonomous-driving AI compute build-out
 date: '2026-04-23'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://btw.media/en/huawei-commits-over-10bn-to-smart-driving-compute-push
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 9c0d87b5ec201521741a4ebf3312028a7313c6ce7ff0d4dc767f4557758fda4b

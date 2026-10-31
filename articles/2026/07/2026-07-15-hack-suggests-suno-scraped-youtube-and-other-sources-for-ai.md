@@ -5,8 +5,8 @@ title: Hack suggests Suno scraped YouTube and other sources for AI music trainin
 date: '2026-07-15'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/
+url_status: repaired
 digest_source: digests\raw\2026-07-16-daily-ai-news-digest.md
 content_hash: ff0ae4e49af942631ebc8550e2d0f2931a10bf46d62997f85901718568ea7412
 normalized_title_hash: 7cbcb32b24ff2b0f

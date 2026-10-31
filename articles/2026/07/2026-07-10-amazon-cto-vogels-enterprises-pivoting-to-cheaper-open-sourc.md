@@ -4,8 +4,8 @@ title: 'Amazon CTO Vogels: Enterprises Pivoting to Cheaper Open-Source Models'
 date: '2026-07-10'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fortune.com/2026/07/10/amazon-cto-companies-shifting-toward-cheaper-opensource-ai-models-werner-vogels/
+url_status: repaired
 digest_source: digests\raw\2026-07-10_065350_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 5c943ccadbc8e968e50adb80df7a53e993a8c8a8817cafaee465cf2a4d048283

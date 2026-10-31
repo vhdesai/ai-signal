@@ -4,8 +4,8 @@ title: AlphaEvolve Coming to Google Cloud Enterprise — Gemini-Powered Algorith
 date: '2026-05-08'
 source: WinBuzzer / Google DeepMind Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: b7de84d5521fe4066d5e2e75e2ed728f815e514c077aed12681ddebc1532a900

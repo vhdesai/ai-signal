@@ -5,8 +5,8 @@ title: Governor Gavin Newsom signed an executive order on March 30 requiring AI 
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.gov.ca.gov/2026/03/30/as-trump-rolls-back-protections-governor-newsom-signs-first-of-its-kind-executive-order-to-strengthen-ai-protections-and-responsible-use/
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 7055f2efea4cba81edc595ca82ff4d1c9dc3b90c6b2c4a70146506175cbd6412

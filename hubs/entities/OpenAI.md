@@ -1,14 +1,18 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2823
+member_count: 2827
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2823 connected article(s).
+> Auto-generated entity hub. 2827 connected article(s).
 
+- `2026-10-31` [[2026-10-31-openai-s-latest-round-reportedly-falls-well-short-of-its-30|OpenAI's latest round reportedly falls well short of its $30 billion goal]]
+- `2026-10-30` [[2026-10-30-october-30-2026-microsoft-bing-blog|[October 30, 2026] · [Microsoft Bing Blog]]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
+- `2026-10-30` [[2026-10-30-chatgpt-desktop-app-can-now-run-inference-through-amazon-bed|ChatGPT desktop app can now run inference through Amazon Bedrock in AWS GovCloud]]
 - `2026-10-29` [[2026-10-29-october-29-2026-wall-street-journal|[October 29, 2026] · [Wall Street Journal]]]
 - `2026-10-29` [[2026-10-29-university-of-washington-researchers-presented-micro-languag|University of Washington researchers presented micro language models with 8 to 30 million parameters at EMNLP 2026]]
 - `2026-10-29` [[2026-10-29-servicenow-sinks-19-as-investors-price-ai-risk-to-saas-even|ServiceNow sinks 19% as investors price AI risk to SaaS, even as it deepens OpenAI ties]]

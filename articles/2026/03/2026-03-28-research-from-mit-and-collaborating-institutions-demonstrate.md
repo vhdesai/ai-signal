@@ -5,8 +5,8 @@ title: research from MIT and collaborating institutions demonstrated a significa
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326
+url_status: repaired
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 403c49b02f8d7e2d8e345d6374971648501e08ba862d99ef45dd3a58b48a440a

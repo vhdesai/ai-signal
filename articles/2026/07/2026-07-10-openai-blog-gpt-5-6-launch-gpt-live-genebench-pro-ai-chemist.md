@@ -4,8 +4,8 @@ title: 'OpenAI Blog: GPT‑5.6 launch, GPT-Live, GeneBench-Pro, AI chemist resea
 date: '2026-07-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/introducing-genebench-pro/
+url_status: repaired
 digest_source: digests\raw\2026-07-11_010740_Automated_Your-Daily-AI-News-Digest.md
 content_hash: ef45af8c5510d47b40fb81e257b9945d1b8b822438b49e8818681a181dc60f8e
 normalized_title_hash: 6efea4e4ea874a04

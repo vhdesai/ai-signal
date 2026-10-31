@@ -4,8 +4,8 @@ title: OpenAI launches GPT-5.6 (Sol, Terra, Luna) — gated to government-approv
 date: '2026-06-26'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html
+url_status: repaired
 digest_source: digests\raw\2026-06-28_061921_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 268239fcea25e9283d0f0153560aa08b43bfc0c7270631c29f09fe81bccc7f8c

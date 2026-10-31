@@ -4,8 +4,8 @@ title: Stanford HAI 2026 AI Index — Capability Acceleration, Not Plateau
 date: '2026-05-03'
 source: Stanford HAI / MIT Technology Review
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080843_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: a03745ce9ca7dff777ca081042f43be3f58f496f2fb96ef8305c33b89ca58292
 normalized_title_hash: e5dd7270be1f0bea

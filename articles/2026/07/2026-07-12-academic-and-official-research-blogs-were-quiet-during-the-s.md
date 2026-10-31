@@ -4,8 +4,8 @@ title: Academic and official research blogs were quiet during the strict window
 date: '2026-07-12'
 source: Source sweep
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.exordo.com/blog/the-best-academic-blogs
+url_status: repaired
 digest_source: digests\raw\2026-07-12_061123_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: a7cac8d969b98ec9428ca9d093eb9d95c804b9e7177cb2f6bc420237420532f7

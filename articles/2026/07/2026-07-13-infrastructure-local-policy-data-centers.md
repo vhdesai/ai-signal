@@ -4,8 +4,8 @@ title: INFRASTRUCTURE LOCAL POLICY DATA CENTERS
 date: '2026-07-13'
 source: Orleans pauses data-center approvals amid AI backlash July 13, 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hoodline.com/2026/07/new-orleans-slams-brakes-on-data-centers-as-ai-fight-heats-up/
+url_status: repaired
 digest_source: digests\raw\2026-07-13_060546_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: 3ba52e32e3efb768f2324deb0e151d2d4eabd023c1455e9ce088cfabb3604e77

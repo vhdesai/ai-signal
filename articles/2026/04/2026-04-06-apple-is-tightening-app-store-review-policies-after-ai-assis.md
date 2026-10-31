@@ -5,8 +5,8 @@ title: Apple is tightening App Store review policies after AI-assisted "vibe cod
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/vibe-coding-apple-app-store-surge-crackdown
+url_status: repaired
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: 58e71256092c48c33d1c35464dc36e3dd5b00629f0d0c55147ef4bbf15e31dc7

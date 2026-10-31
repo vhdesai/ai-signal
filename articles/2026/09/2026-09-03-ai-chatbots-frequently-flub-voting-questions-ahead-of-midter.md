@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
+- 2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi
 - 2026-04-02-academic-research
 - 2026-10-07-reuters-ipsos-poll-finds-most-u-s-voters-say-leaders-are-not
 - 2026-10-25-techcrunch-reports-on-a-convovo-study-led-by-a-cornell-affil
-- 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
 embedding_id: 2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter
 event_name: ''
 ---
@@ -36,5 +36,5 @@ NBC News reports that AI chatbots frequently answered voting-related questions i
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-04-02-academic-research]] · [[2026-10-07-reuters-ipsos-poll-finds-most-u-s-voters-say-leaders-are-not]] · [[2026-10-25-techcrunch-reports-on-a-convovo-study-led-by-a-cornell-affil]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]]
+**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi]] · [[2026-04-02-academic-research]] · [[2026-10-07-reuters-ipsos-poll-finds-most-u-s-voters-say-leaders-are-not]] · [[2026-10-25-techcrunch-reports-on-a-convovo-study-led-by-a-cornell-affil]]
 <!-- graph:end -->

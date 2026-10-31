@@ -4,8 +4,8 @@ title: 'CMU: reflection prompts can slow down AI-assisted learning'
 date: '2026-05-04'
 source: Carnegie Mellon University News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cmu.edu/news/stories/archives/2026/may/reflection-prompts-can-slow-down-learning-cmu-study-shows
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 1e671dd3a9028a89ccbb5578bc359e71474805f5455f8825af3e33b520634b48
 normalized_title_hash: 0e0ab2e7076f8336

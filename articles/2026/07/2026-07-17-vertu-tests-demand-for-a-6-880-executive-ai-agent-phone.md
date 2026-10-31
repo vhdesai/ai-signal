@@ -4,8 +4,8 @@ title: Vertu tests demand for a $6,880 executive AI-agent phone
 date: '2026-07-17'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/
+url_status: repaired
 digest_source: digests\raw\2026-07-18-daily-ai-news-digest.md
 content_hash: 330ef1772f038e29ae0bd1cd437aa40f7a4dfcd1a1af7cb6bfef35aab6ba5113
 normalized_title_hash: 4faebe17e49de0d5

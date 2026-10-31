@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-10-05-microsoft-trims-internal-claude-spending-meta-also-pulls-bac
 - 2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
+- 2026-10-30-anthropic-s-internal-claude-usage-now-exceeds-its-payroll-at
 - 2026-08-31-meta-internally-projected-spending-up-to-10-billion-a-year-o
 embedding_id: 2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become
 event_name: ''
@@ -39,5 +40,5 @@ Meta and Microsoft are sharply cutting internal Claude usage after Anthropic's p
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-05-microsoft-trims-internal-claude-spending-meta-also-pulls-bac]] · [[2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-08-31-meta-internally-projected-spending-up-to-10-billion-a-year-o]]
+**Related:** [[2026-10-05-microsoft-trims-internal-claude-spending-meta-also-pulls-bac]] · [[2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-10-30-anthropic-s-internal-claude-usage-now-exceeds-its-payroll-at]] · [[2026-08-31-meta-internally-projected-spending-up-to-10-billion-a-year-o]]
 <!-- graph:end -->

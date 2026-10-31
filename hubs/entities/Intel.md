@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 120
+member_count: 122
 ---
 
 # Intel
 
-> Auto-generated entity hub. 120 connected article(s).
+> Auto-generated entity hub. 122 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-30-2026-wall-street-journal|[October 30, 2026] · [Wall Street Journal]]]
+- `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
 - `2026-10-12` [[2026-10-12-intel-and-broadcom-warn-capital-costs-could-become-an-ai-bot|Intel and Broadcom warn capital costs could become an AI bottleneck]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]

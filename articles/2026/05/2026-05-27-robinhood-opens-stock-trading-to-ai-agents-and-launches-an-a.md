@@ -5,8 +5,8 @@ title: Robinhood opens stock trading to AI agents and launches an agentic credit
 date: '2026-05-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071713_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 527261c2852b9c38de4bb3f4e53d7901d029c3783376c880f0cc396bb571250a

@@ -5,8 +5,8 @@ title: Anthropic rolled out Claude Security in May 2026, a new capability that s
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html
+url_status: repaired
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: 93e80195adadb744dba04f134c720537bbd1201aaecf153d470961bb9d718a13
 normalized_title_hash: 4600f203985fd9c3

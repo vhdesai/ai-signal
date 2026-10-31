@@ -5,8 +5,8 @@ title: Claude Design is a new product from Anthropic Labs that enables users to 
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/claude-design-anthropic-labs
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 46f03053f7e1348f945d3d7a6ac5b7827877e9c459b921746d30b3f0d3976f3a

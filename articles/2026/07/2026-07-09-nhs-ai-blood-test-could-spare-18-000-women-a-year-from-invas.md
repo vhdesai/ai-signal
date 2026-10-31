@@ -4,8 +4,8 @@ title: NHS AI Blood Test Could Spare 18,000 Women a Year From Invasive Checks
 date: '2026-07-09'
 source: Digital Health
 url_original: https://www.digitalhealth.net/2026/07/nhs-ai-blood-test-could-reduce-invasive-cancer-exams-for-women/
-url_canonical: https://www.digitalhealth.net/2026/07/nhs-ai-blood-test-could-reduce-invasive-cancer-exams-for-women/
-url_status: broken
+url_canonical: https://nhsaccelerator.com/insights/new-blood-test-could-spare-thousands-of-women-invasive-gynaecological-diagnostics/
+url_status: repaired
 digest_source: digests\raw\2026-07-09_061541_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 0988438147583fa1e01ab3cd40de7f1d96d153e7ff94b02b704169ebfae106c5

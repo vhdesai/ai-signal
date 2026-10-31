@@ -5,8 +5,8 @@ title: NVIDIA, Foxconn and Taiwan medical centers push agentic AI into healthcar
 date: '2026-06-01'
 source: AiThority
 url_original: https://aithority.com/machine-learning/nvidia-foxconn-and-taiwan-medical-centers-bring-agentic-and-physical-ai-to-healthy-taiwan/
-url_canonical: https://aithority.com/machine-learning/nvidia-foxconn-and-taiwan-medical-centers-bring-agentic-and-physical-ai-to-healthy-taiwan/
-url_status: ok
+url_canonical: https://nvidianews.nvidia.com/news/nvidia-foxconn-and-taiwan-medical-centers-bring-agentic-and-physical-ai-to-healthy-taiwan
+url_status: repaired
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: 93da8a23776076aad82428d7100a8f766d6982d1e9a77116ee5b7002181ee53f

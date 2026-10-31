@@ -5,8 +5,8 @@ title: There has been a seismic change since then — and not solely because of 
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.norsar.no/news/three-years-of-war-in-ukraine-what-can-earth-movements-tell-us-about-the-war
+url_status: repaired
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: 9f0728ba3fffc64bc7ecb98f643c7dc556c66aca2ae8e6daedb69c2cce58553a
 normalized_title_hash: 8916436a96984493

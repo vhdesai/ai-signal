@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2284
+member_count: 2286
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2284 connected article(s).
+> Auto-generated topic hub. 2286 connected article(s).
 
+- `2026-10-30` [[2026-10-30-october-30-2026-wall-street-journal|[October 30, 2026] · [Wall Street Journal]]]
+- `2026-10-30` [[2026-10-30-october-30-2026-google|[October 30, 2026] · [Google]]]
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
 - `2026-10-30` [[2026-10-30-runware-plans-an-assembly-line-for-prefabricated-ai-data-cen|Runware plans an assembly line for prefabricated AI data center pods]]
 - `2026-10-29` [[2026-10-29-october-29-2026-pitchbook|[October 29, 2026] · [PitchBook]]]

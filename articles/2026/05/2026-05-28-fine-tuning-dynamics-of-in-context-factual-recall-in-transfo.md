@@ -4,8 +4,8 @@ title: Fine-Tuning Dynamics of In-Context Factual Recall in Transformers
 date: '2026-05-28'
 source: Ruomin Huang, Eshaan Nichani, Jason D. Lee (Princeton), Rong Ge — arXiv:2605.27774
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.27774
+url_status: repaired
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 729e17a976e79bf7086a54154666f363b913747161e939c47df117683b413f15

@@ -4,8 +4,8 @@ title: Amazon's AWS commits $1 billion to a new "Forward Deployed Engineering" o
 date: '2026-07-01'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aboutamazon.com/news/aws/aws-1-billion-forward-deployed-ai-engineers
+url_status: repaired
 digest_source: digests\raw\2026-07-01_060607_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: 5c7527d37ac6fd0f0058a8144367d4aac3917e22067fd7970137d0f5a151707c

@@ -4,8 +4,8 @@ title: World's First AI-Designed Vaccine Enters Human Clinical Trials
 date: '2026-06-04'
 source: BBC; Open Access Government; WION
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bbc.com/news/articles/crrpggegwe0o
+url_status: repaired
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: f10afce79618c1c2f6716f6b2db2ab8297841646a6e9a7d61acb395a55815183

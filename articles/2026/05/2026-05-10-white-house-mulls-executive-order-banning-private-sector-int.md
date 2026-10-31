@@ -5,8 +5,8 @@ title: White House Mulls Executive Order Banning Private Sector "Interference" w
 date: '2026-05-10'
 source: POLITICO
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.crowell.com/en/insights/client-alerts/license-to-hack-the-white-house-greenlights-private-sector-offensive-cyber-operations
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: cc353b9f7a4110325d2517ecf2a214f771d85655f9cf7b187baa52158fd1bf64

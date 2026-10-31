@@ -4,8 +4,8 @@ title: Washington, Capital & Compute Now Set the Ceiling on AI
 date: '2026-06-28'
 source: 'Source window: Jun 27, 06:08 PDT – Jun 28, 06:08 PDT'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-517b-compute-ceiling-reached-180458303.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-28_061921_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 2def16be561b87cf4a54c563314fdbbcd66909f501cd7233b25bf8fb88775822

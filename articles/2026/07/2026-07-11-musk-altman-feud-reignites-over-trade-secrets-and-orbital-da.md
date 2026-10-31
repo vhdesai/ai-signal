@@ -4,8 +4,8 @@ title: Musk–Altman Feud Reignites Over Trade Secrets and Orbital Data Centers
 date: '2026-07-11'
 source: Benzinga
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.thebrief.news/en/detailed/article/3972/musk-and-altmans-orbital-data-center-feud-what-the-valuation-gap-reveals
+url_status: repaired
 digest_source: digests\raw\2026-07-12_065239_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 232e18bcdb203ab1164a3bb9a165f5f4c462bb2b549914536ed7488221a005e3

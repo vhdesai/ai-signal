@@ -5,8 +5,8 @@ title: OpenRouter raises $113M Series B at a $1.3B valuation — TechCrunch / Ne
 date: '2026-05-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071713_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: fdfe0850505afb069ed7db4dae68d10ebf3ea96143d2c4198f6345395d8eacb3

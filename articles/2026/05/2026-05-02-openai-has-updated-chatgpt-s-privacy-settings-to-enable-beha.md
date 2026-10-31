@@ -5,8 +5,8 @@ title: OpenAI has updated ChatGPT's privacy settings to enable behavioral tracki
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://help.openai.com/en/articles/20001488-privacy-center-in-chatgpt
+url_status: repaired
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: d905271dabdb270121e64c21872c17d5ff5bf0f035994553e8e80db5d04d743a
 normalized_title_hash: 31da8fbc9dbbaf6c

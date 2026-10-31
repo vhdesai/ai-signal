@@ -5,8 +5,8 @@ title: Mistral confirms it is exploring custom AI chip design and rebrands Le Ch
 date: '2026-05-28'
 source: CNBC / The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 8aa15e8410791eb98f95f037b2baa7c735098e6a7fc6e9622211256b56bc3f93

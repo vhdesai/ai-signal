@@ -4,8 +4,8 @@ title: HOTChina Blocks Meta's $2B+ Acquisition of AI Startup Manus
 date: '2026-04-27'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaitrack.com/china-blocks-meta-ai-startup-manus-deal/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 807d6023dacf78a9cc24426f2d8d2777f70478f23ff786e77a0b53e1ac83d7ae
 normalized_title_hash: 2a8e928b718ce0e7

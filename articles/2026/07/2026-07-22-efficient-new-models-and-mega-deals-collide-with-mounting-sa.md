@@ -4,8 +4,8 @@ title: Efficient new models and mega-deals collide with mounting safety alarms
 date: '2026-07-22'
 source: 'Source window: 2026-07-21 05:55 PDT → 2026-07-22 05:55 PDT · 19 items'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html
+url_status: repaired
 digest_source: digests\raw\2026-07-22_061419_Inbox_Daily AI News Digest - July 22,
   2026.md
 content_hash: 5292119c6eb64470ab0525e07a53c63d8b52533e6ca260482e433679341bcaaf

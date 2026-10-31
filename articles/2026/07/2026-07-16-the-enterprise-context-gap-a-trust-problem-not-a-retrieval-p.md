@@ -4,8 +4,8 @@ title: 'The Enterprise "Context Gap": A Trust Problem, Not a Retrieval Problem'
 date: '2026-07-16'
 source: VentureBeat**
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ai-crunch.com/articles/enterprise-ai-trust-problem-not-retrieval-problem-context-gap
+url_status: repaired
 digest_source: digests\raw\2026-07-17_065015_Final-Daily-AI-News-Digest.md
 content_hash: eff69e938fc25414f43daba2cb9c9b7bb7fd2d1607621683de4efb785b6470ef
 normalized_title_hash: c2b34eaa61a2abc0

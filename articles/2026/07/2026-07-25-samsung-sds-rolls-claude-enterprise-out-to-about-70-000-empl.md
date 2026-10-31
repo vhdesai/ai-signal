@@ -4,8 +4,8 @@ title: Samsung SDS rolls Claude Enterprise out to about 70,000 employees
 date: '2026-07-25'
 source: Nocut News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.samsungsds.com/en/news/1295098_5252.html
+url_status: repaired
 digest_source: digests\raw\2026-07-26_065947_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 64bf7d2471f13664700feb7e9cf8cc8beef6c1329dd0820c66fe6e6773265eca

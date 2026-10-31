@@ -5,8 +5,8 @@ title: Apple escalates trade-secret suit against OpenAI; next Siri to run on Goo
 date: '2026-07-12'
 source: Forbes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html
+url_status: repaired
 digest_source: digests\raw\2026-07-12_063131_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: ba6dfd2b30904e7c0a4bc0bd50021fc7b2e488e3cac236a7e4478ce72fc1b787

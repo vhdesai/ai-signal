@@ -4,8 +4,8 @@ title: 'FT: China trains Global South developers on its free, open AI models'
 date: '2026-07-25'
 source: Financial Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiweekly.co/alerts/beijing-trains-global-south-devs-on-free-open-ai-models
+url_status: repaired
 digest_source: digests\raw\2026-07-26_062227_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: f88fab8cea4b6d6843713c039e8441afae2df4a7233f2b00638e63e5932a151a

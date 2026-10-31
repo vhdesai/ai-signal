@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1736
+member_count: 1739
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1736 connected article(s).
+> Auto-generated entity hub. 1739 connected article(s).
 
+- `2026-10-31` [[2026-10-31-october-30-2026-wall-street-journal|[October 30, 2026] · [Wall Street Journal]]]
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
+- `2026-10-30` [[2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra|Anthropic's financing stack shows strain: an expected junk rating and an Nvidia backstop]]
 - `2026-10-29` [[2026-10-29-october-28-2026-cnbc|[October 28, 2026] · [CNBC]]]
 - `2026-10-29` [[2026-10-29-deepseek-s-16-billion-round-puts-chinese-state-capital-behin|DeepSeek's $16 billion round puts Chinese state capital behind a national AI champion]]
 - `2026-10-28` [[2026-10-28-october-28-2026-house-science-committee-democrats|[October 28, 2026] · [House Science Committee Democrats]]]

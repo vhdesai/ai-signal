@@ -4,8 +4,8 @@ title: Microsoft Build 2026 — Overview
 date: '2026-06-02'
 source: Microsoft Build 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.microsoft.com/build-2026/
+url_status: repaired
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
 content_hash: 94f20db56ac825dbffd2e6e0c2a5a90f596c28e2ea9b8009eecc90bcefc4b031
 normalized_title_hash: 0a8b3bb7d878feb6

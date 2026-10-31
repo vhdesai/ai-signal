@@ -5,8 +5,8 @@ title: Tenet Security disclosed an "agentjacking" technique in which a single fa
 date: '2026-06-30'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tenetsecurity.ai/blog/agentjacking-coding-agents-with-fake-sentry-errors/
+url_status: repaired
 digest_source: digests\raw\2026-06-30_062533_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: a1d6ed80a8edd5f99d690167d3d004d81cc18014bf6b5de3a72122f14161c6b2

@@ -5,8 +5,8 @@ title: Compromised jscrambler npm release drops a Rust infostealer targeting AI 
 date: '2026-07-11'
 source: The Hacker News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html
+url_status: repaired
 digest_source: digests\raw\2026-07-12_060557_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 5722d02377c72ef500b8a5c4d4e99479e9b8dd119ec524136dbf9abae695abae
