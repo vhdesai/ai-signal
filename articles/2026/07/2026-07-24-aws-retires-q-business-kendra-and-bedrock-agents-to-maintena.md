@@ -4,8 +4,8 @@ title: AWS Retires Q Business, Kendra, and Bedrock Agents to Maintenance Mode
 date: '2026-07-24'
 source: Yahoo News**
 url_original: null
-url_canonical: https://docs.aws.amazon.com/kendra/latest/dg/kendra-availability-change.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-24_065052_Final-Daily-AI-News-Digest.md
 content_hash: 10b146b8ea2f0e1e1634726d5267b31d684ae8ed92e7111b2a717ea468450490
 normalized_title_hash: 4d661969fb5d92e6

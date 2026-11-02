@@ -5,8 +5,8 @@ title: For National Robotics Week, NVIDIA is highlighting physical AI entering p
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/national-robotics-week-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 1436a2eda21ade226ed8dd1a67fa82324ef1310a616f470976454552960b8f25

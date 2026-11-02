@@ -4,8 +4,8 @@ title: AI growth pressures power prices and pushes states to revisit water use
 date: '2026-07-16'
 source: Axios
 url_original: null
-url_canonical: https://www.hottea.ai/articles/2026-08-20/data-center-politics-utility-costs
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-16-daily-ai-news-digest.md
 content_hash: f6ae3d0d4637f33386724252e4f97679edd61114f0545ef963734409f2cfc512
 normalized_title_hash: 688d48b360529c30

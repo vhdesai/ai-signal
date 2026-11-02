@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 - 2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff
-- 2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n
+- 2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7
 embedding_id: 2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Coverage this cycle highlights Meta trailing its hyperscaler peers on AI-attribu
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff]] · [[2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n]]
+**Related:** [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff]] · [[2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7]]
 <!-- graph:end -->

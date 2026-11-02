@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen
 - 2026-07-16-apple-intelligence-cleared-for-china-with-alibaba-s-qwen-and
 - 2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab
+- 2026-10-31-apple-schedules-a-staged-apple-intelligence-rollout-in-china
 embedding_id: 2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Apple published and then quickly withdrew documentation describing how Siri conn
 
 **Entities:** [[Alibaba]] · [[Apple]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen]] · [[2026-07-16-apple-intelligence-cleared-for-china-with-alibaba-s-qwen-and]] · [[2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab]]
+**Related:** [[2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen]] · [[2026-07-16-apple-intelligence-cleared-for-china-with-alibaba-s-qwen-and]] · [[2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab]] · [[2026-10-31-apple-schedules-a-staged-apple-intelligence-rollout-in-china]]
 <!-- graph:end -->

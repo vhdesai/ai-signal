@@ -1,16 +1,29 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 939
+member_count: 952
 ---
 
 # Meta
 
-> Auto-generated entity hub. 939 connected article(s).
+> Auto-generated entity hub. 952 connected article(s).
 
+- `2026-11-02` [[2026-11-02-south-korea-s-2027-budget-puts-state-backed-ai-investment-in|South Korea’s 2027 budget puts state-backed AI investment in focus]]
+- `2026-11-02` [[2026-11-02-a-wired-investigation-building-on-research-by-ai-forensics-f|A Wired investigation, building on research by AI Forensics, found a network of more than 400 connected apps and…]]
+- `2026-11-01` [[2026-11-01-the-information-reports-that-meta-built-a-humanoid-prototype|The Information reports that Meta built a humanoid prototype in partnership with a Chinese startup as it ramps up its…]]
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
 - `2026-10-31` [[2026-10-31-october-30-2026-wall-street-journal|[October 30, 2026] · [Wall Street Journal]]]
+- `2026-10-31` [[2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin|Meta reportedly built a humanoid robot prototype with a Chinese startup]]
+- `2026-10-31` [[2026-10-31-meta-reportedly-builds-a-humanoid-prototype-with-fourier|Meta reportedly builds a humanoid prototype with Fourier]]
+- `2026-10-31` [[2026-10-31-meta-built-a-humanoid-prototype-with-china-s-fourier-as-its|Meta built a humanoid prototype with China's Fourier as its robotics push accelerates]]
+- `2026-10-31` [[2026-10-31-directly-scanned-blogs-and-publications-openai-news-and-rss|Directly scanned blogs and publications: OpenAI News and RSS; Google DeepMind Blog; Meta AI Blog (no readable page…]]
+- `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
+- `2026-10-31` [[2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7|Alphabet, Amazon, Meta, and Microsoft have outlined more than $740 billion in capex this year, and investors are now…]]
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-30` [[2026-10-30-investors-turn-on-ai-capex-as-big-tech-free-cash-flow-goes-n|Investors turn on AI capex as Big Tech free cash flow goes negative]]
 - `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
 - `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]

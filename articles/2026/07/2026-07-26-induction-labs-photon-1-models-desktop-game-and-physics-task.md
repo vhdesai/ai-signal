@@ -5,8 +5,8 @@ title: Induction Labs Photon-1 models desktop, game, and physics tasks from one 
 date: '2026-07-26'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 2c3be3389e82c148ae5de47f87a5fa89101e564afa16656da1c2b1a484e42d5c

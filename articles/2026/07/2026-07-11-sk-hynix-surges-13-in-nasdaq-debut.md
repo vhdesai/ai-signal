@@ -4,8 +4,8 @@ title: SK hynix surges ~13% in Nasdaq debut
 date: '2026-07-11'
 source: The Korea Herald
 url_original: null
-url_canonical: https://biz.heraldcorp.com/article/10805462
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_063131_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: bc4e07c534c7399f9265da2389c9fe4187785a69aaeaf44da5b45e39e9ff617f

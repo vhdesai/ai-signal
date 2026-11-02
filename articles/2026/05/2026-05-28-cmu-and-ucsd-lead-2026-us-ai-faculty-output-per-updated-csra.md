@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 - 2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc
+- 2026-10-31-university-coverage-uc-berkeley-stanford-mit-purdue-georgia
 - 2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa
 - 2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu
-- 2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai
 embedding_id: 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The CSRankings dataset refreshed on May 28 places Carnegie Mellon, UC San Diego,
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc]] · [[2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa]] · [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai]]
+**Related:** [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc]] · [[2026-10-31-university-coverage-uc-berkeley-stanford-mit-purdue-georgia]] · [[2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa]] · [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]]
 <!-- graph:end -->

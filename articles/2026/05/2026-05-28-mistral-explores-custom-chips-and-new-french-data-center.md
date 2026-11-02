@@ -4,8 +4,8 @@ title: Mistral explores custom chips and new French data center
 date: '2026-05-28'
 source: CNBC / Crypto Briefing
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 42535f3b4c41fec898434543b22483a20cd76df8dfc75bf033da7a7bb245bed2

@@ -5,8 +5,8 @@ title: 'OpenAI Discloses Security Incident: Code Repository Data Stolen in Targe
 date: '2026-05-14'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: ffa97a13b2adb5d810959522c780c643eb61ba589dede0a7dd19f88c88647a2e

@@ -4,8 +4,8 @@ title: There's a new way to create Google Docs with your voice
 date: '2026-05-19'
 source: The Wall Street Journal · Read article
 url_original: null
-url_canonical: https://www.msn.com/en-us/news/technology/there-s-a-new-way-to-create-google-docs-with-your-voice-watch-me-try-it/ar-AA23zVRC
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: e2032d9e8ca104381c75c9f6923f2fad7f092f80156615a5ae6ec35d4d8cd7f7

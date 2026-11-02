@@ -5,7 +5,7 @@ date: '2026-08-18'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Uber+Waymo+fears+overblown
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Uber+Waymo+fears+overblown
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-08-18_065759_Final-Daily-AI-News-Digest.md
 content_hash: 8d07f41e9ebbe440e49b9a5fb7d8599e5ce73328c91329dca76db0f61e3d066d
 normalized_title_hash: 556fc1446cfa4571
@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending
 - 2026-08-06-uber-plans-to-invest-10-billion-over-time-in-autonomous-vehi
 - 2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis
+- 2026-10-30-investors-turn-on-ai-capex-as-big-tech-free-cash-flow-goes-n
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
-- 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 embedding_id: 2026-08-18-uber-s-waymo-fears-are-overblown-analysts-say-stock-discount
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Uber stock has dropped 8% this year on fears of Waymo competition, but The Infor
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending]] · [[2026-08-06-uber-plans-to-invest-10-billion-over-time-in-autonomous-vehi]] · [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]]
+**Related:** [[2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending]] · [[2026-08-06-uber-plans-to-invest-10-billion-over-time-in-autonomous-vehi]] · [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis]] · [[2026-10-30-investors-turn-on-ai-capex-as-big-tech-free-cash-flow-goes-n]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-28-wsj-ai-usage-reaches-18-8-of-working-age-population-as-meta
 - 2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov
+- 2026-11-01-ai-shopping-agents-emerge-as-a-potential-rival-to-amazon-s-e
 - 2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re
-- 2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of
 embedding_id: 2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Adobe projects AI-assisted shopping traffic will rise roughly 130% during the 20
 
 **Entities:** [[Adobe]] · [[Google]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-28-wsj-ai-usage-reaches-18-8-of-working-age-population-as-meta]] · [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]] · [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re]] · [[2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of]]
+**Related:** [[2026-09-28-wsj-ai-usage-reaches-18-8-of-working-age-population-as-meta]] · [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]] · [[2026-11-01-ai-shopping-agents-emerge-as-a-potential-rival-to-amazon-s-e]] · [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: YouTube clarifies monetization rules for AI-generated and low-quality con
 date: '2026-07-20'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: b9891a2b21bc752d88be7e571afbe0b6be92abd46a6f28881038f02018a27050
 normalized_title_hash: 82a364295f0a7def

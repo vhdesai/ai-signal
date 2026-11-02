@@ -1,18 +1,29 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1085
+member_count: 1096
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1085 connected article(s).
+> Auto-generated entity hub. 1096 connected article(s).
 
+- `2026-11-02` [[2026-11-02-lumen-and-microsoft-announced-an-expanded-co-sell-partnershi|Lumen and Microsoft announced an expanded co-sell partnership to align enterprise network transformation with Azure…]]
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
 - `2026-10-31` [[2026-10-31-october-30-2026-wall-street-journal|[October 30, 2026] · [Wall Street Journal]]]
+- `2026-10-31` [[2026-10-31-isomorphic-labs-pushes-ai-first-drug-discovery-toward-cancer|Isomorphic Labs pushes AI-first drug discovery toward cancer targets]]
+- `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
+- `2026-10-31` [[2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7|Alphabet, Amazon, Meta, and Microsoft have outlined more than $740 billion in capex this year, and investors are now…]]
 - `2026-10-30` [[2026-10-30-october-30-2026-microsoft-bing-blog|[October 30, 2026] · [Microsoft Bing Blog]]]
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
+- `2026-10-30` [[2026-10-30-tokeneconomizer-cuts-coding-agent-token-costs-by-up-to-30-9|TokenEconomizer cuts coding-agent token costs by up to 30.9%]]
+- `2026-10-30` [[2026-10-30-openai-and-microsoft-give-publishers-separate-controls-for-a|OpenAI and Microsoft give publishers separate controls for AI training and grounding]]
+- `2026-10-30` [[2026-10-30-microsoft-and-openai-give-publishers-separate-controls-for-a|Microsoft and OpenAI give publishers separate controls for AI training and grounding]]
 - `2026-10-30` [[2026-10-30-microsoft-research-and-uc-berkeley-s-tokeneconomizer-cuts-co|Microsoft Research and UC Berkeley's TokenEconomizer cuts coding-agent costs by up to 31%]]
 - `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
+- `2026-10-30` [[2026-10-30-investors-turn-on-ai-capex-as-big-tech-free-cash-flow-goes-n|Investors turn on AI capex as Big Tech free cash flow goes negative]]
+- `2026-10-30` [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per|Inside a malicious Claude Code-branded extension and its persistent SSH backdoor]]
 - `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-wall-street-journal|[October 28, 2026] · [Wall Street Journal]]]
 - `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]

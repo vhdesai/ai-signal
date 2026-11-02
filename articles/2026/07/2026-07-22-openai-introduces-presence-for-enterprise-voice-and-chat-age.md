@@ -4,8 +4,8 @@ title: OpenAI introduces Presence for enterprise voice and chat agents
 date: '2026-07-22'
 source: OpenAI Blog
 url_original: null
-url_canonical: https://openai.com/index/introducing-openai-presence/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: 49a81ddec4df6170098b542fa20d1b844d396b597d4ef3631403f65cf4dac1cb
 normalized_title_hash: ac62b07900ead9ab

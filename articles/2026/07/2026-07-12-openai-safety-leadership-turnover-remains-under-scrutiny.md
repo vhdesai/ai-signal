@@ -4,8 +4,8 @@ title: OpenAI safety leadership turnover remains under scrutiny
 date: '2026-07-12'
 source: Business Insider
 url_original: null
-url_canonical: https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: 0d6be964f10d3d1fde1e933d0491ea53b0137882e9565f85fac85061ecb6122a

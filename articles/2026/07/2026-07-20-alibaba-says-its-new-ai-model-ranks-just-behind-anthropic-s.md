@@ -4,8 +4,8 @@ title: Alibaba says its new AI model ranks just behind Anthropic's Fable 5
 date: '2026-07-20'
 source: WSJ
 url_original: null
-url_canonical: https://www.scmp.com/tech/article/3361119/alibaba-says-newest-qwen-ai-model-second-only-anthropics-claude-fable-5
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-20-daily-ai-news-digest.md
 content_hash: 3a080800e824e6d54c20128a6d9a4efa2420d3ee74d2b5764fa5cd7c8abcbb68
 normalized_title_hash: 16cfba02ab237dab

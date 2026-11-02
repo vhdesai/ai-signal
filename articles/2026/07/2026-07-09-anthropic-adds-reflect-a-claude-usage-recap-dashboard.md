@@ -4,8 +4,8 @@ title: Anthropic adds Reflect, a Claude usage-recap dashboard
 date: '2026-07-09'
 source: 'Source: eWeek'
 url_original: null
-url_canonical: https://www.eweek.com/news/anthropic-reflect-claude-memory/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-10_060949_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 68568a17ac280269ac479a19acd59784340ee6119ce2fd58e75ba6803f99638c

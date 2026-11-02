@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-31-perceptron-ai-launches-isaac-0-5-a-36b-open-weight-embodied
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
+- 2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin
 - 2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar
-- 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 embedding_id: 2026-08-26-ex-meta-scientists-launch-perceptron-to-bring-visual-ai-to-t
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Perceptron, founded by former Meta researchers, is building a visual intelligenc
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-31-perceptron-ai-launches-isaac-0-5-a-36b-open-weight-embodied]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]]
+**Related:** [[2026-08-31-perceptron-ai-launches-isaac-0-5-a-36b-open-weight-embodied]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin]] · [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar]]
 <!-- graph:end -->

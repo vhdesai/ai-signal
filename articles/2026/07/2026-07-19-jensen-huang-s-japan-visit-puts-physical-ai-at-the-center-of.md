@@ -5,8 +5,8 @@ title: Jensen Huang's Japan visit puts physical AI at the center of national ind
 date: '2026-07-19'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-20-daily-ai-news-digest.md
 content_hash: 085e207170b3525b326fb6901729a8a49fd90c8c7fec0954c079df98c4200af1
 normalized_title_hash: 887e641fd59551dc

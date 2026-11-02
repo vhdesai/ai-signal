@@ -5,8 +5,8 @@ title: Nvidia weighs a ~$250B financing backstop for OpenAI's 10-gigawatt Ohio d
 date: '2026-07-26'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-talks-back-openai-ohio-114515389.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-27_063104_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: a713f46d92a4dc4534431f6773a13ac374b73066e893163cd3cf6dc31abe4244

@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 208
+member_count: 212
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 208 connected article(s).
+> Auto-generated entity hub. 212 connected article(s).
 
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
+- `2026-10-30` [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per|Inside a malicious Claude Code-branded extension and its persistent SSH backdoor]]
 - `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
 - `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]

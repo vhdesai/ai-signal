@@ -4,8 +4,8 @@ title: 'Hot Behind Washington''s AI Safety Pivot: What Changed and Why It''s Dur
 date: '2026-05-08'
 source: Axios
 url_original: null
-url_canonical: https://news.lavx.hu/article/what-s-behind-washington-s-ai-safety-pivot
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: e94a682de7fe814dcff9c29dd4ef65e744590bd42a0e0cd083300b07eeda9418

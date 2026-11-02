@@ -5,8 +5,8 @@ title: Mistral AI's Vibe Remote Agents, powered by its new Medium 3.5 model, are
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 21db281d3039764fffaa5e14b3549a2fb099b872eb242fad8c230c6759da05d5

@@ -4,8 +4,8 @@ title: OpenAI's AI keypad shows early shape of dedicated agent hardware
 date: '2026-07-25'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-25-daily-ai-news-digest.md
 content_hash: 93d238a858dd6356d431866abaee0ff3505485c71cb9b8f864d94e018768c647
 normalized_title_hash: 90444465de9a61e1

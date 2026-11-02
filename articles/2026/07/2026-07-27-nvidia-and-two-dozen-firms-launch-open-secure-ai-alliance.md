@@ -4,8 +4,8 @@ title: Nvidia and Two Dozen Firms Launch Open Secure AI Alliance
 date: '2026-07-27'
 source: NVIDIA
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/open-secure-ai-alliance/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-28_061729_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: e8d84791928d334a27a91c40701de9d551ac43a9cb82670737383cb4ad184f4f

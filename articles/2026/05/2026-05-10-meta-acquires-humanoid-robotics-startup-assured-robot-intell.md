@@ -4,8 +4,8 @@ title: Meta Acquires Humanoid Robotics Startup Assured Robot Intelligence
 date: '2026-05-10'
 source: The Neuron AI
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 5105a79e124b2106181c8b0c580bc4514277ad878c364f8ea8673ff8222ad081
@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
 - 2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid
-- 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
-- 2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse
+- 2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin
+- 2026-11-01-the-information-reports-that-meta-built-a-humanoid-prototype
 embedding_id: 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta acquired Assured Robot Intelligence, a humanoid robotics startup founded a 
 
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse]]
+**Related:** [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid]] · [[2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin]] · [[2026-11-01-the-information-reports-that-meta-built-a-humanoid-prototype]]
 <!-- graph:end -->

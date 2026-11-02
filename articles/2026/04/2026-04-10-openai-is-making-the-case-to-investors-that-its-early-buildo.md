@@ -5,8 +5,8 @@ title: OpenAI is making the case to investors that its early buildout of AI infr
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/openai-122b-capital-raise-signals-130644500.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 0978bc2c893bc2edbdab4b6363316d05aab3e4138e34a86e4a9eb178b3cd5e28
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill
 - 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
-- 2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power
+- 2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af
 embedding_id: 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
 event_name: ''
 ---
@@ -43,5 +43,5 @@ OpenAI is making the case to investors that its early buildout of AI infrastruct
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]] · [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill]] · [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power]]
+**Related:** [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]] · [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill]] · [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af]]
 <!-- graph:end -->

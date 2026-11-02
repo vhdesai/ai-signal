@@ -5,8 +5,8 @@ title: The open-source agent project OpenClaw released iOS and Android companion
 date: '2026-06-30'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-30_060551_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: c1c8f1958166a953ef63fa2696c0310a22528fdbe18a9cd75672a1504d18e284

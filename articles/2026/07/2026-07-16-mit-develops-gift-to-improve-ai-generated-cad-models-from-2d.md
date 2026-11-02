@@ -4,8 +4,8 @@ title: MIT develops GIFT to improve AI-generated CAD models from 2D designs
 date: '2026-07-16'
 source: MIT News
 url_original: null
-url_canonical: https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-16-daily-ai-news-digest.md
 content_hash: e7fff4aeac98ef56e1d6f9fadb5cba305c4baec2c504920d627e3f280f81a162
 normalized_title_hash: 4ef0291b9c3e9046

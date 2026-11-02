@@ -4,8 +4,8 @@ title: Roblox launches AI-powered mobile game creation
 date: '2026-07-16'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-17-daily-ai-news-digest.md
 content_hash: a32ffc8a703463d10be06a8f8cf88bc11190bcc7952d3690d136a699efd39167
 normalized_title_hash: cd9569c6cf7c6796

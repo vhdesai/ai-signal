@@ -1,16 +1,37 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1697
+member_count: 1718
 ---
 
 # Google
 
-> Auto-generated entity hub. 1697 connected article(s).
+> Auto-generated entity hub. 1718 connected article(s).
 
+- `2026-11-02` [[2026-11-02-the-information-reports-the-administration-declined-to-relea|The Information reports the administration declined to release information about its AI testing framework]]
+- `2026-11-02` [[2026-11-02-the-information-reports-that-google-s-energy-chief-put-the-c|The Information reports that Google's energy chief put the cost of orbital data centers at up to 100 times that of…]]
+- `2026-11-02` [[2026-11-02-south-korea-s-2027-budget-puts-state-backed-ai-investment-in|South Korea’s 2027 budget puts state-backed AI investment in focus]]
+- `2026-11-02` [[2026-11-02-a-wired-investigation-building-on-research-by-ai-forensics-f|A Wired investigation, building on research by AI Forensics, found a network of more than 400 connected apps and…]]
+- `2026-11-01` [[2026-11-01-trump-administration-declines-to-release-documents-on-its-vo|Trump administration declines to release documents on its voluntary AI testing framework]]
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-google-energy-executive-says-data-centers-in-space-could-cos|Google energy executive says data centers in space could cost up to 100 times more than on Earth]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-candidates-who-back-data-center-pauses-could-win-up-to-15-go|Candidates who back data center pauses could win up to 15 governor's races]]
+- `2026-10-31` [[2026-10-31-today-s-verified-coverage-highlights-tighter-scrutiny-of-ai|Today's verified coverage highlights tighter scrutiny of AI spending, vendor-backed infrastructure financing, and…]]
+- `2026-10-31` [[2026-10-31-judge-lets-naacp-clean-air-act-lawsuit-over-xai-s-colossus-d|Judge lets NAACP Clean Air Act lawsuit over xAI's Colossus data center proceed]]
+- `2026-10-31` [[2026-10-31-google-s-prototype-space-data-center-carrying-four-tpus-and|Google's prototype space data center, carrying four TPUs and generating up to 1 kW, completed commissioning and ran…]]
+- `2026-10-31` [[2026-10-31-factory-s-droid-1-0-makes-harness-design-a-cost-lever-for-co|Factory's Droid 1.0 makes harness design a cost lever for coding agents]]
 - `2026-10-31` [[2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr|Drug discovery becomes a frontier-lab growth story for Anthropic and Isomorphic Labs]]
+- `2026-10-31` [[2026-10-31-directly-scanned-blogs-and-publications-openai-news-and-rss|Directly scanned blogs and publications: OpenAI News and RSS; Google DeepMind Blog; Meta AI Blog (no readable page…]]
+- `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
 - `2026-10-30` [[2026-10-30-october-30-2026-google|[October 30, 2026] · [Google]]]
+- `2026-10-30` [[2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an|Nvidia reportedly in talks to guarantee debt for Nscale's Anthropic data center]]
 - `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
+- `2026-10-30` [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per|Inside a malicious Claude Code-branded extension and its persistent SSH backdoor]]
+- `2026-10-30` [[2026-10-30-google-s-first-suncatcher-tpu-satellite-is-online-and-runnin|Google's first Suncatcher TPU satellite is online and running Gemma 4]]
+- `2026-10-30` [[2026-10-30-google-s-suncatcher-satellite-returns-the-first-ai-response|Google's Suncatcher satellite returns the first AI response from a TPU in orbit]]
+- `2026-10-30` [[2026-10-30-doordash-s-agent-orders-are-a-reality-check-on-agentic-comme|DoorDash's agent orders are a reality check on agentic commerce]]
+- `2026-10-30` [[2026-10-30-chatgpt-desktop-app-can-now-run-inference-through-amazon-bed|ChatGPT desktop app can now run inference through Amazon Bedrock in AWS GovCloud]]
 - `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-wall-street-journal|[October 28, 2026] · [Wall Street Journal]]]
 - `2026-10-29` [[2026-10-29-mistral-releases-trillion-parameter-large-4-weights-for-self|Mistral releases trillion-parameter Large 4 weights for self-hosted cyber defense]]

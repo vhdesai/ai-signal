@@ -4,8 +4,8 @@ title: US Clears Nvidia H200 Sales to 10 Chinese Firms Including Alibaba and Ten
 date: '2026-05-14'
 source: AIHub
 url_original: null
-url_canonical: https://www.engadget.com/2172686/us-reportedly-allows-10-chinese-companies-to-buy-nvidia-h200-chips/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 3732b4fb4044fb419f65de6a77946c6365f7a6ae06d472909717029bc9e37f53

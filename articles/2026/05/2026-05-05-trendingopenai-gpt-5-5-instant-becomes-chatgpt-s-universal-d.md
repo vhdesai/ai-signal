@@ -4,8 +4,8 @@ title: TrendingOpenAI GPT-5.5 Instant Becomes ChatGPT's Universal Default
 date: '2026-05-05'
 source: OpenAI Blog / TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 51c514ddf4175a1b03383522ba0022b19ecddbfca0b159bbf12a7d1e9f684d6e

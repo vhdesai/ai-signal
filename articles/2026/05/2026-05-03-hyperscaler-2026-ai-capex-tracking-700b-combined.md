@@ -4,8 +4,8 @@ title: Hyperscaler 2026 AI Capex Tracking ~$700B Combined
 date: '2026-05-03'
 source: NewsBytes
 url_original: null
-url_canonical: https://www.trillionairedaily.com/business/2026/05/2026-05-11-hyperscaler-2026-capex-650b-700b-combined
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080843_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 1a643dcd7cd513b50d986eb4fdb80faadb29431d53036584e470a162da67871b
 normalized_title_hash: 5a946f4744489032

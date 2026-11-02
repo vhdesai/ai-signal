@@ -4,8 +4,8 @@ title: Nature frames multimessenger astronomy as a proving ground for frontier A
 date: '2026-07-10'
 source: Nature Astronomy
 url_original: null
-url_canonical: https://www.nature.com/articles/s41550-026-02910-w
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 52b769580fac9f212bd064832388014fdf4b99124f5d021f971d766fcf54f76d

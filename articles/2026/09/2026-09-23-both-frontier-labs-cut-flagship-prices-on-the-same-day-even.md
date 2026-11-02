@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
+- 2026-10-31-openai-cuts-its-round-to-20-billion-after-raising-less-than
 - 2026-09-23-dueling-price-cuts-land-days-after-both-ceos-called-for-a-sl
 - 2026-06-11-chinese-ai-models-undercut-openai-and-anthropic-by-up-to-9-o
-- 2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day
 embedding_id: 2026-09-23-both-frontier-labs-cut-flagship-prices-on-the-same-day-even
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Analysis of the simultaneous September 22 price cuts frames it as the first time
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-09-23-dueling-price-cuts-land-days-after-both-ceos-called-for-a-sl]] · [[2026-06-11-chinese-ai-models-undercut-openai-and-anthropic-by-up-to-9-o]] · [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day]]
+**Related:** [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-10-31-openai-cuts-its-round-to-20-billion-after-raising-less-than]] · [[2026-09-23-dueling-price-cuts-land-days-after-both-ceos-called-for-a-sl]] · [[2026-06-11-chinese-ai-models-undercut-openai-and-anthropic-by-up-to-9-o]]
 <!-- graph:end -->

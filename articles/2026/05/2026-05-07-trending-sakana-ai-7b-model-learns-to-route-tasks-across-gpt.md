@@ -5,8 +5,8 @@ title: 'Trending Sakana AI: 7B Model Learns to Route Tasks Across GPT-5, Claude 
 date: '2026-05-07'
 source: VentureBeat
 url_original: null
-url_canonical: https://vff.ai/article/2026/05/08/how-sakana-trained-a-7b-model-to-orchestrate-gpt-claude-and-gemini-llms
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: ae2c0329ae8f04df2ac1b3d92ae10ab380f16b23442d9888d2efe34961827879

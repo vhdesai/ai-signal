@@ -1,17 +1,58 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2286
+member_count: 2327
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2286 connected article(s).
+> Auto-generated topic hub. 2327 connected article(s).
 
+- `2026-11-02` [[2026-11-02-qwengpu-builds-a-working-gpu-into-qwen3-5-2b-s-weights-that|qwenGPU builds a working GPU into Qwen3.5-2B's weights that runs real CUDA code]]
+- `2026-11-02` [[2026-11-02-the-information-reports-that-google-s-energy-chief-put-the-c|The Information reports that Google's energy chief put the cost of orbital data centers at up to 100 times that of…]]
+- `2026-11-02` [[2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in|OpenAI told users it will combine the Chat and Work tabs in ChatGPT so users can move from exploring an idea to having…]]
+- `2026-11-02` [[2026-11-02-netapp-completes-its-acquisition-of-peak-aio-for-ai-scale-st|NetApp completes its acquisition of PEAK:AIO for AI-scale storage]]
+- `2026-11-02` [[2026-11-02-lumen-and-microsoft-announced-an-expanded-co-sell-partnershi|Lumen and Microsoft announced an expanded co-sell partnership to align enterprise network transformation with Azure…]]
+- `2026-11-02` [[2026-11-02-chatgpt-s-unified-workspace-brings-shared-usage-budgeting-in|ChatGPT’s unified workspace brings shared usage budgeting into focus]]
+- `2026-11-02` [[2026-11-02-an-independent-developer-released-qwengpu-mit-license-which|An independent developer released qwenGPU (MIT license), which adds 45 compiler-generated, untrained layers to…]]
+- `2026-11-01` [[2026-11-01-trump-administration-declines-to-release-documents-on-its-vo|Trump administration declines to release documents on its voluntary AI testing framework]]
+- `2026-11-01` [[2026-11-01-techcrunch-reports-data-centers-and-ai-dominated-discussion|TechCrunch reports data centers and AI dominated discussion at a pre-midterm event in Brooklyn and cites a Data Center…]]
+- `2026-11-01` [[2026-11-01-openai-plans-post-midterm-policy-push-including-rebranding-d|OpenAI plans post-midterm policy push, including rebranding data centers as "AI compute campuses"]]
+- `2026-11-01` [[2026-11-01-openai-plans-a-post-midterm-policy-push-including-speed-limi|OpenAI plans a post-midterm policy push, including speed limits for frontier systems]]
+- `2026-11-01` [[2026-11-01-nace-ai-released-open-weights-for-drex-max-v1-a-dense-27b-mu|Nace AI released open weights for Drex Max v1, a dense 27B multimodal model that returns calibrated probabilities over…]]
+- `2026-11-01` [[2026-11-01-nace-ai-open-sources-drex-max-v1-a-27b-decision-model-that-r|Nace AI open-sources Drex Max v1, a 27B decision model that runs locally]]
+- `2026-11-01` [[2026-11-01-google-energy-executive-says-data-centers-in-space-could-cos|Google energy executive says data centers in space could cost up to 100 times more than on Earth]]
+- `2026-11-01` [[2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc|Citing the Financial Times and The Wall Street Journal, TechCrunch reports OpenAI has lowered the target for its…]]
+- `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
+- `2026-11-01` [[2026-11-01-candidates-who-back-data-center-pauses-could-win-up-to-15-go|Candidates who back data center pauses could win up to 15 governor's races]]
+- `2026-11-01` [[2026-11-01-aramco-takes-49-of-humain-to-fund-saudi-arabia-s-3-gigawatt|Aramco takes 49% of HUMAIN to fund Saudi Arabia's 3-gigawatt AI compute plan]]
+- `2026-11-01` [[2026-11-01-anthropic-s-s-1-locks-in-founder-control-and-unusual-equity|Anthropic's S-1 locks in founder control and unusual equity-based giving]]
+- `2026-11-01` [[2026-11-01-a-federal-judge-denied-xai-s-motion-to-dismiss-a-suit-allegi|A federal judge denied xAI's motion to dismiss a suit alleging it ran at least 35 combustion turbines at its Colossus…]]
+- `2026-10-31` [[2026-10-31-xai-data-center-pollution-lawsuit-can-proceed|xAI data-center pollution lawsuit can proceed]]
+- `2026-10-31` [[2026-10-31-vercel-labs-open-sources-agent-desktop-for-cross-os-computer|Vercel Labs open-sources agent-desktop for cross-OS computer use]]
+- `2026-10-31` [[2026-10-31-today-s-verified-coverage-highlights-tighter-scrutiny-of-ai|Today's verified coverage highlights tighter scrutiny of AI spending, vendor-backed infrastructure financing, and…]]
+- `2026-10-31` [[2026-10-31-intel-guided-q4-revenue-to-15-16-billion-versus-about-17-bil|Intel guided Q4 revenue to $15–16 billion versus about $17 billion expected, with gross margin falling to 37% from 43%…]]
+- `2026-10-31` [[2026-10-31-factory-releases-droid-1-0-a-coding-agent-harness-that-works|Factory releases Droid 1.0, a coding-agent harness that works with any model]]
+- `2026-10-31` [[2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr|Drug discovery becomes a frontier-lab growth story for Anthropic and Isomorphic Labs]]
+- `2026-10-31` [[2026-10-31-data-center-permitting-becomes-a-binding-constraint-as-xai-s|Data-center permitting becomes a binding constraint as xAI's Colossus suit proceeds]]
+- `2026-10-31` [[2026-10-31-citing-the-information-and-bloomberg-techcrunch-reports-nvid|Citing The Information and Bloomberg, TechCrunch reports Nvidia is discussing a residual value guarantee for…]]
+- `2026-10-31` [[2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7|Alphabet, Amazon, Meta, and Microsoft have outlined more than $740 billion in capex this year, and investors are now…]]
+- `2026-10-31` [[2026-10-31-according-to-the-financial-times-blackstone-the-anchor-inves|According to the Financial Times, Blackstone, the anchor investor in a $63 billion chip-financing deal for Anthropic,…]]
 - `2026-10-30` [[2026-10-30-october-30-2026-wall-street-journal|[October 30, 2026] · [Wall Street Journal]]]
 - `2026-10-30` [[2026-10-30-october-30-2026-google|[October 30, 2026] · [Google]]]
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
+- `2026-10-30` [[2026-10-30-satlyt-takes-another-step-toward-turning-satellites-into-spa|Satlyt takes another step toward turning satellites into space data centers]]
 - `2026-10-30` [[2026-10-30-runware-plans-an-assembly-line-for-prefabricated-ai-data-cen|Runware plans an assembly line for prefabricated AI data center pods]]
+- `2026-10-30` [[2026-10-30-q-a-hey-ai-who-should-i-vote-for-this-year|Q&A: Hey AI, who should I vote for this year?]]
+- `2026-10-30` [[2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an|Nvidia reportedly in talks to guarantee debt for Nscale's Anthropic data center]]
+- `2026-10-30` [[2026-10-30-madrona-prize-goes-to-uw-research-on-agents-that-shrink-ai-m|Madrona Prize goes to UW research on agents that shrink AI models to run on small chips]]
+- `2026-10-30` [[2026-10-30-intel-plunges-as-ai-demand-for-memory-squeezes-the-pc-market|Intel plunges as AI demand for memory squeezes the PC market]]
+- `2026-10-30` [[2026-10-30-google-s-first-suncatcher-tpu-satellite-is-online-and-runnin|Google's first Suncatcher TPU satellite is online and running Gemma 4]]
+- `2026-10-30` [[2026-10-30-google-s-suncatcher-satellite-returns-the-first-ai-response|Google's Suncatcher satellite returns the first AI response from a TPU in orbit]]
+- `2026-10-30` [[2026-10-30-doordash-s-agent-orders-are-a-reality-check-on-agentic-comme|DoorDash's agent orders are a reality check on agentic commerce]]
+- `2026-10-30` [[2026-10-30-doordash-says-ai-agents-have-placed-only-several-hundred-ord|DoorDash says AI agents have placed only "several hundred" orders]]
+- `2026-10-30` [[2026-10-30-blackstone-reportedly-expects-anthropic-to-get-a-high-junk-r|Blackstone reportedly expects Anthropic to get a high junk rating after its IPO]]
+- `2026-10-30` [[2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra|Anthropic's financing stack shows strain: an expected junk rating and an Nvidia backstop]]
 - `2026-10-29` [[2026-10-29-october-29-2026-pitchbook|[October 29, 2026] · [PitchBook]]]
 - `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]
 - `2026-10-29` [[2026-10-29-marvell-explores-a-lumentum-deal-as-optical-interconnect-bec|Marvell explores a Lumentum deal as optical interconnect becomes an AI bottleneck]]

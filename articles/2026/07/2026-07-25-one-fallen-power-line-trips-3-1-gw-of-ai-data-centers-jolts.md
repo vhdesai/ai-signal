@@ -4,8 +4,8 @@ title: One Fallen Power Line Trips 3.1 GW of AI Data Centers, Jolts the Grid
 date: '2026-07-25'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-26_065237_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: d37270c35ec54524f98844bf23845b03f06ddafa1818879573032732705ee632

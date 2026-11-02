@@ -5,8 +5,8 @@ title: Paul Meade, Apple VP of hardware engineering for the Vision Products Grou
 date: '2026-06-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.techtimes.com/articles/319175/20260627/apple-vision-pro-hardware-chief-joins-openai-smart-glasses-deadline-looms.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_060351_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 54c60748286ba1fd99d77775cb519d11febb89fe441fef92c326160ef2c7ec86

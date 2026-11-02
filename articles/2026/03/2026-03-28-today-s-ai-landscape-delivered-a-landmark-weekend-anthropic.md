@@ -5,8 +5,8 @@ title: 'Today''s AI landscape delivered a landmark weekend: Anthropic''s next-ge
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aitoolsreview.co.uk/insights/next-claude-model
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: f78fc621f279a547c6cd2450c13cb497dfa10d6985d9d62019e03c1ebb093ceb

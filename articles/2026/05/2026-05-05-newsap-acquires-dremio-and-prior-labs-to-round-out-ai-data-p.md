@@ -4,8 +4,8 @@ title: NEWSAP acquires Dremio and Prior Labs to round out AI data platform
 date: '2026-05-05'
 source: The Decoder
 url_original: null
-url_canonical: https://the-decoder.com/saps-acquisition-spree-signals-the-enterprise-giant-is-serious-about-becoming-an-ai-ready-data-platform/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: f4af27650d37cb078a9e6b70fd9541643d6d5c0cb46106d07d5fcc482866ce92
 normalized_title_hash: f1570c9171cf3d29

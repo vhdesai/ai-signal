@@ -4,8 +4,8 @@ title: Memory-chip earnings expected to show AI-driven sales acceleration
 date: '2026-07-13'
 source: Axios
 url_original: null
-url_canonical: https://www.gate.com/news/detail/memory-chip-companies-expected-to-report-major-sales-gains-in-earnings-22556805
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: a76a6729fd0a2e769a244d9bf6ab67595ec0fb5662c0778bf440e7d81a4dac68

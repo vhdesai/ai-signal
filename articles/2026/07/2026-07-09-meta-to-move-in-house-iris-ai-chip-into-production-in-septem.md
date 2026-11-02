@@ -4,8 +4,8 @@ title: Meta to move in-house Iris AI chip into production in September
 date: '2026-07-09'
 source: Reuters
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/exclusive-meta-put-ai-chip-112222555.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-11_065909_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: dd0e5d339435c9b3bb224dc154180b1ce3b75dec92dcd097e1a65b843609f5b6

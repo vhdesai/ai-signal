@@ -21,11 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo
 - 2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t
 - 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
 - 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 - 2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin
-- 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
 embedding_id: 2026-10-06-south-korea-commits-3-49b-to-build-a-homegrown-frontier-mode
 event_name: ''
 ---
@@ -38,5 +38,5 @@ South Korea plans government-backed equity investments of 4.7 trillion won ($3.4
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]]
+**Related:** [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo]] · [[2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin]]
 <!-- graph:end -->

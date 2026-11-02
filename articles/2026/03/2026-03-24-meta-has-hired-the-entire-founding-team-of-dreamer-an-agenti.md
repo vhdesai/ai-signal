@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
 - 2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
+- 2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin
 - 2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo
-- 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 embedding_id: 2026-03-24-meta-has-hired-the-entire-founding-team-of-dreamer-an-agenti
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Meta has hired the entire founding team of Dreamer — an agentic AI startup val
 
 **Entities:** [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]]
+**Related:** [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin]] · [[2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo]]
 <!-- graph:end -->

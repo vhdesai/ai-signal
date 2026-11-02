@@ -4,8 +4,8 @@ title: Farmers emerge as a new source of data-center backlash
 date: '2026-07-14'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-14_065946_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 17b79098720331cefec19b86aa52648ac875fe6f1d2d62c7ffe2c99070162081

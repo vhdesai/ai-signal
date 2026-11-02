@@ -4,8 +4,8 @@ title: 'Hugging Face CEO: enterprises are done "renting" their AI'
 date: '2026-07-10'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_060920_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 160a84883a3d9913746eedcfccc38317296fd9149ae43ac69d746132cfcda745

@@ -1,18 +1,50 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2827
+member_count: 2859
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2827 connected article(s).
+> Auto-generated entity hub. 2859 connected article(s).
 
+- `2026-11-02` [[2026-11-02-qwengpu-builds-a-working-gpu-into-qwen3-5-2b-s-weights-that|qwenGPU builds a working GPU into Qwen3.5-2B's weights that runs real CUDA code]]
+- `2026-11-02` [[2026-11-02-south-korea-s-2027-budget-puts-state-backed-ai-investment-in|South Korea’s 2027 budget puts state-backed AI investment in focus]]
+- `2026-11-02` [[2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in|OpenAI told users it will combine the Chat and Work tabs in ChatGPT so users can move from exploring an idea to having…]]
+- `2026-11-02` [[2026-11-02-openai-merges-chatgpt-s-chat-and-work-tabs-and-puts-chatgpt|OpenAI merges ChatGPT's Chat and Work tabs and puts ChatGPT and Codex on one usage pool]]
+- `2026-11-02` [[2026-11-02-nvidia-s-apache-2-0-auto-ontology-generates-a-starting-ontol|NVIDIA's Apache 2.0 Auto Ontology generates a starting ontology from enterprise metadata, validates agent SQL against…]]
+- `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity|Marvell agrees to buy Lumentum, expanding AI connectivity]]
+- `2026-11-02` [[2026-11-02-larridin-raises-30-million-to-measure-what-companies-get-fro|Larridin raises $30 million to measure what companies get from AI spending]]
+- `2026-11-02` [[2026-11-02-chatgpt-s-unified-workspace-brings-shared-usage-budgeting-in|ChatGPT’s unified workspace brings shared usage budgeting into focus]]
+- `2026-11-02` [[2026-11-02-anthropic-targets-japanese-investors-for-a-slice-of-its-u-s|Anthropic targets Japanese investors for a slice of its U.S. IPO]]
+- `2026-11-02` [[2026-11-02-adnoc-s-frontier-deployment-anchors-broader-abu-dhabi-agreem|ADNOC’s Frontier deployment anchors broader Abu Dhabi agreements]]
+- `2026-11-01` [[2026-11-01-trump-administration-declines-to-release-documents-on-its-vo|Trump administration declines to release documents on its voluntary AI testing framework]]
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-openai-plans-post-midterm-policy-push-including-rebranding-d|OpenAI plans post-midterm policy push, including rebranding data centers as "AI compute campuses"]]
+- `2026-11-01` [[2026-11-01-openai-plans-a-post-midterm-policy-push-including-speed-limi|OpenAI plans a post-midterm policy push, including speed limits for frontier systems]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-1-2026|Daily AI News Digest – November 1, 2026]]
+- `2026-11-01` [[2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc|Citing the Financial Times and The Wall Street Journal, TechCrunch reports OpenAI has lowered the target for its…]]
+- `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
+- `2026-11-01` [[2026-11-01-axios-reports-openai-will-launch-a-policy-and-pr-campaign-ri|Axios reports OpenAI will launch a policy and PR campaign right after Tuesday's midterms, timed to the lame-duck…]]
+- `2026-10-31` [[2026-10-31-october-31-2026-wall-street-journal|[October 31, 2026] · [Wall Street Journal]]]
 - `2026-10-31` [[2026-10-31-openai-s-latest-round-reportedly-falls-well-short-of-its-30|OpenAI's latest round reportedly falls well short of its $30 billion goal]]
+- `2026-10-31` [[2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af|OpenAI reportedly lowers its funding target to $20 billion after a lukewarm investor response]]
+- `2026-10-31` [[2026-10-31-openai-cuts-its-round-to-20-billion-after-raising-less-than|OpenAI cuts its round to $20 billion after raising less than half its original goal]]
+- `2026-10-31` [[2026-10-31-openai-cuts-its-round-target-to-20-billion-after-raising-abo|OpenAI cuts its round target to $20 billion after raising about $11 billion]]
+- `2026-10-31` [[2026-10-31-judge-lets-naacp-clean-air-act-lawsuit-over-xai-s-colossus-d|Judge lets NAACP Clean Air Act lawsuit over xAI's Colossus data center proceed]]
+- `2026-10-31` [[2026-10-31-directly-scanned-blogs-and-publications-openai-news-and-rss|Directly scanned blogs and publications: OpenAI News and RSS; Google DeepMind Blog; Meta AI Blog (no readable page…]]
+- `2026-10-31` [[2026-10-31-daily-ai-news-digest-october-31-2026|Daily AI News Digest – October 31, 2026]]
+- `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
+- `2026-10-31` [[2026-10-31-anthropic-s-s-1-makes-life-sciences-central-to-its-ipo-pitch|Anthropic's S-1 makes life sciences central to its IPO pitch]]
 - `2026-10-30` [[2026-10-30-october-30-2026-microsoft-bing-blog|[October 30, 2026] · [Microsoft Bing Blog]]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-30` [[2026-10-30-openai-and-microsoft-give-publishers-separate-controls-for-a|OpenAI and Microsoft give publishers separate controls for AI training and grounding]]
+- `2026-10-30` [[2026-10-30-microsoft-and-openai-give-publishers-separate-controls-for-a|Microsoft and OpenAI give publishers separate controls for AI training and grounding]]
 - `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
+- `2026-10-30` [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per|Inside a malicious Claude Code-branded extension and its persistent SSH backdoor]]
 - `2026-10-30` [[2026-10-30-chatgpt-desktop-app-can-now-run-inference-through-amazon-bed|ChatGPT desktop app can now run inference through Amazon Bedrock in AWS GovCloud]]
+- `2026-10-30` [[2026-10-30-chatgpt-desktop-app-can-now-route-inference-to-amazon-bedroc|ChatGPT desktop app can now route inference to Amazon Bedrock in AWS GovCloud]]
 - `2026-10-29` [[2026-10-29-october-29-2026-wall-street-journal|[October 29, 2026] · [Wall Street Journal]]]
 - `2026-10-29` [[2026-10-29-university-of-washington-researchers-presented-micro-languag|University of Washington researchers presented micro language models with 8 to 30 million parameters at EMNLP 2026]]
 - `2026-10-29` [[2026-10-29-servicenow-sinks-19-as-investors-price-ai-risk-to-saas-even|ServiceNow sinks 19% as investors price AI risk to SaaS, even as it deepens OpenAI ties]]

@@ -5,8 +5,8 @@ title: Virginia's Joint Legislative Audit and Review Commission (JLARC) began a 
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.yahoo.com/news/politics/articles/jlarc-recommends-ai-oversight-standards-205619711.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 6ed54f4abab59dd683c0c6d8571628e4a366cbb25ee4e19968c64a4f130a589b
 normalized_title_hash: 6bc9d3c353b2bcf1

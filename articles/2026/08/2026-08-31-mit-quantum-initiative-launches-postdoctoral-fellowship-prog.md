@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts
+- 2026-10-30-five-mit-faculty-named-2026-schmidt-sciences-ai2050-fellows
+- 2026-10-31-schmidt-sciences-named-five-mit-faculty-members-and-two-alum
 - 2026-09-02-from-mit-to-ibm-expediting-ai-and-quantum-deployment
 - 2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun
-- 2026-10-09-stanford-opened-predoctoral-research-fellowship-opportunitie
-- 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
 embedding_id: 2026-08-31-mit-quantum-initiative-launches-postdoctoral-fellowship-prog
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The MIT Quantum Initiative launched a postdoctoral fellowship program and will w
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts]] · [[2026-09-02-from-mit-to-ibm-expediting-ai-and-quantum-deployment]] · [[2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun]] · [[2026-10-09-stanford-opened-predoctoral-research-fellowship-opportunitie]] · [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien]]
+**Related:** [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts]] · [[2026-10-30-five-mit-faculty-named-2026-schmidt-sciences-ai2050-fellows]] · [[2026-10-31-schmidt-sciences-named-five-mit-faculty-members-and-two-alum]] · [[2026-09-02-from-mit-to-ibm-expediting-ai-and-quantum-deployment]] · [[2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun]]
 <!-- graph:end -->

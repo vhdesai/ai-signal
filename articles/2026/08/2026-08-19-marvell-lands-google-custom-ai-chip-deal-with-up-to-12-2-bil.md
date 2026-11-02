@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-meets-a-timing-rea
-- 2026-08-28-marvell-sells-off-8-as-google-custom-silicon-revenue-slips-t
+- 2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de
 embedding_id: 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Marvell disclosed a commercial agreement with Google covering custom AI silicon,
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2b-sh]] · [[2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-meets-a-timing-rea]] · [[2026-08-28-marvell-sells-off-8-as-google-custom-silicon-revenue-slips-t]]
+**Related:** [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2b-sh]] · [[2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-meets-a-timing-rea]] · [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de]]
 <!-- graph:end -->

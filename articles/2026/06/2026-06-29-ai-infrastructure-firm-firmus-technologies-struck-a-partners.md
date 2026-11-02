@@ -5,8 +5,8 @@ title: AI-infrastructure firm Firmus Technologies struck a partnership to buy Nv
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/australias-firmus-technologies-strikes-ai-140253776.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 9bd28c6c411727922f12f54b0f0cfde8b32dc9dda57fa14a384c0a3cf50047bc

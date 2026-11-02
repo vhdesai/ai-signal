@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition
 - 2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia
-- 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
+- 2026-11-01-ai-shopping-agents-emerge-as-a-potential-rival-to-amazon-s-e
 embedding_id: 2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Wall Street Journal reports Amazon is in talks to buy Decart, a San Francisc
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]]
+**Related:** [[2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-11-01-ai-shopping-agents-emerge-as-a-potential-rival-to-amazon-s-e]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: OpenAI names ex-Uber India chief as its first India managing director
 date: '2026-06-27'
 source: The Next Web
 url_original: null
-url_canonical: https://thenextweb.com/news/openai-india-managing-director-prabhjeet-singh-uber
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_060911_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 9d0431d85750548bcd3b1e9717d6935df41c2f341f7e1807bb9d7dc0cfda62d7

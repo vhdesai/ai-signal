@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n
 - 2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
-- 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
-- 2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as
+- 2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7
+- 2026-10-30-investors-turn-on-ai-capex-as-big-tech-free-cash-flow-goes-n
 embedding_id: 2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's Q2 2026 free cash flow collapsed 91% year over year to $784M (from $8.55B
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n]] · [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as]]
+**Related:** [[2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n]] · [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7]] · [[2026-10-30-investors-turn-on-ai-capex-as-big-tech-free-cash-flow-goes-n]]
 <!-- graph:end -->

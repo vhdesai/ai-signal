@@ -4,8 +4,8 @@ title: Brain-wave data may become a new training signal for physical AI
 date: '2026-07-26'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-27-daily-ai-news-digest.md
 content_hash: e963bd87539e8695d3d989c3085b28b598bb839c108231c99ceef8adf5902e2d
 normalized_title_hash: 1bb8fdec1c5cc422

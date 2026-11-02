@@ -5,8 +5,8 @@ title: A Chinese cybersecurity company is building offensive and defensive AI to
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techstartups.com/2026/06/24/china-builds-its-own-rival-to-anthropics-mythos-as-ai-cyberwar-race-intensifies/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 73b359bd3a04f2742251524ee9642849e1ec044993db14b50442804c46a5738a

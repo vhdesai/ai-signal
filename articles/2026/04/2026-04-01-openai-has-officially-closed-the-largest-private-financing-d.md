@@ -5,8 +5,8 @@ title: OpenAI has officially closed the largest private financing deal in Silico
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://qz.com/openai-funding-round-valuation-ipo-chatgpt
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 4889d36b0c8e2df226e12150fd6ac45888df1c36f00e0cf75d646c0a31b8b915

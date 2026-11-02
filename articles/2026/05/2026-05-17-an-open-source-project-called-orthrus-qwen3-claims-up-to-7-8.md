@@ -5,8 +5,8 @@ title: An open-source project called Orthrus-Qwen3 claims up to 7.8x tokens-per-
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.skysynctech.ca/news/orthrus-qwen3-token-throughput-improvement
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 89bf521b67922954e7f3fe4494b99936550445efaf50a21b43a7fcb684c9a71f
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-02-qwengpu-builds-a-working-gpu-into-qwen3-5-2b-s-weights-that
 - 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
 - 2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-rea
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
-- 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 embedding_id: 2026-05-17-an-open-source-project-called-orthrus-qwen3-claims-up-to-7-8
 event_name: ''
 ---
@@ -37,5 +37,5 @@ An open-source project called Orthrus-Qwen3 claims up to 7.8x tokens-per-forward
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-rea]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]]
+**Related:** [[2026-11-02-qwengpu-builds-a-working-gpu-into-qwen3-5-2b-s-weights-that]] · [[2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-rea]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]]
 <!-- graph:end -->

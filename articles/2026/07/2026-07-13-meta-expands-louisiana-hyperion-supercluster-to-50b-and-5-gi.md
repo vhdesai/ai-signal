@@ -4,8 +4,8 @@ title: Meta Expands Louisiana "Hyperion" Supercluster to $50B and 5 Gigawatts
 date: '2026-07-13'
 source: Benzinga (Reuters)**
 url_original: https://www.benzinga.com/markets/tech/26/07/60410281/mark-zuckerbergs-meta-just-supercharged-its-biggest-ai-bet-yet-expanding-its-hyperion-data-center-into-a-50-billion-plus-project
-url_canonical: https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html
-url_status: repaired
+url_canonical: https://www.benzinga.com/markets/tech/26/07/60410281/mark-zuckerbergs-meta-just-supercharged-its-biggest-ai-bet-yet-expanding-its-hyperion-data-center-into-a-50-billion-plus-project
+url_status: broken
 digest_source: digests\raw\2026-07-13_065032_Final-Daily-AI-News-Digest.md
 content_hash: 4bfc2ee583c9fd9649035a831e086a1da2d0504ea9fe995f15e8dc68f5080397
 normalized_title_hash: 3b09135e96051181

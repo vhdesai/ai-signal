@@ -4,8 +4,8 @@ title: '"Slopsquatting" emerges as an AI-coding supply-chain threat'
 date: '2026-07-11'
 source: VentureBeat
 url_original: null
-url_canonical: https://dzone.com/articles/Slopsquatting-supply-chain-attack
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_060920_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 45d35685d9b9d529cf3987843209bd3cb4253cd6d7714cc1d03ae01d0c2fbfbc

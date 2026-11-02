@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: DealBook; The Information; PitchBook
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI%20annualized%20revenue%20near%2050%20billion
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI%20annualized%20revenue%20near%2050%20billion
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-10_065339_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: dfd8f5709c85e20bfbd476cd755bdeba40c5f489c4679394678bc4ed236c8d50
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep
 - 2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch
 - 2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power
-- 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
+- 2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af
 embedding_id: 2026-10-09-openai-s-revenue-reset-sharpens-scrutiny-on-frontier-lab-eco
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DealBook highlighted OpenAI’s revenue surprise, while The Information reported
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project]] · [[2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep]] · [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch]] · [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power]] · [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re]]
+**Related:** [[2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project]] · [[2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep]] · [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch]] · [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power]] · [[2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af]]
 <!-- graph:end -->

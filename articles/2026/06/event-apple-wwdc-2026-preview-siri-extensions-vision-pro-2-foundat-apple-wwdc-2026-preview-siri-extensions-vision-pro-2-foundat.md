@@ -6,8 +6,8 @@ date: '2026-06-08'
 source: 'Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models,
   and Privacy AI'
 url_original: null
-url_canonical: https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\Apple WWDC 2026 Preview - Siri Extensions Vision Pro and
   Privacy AI.md
 content_hash: 8b43c50a88f4b31dca51fe5a7559bc51c688553ff47cc88744bee63e01ffa058

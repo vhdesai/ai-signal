@@ -1,15 +1,31 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1333
+member_count: 1349
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1333 connected article(s).
+> Auto-generated topic hub. 1349 connected article(s).
 
+- `2026-11-02` [[2026-11-02-larridin-founded-by-former-comscore-executives-raised-30-mil|Larridin, founded by former Comscore executives, raised $30 million led by Pelion Ventures, with a16z and Gradient…]]
+- `2026-11-02` [[2026-11-02-larridin-raises-30-million-to-measure-what-companies-get-fro|Larridin raises $30 million to measure what companies get from AI spending]]
+- `2026-11-02` [[2026-11-02-anthropic-targets-japanese-investors-for-a-slice-of-its-u-s|Anthropic targets Japanese investors for a slice of its U.S. IPO]]
+- `2026-11-01` [[2026-11-01-november-1-2026-pitchbook|[November 1, 2026] · [PitchBook]]]
+- `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-1-2026|Daily AI News Digest – November 1, 2026]]
+- `2026-11-01` [[2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc|Citing the Financial Times and The Wall Street Journal, TechCrunch reports OpenAI has lowered the target for its…]]
+- `2026-11-01` [[2026-11-01-anthropic-s-s-1-says-its-seven-cofounders-have-pledged-80-of|Anthropic's S-1 says its seven cofounders have pledged 80% of their personal stock to charity, potentially about $80…]]
+- `2026-11-01` [[2026-11-01-anthropic-s-s-1-locks-in-founder-control-and-unusual-equity|Anthropic's S-1 locks in founder control and unusual equity-based giving]]
+- `2026-11-01` [[2026-11-01-anthropic-s-ipo-filing-commits-founder-stock-and-company-equ|Anthropic's IPO filing commits founder stock and company equity to charitable giving]]
+- `2026-10-31` [[2026-10-31-october-31-2026-wall-street-journal|[October 31, 2026] · [Wall Street Journal]]]
 - `2026-10-31` [[2026-10-31-openai-s-latest-round-reportedly-falls-well-short-of-its-30|OpenAI's latest round reportedly falls well short of its $30 billion goal]]
+- `2026-10-31` [[2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af|OpenAI reportedly lowers its funding target to $20 billion after a lukewarm investor response]]
+- `2026-10-31` [[2026-10-31-openai-cuts-its-round-to-20-billion-after-raising-less-than|OpenAI cuts its round to $20 billion after raising less than half its original goal]]
+- `2026-10-31` [[2026-10-31-openai-cuts-its-round-target-to-20-billion-after-raising-abo|OpenAI cuts its round target to $20 billion after raising about $11 billion]]
 - `2026-10-31` [[2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr|Drug discovery becomes a frontier-lab growth story for Anthropic and Isomorphic Labs]]
+- `2026-10-31` [[2026-10-31-anthropic-s-s-1-makes-life-sciences-central-to-its-ipo-pitch|Anthropic's S-1 makes life sciences central to its IPO pitch]]
+- `2026-10-31` [[2026-10-31-according-to-the-financial-times-blackstone-the-anchor-inves|According to the Financial Times, Blackstone, the anchor investor in a $63 billion chip-financing deal for Anthropic,…]]
+- `2026-10-30` [[2026-10-30-blackstone-reportedly-expects-anthropic-to-get-a-high-junk-r|Blackstone reportedly expects Anthropic to get a high junk rating after its IPO]]
 - `2026-10-30` [[2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra|Anthropic's financing stack shows strain: an expected junk rating and an Nvidia backstop]]
 - `2026-10-29` [[2026-10-29-october-30-2026-pitchbook|[October 30, 2026] · [PitchBook]]]
 - `2026-10-29` [[2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back|NYSE's Lynn Martin says Anthropic's listing is holding back the IPO pipeline]]

@@ -4,8 +4,8 @@ title: Judges and lawyers confront AI's role in the courts
 date: '2026-07-18'
 source: Axios
 url_original: null
-url_canonical: https://kblip.com/news/judges-and-lawyers-debate-ai-use-in-courts-mQP2o7f
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: 20da99145ac450b6b41c6a65bd7036f936c8bec985741e8de73655728cafa2b0
 normalized_title_hash: 82ab2dc11ca43c89

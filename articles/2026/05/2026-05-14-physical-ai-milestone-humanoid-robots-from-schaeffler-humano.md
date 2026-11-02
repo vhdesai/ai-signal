@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
 - 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control
-- 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
-- 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
+- 2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin
+- 2026-10-31-meta-built-a-humanoid-prototype-with-china-s-fourier-as-its
 embedding_id: 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Two separate physical AI ventures — a Schaeffler/Humanoid joint venture and RL
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control]] · [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]]
+**Related:** [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control]] · [[2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin]] · [[2026-10-31-meta-built-a-humanoid-prototype-with-china-s-fourier-as-its]]
 <!-- graph:end -->

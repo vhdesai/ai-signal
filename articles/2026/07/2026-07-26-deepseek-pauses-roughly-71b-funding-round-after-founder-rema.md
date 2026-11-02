@@ -4,8 +4,8 @@ title: DeepSeek pauses roughly $71B funding round after founder remarks go viral
 date: '2026-07-26'
 source: The Next Web
 url_original: null
-url_canonical: https://www.unite.ai/deepseek-pauses-second-funding-round-after-viral-founder-remarks/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-26_065947_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 3fff828abd22a5f076241aed6a697ace32cfd01b1e2e34ce96b07bfd71a8fc38

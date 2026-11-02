@@ -4,8 +4,8 @@ title: The industry that funded deregulation now lobbies for formal AI rules
 date: '2026-06-27'
 source: The Next Web
 url_original: null
-url_canonical: https://thenextweb.com/news/silicon-valley-ai-regulation-trump-biden-irony-framework
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_061921_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 1786a79a619b99bab6919a67b797aafce2bdfb6537a246e7c0dbd6661ec27bae

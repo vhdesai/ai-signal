@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag
 - 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
+- 2026-11-01-techcrunch-reports-data-centers-and-ai-dominated-discussion
 - 2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms
 - 2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan
-- 2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a
 embedding_id: 2026-08-20-ai-data-centre-regulation-just-got-a-template-that-needs-no
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Pennsylvania has made AI data centre permits conditional on a signed offtake con
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]] · [[2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a]]
+**Related:** [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-11-01-techcrunch-reports-data-centers-and-ai-dominated-discussion]] · [[2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]]
 <!-- graph:end -->

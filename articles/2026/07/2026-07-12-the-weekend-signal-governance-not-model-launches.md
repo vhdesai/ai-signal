@@ -4,8 +4,8 @@ title: 'The Weekend Signal: Governance, Not Model Launches'
 date: '2026-07-12'
 source: 'Source window: July 11, 6:09 AM – July 12, 6:09 AM PDT'
 url_original: null
-url_canonical: https://www.techtimes.com/articles/324045/20260812/signal-launches-automatic-key-verification-stop-server-level-wiretapping.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_062259_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 7811302c9a03f538846f3884d3bf849f35a57fc445518e0f3aa61506f0933445

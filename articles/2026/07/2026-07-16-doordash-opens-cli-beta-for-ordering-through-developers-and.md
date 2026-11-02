@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via
+- 2026-10-30-doordash-says-ai-agents-have-placed-only-several-hundred-ord
 - 2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa
-- 2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi
 embedding_id: 2026-07-16-doordash-opens-cli-beta-for-ordering-through-developers-and
 event_name: ''
 ---
@@ -38,5 +38,5 @@ DoorDash introduced a limited beta of dd-cli, a command-line tool that lets deve
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via]] · [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]] · [[2026-10-24-messaging-native-ai-agents-expand-as-a-no-new-app-distributi]]
+**Related:** [[2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via]] · [[2026-10-30-doordash-says-ai-agents-have-placed-only-several-hundred-ord]] · [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]]
 <!-- graph:end -->

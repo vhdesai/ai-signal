@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
 - 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
-- 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
+- 2026-10-30-mit-project-tracks-how-chatbots-answer-2026-midterm-election
 embedding_id: 2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT Lincoln Laboratory and the U.S. Air Force-MIT AI Accelerator described a pro
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]]
+**Related:** [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-10-30-mit-project-tracks-how-chatbots-answer-2026-midterm-election]]
 <!-- graph:end -->

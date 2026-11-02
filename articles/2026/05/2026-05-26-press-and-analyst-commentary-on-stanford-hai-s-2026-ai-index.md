@@ -5,8 +5,8 @@ title: Press and analyst commentary on Stanford HAI's 2026 AI Index continues to
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: bee5073dbca15c7bcc3d078bcde18172a4db886efdd8e5e5b244ed7cd2d41b1b

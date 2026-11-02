@@ -4,8 +4,8 @@ title: OpenAI Considers Drastic Price Cuts to Compete with Anthropic
 date: '2026-06-11'
 source: Wall Street Journal
 url_original: null
-url_canonical: https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: 5ac11e63b3a428d4522405fc153142982dc2f23003318b634a39a890076dc61a
 normalized_title_hash: 6d0818b334309c11

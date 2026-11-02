@@ -5,8 +5,8 @@ title: China tightens outbound-investment screening over ByteDance, Moonshot, St
 date: '2026-04-23'
 source: WSJ / Axios
 url_original: null
-url_canonical: https://finance.yahoo.com/sectors/technology/articles/china-curb-us-investment-tech-094606640.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 78418c756ac167bce7f81d7f9b495fff09686b00337fd8664f6ad4a1273e8eb3

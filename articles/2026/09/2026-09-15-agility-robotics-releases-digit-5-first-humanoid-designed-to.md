@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control
 - 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
-- 2026-07-05-agility-robotics-is-going-public-via-spac
+- 2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin
 embedding_id: 2026-09-15-agility-robotics-releases-digit-5-first-humanoid-designed-to
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Agility Robotics unveiled Digit 5, its next-generation humanoid robot for wareho
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-17-agility-robotics-opens-new-training-center-near-tesla-s-fact]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control]] · [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid]] · [[2026-07-05-agility-robotics-is-going-public-via-spac]]
+**Related:** [[2026-07-17-agility-robotics-opens-new-training-center-near-tesla-s-fact]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control]] · [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid]] · [[2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin]]
 <!-- graph:end -->

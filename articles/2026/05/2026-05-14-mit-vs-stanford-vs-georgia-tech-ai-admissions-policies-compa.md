@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-31-university-coverage-uc-berkeley-stanford-mit-purdue-georgia
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 - 2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 - 2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens
-- 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
 embedding_id: 2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT vs. Stanford vs. Georgia Tech: AI admissions policies compared — GradPilot
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]]
+**Related:** [[2026-10-31-university-coverage-uc-berkeley-stanford-mit-purdue-georgia]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens]]
 <!-- graph:end -->

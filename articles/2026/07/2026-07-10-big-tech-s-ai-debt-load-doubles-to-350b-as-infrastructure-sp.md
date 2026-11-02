@@ -5,8 +5,8 @@ title: Big Tech's AI debt load doubles to $350B as infrastructure spending strai
 date: '2026-07-10'
 source: Yahoo Finance
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/articles/big-tech-doubled-debt-350-194625784.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 7daf37c7d34471cfd643a3def51a2b4704f26499fa0ca43fa3285f1aa2b3876d

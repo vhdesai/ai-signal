@@ -5,8 +5,8 @@ title: Meta rolled out a $299 AI smart‑glasses model — about $80 below its p
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cnbc.com/2026/06/23/meta-glasses-are-new-smart-glasses-starting-at-299.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 43f4ece8ed75bd0400a39e54b859743952a5456741efc4c6beb20e2c55a57fa8

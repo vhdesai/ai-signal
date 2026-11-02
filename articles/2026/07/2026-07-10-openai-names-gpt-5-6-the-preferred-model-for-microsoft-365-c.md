@@ -4,8 +4,8 @@ title: OpenAI names GPT-5.6 the “preferred model” for Microsoft 365 Copilot
 date: '2026-07-10'
 source: Firstpost
 url_original: https://www.firstpost.com/tech/openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-copilot-amid-partnership-questions-14030303.html
-url_canonical: https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/
-url_status: repaired
+url_canonical: https://www.firstpost.com/tech/openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-copilot-amid-partnership-questions-14030303.html
+url_status: broken
 digest_source: digests\raw\2026-07-11_060831_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: ec9d62b9d3760f15c36c8584f1fac8e34c09b5faa32f5eba9d686f8e9a024f14

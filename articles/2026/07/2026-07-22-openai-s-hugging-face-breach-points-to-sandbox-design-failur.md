@@ -4,8 +4,8 @@ title: OpenAI's Hugging Face breach points to sandbox-design failure, experts sa
 date: '2026-07-22'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-23-daily-ai-news-digest.md
 content_hash: 969e936a002e65bf94bf33765e253838ce2b23e518bb47e4b77174dbf910a90d
 normalized_title_hash: 0b4734a1aacbde7f

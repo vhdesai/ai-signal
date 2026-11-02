@@ -4,8 +4,8 @@ title: Google caps Meta's Gemini usage as compute scarcity bites
 date: '2026-06-28'
 source: CNBC
 url_original: null
-url_canonical: https://www.nationpress.com/business/google-caps-metas-gemini-ai-access
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_061921_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 48eda5c06b497fc3765b534a05b42171ee38bdcc23513605806125fd66798fa0

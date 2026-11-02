@@ -4,8 +4,8 @@ title: Goldman Sachs Names Its Favorite Chinese AI Models
 date: '2026-07-12'
 source: CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_065239_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: f5495e55b94a10d3ffcccc5aa74a61509bb2555599dc8b0d5e2886b68cb7c9c0

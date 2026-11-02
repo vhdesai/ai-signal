@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
+- 2026-11-01-in-a-wired-interview-summarized-by-techcrunch-new-apple-ceo
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
 - 2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t
-- 2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc
 embedding_id: 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Apple rebranded Siri as "Siri AI" with its own dedicated app, powered by Google'
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t]] · [[2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc]]
+**Related:** [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]] · [[2026-11-01-in-a-wired-interview-summarized-by-techcrunch-new-apple-ceo]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t]]
 <!-- graph:end -->

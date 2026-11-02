@@ -26,11 +26,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-31-daily-ai-news-digest-october-31-2026
+- 2026-11-01-daily-ai-news-digest-november-1-2026
 - 2026-10-10-daily-ai-news-digest-october-11-2026
 - 2026-09-25-saturday-september-26-2026
 - 2026-10-09-daily-ai-news-digest-october-10-2026
-- 2026-10-12-daily-ai-news-digest-october-13-2026
-- 2026-10-01-daily-ai-news-digest-october-1-2026
 embedding_id: 2026-10-29-daily-ai-news-digest-october-29-2026
 event_name: ''
 ---
@@ -44,5 +44,5 @@ The past 48 hours sharpened the market's AI test: spending is judged by cash con
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-10-daily-ai-news-digest-october-11-2026]] · [[2026-09-25-saturday-september-26-2026]] · [[2026-10-09-daily-ai-news-digest-october-10-2026]] · [[2026-10-12-daily-ai-news-digest-october-13-2026]] · [[2026-10-01-daily-ai-news-digest-october-1-2026]]
+**Related:** [[2026-10-31-daily-ai-news-digest-october-31-2026]] · [[2026-11-01-daily-ai-news-digest-november-1-2026]] · [[2026-10-10-daily-ai-news-digest-october-11-2026]] · [[2026-09-25-saturday-september-26-2026]] · [[2026-10-09-daily-ai-news-digest-october-10-2026]]
 <!-- graph:end -->

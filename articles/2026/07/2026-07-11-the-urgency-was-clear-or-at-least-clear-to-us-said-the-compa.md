@@ -5,8 +5,8 @@ title: '"The urgency was clear, or at least clear to us," said the company''s co
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.forbes.com/profile/gundbert-scherf/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: 315382520131cf5021b17bb89abeecb4454c4657addbc589a878657a69b1a627
 normalized_title_hash: 7f4dfe47663f2222

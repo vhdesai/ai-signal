@@ -4,8 +4,8 @@ title: Secretive defense-tech factory highlights AI-adjacent drone manufacturing
 date: '2026-07-11'
 source: DealBook
 url_original: null
-url_canonical: https://united24media.com/war-in-ukraine/ukraines-defense-tech-boom-129m-raised-in-2025-2x-growth-over-2024-15656
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 4c5e99c17ef450580ec3da7126a7b271657ff6592e95f52369475ef688598f01

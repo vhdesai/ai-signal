@@ -4,8 +4,8 @@ title: Glow emerges from stealth at $1.2 billion valuation to secure AI-era endp
 date: '2026-07-22'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: ce9881c09009e85c43f95aacaeb9e86c8129bd27d5fef3f2e9e8d5699cad3243
 normalized_title_hash: d5059cdf36f2402d

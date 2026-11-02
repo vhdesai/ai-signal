@@ -5,8 +5,8 @@ title: Stanford HAI's 400-page 2026 AI Index documented a field at a critical in
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 9926d4d95c69d5b818289b12d03bd96c1d7eb6bf561692b8237e4ff9e57d1795
 normalized_title_hash: cfa750eff8bb4330

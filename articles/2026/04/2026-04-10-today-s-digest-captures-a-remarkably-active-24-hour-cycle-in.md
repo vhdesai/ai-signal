@@ -4,8 +4,8 @@ title: Today's digest captures a remarkably active 24-hour cycle in AI
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aidigesttoday.com/digest.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 7209f9ec60039f0abcad0106d0d0980afcab45c3bc24ca85a6386c14c406219d

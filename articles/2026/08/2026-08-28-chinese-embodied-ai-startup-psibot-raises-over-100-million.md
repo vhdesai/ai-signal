@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin
+- 2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin
 - 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
 - 2026-08-29-china-s-robotics-industry-has-become-a-major-buyer-of-nvidia
 - 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
-- 2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model
 embedding_id: 2026-08-28-chinese-embodied-ai-startup-psibot-raises-over-100-million
 event_name: ''
 ---
@@ -43,5 +43,5 @@ PsiBot, a Chinese embodied-AI company focused on dexterous robotic manipulation,
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-08-29-china-s-robotics-industry-has-become-a-major-buyer-of-nvidia]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model]]
+**Related:** [[2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin]] · [[2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-08-29-china-s-robotics-industry-has-become-a-major-buyer-of-nvidia]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]]
 <!-- graph:end -->

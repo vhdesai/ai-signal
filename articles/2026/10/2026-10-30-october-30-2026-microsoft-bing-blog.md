@@ -17,10 +17,9 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-15-microsoft-reportedly-trains-sales-teams-to-compete-more-dire
+dedupe_status: duplicate
+canonical_article_id: 2026-10-30-microsoft-and-openai-give-publishers-separate-controls-for-a
+related_article_ids: []
 embedding_id: 2026-10-30-october-30-2026-microsoft-bing-blog
 event_name: ''
 ---
@@ -34,5 +33,5 @@ Microsoft is adopting the shared IETF-drafted AI training preference in robots.t
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-15-microsoft-reportedly-trains-sales-teams-to-compete-more-dire]]
+**Canonical:** [[2026-10-30-microsoft-and-openai-give-publishers-separate-controls-for-a]]
 <!-- graph:end -->

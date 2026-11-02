@@ -5,8 +5,8 @@ title: Meta released Astryx (Beta, MIT-licensed), an open-source React/StyleX de
 date: '2026-06-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.infoq.com/news/2026/09/meta-astryx-design-system/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_060351_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: ce045728ce39975848cca73911af655e3076ebedc0693b4487e2ca641d34c8b2

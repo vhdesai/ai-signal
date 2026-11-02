@@ -1,14 +1,24 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 568
+member_count: 578
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 568 connected article(s).
+> Auto-generated entity hub. 578 connected article(s).
 
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-deepseek-s-mit-licensed-prototype-listens-to-github-and-feis|DeepSeek's MIT-licensed prototype listens to GitHub and Feishu requests, turns authorized asks into isolated parallel…]]
+- `2026-11-01` [[2026-11-01-deepseek-open-sources-dsh-superagent-a-router-worker-coding|DeepSeek open-sources dsh-superagent, a router-worker coding agent that runs tasks in parallel]]
+- `2026-11-01` [[2026-11-01-deepseek-open-sources-dsh-superagent-a-coding-agent-that-run|DeepSeek open-sources dsh-superagent, a coding agent that runs work in parallel]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
+- `2026-10-31` [[2026-10-31-november-1-2026-marktechpost|[November 1, 2026] · [MarkTechPost]]]
+- `2026-10-31` [[2026-10-31-deepseek-research-prototype-explores-parallel-coding|DeepSeek research prototype explores parallel coding]]
+- `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-30` [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per|Inside a malicious Claude Code-branded extension and its persistent SSH backdoor]]
 - `2026-10-29` [[2026-10-29-deepseek-s-16-billion-round-puts-chinese-state-capital-behin|DeepSeek's $16 billion round puts Chinese state capital behind a national AI champion]]
 - `2026-10-29` [[2026-10-29-crowdstrike-details-ai-driven-espionage-scaled-across-200-pl|CrowdStrike details AI-driven espionage scaled across 200-plus organizations]]
 - `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]

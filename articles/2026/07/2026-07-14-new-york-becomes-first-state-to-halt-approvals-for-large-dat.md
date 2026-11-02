@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
 - 2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t
 - 2026-06-05-new-york-passes-first-state-level-data-center-moratorium
+- 2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue
 - 2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions
-- 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
 embedding_id: 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
 event_name: ''
 ---
@@ -39,5 +39,5 @@ York Gov. Kathy Hochul signed an executive order temporarily halting approvals f
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]]
+**Related:** [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue]] · [[2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions]]
 <!-- graph:end -->

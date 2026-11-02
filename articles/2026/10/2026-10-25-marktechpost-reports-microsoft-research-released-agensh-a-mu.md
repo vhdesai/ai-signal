@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-24-microsoft-agensh-surfaces-a-harness-pattern-for-large-multi
+- 2026-10-31-november-1-2026-marktechpost
+- 2026-11-01-deepseek-open-sources-dsh-superagent-a-router-worker-coding
 - 2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti
-- 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
-- 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 embedding_id: 2026-10-25-marktechpost-reports-microsoft-research-released-agensh-a-mu
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MarkTechPost reports Microsoft Research released Agensh, a multi-agent harness d
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-24-microsoft-agensh-surfaces-a-harness-pattern-for-large-multi]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]]
+**Related:** [[2026-10-24-microsoft-agensh-surfaces-a-harness-pattern-for-large-multi]] · [[2026-10-31-november-1-2026-marktechpost]] · [[2026-11-01-deepseek-open-sources-dsh-superagent-a-router-worker-coding]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: ByteDance and Alibaba to shut down user AI-agent creation as China's anth
 date: '2026-07-06'
 source: TechNode
 url_original: null
-url_canonical: https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-07_060820_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: b2a84a084b411741b969b3634bbc2ad5248bfece1a8b09112aded1d2f3c48eb1

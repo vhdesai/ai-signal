@@ -5,8 +5,8 @@ title: Microsoft announced a $10 billion AI infrastructure commitment to Japan i
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://news.microsoft.com/source/asia/2026/04/03/microsoft-deepens-its-commitment-to-japan-with-10-billion-investment-in-ai-infrastructure-cybersecurity-workforce/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 38602a6b1a0abccbe162fb8c90225eefdb0a537a638d3532757e6b19de20d18e

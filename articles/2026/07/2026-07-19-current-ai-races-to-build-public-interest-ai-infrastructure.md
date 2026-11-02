@@ -4,8 +4,8 @@ title: Current AI races to build public-interest AI infrastructure
 date: '2026-07-19'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-20-daily-ai-news-digest.md
 content_hash: 12cdf65a42dd2c030705c0acc5c1a636daa9a3924196e062b7e294f64917cdde
 normalized_title_hash: 4b12d7c33af97fa7

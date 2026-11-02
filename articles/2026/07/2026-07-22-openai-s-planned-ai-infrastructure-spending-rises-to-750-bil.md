@@ -4,8 +4,8 @@ title: OpenAI's planned AI infrastructure spending rises to $750 billion
 date: '2026-07-22'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-23-daily-ai-news-digest.md
 content_hash: 7b040c788d7a01dc69e6221977ccd9fe971e717990bd50059bb6addfe1ccc9f7
 normalized_title_hash: c6a3522ac371f90c

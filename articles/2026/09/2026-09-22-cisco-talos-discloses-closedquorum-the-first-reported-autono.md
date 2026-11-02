@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-22-cisco-talos-documents-first-autonomous-ai-command-and-contro
 - 2026-09-22-cisco-talos-documents-the-first-reported-malware-that-delega
+- 2026-10-31-cisco-talos-finds-infostealer-malware-using-llms-to-triage-v
 - 2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety
 - 2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use
-- 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
 embedding_id: 2026-09-22-cisco-talos-discloses-closedquorum-the-first-reported-autono
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Talos disclosed CLOSEDQUORUM, described as the first reported fully autonomous m
 
 **Entities:** [[DeepSeek]] · [[Mistral]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-22-cisco-talos-documents-first-autonomous-ai-command-and-contro]] · [[2026-09-22-cisco-talos-documents-the-first-reported-malware-that-delega]] · [[2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety]] · [[2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use]] · [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]]
+**Related:** [[2026-09-22-cisco-talos-documents-first-autonomous-ai-command-and-contro]] · [[2026-09-22-cisco-talos-documents-the-first-reported-malware-that-delega]] · [[2026-10-31-cisco-talos-finds-infostealer-malware-using-llms-to-triage-v]] · [[2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety]] · [[2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use]]
 <!-- graph:end -->

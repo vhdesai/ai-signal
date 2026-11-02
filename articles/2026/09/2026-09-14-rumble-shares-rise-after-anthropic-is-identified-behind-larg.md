@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an
 - 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
 - 2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest
 - 2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou
-- 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 embedding_id: 2026-09-14-rumble-shares-rise-after-anthropic-is-identified-behind-larg
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Blockonomi reported that Rumble shares climbed after The Information identified 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest]] · [[2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
+**Related:** [[2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest]] · [[2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou]]
 <!-- graph:end -->

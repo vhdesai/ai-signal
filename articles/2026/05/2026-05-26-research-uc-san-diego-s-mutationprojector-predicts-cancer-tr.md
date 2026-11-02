@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
 - 2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit
-- 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
+- 2026-10-31-isomorphic-labs-pushes-ai-first-drug-discovery-toward-cancer
 embedding_id: 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ UCSD researchers published MutationProjector in Cancer Discovery — an AI model
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro]] · [[2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit]] · [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]]
+**Related:** [[2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro]] · [[2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit]] · [[2026-10-31-isomorphic-labs-pushes-ai-first-drug-discovery-toward-cancer]]
 <!-- graph:end -->

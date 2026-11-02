@@ -4,8 +4,8 @@ title: 'Microsoft Build 2026: Microsoft IQ, grounding, and organizational contex
 date: '2026-06-02'
 source: Microsoft Build 2026
 url_original: null
-url_canonical: https://news.microsoft.com/build-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
 content_hash: 87792bf070f871efb3dc8a540942425fef968f84c0fd27e2421efb99480dc2ed
 normalized_title_hash: f6edbc121cbddace

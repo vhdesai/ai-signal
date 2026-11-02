@@ -5,8 +5,8 @@ title: As enterprises rein in AI bills, customers are tilting toward cheaper, of
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://tech.yahoo.com/ai/articles/companies-shifting-toward-cheaper-open-070000198.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: e4013195b75023dba4801afe60a8bbddf53da3d6015206dfe78cfd21015aeac8

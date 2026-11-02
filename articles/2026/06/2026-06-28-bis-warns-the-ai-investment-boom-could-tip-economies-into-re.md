@@ -4,8 +4,8 @@ title: BIS warns the AI investment boom could tip economies into recession
 date: '2026-06-28'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/economy/bis-sees-peril-for-economy-financial-system-in-ai-investment-boom-326960fb
-url_canonical: https://finance.yahoo.com/economy/policy/articles/bis-warns-ai-spending-boom-124800733.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: https://www.wsj.com/economy/bis-sees-peril-for-economy-financial-system-in-ai-investment-boom-326960fb
+url_status: broken
 digest_source: digests\raw\2026-06-29_060726_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 2cff30c7fbea99583a6bcd6881bd033e57f8abec75493f826e744de441e065e6

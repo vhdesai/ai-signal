@@ -4,8 +4,8 @@ title: Data centers expected to use four times more U.S. electricity by 2035
 date: '2026-07-21'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: 0d0a6c9a69ed36453061fcb038303602c672555312558353d931b2991a6ef056
 normalized_title_hash: 57dc4ac2b5266566

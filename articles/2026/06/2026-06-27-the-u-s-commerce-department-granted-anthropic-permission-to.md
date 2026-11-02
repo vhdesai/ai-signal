@@ -5,8 +5,8 @@ title: The U.S. Commerce Department granted Anthropic permission to release Clau
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 33b21848c91873a2af549e192c7be4b5e138755c1c3cd5c0808b13d5fca92802

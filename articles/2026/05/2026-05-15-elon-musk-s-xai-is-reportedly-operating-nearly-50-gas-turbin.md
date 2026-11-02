@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-compute-carries-en
 - 2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth
+- 2026-11-01-a-federal-judge-denied-xai-s-motion-to-dismiss-a-suit-allegi
 - 2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center
 - 2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-power-carries-a-po
-- 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 embedding_id: 2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Elon Musk's xAI is reportedly operating nearly 50 gas turbines without proper en
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-compute-carries-en]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]] · [[2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center]] · [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-power-carries-a-po]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]]
+**Related:** [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-compute-carries-en]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]] · [[2026-11-01-a-federal-judge-denied-xai-s-motion-to-dismiss-a-suit-allegi]] · [[2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center]] · [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-power-carries-a-po]]
 <!-- graph:end -->

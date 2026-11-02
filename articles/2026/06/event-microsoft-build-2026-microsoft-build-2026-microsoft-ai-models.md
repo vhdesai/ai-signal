@@ -4,8 +4,8 @@ title: 'Microsoft Build 2026: Microsoft AI models'
 date: '2026-06-02'
 source: Microsoft Build 2026
 url_original: null
-url_canonical: https://news.microsoft.com/build-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
 content_hash: 9bab53dcbbf4cb92c2df4d7133a5fdd4330bb581b1cd26a4e75bab800030ae58
 normalized_title_hash: 7eb2885ec6d283d2

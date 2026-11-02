@@ -20,7 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-a-major-m
+- 2026-11-01-in-a-wired-interview-summarized-by-techcrunch-new-apple-ceo
+- 2026-10-31-apple-ceo-john-ternus-says-apple-won-t-ship-ai-for-ai-s-sake
+- 2026-10-31-apple-ceo-john-ternus-apple-won-t-ship-ai-for-ai-s-sake
 embedding_id: 2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds
 event_name: ''
 ---
@@ -34,5 +36,5 @@ Fortune reported that John Ternus has taken the helm at Apple at a moment when i
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-a-major-m]]
+**Related:** [[2026-11-01-in-a-wired-interview-summarized-by-techcrunch-new-apple-ceo]] · [[2026-10-31-apple-ceo-john-ternus-says-apple-won-t-ship-ai-for-ai-s-sake]] · [[2026-10-31-apple-ceo-john-ternus-apple-won-t-ship-ai-for-ai-s-sake]]
 <!-- graph:end -->

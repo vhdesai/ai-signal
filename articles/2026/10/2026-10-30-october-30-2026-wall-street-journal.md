@@ -16,12 +16,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
-- 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
-- 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
+dedupe_status: duplicate
+canonical_article_id: 2026-10-30-intel-plunges-as-ai-demand-for-memory-squeezes-the-pc-market
+related_article_ids: []
 embedding_id: 2026-10-30-october-30-2026-wall-street-journal
 event_name: ''
 ---
@@ -35,5 +32,5 @@ Intel lost 29% after warning of disappointing fourth-quarter revenue and saying 
 
 **Entities:** [[Intel]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin]] · [[2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk]]
+**Canonical:** [[2026-10-30-intel-plunges-as-ai-demand-for-memory-squeezes-the-pc-market]]
 <!-- graph:end -->

@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7
 - 2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en
 - 2026-10-29-october-28-2026-wall-street-journal
 - 2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes
 - 2026-06-17-daily-ai-news-digest-june-18-2026
-- 2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex
 embedding_id: 2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Alphabet slid ~6% and Amazon ~4% as investors absorbed the back-to-back departur
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-10-29-october-28-2026-wall-street-journal]] · [[2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]] · [[2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex]]
+**Related:** [[2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7]] · [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-10-29-october-28-2026-wall-street-journal]] · [[2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]]
 <!-- graph:end -->

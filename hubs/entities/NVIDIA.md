@@ -1,17 +1,34 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1739
+member_count: 1756
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1739 connected article(s).
+> Auto-generated entity hub. 1756 connected article(s).
 
+- `2026-11-02` [[2026-11-02-qwengpu-builds-a-working-gpu-into-qwen3-5-2b-s-weights-that|qwenGPU builds a working GPU into Qwen3.5-2B's weights that runs real CUDA code]]
+- `2026-11-02` [[2026-11-02-openai-merges-chatgpt-s-chat-and-work-tabs-and-puts-chatgpt|OpenAI merges ChatGPT's Chat and Work tabs and puts ChatGPT and Codex on one usage pool]]
+- `2026-11-02` [[2026-11-02-nvidia-s-apache-2-0-auto-ontology-generates-a-starting-ontol|NVIDIA's Apache 2.0 Auto Ontology generates a starting ontology from enterprise metadata, validates agent SQL against…]]
+- `2026-11-02` [[2026-11-02-nvidia-open-sources-auto-ontology-to-ground-ai-agents-sql-in|NVIDIA open-sources Auto Ontology to ground AI agents' SQL in approved business definitions]]
+- `2026-11-01` [[2026-11-01-trump-administration-declines-to-release-documents-on-its-vo|Trump administration declines to release documents on its voluntary AI testing framework]]
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
 - `2026-10-31` [[2026-10-31-october-30-2026-wall-street-journal|[October 30, 2026] · [Wall Street Journal]]]
+- `2026-10-31` [[2026-10-31-verification-and-exclusions-included-articles-were-read-in-f|Verification and exclusions: Included articles were read in full and their publication times checked against…]]
+- `2026-10-31` [[2026-10-31-judge-lets-naacp-clean-air-act-lawsuit-over-xai-s-colossus-d|Judge lets NAACP Clean Air Act lawsuit over xAI's Colossus data center proceed]]
+- `2026-10-31` [[2026-10-31-daily-ai-news-digest-october-31-2026|Daily AI News Digest – October 31, 2026]]
+- `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
+- `2026-10-31` [[2026-10-31-citing-the-information-and-bloomberg-techcrunch-reports-nvid|Citing The Information and Bloomberg, TechCrunch reports Nvidia is discussing a residual value guarantee for…]]
+- `2026-10-31` [[2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7|Alphabet, Amazon, Meta, and Microsoft have outlined more than $740 billion in capex this year, and investors are now…]]
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-30` [[2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an|Nvidia reportedly in talks to guarantee debt for Nscale's Anthropic data center]]
 - `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
+- `2026-10-30` [[2026-10-30-investors-turn-on-ai-capex-as-big-tech-free-cash-flow-goes-n|Investors turn on AI capex as Big Tech free cash flow goes negative]]
+- `2026-10-30` [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per|Inside a malicious Claude Code-branded extension and its persistent SSH backdoor]]
+- `2026-10-30` [[2026-10-30-doordash-says-ai-agents-have-placed-only-several-hundred-ord|DoorDash says AI agents have placed only "several hundred" orders]]
 - `2026-10-30` [[2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra|Anthropic's financing stack shows strain: an expected junk rating and an Nvidia backstop]]
 - `2026-10-29` [[2026-10-29-october-28-2026-cnbc|[October 28, 2026] · [CNBC]]]
 - `2026-10-29` [[2026-10-29-deepseek-s-16-billion-round-puts-chinese-state-capital-behin|DeepSeek's $16 billion round puts Chinese state capital behind a national AI champion]]

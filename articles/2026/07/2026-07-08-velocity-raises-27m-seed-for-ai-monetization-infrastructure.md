@@ -4,8 +4,8 @@ title: Velocity Raises $27M Seed for AI Monetization Infrastructure
 date: '2026-07-08'
 source: Business Insider
 url_original: null
-url_canonical: https://nytech.media/velocity-raises-27m-to-build-monetization-and-distribution-infrastructure-for-the-ai-era/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_062121_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 904f3f77119b465fd03bb77fe6e4d3ea3026861a59861887e801725df5703222

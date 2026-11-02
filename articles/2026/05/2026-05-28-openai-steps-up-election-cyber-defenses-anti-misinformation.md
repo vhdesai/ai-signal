@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-openai-unveils-five-part-2026-election-integrity-and-cyber-d
+- 2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
 - 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
 - 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
-- 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
 embedding_id: 2026-05-28-openai-steps-up-election-cyber-defenses-anti-misinformation
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI announced it will offer US election authorities access to its cybersecuri
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-openai-unveils-five-part-2026-election-integrity-and-cyber-d]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt]]
+**Related:** [[2026-05-27-openai-unveils-five-part-2026-election-integrity-and-cyber-d]] · [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]]
 <!-- graph:end -->

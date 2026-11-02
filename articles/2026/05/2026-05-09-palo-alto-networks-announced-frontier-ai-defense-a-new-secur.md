@@ -5,8 +5,8 @@ title: Palo Alto Networks announced Frontier AI Defense, a new security initiati
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.paloaltonetworks.com/company/press/2026/palo-alto-networks-introduces-frontier-ai-critical-defense-program
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: dd6b5749e15502371547d01d1b9f13c50f3abee9b5cc2b731f9f6bb567b599d6
 normalized_title_hash: 87930d9f24ea2d9f

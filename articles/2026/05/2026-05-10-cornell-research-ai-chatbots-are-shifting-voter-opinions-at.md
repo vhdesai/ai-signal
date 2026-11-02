@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter
 - 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 - 2026-10-25-techcrunch-reports-on-a-convovo-study-led-by-a-cornell-affil
+- 2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte
 - 2026-10-24-cross-model-political-preference-findings-raise-governance-a
-- 2026-04-02-academic-research
 embedding_id: 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Cornell researchers released data from press releases circulated May 10–11 sho
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-10-25-techcrunch-reports-on-a-convovo-study-led-by-a-cornell-affil]] · [[2026-10-24-cross-model-political-preference-findings-raise-governance-a]] · [[2026-04-02-academic-research]]
+**Related:** [[2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-10-25-techcrunch-reports-on-a-convovo-study-led-by-a-cornell-affil]] · [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte]] · [[2026-10-24-cross-model-political-preference-findings-raise-governance-a]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-vercel-launches-is-agentic-a-free-agent-readiness-scoring-to
+- 2026-10-31-vercel-labs-open-sources-agent-desktop-for-cross-os-computer
 - 2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai
 - 2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n
 - 2026-07-13-prime-intellect-releases-verifiers-v1-a-composable-toolkit-f
@@ -36,5 +37,5 @@ Vercel released a free tool scoring how easily AI agents can discover, access, a
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-23-vercel-launches-is-agentic-a-free-agent-readiness-scoring-to]] · [[2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai]] · [[2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n]] · [[2026-07-13-prime-intellect-releases-verifiers-v1-a-composable-toolkit-f]]
+**Related:** [[2026-08-23-vercel-launches-is-agentic-a-free-agent-readiness-scoring-to]] · [[2026-10-31-vercel-labs-open-sources-agent-desktop-for-cross-os-computer]] · [[2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai]] · [[2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n]] · [[2026-07-13-prime-intellect-releases-verifiers-v1-a-composable-toolkit-f]]
 <!-- graph:end -->

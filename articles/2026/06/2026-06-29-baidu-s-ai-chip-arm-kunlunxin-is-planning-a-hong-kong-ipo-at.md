@@ -5,8 +5,8 @@ title: Baidu's AI chip arm Kunlunxin is planning a Hong Kong IPO at a ~$50B targ
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 88e7ad84d6af0b44bf641bdc1e49332de9f38a551509b8bd3c0339078a775ecc

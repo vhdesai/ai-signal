@@ -1,13 +1,32 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 484
+member_count: 503
 ---
 
 # Apple
 
-> Auto-generated entity hub. 484 connected article(s).
+> Auto-generated entity hub. 503 connected article(s).
 
+- `2026-11-02` [[2026-11-02-south-korea-s-2027-budget-puts-state-backed-ai-investment-in|South Korea’s 2027 budget puts state-backed AI investment in focus]]
+- `2026-11-02` [[2026-11-02-a-wired-investigation-building-on-research-by-ai-forensics-f|A Wired investigation, building on research by AI Forensics, found a network of more than 400 connected apps and…]]
+- `2026-11-01` [[2026-11-01-trump-administration-declines-to-release-documents-on-its-vo|Trump administration declines to release documents on its voluntary AI testing framework]]
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-nace-ai-released-open-weights-for-drex-max-v1-a-dense-27b-mu|Nace AI released open weights for Drex Max v1, a dense 27B multimodal model that returns calibrated probabilities over…]]
+- `2026-11-01` [[2026-11-01-nace-ai-open-sources-drex-max-v1-a-27b-decision-model-that-r|Nace AI open-sources Drex Max v1, a 27B decision model that runs locally]]
+- `2026-11-01` [[2026-11-01-in-a-wired-interview-summarized-by-techcrunch-new-apple-ceo|In a Wired interview summarized by TechCrunch, new Apple CEO John Ternus defended Apple's AI position after the delayed…]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
+- `2026-11-01` [[2026-11-01-anthropic-s-ipo-filing-commits-founder-stock-and-company-equ|Anthropic's IPO filing commits founder stock and company equity to charitable giving]]
+- `2026-10-31` [[2026-10-31-judge-lets-naacp-clean-air-act-lawsuit-over-xai-s-colossus-d|Judge lets NAACP Clean Air Act lawsuit over xAI's Colossus data center proceed]]
+- `2026-10-31` [[2026-10-31-directly-scanned-blogs-and-publications-openai-news-and-rss|Directly scanned blogs and publications: OpenAI News and RSS; Google DeepMind Blog; Meta AI Blog (no readable page…]]
+- `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
+- `2026-10-31` [[2026-10-31-apple-schedules-a-staged-china-ai-rollout|Apple schedules a staged China AI rollout]]
+- `2026-10-31` [[2026-10-31-apple-schedules-a-staged-apple-intelligence-rollout-in-china|Apple schedules a staged Apple Intelligence rollout in China with Alibaba Qwen support]]
+- `2026-10-31` [[2026-10-31-apple-emphasizes-product-value-over-ai-for-its-own-sake|Apple emphasizes product value over AI for its own sake]]
+- `2026-10-31` [[2026-10-31-apple-ceo-john-ternus-apple-won-t-ship-ai-for-ai-s-sake|Apple CEO John Ternus: Apple won't "ship AI for AI's sake"]]
+- `2026-10-31` [[2026-10-31-apple-ceo-john-ternus-says-apple-won-t-ship-ai-for-ai-s-sake|Apple CEO John Ternus says Apple won't ship AI for AI's sake]]
+- `2026-10-30` [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per|Inside a malicious Claude Code-branded extension and its persistent SSH backdoor]]
 - `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
 - `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]

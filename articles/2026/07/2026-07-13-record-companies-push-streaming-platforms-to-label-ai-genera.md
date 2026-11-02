@@ -4,8 +4,8 @@ title: Record companies push streaming platforms to label AI-generated songs
 date: '2026-07-13'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://www.musicbusinessworldwide.com/record-industry-proposes-ai-labeling-system-for-streaming-platforms/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-13_065732_Final-Daily-AI-News-Digest.md
 content_hash: 2a3143c0e24ff5b8886a34634066b3e349d7296af23a9aa37c4a540e6541034a
 normalized_title_hash: 53e8feb422a21b33

@@ -5,8 +5,8 @@ title: OpenAI unveiled the GPT‑5.6 family — Sol (flagship), Terra (balanced,
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: a847866d35bd66a0a2e88e2311c494e03f0dbb8320e6fd4c501655e6ed4c0b4e

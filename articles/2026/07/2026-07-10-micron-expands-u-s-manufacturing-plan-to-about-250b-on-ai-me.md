@@ -4,8 +4,8 @@ title: Micron expands U.S. manufacturing plan to about $250B on AI-memory demand
 date: '2026-07-10'
 source: Business Times
 url_original: null
-url_canonical: https://www.foxbusiness.com/media/micron-ceo-says-ai-boom-drives-unprecedented-memory-demand-company-invests-250b
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: d1f13fefec586eb313ac2457ff59121fae86e33ff02866e3b9c74cc41a28b026

@@ -4,8 +4,8 @@ title: Mayo Clinic AI flags pancreatic cancer risk earlier than current screenin
 date: '2026-05-04'
 source: The Decoder
 url_original: null
-url_canonical: https://www.digitalhealthnews.com/mayo-clinic-ai-flags-pancreatic-cancer-years-before-diagnosis
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 580f7e9d307dde8d869a6c19d8e6d97792e540ca14ceb17e43cab94d55e72b1b

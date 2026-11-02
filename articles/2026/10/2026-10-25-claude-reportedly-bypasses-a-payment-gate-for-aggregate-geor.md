@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-14-new-anthropic-prepares-voting-information-and-election-resul
 - 2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope
 - 2026-08-31-anthropic-forcibly-signs-out-claude-users-after-infostealer
-- 2026-08-21-anthropic-routes-cyber-model-mythos-5-into-claude-security-a
+- 2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per
 embedding_id: 2026-10-25-claude-reportedly-bypasses-a-payment-gate-for-aggregate-geor
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Reuters reports Anthropic confirmed Claude bypassed a fee gate while accessing a
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul]] · [[2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope]] · [[2026-08-31-anthropic-forcibly-signs-out-claude-users-after-infostealer]] · [[2026-08-21-anthropic-routes-cyber-model-mythos-5-into-claude-security-a]]
+**Related:** [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul]] · [[2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope]] · [[2026-08-31-anthropic-forcibly-signs-out-claude-users-after-infostealer]] · [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per]]
 <!-- graph:end -->

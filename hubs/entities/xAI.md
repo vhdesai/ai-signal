@@ -1,13 +1,24 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 431
+member_count: 442
 ---
 
 # xAI
 
-> Auto-generated entity hub. 431 connected article(s).
+> Auto-generated entity hub. 442 connected article(s).
 
+- `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de|Marvell agrees to buy Lumentum in a $115 billion all-stock deal]]
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue|Opposition to data centers becomes a midterm election issue]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
+- `2026-11-01` [[2026-11-01-a-federal-judge-denied-xai-s-motion-to-dismiss-a-suit-allegi|A federal judge denied xAI's motion to dismiss a suit alleging it ran at least 35 combustion turbines at its Colossus…]]
+- `2026-10-31` [[2026-10-31-xai-data-center-pollution-lawsuit-can-proceed|xAI data-center pollution lawsuit can proceed]]
+- `2026-10-31` [[2026-10-31-judge-lets-naacp-clean-air-act-lawsuit-over-xai-s-colossus-d|Judge lets NAACP Clean Air Act lawsuit over xAI's Colossus data center proceed]]
+- `2026-10-31` [[2026-10-31-data-center-permitting-becomes-a-binding-constraint-as-xai-s|Data-center permitting becomes a binding constraint as xAI's Colossus suit proceeds]]
+- `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
+- `2026-10-30` [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per|Inside a malicious Claude Code-branded extension and its persistent SSH backdoor]]
 - `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]
 - `2026-10-28` [[2026-10-28-new-york-restricts-unsafe-ai-chatbot-features-for-minors|New York restricts unsafe AI chatbot features for minors]]
 - `2026-10-27` [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of|Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication]]

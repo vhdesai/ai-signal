@@ -1,16 +1,29 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 740
+member_count: 753
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 740 connected article(s).
+> Auto-generated entity hub. 753 connected article(s).
 
+- `2026-11-01` [[2026-11-01-november-1-2026-the-tactical-allocation-letter|[November 1, 2026] · [The Tactical Allocation Letter]]]
+- `2026-11-01` [[2026-11-01-trump-administration-declines-to-release-documents-on-its-vo|Trump administration declines to release documents on its voluntary AI testing framework]]
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-money-leaves-the-ai-trade-as-financing-becomes-the-build-out|Money leaves the AI trade as financing becomes the build-out's binding constraint]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
+- `2026-11-01` [[2026-11-01-ai-shopping-agents-emerge-as-a-potential-rival-to-amazon-s-e|AI shopping agents emerge as a potential rival to Amazon's e-commerce dominance]]
 - `2026-10-31` [[2026-10-31-october-30-2026-wall-street-journal|[October 30, 2026] · [Wall Street Journal]]]
+- `2026-10-31` [[2026-10-31-judge-lets-naacp-clean-air-act-lawsuit-over-xai-s-colossus-d|Judge lets NAACP Clean Air Act lawsuit over xAI's Colossus data center proceed]]
+- `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
+- `2026-10-31` [[2026-10-31-anthropic-s-s-1-makes-life-sciences-central-to-its-ipo-pitch|Anthropic's S-1 makes life sciences central to its IPO pitch]]
+- `2026-10-31` [[2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7|Alphabet, Amazon, Meta, and Microsoft have outlined more than $740 billion in capex this year, and investors are now…]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-30` [[2026-10-30-investors-turn-on-ai-capex-as-big-tech-free-cash-flow-goes-n|Investors turn on AI capex as Big Tech free cash flow goes negative]]
 - `2026-10-30` [[2026-10-30-chatgpt-desktop-app-can-now-run-inference-through-amazon-bed|ChatGPT desktop app can now run inference through Amazon Bedrock in AWS GovCloud]]
+- `2026-10-30` [[2026-10-30-chatgpt-desktop-app-can-now-route-inference-to-amazon-bedroc|ChatGPT desktop app can now route inference to Amazon Bedrock in AWS GovCloud]]
 - `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-29` [[2026-10-29-microsoft-reported-record-revenue-of-92-3-billion-19-and-net|Microsoft reported record revenue of $92.3 billion (+19%) and net income of $36.6 billion, with Azure at $33.2 billion,…]]
 - `2026-10-28` [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a|ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development]]

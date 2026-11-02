@@ -4,8 +4,8 @@ title: Mistral CEO says lab is exploring designing its own AI chips
 date: '2026-05-28'
 source: CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_073426_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: dcea437d41abb5d2ee51ebdeb6690d5fbfd63f371246b5736fb19f14857650d9

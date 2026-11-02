@@ -5,8 +5,8 @@ title: The Wall Street Journal profiled Anthropic CFO Krishna Rao, noting his de
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.financialexpress.com/market/global-markets/meet-krishna-rao-the-indian-origin-cfo-powering-anthropics-wall-street-debut/4373322/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: 41bf06b2a4fb3481c61144a6c5a6df88d68ef46ad1695dfe0a7350f08240eb1f
 normalized_title_hash: c8bdb0557ff68a09

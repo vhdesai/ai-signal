@@ -4,8 +4,8 @@ title: Nvidia’s open-weights letter expands to 50 signatories
 date: '2026-07-25'
 source: Forbes
 url_original: null
-url_canonical: https://ienvi.com.au/nvidia-s-open-weights-policy-letter-coalition-doubles-to-50-signatorie-212d6c2c/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-26_065947_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: fa5faf114a3a3b088b992dab4cd499686cba396a98c59f40421a4cbb39fed5fc

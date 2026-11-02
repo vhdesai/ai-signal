@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-20-varonis-details-cosnitch-one-click-vulnerability-in-microsof
 - 2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s
+- 2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per
 - 2026-07-15-microsoft-patches-record-570-vulnerabilities-citing-ai-assis
-- 2026-10-29-october-29-2026-cursor
 embedding_id: 2026-08-19-microsoft-patches-one-click-copilot-data-exfiltration-flaw-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft shipped a fix for "CoSnitch," a vulnerability chain that let a single 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-20-varonis-details-cosnitch-one-click-vulnerability-in-microsof]] · [[2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s]] · [[2026-07-15-microsoft-patches-record-570-vulnerabilities-citing-ai-assis]] · [[2026-10-29-october-29-2026-cursor]]
+**Related:** [[2026-08-20-varonis-details-cosnitch-one-click-vulnerability-in-microsof]] · [[2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s]] · [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per]] · [[2026-07-15-microsoft-patches-record-570-vulnerabilities-citing-ai-assis]]
 <!-- graph:end -->

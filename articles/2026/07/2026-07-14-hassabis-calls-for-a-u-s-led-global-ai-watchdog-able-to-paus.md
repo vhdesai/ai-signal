@@ -5,8 +5,8 @@ title: Hassabis calls for a U.S.-led global AI watchdog able to pause dangerous 
 date: '2026-07-14'
 source: Axios
 url_original: https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind
-url_canonical: https://www.aichatdaily.com/ai-security/hassabis-calls-us-led-global-ai-watchdog-power-halt
-url_status: repaired
+url_canonical: https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind
+url_status: broken
 digest_source: digests\raw\2026-07-14_061116_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: f7a6eaa4f1835cf398e1133b09e9e50c0aca92c310a839a5082ec4cdc56d29a0

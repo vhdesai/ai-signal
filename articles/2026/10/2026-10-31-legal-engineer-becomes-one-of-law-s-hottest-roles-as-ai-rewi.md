@@ -6,16 +6,16 @@ source: '[DealBook]'
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-10-31_065713_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-10-31_065856_Inbox_Daily AI News Digest - October
+  31, 2026.md
 content_hash: 401eddada3b82d4dc8d084450a807b7df7adff89e15e0f1004c10b57a7b1b129
 normalized_title_hash: 4965bf39d34969b7
 canonical_url_hash: ''
 tags:
 - New
-- Talent
 entities: []
 themes:
-- company-storylines
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +34,6 @@ DealBook reports that Legora has built a team of about 200 legal engineers since
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat]] · [[2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai]] · [[2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac]]
 <!-- graph:end -->

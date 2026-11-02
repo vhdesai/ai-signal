@@ -5,8 +5,8 @@ title: MIT Economics faculty have published analysis examining how AI tools are 
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://mitsloan.mit.edu/ideas-made-to-matter/ai-boosts-worker-productivity-does-translate-to-final-outputs
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: ca6d5298c35ce2424e63ddac8a9385b43f327cd7a13cc3dcf39673059af4764f

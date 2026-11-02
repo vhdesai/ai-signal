@@ -4,8 +4,8 @@ title: xAI ships Grok 4.3 and brings Grok Voice to Apple CarPlay
 date: '2026-05-01'
 source: Hacker News / x.ai
 url_original: null
-url_canonical: https://applemagazine.com/grok-voice-carplay-003/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_081856_Inbox_Daily AI News Digest –– May 4,
   2026.md
 content_hash: 92d113bf4c201cee13ff4165c09e381378b28476a5da3e5f605e06329a80371d

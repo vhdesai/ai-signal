@@ -4,8 +4,8 @@ title: Oracle data centers reportedly face multibillion-dollar cost surprises
 date: '2026-07-18'
 source: The Information
 url_original: null
-url_canonical: https://erock.com/newsroom/oracle-data-centers-face-multibillion-dollar-cost-surprises-the-information/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: 3ef6ea9c6741ebf49b4d027161e2018007d318d1b02a4ebddab1a9a307ef7186
 normalized_title_hash: 40f85f3fd384939f

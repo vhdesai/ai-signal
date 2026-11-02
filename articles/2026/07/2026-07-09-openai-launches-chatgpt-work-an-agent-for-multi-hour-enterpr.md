@@ -4,8 +4,8 @@ title: OpenAI launches ChatGPT Work, an agent for multi-hour enterprise tasks
 date: '2026-07-09'
 source: 'Source: Fox Business'
 url_original: null
-url_canonical: https://www.foxbusiness.com/technology/openai-unveils-chatgpt-work-automate-workplace-tasks-ai-race-intensifies
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-10_060949_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 6f803f9ccaa26d431b573fcc59a01778e6ffddcfbc8c2e61c557f300812507b1

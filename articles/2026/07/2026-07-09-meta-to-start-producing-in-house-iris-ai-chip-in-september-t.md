@@ -5,8 +5,8 @@ title: Meta to Start Producing In-House "Iris" AI Chip in September, Targeting 1
 date: '2026-07-09'
 source: Reuters
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/exclusive-meta-put-ai-chip-112222555.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-10_065350_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: ed9be3652a20d890192fa39ad6901dde95c9d726367a89ff1023d87ed0c19bce

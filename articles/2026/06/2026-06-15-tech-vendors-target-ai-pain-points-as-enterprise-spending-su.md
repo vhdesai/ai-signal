@@ -4,8 +4,8 @@ title: Tech Vendors Target AI Pain Points as Enterprise Spending Surges
 date: '2026-06-15'
 source: CIO Dive
 url_original: null
-url_canonical: https://www.bcg.com/news/8may2025-cios-tech-spending
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-15_073619_Final-Daily-AI-News-Digest.md
 content_hash: 4d74788fadd16613ec3682bbf1bfe818c770d5d9c44e872edb42abe6b359bfde
 normalized_title_hash: 6c218ac78c7e3c77

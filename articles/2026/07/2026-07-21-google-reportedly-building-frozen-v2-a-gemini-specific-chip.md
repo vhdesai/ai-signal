@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e
 - 2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient
 - 2026-10-30-october-30-2026-google
+- 2026-10-30-google-s-suncatcher-satellite-returns-the-first-ai-response
 - 2026-10-28-october-27-2026-the-information
-- 2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp
 embedding_id: 2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google is reportedly developing a custom inference chip that hardwires the Gemin
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e]] · [[2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient]] · [[2026-10-30-october-30-2026-google]] · [[2026-10-28-october-27-2026-the-information]] · [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp]]
+**Related:** [[2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e]] · [[2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient]] · [[2026-10-30-october-30-2026-google]] · [[2026-10-30-google-s-suncatcher-satellite-returns-the-first-ai-response]] · [[2026-10-28-october-27-2026-the-information]]
 <!-- graph:end -->

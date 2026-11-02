@@ -4,8 +4,8 @@ title: Nvidia briefly cedes largest-US-company crown to Apple in an AI-chip sell
 date: '2026-07-28'
 source: TheStreet / MIT Technology Review
 url_original: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-28-2026
-url_canonical: https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company
-url_status: repaired
+url_canonical: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-28-2026
+url_status: broken
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 7cfdeed1773f32219fc6f7322af8b0c5ef9b989d0eec6e4ecda2026b33ef4d1f

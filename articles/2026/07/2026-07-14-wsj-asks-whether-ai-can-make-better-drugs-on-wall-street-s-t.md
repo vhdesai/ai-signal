@@ -4,8 +4,8 @@ title: WSJ asks whether AI can make better drugs on Wall Street's timeline
 date: '2026-07-14'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://www.msn.com/en-us/technology/artificial-intelligence/can-ai-make-better-drugs-not-on-wall-street-s-timeline/ar-AA27JQgu
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-14_065946_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: d01c4d07a9f90378113fbc5a738426fab4f89d8bf375b73b592b1b896d213269

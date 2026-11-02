@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-08-29-the-a-i-token-tax-enterprise-costs-become-unpredictable-budg
-- 2026-08-29-the-a-i-token-tax-how-ai-usage-costs-are-reshaping-enterpris
+- 2026-10-30-cracks-are-emerging-in-the-ai-spending-boom
 embedding_id: 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch published an in-depth investigation into the enterprise AI cost crisi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-08-29-the-a-i-token-tax-enterprise-costs-become-unpredictable-budg]] · [[2026-08-29-the-a-i-token-tax-how-ai-usage-costs-are-reshaping-enterpris]]
+**Related:** [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-08-29-the-a-i-token-tax-enterprise-costs-become-unpredictable-budg]] · [[2026-10-30-cracks-are-emerging-in-the-ai-spending-boom]]
 <!-- graph:end -->

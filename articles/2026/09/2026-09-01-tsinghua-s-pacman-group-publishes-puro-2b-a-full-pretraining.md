@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-31-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining
 - 2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
-- 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
+- 2026-11-02-qwengpu-builds-a-working-gpu-into-qwen3-5-2b-s-weights-that
 embedding_id: 2026-09-01-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Puro-2B report describes training 2-billion-parameter models from scratch on
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-31-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining]] · [[2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]]
+**Related:** [[2026-08-31-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining]] · [[2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-11-02-qwengpu-builds-a-working-gpu-into-qwen3-5-2b-s-weights-that]]
 <!-- graph:end -->

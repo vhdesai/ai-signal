@@ -4,8 +4,8 @@ title: AI moves into family life
 date: '2026-07-25'
 source: Axios
 url_original: https://www.axios.com/top/2026/07/25
-url_canonical: https://www.benton.org/headlines/ai-moves-family-life
-url_status: repaired
+url_canonical: https://www.axios.com/top/2026/07/25
+url_status: broken
 digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 8a9e295256cf28407346f1b7f8a9bccc49495a75a6a045b03ecf824061c9d90f

@@ -1,13 +1,19 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 524
+member_count: 530
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 524 connected article(s).
+> Auto-generated topic hub. 530 connected article(s).
 
+- `2026-11-02` [[2026-11-02-netapp-completes-its-acquisition-of-peak-aio-for-ai-scale-st|NetApp completes its acquisition of PEAK:AIO for AI-scale storage]]
+- `2026-11-02` [[2026-11-02-netapp-closed-its-acquisition-of-peak-aio-adding-metadata-se|NetApp closed its acquisition of PEAK:AIO, adding metadata services and parallel file system technology to its NetApp…]]
+- `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity|Marvell agrees to buy Lumentum, expanding AI connectivity]]
+- `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de|Marvell agrees to buy Lumentum in a $115 billion all-stock deal]]
+- `2026-11-01` [[2026-11-01-google-energy-executive-says-data-centers-in-space-could-cos|Google energy executive says data centers in space could cost up to 100 times more than on Earth]]
+- `2026-11-01` [[2026-11-01-aramco-takes-49-of-humain-to-fund-saudi-arabia-s-3-gigawatt|Aramco takes 49% of HUMAIN to fund Saudi Arabia's 3-gigawatt AI compute plan]]
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
 - `2026-10-29` [[2026-10-29-october-29-2026-wall-street-journal|[October 29, 2026] · [Wall Street Journal]]]

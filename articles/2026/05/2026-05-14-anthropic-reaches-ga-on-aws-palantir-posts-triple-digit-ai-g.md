@@ -4,8 +4,8 @@ title: Anthropic Reaches GA on AWS; Palantir Posts Triple-Digit AI Government Gr
 date: '2026-05-14'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: https://opentools.ai/news/anthropic-palantir-and-aws-leading-ais-charge-into-us-defense
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: a251f51a626044e8faf3186815f1a05ef2360232cb99351ee4255a38a6079a3f

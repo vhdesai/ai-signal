@@ -4,8 +4,8 @@ title: Berkshire's first big bash without Buffett — complete with a deepfake c
 date: '2026-05-03'
 source: Business Insider
 url_original: null
-url_canonical: https://www.businessinsider.com/deepfake-warren-buffett-berkshire-hathaway-annual-meeting-question-2026-5
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_081856_Inbox_Daily AI News Digest –– May 4,
   2026.md
 content_hash: 3bf1f0ddd86d7f793e619ce05e2833803fd91e4f4199756b05f9c00f79afc6a8

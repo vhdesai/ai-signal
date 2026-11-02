@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
 - 2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes
-- 2026-08-31-big-tech-booked-more-than-160-billion-in-paper-gains-from-ai
+- 2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7
 embedding_id: 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Alphabet, Amazon, Meta, Microsoft, and Apple enter earnings week with investors 
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes]] · [[2026-08-31-big-tech-booked-more-than-160-billion-in-paper-gains-from-ai]]
+**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes]] · [[2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7]]
 <!-- graph:end -->

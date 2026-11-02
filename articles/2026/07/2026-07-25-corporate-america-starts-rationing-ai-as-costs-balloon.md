@@ -4,8 +4,8 @@ title: Corporate America starts rationing AI as costs balloon
 date: '2026-07-25'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a
-url_canonical: https://finance.yahoo.com/technology/ai/articles/corporate-america-rationing-ai-because-172413130.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a
+url_status: broken
 digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: a086a98ac0de440270dbb56e0407d3c289e2084bb3871a2716ebf94ff2e23ada

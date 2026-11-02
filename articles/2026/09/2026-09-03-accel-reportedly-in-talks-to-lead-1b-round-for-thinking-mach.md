@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val
 - 2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m
 - 2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights
-- 2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough
+- 2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc
 embedding_id: 2026-09-03-accel-reportedly-in-talks-to-lead-1b-round-for-thinking-mach
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Accel is reported to be in discussions to lead a roughly $1 billion round for Mi
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val]] · [[2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m]] · [[2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights]] · [[2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough]]
+**Related:** [[2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val]] · [[2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m]] · [[2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights]] · [[2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: TechCrunch argues the AI competitive frame has broadened well beyond the 
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: aac9e7737ae773d519d5722108dff3ce34860802cad4206c091d1179acf15781

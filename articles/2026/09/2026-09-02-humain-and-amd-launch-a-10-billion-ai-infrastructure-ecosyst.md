@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
 - 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
+- 2026-11-01-aramco-takes-49-of-humain-to-fund-saudi-arabia-s-3-gigawatt
 - 2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic
 - 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
-- 2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo
 embedding_id: 2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Saudi PIF-backed HUMAIN and AMD announced a partnership to build a $10 billion A
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]] · [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo]]
+**Related:** [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]] · [[2026-11-01-aramco-takes-49-of-humain-to-fund-saudi-arabia-s-3-gigawatt]] · [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]]
 <!-- graph:end -->

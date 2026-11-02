@@ -5,8 +5,8 @@ title: Midjourney released V8.1 with native 2K HD rendering at three times the s
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://headsupai.io/updates/midjourney-v8-1-delivers-native-2k-rendering-at-triple-speed
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: dea6b5e8b089415e240a212caec999c655d89e79c78cb3fb870510eae2653532

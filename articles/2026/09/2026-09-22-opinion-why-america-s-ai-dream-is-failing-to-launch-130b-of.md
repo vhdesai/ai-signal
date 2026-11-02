@@ -26,8 +26,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone
+- 2026-11-01-techcrunch-reports-data-centers-and-ai-dominated-discussion
 - 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
-- 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
 embedding_id: 2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of
 event_name: ''
 ---
@@ -41,5 +41,5 @@ An Information opinion piece by Ryan Cunningham and Kristy Loke argues US AI dom
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]]
+**Related:** [[2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone]] · [[2026-11-01-techcrunch-reports-data-centers-and-ai-dominated-discussion]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]]
 <!-- graph:end -->

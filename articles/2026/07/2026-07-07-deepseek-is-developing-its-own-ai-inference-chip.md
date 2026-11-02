@@ -4,8 +4,8 @@ title: DeepSeek is developing its own AI inference chip
 date: '2026-07-07'
 source: Reuters
 url_original: https://www.usnews.com/news/top-news/articles/2026-07-07/exclusive-chinas-deepseek-developing-its-own-ai-chip-sources-say
-url_canonical: https://www.bloomberg.com/news/articles/2026-07-07/chinese-ai-startup-deepseek-developing-own-ai-chip-reuters-says
-url_status: repaired
+url_canonical: https://www.usnews.com/news/top-news/articles/2026-07-07/exclusive-chinas-deepseek-developing-its-own-ai-chip-sources-say
+url_status: broken
 digest_source: digests\raw\2026-07-09_061826_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: e05617ceba79308e78f53662dc7708d193b56f3d40b5ac545ebca85bfb584884

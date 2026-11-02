@@ -5,8 +5,8 @@ title: Agentic AI Gets Cheaper — and Cost, Deployment & Reliability Become the
 date: '2026-07-01'
 source: 'Source window: last 24 hours'
 url_original: null
-url_canonical: https://arxiv.org/abs/2609.04681
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-01_061930_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: b04a621e7a48bbc79368f42bd72a5e9d6cddda9a2036da133eea3f2b37f7835d

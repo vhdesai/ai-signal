@@ -4,8 +4,8 @@ title: ASML raises guidance again on continuing AI chip demand
 date: '2026-07-15'
 source: WSJ
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/asml-holding-nasdaqgs-asml-raises-141422165.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-15-daily-ai-news-digest.md
 content_hash: bbc3787de954108742f5cf7d79d8bcd788c7c06d49e2677e2bb1ceda97f6c4a6
 normalized_title_hash: 0bb70f5a51926f84

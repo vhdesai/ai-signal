@@ -5,7 +5,7 @@ date: '2026-10-29'
 source: '[The Information]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Marvell+Lumentum
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Marvell+Lumentum
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-29_065728_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: 68ef900c8ae72355e3624a27188cc903e93425d182b42ded69b0a9fe21fa3ee1
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de
+- 2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity
 - 2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for
 - 2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto
 - 2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit
-- 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil
-- 2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers
 embedding_id: 2026-10-29-marvell-explores-a-lumentum-deal-as-optical-interconnect-bec
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Marvell has been in talks to buy data-center optics maker Lumentum, which has a 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for]] · [[2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto]] · [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit]] · [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil]] · [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]]
+**Related:** [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de]] · [[2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity]] · [[2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for]] · [[2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto]] · [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit]]
 <!-- graph:end -->

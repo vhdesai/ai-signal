@@ -4,8 +4,8 @@ title: SpaceXAI ships Grok 4.5 for coding and agentic workloads
 date: '2026-07-08'
 source: Reuters
 url_original: null
-url_canonical: https://tech.yahoo.com/ai/articles/spacexai-launches-grok-4-5-204749219.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 1aa896c3f3c3853bb9aec22cfebd9e2c33c4bb2edc93986deeac6f19ebffe935

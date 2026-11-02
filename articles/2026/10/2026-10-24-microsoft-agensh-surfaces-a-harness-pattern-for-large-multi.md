@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-10-25-marktechpost-reports-microsoft-research-released-agensh-a-mu
 - 2026-10-24-microsoft-open-sources-agensh-a-decentralized-harness-tested
 - 2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti
+- 2026-11-01-deepseek-open-sources-dsh-superagent-a-router-worker-coding
 - 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
-- 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 embedding_id: 2026-10-24-microsoft-agensh-surfaces-a-harness-pattern-for-large-multi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MarkTechPost reports on Microsoft Agensh as a harness-focused approach for coord
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-25-marktechpost-reports-microsoft-research-released-agensh-a-mu]] · [[2026-10-24-microsoft-open-sources-agensh-a-decentralized-harness-tested]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]]
+**Related:** [[2026-10-25-marktechpost-reports-microsoft-research-released-agensh-a-mu]] · [[2026-10-24-microsoft-open-sources-agensh-a-decentralized-harness-tested]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]] · [[2026-11-01-deepseek-open-sources-dsh-superagent-a-router-worker-coding]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]]
 <!-- graph:end -->

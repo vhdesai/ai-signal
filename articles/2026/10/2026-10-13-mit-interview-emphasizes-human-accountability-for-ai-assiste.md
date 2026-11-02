@@ -20,8 +20,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-13-mit-researchers-call-for-answerability-behind-ai-generated-c
+- 2026-10-30-mit-project-tracks-how-chatbots-answer-2026-midterm-election
 - 2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa
-- 2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education
 embedding_id: 2026-10-13-mit-interview-emphasizes-human-accountability-for-ai-assiste
 event_name: ''
 ---
@@ -34,5 +34,5 @@ MIT’s Deb Roy argued for accountable human authorship and inspectable processe
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-13-mit-researchers-call-for-answerability-behind-ai-generated-c]] · [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa]] · [[2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education]]
+**Related:** [[2026-10-13-mit-researchers-call-for-answerability-behind-ai-generated-c]] · [[2026-10-30-mit-project-tracks-how-chatbots-answer-2026-midterm-election]] · [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa]]
 <!-- graph:end -->

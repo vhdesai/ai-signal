@@ -4,8 +4,8 @@ title: Chinese Open-Weight Models Gain U.S. Adoption as Frontier Costs Rise
 date: '2026-07-07'
 source: CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 98d9db8026cf080a981092723d88605f089649ca9285594a27785131dc78c0a1

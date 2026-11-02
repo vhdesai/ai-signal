@@ -4,8 +4,8 @@ title: Corporate capital is concentrating the U.S. AI startup market
 date: '2026-07-25'
 source: PitchBook
 url_original: null
-url_canonical: https://pitchbook.com/news/reports/q3-2026-fewer-deals-bigger-bets-how-corporate-capital-is-concentrating-us-ai-venture-activity
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-25_065719_Final-Daily-AI-News-Digest.md
 content_hash: ceaff31df8cfbb0a010419e3561a678b66e75a665499c88e68efa64b0e79a6b1
 normalized_title_hash: 40bb6e3f93a0436c

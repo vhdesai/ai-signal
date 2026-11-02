@@ -4,8 +4,8 @@ title: 'Microsoft Build 2026: Agents, agent platforms, and agent lifecycle'
 date: '2026-06-02'
 source: Microsoft Build 2026
 url_original: null
-url_canonical: https://www.microsoft.com/insidetrack/blog/microsoft-build-2026-empowering-our-developers-to-adopt-agentic-ai-at-microsoft/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
 content_hash: 8c19af24433a8114059e4cca0f58a10880a532b993469bd3c95e5e01db6ea041
 normalized_title_hash: 356a6892131b8112

@@ -5,8 +5,8 @@ title: Google Labs' March 18 update transformed Stitch from a simple UI mockup t
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: ceb6f51cb3d5304e67e843f1837ffbf7751e39537b8ff24275b105b8b17db5ba

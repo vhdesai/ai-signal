@@ -4,8 +4,8 @@ title: Meta pulls Instagram AI image feature days after launch
 date: '2026-07-10'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_060920_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 31a79e75ca21c351596cb58b57bc70773328912eec54c4dd3fa6d03468fb288b

@@ -5,8 +5,8 @@ title: Compiled June 26, 2026. Every item was confirmed published within the pri
 date: '2026-06-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-26_060327_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 0c63beffc75f330bf106881c5e5c1f69b0f7b11abaf3290020d6c85e3f1f27e7

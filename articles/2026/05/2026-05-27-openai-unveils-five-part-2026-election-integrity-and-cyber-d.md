@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-openai-steps-up-election-cyber-defenses-anti-misinformation
+- 2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte
 - 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
 - 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
-- 2026-10-14-new-anthropic-prepares-voting-information-and-election-resul
 embedding_id: 2026-05-27-openai-unveils-five-part-2026-election-integrity-and-cyber-d
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI announced a five-part program ahead of US and global 2026 elections: reli
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-openai-steps-up-election-cyber-defenses-anti-misinformation]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]] · [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul]]
+**Related:** [[2026-05-28-openai-steps-up-election-cyber-defenses-anti-misinformation]] · [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]]
 <!-- graph:end -->

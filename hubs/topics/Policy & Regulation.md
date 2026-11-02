@@ -1,16 +1,33 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2345
+member_count: 2362
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2345 connected article(s).
+> Auto-generated topic hub. 2362 connected article(s).
 
+- `2026-11-02` [[2026-11-02-the-information-reports-the-administration-declined-to-relea|The Information reports the administration declined to release information about its AI testing framework]]
+- `2026-11-02` [[2026-11-02-adnoc-s-frontier-deployment-anchors-broader-abu-dhabi-agreem|ADNOC’s Frontier deployment anchors broader Abu Dhabi agreements]]
+- `2026-11-02` [[2026-11-02-a-wired-investigation-building-on-research-by-ai-forensics-f|A Wired investigation, building on research by AI Forensics, found a network of more than 400 connected apps and…]]
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-openai-plans-a-post-midterm-policy-push-including-speed-limi|OpenAI plans a post-midterm policy push, including speed limits for frontier systems]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
+- `2026-11-01` [[2026-11-01-axios-reports-openai-will-launch-a-policy-and-pr-campaign-ri|Axios reports OpenAI will launch a policy and PR campaign right after Tuesday's midterms, timed to the lame-duck…]]
+- `2026-10-31` [[2026-10-31-xai-data-center-pollution-lawsuit-can-proceed|xAI data-center pollution lawsuit can proceed]]
+- `2026-10-31` [[2026-10-31-meta-built-a-humanoid-prototype-with-china-s-fourier-as-its|Meta built a humanoid prototype with China's Fourier as its robotics push accelerates]]
+- `2026-10-31` [[2026-10-31-legal-engineer-becomes-one-of-law-s-hottest-roles-as-ai-rewi|Legal engineer becomes one of law's hottest roles as AI rewires the profession]]
+- `2026-10-31` [[2026-10-31-intel-guided-q4-revenue-to-15-16-billion-versus-about-17-bil|Intel guided Q4 revenue to $15–16 billion versus about $17 billion expected, with gross margin falling to 37% from 43%…]]
+- `2026-10-31` [[2026-10-31-data-center-permitting-becomes-a-binding-constraint-as-xai-s|Data-center permitting becomes a binding constraint as xAI's Colossus suit proceeds]]
+- `2026-10-31` [[2026-10-31-cisco-talos-finds-infostealer-malware-using-llms-to-triage-v|Cisco Talos finds infostealer malware using LLMs to triage victims]]
+- `2026-10-31` [[2026-10-31-apple-emphasizes-product-value-over-ai-for-its-own-sake|Apple emphasizes product value over AI for its own sake]]
 - `2026-10-30` [[2026-10-30-october-30-2026-microsoft-bing-blog|[October 30, 2026] · [Microsoft Bing Blog]]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
-- `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
+- `2026-10-30` [[2026-10-30-intel-shares-fall-as-ai-demand-for-components-pushes-up-pc-c|Intel shares fall as AI demand for components pushes up PC costs]]
+- `2026-10-30` [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per|Inside a malicious Claude Code-branded extension and its persistent SSH backdoor]]
+- `2026-10-30` [[2026-10-30-five-mit-faculty-named-2026-schmidt-sciences-ai2050-fellows|Five MIT faculty named 2026 Schmidt Sciences AI2050 Fellows]]
 - `2026-10-29` [[2026-10-29-october-29-2026-cursor|[October 29, 2026] · [Cursor]]]
 - `2026-10-29` [[2026-10-29-october-28-2026-the-information|[October 28, 2026] · [The Information]]]
 - `2026-10-29` [[2026-10-29-openai-updates-its-model-spec-and-details-layered-monitoring|OpenAI updates its Model Spec and details layered monitoring for frontier agents]]

@@ -5,8 +5,8 @@ title: Feyn AI releases SQRL, a text-to-SQL model family that inspects databases
 date: '2026-07-19'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/07/19/feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspects-the-database-before-writing-a-query/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-20-daily-ai-news-digest.md
 content_hash: f6cd079683a8202361b9922a63de055536922a27204bbc24c73ccc09e27c062b
 normalized_title_hash: 684a82a5a66b3da4

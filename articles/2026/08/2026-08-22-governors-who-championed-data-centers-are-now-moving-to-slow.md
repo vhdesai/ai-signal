@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-19-the-great-bipartisan-data-center-smackdown-has-begun
 - 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
+- 2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
-- 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
 embedding_id: 2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Politicians who courted AI data-center investment—including Pennsylvania’s S
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-19-the-great-bipartisan-data-center-smackdown-has-begun]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]]
+**Related:** [[2026-08-19-the-great-bipartisan-data-center-smackdown-has-begun]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]]
 <!-- graph:end -->

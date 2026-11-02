@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-10-nace-ai-open-sources-drex-1-5-for-option-scoring-rather-than
+- 2026-11-01-nace-ai-open-sources-drex-max-v1-a-27b-decision-model-that-r
+- 2026-11-01-nace-ai-released-open-weights-for-drex-max-v1-a-dense-27b-mu
 - 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
 - 2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l
-- 2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod
 embedding_id: 2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Nace.AI released Drex 1.5 as an open-weight 9B decision model that scores fixed 
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-10-10-nace-ai-open-sources-drex-1-5-for-option-scoring-rather-than]] · [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring]] · [[2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l]] · [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod]]
+**Related:** [[2026-10-10-nace-ai-open-sources-drex-1-5-for-option-scoring-rather-than]] · [[2026-11-01-nace-ai-open-sources-drex-max-v1-a-27b-decision-model-that-r]] · [[2026-11-01-nace-ai-released-open-weights-for-drex-max-v1-a-dense-27b-mu]] · [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring]] · [[2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l]]
 <!-- graph:end -->

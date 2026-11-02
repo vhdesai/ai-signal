@@ -4,8 +4,8 @@ title: Adobe's Project Indigo adds AI photo critique and editing guidance
 date: '2026-07-20'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: d092a85446438c166f675cfaebce75a185c98878eb4a7e593665b97e56013038
 normalized_title_hash: ccf6eca7a7081fb7

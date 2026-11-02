@@ -4,8 +4,8 @@ title: Nvidia to Invest ~$5B in Ilya Sutskever's Safe Superintelligence
 date: '2026-07-27'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-28_065310_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: e0610ab9783b2f366f30abec9680e5761475c6d713d53f16cfee6dc50fe62b7e

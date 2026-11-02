@@ -4,8 +4,8 @@ title: White House asks OpenAI to limit GPT-5.6’s release over safety concerns
 date: '2026-06-25'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-26_063915_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 22a086ec0fb6bf4b5821e3ccd5c85c1642531edcd192562b582fca8c3c7e0b5b

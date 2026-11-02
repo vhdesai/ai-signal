@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 54
+member_count: 55
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 54 connected article(s).
+> Auto-generated entity hub. 55 connected article(s).
 
+- `2026-11-02` [[2026-11-02-netapp-completes-its-acquisition-of-peak-aio-for-ai-scale-st|NetApp completes its acquisition of PEAK:AIO for AI-scale storage]]
 - `2026-10-22` [[2026-10-22-cognizant-to-train-18-000-google-cloud-ai-specialists|Cognizant to train 18,000 Google Cloud AI specialists]]
 - `2026-09-28` [[2026-09-28-nvidia-moves-agent-enforcement-into-silicon-with-the-open-ag|Nvidia Moves Agent Enforcement Into Silicon With the Open Agent Safety Platform]]
 - `2026-09-25` [[2026-09-25-intelligence-doesn-t-come-cheap-ai-drives-up-costs-for-nsa-h|Intelligence doesn't come cheap: AI drives up costs for NSA, hospitals, and insurers]]

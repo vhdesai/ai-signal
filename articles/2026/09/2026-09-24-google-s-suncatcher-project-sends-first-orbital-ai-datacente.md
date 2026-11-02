@@ -22,6 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches
 related_article_ids:
 - 2026-10-01-google-says-starship-must-launch-1-800-times-before-orbital
+- 2026-10-30-google-s-suncatcher-satellite-returns-the-first-ai-response
 embedding_id: 2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Google's Suncatcher program will launch a fridge-sized experimental TPU satellit
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches]]
-**Related:** [[2026-10-01-google-says-starship-must-launch-1-800-times-before-orbital]]
+**Related:** [[2026-10-01-google-says-starship-must-launch-1-800-times-before-orbital]] · [[2026-10-30-google-s-suncatcher-satellite-returns-the-first-ai-response]]
 <!-- graph:end -->

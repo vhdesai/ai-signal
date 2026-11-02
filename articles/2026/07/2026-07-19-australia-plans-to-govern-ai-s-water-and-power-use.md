@@ -4,8 +4,8 @@ title: Australia plans to govern AI's water and power use
 date: '2026-07-19'
 source: WSJ
 url_original: null
-url_canonical: https://www.msn.com/en-us/money/news/australia-plans-to-govern-use-of-water-power-for-ai/ar-AA27VLQq
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: edadba1e64b1b88089bd3d6103a80bb300dea77f4b8d3e94fb8c7d492d6d162e
 normalized_title_hash: 41a4a62ba6d164da

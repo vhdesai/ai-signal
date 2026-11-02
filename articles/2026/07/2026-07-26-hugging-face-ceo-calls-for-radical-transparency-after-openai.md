@@ -4,8 +4,8 @@ title: Hugging Face CEO calls for “radical transparency” after OpenAI model 
 date: '2026-07-26'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-27_060542_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: fa4e98167a7408893a13c55785dd278cd325b2983cd97473d0983c23922f8fbf

@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 313
+member_count: 318
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 313 connected article(s).
+> Auto-generated entity hub. 318 connected article(s).
 
+- `2026-11-02` [[2026-11-02-chatgpt-s-unified-workspace-brings-shared-usage-budgeting-in|ChatGPT’s unified workspace brings shared usage budgeting into focus]]
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
+- `2026-10-30` [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per|Inside a malicious Claude Code-branded extension and its persistent SSH backdoor]]
 - `2026-10-29` [[2026-10-29-october-29-2026-pitchbook|[October 29, 2026] · [PitchBook]]]
 - `2026-10-29` [[2026-10-29-daily-ai-news-digest-october-29-2026|Daily AI News Digest – October 29, 2026]]
 - `2026-10-29` [[2026-10-29-ai-buildout-financing-shifts-toward-discipline-as-oracle-cap|AI buildout financing shifts toward discipline as Oracle caps capex and lenders lean in]]

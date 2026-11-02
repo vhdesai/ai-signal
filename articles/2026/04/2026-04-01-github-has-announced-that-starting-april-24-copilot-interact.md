@@ -5,8 +5,8 @@ title: GitHub has announced that starting April 24, Copilot interaction data wil
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: ab5496da31bd63e7138b7075a23e5a81ee5edb44a814e28559c63b1636c32d0f

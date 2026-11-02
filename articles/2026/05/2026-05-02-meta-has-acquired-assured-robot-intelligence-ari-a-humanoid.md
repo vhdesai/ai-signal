@@ -5,8 +5,8 @@ title: Meta has acquired Assured Robot Intelligence (ARI), a humanoid robotics s
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 98b10cf20c8fd39d5eef44d22555960cacae5d566257fbc1574eadef71ec797e
 normalized_title_hash: 5faca85135f4df95
@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
 - 2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
-- 2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce
-- 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
+- 2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin
+- 2026-11-01-the-information-reports-that-meta-built-a-humanoid-prototype
 embedding_id: 2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta has acquired Assured Robot Intelligence (ARI), a humanoid robotics startup,
 
 **Entities:** [[Meta]] · [[Tesla]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]]
+**Related:** [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin]] · [[2026-11-01-the-information-reports-that-meta-built-a-humanoid-prototype]]
 <!-- graph:end -->

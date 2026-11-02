@@ -5,8 +5,8 @@ title: 'Blogs & news: OpenAI Blog, Google DeepMind, Meta AI, BAIR, Apple ML Rese
 date: '2026-06-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/tag/openai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_060300_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 525027e50bd658f4fe14d16a70788b7baed55f4d3f9b93958f56602d66d7283f
@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
 - 2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture
 - 2026-07-05-news-sites-wsj-ai-marktechpost-techcrunch-ai-venturebeat-ai
+- 2026-10-31-directly-scanned-blogs-and-publications-openai-news-and-rss
 - 2026-05-23-sources-monitored-this-edition-openai-blog-google-deepmind-m
-- 2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch
 embedding_id: 2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Blogs & news: OpenAI Blog, Google DeepMind, Meta AI, BAIR, Apple ML Research, WS
 
 **Entities:** [[Apple]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture]] · [[2026-07-05-news-sites-wsj-ai-marktechpost-techcrunch-ai-venturebeat-ai]] · [[2026-05-23-sources-monitored-this-edition-openai-blog-google-deepmind-m]] · [[2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch]]
+**Related:** [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture]] · [[2026-07-05-news-sites-wsj-ai-marktechpost-techcrunch-ai-venturebeat-ai]] · [[2026-10-31-directly-scanned-blogs-and-publications-openai-news-and-rss]] · [[2026-05-23-sources-monitored-this-edition-openai-blog-google-deepmind-m]]
 <!-- graph:end -->

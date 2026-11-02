@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv
 - 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
 - 2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas
+- 2026-10-30-intel-plunges-as-ai-demand-for-memory-squeezes-the-pc-market
 - 2026-10-30-october-30-2026-wall-street-journal
-- 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 embedding_id: 2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to
 event_name: ''
 ---
@@ -39,5 +39,5 @@ IBM shares fell ~25% — its worst single-day drop since 1987 — after prelimin
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv]] · [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas]] · [[2026-10-30-october-30-2026-wall-street-journal]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]]
+**Related:** [[2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv]] · [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas]] · [[2026-10-30-intel-plunges-as-ai-demand-for-memory-squeezes-the-pc-market]] · [[2026-10-30-october-30-2026-wall-street-journal]]
 <!-- graph:end -->

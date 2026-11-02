@@ -19,12 +19,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-10-29-october-30-2026-dealbook
-- 2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec
-- 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
+dedupe_status: duplicate
+canonical_article_id: 2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7
+related_article_ids: []
 embedding_id: 2026-10-31-october-30-2026-wall-street-journal
 event_name: ''
 ---
@@ -38,5 +35,5 @@ Alphabet, Amazon, Meta and Microsoft have outlined more than $740 billion of cap
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-29-october-30-2026-dealbook]] · [[2026-10-29-microsoft-and-alphabet-earnings-split-the-market-s-ai-scorec]] · [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]]
+**Canonical:** [[2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7]]
 <!-- graph:end -->

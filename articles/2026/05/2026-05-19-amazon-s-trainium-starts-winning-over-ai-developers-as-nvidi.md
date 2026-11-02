@@ -4,8 +4,8 @@ title: Amazon's Trainium Starts Winning Over AI Developers as Nvidia Alternative
 date: '2026-05-19'
 source: The Information
 url_original: null
-url_canonical: https://vff.ai/article/2026/05/19/amazon-s-nvidia-alternative-starts-winning-over-ai-developers
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: c212b3ce50fd299f7e314caa1e074ee4568b2ba48afedf057ce60a30dd8014f9

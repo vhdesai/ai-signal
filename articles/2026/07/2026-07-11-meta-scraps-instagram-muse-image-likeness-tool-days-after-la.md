@@ -5,8 +5,8 @@ title: Meta scraps Instagram "Muse Image" likeness tool days after launch amid c
 date: '2026-07-11'
 source: News18
 url_original: null
-url_canonical: https://www.techrepublic.com/article/news-meta-scraps-muse-image-feature-after-launch/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_062259_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 2daee6c06c15bb2fef420b68b274419f9dd1cf6d987f135e6cd20f632f9f251e

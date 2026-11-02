@@ -4,8 +4,8 @@ title: 'Microsoft Open-Sources Harrier-OSS-v1: SOTA Multilingual Embedding Model
 date: '2026-03-30'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/03/30/microsoft-ai-releases-harrier-oss-v1-a-new-family-of-multilingual-embedding-models-hitting-sota-on-multilingual-mteb-v2/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 0497a568edafb88fd227febd1a8d0a28852356c1e6b299d2af690bee2151fe88

@@ -5,8 +5,8 @@ title: Apple released "container" 1.0, an open‑source Swift tool that runs Lin
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://opensource.apple.com/projects/container/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 7bbc6356957dad751b15a7c1bc84fe2389e0ad61c9f128b2a9b86f2bee947dec

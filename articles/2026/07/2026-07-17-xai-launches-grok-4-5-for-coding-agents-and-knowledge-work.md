@@ -4,8 +4,8 @@ title: xAI launches Grok 4.5 for coding, agents, and knowledge work
 date: '2026-07-17'
 source: xAI
 url_original: null
-url_canonical: https://www.unite.ai/xai-launches-grok-bot-always-on-ai-teammates-with-their-own-cloud-computers/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-17-daily-ai-news-digest.md
 content_hash: 17ec0af40bb120cd8f019b9e855889522149641c1e78a22eab2abb2cecae7423
 normalized_title_hash: d23e6b05833f7230

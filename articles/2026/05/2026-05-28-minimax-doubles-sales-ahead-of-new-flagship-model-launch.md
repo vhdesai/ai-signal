@@ -4,8 +4,8 @@ title: MiniMax doubles sales ahead of new flagship model launch
 date: '2026-05-28'
 source: Bloomberg
 url_original: null
-url_canonical: https://www.bloomberg.com/news/articles/2026-05-28/china-ai-upstart-minimax-doubles-sales-ahead-of-new-model-launch
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: e044f491bf187d97b11962994c7a1c3ed661ef4f3a482ad7bf5d74b667a885a7

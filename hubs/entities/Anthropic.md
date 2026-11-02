@@ -1,19 +1,45 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2483
+member_count: 2509
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2483 connected article(s).
+> Auto-generated entity hub. 2509 connected article(s).
 
+- `2026-11-02` [[2026-11-02-south-korea-s-2027-budget-puts-state-backed-ai-investment-in|South Korea’s 2027 budget puts state-backed AI investment in focus]]
+- `2026-11-02` [[2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in|OpenAI told users it will combine the Chat and Work tabs in ChatGPT so users can move from exploring an idea to having…]]
+- `2026-11-02` [[2026-11-02-openai-merges-chatgpt-s-chat-and-work-tabs-and-puts-chatgpt|OpenAI merges ChatGPT's Chat and Work tabs and puts ChatGPT and Codex on one usage pool]]
+- `2026-11-02` [[2026-11-02-anthropic-targets-japanese-investors-for-a-slice-of-its-u-s|Anthropic targets Japanese investors for a slice of its U.S. IPO]]
+- `2026-11-02` [[2026-11-02-adnoc-s-frontier-deployment-anchors-broader-abu-dhabi-agreem|ADNOC’s Frontier deployment anchors broader Abu Dhabi agreements]]
+- `2026-11-01` [[2026-11-01-november-1-2026-pitchbook|[November 1, 2026] · [PitchBook]]]
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-1-2026|Daily AI News Digest – November 1, 2026]]
+- `2026-11-01` [[2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc|Citing the Financial Times and The Wall Street Journal, TechCrunch reports OpenAI has lowered the target for its…]]
+- `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
+- `2026-11-01` [[2026-11-01-anthropic-s-s-1-says-its-seven-cofounders-have-pledged-80-of|Anthropic's S-1 says its seven cofounders have pledged 80% of their personal stock to charity, potentially about $80…]]
+- `2026-11-01` [[2026-11-01-anthropic-s-s-1-locks-in-founder-control-and-unusual-equity|Anthropic's S-1 locks in founder control and unusual equity-based giving]]
+- `2026-11-01` [[2026-11-01-anthropic-s-ipo-filing-commits-founder-stock-and-company-equ|Anthropic's IPO filing commits founder stock and company equity to charitable giving]]
+- `2026-10-31` [[2026-10-31-verification-and-exclusions-included-articles-were-read-in-f|Verification and exclusions: Included articles were read in full and their publication times checked against…]]
 - `2026-10-31` [[2026-10-31-openai-s-latest-round-reportedly-falls-well-short-of-its-30|OpenAI's latest round reportedly falls well short of its $30 billion goal]]
+- `2026-10-31` [[2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af|OpenAI reportedly lowers its funding target to $20 billion after a lukewarm investor response]]
+- `2026-10-31` [[2026-10-31-openai-cuts-its-round-to-20-billion-after-raising-less-than|OpenAI cuts its round to $20 billion after raising less than half its original goal]]
+- `2026-10-31` [[2026-10-31-isomorphic-labs-pushes-ai-first-drug-discovery-toward-cancer|Isomorphic Labs pushes AI-first drug discovery toward cancer targets]]
 - `2026-10-31` [[2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr|Drug discovery becomes a frontier-lab growth story for Anthropic and Isomorphic Labs]]
+- `2026-10-31` [[2026-10-31-daily-ai-news-digest-october-31-2026|Daily AI News Digest – October 31, 2026]]
+- `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
+- `2026-10-31` [[2026-10-31-citing-the-information-and-bloomberg-techcrunch-reports-nvid|Citing The Information and Bloomberg, TechCrunch reports Nvidia is discussing a residual value guarantee for…]]
+- `2026-10-31` [[2026-10-31-anthropic-s-s-1-makes-life-sciences-central-to-its-ipo-pitch|Anthropic's S-1 makes life sciences central to its IPO pitch]]
+- `2026-10-31` [[2026-10-31-according-to-the-financial-times-blackstone-the-anchor-inves|According to the Financial Times, Blackstone, the anchor investor in a $63 billion chip-financing deal for Anthropic,…]]
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-30` [[2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an|Nvidia reportedly in talks to guarantee debt for Nscale's Anthropic data center]]
 - `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
+- `2026-10-30` [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per|Inside a malicious Claude Code-branded extension and its persistent SSH backdoor]]
+- `2026-10-30` [[2026-10-30-blackstone-reportedly-expects-anthropic-to-get-a-high-junk-r|Blackstone reportedly expects Anthropic to get a high junk rating after its IPO]]
 - `2026-10-30` [[2026-10-30-anthropic-s-internal-claude-usage-now-exceeds-its-payroll-at|Anthropic's internal Claude usage now exceeds its payroll at retail prices]]
 - `2026-10-30` [[2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra|Anthropic's financing stack shows strain: an expected junk rating and an Nvidia backstop]]
 - `2026-10-29` [[2026-10-29-october-28-2026-techcrunch|[October 28, 2026] · [TechCrunch]]]

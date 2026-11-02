@@ -4,8 +4,8 @@ title: France's Mistral warns of the dangers of U.S. AI tech dominance
 date: '2026-05-28'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 78727c351d057d12582ace70ba6e05222b37c8b5a0f07996bb1884550e09359b

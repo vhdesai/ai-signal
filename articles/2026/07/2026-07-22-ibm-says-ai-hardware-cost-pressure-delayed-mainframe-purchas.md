@@ -4,8 +4,8 @@ title: IBM says AI hardware cost pressure delayed mainframe purchases
 date: '2026-07-22'
 source: TechCrunch
 url_original: null
-url_canonical: https://aidirectory.com/news/ibm-ai-spending-delayed-mainframe-purchases-weak-quarter
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-23-daily-ai-news-digest.md
 content_hash: 1db1fd5fb184d7f82985502aea924c124cf78579e63f790bf504e43acda32b05
 normalized_title_hash: f2bb9ccd7f9625ac
@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to
 - 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
+- 2026-10-30-intel-plunges-as-ai-demand-for-memory-squeezes-the-pc-market
 - 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 embedding_id: 2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas
 event_name: ''
@@ -39,5 +40,5 @@ TechCrunch reports that IBM's quarterly results missed expectations after mainfr
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]]
+**Related:** [[2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-10-30-intel-plunges-as-ai-demand-for-memory-squeezes-the-pc-market]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]]
 <!-- graph:end -->

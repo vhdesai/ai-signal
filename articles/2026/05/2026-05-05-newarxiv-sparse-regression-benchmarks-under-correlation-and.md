@@ -4,8 +4,8 @@ title: 'NEWarXiv: Sparse regression benchmarks under correlation and weak signal
 date: '2026-05-05'
 source: arXiv:2605.00835
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.00835
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: ae2e4bd2c4a705c5f898c3a0bea9da401dc3c62c28caeddc153196adb6e0c3e6
 normalized_title_hash: ff26c1038edd3866

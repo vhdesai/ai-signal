@@ -1,17 +1,42 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1863
+member_count: 1888
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1863 connected article(s).
+> Auto-generated topic hub. 1888 connected article(s).
 
+- `2026-11-02` [[2026-11-02-the-information-reports-that-google-s-energy-chief-put-the-c|The Information reports that Google's energy chief put the cost of orbital data centers at up to 100 times that of…]]
+- `2026-11-02` [[2026-11-02-netapp-closed-its-acquisition-of-peak-aio-adding-metadata-se|NetApp closed its acquisition of PEAK:AIO, adding metadata services and parallel file system technology to its NetApp…]]
+- `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de|Marvell agrees to buy Lumentum in a $115 billion all-stock deal]]
+- `2026-11-02` [[2026-11-02-lumen-and-microsoft-announced-an-expanded-co-sell-partnershi|Lumen and Microsoft announced an expanded co-sell partnership to align enterprise network transformation with Azure…]]
+- `2026-11-01` [[2026-11-01-techcrunch-reports-data-centers-and-ai-dominated-discussion|TechCrunch reports data centers and AI dominated discussion at a pre-midterm event in Brooklyn and cites a Data Center…]]
+- `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
+- `2026-11-01` [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue|Opposition to data centers becomes a midterm election issue]]
+- `2026-11-01` [[2026-11-01-openai-plans-post-midterm-policy-push-including-rebranding-d|OpenAI plans post-midterm policy push, including rebranding data centers as "AI compute campuses"]]
+- `2026-11-01` [[2026-11-01-google-energy-executive-says-data-centers-in-space-could-cos|Google energy executive says data centers in space could cost up to 100 times more than on Earth]]
+- `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
+- `2026-11-01` [[2026-11-01-candidates-who-back-data-center-pauses-could-win-up-to-15-go|Candidates who back data center pauses could win up to 15 governor's races]]
+- `2026-11-01` [[2026-11-01-aramco-takes-49-of-humain-to-fund-saudi-arabia-s-3-gigawatt|Aramco takes 49% of HUMAIN to fund Saudi Arabia's 3-gigawatt AI compute plan]]
+- `2026-11-01` [[2026-11-01-a-federal-judge-denied-xai-s-motion-to-dismiss-a-suit-allegi|A federal judge denied xAI's motion to dismiss a suit alleging it ran at least 35 combustion turbines at its Colossus…]]
+- `2026-10-31` [[2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af|OpenAI reportedly lowers its funding target to $20 billion after a lukewarm investor response]]
+- `2026-10-31` [[2026-10-31-judge-lets-naacp-clean-air-act-lawsuit-over-xai-s-colossus-d|Judge lets NAACP Clean Air Act lawsuit over xAI's Colossus data center proceed]]
+- `2026-10-31` [[2026-10-31-intel-guided-q4-revenue-to-15-16-billion-versus-about-17-bil|Intel guided Q4 revenue to $15–16 billion versus about $17 billion expected, with gross margin falling to 37% from 43%…]]
+- `2026-10-31` [[2026-10-31-data-center-permitting-becomes-a-binding-constraint-as-xai-s|Data-center permitting becomes a binding constraint as xAI's Colossus suit proceeds]]
+- `2026-10-31` [[2026-10-31-citing-the-information-and-bloomberg-techcrunch-reports-nvid|Citing The Information and Bloomberg, TechCrunch reports Nvidia is discussing a residual value guarantee for…]]
+- `2026-10-31` [[2026-10-31-alphabet-amazon-meta-and-microsoft-have-outlined-more-than-7|Alphabet, Amazon, Meta, and Microsoft have outlined more than $740 billion in capex this year, and investors are now…]]
+- `2026-10-31` [[2026-10-31-according-to-the-financial-times-blackstone-the-anchor-inves|According to the Financial Times, Blackstone, the anchor investor in a $63 billion chip-financing deal for Anthropic,…]]
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
+- `2026-10-30` [[2026-10-30-satlyt-takes-another-step-toward-turning-satellites-into-spa|Satlyt takes another step toward turning satellites into space data centers]]
 - `2026-10-30` [[2026-10-30-runware-plans-an-assembly-line-for-prefabricated-ai-data-cen|Runware plans an assembly line for prefabricated AI data center pods]]
+- `2026-10-30` [[2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an|Nvidia reportedly in talks to guarantee debt for Nscale's Anthropic data center]]
 - `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
+- `2026-10-30` [[2026-10-30-investors-turn-on-ai-capex-as-big-tech-free-cash-flow-goes-n|Investors turn on AI capex as Big Tech free cash flow goes negative]]
+- `2026-10-30` [[2026-10-30-cracks-are-emerging-in-the-ai-spending-boom|Cracks are emerging in the AI spending boom]]
+- `2026-10-30` [[2026-10-30-blackstone-reportedly-expects-anthropic-to-get-a-high-junk-r|Blackstone reportedly expects Anthropic to get a high junk rating after its IPO]]
 - `2026-10-30` [[2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra|Anthropic's financing stack shows strain: an expected junk rating and an Nvidia backstop]]
 - `2026-10-29` [[2026-10-29-october-30-2026-dealbook|[October 30, 2026] · [DealBook]]]
 - `2026-10-29` [[2026-10-29-october-29-2026-pitchbook|[October 29, 2026] · [PitchBook]]]

@@ -5,8 +5,8 @@ title: Cisco announced it is cutting nearly 4,000 positions while simultaneously
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.networkworld.com/article/4171043/cisco-to-cut-nearly-4000-jobs-despite-strong-growth-in-ai-enterprise-networking.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 22e52c9ff6c28161b557a819cb062dccfb46b6d4f1bff6b2bd7444b38c14e1c7

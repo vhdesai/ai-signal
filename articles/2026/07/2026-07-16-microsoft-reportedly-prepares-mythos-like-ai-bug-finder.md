@@ -4,8 +4,8 @@ title: Microsoft reportedly prepares Mythos-like AI bug finder
 date: '2026-07-16'
 source: The Information
 url_original: null
-url_canonical: https://vff.ai/article/2026/07/17/exclusive-microsoft-preps-mythos-like-ai-bug-finder
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-17-daily-ai-news-digest.md
 content_hash: 7ea7e1de158f11572bcfb450f4311deff5fe78b2fb0911fc26ae3d41af9d0b6f
 normalized_title_hash: 98d3d444f481d337

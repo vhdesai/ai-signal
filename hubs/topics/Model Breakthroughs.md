@@ -1,15 +1,50 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3646
+member_count: 3681
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3646 connected article(s).
+> Auto-generated topic hub. 3681 connected article(s).
 
+- `2026-11-02` [[2026-11-02-the-information-reports-that-google-s-energy-chief-put-the-c|The Information reports that Google's energy chief put the cost of orbital data centers at up to 100 times that of…]]
+- `2026-11-02` [[2026-11-02-south-korea-s-2027-budget-puts-state-backed-ai-investment-in|South Korea’s 2027 budget puts state-backed AI investment in focus]]
+- `2026-11-02` [[2026-11-02-nvidia-s-apache-2-0-auto-ontology-generates-a-starting-ontol|NVIDIA's Apache 2.0 Auto Ontology generates a starting ontology from enterprise metadata, validates agent SQL against…]]
+- `2026-11-02` [[2026-11-02-an-independent-developer-released-qwengpu-mit-license-which|An independent developer released qwenGPU (MIT license), which adds 45 compiler-generated, untrained layers to…]]
+- `2026-11-01` [[2026-11-01-nace-ai-released-open-weights-for-drex-max-v1-a-dense-27b-mu|Nace AI released open weights for Drex Max v1, a dense 27B multimodal model that returns calibrated probabilities over…]]
+- `2026-11-01` [[2026-11-01-nace-ai-open-sources-drex-max-v1-a-27b-decision-model-that-r|Nace AI open-sources Drex Max v1, a 27B decision model that runs locally]]
+- `2026-11-01` [[2026-11-01-in-a-wired-interview-summarized-by-techcrunch-new-apple-ceo|In a Wired interview summarized by TechCrunch, new Apple CEO John Ternus defended Apple's AI position after the delayed…]]
+- `2026-11-01` [[2026-11-01-deepseek-s-mit-licensed-prototype-listens-to-github-and-feis|DeepSeek's MIT-licensed prototype listens to GitHub and Feishu requests, turns authorized asks into isolated parallel…]]
+- `2026-11-01` [[2026-11-01-deepseek-open-sources-dsh-superagent-a-router-worker-coding|DeepSeek open-sources dsh-superagent, a router-worker coding agent that runs tasks in parallel]]
+- `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-1-2026|Daily AI News Digest – November 1, 2026]]
+- `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
+- `2026-10-31` [[2026-10-31-tokeneconomizer-is-an-open-source-plugin-for-claude-code-cod|TokenEconomizer is an open-source plugin for Claude Code, Codex, GitHub Copilot CLI, and Pi that learns from prior…]]
+- `2026-10-31` [[2026-10-31-meta-reportedly-builds-a-humanoid-prototype-with-fourier|Meta reportedly builds a humanoid prototype with Fourier]]
+- `2026-10-31` [[2026-10-31-mit-researchers-adam-berinsky-chara-podimata-and-charles-ste|MIT researchers Adam Berinsky, Chara Podimata, and Charles Stewart III built a dashboard that repeatedly queries…]]
+- `2026-10-31` [[2026-10-31-isomorphic-labs-pushes-ai-first-drug-discovery-toward-cancer|Isomorphic Labs pushes AI-first drug discovery toward cancer targets]]
+- `2026-10-31` [[2026-10-31-google-s-prototype-space-data-center-carrying-four-tpus-and|Google's prototype space data center, carrying four TPUs and generating up to 1 kW, completed commissioning and ran…]]
+- `2026-10-31` [[2026-10-31-factory-s-droid-1-0-makes-harness-design-a-cost-lever-for-co|Factory's Droid 1.0 makes harness design a cost lever for coding agents]]
+- `2026-10-31` [[2026-10-31-factory-releases-droid-1-0-a-coding-agent-harness-that-works|Factory releases Droid 1.0, a coding-agent harness that works with any model]]
 - `2026-10-31` [[2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr|Drug discovery becomes a frontier-lab growth story for Anthropic and Isomorphic Labs]]
+- `2026-10-31` [[2026-10-31-directly-scanned-blogs-and-publications-openai-news-and-rss|Directly scanned blogs and publications: OpenAI News and RSS; Google DeepMind Blog; Meta AI Blog (no readable page…]]
+- `2026-10-31` [[2026-10-31-deepseek-research-prototype-explores-parallel-coding|DeepSeek research prototype explores parallel coding]]
+- `2026-10-31` [[2026-10-31-daily-ai-news-digest-october-31-2026|Daily AI News Digest – October 31, 2026]]
+- `2026-10-31` [[2026-10-31-cisco-talos-finds-infostealer-malware-using-llms-to-triage-v|Cisco Talos finds infostealer malware using LLMs to triage victims]]
+- `2026-10-31` [[2026-10-31-apple-schedules-a-staged-apple-intelligence-rollout-in-china|Apple schedules a staged Apple Intelligence rollout in China with Alibaba Qwen support]]
+- `2026-10-31` [[2026-10-31-apple-emphasizes-product-value-over-ai-for-its-own-sake|Apple emphasizes product value over AI for its own sake]]
+- `2026-10-31` [[2026-10-31-apple-ceo-john-ternus-says-apple-won-t-ship-ai-for-ai-s-sake|Apple CEO John Ternus says Apple won't ship AI for AI's sake]]
+- `2026-10-31` [[2026-10-31-anthropic-s-s-1-makes-life-sciences-central-to-its-ipo-pitch|Anthropic's S-1 makes life sciences central to its IPO pitch]]
+- `2026-10-30` [[2026-10-30-tokeneconomizer-cuts-coding-agent-token-costs-by-up-to-30-9|TokenEconomizer cuts coding-agent token costs by up to 30.9%]]
+- `2026-10-30` [[2026-10-30-openai-and-microsoft-give-publishers-separate-controls-for-a|OpenAI and Microsoft give publishers separate controls for AI training and grounding]]
+- `2026-10-30` [[2026-10-30-microsoft-and-openai-give-publishers-separate-controls-for-a|Microsoft and OpenAI give publishers separate controls for AI training and grounding]]
 - `2026-10-30` [[2026-10-30-microsoft-research-and-uc-berkeley-s-tokeneconomizer-cuts-co|Microsoft Research and UC Berkeley's TokenEconomizer cuts coding-agent costs by up to 31%]]
+- `2026-10-30` [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi|MIT's LLM Election Observatory tracks how chatbots answer midterm questions]]
+- `2026-10-30` [[2026-10-30-intel-shares-fall-as-ai-demand-for-components-pushes-up-pc-c|Intel shares fall as AI demand for components pushes up PC costs]]
+- `2026-10-30` [[2026-10-30-five-mit-faculty-named-2026-schmidt-sciences-ai2050-fellows|Five MIT faculty named 2026 Schmidt Sciences AI2050 Fellows]]
+- `2026-10-30` [[2026-10-30-chatgpt-desktop-app-can-now-run-inference-through-amazon-bed|ChatGPT desktop app can now run inference through Amazon Bedrock in AWS GovCloud]]
+- `2026-10-30` [[2026-10-30-chatgpt-desktop-app-can-now-route-inference-to-amazon-bedroc|ChatGPT desktop app can now route inference to Amazon Bedrock in AWS GovCloud]]
 - `2026-10-29` [[2026-10-29-university-of-washington-researchers-presented-micro-languag|University of Washington researchers presented micro language models with 8 to 30 million parameters at EMNLP 2026]]
 - `2026-10-29` [[2026-10-29-mistral-releases-trillion-parameter-large-4-weights-for-self|Mistral releases trillion-parameter Large 4 weights for self-hosted cyber defense]]
 - `2026-10-29` [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with|Google ships Gemini 4 Carbon weeks after Argon, leading with cyber-defense capability]]

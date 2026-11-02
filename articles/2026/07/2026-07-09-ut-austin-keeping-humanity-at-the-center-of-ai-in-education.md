@@ -4,8 +4,8 @@ title: 'UT Austin: keeping humanity at the center of AI in education'
 date: '2026-07-09'
 source: 'Source: UT Austin College of Education'
 url_original: null
-url_canonical: https://education.utexas.edu/news/2026/07/09/keeping-humanity-in-artificial-intelligence/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-10_060949_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 69b33c8b9c3bafcd39d6500d18e3cdbb4bd0345f7016e4bfae8c401051e044ab

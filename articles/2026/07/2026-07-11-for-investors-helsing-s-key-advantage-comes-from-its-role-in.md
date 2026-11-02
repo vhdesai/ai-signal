@@ -5,8 +5,8 @@ title: For investors, Helsing's key advantage comes from its role in the gruelin
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://ukraine-war-analytics.com/companies/helsing.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: 3d394831808a6781a4b57eacbdfbd59c2f164b6e1281dd07523a4171374331cd
 normalized_title_hash: a3e01b2393daf159

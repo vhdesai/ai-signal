@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites
+- 2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an
 - 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
 embedding_id: 2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus
 event_name: ''
@@ -37,5 +38,5 @@ Both labs are exploring agreements for existing facilities in the 20–30 MW ran
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites]] · [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga]]
+**Related:** [[2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites]] · [[2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an]] · [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga]]
 <!-- graph:end -->

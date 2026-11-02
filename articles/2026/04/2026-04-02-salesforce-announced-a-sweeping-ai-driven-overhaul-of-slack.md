@@ -5,8 +5,8 @@ title: Salesforce announced a sweeping AI-driven overhaul of Slack, adding 30 ne
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: c7f17d1f9c2c4d4690a8d39c89ff6b0395d21abf5143d0e0bd1b09f9e58ea9ba

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-01-a-federal-judge-denied-xai-s-motion-to-dismiss-a-suit-allegi
+- 2026-10-31-judge-lets-naacp-clean-air-act-lawsuit-over-xai-s-colossus-d
+- 2026-10-31-data-center-permitting-becomes-a-binding-constraint-as-xai-s
+- 2026-10-31-xai-data-center-pollution-lawsuit-can-proceed
 - 2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin
-- 2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth
-- 2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-until-20
-- 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
-- 2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for
 embedding_id: 2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center
 event_name: ''
 ---
@@ -40,5 +40,5 @@ xAI sued over "mobile" gas turbines at Mississippi data center — TechCrunch, M
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]] · [[2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-until-20]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for]]
+**Related:** [[2026-11-01-a-federal-judge-denied-xai-s-motion-to-dismiss-a-suit-allegi]] · [[2026-10-31-judge-lets-naacp-clean-air-act-lawsuit-over-xai-s-colossus-d]] · [[2026-10-31-data-center-permitting-becomes-a-binding-constraint-as-xai-s]] · [[2026-10-31-xai-data-center-pollution-lawsuit-can-proceed]] · [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]]
 <!-- graph:end -->

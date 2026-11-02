@@ -4,8 +4,8 @@ title: Asian labs rush out Mythos-class rivals as the U.S. export ban drags on
 date: '2026-06-27'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_060911_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: ab9fb49a054f5d2003967593ea201d25d9b396f2cb8329ba276d842e6abaa990

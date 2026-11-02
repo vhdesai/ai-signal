@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: AiThority
 url_original: https://aithority.com/
 url_canonical: https://aithority.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 25df211eace1c91f722781306e03e6d92cee8b2427bd9a6ea5cc798c6c435328
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
+- 2026-11-02-netapp-completes-its-acquisition-of-peak-aio-for-ai-scale-st
 - 2026-10-19-deepseek-is-helping-shape-huawei-s-future-ai-processors
 - 2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for
 - 2026-10-19-chip-designchinadeepseek-is-helping-shape-huawei-s-future-ai
-- 2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform
 embedding_id: 2026-05-27-qumulo-introduces-cloud-ai-accelerator-for-unstructured-data
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Qumulo announced a Cloud AI Accelerator service that connects its unstructured-d
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge]] · [[2026-10-19-deepseek-is-helping-shape-huawei-s-future-ai-processors]] · [[2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for]] · [[2026-10-19-chip-designchinadeepseek-is-helping-shape-huawei-s-future-ai]] · [[2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform]]
+**Related:** [[2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge]] · [[2026-11-02-netapp-completes-its-acquisition-of-peak-aio-for-ai-scale-st]] · [[2026-10-19-deepseek-is-helping-shape-huawei-s-future-ai-processors]] · [[2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for]] · [[2026-10-19-chip-designchinadeepseek-is-helping-shape-huawei-s-future-ai]]
 <!-- graph:end -->

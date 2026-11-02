@@ -4,8 +4,8 @@ title: WSJ investigation finds chatbots can still be coaxed into weapons instruc
 date: '2026-07-25'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://genaidaily.com/wall-street-journal-investigation-finds-ai-chatbots-answering-bioweapon-queries/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-26_065947_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: e4996c0d53544697f70253c82e7c5959ab6b0e0a78d43d54c62067be9f251da6

@@ -4,8 +4,8 @@ title: Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules
 date: '2026-07-06'
 source: AI News
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/china-ai-rules-force-bytedance-131534302.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-07_060843_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 5e19e61350c965a5f7534e154b9043f867111e8c532d43b36b95b638ba8fe8bd

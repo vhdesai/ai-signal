@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 - 2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa
+- 2026-10-31-university-coverage-uc-berkeley-stanford-mit-purdue-georgia
 - 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 embedding_id: 2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc
 event_name: ''
@@ -37,5 +38,5 @@ The new U.S. News rankings placed Carnegie Mellon at a historic high of No. 14 o
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa]] · [[2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking]]
+**Related:** [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa]] · [[2026-10-31-university-coverage-uc-berkeley-stanford-mit-purdue-georgia]] · [[2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking]]
 <!-- graph:end -->

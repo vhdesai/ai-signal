@@ -4,8 +4,8 @@ title: Apple studies calibrated sparse attention to accelerate text-to-video gen
 date: '2026-07-21'
 source: Apple Machine Learning Research
 url_original: null
-url_canonical: https://machinelearning.apple.com/research/calibrated-sparse-attention
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: a4be6f2591b172dae84cc3dd3b2e6ea3e11a887fe3fe2e063e0ce2c721121646
 normalized_title_hash: 1df00fd6d5726991

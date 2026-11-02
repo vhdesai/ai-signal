@@ -4,8 +4,8 @@ title: ChatGPT desktop voice mode now works with ChatGPT Work and Codex
 date: '2026-07-24'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-25-daily-ai-news-digest.md
 content_hash: 059a42c5b7ef45132d1727d23e90c0ff3f680828c9d9dd58fc2a05cebe4a51a8
 normalized_title_hash: c1d0ba89bda535f6
@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
 - 2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows
+- 2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in
 embedding_id: 2026-07-24-chatgpt-desktop-voice-mode-now-works-with-chatgpt-work-and-c
 event_name: ''
 ---
@@ -37,5 +38,5 @@ TechCrunch reports that OpenAI's updated voice mode is now available in the Chat
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop]] · [[2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows]]
+**Related:** [[2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop]] · [[2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows]] · [[2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in]]
 <!-- graph:end -->

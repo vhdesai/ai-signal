@@ -4,8 +4,8 @@ title: Amazon CTO says enterprises are moving workloads to cheaper open-source m
 date: '2026-07-10'
 source: Fortune
 url_original: null
-url_canonical: https://fortune.com/2026/07/10/amazon-cto-companies-shifting-toward-cheaper-opensource-ai-models-werner-vogels/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 51041252992f35a55a66b41266728945d2e00449b73b6b384e47b1e7add42d5b

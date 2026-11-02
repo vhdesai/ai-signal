@@ -25,11 +25,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-02-south-korea-s-2027-budget-puts-state-backed-ai-investment-in
 - 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
 - 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
-- 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 embedding_id: 2026-05-27-wsj-opinion-an-ai-overwatch-act-would-help-the-us-compete-wi
 event_name: ''
 ---
@@ -43,5 +43,5 @@ A WSJ opinion piece argues for an "AI Overwatch Act" — a legislative framework
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr]]
+**Related:** [[2026-11-02-south-korea-s-2027-budget-puts-state-backed-ai-investment-in]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]]
 <!-- graph:end -->

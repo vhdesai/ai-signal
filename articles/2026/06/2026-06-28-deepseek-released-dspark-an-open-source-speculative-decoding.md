@@ -5,8 +5,8 @@ title: DeepSeek released DSpark, an open-source speculative-decoding framework s
 date: '2026-06-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.techtimes.com/articles/319236/20260628/deepseek-releases-dspark-speculative-decoding-makes-v4-85-percent-faster.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_060300_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 020d9b6c5bce3c77896b1b033c7db9e1e1752d6bea859790b2b63c7ba919fb47
