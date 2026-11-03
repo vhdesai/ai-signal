@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau
 - 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
 - 2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon
-- 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
+- 2026-11-03-anthropic-tells-ipo-investors-that-claude-is-speeding-up-the
 embedding_id: 2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Anthropic confirmed it is assembling a silicon team to co-design custom chips fo
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]] · [[2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]] · [[2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]]
+**Related:** [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]] · [[2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]] · [[2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon]] · [[2026-11-03-anthropic-tells-ipo-investors-that-claude-is-speeding-up-the]]
 <!-- graph:end -->

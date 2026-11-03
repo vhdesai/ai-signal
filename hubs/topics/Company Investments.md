@@ -1,17 +1,29 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1349
+member_count: 1361
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1349 connected article(s).
+> Auto-generated topic hub. 1361 connected article(s).
 
+- `2026-11-03` [[2026-11-03-november-3-2026-the-information-3|[November 3, 2026] · [The Information]]]
+- `2026-11-03` [[2026-11-03-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]
+- `2026-11-03` [[2026-11-03-anthropic-tells-ipo-investors-that-claude-is-speeding-up-the|Anthropic tells IPO investors that Claude is speeding up the design of its own AI chips]]
+- `2026-11-03` [[2026-11-03-anthropic-tells-ipo-investors-claude-is-speeding-up-design-o|Anthropic tells IPO investors Claude is speeding up design of its own AI chips]]
+- `2026-11-02` [[2026-11-02-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]
+- `2026-11-02` [[2026-11-02-the-ai-bill-comes-due-oracle-raises-20-billion-memory-costs|The AI bill comes due: Oracle raises $20 billion, memory costs bite and investors buy protection]]
+- `2026-11-02` [[2026-11-02-oracle-files-to-raise-20-billion-in-stock-and-bonds-to-fund|Oracle files to raise $20 billion in stock and bonds to fund AI infrastructure]]
+- `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-in-an-all-stock-bet-on-optica|Marvell agrees to buy Lumentum in an all-stock bet on optical AI networking]]
 - `2026-11-02` [[2026-11-02-larridin-founded-by-former-comscore-executives-raised-30-mil|Larridin, founded by former Comscore executives, raised $30 million led by Pelion Ventures, with a16z and Gradient…]]
 - `2026-11-02` [[2026-11-02-larridin-raises-30-million-to-measure-what-companies-get-fro|Larridin raises $30 million to measure what companies get from AI spending]]
+- `2026-11-02` [[2026-11-02-anthropic-s-amended-s-1-17-billion-quarter-23-billion-loss-a|Anthropic's amended S-1: $17 billion quarter, $23 billion loss and an $895 billion compute bill]]
+- `2026-11-02` [[2026-11-02-anthropic-s-q3-revenue-reaches-nearly-17-billion-as-growth-s|Anthropic's Q3 revenue reaches nearly $17 billion as growth slows and losses widen]]
+- `2026-11-02` [[2026-11-02-anthropic-s-ipo-filing-warns-it-may-soon-meet-its-own-thresh|Anthropic's IPO filing warns it may soon meet its own threshold for AI-accelerated progress]]
 - `2026-11-02` [[2026-11-02-anthropic-targets-japanese-investors-for-a-slice-of-its-u-s|Anthropic targets Japanese investors for a slice of its U.S. IPO]]
 - `2026-11-01` [[2026-11-01-november-1-2026-pitchbook|[November 1, 2026] · [PitchBook]]]
+- `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-3-2026|Daily AI News Digest – November 3, 2026]]
 - `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-1-2026|Daily AI News Digest – November 1, 2026]]
 - `2026-11-01` [[2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc|Citing the Financial Times and The Wall Street Journal, TechCrunch reports OpenAI has lowered the target for its…]]
 - `2026-11-01` [[2026-11-01-anthropic-s-s-1-says-its-seven-cofounders-have-pledged-80-of|Anthropic's S-1 says its seven cofounders have pledged 80% of their personal stock to charity, potentially about $80…]]

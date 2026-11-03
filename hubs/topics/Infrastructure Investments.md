@@ -1,22 +1,35 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1888
+member_count: 1901
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1888 connected article(s).
+> Auto-generated topic hub. 1901 connected article(s).
 
+- `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]
+- `2026-11-02` [[2026-11-02-november-3-2026-the-next-web|[November 3, 2026] · [The Next Web]]]
+- `2026-11-02` [[2026-11-02-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]
+- `2026-11-02` [[2026-11-02-november-1-2026-the-information|[November 1, 2026] · [The Information]]]
 - `2026-11-02` [[2026-11-02-the-information-reports-that-google-s-energy-chief-put-the-c|The Information reports that Google's energy chief put the cost of orbital data centers at up to 100 times that of…]]
+- `2026-11-02` [[2026-11-02-oracle-prices-a-20-billion-stock-and-notes-offering|Oracle prices a $20 billion stock-and-notes offering]]
+- `2026-11-02` [[2026-11-02-oracle-files-to-raise-20-billion-in-stock-and-bonds-to-fund|Oracle files to raise $20 billion in stock and bonds to fund AI infrastructure]]
+- `2026-11-02` [[2026-11-02-openai-launches-grid-protectors-committing-future-campuses-t|OpenAI launches Grid Protectors, committing future campuses to cut power use when the grid is strained]]
+- `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-02` [[2026-11-02-netapp-closed-its-acquisition-of-peak-aio-adding-metadata-se|NetApp closed its acquisition of PEAK:AIO, adding metadata services and parallel file system technology to its NetApp…]]
 - `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de|Marvell agrees to buy Lumentum in a $115 billion all-stock deal]]
 - `2026-11-02` [[2026-11-02-lumen-and-microsoft-announced-an-expanded-co-sell-partnershi|Lumen and Microsoft announced an expanded co-sell partnership to align enterprise network transformation with Azure…]]
+- `2026-11-02` [[2026-11-02-anthropic-s-amended-s-1-17-billion-quarter-23-billion-loss-a|Anthropic's amended S-1: $17 billion quarter, $23 billion loss and an $895 billion compute bill]]
+- `2026-11-02` [[2026-11-02-anthropic-discloses-rapid-growth-and-substantial-compute-com|Anthropic discloses rapid growth and substantial compute commitments]]
 - `2026-11-01` [[2026-11-01-techcrunch-reports-data-centers-and-ai-dominated-discussion|TechCrunch reports data centers and AI dominated discussion at a pre-midterm event in Brooklyn and cites a Data Center…]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
 - `2026-11-01` [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue|Opposition to data centers becomes a midterm election issue]]
 - `2026-11-01` [[2026-11-01-openai-plans-post-midterm-policy-push-including-rebranding-d|OpenAI plans post-midterm policy push, including rebranding data centers as "AI compute campuses"]]
 - `2026-11-01` [[2026-11-01-google-energy-executive-says-data-centers-in-space-could-cos|Google energy executive says data centers in space could cost up to 100 times more than on Earth]]
+- `2026-11-01` [[2026-11-01-data-centers-on-the-ballot-pause-backing-candidates-contest|Data centers on the ballot: pause-backing candidates contest 15 governor's races as OpenAI pledges grid relief]]
+- `2026-11-01` [[2026-11-01-data-centers-on-the-ballot-as-openai-pledges-grid-relief|Data centers on the ballot as OpenAI pledges grid relief]]
+- `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-3-2026|Daily AI News Digest – November 3, 2026]]
 - `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
 - `2026-11-01` [[2026-11-01-candidates-who-back-data-center-pauses-could-win-up-to-15-go|Candidates who back data center pauses could win up to 15 governor's races]]
 - `2026-11-01` [[2026-11-01-aramco-takes-49-of-humain-to-fund-saudi-arabia-s-3-gigawatt|Aramco takes 49% of HUMAIN to fund Saudi Arabia's 3-gigawatt AI compute plan]]

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-20-openai-acquires-orchestra-bio-to-deepen-life-sciences-operat
 - 2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by
 - 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
-- 2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce
+- 2026-11-03-november-3-2026-the-information
 embedding_id: 2026-08-05-klaviyo-acquires-elias-torres-agency-founder-joins-as-chief
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Marketing automation vendor Klaviyo has acquired Agency, the AI startup founded 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-05-klaviyo-acquires-elias-torres-ai-customer-success-startup-na]] · [[2026-10-20-openai-acquires-orchestra-bio-to-deepen-life-sciences-operat]] · [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]] · [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce]]
+**Related:** [[2026-08-05-klaviyo-acquires-elias-torres-ai-customer-success-startup-na]] · [[2026-10-20-openai-acquires-orchestra-bio-to-deepen-life-sciences-operat]] · [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]] · [[2026-11-03-november-3-2026-the-information]]
 <!-- graph:end -->

@@ -32,8 +32,8 @@ related_article_ids:
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into
 - 2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr
+- 2026-11-02-november-3-2026-the-next-web
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
-- 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 embedding_id: 2026-10-30-october-29-2026-techcrunch
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Reddit is moving to a primarily logged-in experience to protect its data from AI
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Cohere]] · [[DeepSeek]] · [[Meta]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[M&A Activity]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into]] · [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]]
+**Related:** [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into]] · [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr]] · [[2026-11-02-november-3-2026-the-next-web]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]]
 <!-- graph:end -->

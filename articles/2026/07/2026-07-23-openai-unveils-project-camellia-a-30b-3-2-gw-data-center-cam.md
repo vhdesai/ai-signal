@@ -23,8 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-22-openai-announces-ai-infrastructure-project-in-effingham-coun
 - 2026-07-22-openai-announces-project-camellia-a-30b-georgia-data-center
+- 2026-11-02-openai-launches-grid-protectors-committing-future-campuses-t
 - 2026-07-22-openai-s-infrastructure-budget-balloons-to-750b-through-2030
-- 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
+- 2026-11-01-data-centers-on-the-ballot-as-openai-pledges-grid-relief
 embedding_id: 2026-07-23-openai-unveils-project-camellia-a-30b-3-2-gw-data-center-cam
 event_name: ''
 ---
@@ -38,5 +39,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-22-openai-announces-ai-infrastructure-project-in-effingham-coun]] · [[2026-07-22-openai-announces-project-camellia-a-30b-georgia-data-center]] · [[2026-07-22-openai-s-infrastructure-budget-balloons-to-750b-through-2030]] · [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga]]
+**Related:** [[2026-07-22-openai-announces-ai-infrastructure-project-in-effingham-coun]] · [[2026-07-22-openai-announces-project-camellia-a-30b-georgia-data-center]] · [[2026-11-02-openai-launches-grid-protectors-committing-future-campuses-t]] · [[2026-07-22-openai-s-infrastructure-budget-balloons-to-750b-through-2030]] · [[2026-11-01-data-centers-on-the-ballot-as-openai-pledges-grid-relief]]
 <!-- graph:end -->

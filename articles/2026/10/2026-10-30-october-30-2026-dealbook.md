@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-30-october-30-2026-dealbook-2
+- 2026-11-02-november-3-2026-dealbook
 - 2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11
-- 2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu
-- 2026-10-14-anthropic-tells-prospective-investors-revenue-reached-16-8-b
+- 2026-11-02-anthropic-s-amended-s-1-17-billion-quarter-23-billion-loss-a
 embedding_id: 2026-10-30-october-30-2026-dealbook
 event_name: ''
 ---
@@ -36,5 +36,5 @@ DealBook reports Anthropic generated $16.8 billion of third-quarter revenue, up 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-30-october-30-2026-dealbook-2]] · [[2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11]] · [[2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu]] · [[2026-10-14-anthropic-tells-prospective-investors-revenue-reached-16-8-b]]
+**Related:** [[2026-10-30-october-30-2026-dealbook-2]] · [[2026-11-02-november-3-2026-dealbook]] · [[2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11]] · [[2026-11-02-anthropic-s-amended-s-1-17-billion-quarter-23-billion-loss-a]]
 <!-- graph:end -->

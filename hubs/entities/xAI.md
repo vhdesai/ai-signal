@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 442
+member_count: 445
 ---
 
 # xAI
 
-> Auto-generated entity hub. 442 connected article(s).
+> Auto-generated entity hub. 445 connected article(s).
 
+- `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
+- `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
+- `2026-11-02` [[2026-11-02-new-york-times-sues-brave-alleging-it-scraped-content-and-so|New York Times sues Brave, alleging it scraped content and sold it to AI companies]]
 - `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de|Marvell agrees to buy Lumentum in a $115 billion all-stock deal]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
 - `2026-11-01` [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue|Opposition to data centers becomes a midterm election issue]]

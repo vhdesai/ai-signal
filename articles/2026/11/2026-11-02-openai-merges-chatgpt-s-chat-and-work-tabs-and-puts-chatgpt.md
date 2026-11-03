@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in
 - 2026-11-02-chatgpt-s-unified-workspace-brings-shared-usage-budgeting-in
+- 2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a
 - 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
 embedding_id: 2026-11-02-openai-merges-chatgpt-s-chat-and-work-tabs-and-puts-chatgpt
 event_name: ''
@@ -39,5 +40,5 @@ An email to users says the merged experience will roll out first to selected use
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in]] · [[2026-11-02-chatgpt-s-unified-workspace-brings-shared-usage-budgeting-in]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]]
+**Related:** [[2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in]] · [[2026-11-02-chatgpt-s-unified-workspace-brings-shared-usage-budgeting-in]] · [[2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]]
 <!-- graph:end -->

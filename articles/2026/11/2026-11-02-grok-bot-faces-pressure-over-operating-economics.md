@@ -20,6 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-02-musk-says-grok-bot-costs-are-unsustainably-high-relative-to
+- 2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a
 - 2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat
 - 2026-08-26-xai-markets-a-grok-trading-bot-with-a-limited-money-back-pro
 embedding_id: 2026-11-02-grok-bot-faces-pressure-over-operating-economics
@@ -34,5 +35,5 @@ Musk acknowledged Grok Bot’s operating costs were unsustainable relative to re
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-02-musk-says-grok-bot-costs-are-unsustainably-high-relative-to]] · [[2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat]] · [[2026-08-26-xai-markets-a-grok-trading-bot-with-a-limited-money-back-pro]]
+**Related:** [[2026-11-02-musk-says-grok-bot-costs-are-unsustainably-high-relative-to]] · [[2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a]] · [[2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat]] · [[2026-08-26-xai-markets-a-grok-trading-bot-with-a-limited-money-back-pro]]
 <!-- graph:end -->

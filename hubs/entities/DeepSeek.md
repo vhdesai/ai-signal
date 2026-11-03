@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 578
+member_count: 580
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 578 connected article(s).
+> Auto-generated entity hub. 580 connected article(s).
 
+- `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
+- `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
 - `2026-11-01` [[2026-11-01-deepseek-s-mit-licensed-prototype-listens-to-github-and-feis|DeepSeek's MIT-licensed prototype listens to GitHub and Feishu requests, turns authorized asks into isolated parallel…]]
 - `2026-11-01` [[2026-11-01-deepseek-open-sources-dsh-superagent-a-router-worker-coding|DeepSeek open-sources dsh-superagent, a router-worker coding agent that runs tasks in parallel]]

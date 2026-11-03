@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps
 - 2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin
 - 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
-- 2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu
+- 2026-11-03-november-3-2026-the-information
 embedding_id: 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Salesforce put Agentforce front and center in its enterprise messaging, while Sn
 
 **Entities:** [[Amazon]] · [[Google]] · [[Salesforce]] · [[Snowflake]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]] · [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma]] · [[2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu]]
+**Related:** [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]] · [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma]] · [[2026-11-03-november-3-2026-the-information]]
 <!-- graph:end -->

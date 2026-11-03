@@ -1,14 +1,23 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2362
+member_count: 2371
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2362 connected article(s).
+> Auto-generated topic hub. 2371 connected article(s).
 
+- `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
+- `2026-11-03` [[2026-11-03-enterprise-ai-consolidation-salesforce-buys-cresta-as-crowds|Enterprise AI consolidation: Salesforce buys Cresta as CrowdStrike buys two AI-security startups]]
+- `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]
+- `2026-11-02` [[2026-11-02-november-3-2026-the-next-web|[November 3, 2026] · [The Next Web]]]
+- `2026-11-02` [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti|UK AI Security Institute researcher says AI models are getting harder to monitor]]
 - `2026-11-02` [[2026-11-02-the-information-reports-the-administration-declined-to-relea|The Information reports the administration declined to release information about its AI testing framework]]
+- `2026-11-02` [[2026-11-02-palantir-s-us-commercial-revenue-overtakes-government-sales|Palantir’s US commercial revenue overtakes government sales]]
+- `2026-11-02` [[2026-11-02-new-york-times-sues-brave-alleging-it-scraped-content-and-so|New York Times sues Brave, alleging it scraped content and sold it to AI companies]]
+- `2026-11-02` [[2026-11-02-anthropic-s-filing-warns-it-may-imminently-meet-its-threshol|Anthropic's filing warns it may imminently meet its threshold for AI-accelerated progress]]
+- `2026-11-02` [[2026-11-02-anthropic-s-ipo-filing-warns-it-may-soon-meet-its-own-thresh|Anthropic's IPO filing warns it may soon meet its own threshold for AI-accelerated progress]]
 - `2026-11-02` [[2026-11-02-adnoc-s-frontier-deployment-anchors-broader-abu-dhabi-agreem|ADNOC’s Frontier deployment anchors broader Abu Dhabi agreements]]
 - `2026-11-02` [[2026-11-02-a-wired-investigation-building-on-research-by-ai-forensics-f|A Wired investigation, building on research by AI Forensics, found a network of more than 400 connected apps and…]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]

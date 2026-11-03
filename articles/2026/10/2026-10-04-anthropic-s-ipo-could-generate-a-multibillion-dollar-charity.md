@@ -38,9 +38,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-12-saturday-september-12-2026
+- 2026-11-01-daily-ai-news-digest-november-3-2026
+- 2026-11-02-november-3-2026-the-next-web
 - 2026-05-17-microsoft-copilot-ai-intelligence-briefing
-- 2026-08-17-daily-ai-news-digest-august-18-2026
-- 2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open
 embedding_id: 2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity
 event_name: ''
 ---
@@ -54,5 +54,5 @@ The Information reports Anthropic disclosed a non-cash expense of more than $660
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Anthropic]] · [[Cerebras]] · [[Cohere]] · [[Google]] · [[Huawei]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-12-saturday-september-12-2026]] · [[2026-05-17-microsoft-copilot-ai-intelligence-briefing]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open]]
+**Related:** [[2026-09-12-saturday-september-12-2026]] · [[2026-11-01-daily-ai-news-digest-november-3-2026]] · [[2026-11-02-november-3-2026-the-next-web]] · [[2026-05-17-microsoft-copilot-ai-intelligence-briefing]]
 <!-- graph:end -->

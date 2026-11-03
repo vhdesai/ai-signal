@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 95
+member_count: 101
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 95 connected article(s).
+> Auto-generated entity hub. 101 connected article(s).
 
+- `2026-11-03` [[2026-11-03-november-3-2026-the-information|[November 3, 2026] · [The Information]]]
+- `2026-11-03` [[2026-11-03-enterprise-ai-consolidation-salesforce-buys-cresta-crowdstri|Enterprise AI consolidation: Salesforce buys Cresta; CrowdStrike buys two AI-security startups]]
+- `2026-11-03` [[2026-11-03-enterprise-ai-consolidation-salesforce-buys-cresta-as-crowds|Enterprise AI consolidation: Salesforce buys Cresta as CrowdStrike buys two AI-security startups]]
+- `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]
+- `2026-11-02` [[2026-11-02-november-3-2026-the-next-web|[November 3, 2026] · [The Next Web]]]
+- `2026-11-02` [[2026-11-02-salesforce-agrees-to-buy-contact-center-ai-startup-cresta-re|Salesforce agrees to buy contact-center AI startup Cresta, reportedly for $2.7 billion]]
 - `2026-10-06` [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t|Google, Amazon and Oracle push deeper into enterprise-agent tooling]]
 - `2026-09-30` [[2026-09-30-oracle-shares-slip-on-an-unconfirmed-wisconsin-ai-mega-campu|Oracle Shares Slip on an Unconfirmed Wisconsin AI Mega-Campus Delay — Stargate Story Widens]]
 - `2026-09-28` [[2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers|xAI Opens Public Beta of Team Bots — Shared Grok AI Coworkers]]

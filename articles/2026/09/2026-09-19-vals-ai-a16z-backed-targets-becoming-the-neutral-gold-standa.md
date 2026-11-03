@@ -19,9 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-03-hiding-benchmark-tests-widens-the-gap-between-open-weight-an
 - 2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant
 - 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
-- 2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s
+- 2026-11-03-private-benchmarks-widen-the-open-weight-gap-from-3-points-t
 embedding_id: 2026-09-19-vals-ai-a16z-backed-targets-becoming-the-neutral-gold-standa
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Vals AI, backed by Andreessen Horowitz, is pitching itself as a neutral, trustwo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]] · [[2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s]]
+**Related:** [[2026-11-03-hiding-benchmark-tests-widens-the-gap-between-open-weight-an]] · [[2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]] · [[2026-11-03-private-benchmarks-widen-the-open-weight-gap-from-3-points-t]]
 <!-- graph:end -->

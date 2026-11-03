@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in
+- 2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a
 - 2026-11-02-openai-merges-chatgpt-s-chat-and-work-tabs-and-puts-chatgpt
 embedding_id: 2026-11-02-chatgpt-s-unified-workspace-brings-shared-usage-budgeting-in
 event_name: ''
@@ -36,5 +37,5 @@ OpenAI will merge ChatGPT’s Chat and Work tabs, initially testing with selecte
 
 **Entities:** [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in]] · [[2026-11-02-openai-merges-chatgpt-s-chat-and-work-tabs-and-puts-chatgpt]]
+**Related:** [[2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in]] · [[2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a]] · [[2026-11-02-openai-merges-chatgpt-s-chat-and-work-tabs-and-puts-chatgpt]]
 <!-- graph:end -->

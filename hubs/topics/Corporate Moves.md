@@ -1,26 +1,50 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5130
+member_count: 5154
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5130 connected article(s).
+> Auto-generated topic hub. 5154 connected article(s).
 
+- `2026-11-03` [[2026-11-03-november-3-2026-the-information-2|[November 3, 2026] · [The Information]]]
+- `2026-11-03` [[2026-11-03-november-3-2026-the-information|[November 3, 2026] · [The Information]]]
+- `2026-11-03` [[2026-11-03-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]
+- `2026-11-03` [[2026-11-03-enterprise-ai-consolidation-salesforce-buys-cresta-crowdstri|Enterprise AI consolidation: Salesforce buys Cresta; CrowdStrike buys two AI-security startups]]
+- `2026-11-03` [[2026-11-03-enterprise-ai-consolidation-salesforce-buys-cresta-as-crowds|Enterprise AI consolidation: Salesforce buys Cresta as CrowdStrike buys two AI-security startups]]
+- `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]
+- `2026-11-02` [[2026-11-02-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]
+- `2026-11-02` [[2026-11-02-november-2-2026-techcrunch|[November 2, 2026] · [TechCrunch]]]
 - `2026-11-02` [[2026-11-02-south-korea-s-2027-budget-puts-state-backed-ai-investment-in|South Korea’s 2027 budget puts state-backed AI investment in focus]]
+- `2026-11-02` [[2026-11-02-salesforce-agrees-to-buy-contact-center-ai-startup-cresta-re|Salesforce agrees to buy contact-center AI startup Cresta, reportedly for $2.7 billion]]
+- `2026-11-02` [[2026-11-02-palantir-s-us-commercial-revenue-overtakes-government-sales|Palantir’s US commercial revenue overtakes government sales]]
+- `2026-11-02` [[2026-11-02-palantir-s-us-commercial-business-surpasses-its-us-governmen|Palantir’s US commercial business surpasses its US government business]]
 - `2026-11-02` [[2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in|OpenAI told users it will combine the Chat and Work tabs in ChatGPT so users can move from exploring an idea to having…]]
+- `2026-11-02` [[2026-11-02-openai-signs-magnite-and-pubmatic-to-fill-unused-chatgpt-ad|OpenAI signs Magnite and PubMatic to fill unused ChatGPT ad space]]
+- `2026-11-02` [[2026-11-02-openai-rebuilt-its-git-backend-after-codex-agents-drove-a-ne|OpenAI rebuilt its Git backend after Codex agents drove a nearly 15-fold rise in commits]]
 - `2026-11-02` [[2026-11-02-openai-merges-chatgpt-s-chat-and-work-tabs-and-puts-chatgpt|OpenAI merges ChatGPT's Chat and Work tabs and puts ChatGPT and Codex on one usage pool]]
+- `2026-11-02` [[2026-11-02-openai-details-pando-its-internal-git-compatible-backend|OpenAI details Pando, its internal Git-compatible backend]]
+- `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-02` [[2026-11-02-netapp-closed-its-acquisition-of-peak-aio-adding-metadata-se|NetApp closed its acquisition of PEAK:AIO, adding metadata services and parallel file system technology to its NetApp…]]
 - `2026-11-02` [[2026-11-02-nvidia-s-apache-2-0-auto-ontology-generates-a-starting-ontol|NVIDIA's Apache 2.0 Auto Ontology generates a starting ontology from enterprise metadata, validates agent SQL against…]]
 - `2026-11-02` [[2026-11-02-nvidia-open-sources-auto-ontology-to-ground-ai-agents-sql-in|NVIDIA open-sources Auto Ontology to ground AI agents' SQL in approved business definitions]]
 - `2026-11-02` [[2026-11-02-musk-says-grok-bot-costs-are-unsustainably-high-relative-to|Musk says Grok Bot costs are "unsustainably high relative to revenue" as usage limits tighten]]
+- `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-in-an-all-stock-bet-on-optica|Marvell agrees to buy Lumentum in an all-stock bet on optical AI networking]]
 - `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de|Marvell agrees to buy Lumentum in a $115 billion all-stock deal]]
 - `2026-11-02` [[2026-11-02-larridin-founded-by-former-comscore-executives-raised-30-mil|Larridin, founded by former Comscore executives, raised $30 million led by Pelion Ventures, with a16z and Gradient…]]
 - `2026-11-02` [[2026-11-02-larridin-raises-30-million-to-measure-what-companies-get-fro|Larridin raises $30 million to measure what companies get from AI spending]]
 - `2026-11-02` [[2026-11-02-grok-bot-faces-pressure-over-operating-economics|Grok Bot faces pressure over operating economics]]
+- `2026-11-02` [[2026-11-02-deep-principle-releases-hydrogen-1-0-a-753b-open-weight-mode|Deep Principle releases Hydrogen-1.0, a 753B open-weight model for scientific research]]
+- `2026-11-02` [[2026-11-02-apple-warns-of-unprecedented-memory-pricing-as-inventory-ris|Apple warns of "unprecedented" memory pricing as inventory rises 154% and margin guidance falls]]
+- `2026-11-02` [[2026-11-02-anthropic-s-filing-warns-it-may-imminently-meet-its-threshol|Anthropic's filing warns it may imminently meet its threshold for AI-accelerated progress]]
+- `2026-11-02` [[2026-11-02-anthropic-s-amended-s-1-17-billion-quarter-23-billion-loss-a|Anthropic's amended S-1: $17 billion quarter, $23 billion loss and an $895 billion compute bill]]
+- `2026-11-02` [[2026-11-02-anthropic-s-q3-revenue-reaches-nearly-17-billion-as-growth-s|Anthropic's Q3 revenue reaches nearly $17 billion as growth slows and losses widen]]
+- `2026-11-02` [[2026-11-02-anthropic-s-flashprove-offers-cryptographic-proof-that-an-an|Anthropic's FlashProve offers cryptographic proof that an answer came from a specific model]]
 - `2026-11-02` [[2026-11-02-anthropic-targets-japanese-investors-for-a-slice-of-its-u-s|Anthropic targets Japanese investors for a slice of its U.S. IPO]]
+- `2026-11-02` [[2026-11-02-anthropic-discloses-rapid-growth-and-substantial-compute-com|Anthropic discloses rapid growth and substantial compute commitments]]
 - `2026-11-02` [[2026-11-02-an-independent-developer-released-qwengpu-mit-license-which|An independent developer released qwenGPU (MIT license), which adds 45 compiler-generated, untrained layers to…]]
+- `2026-11-02` [[2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a|Agent compute gets rationed: ChatGPT pools usage with Codex as Musk throttles Grok Bot]]
 - `2026-11-02` [[2026-11-02-adnoc-s-frontier-deployment-anchors-broader-abu-dhabi-agreem|ADNOC’s Frontier deployment anchors broader Abu Dhabi agreements]]
 - `2026-11-01` [[2026-11-01-november-1-2026-the-tactical-allocation-letter|[November 1, 2026] · [The Tactical Allocation Letter]]]
 - `2026-11-01` [[2026-11-01-november-1-2026-pitchbook|[November 1, 2026] · [PitchBook]]]

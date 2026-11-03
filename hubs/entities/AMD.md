@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 131
+member_count: 132
 ---
 
 # AMD
 
-> Auto-generated entity hub. 131 connected article(s).
+> Auto-generated entity hub. 132 connected article(s).
 
+- `2026-11-03` [[2026-11-03-anthropic-tells-ipo-investors-that-claude-is-speeding-up-the|Anthropic tells IPO investors that Claude is speeding up the design of its own AI chips]]
 - `2026-10-12` [[2026-10-12-microsoft-s-maia-300-push-aims-to-reduce-nvidia-dependence-a|Microsoft’s Maia 300 push aims to reduce Nvidia dependence at scale]]
 - `2026-10-12` [[2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip|Microsoft unveils Maia 300, its latest custom AI chip]]
 - `2026-10-06` [[2026-10-06-amd-plans-more-taiwan-investment-and-a-larger-2027-supply-ra|AMD plans more Taiwan investment and a larger 2027 supply ramp]]

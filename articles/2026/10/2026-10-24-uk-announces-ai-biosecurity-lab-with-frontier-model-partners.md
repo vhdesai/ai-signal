@@ -33,8 +33,8 @@ related_article_ids:
 - 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
 - 2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks
 - 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
+- 2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti
 - 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
-- 2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety
 embedding_id: 2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners
 event_name: ''
 ---
@@ -48,5 +48,5 @@ The UK announced a £100 million AI Biosecurity Lab involving OpenAI, Anthropic 
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]] · [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]] · [[2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety]]
+**Related:** [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]] · [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti]] · [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]]
 <!-- graph:end -->

@@ -1,17 +1,24 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 530
+member_count: 537
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 530 connected article(s).
+> Auto-generated topic hub. 537 connected article(s).
 
+- `2026-11-03` [[2026-11-03-november-3-2026-the-information-3|[November 3, 2026] · [The Information]]]
+- `2026-11-03` [[2026-11-03-november-3-2026-the-information|[November 3, 2026] · [The Information]]]
+- `2026-11-03` [[2026-11-03-enterprise-ai-consolidation-salesforce-buys-cresta-crowdstri|Enterprise AI consolidation: Salesforce buys Cresta; CrowdStrike buys two AI-security startups]]
+- `2026-11-03` [[2026-11-03-enterprise-ai-consolidation-salesforce-buys-cresta-as-crowds|Enterprise AI consolidation: Salesforce buys Cresta as CrowdStrike buys two AI-security startups]]
+- `2026-11-02` [[2026-11-02-salesforce-agrees-to-buy-contact-center-ai-startup-cresta-re|Salesforce agrees to buy contact-center AI startup Cresta, reportedly for $2.7 billion]]
 - `2026-11-02` [[2026-11-02-netapp-completes-its-acquisition-of-peak-aio-for-ai-scale-st|NetApp completes its acquisition of PEAK:AIO for AI-scale storage]]
 - `2026-11-02` [[2026-11-02-netapp-closed-its-acquisition-of-peak-aio-adding-metadata-se|NetApp closed its acquisition of PEAK:AIO, adding metadata services and parallel file system technology to its NetApp…]]
 - `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity|Marvell agrees to buy Lumentum, expanding AI connectivity]]
+- `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-in-an-all-stock-bet-on-optica|Marvell agrees to buy Lumentum in an all-stock bet on optical AI networking]]
 - `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de|Marvell agrees to buy Lumentum in a $115 billion all-stock deal]]
+- `2026-11-02` [[2026-11-02-anthropic-s-q3-revenue-reaches-nearly-17-billion-as-growth-s|Anthropic's Q3 revenue reaches nearly $17 billion as growth slows and losses widen]]
 - `2026-11-01` [[2026-11-01-google-energy-executive-says-data-centers-in-space-could-cos|Google energy executive says data centers in space could cost up to 100 times more than on Earth]]
 - `2026-11-01` [[2026-11-01-aramco-takes-49-of-humain-to-fund-saudi-arabia-s-3-gigawatt|Aramco takes 49% of HUMAIN to fund Saudi Arabia's 3-gigawatt AI compute plan]]
 - `2026-10-30` [[2026-10-30-october-30-2026-dealbook-2|[October 30, 2026] · [DealBook]]]

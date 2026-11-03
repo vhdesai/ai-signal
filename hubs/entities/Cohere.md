@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Cohere
-member_count: 30
+member_count: 31
 ---
 
 # Cohere
 
-> Auto-generated entity hub. 30 connected article(s).
+> Auto-generated entity hub. 31 connected article(s).
 
+- `2026-11-02` [[2026-11-02-new-york-times-sues-brave-alleging-it-scraped-content-and-so|New York Times sues Brave, alleging it scraped content and sold it to AI companies]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
 - `2026-10-29` [[2026-10-29-october-30-2026-pitchbook|[October 30, 2026] · [PitchBook]]]
 - `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]

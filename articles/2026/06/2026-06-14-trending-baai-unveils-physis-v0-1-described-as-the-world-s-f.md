@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo
+- 2026-11-03-november-3-2026-reuters
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
 - 2026-08-31-perceptron-ai-launches-isaac-0-5-a-36b-open-weight-embodied
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
-- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 embedding_id: 2026-06-14-trending-baai-unveils-physis-v0-1-described-as-the-world-s-f
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Beijing Academy of Artificial Intelligence unveiled Physis-v0.1 at its 8th a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]] · [[2026-08-31-perceptron-ai-launches-isaac-0-5-a-36b-open-weight-embodied]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
+**Related:** [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo]] · [[2026-11-03-november-3-2026-reuters]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]] · [[2026-08-31-perceptron-ai-launches-isaac-0-5-a-36b-open-weight-embodied]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor]]
 <!-- graph:end -->

@@ -1,21 +1,41 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2509
+member_count: 2529
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2509 connected article(s).
+> Auto-generated entity hub. 2529 connected article(s).
 
+- `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
+- `2026-11-03` [[2026-11-03-hiding-benchmark-tests-widens-the-gap-between-open-weight-an|Hiding benchmark tests widens the gap between open-weight and frontier models from 3 points to 12]]
+- `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]
+- `2026-11-03` [[2026-11-03-anthropic-tells-ipo-investors-that-claude-is-speeding-up-the|Anthropic tells IPO investors that Claude is speeding up the design of its own AI chips]]
+- `2026-11-03` [[2026-11-03-anthropic-tells-ipo-investors-claude-is-speeding-up-design-o|Anthropic tells IPO investors Claude is speeding up design of its own AI chips]]
+- `2026-11-02` [[2026-11-02-november-3-2026-the-next-web|[November 3, 2026] · [The Next Web]]]
+- `2026-11-02` [[2026-11-02-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]
+- `2026-11-02` [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti|UK AI Security Institute researcher says AI models are getting harder to monitor]]
 - `2026-11-02` [[2026-11-02-south-korea-s-2027-budget-puts-state-backed-ai-investment-in|South Korea’s 2027 budget puts state-backed AI investment in focus]]
 - `2026-11-02` [[2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in|OpenAI told users it will combine the Chat and Work tabs in ChatGPT so users can move from exploring an idea to having…]]
 - `2026-11-02` [[2026-11-02-openai-merges-chatgpt-s-chat-and-work-tabs-and-puts-chatgpt|OpenAI merges ChatGPT's Chat and Work tabs and puts ChatGPT and Codex on one usage pool]]
+- `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
+- `2026-11-02` [[2026-11-02-nvidia-tells-some-cloud-customers-to-cut-their-exposure-to-c|Nvidia tells some cloud customers to cut their exposure to Chinese companies]]
+- `2026-11-02` [[2026-11-02-new-york-times-sues-brave-alleging-it-scraped-content-and-so|New York Times sues Brave, alleging it scraped content and sold it to AI companies]]
+- `2026-11-02` [[2026-11-02-mit-csail-uses-gpt-6-astra-to-rewrite-qwen-s-weights-directl|MIT CSAIL uses GPT-6 Astra to rewrite Qwen's weights directly, lifting math scores sixfold]]
+- `2026-11-02` [[2026-11-02-anthropic-s-filing-warns-it-may-imminently-meet-its-threshol|Anthropic's filing warns it may imminently meet its threshold for AI-accelerated progress]]
+- `2026-11-02` [[2026-11-02-anthropic-s-amended-s-1-17-billion-quarter-23-billion-loss-a|Anthropic's amended S-1: $17 billion quarter, $23 billion loss and an $895 billion compute bill]]
+- `2026-11-02` [[2026-11-02-anthropic-s-q3-revenue-reaches-nearly-17-billion-as-growth-s|Anthropic's Q3 revenue reaches nearly $17 billion as growth slows and losses widen]]
+- `2026-11-02` [[2026-11-02-anthropic-s-ipo-filing-warns-it-may-soon-meet-its-own-thresh|Anthropic's IPO filing warns it may soon meet its own threshold for AI-accelerated progress]]
+- `2026-11-02` [[2026-11-02-anthropic-s-flashprove-cryptographic-proof-that-an-answer-ca|Anthropic's FlashProve: cryptographic proof that an answer came from a specific model]]
+- `2026-11-02` [[2026-11-02-anthropic-s-flashprove-offers-cryptographic-proof-that-an-an|Anthropic's FlashProve offers cryptographic proof that an answer came from a specific model]]
 - `2026-11-02` [[2026-11-02-anthropic-targets-japanese-investors-for-a-slice-of-its-u-s|Anthropic targets Japanese investors for a slice of its U.S. IPO]]
+- `2026-11-02` [[2026-11-02-anthropic-discloses-rapid-growth-and-substantial-compute-com|Anthropic discloses rapid growth and substantial compute commitments]]
 - `2026-11-02` [[2026-11-02-adnoc-s-frontier-deployment-anchors-broader-abu-dhabi-agreem|ADNOC’s Frontier deployment anchors broader Abu Dhabi agreements]]
 - `2026-11-01` [[2026-11-01-november-1-2026-pitchbook|[November 1, 2026] · [PitchBook]]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
 - `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-3-2026|Daily AI News Digest – November 3, 2026]]
 - `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-1-2026|Daily AI News Digest – November 1, 2026]]
 - `2026-11-01` [[2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc|Citing the Financial Times and The Wall Street Journal, TechCrunch reports OpenAI has lowered the target for its…]]
 - `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]

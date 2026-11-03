@@ -1,14 +1,21 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 503
+member_count: 511
 ---
 
 # Apple
 
-> Auto-generated entity hub. 503 connected article(s).
+> Auto-generated entity hub. 511 connected article(s).
 
+- `2026-11-03` [[2026-11-03-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]
+- `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
+- `2026-11-02` [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti|UK AI Security Institute researcher says AI models are getting harder to monitor]]
+- `2026-11-02` [[2026-11-02-the-ai-bill-comes-due-oracle-raises-20-billion-memory-costs|The AI bill comes due: Oracle raises $20 billion, memory costs bite and investors buy protection]]
 - `2026-11-02` [[2026-11-02-south-korea-s-2027-budget-puts-state-backed-ai-investment-in|South Korea’s 2027 budget puts state-backed AI investment in focus]]
+- `2026-11-02` [[2026-11-02-openai-signs-magnite-and-pubmatic-to-fill-unused-chatgpt-ad|OpenAI signs Magnite and PubMatic to fill unused ChatGPT ad space]]
+- `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
+- `2026-11-02` [[2026-11-02-apple-warns-of-unprecedented-memory-pricing-as-inventory-ris|Apple warns of "unprecedented" memory pricing as inventory rises 154% and margin guidance falls]]
 - `2026-11-02` [[2026-11-02-a-wired-investigation-building-on-research-by-ai-forensics-f|A Wired investigation, building on research by AI Forensics, found a network of more than 400 connected apps and…]]
 - `2026-11-01` [[2026-11-01-trump-administration-declines-to-release-documents-on-its-vo|Trump administration declines to release documents on its voluntary AI testing framework]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
@@ -16,6 +23,7 @@ member_count: 503
 - `2026-11-01` [[2026-11-01-nace-ai-open-sources-drex-max-v1-a-27b-decision-model-that-r|Nace AI open-sources Drex Max v1, a 27B decision model that runs locally]]
 - `2026-11-01` [[2026-11-01-in-a-wired-interview-summarized-by-techcrunch-new-apple-ceo|In a Wired interview summarized by TechCrunch, new Apple CEO John Ternus defended Apple's AI position after the delayed…]]
 - `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-3-2026|Daily AI News Digest – November 3, 2026]]
 - `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
 - `2026-11-01` [[2026-11-01-anthropic-s-ipo-filing-commits-founder-stock-and-company-equ|Anthropic's IPO filing commits founder stock and company equity to charitable giving]]
 - `2026-10-31` [[2026-10-31-judge-lets-naacp-clean-air-act-lawsuit-over-xai-s-colossus-d|Judge lets NAACP Clean Air Act lawsuit over xAI's Colossus data center proceed]]

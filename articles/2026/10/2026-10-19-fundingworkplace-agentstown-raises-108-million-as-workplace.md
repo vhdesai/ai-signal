@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-20-october-19-2026-dealbook
+- 2026-11-03-november-3-2026-the-information
 - 2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri
 - 2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b
 embedding_id: 2026-10-19-fundingworkplace-agentstown-raises-108-million-as-workplace
@@ -36,5 +37,5 @@ DealBook reports that Town raised $108 million at a $1 billion valuation in a ro
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-10-20-october-19-2026-dealbook]] · [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]] · [[2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b]]
+**Related:** [[2026-10-20-october-19-2026-dealbook]] · [[2026-11-03-november-3-2026-the-information]] · [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]] · [[2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b]]
 <!-- graph:end -->

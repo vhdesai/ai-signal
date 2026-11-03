@@ -1,28 +1,47 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2859
+member_count: 2878
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2859 connected article(s).
+> Auto-generated entity hub. 2878 connected article(s).
 
+- `2026-11-03` [[2026-11-03-openai-signs-magnite-and-pubmatic-to-fill-unused-chatgpt-ad|OpenAI signs Magnite and PubMatic to fill unused ChatGPT ad inventory]]
+- `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
+- `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]
+- `2026-11-03` [[2026-11-03-anthropic-tells-ipo-investors-claude-is-speeding-up-design-o|Anthropic tells IPO investors Claude is speeding up design of its own AI chips]]
 - `2026-11-02` [[2026-11-02-qwengpu-builds-a-working-gpu-into-qwen3-5-2b-s-weights-that|qwenGPU builds a working GPU into Qwen3.5-2B's weights that runs real CUDA code]]
+- `2026-11-02` [[2026-11-02-november-3-2026-the-next-web|[November 3, 2026] · [The Next Web]]]
+- `2026-11-02` [[2026-11-02-november-2-2026-techcrunch|[November 2, 2026] · [TechCrunch]]]
+- `2026-11-02` [[2026-11-02-november-1-2026-the-information|[November 1, 2026] · [The Information]]]
+- `2026-11-02` [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti|UK AI Security Institute researcher says AI models are getting harder to monitor]]
 - `2026-11-02` [[2026-11-02-south-korea-s-2027-budget-puts-state-backed-ai-investment-in|South Korea’s 2027 budget puts state-backed AI investment in focus]]
+- `2026-11-02` [[2026-11-02-salesforce-agrees-to-buy-contact-center-ai-startup-cresta-re|Salesforce agrees to buy contact-center AI startup Cresta, reportedly for $2.7 billion]]
 - `2026-11-02` [[2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in|OpenAI told users it will combine the Chat and Work tabs in ChatGPT so users can move from exploring an idea to having…]]
+- `2026-11-02` [[2026-11-02-openai-signs-magnite-and-pubmatic-to-fill-unused-chatgpt-ad|OpenAI signs Magnite and PubMatic to fill unused ChatGPT ad space]]
+- `2026-11-02` [[2026-11-02-openai-rebuilt-its-git-backend-after-codex-agents-drove-a-ne|OpenAI rebuilt its Git backend after Codex agents drove a nearly 15-fold rise in commits]]
+- `2026-11-02` [[2026-11-02-openai-proposes-emergency-power-curtailment-in-georgia|OpenAI proposes emergency power curtailment in Georgia]]
 - `2026-11-02` [[2026-11-02-openai-merges-chatgpt-s-chat-and-work-tabs-and-puts-chatgpt|OpenAI merges ChatGPT's Chat and Work tabs and puts ChatGPT and Codex on one usage pool]]
+- `2026-11-02` [[2026-11-02-openai-launches-grid-protectors-committing-future-campuses-t|OpenAI launches Grid Protectors, committing future campuses to cut power use when the grid is strained]]
+- `2026-11-02` [[2026-11-02-openai-details-pando-its-internal-git-compatible-backend|OpenAI details Pando, its internal Git-compatible backend]]
+- `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-02` [[2026-11-02-nvidia-s-apache-2-0-auto-ontology-generates-a-starting-ontol|NVIDIA's Apache 2.0 Auto Ontology generates a starting ontology from enterprise metadata, validates agent SQL against…]]
 - `2026-11-02` [[2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity|Marvell agrees to buy Lumentum, expanding AI connectivity]]
 - `2026-11-02` [[2026-11-02-larridin-raises-30-million-to-measure-what-companies-get-fro|Larridin raises $30 million to measure what companies get from AI spending]]
+- `2026-11-02` [[2026-11-02-deep-principle-releases-hydrogen-1-0-a-753b-open-weight-mode|Deep Principle releases Hydrogen-1.0, a 753B open-weight model for scientific research]]
 - `2026-11-02` [[2026-11-02-chatgpt-s-unified-workspace-brings-shared-usage-budgeting-in|ChatGPT’s unified workspace brings shared usage budgeting into focus]]
 - `2026-11-02` [[2026-11-02-anthropic-targets-japanese-investors-for-a-slice-of-its-u-s|Anthropic targets Japanese investors for a slice of its U.S. IPO]]
+- `2026-11-02` [[2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a|Agent compute gets rationed: ChatGPT pools usage with Codex as Musk throttles Grok Bot]]
 - `2026-11-02` [[2026-11-02-adnoc-s-frontier-deployment-anchors-broader-abu-dhabi-agreem|ADNOC’s Frontier deployment anchors broader Abu Dhabi agreements]]
 - `2026-11-01` [[2026-11-01-trump-administration-declines-to-release-documents-on-its-vo|Trump administration declines to release documents on its voluntary AI testing framework]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
 - `2026-11-01` [[2026-11-01-openai-plans-post-midterm-policy-push-including-rebranding-d|OpenAI plans post-midterm policy push, including rebranding data centers as "AI compute campuses"]]
 - `2026-11-01` [[2026-11-01-openai-plans-a-post-midterm-policy-push-including-speed-limi|OpenAI plans a post-midterm policy push, including speed limits for frontier systems]]
 - `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-data-centers-on-the-ballot-pause-backing-candidates-contest|Data centers on the ballot: pause-backing candidates contest 15 governor's races as OpenAI pledges grid relief]]
+- `2026-11-01` [[2026-11-01-data-centers-on-the-ballot-as-openai-pledges-grid-relief|Data centers on the ballot as OpenAI pledges grid relief]]
 - `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-1-2026|Daily AI News Digest – November 1, 2026]]
 - `2026-11-01` [[2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc|Citing the Financial Times and The Wall Street Journal, TechCrunch reports OpenAI has lowered the target for its…]]
 - `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]

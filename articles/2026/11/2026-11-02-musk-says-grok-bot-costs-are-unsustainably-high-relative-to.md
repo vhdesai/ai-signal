@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-13-spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscrip
+- 2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a
 - 2026-11-02-grok-bot-faces-pressure-over-operating-economics
-- 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
 embedding_id: 2026-11-02-musk-says-grok-bot-costs-are-unsustainably-high-relative-to
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Users complained that their weekly allowances were running out faster than usual
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-13-spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscrip]] · [[2026-11-02-grok-bot-faces-pressure-over-operating-economics]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]]
+**Related:** [[2026-10-13-spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscrip]] · [[2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a]] · [[2026-11-02-grok-bot-faces-pressure-over-operating-economics]]
 <!-- graph:end -->

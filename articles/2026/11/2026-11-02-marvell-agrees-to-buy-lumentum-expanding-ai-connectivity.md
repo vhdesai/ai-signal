@@ -4,8 +4,8 @@ title: Marvell agrees to buy Lumentum, expanding AI connectivity
 date: '2026-11-02'
 source: Reuters
 url_original: null
-url_canonical: https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-02_062826_Inbox_Daily AI News Digest - November
   2, 2026.md
 content_hash: fa9740bfc22969f4e6a5dcc2d598551d8fe38625a4847f39097f5c032647a93c
@@ -22,8 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de
 - 2026-10-29-marvell-explores-a-lumentum-deal-as-optical-interconnect-bec
-- 2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto
-- 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil
+- 2026-11-02-marvell-agrees-to-buy-lumentum-in-an-all-stock-bet-on-optica
 embedding_id: 2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Marvell agreed to acquire Lumentum in an all-stock deal. Reuters values the comb
 
 **Entities:** [[OpenAI]]
 **Topics:** [[M&A Activity]]
-**Related:** [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de]] · [[2026-10-29-marvell-explores-a-lumentum-deal-as-optical-interconnect-bec]] · [[2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto]] · [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil]]
+**Related:** [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de]] · [[2026-10-29-marvell-explores-a-lumentum-deal-as-optical-interconnect-bec]] · [[2026-11-02-marvell-agrees-to-buy-lumentum-in-an-all-stock-bet-on-optica]]
 <!-- graph:end -->

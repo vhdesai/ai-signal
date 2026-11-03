@@ -22,7 +22,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity
-related_article_ids: []
+related_article_ids:
+- 2026-11-02-marvell-agrees-to-buy-lumentum-in-an-all-stock-bet-on-optica
 embedding_id: 2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de
 event_name: ''
 ---
@@ -37,4 +38,5 @@ The Information reports that Marvell agreed on Monday to buy laser maker Lumentu
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity]]
+**Related:** [[2026-11-02-marvell-agrees-to-buy-lumentum-in-an-all-stock-bet-on-optica]]
 <!-- graph:end -->

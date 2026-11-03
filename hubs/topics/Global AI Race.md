@@ -1,13 +1,23 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1699
+member_count: 1710
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1699 connected article(s).
+> Auto-generated topic hub. 1710 connected article(s).
 
+- `2026-11-03` [[2026-11-03-november-3-2026-the-information-2|[November 3, 2026] · [The Information]]]
+- `2026-11-03` [[2026-11-03-nvidia-tells-cloud-partners-to-limit-future-business-with-ch|Nvidia tells cloud partners to limit future business with Chinese customers]]
+- `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
+- `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]
+- `2026-11-02` [[2026-11-02-november-3-2026-the-next-web|[November 3, 2026] · [The Next Web]]]
+- `2026-11-02` [[2026-11-02-oracle-files-to-raise-20-billion-in-stock-and-bonds-to-fund|Oracle files to raise $20 billion in stock and bonds to fund AI infrastructure]]
+- `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
+- `2026-11-02` [[2026-11-02-nvidia-tells-some-cloud-customers-to-cut-their-exposure-to-c|Nvidia tells some cloud customers to cut their exposure to Chinese companies]]
+- `2026-11-02` [[2026-11-02-chinese-labs-ship-hydrogen-1-0-for-science-baidu-s-apollo-wo|Chinese labs ship Hydrogen-1.0 for science, Baidu's Apollo World and SenseNova 6.8 Flash]]
+- `2026-11-02` [[2026-11-02-china-ships-hydrogen-1-0-for-science-baidu-s-apollo-world-an|China ships: Hydrogen-1.0 for science, Baidu's Apollo World and SenseNova 6.8 Flash]]
 - `2026-11-01` [[2026-11-01-the-information-reports-that-meta-built-a-humanoid-prototype|The Information reports that Meta built a humanoid prototype in partnership with a Chinese startup as it ramps up its…]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
 - `2026-11-01` [[2026-11-01-nace-ai-open-sources-drex-max-v1-a-27b-decision-model-that-r|Nace AI open-sources Drex Max v1, a 27B decision model that runs locally]]
@@ -15,6 +25,7 @@ member_count: 1699
 - `2026-11-01` [[2026-11-01-deepseek-open-sources-dsh-superagent-a-router-worker-coding|DeepSeek open-sources dsh-superagent, a router-worker coding agent that runs tasks in parallel]]
 - `2026-11-01` [[2026-11-01-deepseek-open-sources-dsh-superagent-a-coding-agent-that-run|DeepSeek open-sources dsh-superagent, a coding agent that runs work in parallel]]
 - `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-3-2026|Daily AI News Digest – November 3, 2026]]
 - `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
 - `2026-10-31` [[2026-10-31-november-1-2026-marktechpost|[November 1, 2026] · [MarkTechPost]]]
 - `2026-10-31` [[2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin|Meta reportedly built a humanoid robot prototype with a Chinese startup]]

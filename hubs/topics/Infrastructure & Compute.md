@@ -1,20 +1,36 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2327
+member_count: 2346
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2327 connected article(s).
+> Auto-generated topic hub. 2346 connected article(s).
 
+- `2026-11-03` [[2026-11-03-november-3-2026-the-information-3|[November 3, 2026] · [The Information]]]
+- `2026-11-03` [[2026-11-03-nvidia-tells-cloud-partners-to-limit-future-business-with-ch|Nvidia tells cloud partners to limit future business with Chinese customers]]
+- `2026-11-03` [[2026-11-03-hiding-benchmark-tests-widens-the-gap-between-open-weight-an|Hiding benchmark tests widens the gap between open-weight and frontier models from 3 points to 12]]
+- `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]
+- `2026-11-03` [[2026-11-03-anthropic-tells-ipo-investors-that-claude-is-speeding-up-the|Anthropic tells IPO investors that Claude is speeding up the design of its own AI chips]]
+- `2026-11-03` [[2026-11-03-anthropic-tells-ipo-investors-claude-is-speeding-up-design-o|Anthropic tells IPO investors Claude is speeding up design of its own AI chips]]
 - `2026-11-02` [[2026-11-02-qwengpu-builds-a-working-gpu-into-qwen3-5-2b-s-weights-that|qwenGPU builds a working GPU into Qwen3.5-2B's weights that runs real CUDA code]]
+- `2026-11-02` [[2026-11-02-november-1-2026-the-information|[November 1, 2026] · [The Information]]]
+- `2026-11-02` [[2026-11-02-zyphra-s-hierarchical-attention-method-aims-to-cut-the-cost|Zyphra's hierarchical attention method aims to cut the cost of long-context inference]]
 - `2026-11-02` [[2026-11-02-the-information-reports-that-google-s-energy-chief-put-the-c|The Information reports that Google's energy chief put the cost of orbital data centers at up to 100 times that of…]]
+- `2026-11-02` [[2026-11-02-oracle-prices-a-20-billion-stock-and-notes-offering|Oracle prices a $20 billion stock-and-notes offering]]
+- `2026-11-02` [[2026-11-02-oracle-files-to-raise-20-billion-in-stock-and-bonds-to-fund|Oracle files to raise $20 billion in stock and bonds to fund AI infrastructure]]
 - `2026-11-02` [[2026-11-02-openai-told-users-it-will-combine-the-chat-and-work-tabs-in|OpenAI told users it will combine the Chat and Work tabs in ChatGPT so users can move from exploring an idea to having…]]
+- `2026-11-02` [[2026-11-02-openai-proposes-emergency-power-curtailment-in-georgia|OpenAI proposes emergency power curtailment in Georgia]]
+- `2026-11-02` [[2026-11-02-openai-launches-grid-protectors-committing-future-campuses-t|OpenAI launches Grid Protectors, committing future campuses to cut power use when the grid is strained]]
+- `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
+- `2026-11-02` [[2026-11-02-nvidia-tells-some-cloud-customers-to-cut-their-exposure-to-c|Nvidia tells some cloud customers to cut their exposure to Chinese companies]]
 - `2026-11-02` [[2026-11-02-netapp-completes-its-acquisition-of-peak-aio-for-ai-scale-st|NetApp completes its acquisition of PEAK:AIO for AI-scale storage]]
 - `2026-11-02` [[2026-11-02-lumen-and-microsoft-announced-an-expanded-co-sell-partnershi|Lumen and Microsoft announced an expanded co-sell partnership to align enterprise network transformation with Azure…]]
 - `2026-11-02` [[2026-11-02-chatgpt-s-unified-workspace-brings-shared-usage-budgeting-in|ChatGPT’s unified workspace brings shared usage budgeting into focus]]
+- `2026-11-02` [[2026-11-02-anthropic-s-flashprove-offers-cryptographic-proof-that-an-an|Anthropic's FlashProve offers cryptographic proof that an answer came from a specific model]]
 - `2026-11-02` [[2026-11-02-an-independent-developer-released-qwengpu-mit-license-which|An independent developer released qwenGPU (MIT license), which adds 45 compiler-generated, untrained layers to…]]
+- `2026-11-02` [[2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a|Agent compute gets rationed: ChatGPT pools usage with Codex as Musk throttles Grok Bot]]
 - `2026-11-01` [[2026-11-01-trump-administration-declines-to-release-documents-on-its-vo|Trump administration declines to release documents on its voluntary AI testing framework]]
 - `2026-11-01` [[2026-11-01-techcrunch-reports-data-centers-and-ai-dominated-discussion|TechCrunch reports data centers and AI dominated discussion at a pre-midterm event in Brooklyn and cites a Data Center…]]
 - `2026-11-01` [[2026-11-01-openai-plans-post-midterm-policy-push-including-rebranding-d|OpenAI plans post-midterm policy push, including rebranding data centers as "AI compute campuses"]]
@@ -22,6 +38,9 @@ member_count: 2327
 - `2026-11-01` [[2026-11-01-nace-ai-released-open-weights-for-drex-max-v1-a-dense-27b-mu|Nace AI released open weights for Drex Max v1, a dense 27B multimodal model that returns calibrated probabilities over…]]
 - `2026-11-01` [[2026-11-01-nace-ai-open-sources-drex-max-v1-a-27b-decision-model-that-r|Nace AI open-sources Drex Max v1, a 27B decision model that runs locally]]
 - `2026-11-01` [[2026-11-01-google-energy-executive-says-data-centers-in-space-could-cos|Google energy executive says data centers in space could cost up to 100 times more than on Earth]]
+- `2026-11-01` [[2026-11-01-data-centers-on-the-ballot-pause-backing-candidates-contest|Data centers on the ballot: pause-backing candidates contest 15 governor's races as OpenAI pledges grid relief]]
+- `2026-11-01` [[2026-11-01-data-centers-on-the-ballot-as-openai-pledges-grid-relief|Data centers on the ballot as OpenAI pledges grid relief]]
+- `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-3-2026|Daily AI News Digest – November 3, 2026]]
 - `2026-11-01` [[2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc|Citing the Financial Times and The Wall Street Journal, TechCrunch reports OpenAI has lowered the target for its…]]
 - `2026-11-01` [[2026-11-01-chatbot-election-answers-draw-scrutiny-days-before-the-midte|Chatbot election answers draw scrutiny days before the midterms]]
 - `2026-11-01` [[2026-11-01-candidates-who-back-data-center-pauses-could-win-up-to-15-go|Candidates who back data center pauses could win up to 15 governor's races]]

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau
 - 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
 - 2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude
-- 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
+- 2026-11-03-anthropic-tells-ipo-investors-claude-is-speeding-up-design-o
 embedding_id: 2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Clive Chan — second hardware hire on OpenAI's chip program, ex-Tesla Autopilot
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]] · [[2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]] · [[2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]]
+**Related:** [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]] · [[2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]] · [[2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude]] · [[2026-11-03-anthropic-tells-ipo-investors-claude-is-speeding-up-design-o]]
 <!-- graph:end -->

@@ -1,16 +1,26 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 318
+member_count: 328
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 318 connected article(s).
+> Auto-generated entity hub. 328 connected article(s).
 
+- `2026-11-03` [[2026-11-03-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]
+- `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
+- `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]
+- `2026-11-02` [[2026-11-02-november-3-2026-the-next-web|[November 3, 2026] · [The Next Web]]]
+- `2026-11-02` [[2026-11-02-the-ai-bill-comes-due-oracle-raises-20-billion-memory-costs|The AI bill comes due: Oracle raises $20 billion, memory costs bite and investors buy protection]]
+- `2026-11-02` [[2026-11-02-oracle-prices-a-20-billion-stock-and-notes-offering|Oracle prices a $20 billion stock-and-notes offering]]
+- `2026-11-02` [[2026-11-02-oracle-files-to-raise-20-billion-in-stock-and-bonds-to-fund|Oracle files to raise $20 billion in stock and bonds to fund AI infrastructure]]
+- `2026-11-02` [[2026-11-02-openai-launches-grid-protectors-committing-future-campuses-t|OpenAI launches Grid Protectors, committing future campuses to cut power use when the grid is strained]]
+- `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-02` [[2026-11-02-chatgpt-s-unified-workspace-brings-shared-usage-budgeting-in|ChatGPT’s unified workspace brings shared usage budgeting into focus]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
 - `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
+- `2026-11-01` [[2026-11-01-daily-ai-news-digest-november-3-2026|Daily AI News Digest – November 3, 2026]]
 - `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
 - `2026-10-30` [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per|Inside a malicious Claude Code-branded extension and its persistent SSH backdoor]]
 - `2026-10-29` [[2026-10-29-october-29-2026-pitchbook|[October 29, 2026] · [PitchBook]]]

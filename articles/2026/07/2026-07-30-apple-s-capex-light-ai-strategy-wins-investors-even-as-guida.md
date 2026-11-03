@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite
 - 2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo
+- 2026-11-02-apple-warns-of-unprecedented-memory-pricing-as-inventory-ris
 - 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
 - 2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai
-- 2026-07-30-thursday-july-30-2026
 embedding_id: 2026-07-30-apple-s-capex-light-ai-strategy-wins-investors-even-as-guida
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Apple beat on quarterly revenue and EPS, helped by a 22% iPhone jump, but softer
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite]] · [[2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai]] · [[2026-07-30-thursday-july-30-2026]]
+**Related:** [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite]] · [[2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo]] · [[2026-11-02-apple-warns-of-unprecedented-memory-pricing-as-inventory-ris]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai]]
 <!-- graph:end -->

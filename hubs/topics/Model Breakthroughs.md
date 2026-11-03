@@ -1,16 +1,28 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3681
+member_count: 3693
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3681 connected article(s).
+> Auto-generated topic hub. 3693 connected article(s).
 
+- `2026-11-03` [[2026-11-03-november-3-2026-reuters|[November 3, 2026] · [Reuters]]]
+- `2026-11-03` [[2026-11-03-private-benchmarks-widen-the-open-weight-gap-from-3-points-t|Private benchmarks widen the open-weight gap from 3 points to 12]]
+- `2026-11-03` [[2026-11-03-enterprise-ai-consolidation-salesforce-buys-cresta-as-crowds|Enterprise AI consolidation: Salesforce buys Cresta as CrowdStrike buys two AI-security startups]]
+- `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]
 - `2026-11-02` [[2026-11-02-the-information-reports-that-google-s-energy-chief-put-the-c|The Information reports that Google's energy chief put the cost of orbital data centers at up to 100 times that of…]]
 - `2026-11-02` [[2026-11-02-south-korea-s-2027-budget-puts-state-backed-ai-investment-in|South Korea’s 2027 budget puts state-backed AI investment in focus]]
+- `2026-11-02` [[2026-11-02-palantir-s-us-commercial-revenue-overtakes-government-sales|Palantir’s US commercial revenue overtakes government sales]]
+- `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-02` [[2026-11-02-nvidia-s-apache-2-0-auto-ontology-generates-a-starting-ontol|NVIDIA's Apache 2.0 Auto Ontology generates a starting ontology from enterprise metadata, validates agent SQL against…]]
+- `2026-11-02` [[2026-11-02-mit-csail-uses-gpt-6-astra-to-rewrite-qwen-s-weights-directl|MIT CSAIL uses GPT-6 Astra to rewrite Qwen's weights directly, lifting math scores sixfold]]
+- `2026-11-02` [[2026-11-02-chinese-labs-ship-hydrogen-1-0-for-science-baidu-s-apollo-wo|Chinese labs ship Hydrogen-1.0 for science, Baidu's Apollo World and SenseNova 6.8 Flash]]
+- `2026-11-02` [[2026-11-02-china-ships-hydrogen-1-0-for-science-baidu-s-apollo-world-an|China ships: Hydrogen-1.0 for science, Baidu's Apollo World and SenseNova 6.8 Flash]]
+- `2026-11-02` [[2026-11-02-anthropic-s-filing-warns-it-may-imminently-meet-its-threshol|Anthropic's filing warns it may imminently meet its threshold for AI-accelerated progress]]
+- `2026-11-02` [[2026-11-02-anthropic-s-flashprove-cryptographic-proof-that-an-answer-ca|Anthropic's FlashProve: cryptographic proof that an answer came from a specific model]]
+- `2026-11-02` [[2026-11-02-anthropic-s-flashprove-offers-cryptographic-proof-that-an-an|Anthropic's FlashProve offers cryptographic proof that an answer came from a specific model]]
 - `2026-11-02` [[2026-11-02-an-independent-developer-released-qwengpu-mit-license-which|An independent developer released qwenGPU (MIT license), which adds 45 compiler-generated, untrained layers to…]]
 - `2026-11-01` [[2026-11-01-nace-ai-released-open-weights-for-drex-max-v1-a-dense-27b-mu|Nace AI released open weights for Drex Max v1, a dense 27B multimodal model that returns calibrated probabilities over…]]
 - `2026-11-01` [[2026-11-01-nace-ai-open-sources-drex-max-v1-a-27b-decision-model-that-r|Nace AI open-sources Drex Max v1, a 27B decision model that runs locally]]

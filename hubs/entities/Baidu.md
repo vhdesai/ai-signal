@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 132
+member_count: 139
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 132 connected article(s).
+> Auto-generated entity hub. 139 connected article(s).
 
+- `2026-11-03` [[2026-11-03-november-3-2026-reuters|[November 3, 2026] · [Reuters]]]
+- `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
+- `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]
+- `2026-11-02` [[2026-11-02-november-3-2026-the-next-web|[November 3, 2026] · [The Next Web]]]
+- `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
+- `2026-11-02` [[2026-11-02-chinese-labs-ship-hydrogen-1-0-for-science-baidu-s-apollo-wo|Chinese labs ship Hydrogen-1.0 for science, Baidu's Apollo World and SenseNova 6.8 Flash]]
+- `2026-11-02` [[2026-11-02-china-ships-hydrogen-1-0-for-science-baidu-s-apollo-world-an|China ships: Hydrogen-1.0 for science, Baidu's Apollo World and SenseNova 6.8 Flash]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]
 - `2026-11-01` [[2026-11-01-data-center-concerns-surface-in-midterm-election-discussion|Data-center concerns surface in midterm-election discussion]]
 - `2026-10-31` [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o|Company watchlist searched: Nvidia; Google/Alphabet/DeepMind; OpenAI; Anthropic; Mistral; Cursor; Replit; Meta; Apple;…]]
