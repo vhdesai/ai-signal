@@ -1,25 +1,10 @@
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-
-Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2411.39it/s]
 {
   "command": "run-daily",
   "stages": {
     "ingest": {
       "digests_total": 1596,
-      "digests_changed": 10,
-      "changed": [
-        "news\\2026-11-03_000000_Publication-Sources.md",
-        "news\\2026-11-03_060330_Inbox_Daily AI News Digest - November 3, 2026.md",
-        "news\\2026-11-03_061250_Inbox_Daily AI News Digest - November 3, 2026.md",
-        "news\\2026-11-03_062215_Inbox_Daily AI News Digest - November 3, 2026.md",
-        "news\\2026-11-03_064938_Inbox_ClawPilot - Daily AI News Digest - November 3, 2026.md",
-        "news\\2026-11-03_065453_Final-Daily-AI-News-Digest.md",
-        "news\\2026-11-03_065503_Inbox_Daily AI News Digest - November 3, 2026.md",
-        "news\\2026-11-03_065703_Final-Daily-AI-News-Digest.md",
-        "news\\2026-11-03_065949_Inbox_Daily AI News Digest - November 3, 2026.md",
-        "news\\daily-ai-news-digest-2026-11-03.md"
-      ]
+      "digests_changed": 0,
+      "changed": []
     },
     "split": {
       "digests_parsed": 1600,
@@ -33,7 +18,7 @@ Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2411
       "articles_indexed": 10952,
       "embeddings": {
         "enabled": true,
-        "added": 52,
+        "added": 0,
         "total": 10952,
         "md_rewritten": 10951
       }
@@ -43,32 +28,32 @@ Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2411
       "exact_duplicates": 10,
       "canonical": 8124,
       "semantic_duplicates": 2818,
-      "related_links": 33429
+      "related_links": 33427
     },
     "build-graph": {
       "status": "ok",
       "articles_linked": 10952,
-      "wikilinks_emitted": 74915,
+      "wikilinks_emitted": 74913,
       "entity_hubs": 34,
       "topic_hubs": 8,
       "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
     },
     "validate-urls": {
       "checked": 5128,
-      "ok": 4131,
-      "broken": 997,
+      "ok": 4047,
+      "broken": 1081,
       "missing": 5801,
       "skipped": 23
     },
     "repair-urls": {
-      "attempted": 10,
-      "repaired": 2,
-      "unresolved": 8,
+      "attempted": 0,
+      "repaired": 0,
+      "unresolved": 0,
       "skipped": 0,
       "reverted": 0,
       "deferred": 0,
       "terminated": "completed",
-      "elapsed_s": 301.1,
+      "elapsed_s": 300.6,
       "max_workers": 10
     },
     "build-site-daily": {
@@ -77,14 +62,14 @@ Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2411
       "canonical": 8124,
       "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
       "mode": "incremental",
-      "changed_articles": 153,
-      "written_files": 113,
-      "elapsed_s": 21.2
+      "changed_articles": 100,
+      "written_files": 105,
+      "elapsed_s": 18.13
     },
     "publish": {
       "status": "dry-run",
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20261103T183021+0000-5693d4.json"
+  "run_log": "indexes\\runs\\run-20261104T201144+0000-6d3db0.json"
 }

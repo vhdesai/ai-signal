@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-10-18-china-proposes-export-controls-on-23-ai-technologies-includi
 - 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
 - 2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru
-- 2026-11-03-anthropic-tells-ipo-investors-claude-is-speeding-up-design-o
 - 2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and
 embedding_id: 2026-09-13-beijing-pushes-ai-assisted-eda-chip-design-as-pillar-of-semi
 event_name: ''
@@ -37,5 +36,5 @@ Empyrean Technology, China's leading domestic EDA vendor, is aggressively deploy
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-18-china-proposes-export-controls-on-23-ai-technologies-includi]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru]] · [[2026-11-03-anthropic-tells-ipo-investors-claude-is-speeding-up-design-o]] · [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and]]
+**Related:** [[2026-10-18-china-proposes-export-controls-on-23-ai-technologies-includi]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru]] · [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and]]
 <!-- graph:end -->

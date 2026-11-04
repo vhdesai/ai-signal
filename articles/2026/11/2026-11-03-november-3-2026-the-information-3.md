@@ -4,8 +4,8 @@ title: '[November 3, 2026] · [The Information]'
 date: '2026-11-03'
 source: '[DealBook]'
 url_original: https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6
-url_canonical: https://www.almanac.com/content/november-holidays-fun-facts-folklore
-url_status: repaired
+url_canonical: https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6
+url_status: broken
 digest_source: digests\raw\2026-11-03_065703_Final-Daily-AI-News-Digest.md
 content_hash: 6fc20c1be69d77caee7cb9bf38c0b188f4270e0cd49d1e7924040d23c827eace
 normalized_title_hash: 0a62f73ac65e23be
