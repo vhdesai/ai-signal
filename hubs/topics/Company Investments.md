@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1361
+member_count: 1363
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1361 connected article(s).
+> Auto-generated topic hub. 1363 connected article(s).
 
+- `2026-11-05` [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open|Capital narrows at the top: AI venture funding slides as OpenAI signals a 2027 IPO]]
+- `2026-11-04` [[2026-11-04-agent-security-consolidates-palo-alto-networks-in-talks-to-b|Agent security consolidates: Palo Alto Networks in talks to buy Clutch for about $500 million]]
 - `2026-11-03` [[2026-11-03-november-3-2026-the-information-3|[November 3, 2026] · [The Information]]]
 - `2026-11-03` [[2026-11-03-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]
 - `2026-11-03` [[2026-11-03-anthropic-tells-ipo-investors-that-claude-is-speeding-up-the|Anthropic tells IPO investors that Claude is speeding up the design of its own AI chips]]

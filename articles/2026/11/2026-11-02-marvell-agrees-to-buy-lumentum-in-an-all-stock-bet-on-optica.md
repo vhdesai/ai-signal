@@ -25,8 +25,8 @@ dedupe_status: duplicate
 canonical_article_id: 2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de
 related_article_ids:
 - 2026-10-29-marvell-explores-a-lumentum-deal-as-optical-interconnect-bec
+- 2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu
 - 2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity
-- 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 embedding_id: 2026-11-02-marvell-agrees-to-buy-lumentum-in-an-all-stock-bet-on-optica
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Marvell will acquire laser and optics maker Lumentum in an all-stock deal valued
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de]]
-**Related:** [[2026-10-29-marvell-explores-a-lumentum-deal-as-optical-interconnect-bec]] · [[2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity]] · [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]]
+**Related:** [[2026-10-29-marvell-explores-a-lumentum-deal-as-optical-interconnect-bec]] · [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu]] · [[2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity]]
 <!-- graph:end -->

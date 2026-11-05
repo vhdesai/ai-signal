@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2346
+member_count: 2349
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2346 connected article(s).
+> Auto-generated topic hub. 2349 connected article(s).
 
+- `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]
+- `2026-11-04` [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu|Optics becomes the AI choke point: rival-bid talk for Lumentum and a fiber squeeze]]
+- `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-03` [[2026-11-03-november-3-2026-the-information-3|[November 3, 2026] · [The Information]]]
 - `2026-11-03` [[2026-11-03-nvidia-tells-cloud-partners-to-limit-future-business-with-ch|Nvidia tells cloud partners to limit future business with Chinese customers]]
 - `2026-11-03` [[2026-11-03-hiding-benchmark-tests-widens-the-gap-between-open-weight-an|Hiding benchmark tests widens the gap between open-weight and frontier models from 3 points to 12]]

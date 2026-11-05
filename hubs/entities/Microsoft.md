@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1098
+member_count: 1099
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1098 connected article(s).
+> Auto-generated entity hub. 1099 connected article(s).
 
+- `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-02` [[2026-11-02-lumen-and-microsoft-announced-an-expanded-co-sell-partnershi|Lumen and Microsoft announced an expanded co-sell partnership to align enterprise network transformation with Azure…]]

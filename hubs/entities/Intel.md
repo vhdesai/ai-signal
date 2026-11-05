@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 128
+member_count: 129
 ---
 
 # Intel
 
-> Auto-generated entity hub. 128 connected article(s).
+> Auto-generated entity hub. 129 connected article(s).
 
+- `2026-11-04` [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu|Optics becomes the AI choke point: rival-bid talk for Lumentum and a fiber squeeze]]
 - `2026-11-01` [[2026-11-01-november-1-2026-the-tactical-allocation-letter|[November 1, 2026] · [The Tactical Allocation Letter]]]
 - `2026-11-01` [[2026-11-01-money-leaves-the-ai-trade-as-financing-becomes-the-build-out|Money leaves the AI trade as financing becomes the build-out's binding constraint]]
 - `2026-10-31` [[2026-10-31-intel-guided-q4-revenue-to-15-16-billion-versus-about-17-bil|Intel guided Q4 revenue to $15–16 billion versus about $17 billion expected, with gross margin falling to 37% from 43%…]]

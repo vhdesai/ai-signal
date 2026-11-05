@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 - 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
+- 2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open
 embedding_id: 2026-08-12-kevin-weil-seeks-750m-valuation-for-ai-science-startup
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Kevin Weil, OpenAI's former Chief Product Officer, has sought a valuation of at 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-kevin-weil-seeks-valuation-for-ai-science-startup]] · [[2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]]
+**Related:** [[2026-08-12-kevin-weil-seeks-valuation-for-ai-science-startup]] · [[2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open]]
 <!-- graph:end -->

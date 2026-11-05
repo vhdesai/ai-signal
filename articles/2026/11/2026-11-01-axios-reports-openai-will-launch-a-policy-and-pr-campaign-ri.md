@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-11-01-openai-plans-post-midterm-policy-push-including-rebranding-d
 - 2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo
 - 2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight
+- 2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co
 embedding_id: 2026-11-01-axios-reports-openai-will-launch-a-policy-and-pr-campaign-ri
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Axios reports OpenAI will launch a policy and PR campaign right after Tuesday's 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-11-01-openai-plans-a-post-midterm-policy-push-including-speed-limi]] · [[2026-11-01-openai-plans-post-midterm-policy-push-including-rebranding-d]] · [[2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo]] · [[2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight]]
+**Related:** [[2026-11-01-openai-plans-a-post-midterm-policy-push-including-speed-limi]] · [[2026-11-01-openai-plans-post-midterm-policy-push-including-rebranding-d]] · [[2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo]] · [[2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight]] · [[2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co]]
 <!-- graph:end -->

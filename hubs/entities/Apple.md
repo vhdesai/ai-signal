@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 511
+member_count: 513
 ---
 
 # Apple
 
-> Auto-generated entity hub. 511 connected article(s).
+> Auto-generated entity hub. 513 connected article(s).
 
+- `2026-11-04` [[2026-11-04-token-rationing-arrives-apple-trims-internal-ai-budgets-as-e|Token rationing arrives: Apple trims internal AI budgets as enterprise AI bills climb]]
+- `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-03` [[2026-11-03-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti|UK AI Security Institute researcher says AI models are getting harder to monitor]]

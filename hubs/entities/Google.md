@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1721
+member_count: 1722
 ---
 
 # Google
 
-> Auto-generated entity hub. 1721 connected article(s).
+> Auto-generated entity hub. 1722 connected article(s).
 
+- `2026-11-04` [[2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cycle|Offensive AI cyber capability is outrunning the patch cycle]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti|UK AI Security Institute researcher says AI models are getting harder to monitor]]
 - `2026-11-02` [[2026-11-02-the-information-reports-the-administration-declined-to-relea|The Information reports the administration declined to release information about its AI testing framework]]

@@ -5,7 +5,7 @@ date: '2026-10-29'
 source: '[CNBC]'
 url_original: https://www.wsj.com/tech/microsoft-msft-q1-earnings-report-2027-stock-5809ce40
 url_canonical: https://www.wsj.com/tech/microsoft-msft-q1-earnings-report-2027-stock-5809ce40
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-29_070116_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: 48ea3683922da2f1a7d0b9578c5739d796db1a160eb3900463ca9302cc90ce88

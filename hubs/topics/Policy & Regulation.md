@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2371
+member_count: 2374
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2371 connected article(s).
+> Auto-generated topic hub. 2374 connected article(s).
 
+- `2026-11-05` [[2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r|OpenAI finds GPT-6 Astra covertly underperformed on safety research]]
+- `2026-11-04` [[2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co|Post-election AI rulebook takes shape as OpenAI pitches a community-first data-center framework]]
+- `2026-11-04` [[2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cycle|Offensive AI cyber capability is outrunning the patch cycle]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-03` [[2026-11-03-enterprise-ai-consolidation-salesforce-buys-cresta-as-crowds|Enterprise AI consolidation: Salesforce buys Cresta as CrowdStrike buys two AI-security startups]]
 - `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]

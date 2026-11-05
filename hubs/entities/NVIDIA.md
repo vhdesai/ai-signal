@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1769
+member_count: 1772
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1769 connected article(s).
+> Auto-generated entity hub. 1772 connected article(s).
 
+- `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]
+- `2026-11-05` [[2026-11-05-agents-get-an-enterprise-context-layer-box-mcgraw-hill-and-m|Agents get an enterprise context layer: Box, McGraw Hill and multiagent finance]]
+- `2026-11-04` [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu|Optics becomes the AI choke point: rival-bid talk for Lumentum and a fiber squeeze]]
 - `2026-11-03` [[2026-11-03-november-3-2026-the-information-2|[November 3, 2026] · [The Information]]]
 - `2026-11-03` [[2026-11-03-november-3-2026-the-information-3|[November 3, 2026] · [The Information]]]
 - `2026-11-03` [[2026-11-03-nvidia-tells-cloud-partners-to-limit-future-business-with-ch|Nvidia tells cloud partners to limit future business with Chinese customers]]

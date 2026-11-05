@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-11-02-marvell-agrees-to-buy-lumentum-in-an-all-stock-bet-on-optica
 - 2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de
 - 2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity
-- 2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for
+- 2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu
 embedding_id: 2026-10-29-marvell-explores-a-lumentum-deal-as-optical-interconnect-bec
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Marvell has been in talks to buy data-center optics maker Lumentum, which has a 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-11-02-marvell-agrees-to-buy-lumentum-in-an-all-stock-bet-on-optica]] · [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de]] · [[2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity]] · [[2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for]]
+**Related:** [[2026-11-02-marvell-agrees-to-buy-lumentum-in-an-all-stock-bet-on-optica]] · [[2026-11-02-marvell-agrees-to-buy-lumentum-in-a-115-billion-all-stock-de]] · [[2026-11-02-marvell-agrees-to-buy-lumentum-expanding-ai-connectivity]] · [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu]]
 <!-- graph:end -->

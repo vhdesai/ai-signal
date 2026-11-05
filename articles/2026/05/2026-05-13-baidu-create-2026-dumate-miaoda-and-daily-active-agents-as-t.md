@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-baidu-cloud-reportedly-separates-its-ai-agent-and-maas-busin
 - 2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce
+- 2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz
-- 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
 embedding_id: 2026-05-13-baidu-create-2026-dumate-miaoda-and-daily-active-agents-as-t
 event_name: ''
 ---
@@ -40,5 +40,5 @@ At its annual developer conference in Beijing, Baidu CEO Robin Li proposed "Dail
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-31-baidu-cloud-reportedly-separates-its-ai-agent-and-maas-busin]] · [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]]
+**Related:** [[2026-08-31-baidu-cloud-reportedly-separates-its-ai-agent-and-maas-busin]] · [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce]] · [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz]]
 <!-- graph:end -->

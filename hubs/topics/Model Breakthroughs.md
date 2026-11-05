@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3693
+member_count: 3697
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3693 connected article(s).
+> Auto-generated topic hub. 3697 connected article(s).
 
+- `2026-11-05` [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as|Open weights advance: Baidu releases ERNIE 5.5 Flash Base as Ricursive claims a US open coding lead]]
+- `2026-11-05` [[2026-11-05-mit-s-uq-daaam-teaches-robots-what-they-don-t-know|MIT's UQ-DAAAM teaches robots what they don't know]]
+- `2026-11-04` [[2026-11-04-openai-ships-images-2-6-with-gif-creation-across-chatgpt-cod|OpenAI ships Images 2.6 with GIF creation across ChatGPT, Codex and the API]]
+- `2026-11-04` [[2026-11-04-claude-assisted-lab-work-yields-the-first-structure-of-a-pro|Claude-assisted lab work yields the first structure of a prokaryotic vault particle]]
 - `2026-11-03` [[2026-11-03-november-3-2026-reuters|[November 3, 2026] · [Reuters]]]
 - `2026-11-03` [[2026-11-03-private-benchmarks-widen-the-open-weight-gap-from-3-points-t|Private benchmarks widen the open-weight gap from 3 points to 12]]
 - `2026-11-03` [[2026-11-03-enterprise-ai-consolidation-salesforce-buys-cresta-as-crowds|Enterprise AI consolidation: Salesforce buys Cresta as CrowdStrike buys two AI-security startups]]

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2529
+member_count: 2531
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2529 connected article(s).
+> Auto-generated entity hub. 2531 connected article(s).
 
+- `2026-11-04` [[2026-11-04-coding-agent-arms-race-meta-buys-conductor-as-openai-lands-c|Coding-agent arms race: Meta buys Conductor as OpenAI lands Claude Code's product chief]]
+- `2026-11-04` [[2026-11-04-claude-assisted-lab-work-yields-the-first-structure-of-a-pro|Claude-assisted lab work yields the first structure of a prokaryotic vault particle]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-03` [[2026-11-03-hiding-benchmark-tests-widens-the-gap-between-open-weight-an|Hiding benchmark tests widens the gap between open-weight and frontier models from 3 points to 12]]
 - `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]

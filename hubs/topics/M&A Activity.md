@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 537
+member_count: 541
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 537 connected article(s).
+> Auto-generated topic hub. 541 connected article(s).
 
+- `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]
+- `2026-11-04` [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu|Optics becomes the AI choke point: rival-bid talk for Lumentum and a fiber squeeze]]
+- `2026-11-04` [[2026-11-04-coding-agent-arms-race-meta-buys-conductor-as-openai-lands-c|Coding-agent arms race: Meta buys Conductor as OpenAI lands Claude Code's product chief]]
+- `2026-11-04` [[2026-11-04-agent-security-consolidates-palo-alto-networks-in-talks-to-b|Agent security consolidates: Palo Alto Networks in talks to buy Clutch for about $500 million]]
 - `2026-11-03` [[2026-11-03-november-3-2026-the-information-3|[November 3, 2026] · [The Information]]]
 - `2026-11-03` [[2026-11-03-november-3-2026-the-information|[November 3, 2026] · [The Information]]]
 - `2026-11-03` [[2026-11-03-enterprise-ai-consolidation-salesforce-buys-cresta-crowdstri|Enterprise AI consolidation: Salesforce buys Cresta; CrowdStrike buys two AI-security startups]]

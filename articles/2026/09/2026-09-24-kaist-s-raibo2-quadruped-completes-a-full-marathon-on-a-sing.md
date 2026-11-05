@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-09-19-abc-130k-largest-open-bimanual-teleoperation-dataset-headed
 - 2026-10-30-google-s-suncatcher-satellite-returns-the-first-ai-response
 - 2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide
-- 2026-11-03-november-3-2026-reuters
 embedding_id: 2026-09-24-kaist-s-raibo2-quadruped-completes-a-full-marathon-on-a-sing
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Prof. Jemin Hwangbo’s team reports RAIBO2 ran the full 42.195 km course in 4 h
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-30-october-30-2026-google]] · [[2026-09-19-abc-130k-largest-open-bimanual-teleoperation-dataset-headed]] · [[2026-10-30-google-s-suncatcher-satellite-returns-the-first-ai-response]] · [[2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide]] · [[2026-11-03-november-3-2026-reuters]]
+**Related:** [[2026-10-30-october-30-2026-google]] · [[2026-09-19-abc-130k-largest-open-bimanual-teleoperation-dataset-headed]] · [[2026-10-30-google-s-suncatcher-satellite-returns-the-first-ai-response]] · [[2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-10-12-openai-makes-progress-reducing-chatgpt-delusions
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
+- 2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r
 - 2026-09-02-openai-s-recurrent-depth-reasoning-technique-draws-safety-ob
-- 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 embedding_id: 2026-07-10-persuasion-attacks-can-decrease-the-effectiveness-of-chain-o
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new preprint co-authored by DeepMind's Victoria Krakovna finds that giving a s
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-12-openai-makes-progress-reducing-chatgpt-delusions]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-09-02-openai-s-recurrent-depth-reasoning-technique-draws-safety-ob]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]]
+**Related:** [[2026-10-12-openai-makes-progress-reducing-chatgpt-delusions]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r]] · [[2026-09-02-openai-s-recurrent-depth-reasoning-technique-draws-safety-ob]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-11-02-china-ships-hydrogen-1-0-for-science-baidu-s-apollo-world-an
 - 2026-11-02-deep-principle-releases-hydrogen-1-0-a-753b-open-weight-mode
 - 2026-06-30-tuesday-june-30-2026
+- 2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as
 embedding_id: 2026-11-03-november-3-2026-reuters
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Hangzhou-based Deep Principle released Hydrogen-1.0, a 753-billion-parameter MIT
 
 **Entities:** [[Baidu]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-02-china-ships-hydrogen-1-0-for-science-baidu-s-apollo-world-an]] · [[2026-11-02-deep-principle-releases-hydrogen-1-0-a-753b-open-weight-mode]] · [[2026-06-30-tuesday-june-30-2026]]
+**Related:** [[2026-11-02-china-ships-hydrogen-1-0-for-science-baidu-s-apollo-world-an]] · [[2026-11-02-deep-principle-releases-hydrogen-1-0-a-753b-open-weight-mode]] · [[2026-06-30-tuesday-june-30-2026]] · [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as]]
 <!-- graph:end -->

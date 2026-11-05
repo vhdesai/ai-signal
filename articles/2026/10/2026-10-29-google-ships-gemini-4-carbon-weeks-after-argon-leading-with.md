@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-28-october-29-2026-the-information
+- 2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cycle
 - 2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec
 - 2026-09-30-google-releases-gemini-4-argon-calling-it-its-most-powerful
 - 2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible
-- 2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant
 embedding_id: 2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google introduced Gemini 4 Carbon less than a month after Gemini 4 Argon, at the
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-28-october-29-2026-the-information]] · [[2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec]] · [[2026-09-30-google-releases-gemini-4-argon-calling-it-its-most-powerful]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]] · [[2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant]]
+**Related:** [[2026-10-28-october-29-2026-the-information]] · [[2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cycle]] · [[2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec]] · [[2026-09-30-google-releases-gemini-4-argon-calling-it-its-most-powerful]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]]
 <!-- graph:end -->

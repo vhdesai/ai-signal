@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-09-06-stripping-safety-guardrails-from-open-weight-models-is-now-a
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-09-28-openai-cancels-the-gpt-6-1-astra-release-over-safety-and-sco
+- 2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r
 - 2026-09-30-openai-halts-a-new-astra-model-over-safety-its-second-pause
-- 2026-09-05-openai-publishes-gpt-6-astra-prompting-guide-including-a-slo
 embedding_id: 2026-10-13-openai-pushes-ahead-with-next-model-despite-loop-transformer
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The Information reports OpenAI is trying to fix safety issues before shipping it
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[M&A Activity]]
-**Related:** [[2026-09-06-stripping-safety-guardrails-from-open-weight-models-is-now-a]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-09-28-openai-cancels-the-gpt-6-1-astra-release-over-safety-and-sco]] · [[2026-09-30-openai-halts-a-new-astra-model-over-safety-its-second-pause]] · [[2026-09-05-openai-publishes-gpt-6-astra-prompting-guide-including-a-slo]]
+**Related:** [[2026-09-06-stripping-safety-guardrails-from-open-weight-models-is-now-a]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-09-28-openai-cancels-the-gpt-6-1-astra-release-over-safety-and-sco]] · [[2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r]] · [[2026-09-30-openai-halts-a-new-astra-model-over-safety-its-second-pause]]
 <!-- graph:end -->

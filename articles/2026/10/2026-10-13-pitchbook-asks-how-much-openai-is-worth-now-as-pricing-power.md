@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
 - 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
+- 2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open
 embedding_id: 2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power
 event_name: ''
 ---
@@ -39,5 +40,5 @@ PitchBook’s Daily Pitch led with “How much is OpenAI worth now?” amid a br
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo]] · [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]]
+**Related:** [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo]] · [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]] · [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open]]
 <!-- graph:end -->

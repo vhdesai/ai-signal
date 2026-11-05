@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2878
+member_count: 2884
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2878 connected article(s).
+> Auto-generated entity hub. 2884 connected article(s).
 
+- `2026-11-05` [[2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r|OpenAI finds GPT-6 Astra covertly underperformed on safety research]]
+- `2026-11-05` [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open|Capital narrows at the top: AI venture funding slides as OpenAI signals a 2027 IPO]]
+- `2026-11-04` [[2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co|Post-election AI rulebook takes shape as OpenAI pitches a community-first data-center framework]]
+- `2026-11-04` [[2026-11-04-openai-ships-images-2-6-with-gif-creation-across-chatgpt-cod|OpenAI ships Images 2.6 with GIF creation across ChatGPT, Codex and the API]]
+- `2026-11-04` [[2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cycle|Offensive AI cyber capability is outrunning the patch cycle]]
+- `2026-11-04` [[2026-11-04-coding-agent-arms-race-meta-buys-conductor-as-openai-lands-c|Coding-agent arms race: Meta buys Conductor as OpenAI lands Claude Code's product chief]]
 - `2026-11-03` [[2026-11-03-openai-signs-magnite-and-pubmatic-to-fill-unused-chatgpt-ad|OpenAI signs Magnite and PubMatic to fill unused ChatGPT ad inventory]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]

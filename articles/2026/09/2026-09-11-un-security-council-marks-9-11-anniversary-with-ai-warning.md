@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: teleSUR English
 url_original: https://www.telesurenglish.net/un-9-11-anniversary-ai-warning/
 url_canonical: https://www.telesurenglish.net/un-9-11-anniversary-ai-warning/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-12_060641_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 5343cf11cc489705ec7b7a0d5cddbbcec109a113690ebfa4f54e5ee3bd3b7df3

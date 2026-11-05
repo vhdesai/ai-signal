@@ -1,13 +1,18 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5154
+member_count: 5159
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5154 connected article(s).
+> Auto-generated topic hub. 5159 connected article(s).
 
+- `2026-11-05` [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open|Capital narrows at the top: AI venture funding slides as OpenAI signals a 2027 IPO]]
+- `2026-11-05` [[2026-11-05-agents-get-an-enterprise-context-layer-box-mcgraw-hill-and-m|Agents get an enterprise context layer: Box, McGraw Hill and multiagent finance]]
+- `2026-11-04` [[2026-11-04-token-rationing-arrives-apple-trims-internal-ai-budgets-as-e|Token rationing arrives: Apple trims internal AI budgets as enterprise AI bills climb]]
+- `2026-11-04` [[2026-11-04-coding-agent-arms-race-meta-buys-conductor-as-openai-lands-c|Coding-agent arms race: Meta buys Conductor as OpenAI lands Claude Code's product chief]]
+- `2026-11-04` [[2026-11-04-agent-security-consolidates-palo-alto-networks-in-talks-to-b|Agent security consolidates: Palo Alto Networks in talks to buy Clutch for about $500 million]]
 - `2026-11-03` [[2026-11-03-november-3-2026-the-information-2|[November 3, 2026] · [The Information]]]
 - `2026-11-03` [[2026-11-03-november-3-2026-the-information|[November 3, 2026] · [The Information]]]
 - `2026-11-03` [[2026-11-03-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]

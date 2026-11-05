@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-16-chinese-ai-chip-stocks-brace-for-metax-lockup-expiry-after-m
 - 2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-- 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
+- 2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko
 embedding_id: 2026-08-09-moore-threads-plans-a-hong-kong-listing-after-its-shares-sur
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Moore Threads, the Beijing AI chipmaker founded by former Nvidia China executive
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-16-chinese-ai-chip-stocks-brace-for-metax-lockup-expiry-after-m]] · [[2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]]
+**Related:** [[2026-09-16-chinese-ai-chip-stocks-brace-for-metax-lockup-expiry-after-m]] · [[2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko]]
 <!-- graph:end -->

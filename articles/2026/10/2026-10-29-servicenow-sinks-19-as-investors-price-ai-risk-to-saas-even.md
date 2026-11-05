@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
+- 2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open
 - 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
 - 2026-07-23-servicenow-invests-40-million-in-businessnext-to-deepen-bank
-- 2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af
 embedding_id: 2026-10-29-servicenow-sinks-19-as-investors-price-ai-risk-to-saas-even
 event_name: ''
 ---
@@ -39,5 +39,5 @@ ServiceNow shares fell 19% after earnings despite 20.5% revenue growth to just o
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-07-23-servicenow-invests-40-million-in-businessnext-to-deepen-bank]] · [[2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af]]
+**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open]] · [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-07-23-servicenow-invests-40-million-in-businessnext-to-deepen-bank]]
 <!-- graph:end -->

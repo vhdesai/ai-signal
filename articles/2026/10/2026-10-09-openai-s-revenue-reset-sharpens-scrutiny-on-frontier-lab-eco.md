@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep
 - 2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch
 - 2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power
-- 2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af
+- 2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open
 embedding_id: 2026-10-09-openai-s-revenue-reset-sharpens-scrutiny-on-frontier-lab-eco
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DealBook highlighted OpenAI’s revenue surprise, while The Information reported
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project]] · [[2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep]] · [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch]] · [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power]] · [[2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af]]
+**Related:** [[2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project]] · [[2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep]] · [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch]] · [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power]] · [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open]]
 <!-- graph:end -->

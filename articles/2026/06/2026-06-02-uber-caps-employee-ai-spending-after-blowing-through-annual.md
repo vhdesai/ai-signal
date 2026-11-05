@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing
 - 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 - 2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc
-- 2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai
+- 2026-11-04-token-rationing-arrives-apple-trims-internal-ai-budgets-as-e
 embedding_id: 2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Uber has imposed caps on employee AI tool spending after burning through its ful
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc]] · [[2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai]]
+**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc]] · [[2026-11-04-token-rationing-arrives-apple-trims-internal-ai-budgets-as-e]]
 <!-- graph:end -->

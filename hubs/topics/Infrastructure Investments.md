@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1901
+member_count: 1903
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1901 connected article(s).
+> Auto-generated topic hub. 1903 connected article(s).
 
+- `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]
+- `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]
 - `2026-11-02` [[2026-11-02-november-3-2026-the-next-web|[November 3, 2026] · [The Next Web]]]
 - `2026-11-02` [[2026-11-02-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]

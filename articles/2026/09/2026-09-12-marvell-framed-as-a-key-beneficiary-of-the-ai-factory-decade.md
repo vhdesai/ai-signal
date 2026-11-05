@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 - 2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for
 - 2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai
+- 2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu
 - 2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers
-- 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
 embedding_id: 2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Seeking Alpha highlighted Marvell as a potentially important AI infrastructure s
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for]] · [[2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai]] · [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]]
+**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for]] · [[2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai]] · [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu]] · [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]]
 <!-- graph:end -->

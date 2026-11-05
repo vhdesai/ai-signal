@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 - 2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade
-- 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil
+- 2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu
 embedding_id: 2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Yahoo Finance reported that Marvell shares rallied after the company unveiled 1.
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]] · [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit]] · [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade]] · [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil]]
+**Related:** [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]] · [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit]] · [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade]] · [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu]]
 <!-- graph:end -->

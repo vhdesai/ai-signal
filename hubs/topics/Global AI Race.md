@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1710
+member_count: 1711
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1710 connected article(s).
+> Auto-generated topic hub. 1711 connected article(s).
 
+- `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]
 - `2026-11-03` [[2026-11-03-november-3-2026-the-information-2|[November 3, 2026] · [The Information]]]
 - `2026-11-03` [[2026-11-03-nvidia-tells-cloud-partners-to-limit-future-business-with-ch|Nvidia tells cloud partners to limit future business with Chinese customers]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
