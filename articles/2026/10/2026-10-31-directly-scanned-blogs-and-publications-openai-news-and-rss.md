@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
 - 2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml
+- 2026-11-06-directly-opened-research-pages-mit-news-ai-and-its-rss-feed
 - 2026-05-23-sources-monitored-this-edition-openai-blog-google-deepmind-m
 - 2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth
-- 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
 embedding_id: 2026-10-31-directly-scanned-blogs-and-publications-openai-news-and-rss
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Directly scanned blogs and publications: OpenAI News and RSS; Google DeepMind Bl
 
 **Entities:** [[Apple]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml]] · [[2026-05-23-sources-monitored-this-edition-openai-blog-google-deepmind-m]] · [[2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth]] · [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus]]
+**Related:** [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml]] · [[2026-11-06-directly-opened-research-pages-mit-news-ai-and-its-rss-feed]] · [[2026-05-23-sources-monitored-this-edition-openai-blog-google-deepmind-m]] · [[2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth]]
 <!-- graph:end -->

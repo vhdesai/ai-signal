@@ -27,7 +27,6 @@ related_article_ids:
 - 2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val
 - 2026-09-04-nvidia-s-equity-portfolio-reaches-99b-as-it-becomes-a-system
 - 2026-09-11-nvidia-in-talks-to-invest-up-to-10b-as-anchor-investor-in-an
-- 2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b
 embedding_id: 2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m
 event_name: ''
 ---
@@ -41,5 +40,5 @@ The Information reported that Mira Murati's Thinking Machines Lab is in talks to
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val]] · [[2026-09-04-nvidia-s-equity-portfolio-reaches-99b-as-it-becomes-a-system]] · [[2026-09-11-nvidia-in-talks-to-invest-up-to-10b-as-anchor-investor-in-an]] · [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b]]
+**Related:** [[2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val]] · [[2026-09-04-nvidia-s-equity-portfolio-reaches-99b-as-it-becomes-a-system]] · [[2026-09-11-nvidia-in-talks-to-invest-up-to-10b-as-anchor-investor-in-an]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: 'Agents get an enterprise context layer: Box, McGraw Hill and multiagent 
 date: '2026-11-05'
 source: SiliconANGLE | November 5, 2026 · Business Wire | November 5, 2026 · CIO Dive*
 url_original: null
-url_canonical: https://cube.dev/articles/semantic-layer-for-ai-agents-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
 content_hash: f23ec75a6bcbdf43b66e30d42c4d40532b5ffa9e5073f2ce4a01f93f3566f6e9
 normalized_title_hash: c88a6ed8eca691ae

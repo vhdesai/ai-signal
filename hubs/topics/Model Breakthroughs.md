@@ -1,13 +1,19 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3697
+member_count: 3703
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3697 connected article(s).
+> Auto-generated topic hub. 3703 connected article(s).
 
+- `2026-11-06` [[2026-11-06-november-5-2026-reuters|[November 5, 2026] · [Reuters]]]
+- `2026-11-06` [[2026-11-06-selection-limits-meta-s-data-center-story-date-only-cornell|Selection limits: Meta’s data-center story, date-only Cornell and CMU stories, the Princeton paper with inferred…]]
+- `2026-11-06` [[2026-11-06-search-index-checks-universities-all-11-requested-news-ecosy|Search-index checks — universities: All 11 requested news ecosystems: UC Berkeley, Stanford, MIT, Purdue, Georgia Tech,…]]
+- `2026-11-06` [[2026-11-06-evidence-standard-these-five-summaries-and-publication-times|Evidence standard: These five summaries and publication timestamps were verified against indexed publisher bylines and…]]
+- `2026-11-06` [[2026-11-06-directly-opened-research-pages-mit-news-ai-and-its-rss-feed|Directly opened research pages: MIT News AI and its RSS feed; MIT’s robot-memory story and its EurekAlert copy (older…]]
+- `2026-11-05` [[2026-11-05-november-5-2026-google-cloud-blog|[November 5, 2026] · [Google Cloud Blog]]]
 - `2026-11-05` [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as|Open weights advance: Baidu releases ERNIE 5.5 Flash Base as Ricursive claims a US open coding lead]]
 - `2026-11-05` [[2026-11-05-mit-s-uq-daaam-teaches-robots-what-they-don-t-know|MIT's UQ-DAAAM teaches robots what they don't know]]
 - `2026-11-04` [[2026-11-04-openai-ships-images-2-6-with-gif-creation-across-chatgpt-cod|OpenAI ships Images 2.6 with GIF creation across ChatGPT, Codex and the API]]

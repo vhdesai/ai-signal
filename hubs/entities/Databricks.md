@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 174
+member_count: 175
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 174 connected article(s).
+> Auto-generated entity hub. 175 connected article(s).
 
+- `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-02` [[2026-11-02-nvidia-s-apache-2-0-auto-ontology-generates-a-starting-ontol|NVIDIA's Apache 2.0 Auto Ontology generates a starting ontology from enterprise metadata, validates agent SQL against…]]

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 65
+member_count: 67
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 65 connected article(s).
+> Auto-generated entity hub. 67 connected article(s).
 
+- `2026-11-06` [[2026-11-06-tsmc-weighs-making-3d-dram-at-nvidia-s-request-as-the-memory|TSMC weighs making 3D DRAM at Nvidia's request as the memory shortage deepens]]
+- `2026-11-05` [[2026-11-05-november-6-2026-dealbook-2|[November 6, 2026] · [DealBook]]]
 - `2026-10-12` [[2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip|Microsoft unveils Maia 300, its latest custom AI chip]]
 - `2026-09-21` [[2026-09-21-meta-s-iris-ai-chip-enters-mass-production-at-tsmc-3nm|Meta's Iris AI Chip Enters Mass Production at TSMC 3nm]]
 - `2026-09-21` [[2026-09-21-meta-s-iris-ai-accelerator-mtia-gen-3-enters-mass-production|Meta's Iris AI Accelerator (MTIA Gen 3) Enters Mass Production at TSMC 3nm]]

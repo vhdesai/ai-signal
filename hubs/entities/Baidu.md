@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 140
+member_count: 141
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 140 connected article(s).
+> Auto-generated entity hub. 141 connected article(s).
 
+- `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
 - `2026-11-05` [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as|Open weights advance: Baidu releases ERNIE 5.5 Flash Base as Ricursive claims a US open coding lead]]
 - `2026-11-03` [[2026-11-03-november-3-2026-reuters|[November 3, 2026] · [Reuters]]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]

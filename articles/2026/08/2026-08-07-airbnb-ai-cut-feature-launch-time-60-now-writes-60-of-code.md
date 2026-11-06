@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc
 - 2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab
+- 2026-11-05-airbnb-discloses-ties-to-brian-chesky-s-secretive-self-funde
 - 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
-- 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
 embedding_id: 2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code
 event_name: ''
 ---
@@ -36,5 +36,5 @@ On Airbnb's Q2 2026 earnings call, CEO Brian Chesky said AI has reduced concept-
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]]
+**Related:** [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-11-05-airbnb-discloses-ties-to-brian-chesky-s-secretive-self-funde]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]]
 <!-- graph:end -->

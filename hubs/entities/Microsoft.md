@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1099
+member_count: 1101
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1099 connected article(s).
+> Auto-generated entity hub. 1101 connected article(s).
 
+- `2026-11-06` [[2026-11-06-today-s-developments-put-deployment-governance-infrastructur|Today's developments put deployment governance, infrastructure execution and capital-market scrutiny on the same…]]
+- `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
 - `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]

@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
+- 2026-11-06-november-5-2026-the-information
 - 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
-- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 embedding_id: 2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA described an 800 VDC power architecture designed to reduce conversion los
 
 **Entities:** [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
+**Related:** [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-11-06-november-5-2026-the-information]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]]
 <!-- graph:end -->

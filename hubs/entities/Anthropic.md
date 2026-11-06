@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2531
+member_count: 2538
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2531 connected article(s).
+> Auto-generated entity hub. 2538 connected article(s).
 
+- `2026-11-06` [[2026-11-06-november-6-2026-dealbook|[November 6, 2026] · [DealBook]]]
+- `2026-11-06` [[2026-11-06-november-5-2026-metr|[November 5, 2026] · [METR]]]
+- `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla|Full-page originals: OpenAI Cyber and Alignment, Anthropic/Claude, Google Cloud, Cursor, TechCrunch, Forbes and…]]
+- `2026-11-06` [[2026-11-06-evidence-standard-these-five-summaries-and-publication-times|Evidence standard: These five summaries and publication timestamps were verified against indexed publisher bylines and…]]
+- `2026-11-05` [[2026-11-05-november-6-2026-dealbook-2|[November 6, 2026] · [DealBook]]]
+- `2026-11-05` [[2026-11-05-november-5-2026-anthropic|[November 5, 2026] · [Anthropic]]]
 - `2026-11-04` [[2026-11-04-coding-agent-arms-race-meta-buys-conductor-as-openai-lands-c|Coding-agent arms race: Meta buys Conductor as OpenAI lands Claude Code's product chief]]
 - `2026-11-04` [[2026-11-04-claude-assisted-lab-work-yields-the-first-structure-of-a-pro|Claude-assisted lab work yields the first structure of a prokaryotic vault particle]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]

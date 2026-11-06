@@ -32,7 +32,6 @@ related_article_ids:
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-- 2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas
 embedding_id: 2026-08-26-bill-gates-warns-about-ai-risks
 event_name: ''
 ---
@@ -46,5 +45,5 @@ Business Insider highlights a new AI warning from Bill Gates, though details are
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
-**Related:** [[2026-08-28-nvidia-warns-of-supply-constraints-enterprises-bet-on-agents]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas]]
+**Related:** [[2026-08-28-nvidia-warns-of-supply-constraints-enterprises-bet-on-agents]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
 <!-- graph:end -->

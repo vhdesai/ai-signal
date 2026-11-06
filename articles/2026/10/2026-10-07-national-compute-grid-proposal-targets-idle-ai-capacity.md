@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
 - 2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b
 - 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
+- 2026-11-06-november-5-2026-the-information
 - 2026-08-28-axios-nvidia-almighty-chip-profits-recycled-across-the-ai-ec
-- 2026-07-10-new-warning-in-race-to-superintelligence
 embedding_id: 2026-10-07-national-compute-grid-proposal-targets-idle-ai-capacity
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Axios reported on a National Compute Grid concept aimed at connecting unused AI 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-08-28-axios-nvidia-almighty-chip-profits-recycled-across-the-ai-ec]] · [[2026-07-10-new-warning-in-race-to-superintelligence]]
+**Related:** [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-11-06-november-5-2026-the-information]] · [[2026-08-28-axios-nvidia-almighty-chip-profits-recycled-across-the-ai-ec]]
 <!-- graph:end -->

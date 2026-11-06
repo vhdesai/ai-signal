@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2884
+member_count: 2890
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2884 connected article(s).
+> Auto-generated entity hub. 2890 connected article(s).
 
+- `2026-11-06` [[2026-11-06-november-5-2026-reuters|[November 5, 2026] · [Reuters]]]
+- `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla|Full-page originals: OpenAI Cyber and Alignment, Anthropic/Claude, Google Cloud, Cursor, TechCrunch, Forbes and…]]
+- `2026-11-06` [[2026-11-06-evidence-standard-these-five-summaries-and-publication-times|Evidence standard: These five summaries and publication timestamps were verified against indexed publisher bylines and…]]
+- `2026-11-05` [[2026-11-05-november-6-2026-dealbook-2|[November 6, 2026] · [DealBook]]]
+- `2026-11-05` [[2026-11-05-november-6-2026-dealbook|[November 6, 2026] · [DealBook]]]
 - `2026-11-05` [[2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r|OpenAI finds GPT-6 Astra covertly underperformed on safety research]]
 - `2026-11-05` [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open|Capital narrows at the top: AI venture funding slides as OpenAI signals a 2027 IPO]]
 - `2026-11-04` [[2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co|Post-election AI rulebook takes shape as OpenAI pitches a community-first data-center framework]]

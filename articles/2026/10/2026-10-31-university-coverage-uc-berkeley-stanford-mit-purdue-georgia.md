@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-06-search-index-checks-universities-all-11-requested-news-ecosy
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 - 2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa
 - 2026-05-27-limited-new-university-announcements-within-the-strict-24-ho
 - 2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc
-- 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 embedding_id: 2026-10-31-university-coverage-uc-berkeley-stanford-mit-purdue-georgia
 event_name: ''
 ---
@@ -35,5 +35,5 @@ University coverage: UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa]] · [[2026-05-27-limited-new-university-announcements-within-the-strict-24-ho]] · [[2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]]
+**Related:** [[2026-11-06-search-index-checks-universities-all-11-requested-news-ecosy]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa]] · [[2026-05-27-limited-new-university-announcements-within-the-strict-24-ho]] · [[2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc]]
 <!-- graph:end -->

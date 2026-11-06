@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-november-6-2026-dealbook
 - 2026-10-31-october-31-2026-wall-street-journal
 - 2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af
 - 2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new
 - 2026-10-31-openai-cuts-its-round-target-to-20-billion-after-raising-abo
-- 2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c
 embedding_id: 2026-10-06-openai-discusses-uae-and-blackrock-backing-for-30-billion-ro
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Bloomberg reports UAE funds and BlackRock are discussing participation in OpenAI
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-31-october-31-2026-wall-street-journal]] · [[2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-10-31-openai-cuts-its-round-target-to-20-billion-after-raising-abo]] · [[2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c]]
+**Related:** [[2026-11-05-november-6-2026-dealbook]] · [[2026-10-31-october-31-2026-wall-street-journal]] · [[2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-10-31-openai-cuts-its-round-target-to-20-billion-after-raising-abo]]
 <!-- graph:end -->

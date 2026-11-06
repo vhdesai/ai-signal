@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 216
+member_count: 217
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 216 connected article(s).
+> Auto-generated entity hub. 217 connected article(s).
 
+- `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-palantir-s-us-commercial-revenue-overtakes-government-sales|Palantir’s US commercial revenue overtakes government sales]]
 - `2026-11-02` [[2026-11-02-palantir-s-us-commercial-business-surpasses-its-us-governmen|Palantir’s US commercial business surpasses its US government business]]

@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 957
+member_count: 962
 ---
 
 # Meta
 
-> Auto-generated entity hub. 957 connected article(s).
+> Auto-generated entity hub. 962 connected article(s).
 
+- `2026-11-06` [[2026-11-06-november-6-2026-business-insider|[November 6, 2026] · [Business Insider]]]
+- `2026-11-06` [[2026-11-06-selection-limits-meta-s-data-center-story-date-only-cornell|Selection limits: Meta’s data-center story, date-only Cornell and CMU stories, the Princeton paper with inferred…]]
+- `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-access-and-coverage-gaps-axios-ai-was-not-effectively-checke|Access and coverage gaps: Axios AI+ was not effectively checked: searches returned old or indirect results]]
+- `2026-11-05` [[2026-11-05-airbnb-discloses-ties-to-brian-chesky-s-secretive-self-funde|Airbnb discloses ties to Brian Chesky's secretive, self-funded AI lab]]
 - `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-04` [[2026-11-04-coding-agent-arms-race-meta-buys-conductor-as-openai-lands-c|Coding-agent arms race: Meta buys Conductor as OpenAI lands Claude Code's product chief]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]

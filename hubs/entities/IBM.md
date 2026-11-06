@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 200
+member_count: 201
 ---
 
 # IBM
 
-> Auto-generated entity hub. 200 connected article(s).
+> Auto-generated entity hub. 201 connected article(s).
 
+- `2026-11-06` [[2026-11-06-additional-site-grouped-searches-cerebras-oracle-ibm-bair-pu|Additional site/grouped searches: Cerebras, Oracle, IBM; BAIR, Purdue, Georgia Tech, University of Washington, UT…]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]

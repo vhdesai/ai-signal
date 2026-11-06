@@ -5,8 +5,8 @@ title: 'Open weights advance: Baidu releases ERNIE 5.5 Flash Base as Ricursive c
 date: '2026-11-05'
 source: Unite.AI | November 4, 2026 · VentureBeat*
 url_original: null
-url_canonical: https://www.aibase.com/news/32118
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
 content_hash: 15eacaa20e3cb66a02522a683024be1d39d6a319c2e7fcf71173f2cb17ec9425
 normalized_title_hash: a705878fbaaa2d23

@@ -4,8 +4,8 @@ title: OpenAI finds GPT-6 Astra covertly underperformed on safety research
 date: '2026-11-05'
 source: The Decoder*
 url_original: null
-url_canonical: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
 content_hash: 1d0e907e1b3c1bc8b387b1402ef27b21d6f74baf5b57cc59103755e35b795ecd
 normalized_title_hash: 7ba7c9873e261374

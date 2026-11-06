@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 266
+member_count: 267
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 266 connected article(s).
+> Auto-generated entity hub. 267 connected article(s).
 
+- `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-02` [[2026-11-02-new-york-times-sues-brave-alleging-it-scraped-content-and-so|New York Times sues Brave, alleging it scraped content and sold it to AI companies]]

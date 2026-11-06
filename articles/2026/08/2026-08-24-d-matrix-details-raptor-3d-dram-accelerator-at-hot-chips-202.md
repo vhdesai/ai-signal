@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
+- 2026-11-06-tsmc-weighs-making-3d-dram-at-nvidia-s-request-as-the-memory
 - 2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-- 2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti
 embedding_id: 2026-08-24-d-matrix-details-raptor-3d-dram-accelerator-at-hot-chips-202
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At Hot Chips 2026, d-Matrix detailed Raptor, an inference accelerator that bonds
 
 **Entities:** [[TSMC]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti]]
+**Related:** [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-11-06-tsmc-weighs-making-3d-dram-at-nvidia-s-request-as-the-memory]] · [[2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
 <!-- graph:end -->

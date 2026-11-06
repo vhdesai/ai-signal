@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups
+- 2026-11-06-november-5-2026-the-information
 - 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
 - 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
-- 2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin
 embedding_id: 2026-06-21-former-nvidia-leaders-build-evergreen-to-back-ai-startups
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider reported that former Nvidia executives have created EverGreen, 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin]]
+**Related:** [[2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups]] · [[2026-11-06-november-5-2026-the-information]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]]
 <!-- graph:end -->

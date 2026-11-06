@@ -5,7 +5,7 @@ date: '2026-11-02'
 source: '[AiThority]'
 url_original: https://aithority.com/it-and-devops/cloud/netapp-completes-acquisition-of-peakaio-to-accelerate-zettabyte-scale-ai-deployments/
 url_canonical: https://aithority.com/it-and-devops/cloud/netapp-completes-acquisition-of-peakaio-to-accelerate-zettabyte-scale-ai-deployments/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-02_061330_Inbox_Daily AI News Digest - November
   2, 2026.md
 content_hash: 55575ec03a21231acc973a34446cabecd259467504f57fc172080c2986d07981

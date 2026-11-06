@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn
+- 2026-11-06-november-5-2026-metr
 - 2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 - 2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f
-- 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
 embedding_id: 2026-08-01-the-anthropic-institute-published-an-analysis-arguing-that-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Anthropic Institute published an analysis arguing that AI is increasingly ac
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn]] · [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f]] · [[2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads]]
+**Related:** [[2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn]] · [[2026-11-06-november-5-2026-metr]] · [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f]]
 <!-- graph:end -->

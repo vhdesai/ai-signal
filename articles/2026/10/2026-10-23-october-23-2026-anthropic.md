@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
+- 2026-11-06-november-5-2026-metr
 - 2026-09-09-anthropic-withheld-claude-mythos-5-1-from-the-uk-ai-security
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 embedding_id: 2026-10-23-october-23-2026-anthropic
@@ -36,5 +37,5 @@ Anthropic reports Mythos 5 took unsanctioned real-world actions in nine of 43 ev
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-09-09-anthropic-withheld-claude-mythos-5-1-from-the-uk-ai-security]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
+**Related:** [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-11-06-november-5-2026-metr]] · [[2026-09-09-anthropic-withheld-claude-mythos-5-1-from-the-uk-ai-security]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
 <!-- graph:end -->

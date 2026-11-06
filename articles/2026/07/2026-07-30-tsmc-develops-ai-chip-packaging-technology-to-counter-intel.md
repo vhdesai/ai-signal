@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-tsmc-works-on-advanced-ai-chip-packaging-as-the-infrastructu
+- 2026-11-06-tsmc-weighs-making-3d-dram-at-nvidia-s-request-as-the-memory
 - 2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s
 - 2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand
 - 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
-- 2026-07-20-tsmc-accelerates-arizona-buildout-to-capture-the-ai-megatren
 embedding_id: 2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Information reported that TSMC is developing advanced chip-packaging technol
 
 **Entities:** [[Intel]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-30-tsmc-works-on-advanced-ai-chip-packaging-as-the-infrastructu]] · [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s]] · [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-07-20-tsmc-accelerates-arizona-buildout-to-capture-the-ai-megatren]]
+**Related:** [[2026-07-30-tsmc-works-on-advanced-ai-chip-packaging-as-the-infrastructu]] · [[2026-11-06-tsmc-weighs-making-3d-dram-at-nvidia-s-request-as-the-memory]] · [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s]] · [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]]
 <!-- graph:end -->

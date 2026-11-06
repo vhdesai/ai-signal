@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
 - 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
+- 2026-11-06-november-5-2026-the-information
 embedding_id: 2026-08-14-nvidia-indosat-and-universitas-gadjah-mada-open-indonesia-s
 event_name: ''
 ---
@@ -37,5 +38,5 @@ NVIDIA, Indosat Ooredoo Hutchison, and Universitas Gadjah Mada launched the UGM 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]]
+**Related:** [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-11-06-november-5-2026-the-information]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: MIT's UQ-DAAAM teaches robots what they don't know
 date: '2026-11-05'
 source: MIT News*
 url_original: null
-url_canonical: https://thenextweb.com/news/mit-daaam-robot-long-term-memory-objects
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
 content_hash: 1c813944b01ec047f9ec27eb055dd18952bf7f31e2995ffaeee9480213d6531c
 normalized_title_hash: f03b75197f33f2d9

@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc
+- 2026-11-05-airbnb-discloses-ties-to-brian-chesky-s-secretive-self-funde
 - 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
 - 2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code
 - 2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin
@@ -36,5 +37,5 @@ Chesky announced plans for an AI lab focused on travel and hospitality AI — re
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code]] · [[2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin]]
+**Related:** [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-11-05-airbnb-discloses-ties-to-brian-chesky-s-secretive-self-funde]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code]] · [[2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin]]
 <!-- graph:end -->

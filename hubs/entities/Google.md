@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1722
+member_count: 1726
 ---
 
 # Google
 
-> Auto-generated entity hub. 1722 connected article(s).
+> Auto-generated entity hub. 1726 connected article(s).
 
+- `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla|Full-page originals: OpenAI Cyber and Alignment, Anthropic/Claude, Google Cloud, Cursor, TechCrunch, Forbes and…]]
+- `2026-11-06` [[2026-11-06-directly-opened-research-pages-mit-news-ai-and-its-rss-feed|Directly opened research pages: MIT News AI and its RSS feed; MIT’s robot-memory story and its EurekAlert copy (older…]]
+- `2026-11-05` [[2026-11-05-november-5-2026-google-cloud-blog|[November 5, 2026] · [Google Cloud Blog]]]
 - `2026-11-04` [[2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cycle|Offensive AI cyber capability is outrunning the patch cycle]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti|UK AI Security Institute researcher says AI models are getting harder to monitor]]

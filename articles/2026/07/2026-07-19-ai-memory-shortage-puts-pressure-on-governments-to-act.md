@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones
+- 2026-11-06-tsmc-weighs-making-3d-dram-at-nvidia-s-request-as-the-memory
 - 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
 - 2026-08-27-ai-s-memory-crunch-hits-android-google-sets-new-app-memory-l
-- 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
 embedding_id: 2026-07-19-ai-memory-shortage-puts-pressure-on-governments-to-act
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A global shortage of AI memory, including high-bandwidth memory and advanced DRA
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones]] · [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]] · [[2026-08-27-ai-s-memory-crunch-hits-android-google-sets-new-app-memory-l]] · [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]]
+**Related:** [[2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones]] · [[2026-11-06-tsmc-weighs-making-3d-dram-at-nvidia-s-request-as-the-memory]] · [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]] · [[2026-08-27-ai-s-memory-crunch-hits-android-google-sets-new-app-memory-l]]
 <!-- graph:end -->

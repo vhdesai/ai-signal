@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai
 - 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
 - 2026-05-18-stanford-s-annual-ai-index-the-field-s-most-cited-benchmark
+- 2026-11-06-november-5-2026-metr
 - 2026-08-01-the-anthropic-institute-published-an-analysis-arguing-that-a
-- 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
 embedding_id: 2026-09-24-study-top-ai-experts-badly-underestimated-how-fast-the-field
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Forecasting Research Institute's new tracking study finds median expert fore
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-05-18-stanford-s-annual-ai-index-the-field-s-most-cited-benchmark]] · [[2026-08-01-the-anthropic-institute-published-an-analysis-arguing-that-a]] · [[2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin]]
+**Related:** [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-05-18-stanford-s-annual-ai-index-the-field-s-most-cited-benchmark]] · [[2026-11-06-november-5-2026-metr]] · [[2026-08-01-the-anthropic-institute-published-an-analysis-arguing-that-a]]
 <!-- graph:end -->

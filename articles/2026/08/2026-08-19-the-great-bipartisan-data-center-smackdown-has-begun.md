@@ -23,7 +23,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow
 - 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
-- 2026-08-23-republican-split-opens-on-data-centers-trump-defends-the-bui
 embedding_id: 2026-08-19-the-great-bipartisan-data-center-smackdown-has-begun
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Pennsylvania Gov. Shapiro signed an executive order enabling the state to block 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-08-23-republican-split-opens-on-data-centers-trump-defends-the-bui]]
+**Related:** [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]]
 <!-- graph:end -->

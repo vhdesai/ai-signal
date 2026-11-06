@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 513
+member_count: 516
 ---
 
 # Apple
 
-> Auto-generated entity hub. 513 connected article(s).
+> Auto-generated entity hub. 516 connected article(s).
 
+- `2026-11-06` [[2026-11-06-tsmc-weighs-making-3d-dram-at-nvidia-s-request-as-the-memory|TSMC weighs making 3D DRAM at Nvidia's request as the memory shortage deepens]]
+- `2026-11-06` [[2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla|Full-page originals: OpenAI Cyber and Alignment, Anthropic/Claude, Google Cloud, Cursor, TechCrunch, Forbes and…]]
+- `2026-11-06` [[2026-11-06-directly-opened-research-pages-mit-news-ai-and-its-rss-feed|Directly opened research pages: MIT News AI and its RSS feed; MIT’s robot-memory story and its EurekAlert copy (older…]]
 - `2026-11-04` [[2026-11-04-token-rationing-arrives-apple-trims-internal-ai-budgets-as-e|Token rationing arrives: Apple trims internal AI budgets as enterprise AI bills climb]]
 - `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-03` [[2026-11-03-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]

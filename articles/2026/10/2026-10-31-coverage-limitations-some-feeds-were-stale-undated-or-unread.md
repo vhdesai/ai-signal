@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-06-access-and-coverage-gaps-axios-ai-was-not-effectively-checke
+- 2026-11-06-selection-limits-meta-s-data-center-story-date-only-cornell
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
-- 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
-- 2026-05-27-sources-monitored-30-company-blogs-university-research-feeds
-- 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
+- 2026-11-06-directly-opened-research-pages-mit-news-ai-and-its-rss-feed
 embedding_id: 2026-10-31-coverage-limitations-some-feeds-were-stale-undated-or-unread
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Coverage limitations: Some feeds were stale, undated or unreadable, including MI
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-05-27-sources-monitored-30-company-blogs-university-research-feeds]] · [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]]
+**Related:** [[2026-11-06-access-and-coverage-gaps-axios-ai-was-not-effectively-checke]] · [[2026-11-06-selection-limits-meta-s-data-center-story-date-only-cornell]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-11-06-directly-opened-research-pages-mit-news-ai-and-its-rss-feed]]
 <!-- graph:end -->

@@ -1,14 +1,15 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 541
+member_count: 542
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 541 connected article(s).
+> Auto-generated topic hub. 542 connected article(s).
 
 - `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]
+- `2026-11-05` [[2026-11-05-airbnb-discloses-ties-to-brian-chesky-s-secretive-self-funde|Airbnb discloses ties to Brian Chesky's secretive, self-funded AI lab]]
 - `2026-11-04` [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu|Optics becomes the AI choke point: rival-bid talk for Lumentum and a fiber squeeze]]
 - `2026-11-04` [[2026-11-04-coding-agent-arms-race-meta-buys-conductor-as-openai-lands-c|Coding-agent arms race: Meta buys Conductor as OpenAI lands Claude Code's product chief]]
 - `2026-11-04` [[2026-11-04-agent-security-consolidates-palo-alto-networks-in-talks-to-b|Agent security consolidates: Palo Alto Networks in talks to buy Clutch for about $500 million]]
