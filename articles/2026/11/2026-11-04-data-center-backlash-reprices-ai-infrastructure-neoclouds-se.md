@@ -28,8 +28,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t
-- 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
-- 2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op
+- 2026-11-06-november-6-2026-reuters
+- 2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste
 embedding_id: 2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Voters sided against data centers in 40 of 41 local ballot measures, the lone ex
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op]]
+**Related:** [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-11-06-november-6-2026-reuters]] · [[2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste]]
 <!-- graph:end -->

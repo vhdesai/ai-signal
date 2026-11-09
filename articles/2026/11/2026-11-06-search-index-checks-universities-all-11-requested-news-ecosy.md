@@ -5,8 +5,8 @@ title: 'Search-index checks — universities: All 11 requested news ecosystems: 
 date: '2026-11-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-06_060450_Inbox_Daily AI News Digest - November
   6, 2026.md
 content_hash: 2f044aefefcc438556cb485c0f6fd54ed3dfa46cb161530ccc4a9c336c4b1a5c

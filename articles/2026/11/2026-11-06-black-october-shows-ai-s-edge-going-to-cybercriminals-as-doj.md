@@ -5,8 +5,8 @@ title: '''Black October'' shows AI''s edge going to cybercriminals as DOJ forms 
 date: '2026-11-06'
 source: '[WSJ Pro CyberSecurity]'
 url_original: https://www.wsj.com/pro/cybersecurity/black-october-shows-ai-advantage-goes-to-cybercriminals-68002bfb
-url_canonical: https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force
-url_status: repaired
+url_canonical: https://www.wsj.com/pro/cybersecurity/black-october-shows-ai-advantage-goes-to-cybercriminals-68002bfb
+url_status: broken
 digest_source: digests\raw\2026-11-06_070742_Inbox_Daily AI News Digest - November
   6, 2026.md
 content_hash: 6e219e4ba0682e4db7907e232a97a8520d226b38b41634e3190b431450b16f93

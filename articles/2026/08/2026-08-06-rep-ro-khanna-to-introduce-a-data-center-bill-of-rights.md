@@ -43,10 +43,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
+- 2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of
-- 2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co
-- 2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op
 embedding_id: 2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights
 event_name: ''
 ---
@@ -60,5 +59,5 @@ Rep. Ro Khanna is introducing a data center bill of rights as voters nationwide 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of]] · [[2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co]] · [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op]]
+**Related:** [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of]]
 <!-- graph:end -->

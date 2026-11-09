@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-13-obama-urges-democrats-to-make-ai-a-central-agenda-item
 - 2026-09-13-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards
-- 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
+- 2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi
 embedding_id: 2026-09-13-obama-urges-democrats-to-make-ai-safeguards-a-central-agenda
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Former President Barack Obama said Democrats need to make artificial intelligenc
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-13-obama-urges-democrats-to-make-ai-a-central-agenda-item]] · [[2026-09-13-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]]
+**Related:** [[2026-09-13-obama-urges-democrats-to-make-ai-a-central-agenda-item]] · [[2026-09-13-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards]] · [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi]]
 <!-- graph:end -->

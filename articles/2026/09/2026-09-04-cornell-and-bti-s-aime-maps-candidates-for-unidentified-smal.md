@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
+- 2026-11-06-mit-s-chemeleon-predicts-molecular-properties-when-lab-data
 - 2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-targets-chem
-- 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 embedding_id: 2026-09-04-cornell-and-bti-s-aime-maps-candidates-for-unidentified-smal
 event_name: ''
 ---
@@ -35,5 +35,5 @@ coverage describes AIMe, a neuro-symbolic system combining chemical fragmentatio
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-targets-chem]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]]
+**Related:** [[2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-11-06-mit-s-chemeleon-predicts-molecular-properties-when-lab-data]] · [[2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-targets-chem]]
 <!-- graph:end -->

@@ -44,8 +44,8 @@ related_article_ids:
 - 2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks
 - 2026-10-23-security-leaders-warn-of-faster-flaw-discovery
 - 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
+- 2026-11-06-november-6-2026-techcrunch-2
 - 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
-- 2026-10-01-researchers-report-failed-agent-probes-of-government-website
 embedding_id: 2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure
 event_name: ''
 ---
@@ -59,5 +59,5 @@ Official date only; corroborating reporting appeared at 00:01 UTC November 3 NCS
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks]] · [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]] · [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]]
+**Related:** [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks]] · [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]] · [[2026-11-06-november-6-2026-techcrunch-2]] · [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr]]
 <!-- graph:end -->

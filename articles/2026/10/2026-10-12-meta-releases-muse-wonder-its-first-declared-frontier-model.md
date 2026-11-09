@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-12-meta-releases-muse-wonder-its-first-frontier-model
 - 2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age
+- 2026-11-06-meta-deploys-specialized-muse-and-meta-ai-models-with-active
 embedding_id: 2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Meta's Superintelligence Lab released Muse Wonder and Muse Wonder Full, position
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-12-meta-releases-muse-wonder-its-first-frontier-model]] · [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age]]
+**Related:** [[2026-10-12-meta-releases-muse-wonder-its-first-frontier-model]] · [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age]] · [[2026-11-06-meta-deploys-specialized-muse-and-meta-ai-models-with-active]]
 <!-- graph:end -->

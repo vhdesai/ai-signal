@@ -1,15 +1,20 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1775
+member_count: 1780
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1775 connected article(s).
+> Auto-generated entity hub. 1780 connected article(s).
 
+- `2026-11-07` [[2026-11-07-inference-plumbing-matures-buoyant-open-sources-kinference-a|Inference plumbing matures: Buoyant open-sources Kinference and NVIDIA speeds RL weight refits]]
+- `2026-11-06` [[2026-11-06-november-7-2026-marktechpost|[November 7, 2026] · [MarkTechPost]]]
+- `2026-11-06` [[2026-11-06-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
+- `2026-11-06` [[2026-11-06-november-6-2026-reuters|[November 6, 2026] · [Reuters]]]
 - `2026-11-06` [[2026-11-06-november-5-2026-the-information|[November 5, 2026] · [The Information]]]
 - `2026-11-06` [[2026-11-06-tsmc-weighs-making-3d-dram-at-nvidia-s-request-as-the-memory|TSMC weighs making 3D DRAM at Nvidia's request as the memory shortage deepens]]
+- `2026-11-06` [[2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste|Microsoft drops Oracle capacity and trims its neocloud roster as GPU futures stall again]]
 - `2026-11-05` [[2026-11-05-november-6-2026-dealbook-2|[November 6, 2026] · [DealBook]]]
 - `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]
 - `2026-11-05` [[2026-11-05-agents-get-an-enterprise-context-layer-box-mcgraw-hill-and-m|Agents get an enterprise context layer: Box, McGraw Hill and multiagent finance]]

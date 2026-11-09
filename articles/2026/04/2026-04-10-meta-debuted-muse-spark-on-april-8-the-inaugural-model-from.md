@@ -5,8 +5,8 @@ title: Meta debuted Muse Spark on April 8, the inaugural model from Meta Superin
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ai.meta.com/blog/introducing-muse-spark-msl/
+url_status: repaired
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 071f06270242f38eeb0922da1a5c71c2089145f65a23e0c28ce8dca3cd6b3714

@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1713
+member_count: 1716
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1713 connected article(s).
+> Auto-generated topic hub. 1716 connected article(s).
 
+- `2026-11-07` [[2026-11-07-november-7-2026-dealbook|[November 7, 2026] · [DealBook]]]
+- `2026-11-06` [[2026-11-06-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
+- `2026-11-06` [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d|Autonomous attack tooling spreads as labs widen access for defenders]]
 - `2026-11-06` [[2026-11-06-black-october-shows-ai-s-edge-going-to-cybercriminals-as-doj|'Black October' shows AI's edge going to cybercriminals as DOJ forms a superintelligence task force]]
 - `2026-11-05` [[2026-11-05-november-6-2026-dealbook-2|[November 6, 2026] · [DealBook]]]
 - `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]

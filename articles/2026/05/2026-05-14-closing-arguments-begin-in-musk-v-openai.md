@@ -4,8 +4,8 @@ title: Closing Arguments Begin in Musk v. OpenAI
 date: '2026-05-14'
 source: Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/sectors/technology/articles/musk-openai-lawyers-begin-closing-165541030.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 278f3cd203cd0d8d4b4080a539ed7f347b7bf53029f03b404ddd7a7a2af3db71

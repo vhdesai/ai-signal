@@ -5,8 +5,8 @@ title: Anthropic issued a formal warning to investors cautioning against seconda
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fintechlaw.ai/blog/anthropic-secondary-market-warning-unauthorized-stock-trades-void
+url_status: repaired
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 85adab3991393a805188ccd84c5a9cfb93143decb2681a0554cab1886292d8ed

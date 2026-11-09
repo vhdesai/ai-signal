@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
-- 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
+- 2026-11-07-november-7-2026-dealbook
 embedding_id: 2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac
 event_name: ''
 ---
@@ -44,5 +44,5 @@ After OpenAI released a lawyer-specific version of its model last week, Sullivan
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]] · [[2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]]
+**Related:** [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]] · [[2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-11-07-november-7-2026-dealbook]]
 <!-- graph:end -->

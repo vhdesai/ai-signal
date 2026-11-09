@@ -4,8 +4,8 @@ title: 'Palantir Q1 2026: Revenue +85% YoY, FY Guidance Raised to $7.65B'
 date: '2026-05-10'
 source: Tech Market Briefs
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 582f11b4f82e20a85b0c56c6fe95a4a041d1827649849ea984fee969bdd27727

@@ -4,8 +4,8 @@ title: 'Altman testifies: Musk "mulled handing OpenAI to his children" in 2017'
 date: '2026-05-12'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: d27be31afb8145eaed2bfc48c394d5e186c50010eb7c82a6ad0c7c6c8f5ae73c

@@ -4,8 +4,8 @@ title: '[arXiv] History Anchors: How Prior Behavior Steers LLMs Toward Unsafe Ac
 date: '2026-05-14'
 source: arXiv:2605.13825  · cs.AI / Safety
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.13825
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: b554fd3e510af2bdb3a95bc1218025ca2e95fa7a305f6f410e7dc0f9dbe91697

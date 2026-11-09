@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1726
+member_count: 1729
 ---
 
 # Google
 
-> Auto-generated entity hub. 1726 connected article(s).
+> Auto-generated entity hub. 1729 connected article(s).
 
+- `2026-11-06` [[2026-11-06-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
+- `2026-11-06` [[2026-11-06-november-6-2026-crusoe|[November 6, 2026] · [Crusoe]]]
 - `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-google-takes-direct-control-of-crusoe-s-troubled-10-gigawatt|Google takes direct control of Crusoe's troubled 10-gigawatt Wyoming campus]]
 - `2026-11-06` [[2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla|Full-page originals: OpenAI Cyber and Alignment, Anthropic/Claude, Google Cloud, Cursor, TechCrunch, Forbes and…]]
 - `2026-11-06` [[2026-11-06-directly-opened-research-pages-mit-news-ai-and-its-rss-feed|Directly opened research pages: MIT News AI and its RSS feed; MIT’s robot-memory story and its EurekAlert copy (older…]]
 - `2026-11-05` [[2026-11-05-november-5-2026-google-cloud-blog|[November 5, 2026] · [Google Cloud Blog]]]

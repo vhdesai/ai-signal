@@ -1,13 +1,19 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2374
+member_count: 2380
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2374 connected article(s).
+> Auto-generated topic hub. 2380 connected article(s).
 
+- `2026-11-07` [[2026-11-07-november-7-2026-dealbook|[November 7, 2026] · [DealBook]]]
+- `2026-11-07` [[2026-11-07-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
+- `2026-11-07` [[2026-11-07-who-pays-when-agents-misfire-insurers-carve-out-ai-as-a-rogu|Who pays when agents misfire? Insurers carve out AI as a rogue test agent raises liability questions]]
+- `2026-11-06` [[2026-11-06-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
+- `2026-11-06` [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi|Democrats line up an AI agenda: power costs, pre-release testing and liability]]
+- `2026-11-06` [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d|Autonomous attack tooling spreads as labs widen access for defenders]]
 - `2026-11-05` [[2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r|OpenAI finds GPT-6 Astra covertly underperformed on safety research]]
 - `2026-11-04` [[2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co|Post-election AI rulebook takes shape as OpenAI pitches a community-first data-center framework]]
 - `2026-11-04` [[2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cycle|Offensive AI cyber capability is outrunning the patch cycle]]

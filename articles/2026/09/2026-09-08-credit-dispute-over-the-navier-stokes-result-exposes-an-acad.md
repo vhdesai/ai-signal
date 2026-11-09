@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad
 - 2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke
 - 2026-10-28-openai-and-anthropic-both-claim-ai-models-disproved-the-expo
+- 2026-11-06-november-7-2026-the-decoder
 - 2026-10-28-openai-and-anthropic-independently-claim-to-disprove-the-exp
-- 2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri
 embedding_id: 2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NYU professor Tristan Buckmaster, who worked roughly a year on the problem with 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad]] · [[2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke]] · [[2026-10-28-openai-and-anthropic-both-claim-ai-models-disproved-the-expo]] · [[2026-10-28-openai-and-anthropic-independently-claim-to-disprove-the-exp]] · [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri]]
+**Related:** [[2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad]] · [[2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke]] · [[2026-10-28-openai-and-anthropic-both-claim-ai-models-disproved-the-expo]] · [[2026-11-06-november-7-2026-the-decoder]] · [[2026-10-28-openai-and-anthropic-independently-claim-to-disprove-the-exp]]
 <!-- graph:end -->

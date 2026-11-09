@@ -1,15 +1,21 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2351
+member_count: 2357
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2351 connected article(s).
+> Auto-generated topic hub. 2357 connected article(s).
 
+- `2026-11-06` [[2026-11-06-november-6-2026-wall-street-journal|[November 6, 2026] · [Wall Street Journal]]]
+- `2026-11-06` [[2026-11-06-november-6-2026-reuters|[November 6, 2026] · [Reuters]]]
+- `2026-11-06` [[2026-11-06-november-6-2026-crusoe|[November 6, 2026] · [Crusoe]]]
 - `2026-11-06` [[2026-11-06-today-s-developments-put-deployment-governance-infrastructur|Today's developments put deployment governance, infrastructure execution and capital-market scrutiny on the same…]]
+- `2026-11-06` [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-ai-companies|The data-center backlash goes transatlantic as AI companies rethink siting]]
 - `2026-11-06` [[2026-11-06-news-outlets-checked-through-search-results-reuters-techcrun|News outlets checked through search results: Reuters, TechCrunch, The Wall Street Journal AI coverage, MarkTechPost,…]]
+- `2026-11-06` [[2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste|Microsoft drops Oracle capacity and trims its neocloud roster as GPU futures stall again]]
+- `2026-11-06` [[2026-11-06-google-takes-direct-control-of-crusoe-s-troubled-10-gigawatt|Google takes direct control of Crusoe's troubled 10-gigawatt Wyoming campus]]
 - `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]
 - `2026-11-04` [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu|Optics becomes the AI choke point: rival-bid talk for Lumentum and a fiber squeeze]]
 - `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]

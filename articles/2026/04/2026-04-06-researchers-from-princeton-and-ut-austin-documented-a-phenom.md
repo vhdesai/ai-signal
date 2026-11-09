@@ -5,8 +5,8 @@ title: Researchers from Princeton and UT Austin documented a phenomenon in which
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://autonomy.oden.utexas.edu/news/ut-austin-researchers-identify-brain-rot-effect-large-language-models
+url_status: repaired
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: 2a6d92982fc599a5dc80a7972e5fd5748aa09ef64ac67d9c5af54a974ee5cc51

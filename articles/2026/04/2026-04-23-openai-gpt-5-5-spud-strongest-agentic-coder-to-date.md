@@ -4,8 +4,8 @@ title: OpenAI GPT-5.5 ("Spud") — Strongest Agentic Coder to Date
 date: '2026-04-23'
 source: OpenAI / TheAITrack
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiindigo.com/blog/gpt-5-5-spud-released-analysis
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 7bdd946fe749830b26792d82fe2775658d9baefb8c5c5ff4a4b730bf11ba06c3

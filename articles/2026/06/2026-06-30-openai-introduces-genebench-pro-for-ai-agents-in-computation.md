@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
+- 2026-11-06-ai-for-science-gets-measured-and-agents-still-fabricate
 - 2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment
 - 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
-- 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 embedding_id: 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI released GeneBench-Pro, a research-level benchmark measuring how AI agent
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
+**Related:** [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-11-06-ai-for-science-gets-measured-and-agents-still-fabricate]] · [[2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]]
 <!-- graph:end -->

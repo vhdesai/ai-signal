@@ -4,8 +4,8 @@ title: HotAnthropic "Teaching Claude Why" — A New Methodology for Principled A
 date: '2026-05-08'
 source: Anthropic Research
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/research/teaching-claude-why
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: a20cf8f623f3bc0c85104e5d21038f86c326954ef715182be49cba92bd611ee8

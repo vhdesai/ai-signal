@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token
 - 2026-09-15-commerce-department-reportedly-ordered-kalshi-to-pull-its-ai
+- 2026-11-06-november-6-2026-reuters
 - 2026-08-26-nasdaq-futures-edge-lower-ahead-of-pce-data-and-nvidia-earni
 - 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
 embedding_id: 2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent
@@ -40,5 +41,5 @@ The Information reports the CFTC has extended its review of CME Group's planned 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token]] · [[2026-09-15-commerce-department-reportedly-ordered-kalshi-to-pull-its-ai]] · [[2026-08-26-nasdaq-futures-edge-lower-ahead-of-pce-data-and-nvidia-earni]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]]
+**Related:** [[2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token]] · [[2026-09-15-commerce-department-reportedly-ordered-kalshi-to-pull-its-ai]] · [[2026-11-06-november-6-2026-reuters]] · [[2026-08-26-nasdaq-futures-edge-lower-ahead-of-pce-data-and-nvidia-earni]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]]
 <!-- graph:end -->

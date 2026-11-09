@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5177
+member_count: 5185
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5177 connected article(s).
+> Auto-generated topic hub. 5185 connected article(s).
 
+- `2026-11-07` [[2026-11-07-november-6-2026-techcrunch|[November 6, 2026] · [TechCrunch]]]
+- `2026-11-07` [[2026-11-07-inference-plumbing-matures-buoyant-open-sources-kinference-a|Inference plumbing matures: Buoyant open-sources Kinference and NVIDIA speeds RL weight refits]]
+- `2026-11-06` [[2026-11-06-november-7-2026-marktechpost|[November 7, 2026] · [MarkTechPost]]]
+- `2026-11-06` [[2026-11-06-november-6-2026-the-information|[November 6, 2026] · [The Information]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-dealbook|[November 6, 2026] · [DealBook]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-business-insider-2|[November 6, 2026] · [Business Insider]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-business-insider|[November 6, 2026] · [Business Insider]]]
@@ -17,9 +21,13 @@ member_count: 5177
 - `2026-11-06` [[2026-11-06-tsmc-weighs-making-3d-dram-at-nvidia-s-request-as-the-memory|TSMC weighs making 3D DRAM at Nvidia's request as the memory shortage deepens]]
 - `2026-11-06` [[2026-11-06-selection-limits-meta-s-data-center-story-date-only-cornell|Selection limits: Meta’s data-center story, date-only Cornell and CMU stories, the Princeton paper with inferred…]]
 - `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-frontier-lab-valuations-reset-openai-banks-11-billion-as-ant|Frontier-lab valuations reset: OpenAI banks $11 billion as Anthropic heads into a cooler roadshow]]
 - `2026-11-06` [[2026-11-06-evidence-standard-these-five-summaries-and-publication-times|Evidence standard: These five summaries and publication timestamps were verified against indexed publisher bylines and…]]
 - `2026-11-06` [[2026-11-06-earlier-discovery-corroboration-included-reuters-bloomberg-y|Earlier discovery/corroboration included Reuters, Bloomberg/Yahoo, CNBC, Axios, VentureBeat, SecurityWeek, Android…]]
+- `2026-11-06` [[2026-11-06-consumer-agents-get-persistent-meta-launches-muse-spaces-as|Consumer agents get persistent: Meta launches Muse Spaces as Amazon lets shoppers text Alexa]]
+- `2026-11-06` [[2026-11-06-consumer-agents-become-persistent-and-marketplaces-build-the|Consumer agents become persistent, and marketplaces build their own]]
 - `2026-11-06` [[2026-11-06-access-and-metadata-gaps-wsj-bodies-and-the-information-arti|Access and metadata gaps: WSJ bodies and The Information articles were paywalled; Bloomberg/FT originals were not…]]
+- `2026-11-06` [[2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta|AI's unit economics tighten: token use climbs while spend stalls and venture returns lean on markups]]
 - `2026-11-06` [[2026-11-06-black-october-shows-ai-s-edge-going-to-cybercriminals-as-doj|'Black October' shows AI's edge going to cybercriminals as DOJ forms a superintelligence task force]]
 - `2026-11-05` [[2026-11-05-november-6-2026-dealbook-2|[November 6, 2026] · [DealBook]]]
 - `2026-11-05` [[2026-11-05-november-6-2026-dealbook|[November 6, 2026] · [DealBook]]]

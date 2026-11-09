@@ -24,6 +24,7 @@ canonical_article_id: 2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-ful
 related_article_ids:
 - 2026-10-12-meta-releases-muse-wonder-its-first-frontier-model
 - 2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai
+- 2026-11-06-meta-deploys-specialized-muse-and-meta-ai-models-with-active
 - 2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model
 embedding_id: 2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full-as-frontier
 event_name: ''
@@ -39,5 +40,5 @@ Meta announced Muse Wonder through its API and Muse Code, plus a subscriber-only
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full]]
-**Related:** [[2026-10-12-meta-releases-muse-wonder-its-first-frontier-model]] · [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai]] · [[2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model]]
+**Related:** [[2026-10-12-meta-releases-muse-wonder-its-first-frontier-model]] · [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai]] · [[2026-11-06-meta-deploys-specialized-muse-and-meta-ai-models-with-active]] · [[2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: 'DeepSeek-TUI: Terminal-Based Programming Agent for DeepSeek V4'
 date: '2026-05-09'
 source: AIToolly
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolly.com/ai-news/article/2026-05-09-deepseek-tui-a-specialized-terminal-based-programming-agent-for-deepseek-v4-integration
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: f538cfbfd419eddb8b5443e7c769e9b76252b66cc533362f2fc0879fc7c3975e

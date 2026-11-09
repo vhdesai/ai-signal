@@ -5,8 +5,8 @@ title: Thinking Machines Lab Debuts TML-Interaction-Small — Full-Duplex AI Tha
 date: '2026-05-13'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: fe057dbea2fdc7d772b78b04a93932b771863bfadb06e56511377f224f2b6836

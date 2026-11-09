@@ -5,8 +5,8 @@ title: AI Recovers 11-Year-Old Bitcoin Wallet Worth $400K via 3.5 Trillion Passw
 date: '2026-05-14'
 source: Hacker News / Various
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techspot.com/news/112421-man-who-lost-bitcoin-wallet-password-while-high.html
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 1883caa117fd308618bef98612c0ffe7dd9207b856a6fe0fa06216d42485c96c

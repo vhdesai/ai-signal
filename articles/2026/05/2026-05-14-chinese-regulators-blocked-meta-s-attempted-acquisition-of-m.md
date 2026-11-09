@@ -5,8 +5,8 @@ title: Chinese regulators blocked Meta's attempted acquisition of Manus — the 
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/08/11/manus-china-meta-acquisition.html
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 6e0aac03cfa1aa5cfc001ac17f80c3b0f9ed293f2732b7896a0caab20a1b4b62

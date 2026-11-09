@@ -5,8 +5,8 @@ title: A team led by Cesar de la Fuente-Nunez published research in Nature Machi
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nature.com/articles/s41587-022-01327-w
+url_status: repaired
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 50a40640d2af8f784264441ed5fa58cca9ac5838ebb96002b2be21e9f6e56240

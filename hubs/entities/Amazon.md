@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 759
+member_count: 761
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 759 connected article(s).
+> Auto-generated entity hub. 761 connected article(s).
 
 - `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-consumer-agents-get-persistent-meta-launches-muse-spaces-as|Consumer agents get persistent: Meta launches Muse Spaces as Amazon lets shoppers text Alexa]]
+- `2026-11-06` [[2026-11-06-consumer-agents-become-persistent-and-marketplaces-build-the|Consumer agents become persistent, and marketplaces build their own]]
 - `2026-11-04` [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu|Optics becomes the AI choke point: rival-bid talk for Lumentum and a fiber squeeze]]
 - `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]

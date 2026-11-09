@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-10-13-anthropic-discloses-its-internal-replacement-for-git
 - 2026-10-19-anthropic-public-benefit-pledge-draws-market-debate
 - 2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before
 - 2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun
+- 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
 embedding_id: 2026-10-18-anthropic-governance-timing-exception-anthropic-proposes-a-p
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic proposed committing 5% of its shares to a public-benefit fund, subject
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-13-anthropic-discloses-its-internal-replacement-for-git]] · [[2026-10-19-anthropic-public-benefit-pledge-draws-market-debate]] · [[2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before]] · [[2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun]]
+**Related:** [[2026-10-19-anthropic-public-benefit-pledge-draws-market-debate]] · [[2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before]] · [[2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]]
 <!-- graph:end -->

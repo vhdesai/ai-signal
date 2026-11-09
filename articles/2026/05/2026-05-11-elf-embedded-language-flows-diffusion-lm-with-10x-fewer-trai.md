@@ -4,8 +4,8 @@ title: 'ELF: Embedded Language Flows — Diffusion LM with 10x Fewer Training To
 date: '2026-05-11'
 source: arXiv
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.10938
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: f7b22760bd15d8a7c53c014a9a0404c1b623ed40d8d4743825b3c4692394aa60

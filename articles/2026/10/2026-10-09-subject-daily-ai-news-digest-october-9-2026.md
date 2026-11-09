@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
-- 2026-08-09-daily-ai-news-digest-august-10-2026
+- 2026-11-06-november-6-2026-techcrunch-2
 embedding_id: 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 event_name: ''
 ---
@@ -49,5 +49,5 @@ Key themes this edition: AI Safety & Policy (5): OpenAI fires three safety resea
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-09-daily-ai-news-digest-august-10-2026]]
+**Related:** [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-11-06-november-6-2026-techcrunch-2]]
 <!-- graph:end -->

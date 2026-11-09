@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp
 - 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
 - 2026-09-25-meta-muse-opens-early-access-program-gets-full-meta-marketin
+- 2026-11-06-consumer-agents-become-persistent-and-marketplaces-build-the
 - 2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory
-- 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
 embedding_id: 2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Appfigures estimates that Meta's Muse has racked up more US/Canada downloads and
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp]] · [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-09-25-meta-muse-opens-early-access-program-gets-full-meta-marketin]] · [[2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory]] · [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions]]
+**Related:** [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp]] · [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-09-25-meta-muse-opens-early-access-program-gets-full-meta-marketin]] · [[2026-11-06-consumer-agents-become-persistent-and-marketplaces-build-the]] · [[2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory]]
 <!-- graph:end -->

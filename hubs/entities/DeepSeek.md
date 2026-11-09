@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 580
+member_count: 581
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 580 connected article(s).
+> Auto-generated entity hub. 581 connected article(s).
 
+- `2026-11-07` [[2026-11-07-november-7-2026-dealbook|[November 7, 2026] · [DealBook]]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]

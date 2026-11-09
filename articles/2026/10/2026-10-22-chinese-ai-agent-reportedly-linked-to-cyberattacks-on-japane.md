@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr
+- 2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 - 2026-09-05-ai-agents-in-cyberattacks-target-asian-governments
-- 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
 embedding_id: 2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ Pro Cybersecurity describes a Japanese security firm's attribution linking C
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-09-05-ai-agents-in-cyberattacks-target-asian-governments]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]]
+**Related:** [[2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr]] · [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-09-05-ai-agents-in-cyberattacks-target-asian-governments]]
 <!-- graph:end -->

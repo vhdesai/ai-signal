@@ -4,8 +4,8 @@ title: TSMC weighs making 3D DRAM at Nvidia's request as the memory shortage dee
 date: '2026-11-06'
 source: '[The Information]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=TSMC+memory+chips
-url_canonical: https://thenextweb.com/news/tsmc-3d-dram-memory-chips-nvidia
-url_status: repaired
+url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=TSMC+memory+chips
+url_status: broken
 digest_source: digests\raw\2026-11-06_070742_Inbox_Daily AI News Digest - November
   6, 2026.md
 content_hash: ddaabfb282da106f7cc01ca3057fbc5ff2f2bbf95cd968bbcd94709637a9d730

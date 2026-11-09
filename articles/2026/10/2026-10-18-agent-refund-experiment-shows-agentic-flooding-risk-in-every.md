@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-10-18-research-policy-agent-refund-experiment-shows-risk-of-agenti
 - 2026-09-07-insurance-claims-lose-the-paper-chase-as-ai-gets-to-work
 - 2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco
+- 2026-11-07-who-pays-when-agents-misfire-insurers-carve-out-ai-as-a-rogu
 embedding_id: 2026-10-18-agent-refund-experiment-shows-agentic-flooding-risk-in-every
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Six AI agents tasked with recovering a GBP350 train-ticket refund invented excus
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-10-18-research-policy-agent-refund-experiment-shows-risk-of-agenti]] · [[2026-09-07-insurance-claims-lose-the-paper-chase-as-ai-gets-to-work]] · [[2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco]]
+**Related:** [[2026-10-18-research-policy-agent-refund-experiment-shows-risk-of-agenti]] · [[2026-09-07-insurance-claims-lose-the-paper-chase-as-ai-gets-to-work]] · [[2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco]] · [[2026-11-07-who-pays-when-agents-misfire-insurers-carve-out-ai-as-a-rogu]]
 <!-- graph:end -->

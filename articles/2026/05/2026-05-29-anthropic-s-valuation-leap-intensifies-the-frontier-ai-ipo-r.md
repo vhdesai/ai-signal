@@ -6,7 +6,7 @@ source: DealBook; May 29, 2026 · PitchBook; May 29, 2026 · Business Insider; M
   2026 · The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic-raises-65-billion-at-900-billion-valuation
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic-raises-65-billion-at-900-billion-valuation
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: a465f9ef6ce0948a5668b247adcc79466abbad0fa7d99dc5ee7a62766f43fa91
@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com
 - 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
+- 2026-11-06-frontier-lab-valuations-reset-openai-banks-11-billion-as-ant
 - 2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the
-- 2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the
 embedding_id: 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Multiple newsletters led with Anthropic’s new financing and valuation, portray
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the]] · [[2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the]]
+**Related:** [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-11-06-frontier-lab-valuations-reset-openai-banks-11-billion-as-ant]] · [[2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the]]
 <!-- graph:end -->

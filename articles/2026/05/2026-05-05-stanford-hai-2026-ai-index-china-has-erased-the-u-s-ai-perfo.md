@@ -4,8 +4,8 @@ title: 'Stanford HAI 2026 AI Index: China has erased the U.S. AI performance gap
 date: '2026-05-05'
 source: Stanford HAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 14f1a7e25d5932ba3b679e1bc374dc98911f5d7f7b8607dcabbc12cba3ce6dd4
 normalized_title_hash: b3f3c8e93f66bcc3

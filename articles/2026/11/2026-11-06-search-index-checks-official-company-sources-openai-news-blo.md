@@ -5,8 +5,8 @@ title: 'Search-index checks — official company sources: OpenAI news, blog, and
 date: '2026-11-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://arxiv.org/abs/2601.03267
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-06_060450_Inbox_Daily AI News Digest - November
   6, 2026.md
 content_hash: ec3c87734583002d750a7cf7403de7f5f2667d102f53019597b51f3fd0a8b625

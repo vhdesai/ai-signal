@@ -5,7 +5,7 @@ date: '2026-10-29'
 source: '[The Information]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Marvell+Lumentum
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Marvell+Lumentum
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-29_065728_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: 68ef900c8ae72355e3624a27188cc903e93425d182b42ded69b0a9fe21fa3ee1

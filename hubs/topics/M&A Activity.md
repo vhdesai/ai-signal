@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 542
+member_count: 543
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 542 connected article(s).
+> Auto-generated topic hub. 543 connected article(s).
 
+- `2026-11-06` [[2026-11-06-google-takes-direct-control-of-crusoe-s-troubled-10-gigawatt|Google takes direct control of Crusoe's troubled 10-gigawatt Wyoming campus]]
 - `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]
 - `2026-11-05` [[2026-11-05-airbnb-discloses-ties-to-brian-chesky-s-secretive-self-funde|Airbnb discloses ties to Brian Chesky's secretive, self-funded AI lab]]
 - `2026-11-04` [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu|Optics becomes the AI choke point: rival-bid talk for Lumentum and a fiber squeeze]]

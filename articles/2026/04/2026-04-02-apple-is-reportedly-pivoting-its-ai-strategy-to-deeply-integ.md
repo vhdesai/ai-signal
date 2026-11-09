@@ -11,8 +11,8 @@ title: Apple is reportedly pivoting its AI strategy to deeply integrate third-pa
 date: '2026-04-02'
 source: 🔥 TRENDING IBM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/apple-google-gemini-siri-deal-1-billion-2026/
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: c814963e37d9ef48dd143c4d95d5c66c4086bdd6fae5f9e712579eede1d5739f

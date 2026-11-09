@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
 - 2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex
 - 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
-- 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-silicon-to-neocloud
+- 2026-11-06-november-6-2026-reuters
 embedding_id: 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alphabet is reportedly leaning on third-party GPU capacity from providers such a
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-silicon-to-neocloud]]
+**Related:** [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-11-06-november-6-2026-reuters]]
 <!-- graph:end -->

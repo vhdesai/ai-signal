@@ -5,8 +5,8 @@ title: In a notable policy reversal, the Trump administration signed safety eval
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techechelon.com/post/trump-administration-signs-ai-safety-testing-agreements-with-google-deepmind-microsoft-and-xai
+url_status: repaired
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: 71a5ec535201a1a9bba6aef4343e01d84021921d0a88542e1a27b4ddb7d92da7
 normalized_title_hash: 347b5746457b2fa0

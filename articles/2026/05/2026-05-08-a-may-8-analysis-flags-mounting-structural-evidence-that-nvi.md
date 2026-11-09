@@ -5,8 +5,8 @@ title: A May 8 analysis flags mounting structural evidence that Nvidia's AI chip
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/nvidia-custom-chip-rivals-openai-google-microsoft-amazon-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: 951839ff0dd398f085b593d10c6c647e45406d518d6c70a1a451eca0a29ded38
 normalized_title_hash: c7f96c70fd2993bc

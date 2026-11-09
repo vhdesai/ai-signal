@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin
 - 2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri
+- 2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi
 - 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
-- 2026-09-13-obama-urges-democrats-to-make-ai-safeguards-a-central-agenda
 embedding_id: 2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Senator Ed Markey (D-MA) rolled out a roughly dozen-bill “AI accountability ag
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin]] · [[2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-09-13-obama-urges-democrats-to-make-ai-safeguards-a-central-agenda]]
+**Related:** [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin]] · [[2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri]] · [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]]
 <!-- graph:end -->

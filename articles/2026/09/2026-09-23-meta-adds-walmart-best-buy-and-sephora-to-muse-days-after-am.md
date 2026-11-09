@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
 - 2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec
 - 2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
-- 2026-09-27-can-muse-overcome-meta-s-trust-issues
+- 2026-11-06-consumer-agents-get-persistent-meta-launches-muse-spaces-as
 embedding_id: 2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Chief AI officer Alexandr Wang announced new retail partners for Meta's consumer
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]] · [[2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]] · [[2026-09-27-can-muse-overcome-meta-s-trust-issues]]
+**Related:** [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]] · [[2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]] · [[2026-11-06-consumer-agents-get-persistent-meta-launches-muse-spaces-as]]
 <!-- graph:end -->

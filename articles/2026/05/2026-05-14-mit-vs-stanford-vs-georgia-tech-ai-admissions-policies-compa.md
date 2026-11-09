@@ -5,8 +5,8 @@ title: 'MIT vs. Stanford vs. Georgia Tech: AI admissions policies compared — G
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://gradpilot.com/news/mit-stanford-georgia-tech-ai-policies
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: ba50ace6564e4da1ac43ada0855c38d3d7392770af91d96a2f502eb3a8faa919

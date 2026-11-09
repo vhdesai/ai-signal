@@ -5,8 +5,8 @@ title: analysis out this morning highlights that Alphabet's $180–$190B AI-driv
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aidailypost.com/news/google-plans-usd-180190-b-capexsixfold-riseto-power-ai-agents-like
+url_status: repaired
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: b63d56ae78b8d8b4cc274650adbebbba9a510a9c7f72933dd8d9f40830fc5df4

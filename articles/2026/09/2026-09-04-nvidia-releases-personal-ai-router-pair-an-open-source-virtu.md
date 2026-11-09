@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-09-04-nvidia-wants-to-turn-idle-pcs-into-a-personal-home-data-cent
 - 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
 - 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
+- 2026-11-06-november-7-2026-marktechpost
 embedding_id: 2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu
 event_name: ''
 ---
@@ -38,5 +39,5 @@ PAIR (Apache-2.0, public beta v0.1.1) discovers compatible machines on a local n
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-nvidia-wants-to-turn-idle-pcs-into-a-personal-home-data-cent]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]] · [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]]
+**Related:** [[2026-09-04-nvidia-wants-to-turn-idle-pcs-into-a-personal-home-data-cent]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]] · [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-11-06-november-7-2026-marktechpost]]
 <!-- graph:end -->

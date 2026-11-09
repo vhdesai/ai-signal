@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-16-ai-super-pacs-flood-money-into-state-elections
 - 2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight
-- 2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue
+- 2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi
 embedding_id: 2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Super PACs on both sides of the AI regulation debate are pouring money into stat
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-16-ai-super-pacs-flood-money-into-state-elections]] · [[2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight]] · [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue]]
+**Related:** [[2026-08-16-ai-super-pacs-flood-money-into-state-elections]] · [[2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight]] · [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi]]
 <!-- graph:end -->

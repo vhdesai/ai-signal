@@ -5,8 +5,8 @@ title: A supply chain security breach at Mercor — a platform widely used to so
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.mercor.com/blog/update-on-mercor-security-incident/
+url_status: repaired
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: 2598be625264fd321cfddee46261e5b041d2a67a8aa9b7d25d2527d35be5b88f

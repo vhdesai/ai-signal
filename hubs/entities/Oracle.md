@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 329
+member_count: 332
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 329 connected article(s).
+> Auto-generated entity hub. 332 connected article(s).
 
+- `2026-11-06` [[2026-11-06-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
+- `2026-11-06` [[2026-11-06-november-6-2026-reuters|[November 6, 2026] · [Reuters]]]
+- `2026-11-06` [[2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste|Microsoft drops Oracle capacity and trims its neocloud roster as GPU futures stall again]]
 - `2026-11-06` [[2026-11-06-additional-site-grouped-searches-cerebras-oracle-ibm-bair-pu|Additional site/grouped searches: Cerebras, Oracle, IBM; BAIR, Purdue, Georgia Tech, University of Washington, UT…]]
 - `2026-11-03` [[2026-11-03-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]

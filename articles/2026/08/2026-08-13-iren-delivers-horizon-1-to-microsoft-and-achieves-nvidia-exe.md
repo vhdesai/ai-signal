@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-23-oracle-cloud-infrastructure-receives-nvidia-exemplar-cloud-v
 - 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
 - 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
-- 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
+- 2026-11-06-november-6-2026-reuters
 embedding_id: 2026-08-13-iren-delivers-horizon-1-to-microsoft-and-achieves-nvidia-exe
 event_name: ''
 ---
@@ -41,5 +41,5 @@ IREN delivered its Horizon 1 facility to Microsoft and secured NVIDIA Exemplar C
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-23-oracle-cloud-infrastructure-receives-nvidia-exemplar-cloud-v]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]]
+**Related:** [[2026-08-23-oracle-cloud-infrastructure-receives-nvidia-exemplar-cloud-v]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-11-06-november-6-2026-reuters]]
 <!-- graph:end -->

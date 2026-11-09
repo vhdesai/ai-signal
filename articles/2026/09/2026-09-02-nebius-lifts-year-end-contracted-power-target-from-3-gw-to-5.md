@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
 - 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
 - 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
-- 2026-08-21-gpu-neocloud-comparison-ranks-providers-by-pricing-and-contr
+- 2026-11-06-november-6-2026-reuters
 embedding_id: 2026-09-02-nebius-lifts-year-end-contracted-power-target-from-3-gw-to-5
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nebius Group raised its year-end contracted power target from more than 3 gigawa
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-08-21-gpu-neocloud-comparison-ranks-providers-by-pricing-and-contr]]
+**Related:** [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-11-06-november-6-2026-reuters]]
 <!-- graph:end -->

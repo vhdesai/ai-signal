@@ -4,8 +4,8 @@ title: Anthropic and Google DeepMind publish joint RSP alignment update
 date: '2026-04-23'
 source: Anthropic / Google DeepMind blogs
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/responsible-scaling-policy-v3
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: cef5bc44e78a076e76f855ad45716074fbf36b4b9170f2c8850b5927cdbbe2c0

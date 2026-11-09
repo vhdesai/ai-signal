@@ -1,16 +1,21 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 962
+member_count: 967
 ---
 
 # Meta
 
-> Auto-generated entity hub. 962 connected article(s).
+> Auto-generated entity hub. 967 connected article(s).
 
+- `2026-11-06` [[2026-11-06-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-business-insider|[November 6, 2026] · [Business Insider]]]
 - `2026-11-06` [[2026-11-06-selection-limits-meta-s-data-center-story-date-only-cornell|Selection limits: Meta’s data-center story, date-only Cornell and CMU stories, the Princeton paper with inferred…]]
 - `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-meta-deploys-specialized-muse-models-with-active-memory-and|Meta deploys specialized Muse models with Active Memory and Active Focus]]
+- `2026-11-06` [[2026-11-06-meta-deploys-specialized-muse-and-meta-ai-models-with-active|Meta deploys specialized Muse and Meta AI models with Active Memory and Active Focus]]
+- `2026-11-06` [[2026-11-06-consumer-agents-get-persistent-meta-launches-muse-spaces-as|Consumer agents get persistent: Meta launches Muse Spaces as Amazon lets shoppers text Alexa]]
+- `2026-11-06` [[2026-11-06-consumer-agents-become-persistent-and-marketplaces-build-the|Consumer agents become persistent, and marketplaces build their own]]
 - `2026-11-06` [[2026-11-06-access-and-coverage-gaps-axios-ai-was-not-effectively-checke|Access and coverage gaps: Axios AI+ was not effectively checked: searches returned old or indirect results]]
 - `2026-11-05` [[2026-11-05-airbnb-discloses-ties-to-brian-chesky-s-secretive-self-funde|Airbnb discloses ties to Brian Chesky's secretive, self-funded AI lab]]
 - `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]

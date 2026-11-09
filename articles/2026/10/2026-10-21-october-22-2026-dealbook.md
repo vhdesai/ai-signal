@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-10-22-meta-reshapes-financing-as-ai-spend-surges-and-muse-monetiza
 - 2026-10-26-meta-s-muse-passes-10-million-users-putting-monetization-in
 - 2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark
+- 2026-11-07-november-6-2026-techcrunch
 - 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
-- 2026-10-26-meta-s-muse-reaches-10-million-downloads-shifting-focus-to-m
 embedding_id: 2026-10-21-october-22-2026-dealbook
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DealBook reported Meta's governance and capital-structure moves against the back
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-10-22-meta-reshapes-financing-as-ai-spend-surges-and-muse-monetiza]] · [[2026-10-26-meta-s-muse-passes-10-million-users-putting-monetization-in]] · [[2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-10-26-meta-s-muse-reaches-10-million-downloads-shifting-focus-to-m]]
+**Related:** [[2026-10-22-meta-reshapes-financing-as-ai-spend-surges-and-muse-monetiza]] · [[2026-10-26-meta-s-muse-passes-10-million-users-putting-monetization-in]] · [[2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark]] · [[2026-11-07-november-6-2026-techcrunch]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]]
 <!-- graph:end -->

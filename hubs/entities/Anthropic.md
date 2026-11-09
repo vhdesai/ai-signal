@@ -1,18 +1,26 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2538
+member_count: 2546
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2538 connected article(s).
+> Auto-generated entity hub. 2546 connected article(s).
 
+- `2026-11-07` [[2026-11-07-november-6-2026-techcrunch|[November 6, 2026] · [TechCrunch]]]
+- `2026-11-06` [[2026-11-06-november-7-2026-the-decoder|[November 7, 2026] · [The Decoder]]]
+- `2026-11-06` [[2026-11-06-november-6-2026-the-information|[November 6, 2026] · [The Information]]]
+- `2026-11-06` [[2026-11-06-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-dealbook|[November 6, 2026] · [DealBook]]]
 - `2026-11-06` [[2026-11-06-november-5-2026-metr|[November 5, 2026] · [METR]]]
 - `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-lab-says-an-unreleased-anthropic-model-helped-prove-a-quantu|Lab says an unreleased Anthropic model helped prove a quantum-computing conjecture open since 2008]]
 - `2026-11-06` [[2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla|Full-page originals: OpenAI Cyber and Alignment, Anthropic/Claude, Google Cloud, Cursor, TechCrunch, Forbes and…]]
+- `2026-11-06` [[2026-11-06-frontier-lab-valuations-reset-openai-banks-11-billion-as-ant|Frontier-lab valuations reset: OpenAI banks $11 billion as Anthropic heads into a cooler roadshow]]
 - `2026-11-06` [[2026-11-06-evidence-standard-these-five-summaries-and-publication-times|Evidence standard: These five summaries and publication timestamps were verified against indexed publisher bylines and…]]
+- `2026-11-06` [[2026-11-06-ai-for-science-gets-measured-and-agents-still-fabricate|AI-for-science gets measured, and agents still fabricate]]
+- `2026-11-06` [[2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta|AI's unit economics tighten: token use climbs while spend stalls and venture returns lean on markups]]
 - `2026-11-05` [[2026-11-05-november-6-2026-dealbook-2|[November 6, 2026] · [DealBook]]]
 - `2026-11-05` [[2026-11-05-november-5-2026-anthropic|[November 5, 2026] · [Anthropic]]]
 - `2026-11-04` [[2026-11-04-coding-agent-arms-race-meta-buys-conductor-as-openai-lands-c|Coding-agent arms race: Meta buys Conductor as OpenAI lands Claude Code's product chief]]

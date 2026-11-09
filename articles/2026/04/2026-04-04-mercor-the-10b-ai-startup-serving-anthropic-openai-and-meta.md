@@ -5,8 +5,8 @@ title: Mercor, the $10B AI startup serving Anthropic, OpenAI, and Meta, confirme
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aiworldmeter.com/blog/mercor-ai-data-breach-litellm-supply-chain-2026
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 6d4e9bad0b0e1c29efa2a1a784eeb5ed6726c20e0304928ae6001fd447fa720f

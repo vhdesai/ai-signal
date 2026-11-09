@@ -4,8 +4,8 @@ title: GPT-5.5 and Codex Now on AWS Bedrock
 date: '2026-05-10'
 source: Dev Weekly / The Register
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-openai-models-codex-generally-available/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: d7ee12345c7689b8bc9934a350f1b4c5b59060ada90c0c9aba1b6b8404d8d432

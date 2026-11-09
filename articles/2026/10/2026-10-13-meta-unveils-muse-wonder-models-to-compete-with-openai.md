@@ -25,8 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full
+- 2026-11-06-meta-deploys-specialized-muse-and-meta-ai-models-with-active
 - 2026-10-12-meta-releases-muse-wonder-its-first-frontier-model
-- 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 embedding_id: 2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta unveiled Muse Wonder, a stronger model family for its Muse assistant, with 
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full]] · [[2026-10-12-meta-releases-muse-wonder-its-first-frontier-model]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]]
+**Related:** [[2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full]] · [[2026-11-06-meta-deploys-specialized-muse-and-meta-ai-models-with-active]] · [[2026-10-12-meta-releases-muse-wonder-its-first-frontier-model]]
 <!-- graph:end -->

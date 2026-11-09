@@ -4,8 +4,8 @@ title: Khosla Ventures Bets $10M on Synthetic AI's Autonomous Bookkeeping Platfo
 date: '2026-05-14'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: f8a6edf5c2d719f1147c458fc10a43f19bd336d1d45608bdbc3a6bcd685cdf35
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour
+- 2026-11-07-november-7-2026-dealbook
 - 2026-07-18-index-ventures-co-founder-warns-ai-wealth-may-be-redistribut
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 - 2026-09-21-tabby-uses-ai-to-automate-bookkeeping-for-small-businesses
-- 2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents
 embedding_id: 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Khosla Ventures led a $10M seed round in Synthetic AI, co-founded by Ian Crosby 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour]] · [[2026-07-18-index-ventures-co-founder-warns-ai-wealth-may-be-redistribut]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-09-21-tabby-uses-ai-to-automate-bookkeeping-for-small-businesses]] · [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]]
+**Related:** [[2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour]] · [[2026-11-07-november-7-2026-dealbook]] · [[2026-07-18-index-ventures-co-founder-warns-ai-wealth-may-be-redistribut]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-09-21-tabby-uses-ai-to-automate-bookkeeping-for-small-businesses]]
 <!-- graph:end -->

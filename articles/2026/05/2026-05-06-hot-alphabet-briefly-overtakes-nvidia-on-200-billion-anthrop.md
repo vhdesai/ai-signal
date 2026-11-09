@@ -5,8 +5,8 @@ title: Hot Alphabet Briefly Overtakes Nvidia on $200 Billion Anthropic–Google 
 date: '2026-05-06'
 source: CNBC / ToolsCompare.ai
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/video/2026/05/05/alphabet-briefly-tops-nvidia-after-report-of-200-billion-anthropic-cloud-deal.html
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 84df00c748826ec8b05358646fd3de5d7c9ef2cbf8badcae487c666b00ffc582

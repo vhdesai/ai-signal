@@ -5,8 +5,8 @@ title: In the most significant Android hardware-and-software announcement in yea
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://webman.tech/blog/google-android-show-2026-all-announcements
+url_status: repaired
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 6362723143480f74ea432b29d278d8c72a0d850c8f0f1635738cd0b0fc2e7028

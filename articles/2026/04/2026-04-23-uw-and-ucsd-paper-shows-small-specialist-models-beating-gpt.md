@@ -5,8 +5,8 @@ title: UW and UCSD paper shows small specialist models beating GPT-scale general
 date: '2026-04-23'
 source: Machine Learning Mastery / The Batch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.29744
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 4cb65e2ebc04b9d7d126e9efd124083cbf50a63f6102db8842b07d5904931320

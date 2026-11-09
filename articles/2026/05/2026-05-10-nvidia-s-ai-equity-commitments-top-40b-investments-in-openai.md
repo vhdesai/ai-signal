@@ -5,8 +5,8 @@ title: NVIDIA's AI Equity Commitments Top $40B — Investments in OpenAI, Anthro
 date: '2026-05-10'
 source: 📅 May 10, 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaiinsider.tech/2026/05/11/nvidia-commits-over-40b-to-ai-equity-deals-in-2026-led-by-30b-openai-investment/
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 6f893a6eba0881ddf2644eeac790d478f34bc1728b09fac645ab1d046554b872

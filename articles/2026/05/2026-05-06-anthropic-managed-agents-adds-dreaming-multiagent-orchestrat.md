@@ -4,8 +4,8 @@ title: Anthropic Managed Agents Adds Dreaming, Multiagent Orchestration & Memory
 date: '2026-05-06'
 source: Anthropic / Ars Technica
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 1a246d76a072c3ddfa279e38a1c62f49827d075ad1a90489ce5ff4f965520326

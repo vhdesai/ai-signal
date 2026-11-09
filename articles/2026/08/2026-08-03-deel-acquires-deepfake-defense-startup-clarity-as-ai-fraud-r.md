@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
 - 2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-11-07-november-7-2026-dealbook
 embedding_id: 2026-08-03-deel-acquires-deepfake-defense-startup-clarity-as-ai-fraud-r
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Payroll and HR unicorn Deel said Monday it has acquired Clarity, an Israeli AI-s
 ## Connections
 
 **Topics:** [[M&A Activity]]
-**Related:** [[2026-08-03-deel-s-acquisition-of-clarity-shows-deepfake-defense-moving]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Related:** [[2026-08-03-deel-s-acquisition-of-clarity-shows-deepfake-defense-moving]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-11-07-november-7-2026-dealbook]]
 <!-- graph:end -->

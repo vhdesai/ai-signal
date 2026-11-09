@@ -4,8 +4,8 @@ title: NewNvidia Launches "Nvidia Ising" — World's First Open-Source Quantum A
 date: '2026-05-09'
 source: Motley Fool / Nvidia Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: da33bb7257675852384091d5358ba04d44c9e83d6a229b146861f2214dfdc7eb

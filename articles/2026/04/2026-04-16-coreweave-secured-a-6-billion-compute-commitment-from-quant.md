@@ -5,8 +5,8 @@ title: CoreWeave secured a $6 billion compute commitment from quant trading gian
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://coreweave.com/news/jane-street-signs-6-billion-ai-cloud-agreement-with-coreweave
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: d9c1a8e84da241fd7f89043c2b14cea0b801fc61e3664654fc16766db48a7d7f

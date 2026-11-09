@@ -1,15 +1,19 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1366
+member_count: 1370
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1366 connected article(s).
+> Auto-generated topic hub. 1370 connected article(s).
 
+- `2026-11-06` [[2026-11-06-november-6-2026-the-information|[November 6, 2026] · [The Information]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-dealbook|[November 6, 2026] · [DealBook]]]
+- `2026-11-06` [[2026-11-06-november-6-2026-crusoe|[November 6, 2026] · [Crusoe]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-business-insider-2|[November 6, 2026] · [Business Insider]]]
+- `2026-11-06` [[2026-11-06-google-takes-direct-control-of-crusoe-s-troubled-10-gigawatt|Google takes direct control of Crusoe's troubled 10-gigawatt Wyoming campus]]
+- `2026-11-06` [[2026-11-06-frontier-lab-valuations-reset-openai-banks-11-billion-as-ant|Frontier-lab valuations reset: OpenAI banks $11 billion as Anthropic heads into a cooler roadshow]]
 - `2026-11-05` [[2026-11-05-november-6-2026-dealbook-2|[November 6, 2026] · [DealBook]]]
 - `2026-11-05` [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open|Capital narrows at the top: AI venture funding slides as OpenAI signals a 2027 IPO]]
 - `2026-11-04` [[2026-11-04-agent-security-consolidates-palo-alto-networks-in-talks-to-b|Agent security consolidates: Palo Alto Networks in talks to buy Clutch for about $500 million]]

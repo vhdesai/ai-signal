@@ -5,8 +5,8 @@ title: The University of Washington's Math AI Laboratory announced five accepted
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://math.washington.edu/news/2026/05/01/uw-math-ai-lab-presents-five-papers-iclr-and-earns-icml-spotlight
+url_status: repaired
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 500292a6abe4c2189dafba71e4bc8330f91e0aa6a0e553308df5df9765eef9a5
 normalized_title_hash: b5617961f35e928d

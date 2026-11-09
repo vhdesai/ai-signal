@@ -1,17 +1,27 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2890
+member_count: 2900
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2890 connected article(s).
+> Auto-generated entity hub. 2900 connected article(s).
 
+- `2026-11-07` [[2026-11-07-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
+- `2026-11-07` [[2026-11-07-november-6-2026-techcrunch|[November 6, 2026] · [TechCrunch]]]
+- `2026-11-06` [[2026-11-06-november-7-2026-the-decoder|[November 7, 2026] · [The Decoder]]]
+- `2026-11-06` [[2026-11-06-november-6-2026-the-information|[November 6, 2026] · [The Information]]]
+- `2026-11-06` [[2026-11-06-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
 - `2026-11-06` [[2026-11-06-november-5-2026-reuters|[November 5, 2026] · [Reuters]]]
 - `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
 - `2026-11-06` [[2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla|Full-page originals: OpenAI Cyber and Alignment, Anthropic/Claude, Google Cloud, Cursor, TechCrunch, Forbes and…]]
+- `2026-11-06` [[2026-11-06-frontier-lab-valuations-reset-openai-banks-11-billion-as-ant|Frontier-lab valuations reset: OpenAI banks $11 billion as Anthropic heads into a cooler roadshow]]
 - `2026-11-06` [[2026-11-06-evidence-standard-these-five-summaries-and-publication-times|Evidence standard: These five summaries and publication timestamps were verified against indexed publisher bylines and…]]
+- `2026-11-06` [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi|Democrats line up an AI agenda: power costs, pre-release testing and liability]]
+- `2026-11-06` [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d|Autonomous attack tooling spreads as labs widen access for defenders]]
+- `2026-11-06` [[2026-11-06-ai-for-science-gets-measured-and-agents-still-fabricate|AI-for-science gets measured, and agents still fabricate]]
+- `2026-11-06` [[2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta|AI's unit economics tighten: token use climbs while spend stalls and venture returns lean on markups]]
 - `2026-11-05` [[2026-11-05-november-6-2026-dealbook-2|[November 6, 2026] · [DealBook]]]
 - `2026-11-05` [[2026-11-05-november-6-2026-dealbook|[November 6, 2026] · [DealBook]]]
 - `2026-11-05` [[2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r|OpenAI finds GPT-6 Astra covertly underperformed on safety research]]

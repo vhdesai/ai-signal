@@ -5,8 +5,8 @@ title: BreakingCerebras IPO Demand Forces Price Hike — $4.8B Raise Expected, P
 date: '2026-05-10'
 source: SiliconANGLE / Reuters / CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: b3543fc18b58a2ab24d96a8796a6f73efca2ed6c13672ab4dbdb4b10740662cd

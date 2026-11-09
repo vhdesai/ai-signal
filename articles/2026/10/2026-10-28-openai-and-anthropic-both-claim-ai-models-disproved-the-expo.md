@@ -5,7 +5,7 @@ date: '2026-10-28'
 source: '[The Information]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+Anthropic+cryptography
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+Anthropic+cryptography
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-29_070116_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: db1bd1d75cafd291a496c57ce862c97ccac4aca0bbf4ad19ac464384bbb30720
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-28-openai-and-anthropic-independently-claim-to-disprove-the-exp
+- 2026-11-06-lab-says-an-unreleased-anthropic-model-helped-prove-a-quantu
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 - 2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti
 - 2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad
-- 2026-09-04-anthropic-reports-a-complete-lean-formalization-of-fermat-s
 embedding_id: 2026-10-28-openai-and-anthropic-both-claim-ai-models-disproved-the-expo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI said its models found an algorithm faster than the exponential time hypot
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-28-openai-and-anthropic-independently-claim-to-disprove-the-exp]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti]] · [[2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad]] · [[2026-09-04-anthropic-reports-a-complete-lean-formalization-of-fermat-s]]
+**Related:** [[2026-10-28-openai-and-anthropic-independently-claim-to-disprove-the-exp]] · [[2026-11-06-lab-says-an-unreleased-anthropic-model-helped-prove-a-quantu]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti]] · [[2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad]]
 <!-- graph:end -->

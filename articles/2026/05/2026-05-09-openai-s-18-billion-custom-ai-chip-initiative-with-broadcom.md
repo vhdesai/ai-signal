@@ -5,8 +5,8 @@ title: OpenAI's $18 billion custom AI chip initiative with Broadcom — code-nam
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.datacenterdynamics.com/en/news/openai-and-broadcom-in-discussions-over-financing-of-18bn-custom-chip-project-report/
+url_status: repaired
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: 30c7f23389004c681695c7c1caf66fa945c5ad413c0b788ee531cfabc5f1e2d1
 normalized_title_hash: c04cf3487f1cd5aa
