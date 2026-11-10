@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-11-01-november-1-2026-the-tactical-allocation-letter
 - 2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
-- 2026-10-30-investors-turn-on-ai-capex-as-big-tech-free-cash-flow-goes-n
 embedding_id: 2026-11-01-money-leaves-the-ai-trade-as-financing-becomes-the-build-out
 event_name: ''
 ---
@@ -37,5 +36,5 @@ The Tactical Allocation Letter notes the Nasdaq fell 5.3% in October, its worst 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Intel]]
-**Related:** [[2026-11-01-november-1-2026-the-tactical-allocation-letter]] · [[2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-10-30-investors-turn-on-ai-capex-as-big-tech-free-cash-flow-goes-n]]
+**Related:** [[2026-11-01-november-1-2026-the-tactical-allocation-letter]] · [[2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]]
 <!-- graph:end -->

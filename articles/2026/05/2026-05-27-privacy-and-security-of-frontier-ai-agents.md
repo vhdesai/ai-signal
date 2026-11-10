@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
+- 2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier
 - 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
-- 2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway
 embedding_id: 2026-05-27-privacy-and-security-of-frontier-ai-agents
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A lightning talk on emerging attack surfaces and privacy risks specific to auton
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway]]
+**Related:** [[2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]]
 <!-- graph:end -->

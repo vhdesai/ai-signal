@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-06-november-5-2026-metr
+- 2026-11-06-anthropic-examines-offline-consolidation-for-agent-memory
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
-- 2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w
 embedding_id: 2026-10-27-anthropic-studies-expert-deference-to-ai-agent-preferences
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Analysts often followed agents’ randomly assigned preferences in Anthropic’s
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-11-06-november-5-2026-metr]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w]]
+**Related:** [[2026-11-06-november-5-2026-metr]] · [[2026-11-06-anthropic-examines-offline-consolidation-for-agent-memory]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]]
 <!-- graph:end -->

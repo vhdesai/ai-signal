@@ -22,6 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-08-power-and-memory-bottlenecks-bite-used-turbines-a-norwegian
 - 2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
 - 2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du
@@ -38,5 +39,5 @@ TSMC is considering expanding into advanced memory manufacturing and has started
 
 **Entities:** [[Apple]] · [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du]]
+**Related:** [[2026-11-08-power-and-memory-bottlenecks-bite-used-turbines-a-norwegian]] · [[2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du]]
 <!-- graph:end -->

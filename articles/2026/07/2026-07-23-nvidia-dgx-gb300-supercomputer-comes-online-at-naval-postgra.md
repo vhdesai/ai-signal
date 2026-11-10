@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
 - 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
-- 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
+- 2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up
 embedding_id: 2026-07-23-nvidia-dgx-gb300-supercomputer-comes-online-at-naval-postgra
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA says a DGX GB300 system is now online at the Naval Postgraduate School, g
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]] · [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par]]
+**Related:** [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]] · [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up]]
 <!-- graph:end -->

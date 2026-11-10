@@ -5,8 +5,8 @@ title: Netflix released VOID (Video Object and Interaction Deletion)—its first
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-an-ai-model-that-erases-objects-from-videos-physics-and-all/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 5b0d77e1d5c25ef695ebaea5a723b96b516483ccca944d9dce977c8ed1b21371

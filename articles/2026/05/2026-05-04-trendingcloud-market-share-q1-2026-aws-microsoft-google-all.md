@@ -4,8 +4,8 @@ title: 'TRENDINGCloud market share Q1 2026: AWS, Microsoft, Google all gain'
 date: '2026-05-04'
 source: CRN
 url_original: null
-url_canonical: https://www.crn.com/news/cloud/2026/cloud-market-share-q2-2026-google-gains-share-as-aws-falls
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 26f5b0f826556b5d9fe8c69c217823c2e9bf9a8b3f1d75581c08933cee884c2a
 normalized_title_hash: c748ec0defbc1231

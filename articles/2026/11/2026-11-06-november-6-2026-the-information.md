@@ -19,7 +19,7 @@ themes:
 - company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-11-06-frontier-lab-valuations-reset-openai-banks-11-billion-as-ant
+canonical_article_id: 2026-11-06-frontier-valuations-reset-openai-banks-11-billion-as-anthrop
 related_article_ids: []
 embedding_id: 2026-11-06-november-6-2026-the-information
 event_name: ''
@@ -34,5 +34,5 @@ Citing Bloomberg, TechCrunch reports OpenAI has closed the first $11 billion of 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Canonical:** [[2026-11-06-frontier-lab-valuations-reset-openai-banks-11-billion-as-ant]]
+**Canonical:** [[2026-11-06-frontier-valuations-reset-openai-banks-11-billion-as-anthrop]]
 <!-- graph:end -->

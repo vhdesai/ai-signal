@@ -4,8 +4,8 @@ title: TRENDINGxAI Bringing Grok Voice Mode to Apple CarPlay
 date: '2026-05-02'
 source: 9to5Mac
 url_original: null
-url_canonical: https://9to5mac.com/2026/05/02/xai-is-bringing-grok-voice-mode-to-apple-carplay/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: c2495e1db37f0728acd2d152721c6ba01f2af61a4a2cd18d12c985f83fadcf7b
 normalized_title_hash: 67e65ab68a26dea5

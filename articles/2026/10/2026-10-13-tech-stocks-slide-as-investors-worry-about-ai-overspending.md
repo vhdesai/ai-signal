@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st
 - 2026-08-19-chip-stocks-sell-off-as-investors-worry-about-ai-spending-sl
-- 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
+- 2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n
 embedding_id: 2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Semafor and Yahoo Finance reported a broad tech selloff as investors grew more a
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st]] · [[2026-08-19-chip-stocks-sell-off-as-investors-worry-about-ai-spending-sl]] · [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin]]
+**Related:** [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st]] · [[2026-08-19-chip-stocks-sell-off-as-investors-worry-about-ai-spending-sl]] · [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n]]
 <!-- graph:end -->

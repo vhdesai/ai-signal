@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
 - 2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
-- 2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree
+- 2026-11-09-november-9-2026-pitchbook
 embedding_id: 2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the
 event_name: ''
 ---
@@ -41,5 +41,5 @@ DealBook goes behind the numbers on Anthropic's leapfrog past OpenAI, dissecting
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]]
+**Related:** [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-11-09-november-9-2026-pitchbook]]
 <!-- graph:end -->

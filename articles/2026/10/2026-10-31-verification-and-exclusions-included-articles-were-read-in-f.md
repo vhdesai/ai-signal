@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
 - 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 - 2026-10-24-washington-s-message-to-ai-execs-please-shut-up
+- 2026-11-05-verification-limits-the-openai-linux-security-article-and-re
 - 2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti
-- 2026-11-06-evidence-standard-these-five-summaries-and-publication-times
 embedding_id: 2026-10-31-verification-and-exclusions-included-articles-were-read-in-f
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Verification and exclusions: Included articles were read in full and their publi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Related:** [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up]] · [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti]] · [[2026-11-06-evidence-standard-these-five-summaries-and-publication-times]]
+**Related:** [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up]] · [[2026-11-05-verification-limits-the-openai-linux-security-article-and-re]] · [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti]]
 <!-- graph:end -->

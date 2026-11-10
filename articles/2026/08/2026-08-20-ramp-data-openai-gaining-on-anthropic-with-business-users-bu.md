@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
+- 2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls
 - 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
-- 2026-05-14-anthropic-overtakes-openai-in-u-s-business-ai-adoption-ventu
 embedding_id: 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Ramp’s spend data (70,000+ US businesses) shows Anthropic leads ~44% vs OpenAI
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]] · [[2026-05-14-anthropic-overtakes-openai-in-u-s-business-ai-adoption-ventu]]
+**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]]
 <!-- graph:end -->

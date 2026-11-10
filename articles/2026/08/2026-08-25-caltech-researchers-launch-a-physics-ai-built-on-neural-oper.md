@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
+- 2026-11-09-november-9-2026-mit-news
 - 2026-04-15-research-breakthroughs
 - 2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum
 - 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
-- 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 embedding_id: 2026-08-25-caltech-researchers-launch-a-physics-ai-built-on-neural-oper
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Caltech's Anima Anandkumar and Benedikt Jenik unveiled Accelerated Understanding
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-04-15-research-breakthroughs]] · [[2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum]] · [[2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]]
+**Related:** [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-11-09-november-9-2026-mit-news]] · [[2026-04-15-research-breakthroughs]] · [[2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum]] · [[2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a]]
 <!-- graph:end -->

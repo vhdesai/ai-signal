@@ -6,7 +6,7 @@ date: '2026-11-01'
 source: '[The Information]'
 url_original: https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework
 url_canonical: https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-02_061330_Inbox_Daily AI News Digest - November
   2, 2026.md
 content_hash: c776726b6c1b92811fcbfa4d05a0cbeb5660201f90dd0963c3bacf11ec2ab566
@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-11-02-the-information-reports-the-administration-declined-to-relea
 - 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
 - 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
+- 2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg
 - 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
-- 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 embedding_id: 2026-11-01-trump-administration-declines-to-release-documents-on-its-vo
 event_name: ''
 ---
@@ -43,5 +43,5 @@ In a September settlement of a Freedom of Information Act lawsuit, the administr
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-11-02-the-information-reports-the-administration-declined-to-relea]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
+**Related:** [[2026-11-02-the-information-reports-the-administration-declined-to-relea]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg]] · [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]]
 <!-- graph:end -->

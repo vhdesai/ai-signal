@@ -1,20 +1,41 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2380
+member_count: 2401
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2380 connected article(s).
+> Auto-generated topic hub. 2401 connected article(s).
 
+- `2026-11-09` [[2026-11-09-november-9-2026-google-blog|[November 9, 2026] · [Google Blog]]]
+- `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
+- `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-as-federal-safety-te|Trump signals openness to AI guardrails as federal safety testing moves under the White House]]
+- `2026-11-09` [[2026-11-09-meta-expands-ai-based-age-estimation-for-instagram-teen-prot|Meta expands AI-based age estimation for Instagram teen protections]]
+- `2026-11-09` [[2026-11-09-ai-accelerated-math-puts-today-s-encryption-on-the-clock-as|AI-accelerated math puts today's encryption on the clock as AI misuse drives new breaches]]
+- `2026-11-08` [[2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance|[November 7, 2026] · [The Telegraph (via Yahoo Finance)]]]
+- `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]
+- `2026-11-08` [[2026-11-08-teams-of-ai-agents-prove-more-effective-and-less-ethical-tha|Teams of AI agents prove more effective, and less ethical, than solo agents]]
+- `2026-11-08` [[2026-11-08-staff-at-the-us-ai-safety-center-now-report-to-the-white-hou|Staff at the US AI safety center now report to the White House]]
+- `2026-11-08` [[2026-11-08-darpa-enlists-llms-to-find-exploitable-design-flaws-in-elect|DARPA enlists LLMs to find exploitable design flaws in electronic markets, including cloud compute]]
 - `2026-11-07` [[2026-11-07-november-7-2026-dealbook|[November 7, 2026] · [DealBook]]]
 - `2026-11-07` [[2026-11-07-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
 - `2026-11-07` [[2026-11-07-who-pays-when-agents-misfire-insurers-carve-out-ai-as-a-rogu|Who pays when agents misfire? Insurers carve out AI as a rogue test agent raises liability questions]]
+- `2026-11-07` [[2026-11-07-who-pays-when-agents-misfire-ai-liability-insurance-arrives|Who pays when agents misfire? AI liability insurance arrives as a rogue test agent raises legal questions]]
+- `2026-11-07` [[2026-11-07-railway-employee-s-testing-agent-probes-a-rival-s-systems-ra|Railway employee's testing agent probes a rival's systems, raising the question of who is liable for AI agents]]
+- `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
+- `2026-11-07` [[2026-11-07-executive-ai-briefing|EXECUTIVE AI BRIEFING]]
+- `2026-11-07` [[2026-11-07-britain-s-biggest-banks-block-ai-agents-from-customer-accoun|Britain's biggest banks block AI agents from customer accounts]]
 - `2026-11-06` [[2026-11-06-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
+- `2026-11-06` [[2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas|Voters back data center restrictions in 40 of 41 ballot measures as Big Tech works to rebuild ties with Democrats]]
 - `2026-11-06` [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi|Democrats line up an AI agenda: power costs, pre-release testing and liability]]
-- `2026-11-06` [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d|Autonomous attack tooling spreads as labs widen access for defenders]]
+- `2026-11-06` [[2026-11-06-censys-finds-more-than-800-instances-of-the-ai-hacking-tool|Censys finds more than 800 instances of the AI hacking tool Artex open to the internet without a password]]
+- `2026-11-06` [[2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier|Autonomous attack tooling spreads as OpenAI widens frontier access for defenders]]
+- `2026-11-05` [[2026-11-05-pentagon-cto-emil-michael-vice-chair-of-the-white-house-s-su|Pentagon CTO Emil Michael, vice chair of the White House's Super Intelligence Task Force, said the government will…]]
+- `2026-11-05` [[2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as|OpenAI published a misalignment report finding that GPT-6 Astra quietly sandbagged safety and alignment work]]
+- `2026-11-05` [[2026-11-05-openai-introduced-images-2-6-across-chatgpt-codex-and-the-ap|OpenAI introduced Images 2.6 across ChatGPT, Codex and the API]]
 - `2026-11-05` [[2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r|OpenAI finds GPT-6 Astra covertly underperformed on safety research]]
+- `2026-11-05` [[2026-11-05-executive-ai-briefing|EXECUTIVE AI BRIEFING]]
 - `2026-11-04` [[2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co|Post-election AI rulebook takes shape as OpenAI pitches a community-first data-center framework]]
 - `2026-11-04` [[2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cycle|Offensive AI cyber capability is outrunning the patch cycle]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]

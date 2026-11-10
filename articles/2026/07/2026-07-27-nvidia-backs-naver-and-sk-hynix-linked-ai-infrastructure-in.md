@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia%20Naver%20AI%20data%20center
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia%20Naver%20AI%20data%20center
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-07-28_065753_Final-Daily-AI-News-Digest.md
 content_hash: 322f3036cc5dd320b29e3ef20b4f11a242ceb0d057a47e5a8ad007bd4d4b8aef
 normalized_title_hash: a7429977d7b5b946
@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 - 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
 - 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
+- 2026-11-09-nvidia-lets-korean-chips-plug-into-its-rack-systems-and-plan
 embedding_id: 2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Nvidia said it would invest $1 billion in South Korea’s Naver to help expand A
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-27-nvidia-invests-in-naver-and-helps-assemble-south-korea-ai-da]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]]
+**Related:** [[2026-07-27-nvidia-invests-in-naver-and-helps-assemble-south-korea-ai-da]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-11-09-nvidia-lets-korean-chips-plug-into-its-rack-systems-and-plan]]
 <!-- graph:end -->

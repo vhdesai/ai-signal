@@ -23,7 +23,8 @@ related_article_ids:
 - 2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey
 - 2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag
 - 2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business
-- 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
+- 2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture
+- 2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-courts-accentur
 embedding_id: 2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Zuckerberg also told investors that Meta sees a broader enterprise AI opportunit
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]]
+**Related:** [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]] · [[2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture]] · [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-courts-accentur]]
 <!-- graph:end -->

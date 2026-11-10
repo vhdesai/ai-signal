@@ -1,16 +1,34 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 516
+member_count: 534
 ---
 
 # Apple
 
-> Auto-generated entity hub. 516 connected article(s).
+> Auto-generated entity hub. 534 connected article(s).
 
+- `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
+- `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
+- `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
+- `2026-11-09` [[2026-11-09-november-9-2026-yahoo-finance|November 9, 2026 · Yahoo Finance]]
+- `2026-11-09` [[2026-11-09-meta-expands-ai-based-age-estimation-for-instagram-teen-prot|Meta expands AI-based age estimation for Instagram teen protections]]
+- `2026-11-09` [[2026-11-09-meta-expands-ai-age-estimation-worldwide-as-washington-press|Meta expands AI age estimation worldwide as Washington presses Google on AI in schools]]
+- `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-consumer-agents-scale-deepseek-harness-passes-1-5-million-da|Consumer agents scale: DeepSeek Harness passes 1.5 million daily users as Apple readies an agentic Siri]]
+- `2026-11-09` [[2026-11-09-apple-reportedly-targets-more-agent-like-siri-capabilities|Apple reportedly targets more agent-like Siri capabilities]]
+- `2026-11-08` [[2026-11-08-introducing-arete-27b-qwen3-8-27b-post-trained-to-reinforce|Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values]]
+- `2026-11-08` [[2026-11-08-darpa-launches-a-program-using-ai-to-find-design-flaws-that|DARPA launches a program using AI to find design flaws that adversaries could exploit in electronic markets]]
+- `2026-11-08` [[2026-11-08-consumer-agent-platforms-scale-deepseek-harness-passes-1-5-m|Consumer agent platforms scale: DeepSeek Harness passes 1.5 million daily users as Apple readies a more capable Siri]]
+- `2026-11-07` [[2026-11-07-railway-employee-s-testing-agent-probes-a-rival-s-systems-ra|Railway employee's testing agent probes a rival's systems, raising the question of who is liable for AI agents]]
+- `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
 - `2026-11-06` [[2026-11-06-tsmc-weighs-making-3d-dram-at-nvidia-s-request-as-the-memory|TSMC weighs making 3D DRAM at Nvidia's request as the memory shortage deepens]]
 - `2026-11-06` [[2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla|Full-page originals: OpenAI Cyber and Alignment, Anthropic/Claude, Google Cloud, Cursor, TechCrunch, Forbes and…]]
 - `2026-11-06` [[2026-11-06-directly-opened-research-pages-mit-news-ai-and-its-rss-feed|Directly opened research pages: MIT News AI and its RSS feed; MIT’s robot-memory story and its EurekAlert copy (older…]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]
+- `2026-11-05` [[2026-11-05-original-material-examined-included-openai-anthropic-tencent|Original material examined included OpenAI, Anthropic, Tencent, Conductor, Microsoft/GitHub, NVIDIA/Hugging Face,…]]
+- `2026-11-05` [[2026-11-05-bloomberg-reports-that-apple-cut-its-engineering-teams-daily|Bloomberg reports that Apple cut its engineering teams' daily AI spending cap from $300 to $200 in October]]
+- `2026-11-05` [[2026-11-05-additional-bounded-checks-covered-mistral-cursor-replit-xai|Additional bounded checks covered Mistral, Cursor, Replit, xAI, Alibaba/Qwen, Baidu Research, Huawei, SenseTime,…]]
 - `2026-11-04` [[2026-11-04-token-rationing-arrives-apple-trims-internal-ai-budgets-as-e|Token rationing arrives: Apple trims internal AI budgets as enterprise AI bills climb]]
 - `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-03` [[2026-11-03-november-3-2026-dealbook|[November 3, 2026] · [DealBook]]]

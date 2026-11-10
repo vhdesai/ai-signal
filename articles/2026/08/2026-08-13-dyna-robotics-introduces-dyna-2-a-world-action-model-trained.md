@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra
 - 2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide
+- 2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
-- 2026-10-17-kyutai-releases-reki-a-2-4b-vision-language-action-model-for
 embedding_id: 2026-08-13-dyna-robotics-introduces-dyna-2-a-world-action-model-trained
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Dyna Robotics introduced Dyna-2, a world-action model for robot manipulation pre
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-10-17-kyutai-releases-reki-a-2-4b-vision-language-action-model-for]]
+**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide]] · [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]]
 <!-- graph:end -->

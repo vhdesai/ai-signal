@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-nvidia-lets-korean-chips-plug-into-its-rack-systems-and-plan
 - 2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400
+- 2026-11-09-nvidia-rebellions-and-sk-telecom-partner-on-sovereign-ai-inf
 - 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
-- 2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip
-- 2026-08-24-korean-investors-net-sell-2-63b-of-nvidia-ahead-of-earnings
-- 2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce
+- 2026-11-08-nvidia-rebellions-and-sk-telecom-announce-collaboration-to-a
 embedding_id: 2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Nvidia has opened preliminary talks with Rebellions spanning a technical partner
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-08-24-korean-investors-net-sell-2-63b-of-nvidia-ahead-of-earnings]] · [[2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce]]
+**Related:** [[2026-11-09-nvidia-lets-korean-chips-plug-into-its-rack-systems-and-plan]] · [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-11-09-nvidia-rebellions-and-sk-telecom-partner-on-sovereign-ai-inf]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-11-08-nvidia-rebellions-and-sk-telecom-announce-collaboration-to-a]]
 <!-- graph:end -->

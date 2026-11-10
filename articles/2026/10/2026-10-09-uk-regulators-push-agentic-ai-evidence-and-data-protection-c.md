@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19
+- 2026-11-09-rogue-agents-turn-ai-autonomy-into-a-liability-and-insurance
 - 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
 - 2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-- 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
 embedding_id: 2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The UK Information Commissioner's Office opened a six-week call for evidence on 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19]] · [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]] · [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]]
+**Related:** [[2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19]] · [[2026-11-09-rogue-agents-turn-ai-autonomy-into-a-liability-and-insurance]] · [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]] · [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit
 - 2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse
+- 2026-11-09-trump-says-ai-risks-can-be-managed-signals-openness-to-guard
 - 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
-- 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
-- 2026-05-17-president-trump-confirmed-he-discussed-possible-ai-safety-gu
+- 2026-11-09-trump-signals-openness-to-ai-guardrails-as-federal-safety-te
 embedding_id: 2026-09-13-trump-ai-slowdown-would-cede-us-edge-to-china-warnings-are-n
 event_name: ''
 ---
@@ -37,5 +37,5 @@ President Trump publicly played down the need to check AI development, telling r
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit]] · [[2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]] · [[2026-05-17-president-trump-confirmed-he-discussed-possible-ai-safety-gu]]
+**Related:** [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit]] · [[2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse]] · [[2026-11-09-trump-says-ai-risks-can-be-managed-signals-openness-to-guard]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-11-09-trump-signals-openness-to-ai-guardrails-as-federal-safety-te]]
 <!-- graph:end -->

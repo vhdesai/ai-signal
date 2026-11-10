@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-ai2-publishes-benchmirt-auditing-what-llm-benchmarks-actuall
 - 2026-09-21-new-cais-benchmark-ranks-which-models-cheat-most-on-evaluati
+- 2026-11-08-introducing-the-artificial-analysis-decision-index-v2
 - 2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do
-- 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 embedding_id: 2026-09-21-ai-chatbots-give-wrong-financial-answers-most-of-the-time-be
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The study tested 18 models across 121 money questions, each run five times — m
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-ai2-publishes-benchmirt-auditing-what-llm-benchmarks-actuall]] · [[2026-09-21-new-cais-benchmark-ranks-which-models-cheat-most-on-evaluati]] · [[2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]]
+**Related:** [[2026-09-01-ai2-publishes-benchmirt-auditing-what-llm-benchmarks-actuall]] · [[2026-09-21-new-cais-benchmark-ranks-which-models-cheat-most-on-evaluati]] · [[2026-11-08-introducing-the-artificial-analysis-decision-index-v2]] · [[2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do]]
 <!-- graph:end -->

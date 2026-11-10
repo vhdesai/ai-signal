@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-executive-ai-briefing
 - 2026-08-09-daily-ai-news-digest-august-10-2026
 - 2026-07-29-wednesday-july-29-2026
-- 2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade
-- 2026-07-26-making-sense-of-the-panic-over-chinese-ai
+- 2026-11-07-executive-ai-briefing
 embedding_id: 2026-08-31-monday-funding-cycle-skews-toward-security-ai-and-compute-su
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Monday's verified funding rounds were low in volume but thematically coherent, c
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-09-daily-ai-news-digest-august-10-2026]] · [[2026-07-29-wednesday-july-29-2026]] · [[2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade]] · [[2026-07-26-making-sense-of-the-panic-over-chinese-ai]]
+**Related:** [[2026-11-05-executive-ai-briefing]] · [[2026-08-09-daily-ai-news-digest-august-10-2026]] · [[2026-07-29-wednesday-july-29-2026]] · [[2026-11-07-executive-ai-briefing]]
 <!-- graph:end -->

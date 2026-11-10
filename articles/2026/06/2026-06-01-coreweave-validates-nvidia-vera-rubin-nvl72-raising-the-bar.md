@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: AiThority
 url_original: https://aithority.com/it-and-devops/cloud/coreweave-completes-industry-first-bring-up-and-validation-of-nvidia-vera-rubin-nvl72/
 url_canonical: https://aithority.com/it-and-devops/cloud/coreweave-completes-industry-first-bring-up-and-validation-of-nvidia-vera-rubin-nvl72/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: 4348e23956f8bfd43865766b7d83f542a566f941a7cf9572f05e78b9a9d59123

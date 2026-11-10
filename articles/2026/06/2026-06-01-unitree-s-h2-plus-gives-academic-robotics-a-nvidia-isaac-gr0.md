@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-21-nvidia-expands-isaac-robotics-assets-for-general-purpose-dev
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
-- 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
-- 2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp
-- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
+- 2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re
+- 2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up
+- 2026-11-09-november-9-2026-nvidia-blog
 embedding_id: 2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Unitree announced H2 Plus, a humanoid robot positioned as an NVIDIA Isaac GR00T 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-21-nvidia-expands-isaac-robotics-assets-for-general-purpose-dev]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
+**Related:** [[2026-10-21-nvidia-expands-isaac-robotics-assets-for-general-purpose-dev]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re]] · [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up]] · [[2026-11-09-november-9-2026-nvidia-blog]]
 <!-- graph:end -->

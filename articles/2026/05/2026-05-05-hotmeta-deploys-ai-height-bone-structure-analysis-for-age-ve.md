@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-meta-expands-ai-based-age-estimation-for-instagram-teen-prot
 - 2026-08-27-meta-s-18b-child-safety-settlement-rests-on-unproven-age-ver
 - 2026-08-27-meta-s-18b-settlement-hinges-on-age-verification-tech-that-d
+- 2026-11-09-meta-expands-ai-age-estimation-worldwide-as-washington-press
 - 2026-06-20-in-the-weights-launches-ai-centric-vanity-search
-- 2026-10-22-meta-reshapes-financing-as-ai-spend-surges-and-muse-monetiza
-- 2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod
 embedding_id: 2026-05-05-hotmeta-deploys-ai-height-bone-structure-analysis-for-age-ve
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Meta is using AI to analyze user height and bone structure to identify users it 
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-08-27-meta-s-18b-child-safety-settlement-rests-on-unproven-age-ver]] · [[2026-08-27-meta-s-18b-settlement-hinges-on-age-verification-tech-that-d]] · [[2026-06-20-in-the-weights-launches-ai-centric-vanity-search]] · [[2026-10-22-meta-reshapes-financing-as-ai-spend-surges-and-muse-monetiza]] · [[2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod]]
+**Related:** [[2026-11-09-meta-expands-ai-based-age-estimation-for-instagram-teen-prot]] · [[2026-08-27-meta-s-18b-child-safety-settlement-rests-on-unproven-age-ver]] · [[2026-08-27-meta-s-18b-settlement-hinges-on-age-verification-tech-that-d]] · [[2026-11-09-meta-expands-ai-age-estimation-worldwide-as-washington-press]] · [[2026-06-20-in-the-weights-launches-ai-centric-vanity-search]]
 <!-- graph:end -->

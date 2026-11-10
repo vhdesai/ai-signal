@@ -1,20 +1,61 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1729
+member_count: 1770
 ---
 
 # Google
 
-> Auto-generated entity hub. 1729 connected article(s).
+> Auto-generated entity hub. 1770 connected article(s).
 
+- `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
+- `2026-11-09` [[2026-11-09-november-9-2026-google-blog|[November 9, 2026] · [Google Blog]]]
+- `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
+- `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
+- `2026-11-09` [[2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting|Meta is building an enterprise AI sales team and recruiting consulting partners]]
+- `2026-11-09` [[2026-11-09-meta-expands-ai-age-estimation-worldwide-as-washington-press|Meta expands AI age estimation worldwide as Washington presses Google on AI in schools]]
+- `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture|Meta builds an enterprise AI sales team and courts Accenture, Deloitte and IBM]]
+- `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-recruits-accent|Meta builds an enterprise AI sales force and recruits Accenture, Deloitte and IBM as channels]]
+- `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-courts-accentur|Meta builds an enterprise AI sales force and courts Accenture, Deloitte and IBM]]
+- `2026-11-09` [[2026-11-09-google-expands-its-tpu-portfolio-for-regulated-and-large-sca|Google expands its TPU portfolio for regulated and large-scale workloads]]
+- `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma|Google adds TPU 8tx for confidential inference and TPU 8i Max for very long contexts]]
+- `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu|Google adds TPU 8tx and TPU 8i Max as Nvidia opens NVLink Fusion to Korean inference chips]]
+- `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-chatgpt-s-growth-rebounds-as-it-holds-more-than-81-of-chatbo|ChatGPT's growth rebounds as it holds more than 81% of chatbot traffic]]
+- `2026-11-09` [[2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth|ChatGPT holds more than 81% of chatbot traffic as its growth picks up again]]
+- `2026-11-08` [[2026-11-08-november-8-2026-marktechpost|[November 8, 2026] · [MarkTechPost]]]
+- `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]
+- `2026-11-08` [[2026-11-08-november-9-2026-nvidia-blog|November 9, 2026 · NVIDIA Blog]]
+- `2026-11-08` [[2026-11-08-introducing-arete-27b-qwen3-8-27b-post-trained-to-reinforce|Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values]]
+- `2026-11-08` [[2026-11-08-google-s-elephant-goldfish-plugin-makes-coding-agents-write|Google's Elephant-Goldfish plugin makes coding agents write a spec and have it reviewed before writing code]]
+- `2026-11-08` [[2026-11-08-google-adds-confidential-computing-and-long-context-tpus-as|Google adds confidential-computing and long-context TPUs as Nvidia opens NVLink to Korean chips]]
+- `2026-11-08` [[2026-11-08-daily-ai-news-digest-november-9-2026|Daily AI News Digest – November 9, 2026]]
+- `2026-11-08` [[2026-11-08-darpa-launches-a-program-using-ai-to-find-design-flaws-that|DARPA launches a program using AI to find design flaws that adversaries could exploit in electronic markets]]
+- `2026-11-07` [[2026-11-07-lender-moves-to-sell-half-a-billion-dollars-of-data-center-l|lender moves to sell half a billion dollars of data center loans, including Stargate debt, as builders look abroad]]
+- `2026-11-07` [[2026-11-07-november-7-2026-the-information-2|[November 7, 2026] · [The Information]]]
+- `2026-11-07` [[2026-11-07-november-7-2026-techradar-via-yahoo-finance|[November 7, 2026] · [TechRadar (via Yahoo Finance)]]]
+- `2026-11-07` [[2026-11-07-railway-employee-s-testing-agent-probes-a-rival-s-systems-ra|Railway employee's testing agent probes a rival's systems, raising the question of who is liable for AI agents]]
+- `2026-11-07` [[2026-11-07-nous-research-releases-arete-27b-a-qwen3-8-27b-version-train|Nous Research releases Arete-27B, a Qwen3.8-27B version trained to drop Chinese state framing]]
+- `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
+- `2026-11-07` [[2026-11-07-executive-ai-briefing|EXECUTIVE AI BRIEFING]]
+- `2026-11-07` [[2026-11-07-buoyant-open-sources-kinference-a-routing-layer-for-running|Buoyant open-sources Kinference, a routing layer for running vLLM on Kubernetes]]
 - `2026-11-06` [[2026-11-06-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-crusoe|[November 6, 2026] · [Crusoe]]]
 - `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-meta-introduces-spaces-for-project-based-muse-collaboration|Meta introduces Spaces for project-based Muse collaboration]]
+- `2026-11-06` [[2026-11-06-google-takes-direct-control-of-crusoe-s-troubled-wyoming-dat|Google takes direct control of Crusoe's troubled Wyoming data-center campus]]
 - `2026-11-06` [[2026-11-06-google-takes-direct-control-of-crusoe-s-troubled-10-gigawatt|Google takes direct control of Crusoe's troubled 10-gigawatt Wyoming campus]]
 - `2026-11-06` [[2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla|Full-page originals: OpenAI Cyber and Alignment, Anthropic/Claude, Google Cloud, Cursor, TechCrunch, Forbes and…]]
 - `2026-11-06` [[2026-11-06-directly-opened-research-pages-mit-news-ai-and-its-rss-feed|Directly opened research pages: MIT News AI and its RSS feed; MIT’s robot-memory story and its EurekAlert copy (older…]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-its-delayed-wyoming-data-center-project-to-goog|Crusoe sells its delayed Wyoming data center project to Google]]
+- `2026-11-06` [[2026-11-06-crusoe-confirms-google-s-acquisition-of-its-wyoming-data-cen|Crusoe confirms Google's acquisition of its Wyoming data-center site]]
+- `2026-11-06` [[2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier|Autonomous attack tooling spreads as OpenAI widens frontier access for defenders]]
 - `2026-11-05` [[2026-11-05-november-5-2026-google-cloud-blog|[November 5, 2026] · [Google Cloud Blog]]]
+- `2026-11-05` [[2026-11-05-verification-limits-the-openai-linux-security-article-and-re|Verification limits: the OpenAI Linux-security article and Reuters’ Microsoft–Nscale original could not be read and…]]
+- `2026-11-05` [[2026-11-05-original-material-examined-included-openai-anthropic-tencent|Original material examined included OpenAI, Anthropic, Tencent, Conductor, Microsoft/GitHub, NVIDIA/Hugging Face,…]]
+- `2026-11-05` [[2026-11-05-bloomberg-reports-that-isomorphic-labs-the-ai-drug-discovery|Bloomberg reports that Isomorphic Labs, the AI drug-discovery company spun out of Google DeepMind, is in talks to raise…]]
+- `2026-11-05` [[2026-11-05-additional-bounded-checks-covered-mistral-cursor-replit-xai|Additional bounded checks covered Mistral, Cursor, Replit, xAI, Alibaba/Qwen, Baidu Research, Huawei, SenseTime,…]]
 - `2026-11-04` [[2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cycle|Offensive AI cyber capability is outrunning the patch cycle]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti|UK AI Security Institute researcher says AI models are getting harder to monitor]]

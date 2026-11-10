@@ -1,20 +1,40 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1106
+member_count: 1126
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1106 connected article(s).
+> Auto-generated entity hub. 1126 connected article(s).
 
+- `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
+- `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
+- `2026-11-09` [[2026-11-09-november-9-2026-dealbook-2|November 9, 2026 · DealBook]]
+- `2026-11-09` [[2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting|Meta is building an enterprise AI sales team and recruiting consulting partners]]
+- `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture|Meta builds an enterprise AI sales team and courts Accenture, Deloitte and IBM]]
+- `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-recruits-accent|Meta builds an enterprise AI sales force and recruits Accenture, Deloitte and IBM as channels]]
+- `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-courts-accentur|Meta builds an enterprise AI sales force and courts Accenture, Deloitte and IBM]]
+- `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-08` [[2026-11-08-darpa-launches-a-program-using-ai-to-find-design-flaws-that|DARPA launches a program using AI to find design flaws that adversaries could exploit in electronic markets]]
+- `2026-11-08` [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-as-neoclouds-hea|AI's capital appetite meets a tiring market as neoclouds head into a pivotal earnings week]]
+- `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
+- `2026-11-07` [[2026-11-07-executive-ai-briefing|EXECUTIVE AI BRIEFING]]
 - `2026-11-06` [[2026-11-06-november-6-2026-wall-street-journal|[November 6, 2026] · [Wall Street Journal]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-reuters|[November 6, 2026] · [Reuters]]]
 - `2026-11-06` [[2026-11-06-today-s-developments-put-deployment-governance-infrastructur|Today's developments put deployment governance, infrastructure execution and capital-market scrutiny on the same…]]
+- `2026-11-06` [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-protesters-st|The data-center backlash goes transatlantic as protesters storm a Microsoft site in Amsterdam]]
 - `2026-11-06` [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-ai-companies|The data-center backlash goes transatlantic as AI companies rethink siting]]
 - `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-microsoft-is-ending-its-2023-deal-to-rent-servers-from-oracl|Microsoft is ending its 2023 deal to rent servers from Oracle]]
 - `2026-11-06` [[2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste|Microsoft drops Oracle capacity and trims its neocloud roster as GPU futures stall again]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-its-delayed-wyoming-data-center-project-to-goog|Crusoe sells its delayed Wyoming data center project to Google]]
+- `2026-11-06` [[2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier|Autonomous attack tooling spreads as OpenAI widens frontier access for defenders]]
+- `2026-11-05` [[2026-11-05-verification-limits-the-openai-linux-security-article-and-re|Verification limits: the OpenAI Linux-security article and Reuters’ Microsoft–Nscale original could not be read and…]]
+- `2026-11-05` [[2026-11-05-original-material-examined-included-openai-anthropic-tencent|Original material examined included OpenAI, Anthropic, Tencent, Conductor, Microsoft/GitHub, NVIDIA/Hugging Face,…]]
+- `2026-11-05` [[2026-11-05-microsoft-spent-5b-less-than-expected-on-ai-infrastructure-l|Microsoft spent $5B less than expected on AI infrastructure last quarter]]
 - `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]

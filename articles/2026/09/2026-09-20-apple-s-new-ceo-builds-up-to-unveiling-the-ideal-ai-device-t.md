@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-11-01-in-a-wired-interview-summarized-by-techcrunch-new-apple-ceo
 - 2026-09-09-apple-unveils-iphone-duo-and-siri-ai-at-ternus-s-first-event
 - 2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli
-- 2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen
+- 2026-11-09-apple-reportedly-targets-more-agent-like-siri-capabilities
 embedding_id: 2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t
 event_name: ''
 ---
@@ -41,5 +41,5 @@ In his first keynote as Apple CEO, John Ternus described the ideal AI device and
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]] · [[2026-11-01-in-a-wired-interview-summarized-by-techcrunch-new-apple-ceo]] · [[2026-09-09-apple-unveils-iphone-duo-and-siri-ai-at-ternus-s-first-event]] · [[2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli]] · [[2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen]]
+**Related:** [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]] · [[2026-11-01-in-a-wired-interview-summarized-by-techcrunch-new-apple-ceo]] · [[2026-09-09-apple-unveils-iphone-duo-and-siri-ai-at-ternus-s-first-event]] · [[2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli]] · [[2026-11-09-apple-reportedly-targets-more-agent-like-siri-capabilities]]
 <!-- graph:end -->

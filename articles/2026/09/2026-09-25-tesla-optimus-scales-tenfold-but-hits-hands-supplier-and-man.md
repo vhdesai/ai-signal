@@ -24,6 +24,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus
 - 2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t
 - 2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto
 - 2026-08-31-the-u-s-is-building-barriers-around-drones-and-robots-but-ch
@@ -40,5 +41,5 @@ Tesla has ramped Optimus production roughly 10× — from a few dozen to several
 
 **Entities:** [[Tesla]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]] · [[2026-08-31-the-u-s-is-building-barriers-around-drones-and-robots-but-ch]]
+**Related:** [[2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus]] · [[2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]] · [[2026-08-31-the-u-s-is-building-barriers-around-drones-and-robots-but-ch]]
 <!-- graph:end -->

@@ -1,22 +1,64 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2357
+member_count: 2399
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2357 connected article(s).
+> Auto-generated topic hub. 2399 connected article(s).
 
+- `2026-11-09` [[2026-11-09-single-ai-model-simulates-the-behavior-of-many-substances-fr|single AI model simulates the behavior of many substances, from sliding sand to folding proteins]]
+- `2026-11-09` [[2026-11-09-november-9-2026-semafor|[November 9, 2026] · [Semafor]]]
+- `2026-11-09` [[2026-11-09-november-9-2026-google-blog|[November 9, 2026] · [Google Blog]]]
+- `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
+- `2026-11-09` [[2026-11-09-trump-says-ai-risks-can-be-managed-signals-openness-to-guard|Trump says AI risks can be managed, signals openness to guardrails]]
+- `2026-11-09` [[2026-11-09-recent-advances-in-ai-are-creating-a-paradigm-shift-for-robo|Recent advances in AI are creating a ‘paradigm shift’ for robotics]]
+- `2026-11-09` [[2026-11-09-nvidia-lets-korean-chips-plug-into-its-rack-systems-and-plan|Nvidia lets Korean chips plug into its rack systems and plans investments in four Korean startups]]
+- `2026-11-09` [[2026-11-09-mit-s-flex-lets-robots-infer-the-intent-behind-spoken-instru|MIT's FLEX lets robots infer the intent behind spoken instructions]]
+- `2026-11-09` [[2026-11-09-mit-and-ubc-s-worldparticle-model-simulates-sand-fluids-and|MIT and UBC's WorldParticle model simulates sand, fluids, and proteins with one network]]
+- `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma|Google adds TPU 8tx for confidential inference and TPU 8i Max for very long contexts]]
+- `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu|Google adds TPU 8tx and TPU 8i Max as Nvidia opens NVLink Fusion to Korean inference chips]]
+- `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-exclusive-covert-russian-network-exploited-french-riots-on-s|EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says]]
+- `2026-11-09` [[2026-11-09-ai-assisted-learning-platform-helps-robots-reason-beyond-lit|AI-assisted learning platform helps robots reason beyond literal commands]]
+- `2026-11-09` [[2026-11-09-ai-power-rush-sends-data-centres-hunting-for-used-turbines-a|AI power rush sends data centres hunting for used turbines and jet engines]]
+- `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]
+- `2026-11-08` [[2026-11-08-power-and-memory-bottlenecks-bite-used-turbines-a-norwegian|Power and memory bottlenecks bite: used turbines, a Norwegian grid freeze and TSMC eyeing memory]]
+- `2026-11-08` [[2026-11-08-nvidia-rebellions-and-sk-telecom-announce-collaboration-to-a|NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion]]
+- `2026-11-08` [[2026-11-08-google-adds-confidential-computing-and-long-context-tpus-as|Google adds confidential-computing and long-context TPUs as Nvidia opens NVLink to Korean chips]]
+- `2026-11-08` [[2026-11-08-daily-ai-news-digest-november-9-2026|Daily AI News Digest – November 9, 2026]]
+- `2026-11-08` [[2026-11-08-darpa-launches-a-program-using-ai-to-find-design-flaws-that|DARPA launches a program using AI to find design flaws that adversaries could exploit in electronic markets]]
+- `2026-11-08` [[2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2|Co-Design Bench: the best coding agent fully completes only 26% of real-world change requests]]
+- `2026-11-08` [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-as-neoclouds-hea|AI's capital appetite meets a tiring market as neoclouds head into a pivotal earnings week]]
+- `2026-11-07` [[2026-11-07-lender-moves-to-sell-half-a-billion-dollars-of-data-center-l|lender moves to sell half a billion dollars of data center loans, including Stargate debt, as builders look abroad]]
+- `2026-11-07` [[2026-11-07-november-7-2026-the-information-2|[November 7, 2026] · [The Information]]]
+- `2026-11-07` [[2026-11-07-november-7-2026-the-information|[November 7, 2026] · [The Information]]]
+- `2026-11-07` [[2026-11-07-november-7-2026-techradar-via-yahoo-finance|[November 7, 2026] · [TechRadar (via Yahoo Finance)]]]
+- `2026-11-07` [[2026-11-07-us-intelligence-memo-reportedly-says-china-recruited-a-tech|US intelligence memo reportedly says China recruited a tech executive to spy on Nvidia's Jensen Huang]]
+- `2026-11-07` [[2026-11-07-spacex-appears-to-be-building-a-multigigawatt-supercomputer|SpaceX appears to be building a multigigawatt supercomputer in Texas as a new governor promises data center restrictions]]
+- `2026-11-07` [[2026-11-07-executive-briefing-6-verified-stories|EXECUTIVE BRIEFING · 6 VERIFIED STORIES]]
+- `2026-11-07` [[2026-11-07-executive-ai-briefing|EXECUTIVE AI BRIEFING]]
+- `2026-11-07` [[2026-11-07-daily-ai-news-digest-november-9-2026|Daily AI News Digest – November 9, 2026]]
 - `2026-11-06` [[2026-11-06-november-6-2026-wall-street-journal|[November 6, 2026] · [Wall Street Journal]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-reuters|[November 6, 2026] · [Reuters]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-crusoe|[November 6, 2026] · [Crusoe]]]
 - `2026-11-06` [[2026-11-06-today-s-developments-put-deployment-governance-infrastructur|Today's developments put deployment governance, infrastructure execution and capital-market scrutiny on the same…]]
+- `2026-11-06` [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-protesters-st|The data-center backlash goes transatlantic as protesters storm a Microsoft site in Amsterdam]]
 - `2026-11-06` [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-ai-companies|The data-center backlash goes transatlantic as AI companies rethink siting]]
 - `2026-11-06` [[2026-11-06-news-outlets-checked-through-search-results-reuters-techcrun|News outlets checked through search results: Reuters, TechCrunch, The Wall Street Journal AI coverage, MarkTechPost,…]]
 - `2026-11-06` [[2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste|Microsoft drops Oracle capacity and trims its neocloud roster as GPU futures stall again]]
+- `2026-11-06` [[2026-11-06-mit-s-chemeleon-predicts-molecular-properties-when-lab-data|MIT's CheMeleon predicts molecular properties when lab data is scarce]]
 - `2026-11-06` [[2026-11-06-google-takes-direct-control-of-crusoe-s-troubled-10-gigawatt|Google takes direct control of Crusoe's troubled 10-gigawatt Wyoming campus]]
+- `2026-11-06` [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi|Democrats line up an AI agenda: power costs, pre-release testing and liability]]
+- `2026-11-06` [[2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier|Autonomous attack tooling spreads as OpenAI widens frontier access for defenders]]
+- `2026-11-05` [[2026-11-05-reuters-reports-that-about-600-000-nvidia-h200-chips-are-sit|Reuters reports that about 600,000 Nvidia H200 chips are sitting in Hong Kong waiting for shipment to mainland China,…]]
+- `2026-11-05` [[2026-11-05-openai-proposed-rules-for-large-electricity-users|OpenAI proposed rules for large electricity users]]
+- `2026-11-05` [[2026-11-05-microsoft-spent-5b-less-than-expected-on-ai-infrastructure-l|Microsoft spent $5B less than expected on AI infrastructure last quarter]]
+- `2026-11-05` [[2026-11-05-in-tuesday-s-midterms-voters-sided-against-data-centers-in-e|In Tuesday's midterms, voters sided against data centers in every local measure to restrict them except one, in…]]
+- `2026-11-05` [[2026-11-05-executive-ai-briefing|EXECUTIVE AI BRIEFING]]
 - `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]
+- `2026-11-05` [[2026-11-05-cnbc-reports-that-kimi-maker-moonshot-ai-discussed-leasing-n|CNBC reports that Kimi maker Moonshot AI discussed leasing Nvidia Blackwell clusters of 8,000+ GPUs from European…]]
 - `2026-11-04` [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu|Optics becomes the AI choke point: rival-bid talk for Lumentum and a fiber squeeze]]
 - `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-03` [[2026-11-03-november-3-2026-the-information-3|[November 3, 2026] · [The Information]]]

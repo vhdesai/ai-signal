@@ -5,8 +5,8 @@ title: NVIDIA • April 20, 2026 At Hannover Messe, NVIDIA announced a sweep of 
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 8650a2d157fe2f32f4141014103919f886b717df0561c642c30b32ebe0db7f15

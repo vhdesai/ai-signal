@@ -5,8 +5,8 @@ title: MIT students build a wearable AI "Human Operator" that drives the wearer'
 date: '2026-05-04'
 source: India Today
 url_original: null
-url_canonical: https://www.indiatoday.in/technology/news/story/mit-students-build-ai-system-that-can-control-your-body-2906168-2026-05-04
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: afea3fab33b9392c02590f2d29525f544be7eb3fd181799615e620ef3606708c
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-november-9-2026-mit-news
+- 2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha
 - 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
+- 2026-11-09-mit-s-flex-lets-robots-infer-the-intent-behind-spoken-instru
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
-- 2026-10-22-mit-introduces-design-software-for-embedding-sensing-into-ev
-- 2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou
-- 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
 embedding_id: 2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A team won MIT's Hard Mode hackathon with a system that pairs computer-vision go
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-10-22-mit-introduces-design-software-for-embedding-sensing-into-ev]] · [[2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]]
+**Related:** [[2026-11-09-november-9-2026-mit-news]] · [[2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha]] · [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]] · [[2026-11-09-mit-s-flex-lets-robots-infer-the-intent-behind-spoken-instru]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]]
 <!-- graph:end -->

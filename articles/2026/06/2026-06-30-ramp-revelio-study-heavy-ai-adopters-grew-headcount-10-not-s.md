@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
+- 2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls
 - 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
-- 2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta
 embedding_id: 2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A working paper from Ramp and Revelio Labs — the first to link firm-level AI s
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta]]
+**Related:** [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]]
 <!-- graph:end -->

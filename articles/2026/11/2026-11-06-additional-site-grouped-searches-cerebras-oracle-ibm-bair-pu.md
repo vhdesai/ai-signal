@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-26-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu
 - 2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist
 - 2026-06-28-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu
+- 2026-11-05-university-discovery-covered-uc-berkeley-bair-stanford-mit-p
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
-- 2026-10-31-university-coverage-uc-berkeley-stanford-mit-purdue-georgia
 embedding_id: 2026-11-06-additional-site-grouped-searches-cerebras-oracle-ibm-bair-pu
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Additional site/grouped searches: Cerebras, Oracle, IBM; BAIR, Purdue, Georgia T
 ## Connections
 
 **Entities:** [[Cerebras]] · [[IBM]] · [[Oracle]]
-**Related:** [[2026-06-26-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu]] · [[2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-06-28-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-10-31-university-coverage-uc-berkeley-stanford-mit-purdue-georgia]]
+**Related:** [[2026-06-26-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu]] · [[2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-06-28-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu]] · [[2026-11-05-university-discovery-covered-uc-berkeley-bair-stanford-mit-p]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=robotics+hype+videos+arms+race
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=robotics+hype+videos+arms+race
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-08-22_065910_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: bf4cca2ab41bcb6507a3dceb6f63ab5d4007984cb8abf63d0546a18e3b4ff06c
@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra
+- 2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus
 - 2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin
 - 2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot
-- 2026-10-21-robotics-and-physical-ai-funding-accelerates-sharply
 embedding_id: 2026-08-21-stunt-filled-hype-videos-fuel-robotics-new-arms-race
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Robotics companies are producing increasingly extreme stunt videos that exaggera
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin]] · [[2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot]] · [[2026-10-21-robotics-and-physical-ai-funding-accelerates-sharply]]
+**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus]] · [[2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin]] · [[2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot]]
 <!-- graph:end -->

@@ -3,11 +3,12 @@ article_id: 2026-11-04-coding-agent-arms-race-meta-buys-conductor-as-openai-land
 title: 'Coding-agent arms race: Meta buys Conductor as OpenAI lands Claude Code''s
   product chief'
 date: '2026-11-04'
-source: TechCrunch | November 4, 2026 · Business Insider*
+source: TechCrunch | November 4, 2026 · Business Insider
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-11-05_094536_Inbox_Fw Daily AI News Digest - November
+  5, 2026.md
 content_hash: 3bcb2d171c896132fb92e52c43a4d4a21f5ebd05100ee191315e6da8f5fe9512
 normalized_title_hash: 91cd6df0273813c2
 canonical_url_hash: ''
@@ -25,10 +26,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-meta-bought-conductor-whose-platform-runs-teams-of-coding-ag
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
 - 2026-09-24-thursday-september-24-2026
-- 2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli
 embedding_id: 2026-11-04-coding-agent-arms-race-meta-buys-conductor-as-openai-lands-c
 event_name: ''
 ---
@@ -42,5 +43,5 @@ Meta acquired Conductor, whose platform runs teams of coding agents in parallel 
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex]] · [[2026-09-24-thursday-september-24-2026]] · [[2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli]]
+**Related:** [[2026-11-05-meta-bought-conductor-whose-platform-runs-teams-of-coding-ag]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex]] · [[2026-09-24-thursday-september-24-2026]]
 <!-- graph:end -->

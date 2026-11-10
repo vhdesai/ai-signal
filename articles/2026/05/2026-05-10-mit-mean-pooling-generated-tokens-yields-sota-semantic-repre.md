@@ -4,8 +4,8 @@ title: 'MIT: Mean Pooling Generated Tokens Yields SOTA Semantic Representations'
 date: '2026-05-10'
 source: MIT / arXiv
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.09969
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 3d2bd5324eb11d23bdf6d3355fa3aa8c076de7ec667910c8c33374c85dc58fde

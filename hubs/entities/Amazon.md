@@ -1,16 +1,37 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 761
+member_count: 782
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 761 connected article(s).
+> Auto-generated entity hub. 782 connected article(s).
 
+- `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
+- `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
+- `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
+- `2026-11-09` [[2026-11-09-november-9-2026-yahoo-finance|November 9, 2026 · Yahoo Finance]]
+- `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-consumer-agents-scale-deepseek-harness-passes-1-5-million-da|Consumer agents scale: DeepSeek Harness passes 1.5 million daily users as Apple readies an agentic Siri]]
+- `2026-11-09` [[2026-11-09-amazon-s-hope-prunes-half-of-a-mixture-of-experts-model-with|Amazon's HOPE prunes half of a mixture-of-experts model without retraining]]
+- `2026-11-08` [[2026-11-08-november-8-2026-marktechpost|[November 8, 2026] · [MarkTechPost]]]
+- `2026-11-08` [[2026-11-08-november-8-2026-business-insider|[November 8, 2026] · [Business Insider]]]
+- `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]
+- `2026-11-08` [[2026-11-08-google-s-elephant-goldfish-plugin-makes-coding-agents-write|Google's Elephant-Goldfish plugin makes coding agents write a spec and have it reviewed before writing code]]
+- `2026-11-08` [[2026-11-08-darpa-launches-a-program-using-ai-to-find-design-flaws-that|DARPA launches a program using AI to find design flaws that adversaries could exploit in electronic markets]]
+- `2026-11-08` [[2026-11-08-agility-robotics-is-the-first-us-humanoid-robot-company-to-g|Agility Robotics is the first US humanoid robot company to go public, and it is still far from profitable]]
+- `2026-11-08` [[2026-11-08-aws-engineer-says-the-key-control-for-coding-agents-is-the-l|AWS engineer says the key control for coding agents is the list of actions they may take without approval]]
+- `2026-11-07` [[2026-11-07-railway-employee-s-testing-agent-probes-a-rival-s-systems-ra|Railway employee's testing agent probes a rival's systems, raising the question of who is liable for AI agents]]
+- `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
 - `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-meta-launches-spaces-letting-muse-build-trackers-and-planner|Meta launches Spaces, letting Muse build trackers and planners that update automatically]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]
 - `2026-11-06` [[2026-11-06-consumer-agents-get-persistent-meta-launches-muse-spaces-as|Consumer agents get persistent: Meta launches Muse Spaces as Amazon lets shoppers text Alexa]]
 - `2026-11-06` [[2026-11-06-consumer-agents-become-persistent-and-marketplaces-build-the|Consumer agents become persistent, and marketplaces build their own]]
+- `2026-11-06` [[2026-11-06-anthropic-will-start-its-ipo-roadshow-next-week-despite-pres|Anthropic will start its IPO roadshow next week despite pressure on its valuation]]
+- `2026-11-06` [[2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy|Amazon lets shoppers text Alexa to search, compare and buy]]
+- `2026-11-05` [[2026-11-05-original-material-examined-included-openai-anthropic-tencent|Original material examined included OpenAI, Anthropic, Tencent, Conductor, Microsoft/GitHub, NVIDIA/Hugging Face,…]]
 - `2026-11-04` [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu|Optics becomes the AI choke point: rival-bid talk for Lumentum and a fiber squeeze]]
 - `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]

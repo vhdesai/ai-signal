@@ -4,11 +4,12 @@ title: 'Data-center backlash reprices AI infrastructure: neoclouds sell off whil
   incumbents gain'
 date: '2026-11-04'
 source: CNBC | November 5, 2026 · DealBook | November 5, 2026 · Wall Street Journal
-  | November 4, 2026 · Business Insider*
+  | November 4, 2026 · Business Insider
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-11-05_094536_Inbox_Fw Daily AI News Digest - November
+  5, 2026.md
 content_hash: ae6056e1c47355c8dbde0db0750d06954bf5b28344b47b367e76fdfa54629372
 normalized_title_hash: 46807f846b363a0a
 canonical_url_hash: ''
@@ -29,7 +30,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t
 - 2026-11-06-november-6-2026-reuters
-- 2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste
+- 2026-11-05-in-tuesday-s-midterms-voters-sided-against-data-centers-in-e
+- 2026-11-07-data-center-backlash-raises-infrastructure-questions
 embedding_id: 2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se
 event_name: ''
 ---
@@ -43,5 +45,5 @@ Voters sided against data centers in 40 of 41 local ballot measures, the lone ex
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-11-06-november-6-2026-reuters]] · [[2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste]]
+**Related:** [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-11-06-november-6-2026-reuters]] · [[2026-11-05-in-tuesday-s-midterms-voters-sided-against-data-centers-in-e]] · [[2026-11-07-data-center-backlash-raises-infrastructure-questions]]
 <!-- graph:end -->

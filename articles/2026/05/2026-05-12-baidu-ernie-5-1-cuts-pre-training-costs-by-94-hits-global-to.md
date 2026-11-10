@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra
+- 2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base
 - 2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as
 - 2026-08-20-morgan-stanley-downgrades-baidu-to-underweight-as-ernie-lags
-- 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
-- 2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b
+- 2026-11-09-baidu-introduces-ernie-evolve-for-automated-research
 embedding_id: 2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Baidu officially released ERNIE 5.1 with a striking efficiency claim: roughly 94
 
 **Entities:** [[Baidu]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra]] · [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as]] · [[2026-08-20-morgan-stanley-downgrades-baidu-to-underweight-as-ernie-lags]] · [[2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m]] · [[2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b]]
+**Related:** [[2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra]] · [[2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base]] · [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as]] · [[2026-08-20-morgan-stanley-downgrades-baidu-to-underweight-as-ernie-lags]] · [[2026-11-09-baidu-introduces-ernie-evolve-for-automated-research]]
 <!-- graph:end -->

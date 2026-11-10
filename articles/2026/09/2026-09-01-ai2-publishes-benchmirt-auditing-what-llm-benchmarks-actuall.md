@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-ai2-releases-benchmirt-to-audit-llm-benchmark-integrity
 - 2026-09-21-new-cais-benchmark-ranks-which-models-cheat-most-on-evaluati
+- 2026-11-08-introducing-the-artificial-analysis-decision-index-v2
 - 2026-09-21-ai-chatbots-give-wrong-financial-answers-most-of-the-time-be
 - 2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio
-- 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
 embedding_id: 2026-09-01-ai2-publishes-benchmirt-auditing-what-llm-benchmarks-actuall
 event_name: ''
 ---
@@ -39,5 +39,5 @@ BenchMIRT audits LLM benchmarks question-by-question using multidimensional Item
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-ai2-releases-benchmirt-to-audit-llm-benchmark-integrity]] · [[2026-09-21-new-cais-benchmark-ranks-which-models-cheat-most-on-evaluati]] · [[2026-09-21-ai-chatbots-give-wrong-financial-answers-most-of-the-time-be]] · [[2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]]
+**Related:** [[2026-09-01-ai2-releases-benchmirt-to-audit-llm-benchmark-integrity]] · [[2026-09-21-new-cais-benchmark-ranks-which-models-cheat-most-on-evaluati]] · [[2026-11-08-introducing-the-artificial-analysis-decision-index-v2]] · [[2026-09-21-ai-chatbots-give-wrong-financial-answers-most-of-the-time-be]] · [[2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio]]
 <!-- graph:end -->

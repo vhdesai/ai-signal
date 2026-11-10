@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent
+- 2026-11-06-cme-delays-launch-of-nvidia-gpu-rental-price-futures-for-a-s
 - 2026-09-15-commerce-department-reportedly-ordered-kalshi-to-pull-its-ai
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
 - 2026-11-06-november-6-2026-reuters
-- 2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest
 embedding_id: 2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token
 event_name: ''
 ---
@@ -39,5 +39,5 @@ CME Group announced an October launch for two exchange-traded GPU futures contra
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent]] · [[2026-09-15-commerce-department-reportedly-ordered-kalshi-to-pull-its-ai]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-11-06-november-6-2026-reuters]] · [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest]]
+**Related:** [[2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent]] · [[2026-11-06-cme-delays-launch-of-nvidia-gpu-rental-price-futures-for-a-s]] · [[2026-09-15-commerce-department-reportedly-ordered-kalshi-to-pull-its-ai]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-11-06-november-6-2026-reuters]]
 <!-- graph:end -->

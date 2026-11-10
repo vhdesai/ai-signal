@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-08-agility-robotics-is-the-first-us-humanoid-robot-company-to-g
+- 2026-11-08-november-8-2026-business-insider
 - 2026-08-25-robotics-startup-generalist-reaches-3b-valuation-on-200m-ext
 - 2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte
 - 2026-08-25-robotics-startup-generalist-reaches-3b-valuation
-- 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
-- 2026-07-17-agility-robotics-opens-new-training-center-near-tesla-s-fact
 embedding_id: 2026-07-05-agility-robotics-is-going-public-via-spac
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Agility Robotics, maker of the Digit humanoid robot, is merging with Churchill C
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-08-25-robotics-startup-generalist-reaches-3b-valuation-on-200m-ext]] · [[2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte]] · [[2026-08-25-robotics-startup-generalist-reaches-3b-valuation]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]] · [[2026-07-17-agility-robotics-opens-new-training-center-near-tesla-s-fact]]
+**Related:** [[2026-11-08-agility-robotics-is-the-first-us-humanoid-robot-company-to-g]] · [[2026-11-08-november-8-2026-business-insider]] · [[2026-08-25-robotics-startup-generalist-reaches-3b-valuation-on-200m-ext]] · [[2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte]] · [[2026-08-25-robotics-startup-generalist-reaches-3b-valuation]]
 <!-- graph:end -->

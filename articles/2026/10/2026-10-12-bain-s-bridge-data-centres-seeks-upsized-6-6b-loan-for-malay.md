@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-07-lender-moves-to-sell-half-a-billion-dollars-of-data-center-l
 - 2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new
 - 2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent
-- 2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su
 embedding_id: 2026-10-12-bain-s-bridge-data-centres-seeks-upsized-6-6b-loan-for-malay
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Bain Capital-owned Bridge Data Centres is reportedly in talks to expand a loan f
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent]] · [[2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su]]
+**Related:** [[2026-11-07-lender-moves-to-sell-half-a-billion-dollars-of-data-center-l]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent]]
 <!-- graph:end -->

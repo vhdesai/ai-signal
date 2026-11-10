@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: OpenAI Blog
 url_original: https://openai.com/index/chatgpt-for-academic-researchers/
 url_canonical: https://openai.com/index/chatgpt-for-academic-researchers/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 82e96e8e884d1e2455f0f829a0b4e94cc93bf4f163a9c19e905a0db65437df25
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
 - 2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo
 - 2026-07-29-chatgpt-nears-1-billion-weekly-active-users
+- 2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth
 - 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
-- 2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna
 embedding_id: 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI announced free access to advanced ChatGPT models for 100,000 academic res
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]] · [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]] · [[2026-07-29-chatgpt-nears-1-billion-weekly-active-users]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]] · [[2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna]]
+**Related:** [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]] · [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]] · [[2026-07-29-chatgpt-nears-1-billion-weekly-active-users]] · [[2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]]
 <!-- graph:end -->

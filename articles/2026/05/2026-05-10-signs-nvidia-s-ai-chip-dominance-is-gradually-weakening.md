@@ -4,8 +4,8 @@ title: Signs Nvidia's AI Chip Dominance Is Gradually Weakening
 date: '2026-05-10'
 source: The Motley Fool
 url_original: null
-url_canonical: https://www.fool.com/investing/2026/05/08/the-evidence-is-piling-up-nvidias-ai-chip-dominanc/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: df0758ab44fe48ecbc84c03e84a976528607a943bf7c9aa3fa0f33a23682a682

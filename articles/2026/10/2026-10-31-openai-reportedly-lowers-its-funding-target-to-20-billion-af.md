@@ -26,7 +26,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-10-31-openai-cuts-its-round-to-20-billion-after-raising-less-than
 related_article_ids:
 - 2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc
-- 2026-10-31-october-31-2026-wall-street-journal
+- 2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b
 embedding_id: 2026-10-31-openai-reportedly-lowers-its-funding-target-to-20-billion-af
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Financial Times reports that OpenAI cut its target for the current round fro
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-10-31-openai-cuts-its-round-to-20-billion-after-raising-less-than]]
-**Related:** [[2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc]] · [[2026-10-31-october-31-2026-wall-street-journal]]
+**Related:** [[2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc]] · [[2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b]]
 <!-- graph:end -->

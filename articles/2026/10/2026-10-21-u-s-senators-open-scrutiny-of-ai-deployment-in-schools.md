@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai
 - 2026-07-19-advocates-tell-google-to-fix-ai-mode-or-leave-classrooms
+- 2026-11-09-meta-expands-ai-age-estimation-worldwide-as-washington-press
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
-- 2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine
 embedding_id: 2026-10-21-u-s-senators-open-scrutiny-of-ai-deployment-in-schools
 event_name: ''
 ---
@@ -38,5 +38,5 @@ WSJ reports senators launched an inquiry into Google's push to bring AI into edu
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai]] · [[2026-07-19-advocates-tell-google-to-fix-ai-mode-or-leave-classrooms]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]] · [[2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine]]
+**Related:** [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai]] · [[2026-07-19-advocates-tell-google-to-fix-ai-mode-or-leave-classrooms]] · [[2026-11-09-meta-expands-ai-age-estimation-worldwide-as-washington-press]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]]
 <!-- graph:end -->

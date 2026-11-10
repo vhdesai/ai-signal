@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
+- 2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-courts-accentur
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
-- 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 embedding_id: 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Meta is mounting a new push to sell AI tools and services to companies, seeking 
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]]
+**Related:** [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-courts-accentur]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
 <!-- graph:end -->

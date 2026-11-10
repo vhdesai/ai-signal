@@ -23,7 +23,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-06-november-6-2026-business-insider-2
 - 2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety
-- 2026-11-01-money-leaves-the-ai-trade-as-financing-becomes-the-build-out
 embedding_id: 2026-11-06-november-6-2026-business-insider
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Stocks reversed sharply on Thursday as fears centered on AI companies: the Nasda
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-06-november-6-2026-business-insider-2]] · [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety]] · [[2026-11-01-money-leaves-the-ai-trade-as-financing-becomes-the-build-out]]
+**Related:** [[2026-11-06-november-6-2026-business-insider-2]] · [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety]]
 <!-- graph:end -->

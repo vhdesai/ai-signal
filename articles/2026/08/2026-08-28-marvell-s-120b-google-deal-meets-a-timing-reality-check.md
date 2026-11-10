@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-28-marvell-sells-off-8-as-google-custom-silicon-revenue-slips-t
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
+- 2026-11-08-november-9-2026-the-information
 - 2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr
-- 2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending
 embedding_id: 2026-08-28-marvell-s-120b-google-deal-meets-a-timing-reality-check
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Shares fell ~8% after management said revenue becomes meaningful only in fiscal 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-28-marvell-sells-off-8-as-google-custom-silicon-revenue-slips-t]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr]] · [[2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending]]
+**Related:** [[2026-08-28-marvell-sells-off-8-as-google-custom-silicon-revenue-slips-t]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-11-08-november-9-2026-the-information]] · [[2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr]]
 <!-- graph:end -->

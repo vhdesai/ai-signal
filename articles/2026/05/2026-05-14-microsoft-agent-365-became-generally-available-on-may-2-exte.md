@@ -5,8 +5,8 @@ title: Microsoft Agent 365 became generally available on May 2, extending enterp
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: a43cb89db5a52d3095d6eb4194bcb02846ac8659d10d1c4c5e43e656981e31f4

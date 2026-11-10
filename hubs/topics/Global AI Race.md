@@ -1,19 +1,56 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1716
+member_count: 1753
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1716 connected article(s).
+> Auto-generated topic hub. 1753 connected article(s).
 
+- `2026-11-09` [[2026-11-09-november-9-2026-reuters-2|[November 9, 2026] · [Reuters]]]
+- `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
+- `2026-11-09` [[2026-11-09-november-9-2026-dealbook|[November 9, 2026] · [DealBook]]]
+- `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
+- `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-as-federal-safety-te|Trump signals openness to AI guardrails as federal safety testing moves under the White House]]
+- `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
+- `2026-11-09` [[2026-11-09-trump-says-he-doesn-t-mind-guardrails-as-anthropic-backed-sa|Trump says he doesn't mind guardrails as Anthropic-backed safety groups map a post-midterm agenda]]
+- `2026-11-09` [[2026-11-09-trump-says-ai-risks-can-be-managed-signals-openness-to-guard|Trump says AI risks can be managed, signals openness to guardrails]]
+- `2026-11-09` [[2026-11-09-november-9-2026-yahoo-finance|November 9, 2026 · Yahoo Finance]]
+- `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-consumer-agents-scale-deepseek-harness-passes-1-5-million-da|Consumer agents scale: DeepSeek Harness passes 1.5 million daily users as Apple readies an agentic Siri]]
+- `2026-11-08` [[2026-11-08-november-7-2026-the-decoder|[November 7, 2026] · [The Decoder]]]
+- `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]
+- `2026-11-08` [[2026-11-08-nvidia-s-board-opens-an-independent-probe-and-key-person-ris|Nvidia's board opens an independent probe, and key-person risk moves to the center of the AI trade]]
+- `2026-11-08` [[2026-11-08-nvidia-s-board-opens-an-independent-investigation-after-repo|Nvidia's board opens an independent investigation after reports that Jensen Huang was targeted by Chinese intelligence]]
+- `2026-11-08` [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics|November 9, 2026 · Wall Street Journal (WSJ Politics)]]
+- `2026-11-08` [[2026-11-08-november-9-2026-semafor|November 9, 2026 · Semafor]]
+- `2026-11-08` [[2026-11-08-deepseek-reports-rising-adoption-of-its-harness-agent-platfo|DeepSeek reports rising adoption of its Harness agent platform]]
+- `2026-11-08` [[2026-11-08-consumer-agent-platforms-scale-deepseek-harness-passes-1-5-m|Consumer agent platforms scale: DeepSeek Harness passes 1.5 million daily users as Apple readies a more capable Siri]]
+- `2026-11-08` [[2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2|Co-Design Bench: the best coding agent fully completes only 26% of real-world change requests]]
+- `2026-11-07` [[2026-11-07-lender-moves-to-sell-half-a-billion-dollars-of-data-center-l|lender moves to sell half a billion dollars of data center loans, including Stargate debt, as builders look abroad]]
 - `2026-11-07` [[2026-11-07-november-7-2026-dealbook|[November 7, 2026] · [DealBook]]]
+- `2026-11-07` [[2026-11-07-who-pays-when-agents-misfire-ai-liability-insurance-arrives|Who pays when agents misfire? AI liability insurance arrives as a rogue test agent raises legal questions]]
+- `2026-11-07` [[2026-11-07-us-intelligence-memo-reportedly-says-china-recruited-a-tech|US intelligence memo reportedly says China recruited a tech executive to spy on Nvidia's Jensen Huang]]
+- `2026-11-07` [[2026-11-07-railway-employee-s-testing-agent-probes-a-rival-s-systems-ra|Railway employee's testing agent probes a rival's systems, raising the question of who is liable for AI agents]]
+- `2026-11-07` [[2026-11-07-nous-research-releases-arete-27b-a-qwen3-8-27b-version-train|Nous Research releases Arete-27B, a Qwen3.8-27B version trained to drop Chinese state framing]]
+- `2026-11-07` [[2026-11-07-nous-research-releases-arete-27b-to-strip-state-framing-from|Nous Research releases Arete-27B to strip state framing from Qwen]]
+- `2026-11-07` [[2026-11-07-nous-research-releases-arete-27b-to-strip-chinese-state-fram|Nous Research releases Arete-27B to strip Chinese state framing from Qwen]]
+- `2026-11-07` [[2026-11-07-new-reporting-arete-27b-targets-model-propaganda|New reporting: Arete-27B targets model propaganda]]
+- `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
 - `2026-11-06` [[2026-11-06-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]
+- `2026-11-06` [[2026-11-06-censys-finds-more-than-800-instances-of-the-ai-hacking-tool|Censys finds more than 800 instances of the AI hacking tool Artex open to the internet without a password]]
 - `2026-11-06` [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d|Autonomous attack tooling spreads as labs widen access for defenders]]
+- `2026-11-06` [[2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier|Autonomous attack tooling spreads as OpenAI widens frontier access for defenders]]
 - `2026-11-06` [[2026-11-06-black-october-shows-ai-s-edge-going-to-cybercriminals-as-doj|'Black October' shows AI's edge going to cybercriminals as DOJ forms a superintelligence task force]]
 - `2026-11-05` [[2026-11-05-november-6-2026-dealbook-2|[November 6, 2026] · [DealBook]]]
+- `2026-11-05` [[2026-11-05-the-financial-times-reports-that-china-s-national-developmen|The Financial Times reports that China's National Development and Reform Commission told SoftBank it will not approve…]]
+- `2026-11-05` [[2026-11-05-reuters-reports-that-about-600-000-nvidia-h200-chips-are-sit|Reuters reports that about 600,000 Nvidia H200 chips are sitting in Hong Kong waiting for shipment to mainland China,…]]
+- `2026-11-05` [[2026-11-05-original-material-examined-included-openai-anthropic-tencent|Original material examined included OpenAI, Anthropic, Tencent, Conductor, Microsoft/GitHub, NVIDIA/Hugging Face,…]]
 - `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]
+- `2026-11-05` [[2026-11-05-cnbc-reports-that-kimi-maker-moonshot-ai-discussed-leasing-n|CNBC reports that Kimi maker Moonshot AI discussed leasing Nvidia Blackwell clusters of 8,000+ GPUs from European…]]
+- `2026-11-05` [[2026-11-05-additional-bounded-checks-covered-mistral-cursor-replit-xai|Additional bounded checks covered Mistral, Cursor, Replit, xAI, Alibaba/Qwen, Baidu Research, Huawei, SenseTime,…]]
 - `2026-11-03` [[2026-11-03-november-3-2026-the-information-2|[November 3, 2026] · [The Information]]]
 - `2026-11-03` [[2026-11-03-nvidia-tells-cloud-partners-to-limit-future-business-with-ch|Nvidia tells cloud partners to limit future business with Chinese customers]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]

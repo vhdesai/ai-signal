@@ -22,8 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-25-crusoe-abandons-its-1-25b-plan-to-power-ai-data-centers-with
+- 2026-11-09-ai-power-rush-sends-data-centres-hunting-for-used-turbines-a
+- 2026-11-08-power-and-memory-bottlenecks-bite-used-turbines-a-norwegian
 - 2026-09-06-crusoe-raises-3b-at-a-30b-valuation
-- 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
 embedding_id: 2026-09-25-crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-c
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Crusoe ended plans to use Boom Supersonic’s stationary gas turbines at AI data
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-25-crusoe-abandons-its-1-25b-plan-to-power-ai-data-centers-with]] · [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]]
+**Related:** [[2026-09-25-crusoe-abandons-its-1-25b-plan-to-power-ai-data-centers-with]] · [[2026-11-09-ai-power-rush-sends-data-centres-hunting-for-used-turbines-a]] · [[2026-11-08-power-and-memory-bottlenecks-bite-used-turbines-a-norwegian]] · [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation]]
 <!-- graph:end -->

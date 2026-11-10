@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
-- 2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou
+- 2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus
 embedding_id: 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 event_name: ''
 ---
@@ -35,5 +35,5 @@ TechCrunch reports that Encord is testing brain-wave-tagged robotics training da
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware]] · [[2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou]]
+**Related:** [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware]] · [[2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus]]
 <!-- graph:end -->

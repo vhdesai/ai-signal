@@ -3,25 +3,24 @@ article_id: 2026-11-06-mit-s-chemeleon-predicts-molecular-properties-when-lab-da
 title: MIT's CheMeleon predicts molecular properties when lab data is scarce
 date: '2026-11-06'
 source: '[MIT News]'
-url_original: https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106
-url_canonical: https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106
-url_status: ok
-digest_source: digests\raw\2026-11-07_065733_Final-Daily-AI-News-Digest.md
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-11-07_070324_Inbox_Daily AI News Digest - November
+  7, 2026.md
 content_hash: 44934efc66c54a0613e75a5128d05e7f2ad00323d916be82cdeeed489de18ffb
 normalized_title_hash: 80da82ddc14a9114
-canonical_url_hash: 0bb49f96544d94ec
-tags:
-- Research
+canonical_url_hash: ''
+tags: []
 entities: []
 themes:
+- datacenter-infrastructure
 - model-capabilities
+- company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
-- 2026-09-04-cornell-and-bti-s-aime-maps-candidates-for-unidentified-smal
-- 2026-08-27-looking-beyond-natural-sequences-mit-framework-for-computati
+dedupe_status: duplicate
+canonical_article_id: 2026-11-06-mit-s-chemeleon-model-predicts-molecular-properties-from-ver
+related_article_ids: []
 embedding_id: 2026-11-06-mit-s-chemeleon-predicts-molecular-properties-when-lab-data
 event_name: ''
 ---
@@ -33,6 +32,6 @@ MIT chemical engineers, working with BASF researchers, describe CheMeleon, an op
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c]] · [[2026-09-04-cornell-and-bti-s-aime-maps-candidates-for-unidentified-smal]] · [[2026-08-27-looking-beyond-natural-sequences-mit-framework-for-computati]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Canonical:** [[2026-11-06-mit-s-chemeleon-model-predicts-molecular-properties-from-ver]]
 <!-- graph:end -->

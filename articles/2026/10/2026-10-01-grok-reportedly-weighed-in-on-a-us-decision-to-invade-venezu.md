@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr
 - 2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi
 - 2026-06-21-politico-published-a-deep-investigation-into-the-integration
-- 2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai
+- 2026-11-08-november-9-2026-semafor
 embedding_id: 2026-10-01-grok-reportedly-weighed-in-on-a-us-decision-to-invade-venezu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ President Trump reportedly asked Grok for its opinion before authorizing the ope
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr]] · [[2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi]] · [[2026-06-21-politico-published-a-deep-investigation-into-the-integration]] · [[2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai]]
+**Related:** [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr]] · [[2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi]] · [[2026-06-21-politico-published-a-deep-investigation-into-the-integration]] · [[2026-11-08-november-9-2026-semafor]]
 <!-- graph:end -->

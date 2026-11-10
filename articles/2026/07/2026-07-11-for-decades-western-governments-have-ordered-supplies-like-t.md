@@ -18,7 +18,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
+related_article_ids:
+- 2026-11-09-ai-power-rush-sends-data-centres-hunting-for-used-turbines-a
 embedding_id: 2026-07-11-for-decades-western-governments-have-ordered-supplies-like-t
 event_name: ''
 ---
@@ -31,4 +32,5 @@ For decades, Western governments have ordered supplies like tanks, fighter jets 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
+**Related:** [[2026-11-09-ai-power-rush-sends-data-centres-hunting-for-used-turbines-a]]
 <!-- graph:end -->

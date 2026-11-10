@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-11-01-google-energy-executive-says-data-centers-in-space-could-cos
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 - 2026-10-01-google-says-starship-must-launch-1-800-times-before-orbital
+- 2026-11-07-november-7-2026-techradar-via-yahoo-finance
 - 2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl
 embedding_id: 2026-11-02-the-information-reports-that-google-s-energy-chief-put-the-c
 event_name: ''
@@ -40,5 +41,5 @@ The Information reports that Google's energy chief put the cost of orbital data 
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-01-google-energy-executive-says-data-centers-in-space-could-cos]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-10-01-google-says-starship-must-launch-1-800-times-before-orbital]] · [[2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl]]
+**Related:** [[2026-11-01-google-energy-executive-says-data-centers-in-space-could-cos]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-10-01-google-says-starship-must-launch-1-800-times-before-orbital]] · [[2026-11-07-november-7-2026-techradar-via-yahoo-finance]] · [[2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl]]
 <!-- graph:end -->

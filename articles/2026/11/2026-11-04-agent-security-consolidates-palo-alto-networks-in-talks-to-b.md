@@ -3,17 +3,16 @@ article_id: 2026-11-04-agent-security-consolidates-palo-alto-networks-in-talks-t
 title: 'Agent security consolidates: Palo Alto Networks in talks to buy Clutch for
   about $500 million'
 date: '2026-11-04'
-source: The Information | November 5, 2026 · PitchBook | November 5, 2026 · CIO Dive*
+source: The Information | November 5, 2026 · PitchBook | November 5, 2026 · CIO Dive
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-11-05_094536_Inbox_Fw Daily AI News Digest - November
+  5, 2026.md
 content_hash: 6599e8e330ab2ee18f60f1ec5f7b04c3be48347094689deb3abd17f4f52bd7c2
 normalized_title_hash: f51aa5a1d18a90e8
 canonical_url_hash: ''
-tags:
-- Exclusive
-- New
+tags: []
 entities: []
 themes:
 - company-storylines

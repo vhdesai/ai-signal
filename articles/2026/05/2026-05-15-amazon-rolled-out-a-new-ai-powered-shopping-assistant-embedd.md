@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 - 2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from
+- 2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy
 - 2026-11-01-ai-shopping-agents-emerge-as-a-potential-rival-to-amazon-s-e
-- 2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating
 embedding_id: 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Amazon rolled out a new AI-powered shopping assistant embedded directly into its
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from]] · [[2026-11-01-ai-shopping-agents-emerge-as-a-potential-rival-to-amazon-s-e]] · [[2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating]]
+**Related:** [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from]] · [[2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy]] · [[2026-11-01-ai-shopping-agents-emerge-as-a-potential-rival-to-amazon-s-e]]
 <!-- graph:end -->

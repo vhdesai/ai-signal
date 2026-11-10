@@ -1,22 +1,56 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 967
+member_count: 1001
 ---
 
 # Meta
 
-> Auto-generated entity hub. 967 connected article(s).
+> Auto-generated entity hub. 1001 connected article(s).
 
+- `2026-11-09` [[2026-11-09-november-9-2026-semafor|[November 9, 2026] · [Semafor]]]
+- `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
+- `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
+- `2026-11-09` [[2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors|Nvidia shares fall about 5% before Monday's open as investors weigh key-person risk]]
+- `2026-11-09` [[2026-11-09-november-9-2026-yahoo-finance|November 9, 2026 · Yahoo Finance]]
+- `2026-11-09` [[2026-11-09-november-9-2026-pitchbook|November 9, 2026 · PitchBook]]
+- `2026-11-09` [[2026-11-09-november-9-2026-dealbook-2|November 9, 2026 · DealBook]]
+- `2026-11-09` [[2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting|Meta is building an enterprise AI sales team and recruiting consulting partners]]
+- `2026-11-09` [[2026-11-09-meta-expands-ai-based-age-estimation-for-instagram-teen-prot|Meta expands AI-based age estimation for Instagram teen protections]]
+- `2026-11-09` [[2026-11-09-meta-expands-ai-age-estimation-worldwide-as-washington-press|Meta expands AI age estimation worldwide as Washington presses Google on AI in schools]]
+- `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture|Meta builds an enterprise AI sales team and courts Accenture, Deloitte and IBM]]
+- `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-recruits-accent|Meta builds an enterprise AI sales force and recruits Accenture, Deloitte and IBM as channels]]
+- `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-courts-accentur|Meta builds an enterprise AI sales force and courts Accenture, Deloitte and IBM]]
+- `2026-11-09` [[2026-11-09-mit-and-ubc-s-worldparticle-model-simulates-sand-fluids-and|MIT and UBC's WorldParticle model simulates sand, fluids, and proteins with one network]]
+- `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-enterprises-chase-agentic-ai-value-as-workslop-sparks-a-back|Enterprises chase agentic AI value as "workslop" sparks a backlash from bosses]]
+- `2026-11-09` [[2026-11-09-consumer-agents-scale-deepseek-harness-passes-1-5-million-da|Consumer agents scale: DeepSeek Harness passes 1.5 million daily users as Apple readies an agentic Siri]]
+- `2026-11-09` [[2026-11-09-anthropic-presses-ahead-with-its-ipo-roadshow-as-openai-clos|Anthropic presses ahead with its IPO roadshow as OpenAI closes $11 billion at a reduced target]]
+- `2026-11-08` [[2026-11-08-november-9-2026-the-information|[November 9, 2026] · [The Information]]]
+- `2026-11-08` [[2026-11-08-introducing-arete-27b-qwen3-8-27b-post-trained-to-reinforce|Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values]]
+- `2026-11-08` [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n|AI's capital appetite meets a tiring market: $300 billion of new stock, souring GPU loans and a $20 billion OpenAI target]]
+- `2026-11-08` [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-as-neoclouds-hea|AI's capital appetite meets a tiring market as neoclouds head into a pivotal earnings week]]
+- `2026-11-08` [[2026-11-08-ai-companies-have-issued-more-than-300-billion-in-new-stock|AI companies have issued more than $300 billion in new stock this year, and about $100 billion more could follow]]
+- `2026-11-07` [[2026-11-07-november-8-2026-business-insider|November 8, 2026 · Business Insider]]
+- `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
 - `2026-11-06` [[2026-11-06-november-6-2026-techcrunch-2|[November 6, 2026] · [TechCrunch]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-business-insider|[November 6, 2026] · [Business Insider]]]
+- `2026-11-06` [[2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas|Voters back data center restrictions in 40 of 41 ballot measures as Big Tech works to rebuild ties with Democrats]]
 - `2026-11-06` [[2026-11-06-selection-limits-meta-s-data-center-story-date-only-cornell|Selection limits: Meta’s data-center story, date-only Cornell and CMU stories, the Princeton paper with inferred…]]
 - `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls|Ramp data shows AI token use rising while spending stalls]]
+- `2026-11-06` [[2026-11-06-meta-launches-spaces-letting-muse-build-trackers-and-planner|Meta launches Spaces, letting Muse build trackers and planners that update automatically]]
+- `2026-11-06` [[2026-11-06-meta-introduces-spaces-for-project-based-muse-collaboration|Meta introduces Spaces for project-based Muse collaboration]]
 - `2026-11-06` [[2026-11-06-meta-deploys-specialized-muse-models-with-active-memory-and|Meta deploys specialized Muse models with Active Memory and Active Focus]]
 - `2026-11-06` [[2026-11-06-meta-deploys-specialized-muse-and-meta-ai-models-with-active|Meta deploys specialized Muse and Meta AI models with Active Memory and Active Focus]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]
 - `2026-11-06` [[2026-11-06-consumer-agents-get-persistent-meta-launches-muse-spaces-as|Consumer agents get persistent: Meta launches Muse Spaces as Amazon lets shoppers text Alexa]]
 - `2026-11-06` [[2026-11-06-consumer-agents-become-persistent-and-marketplaces-build-the|Consumer agents become persistent, and marketplaces build their own]]
+- `2026-11-06` [[2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier|Autonomous attack tooling spreads as OpenAI widens frontier access for defenders]]
+- `2026-11-06` [[2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy|Amazon lets shoppers text Alexa to search, compare and buy]]
 - `2026-11-06` [[2026-11-06-access-and-coverage-gaps-axios-ai-was-not-effectively-checke|Access and coverage gaps: Axios AI+ was not effectively checked: searches returned old or indirect results]]
+- `2026-11-05` [[2026-11-05-ricursive-intelligence-a-startup-founded-by-former-googlers|Ricursive Intelligence, a startup founded by former Googlers, released Ripple-65B Preview, a dense 65B Apache-2.0 model…]]
+- `2026-11-05` [[2026-11-05-meta-bought-conductor-whose-platform-runs-teams-of-coding-ag|Meta bought Conductor, whose platform runs teams of coding agents in parallel workspaces using models from Anthropic…]]
 - `2026-11-05` [[2026-11-05-airbnb-discloses-ties-to-brian-chesky-s-secretive-self-funde|Airbnb discloses ties to Brian Chesky's secretive, self-funded AI lab]]
 - `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-04` [[2026-11-04-coding-agent-arms-race-meta-buys-conductor-as-openai-lands-c|Coding-agent arms race: Meta buys Conductor as OpenAI lands Claude Code's product chief]]

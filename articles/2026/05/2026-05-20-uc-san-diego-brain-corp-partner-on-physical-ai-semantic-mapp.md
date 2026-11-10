@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
+- 2026-11-09-november-9-2026-mit-news
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
-- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 embedding_id: 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 event_name: ''
 ---
@@ -38,5 +38,5 @@ UC San Diego's Jacobs School of Engineering and Brain Corp announced an expanded
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]]
+**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware]] · [[2026-11-09-november-9-2026-mit-news]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
+- 2026-11-09-november-9-2026-mit-news
 - 2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule
-- 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
 embedding_id: 2026-05-18-berkeley-lab-s-matterchat-teaches-ai-to-see-scientific-langu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Berkeley Lab unveiled MatterChat, a multimodal model designed to interpret the s
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]]
+**Related:** [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-11-09-november-9-2026-mit-news]] · [[2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule]]
 <!-- graph:end -->

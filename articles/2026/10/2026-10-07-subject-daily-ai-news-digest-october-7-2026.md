@@ -35,8 +35,8 @@ related_article_ids:
 - 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
+- 2026-11-08-november-7-2026-techcrunch
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
-- 2026-10-01-daily-ai-news-digest-october-1-2026
 embedding_id: 2026-10-07-subject-daily-ai-news-digest-october-7-2026
 event_name: ''
 ---
@@ -50,5 +50,5 @@ Key themes this edition: - AI Safety & Policy (4): Anthropic widens vetted cyber
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-10-01-daily-ai-news-digest-october-1-2026]]
+**Related:** [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-11-08-november-7-2026-techcrunch]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]]
 <!-- graph:end -->

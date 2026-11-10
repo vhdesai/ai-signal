@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
 - 2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra
 - 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
+- 2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2
 embedding_id: 2026-09-13-gpt-6-astra-now-beats-human-baseline-on-surveillance-drone-p
 event_name: ''
 ---
@@ -36,5 +37,5 @@ On Andon Labs' Vending-Bench agent benchmark, GPT-6 Astra earned nearly 3x as mu
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]] · [[2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra]] · [[2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul]]
+**Related:** [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]] · [[2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra]] · [[2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul]] · [[2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2]]
 <!-- graph:end -->

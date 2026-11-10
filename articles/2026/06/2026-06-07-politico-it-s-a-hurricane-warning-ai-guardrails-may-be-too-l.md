@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 - 2026-06-10-anthropic-walks-back-policy-that-could-have-sabotaged-ai-res
 - 2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res
+- 2026-11-08-november-9-2026-semafor
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
-- 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
 embedding_id: 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Politico published a long-form analysis arguing that the window for establishing
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]] · [[2026-06-10-anthropic-walks-back-policy-that-could-have-sabotaged-ai-res]] · [[2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]]
+**Related:** [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]] · [[2026-06-10-anthropic-walks-back-policy-that-could-have-sabotaged-ai-res]] · [[2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res]] · [[2026-11-08-november-9-2026-semafor]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]]
 <!-- graph:end -->

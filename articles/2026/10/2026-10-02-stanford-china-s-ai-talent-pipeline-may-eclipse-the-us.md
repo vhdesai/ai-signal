@@ -39,7 +39,7 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
-- 2026-05-17-microsoft-copilot-ai-intelligence-briefing
+- 2026-11-08-november-7-2026-techcrunch
 embedding_id: 2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us
 event_name: ''
 ---
@@ -53,5 +53,5 @@ Bloomberg covers a new Stanford study arguing China's AI talent pipeline is on t
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Google]] · [[Huawei]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Tesla]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-05-17-microsoft-copilot-ai-intelligence-briefing]]
+**Related:** [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-11-08-november-7-2026-techcrunch]]
 <!-- graph:end -->

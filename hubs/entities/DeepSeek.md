@@ -1,14 +1,27 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 581
+member_count: 594
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 581 connected article(s).
+> Auto-generated entity hub. 594 connected article(s).
 
+- `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
+- `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
+- `2026-11-09` [[2026-11-09-november-9-2026-yahoo-finance|November 9, 2026 · Yahoo Finance]]
+- `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-consumer-agents-scale-deepseek-harness-passes-1-5-million-da|Consumer agents scale: DeepSeek Harness passes 1.5 million daily users as Apple readies an agentic Siri]]
+- `2026-11-08` [[2026-11-08-november-7-2026-the-decoder|[November 7, 2026] · [The Decoder]]]
+- `2026-11-08` [[2026-11-08-deepseek-reports-rising-adoption-of-its-harness-agent-platfo|DeepSeek reports rising adoption of its Harness agent platform]]
+- `2026-11-08` [[2026-11-08-consumer-agent-platforms-scale-deepseek-harness-passes-1-5-m|Consumer agent platforms scale: DeepSeek Harness passes 1.5 million daily users as Apple readies a more capable Siri]]
 - `2026-11-07` [[2026-11-07-november-7-2026-dealbook|[November 7, 2026] · [DealBook]]]
+- `2026-11-07` [[2026-11-07-who-pays-when-agents-misfire-ai-liability-insurance-arrives|Who pays when agents misfire? AI liability insurance arrives as a rogue test agent raises legal questions]]
+- `2026-11-07` [[2026-11-07-railway-employee-s-testing-agent-probes-a-rival-s-systems-ra|Railway employee's testing agent probes a rival's systems, raising the question of who is liable for AI agents]]
+- `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]
+- `2026-11-05` [[2026-11-05-additional-bounded-checks-covered-mistral-cursor-replit-xai|Additional bounded checks covered Mistral, Cursor, Replit, xAI, Alibaba/Qwen, Baidu Research, Huawei, SenseTime,…]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]

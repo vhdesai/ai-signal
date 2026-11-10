@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 - 2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear
 - 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
+- 2026-11-09-amazon-s-hope-prunes-half-of-a-mixture-of-experts-model-with
 - 2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c
-- 2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo
 embedding_id: 2026-10-12-amazon-science-reports-priming-method-to-alter-model-archite
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon Science published research on priming, a method for adapting pretrained T
 
 **Entities:** [[Amazon]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]] · [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]] · [[2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c]] · [[2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo]]
+**Related:** [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]] · [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]] · [[2026-11-09-amazon-s-hope-prunes-half-of-a-mixture-of-experts-model-with]] · [[2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c]]
 <!-- graph:end -->

@@ -27,10 +27,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
-- 2026-10-07-subject-daily-ai-news-digest-october-7-2026
 embedding_id: 2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion
 event_name: ''
 ---
@@ -44,5 +44,5 @@ TechCrunch reports Microsoft attributed a large-scale campaign to China-aligned 
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]]
+**Related:** [[2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]]
 <!-- graph:end -->

@@ -4,17 +4,19 @@ title: Meta deploys specialized Muse and Meta AI models with Active Memory and A
   Focus
 date: '2026-11-06'
 source: '[Meta AI Research]'
-url_original: https://www.unite.ai/current-muse-scores-47-on-metas-personal-superintelligence-index/
-url_canonical: https://www.unite.ai/current-muse-scores-47-on-metas-personal-superintelligence-index/
-url_status: ok
-digest_source: digests\raw\2026-11-07_065733_Final-Daily-AI-News-Digest.md
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-11-07_070324_Inbox_Daily AI News Digest - November
+  7, 2026.md
 content_hash: 0f24ab989b2e4bdbd6dbd5077e05e2aa114005bb7f284d5d0a43ff17875a80f5
 normalized_title_hash: 970009834c556a0d
-canonical_url_hash: 626764c8a38f3de8
+canonical_url_hash: ''
 tags:
 - New
 entities:
 - Meta
+- NVIDIA
 themes:
 - model-capabilities
 cross_cutting_topics: []
@@ -35,7 +37,7 @@ Meta is rolling out specialized versions of the models behind Muse and Meta AI, 
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[Meta]]
+**Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-11-06-meta-deploys-specialized-muse-models-with-active-memory-and]] · [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai]] · [[2026-09-01-meta-introduces-muse-a-voice-to-transcript-research-model]]
 <!-- graph:end -->

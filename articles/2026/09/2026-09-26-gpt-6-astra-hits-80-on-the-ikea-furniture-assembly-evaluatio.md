@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2
 - 2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul
 - 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
 - 2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp
 - 2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b
-- 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
 embedding_id: 2026-09-26-gpt-6-astra-hits-80-on-the-ikea-furniture-assembly-evaluatio
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Epoch AI reports GPT-6 Astra can now identify assembly errors in IKEA furniture 
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul]] · [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]] · [[2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul]]
+**Related:** [[2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2]] · [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul]] · [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]] · [[2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]]
 <!-- graph:end -->

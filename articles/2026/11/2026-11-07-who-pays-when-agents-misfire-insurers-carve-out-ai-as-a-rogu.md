@@ -3,17 +3,17 @@ article_id: 2026-11-07-who-pays-when-agents-misfire-insurers-carve-out-ai-as-a-r
 title: Who pays when agents misfire? Insurers carve out AI as a rogue test agent raises
   liability questions
 date: '2026-11-07'
-source: DealBook | November 7, 2026 · Business Insider*
+source: DealBook | November 7, 2026 · Business Insider
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-11-07_065432_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-11-07_065447_Inbox_Daily AI News Digest - November
+  7, 2026.md
 content_hash: 65a72285342cec3cbbc5ca5f4384b1cf79f312982ee99277baa462417f214173
 normalized_title_hash: 80ea9c9018f77a91
 canonical_url_hash: ''
 tags:
 - New
-- Analysis
 entities: []
 themes:
 - policy-regulation

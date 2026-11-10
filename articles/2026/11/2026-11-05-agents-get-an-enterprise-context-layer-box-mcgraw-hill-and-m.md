@@ -2,11 +2,12 @@
 article_id: 2026-11-05-agents-get-an-enterprise-context-layer-box-mcgraw-hill-and-m
 title: 'Agents get an enterprise context layer: Box, McGraw Hill and multiagent finance'
 date: '2026-11-05'
-source: SiliconANGLE | November 5, 2026 · Business Wire | November 5, 2026 · CIO Dive*
+source: SiliconANGLE | November 5, 2026 · Business Wire | November 5, 2026 · CIO Dive
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-11-05_094536_Inbox_Fw Daily AI News Digest - November
+  5, 2026.md
 content_hash: f23ec75a6bcbdf43b66e30d42c4d40532b5ffa9e5073f2ce4a01f93f3566f6e9
 normalized_title_hash: c88a6ed8eca691ae
 canonical_url_hash: ''
@@ -20,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-at-boxworks-2026-box-launched-box-content-retrieval
 - 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
 embedding_id: 2026-11-05-agents-get-an-enterprise-context-layer-box-mcgraw-hill-and-m
 event_name: ''
 ---
@@ -37,5 +38,5 @@ At BoxWorks, Box launched a retrieval engine built on Nvidia's Nemotron models t
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto]]
+**Related:** [[2026-11-05-at-boxworks-2026-box-launched-box-content-retrieval]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

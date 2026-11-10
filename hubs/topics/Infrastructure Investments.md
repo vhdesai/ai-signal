@@ -1,22 +1,59 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1911
+member_count: 1948
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1911 connected article(s).
+> Auto-generated topic hub. 1948 connected article(s).
 
+- `2026-11-09` [[2026-11-09-november-9-2026-the-straits-times-reuters|[November 9, 2026] · [The Straits Times (Reuters)]]]
+- `2026-11-09` [[2026-11-09-november-9-2026-semafor|[November 9, 2026] · [Semafor]]]
+- `2026-11-09` [[2026-11-09-november-9-2026-google-blog|[November 9, 2026] · [Google Blog]]]
+- `2026-11-09` [[2026-11-09-nvidia-rebellions-and-sk-telecom-partner-on-sovereign-ai-inf|Nvidia, Rebellions, and SK Telecom partner on sovereign AI infrastructure]]
+- `2026-11-09` [[2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors|Nvidia shares fall about 5% before Monday's open as investors weigh key-person risk]]
+- `2026-11-09` [[2026-11-09-nvidia-lets-korean-chips-plug-into-its-rack-systems-and-plan|Nvidia lets Korean chips plug into its rack systems and plans investments in four Korean startups]]
+- `2026-11-09` [[2026-11-09-november-9-2026-dealbook-2|November 9, 2026 · DealBook]]
+- `2026-11-09` [[2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting|Meta is building an enterprise AI sales team and recruiting consulting partners]]
+- `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu|Google adds TPU 8tx and TPU 8i Max as Nvidia opens NVLink Fusion to Korean inference chips]]
+- `2026-11-09` [[2026-11-09-ai-power-rush-sends-data-centres-hunting-for-used-turbines-a|AI power rush sends data centres hunting for used turbines and jet engines]]
+- `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]
+- `2026-11-08` [[2026-11-08-power-and-memory-bottlenecks-bite-used-turbines-a-norwegian|Power and memory bottlenecks bite: used turbines, a Norwegian grid freeze and TSMC eyeing memory]]
+- `2026-11-08` [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance|November 8, 2026 · Financial Times (via Yahoo Finance)]]
+- `2026-11-08` [[2026-11-08-nvidia-rebellions-and-sk-telecom-announce-collaboration-to-a|NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion]]
+- `2026-11-08` [[2026-11-08-google-adds-confidential-computing-and-long-context-tpus-as|Google adds confidential-computing and long-context TPUs as Nvidia opens NVLink to Korean chips]]
+- `2026-11-08` [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n|AI's capital appetite meets a tiring market: $300 billion of new stock, souring GPU loans and a $20 billion OpenAI target]]
+- `2026-11-08` [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-as-neoclouds-hea|AI's capital appetite meets a tiring market as neoclouds head into a pivotal earnings week]]
+- `2026-11-08` [[2026-11-08-ai-companies-have-issued-more-than-300-billion-in-new-stock|AI companies have issued more than $300 billion in new stock this year, and about $100 billion more could follow]]
+- `2026-11-07` [[2026-11-07-lender-moves-to-sell-half-a-billion-dollars-of-data-center-l|lender moves to sell half a billion dollars of data center loans, including Stargate debt, as builders look abroad]]
+- `2026-11-07` [[2026-11-07-november-7-2026-the-information-2|[November 7, 2026] · [The Information]]]
+- `2026-11-07` [[2026-11-07-november-7-2026-techradar-via-yahoo-finance|[November 7, 2026] · [TechRadar (via Yahoo Finance)]]]
+- `2026-11-07` [[2026-11-07-spacex-appears-to-be-building-a-multigigawatt-supercomputer|SpaceX appears to be building a multigigawatt supercomputer in Texas as a new governor promises data center restrictions]]
+- `2026-11-07` [[2026-11-07-november-8-2026-financial-times-via-yahoo-finance|November 8, 2026 · Financial Times (via Yahoo Finance)]]
+- `2026-11-07` [[2026-11-07-executive-briefing-6-verified-stories|EXECUTIVE BRIEFING · 6 VERIFIED STORIES]]
+- `2026-11-07` [[2026-11-07-executive-ai-briefing|EXECUTIVE AI BRIEFING]]
+- `2026-11-07` [[2026-11-07-daily-ai-news-digest-november-9-2026|Daily AI News Digest – November 9, 2026]]
+- `2026-11-06` [[2026-11-06-november-7-2026-the-information|[November 7, 2026] · [The Information]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-wall-street-journal|[November 6, 2026] · [Wall Street Journal]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-reuters|[November 6, 2026] · [Reuters]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-crusoe|[November 6, 2026] · [Crusoe]]]
 - `2026-11-06` [[2026-11-06-november-6-2026-business-insider|[November 6, 2026] · [Business Insider]]]
 - `2026-11-06` [[2026-11-06-november-5-2026-the-information|[November 5, 2026] · [The Information]]]
+- `2026-11-06` [[2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas|Voters back data center restrictions in 40 of 41 ballot measures as Big Tech works to rebuild ties with Democrats]]
+- `2026-11-06` [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-protesters-st|The data-center backlash goes transatlantic as protesters storm a Microsoft site in Amsterdam]]
 - `2026-11-06` [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-ai-companies|The data-center backlash goes transatlantic as AI companies rethink siting]]
+- `2026-11-06` [[2026-11-06-microsoft-is-ending-its-2023-deal-to-rent-servers-from-oracl|Microsoft is ending its 2023 deal to rent servers from Oracle]]
 - `2026-11-06` [[2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste|Microsoft drops Oracle capacity and trims its neocloud roster as GPU futures stall again]]
+- `2026-11-06` [[2026-11-06-google-takes-direct-control-of-crusoe-s-troubled-wyoming-dat|Google takes direct control of Crusoe's troubled Wyoming data-center campus]]
 - `2026-11-06` [[2026-11-06-google-takes-direct-control-of-crusoe-s-troubled-10-gigawatt|Google takes direct control of Crusoe's troubled 10-gigawatt Wyoming campus]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-its-delayed-wyoming-data-center-project-to-goog|Crusoe sells its delayed Wyoming data center project to Google]]
+- `2026-11-05` [[2026-11-05-openai-proposed-rules-for-large-electricity-users|OpenAI proposed rules for large electricity users]]
+- `2026-11-05` [[2026-11-05-microsoft-spent-5b-less-than-expected-on-ai-infrastructure-l|Microsoft spent $5B less than expected on AI infrastructure last quarter]]
+- `2026-11-05` [[2026-11-05-executive-ai-briefing|EXECUTIVE AI BRIEFING]]
 - `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]
+- `2026-11-05` [[2026-11-05-cnbc-reports-that-kimi-maker-moonshot-ai-discussed-leasing-n|CNBC reports that Kimi maker Moonshot AI discussed leasing Nvidia Blackwell clusters of 8,000+ GPUs from European…]]
 - `2026-11-04` [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se|Data-center backlash reprices AI infrastructure: neoclouds sell off while incumbents gain]]
 - `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]
 - `2026-11-02` [[2026-11-02-november-3-2026-the-next-web|[November 3, 2026] · [The Next Web]]]

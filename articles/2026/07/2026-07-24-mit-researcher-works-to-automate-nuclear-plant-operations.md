@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
+- 2026-11-09-november-9-2026-mit-news
 - 2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy
 - 2026-08-01-mit-news-reports-that-csail-director-daniela-rus-received-th
 embedding_id: 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
@@ -37,5 +38,5 @@ MIT News profiles doctoral work on supervised autonomous control systems for nuc
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy]] · [[2026-08-01-mit-news-reports-that-csail-director-daniela-rus-received-th]]
+**Related:** [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-11-09-november-9-2026-mit-news]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy]] · [[2026-08-01-mit-news-reports-that-csail-director-daniela-rus-received-th]]
 <!-- graph:end -->

@@ -28,8 +28,8 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
 related_article_ids:
 - 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
+- 2026-11-06-anthropic-will-start-its-ipo-roadshow-next-week-despite-pres
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
-- 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
 embedding_id: 2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Anthropic may seek a valuation above $2T in an autumn listing, with backers mode
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]]
-**Related:** [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]]
+**Related:** [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-11-06-anthropic-will-start-its-ipo-roadshow-next-week-despite-pres]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
 <!-- graph:end -->

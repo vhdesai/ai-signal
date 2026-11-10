@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
+- 2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus
 - event-icra-2026-icra-2026-strategic-implications
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-08-20-robots-rewiring-construction
-- 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 embedding_id: 2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou
 event_name: ''
 ---
@@ -36,5 +36,5 @@ PitchBook argued that robotics developers are progressing on AI controllers, but
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[event-icra-2026-icra-2026-strategic-implications]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-08-20-robots-rewiring-construction]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]]
+**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus]] · [[event-icra-2026-icra-2026-strategic-implications]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-08-20-robots-rewiring-construction]]
 <!-- graph:end -->

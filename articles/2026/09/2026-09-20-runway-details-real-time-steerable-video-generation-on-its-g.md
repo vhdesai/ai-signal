@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti
 - 2026-07-23-runway-launches-model-router-for-generative-media-workflows
 - 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
-- 2026-08-31-runway-introduces-solaris-an-interface-world-model-that-gene
+- 2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up
 embedding_id: 2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Runway published research on real-time video generation built on GWM-1, its fram
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti]] · [[2026-07-23-runway-launches-model-router-for-generative-media-workflows]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-08-31-runway-introduces-solaris-an-interface-world-model-that-gene]]
+**Related:** [[2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti]] · [[2026-07-23-runway-launches-model-router-for-generative-media-workflows]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up]]
 <!-- graph:end -->

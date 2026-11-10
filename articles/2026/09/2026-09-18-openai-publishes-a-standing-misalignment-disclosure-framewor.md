@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six
 - 2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework
 - 2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr
+- 2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as
 - 2026-09-05-openai-says-the-industry-needs-standards-for-disclosing-ai-a
 embedding_id: 2026-09-18-openai-publishes-a-standing-misalignment-disclosure-framewor
 event_name: ''
@@ -37,5 +38,5 @@ OpenAI released a formal process for tracking, investigating, and disclosing mod
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six]] · [[2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework]] · [[2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr]] · [[2026-09-05-openai-says-the-industry-needs-standards-for-disclosing-ai-a]]
+**Related:** [[2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six]] · [[2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework]] · [[2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr]] · [[2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as]] · [[2026-09-05-openai-says-the-industry-needs-standards-for-disclosing-ai-a]]
 <!-- graph:end -->

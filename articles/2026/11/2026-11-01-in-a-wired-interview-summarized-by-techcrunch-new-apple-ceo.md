@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-31-apple-ceo-john-ternus-apple-won-t-ship-ai-for-ai-s-sake
 - 2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds
+- 2026-11-09-apple-reportedly-targets-more-agent-like-siri-capabilities
 embedding_id: 2026-11-01-in-a-wired-interview-summarized-by-techcrunch-new-apple-ceo
 event_name: ''
 ---
@@ -37,5 +38,5 @@ In a Wired interview summarized by TechCrunch, new Apple CEO John Ternus defende
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-31-apple-ceo-john-ternus-apple-won-t-ship-ai-for-ai-s-sake]] · [[2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds]]
+**Related:** [[2026-10-31-apple-ceo-john-ternus-apple-won-t-ship-ai-for-ai-s-sake]] · [[2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds]] · [[2026-11-09-apple-reportedly-targets-more-agent-like-siri-capabilities]]
 <!-- graph:end -->

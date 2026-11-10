@@ -5,8 +5,8 @@ title: For National Robotics Week, NVIDIA is highlighting physical AI entering p
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/national-robotics-week-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 1436a2eda21ade226ed8dd1a67fa82324ef1310a616f470976454552960b8f25
@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re
 - 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
 - 2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea
+- 2026-11-09-november-9-2026-nvidia-blog
 - 2026-10-21-nvidia-expands-isaac-robotics-assets-for-general-purpose-dev
-- 2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar
-- 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
 embedding_id: 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ For National Robotics Week, NVIDIA is highlighting physical AI entering producti
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[2026-10-21-nvidia-expands-isaac-robotics-assets-for-general-purpose-dev]] · [[2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]]
+**Related:** [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[2026-11-09-november-9-2026-nvidia-blog]] · [[2026-10-21-nvidia-expands-isaac-robotics-assets-for-general-purpose-dev]]
 <!-- graph:end -->

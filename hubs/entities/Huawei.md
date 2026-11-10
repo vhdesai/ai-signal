@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 279
+member_count: 284
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 279 connected article(s).
+> Auto-generated entity hub. 284 connected article(s).
 
+- `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
+- `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]
+- `2026-11-05` [[2026-11-05-additional-bounded-checks-covered-mistral-cursor-replit-xai|Additional bounded checks covered Mistral, Cursor, Replit, xAI, Alibaba/Qwen, Baidu Research, Huawei, SenseTime,…]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]

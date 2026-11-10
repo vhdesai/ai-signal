@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials
+- 2026-11-06-mit-reports-chemeleon-s-data-efficient-molecular-property-pr
 - 2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl
 - 2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape
-- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
 embedding_id: 2026-10-18-mit-combines-crystal-geometry-and-language-for-materials-dis
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers combined crystal structures and text to improve materials search
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials]] · [[2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl]] · [[2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
+**Related:** [[2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials]] · [[2026-11-06-mit-reports-chemeleon-s-data-efficient-molecular-property-pr]] · [[2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl]] · [[2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape]]
 <!-- graph:end -->

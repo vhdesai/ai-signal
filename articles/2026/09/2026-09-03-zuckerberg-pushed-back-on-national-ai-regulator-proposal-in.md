@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat
 - 2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation
 - 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
+- 2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a
 embedding_id: 2026-09-03-zuckerberg-pushed-back-on-national-ai-regulator-proposal-in
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Business Insider reported that Mark Zuckerberg opposed a proposal for a national
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private]] · [[2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat]] · [[2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation]] · [[2026-05-10-white-house-mulls-executive-order-banning-private-sector-int]]
+**Related:** [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private]] · [[2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat]] · [[2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation]] · [[2026-05-10-white-house-mulls-executive-order-banning-private-sector-int]] · [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a]]
 <!-- graph:end -->

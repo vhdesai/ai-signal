@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
 - 2026-08-05-china-s-new-ai-gold-rush-world-models
-- 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
+- 2026-11-09-november-9-2026-mit-news
 embedding_id: 2026-06-26-this-preprint-proposes-a-world-model-approach-named-for-eins
 event_name: ''
 ---
@@ -37,5 +37,5 @@ This preprint proposes a "world model" approach, named for Einstein, aimed at im
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]] · [[2026-08-05-china-s-new-ai-gold-rush-world-models]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]]
+**Related:** [[2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]] · [[2026-08-05-china-s-new-ai-gold-rush-world-models]] · [[2026-11-09-november-9-2026-mit-news]]
 <!-- graph:end -->

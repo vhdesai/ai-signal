@@ -20,8 +20,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima
-- 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
-- 2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr
+- 2026-11-09-mit-and-nyu-use-language-feedback-to-improve-robot-motion-pl
+- 2026-11-09-ai-assisted-learning-platform-helps-robots-reason-beyond-lit
 embedding_id: 2026-10-17-kyutai-releases-reki-a-2-4b-vision-language-action-model-for
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Kyutai, with Inria and École des Ponts, released REKI, a 2.4B vision-language-a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima]] · [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]] · [[2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr]]
+**Related:** [[2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima]] · [[2026-11-09-mit-and-nyu-use-language-feedback-to-improve-robot-motion-pl]] · [[2026-11-09-ai-assisted-learning-platform-helps-robots-reason-beyond-lit]]
 <!-- graph:end -->

@@ -19,7 +19,7 @@ themes:
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-11-06-google-takes-direct-control-of-crusoe-s-troubled-10-gigawatt
+canonical_article_id: 2026-11-06-crusoe-sells-its-delayed-wyoming-data-center-project-to-goog
 related_article_ids: []
 embedding_id: 2026-11-06-november-6-2026-crusoe
 event_name: ''
@@ -34,5 +34,5 @@ Crusoe confirmed it sold its unfinished southeastern Wyoming campus, originally 
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Canonical:** [[2026-11-06-google-takes-direct-control-of-crusoe-s-troubled-10-gigawatt]]
+**Canonical:** [[2026-11-06-crusoe-sells-its-delayed-wyoming-data-center-project-to-goog]]
 <!-- graph:end -->

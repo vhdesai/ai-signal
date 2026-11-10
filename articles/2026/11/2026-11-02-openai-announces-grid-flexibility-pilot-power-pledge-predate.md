@@ -46,9 +46,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 - 2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a
+- 2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of
-- 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
 embedding_id: 2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate
 event_name: ''
 ---
@@ -62,5 +62,5 @@ OpenAI announced a grid-flexibility pilot for its planned Georgia campus. The ci
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]]
+**Related:** [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a]] · [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of]]
 <!-- graph:end -->

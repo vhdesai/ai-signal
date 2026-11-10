@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 - 2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored
+- 2026-11-06-mit-reports-chemeleon-s-data-efficient-molecular-property-pr
 embedding_id: 2026-10-14-google-outlines-research-applications-across-science-and-hea
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Google announced research tools spanning scientific discovery, technical review,
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored]]
+**Related:** [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored]] · [[2026-11-06-mit-reports-chemeleon-s-data-efficient-molecular-property-pr]]
 <!-- graph:end -->

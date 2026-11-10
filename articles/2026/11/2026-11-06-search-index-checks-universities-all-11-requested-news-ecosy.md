@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-31-university-coverage-uc-berkeley-stanford-mit-purdue-georgia
+- 2026-11-05-university-discovery-covered-uc-berkeley-bair-stanford-mit-p
 - 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
 - 2026-05-27-limited-new-university-announcements-within-the-strict-24-ho
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
-- 2026-11-06-additional-site-grouped-searches-cerebras-oracle-ibm-bair-pu
 embedding_id: 2026-11-06-search-index-checks-universities-all-11-requested-news-ecosy
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Search-index checks — universities: All 11 requested news ecosystems: UC Berke
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-31-university-coverage-uc-berkeley-stanford-mit-purdue-georgia]] · [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]] · [[2026-05-27-limited-new-university-announcements-within-the-strict-24-ho]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-11-06-additional-site-grouped-searches-cerebras-oracle-ibm-bair-pu]]
+**Related:** [[2026-10-31-university-coverage-uc-berkeley-stanford-mit-purdue-georgia]] · [[2026-11-05-university-discovery-covered-uc-berkeley-bair-stanford-mit-p]] · [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]] · [[2026-05-27-limited-new-university-announcements-within-the-strict-24-ho]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]]
 <!-- graph:end -->

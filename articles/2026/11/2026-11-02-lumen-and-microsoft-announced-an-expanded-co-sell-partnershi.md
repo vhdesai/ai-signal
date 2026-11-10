@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting
 - 2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity
 - 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
-- 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 embedding_id: 2026-11-02-lumen-and-microsoft-announced-an-expanded-co-sell-partnershi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Lumen and Microsoft announced an expanded co-sell partnership to align enterpris
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity]] · [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]]
+**Related:** [[2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting]] · [[2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity]] · [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]]
 <!-- graph:end -->

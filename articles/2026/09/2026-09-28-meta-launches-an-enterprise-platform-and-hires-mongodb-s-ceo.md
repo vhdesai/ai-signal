@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-28-meta-opens-an-enterprise-front-hiring-mongodb-ceo-to-run-it
 - 2026-09-28-meta-launches-meta-enterprise-platform-and-hires-mongodb-ceo
 - 2026-09-28-meta-launches-enterprise-platform-hires-mongodb-ceo-cj-desai
-- 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
+- 2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting
 embedding_id: 2026-09-28-meta-launches-an-enterprise-platform-and-hires-mongodb-s-ceo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Mark Zuckerberg announced Meta Enterprise Platform as a new pillar of the busine
 ## Connections
 
 **Entities:** [[Meta]] · [[Microsoft]] · [[Oracle]] · [[Salesforce]]
-**Related:** [[2026-09-28-meta-opens-an-enterprise-front-hiring-mongodb-ceo-to-run-it]] · [[2026-09-28-meta-launches-meta-enterprise-platform-and-hires-mongodb-ceo]] · [[2026-09-28-meta-launches-enterprise-platform-hires-mongodb-ceo-cj-desai]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]]
+**Related:** [[2026-09-28-meta-opens-an-enterprise-front-hiring-mongodb-ceo-to-run-it]] · [[2026-09-28-meta-launches-meta-enterprise-platform-and-hires-mongodb-ceo]] · [[2026-09-28-meta-launches-enterprise-platform-hires-mongodb-ceo-cj-desai]] · [[2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting]]
 <!-- graph:end -->

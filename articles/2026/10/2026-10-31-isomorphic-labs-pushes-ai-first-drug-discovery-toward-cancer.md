@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr
+- 2026-11-05-bloomberg-reports-that-isomorphic-labs-the-ai-drug-discovery
 - 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
 - 2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d
-- 2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation
 embedding_id: 2026-10-31-isomorphic-labs-pushes-ai-first-drug-discovery-toward-cancer
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider profiles Isomorphic Labs, the Alphabet spinout led by Demis Has
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]] · [[2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation]]
+**Related:** [[2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr]] · [[2026-11-05-bloomberg-reports-that-isomorphic-labs-the-ai-drug-discovery]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]]
 <!-- graph:end -->

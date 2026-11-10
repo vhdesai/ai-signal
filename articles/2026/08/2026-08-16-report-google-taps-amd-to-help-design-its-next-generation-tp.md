@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch
+- 2026-11-09-google-expands-its-tpu-portfolio-for-regulated-and-large-sca
+- 2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma
 - 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
 - 2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b
-- 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
-- 2026-10-28-october-27-2026-the-information
 embedding_id: 2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google is reported to be working with AMD on a future TPU that would integrate o
 
 **Entities:** [[AMD]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-10-28-october-27-2026-the-information]]
+**Related:** [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]] · [[2026-11-09-google-expands-its-tpu-portfolio-for-regulated-and-large-sca]] · [[2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b]]
 <!-- graph:end -->

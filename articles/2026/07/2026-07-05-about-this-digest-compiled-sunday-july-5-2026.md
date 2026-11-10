@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-04-only-items-with-a-confirmed-publication-date-of-july-3-4-202
 - 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
+- 2026-11-05-primary-window-november-4-5-2026-ending-at-6-14-46-a-m
 - 2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit
 - 2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university
-- 2026-05-14-coverage-window-may-13-14-2026-primary-with-context-from-may
 embedding_id: 2026-07-05-about-this-digest-compiled-sunday-july-5-2026
 event_name: ''
 ---
@@ -36,5 +36,5 @@ About this digest. Compiled Sunday, July 5, 2026. Only items with a confirmed Ju
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-04-only-items-with-a-confirmed-publication-date-of-july-3-4-202]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]] · [[2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit]] · [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-05-14-coverage-window-may-13-14-2026-primary-with-context-from-may]]
+**Related:** [[2026-07-04-only-items-with-a-confirmed-publication-date-of-july-3-4-202]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]] · [[2026-11-05-primary-window-november-4-5-2026-ending-at-6-14-46-a-m]] · [[2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit]] · [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]]
 <!-- graph:end -->

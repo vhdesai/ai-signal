@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
 - 2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
+- 2026-11-07-november-9-2026-business-insider
 - 2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc
-- 2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo
 embedding_id: 2026-05-04-sap-moves-to-block-openclaw-and-other-unauthorized-ai-agents
 event_name: ''
 ---
@@ -40,5 +40,5 @@ SAP published a customer policy effectively barring use of external AI agents to
 
 **Entities:** [[Salesforce]] · [[SAP]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc]] · [[2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo]]
+**Related:** [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-11-07-november-9-2026-business-insider]] · [[2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc]]
 <!-- graph:end -->

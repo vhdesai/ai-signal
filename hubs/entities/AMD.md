@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 133
+member_count: 140
 ---
 
 # AMD
 
-> Auto-generated entity hub. 133 connected article(s).
+> Auto-generated entity hub. 140 connected article(s).
 
+- `2026-11-09` [[2026-11-09-november-9-2026-google-blog|[November 9, 2026] · [Google Blog]]]
+- `2026-11-09` [[2026-11-09-google-expands-its-tpu-portfolio-for-regulated-and-large-sca|Google expands its TPU portfolio for regulated and large-scale workloads]]
+- `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma|Google adds TPU 8tx for confidential inference and TPU 8i Max for very long contexts]]
+- `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu|Google adds TPU 8tx and TPU 8i Max as Nvidia opens NVLink Fusion to Korean inference chips]]
+- `2026-11-08` [[2026-11-08-november-9-2026-nvidia-blog|November 9, 2026 · NVIDIA Blog]]
+- `2026-11-08` [[2026-11-08-google-adds-confidential-computing-and-long-context-tpus-as|Google adds confidential-computing and long-context TPUs as Nvidia opens NVLink to Korean chips]]
+- `2026-11-07` [[2026-11-07-november-7-2026-the-information-2|[November 7, 2026] · [The Information]]]
 - `2026-11-04` [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu|Optics becomes the AI choke point: rival-bid talk for Lumentum and a fiber squeeze]]
 - `2026-11-03` [[2026-11-03-anthropic-tells-ipo-investors-that-claude-is-speeding-up-the|Anthropic tells IPO investors that Claude is speeding up the design of its own AI chips]]
 - `2026-10-12` [[2026-10-12-microsoft-s-maia-300-push-aims-to-reduce-nvidia-dependence-a|Microsoft’s Maia 300 push aims to reduce Nvidia dependence at scale]]

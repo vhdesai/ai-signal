@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-09-16-amazon-launches-alexa-in-india-with-hindi-support-and-hindi
 - 2026-08-19-amazon-makes-ai-powered-alexa-free-on-all-fire-tv-no-prime-r
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
+- 2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy
 embedding_id: 2026-09-16-amazon-launches-alexa-in-india-with-hindi-support
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Amazon launched Alexa+ in India with Hindi support and code-switching between Hi
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-16-amazon-launches-alexa-in-india-with-hindi-support-and-hindi]] · [[2026-08-19-amazon-makes-ai-powered-alexa-free-on-all-fire-tv-no-prime-r]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]]
+**Related:** [[2026-09-16-amazon-launches-alexa-in-india-with-hindi-support-and-hindi]] · [[2026-08-19-amazon-makes-ai-powered-alexa-free-on-all-fire-tv-no-prime-r]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy]]
 <!-- graph:end -->

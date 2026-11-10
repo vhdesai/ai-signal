@@ -5,8 +5,8 @@ title: 'MIT Media Lab: Prolonged LLM Use Linked to Measurable "Cognitive Debt" i
 date: '2026-05-17'
 source: MIT Media Lab
 url_original: null
-url_canonical: https://www.media.mit.edu/publications/your-brain-on-chatgpt/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 0872d70a6fa0175320a7eb5242e87aa94a8d6579ad9007b9e8beb1a09b6f5d68

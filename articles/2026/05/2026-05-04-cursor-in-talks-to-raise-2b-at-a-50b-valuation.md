@@ -4,8 +4,8 @@ title: Cursor in talks to raise $2B at a $50B valuation
 date: '2026-05-04'
 source: Bloomberg / TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 87e504400beac9f2f3ea85b15a4c2f81bb605f481e9edddb0c29727a475786a0

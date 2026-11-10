@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra
 - 2026-08-13-dyna-robotics-introduces-dyna-2-a-world-action-model-trained
-- 2026-09-13-china-s-data-regulator-plans-standards-for-embodied-ai-train
-- 2026-08-20-generalist-ai-s-gen-1-5-robot-model-learns-new-tasks-from-a
+- 2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up
+- 2026-11-09-november-9-2026-nvidia-blog
 embedding_id: 2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Dyna Robotics introduced DYNA-2, described as the first robot foundation model p
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-08-13-dyna-robotics-introduces-dyna-2-a-world-action-model-trained]] · [[2026-09-13-china-s-data-regulator-plans-standards-for-embodied-ai-train]] · [[2026-08-20-generalist-ai-s-gen-1-5-robot-model-learns-new-tasks-from-a]]
+**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-08-13-dyna-robotics-introduces-dyna-2-a-world-action-model-trained]] · [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up]] · [[2026-11-09-november-9-2026-nvidia-blog]]
 <!-- graph:end -->

@@ -25,11 +25,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting
 - 2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
-- 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
-- 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
-- 2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals
+- 2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture
+- 2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-recruits-accent
 embedding_id: 2026-10-18-meta-and-apple-reportedly-team-on-an-open-source-ai-model
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Android Headlines reports Meta and Apple are teaming up on a powerful open-sourc
 
 **Entities:** [[Apple]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals]]
+**Related:** [[2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting]] · [[2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture]] · [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-recruits-accent]]
 <!-- graph:end -->

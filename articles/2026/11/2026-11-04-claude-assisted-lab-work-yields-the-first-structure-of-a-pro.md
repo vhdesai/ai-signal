@@ -3,16 +3,16 @@ article_id: 2026-11-04-claude-assisted-lab-work-yields-the-first-structure-of-a-
 title: Claude-assisted lab work yields the first structure of a prokaryotic vault
   particle
 date: '2026-11-04'
-source: Anthropic*
+source: Anthropic
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-11-05_094536_Inbox_Fw Daily AI News Digest - November
+  5, 2026.md
 content_hash: db2cefc90573b223811806d8a7c0156ea1382219a6e519e36e7b3bf505e405c7
 normalized_title_hash: 95c44f991c72a192
 canonical_url_hash: ''
-tags:
-- Research
+tags: []
 entities:
 - Anthropic
 themes:

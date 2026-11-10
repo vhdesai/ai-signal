@@ -2,16 +2,16 @@
 article_id: 2026-11-05-mit-s-uq-daaam-teaches-robots-what-they-don-t-know
 title: MIT's UQ-DAAAM teaches robots what they don't know
 date: '2026-11-05'
-source: MIT News*
+source: MIT News
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-11-05_094536_Inbox_Fw Daily AI News Digest - November
+  5, 2026.md
 content_hash: 1c813944b01ec047f9ec27eb055dd18952bf7f31e2995ffaeee9480213d6531c
 normalized_title_hash: f03b75197f33f2d9
 canonical_url_hash: ''
-tags:
-- Academic
+tags: []
 entities: []
 themes:
 - model-capabilities
@@ -19,8 +19,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-mit-spark-lab-researchers-added-uncertainty-quantification-t
+- 2026-11-09-november-9-2026-mit-news
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
-- 2026-07-26-abbel-belief-state-memory-for-llm-agents
 embedding_id: 2026-11-05-mit-s-uq-daaam-teaches-robots-what-they-don-t-know
 event_name: ''
 ---
@@ -33,5 +34,5 @@ MIT SPARK Lab researchers added uncertainty quantification to DAAAM, a vision-la
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]]
+**Related:** [[2026-11-05-mit-spark-lab-researchers-added-uncertainty-quantification-t]] · [[2026-11-09-november-9-2026-mit-news]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]]
 <!-- graph:end -->

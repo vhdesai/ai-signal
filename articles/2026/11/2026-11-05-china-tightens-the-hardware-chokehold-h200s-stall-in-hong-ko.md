@@ -4,11 +4,12 @@ title: 'China tightens the hardware chokehold: H200s stall in Hong Kong as SoftB
   ABB deal is blocked'
 date: '2026-11-05'
 source: Reuters (via Investing.com) | November 5, 2026 · CNBC (via Unite.AI) | November
-  5, 2026 · Wall Street Journal*
+  5, 2026 · Wall Street Journal
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-11-05_094536_Inbox_Fw Daily AI News Digest - November
+  5, 2026.md
 content_hash: d2443c125d265030c50837bb467ba060b1e5718385ccf2bb7ba457ffd5c7fa33
 normalized_title_hash: c6dffc26b3513e5d
 canonical_url_hash: ''
@@ -25,6 +26,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-reuters-reports-that-about-600-000-nvidia-h200-chips-are-sit
 - 2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 embedding_id: 2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko
@@ -40,5 +42,5 @@ About 600,000 Nvidia H200 chips are sitting in Hong Kong because Beijing has not
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]]
+**Related:** [[2026-11-05-reuters-reports-that-about-600-000-nvidia-h200-chips-are-sit]] · [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]]
 <!-- graph:end -->

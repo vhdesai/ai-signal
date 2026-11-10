@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-10-petra-power-pitches-solid-oxide-fuel-cells-for-future-data-c
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
-- 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
+- 2026-11-09-november-9-2026-the-straits-times-reuters
 embedding_id: 2026-10-11-infrastructure-power-petra-power-looks-to-modernize-energy-f
 event_name: ''
 ---
@@ -37,5 +37,5 @@ INFRASTRUCTURE POWER Petra Power looks to modernize energy for data centers and 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-10-petra-power-pitches-solid-oxide-fuel-cells-for-future-data-c]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]]
+**Related:** [[2026-10-10-petra-power-pitches-solid-oxide-fuel-cells-for-future-data-c]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-11-09-november-9-2026-the-straits-times-reuters]]
 <!-- graph:end -->

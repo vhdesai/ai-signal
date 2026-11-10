@@ -5,8 +5,8 @@ title: Collaborative work from Carnegie Mellon and Cornell introduced a cross-li
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://csd.cmu.edu/news/pangea-tool-expands-llms-global-reach
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: d5bf00c3ed69615cd4fd37afc8e3ba6b213cb327cce6c9019f7fae7857eff0dd

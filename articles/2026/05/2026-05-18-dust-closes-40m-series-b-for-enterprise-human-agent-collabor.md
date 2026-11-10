@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi
 - 2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
+- 2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture
 - 2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal
 - 2026-10-29-october-28-2026-techcrunch
-- 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
 embedding_id: 2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Dust, which builds specialized AI agents designed to operate alongside human emp
 ## Connections
 
 **Topics:** [[Company Investments]]
-**Related:** [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal]] · [[2026-10-29-october-28-2026-techcrunch]] · [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto]]
+**Related:** [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture]] · [[2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal]] · [[2026-10-29-october-28-2026-techcrunch]]
 <!-- graph:end -->

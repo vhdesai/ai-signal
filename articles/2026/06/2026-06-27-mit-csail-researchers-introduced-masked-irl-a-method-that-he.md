@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i
+- 2026-11-09-mit-s-flex-lets-robots-infer-the-intent-behind-spoken-instru
+- 2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha
 - 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
-- 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
-- 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 embedding_id: 2026-06-27-mit-csail-researchers-introduced-masked-irl-a-method-that-he
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT CSAIL researchers introduced "Masked IRL," a method that helps robots learn 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]]
+**Related:** [[2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i]] · [[2026-11-09-mit-s-flex-lets-robots-infer-the-intent-behind-spoken-instru]] · [[2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]]
 <!-- graph:end -->

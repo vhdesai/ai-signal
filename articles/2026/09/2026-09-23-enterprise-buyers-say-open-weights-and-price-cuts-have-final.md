@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-openai-slashes-prices-on-some-of-its-newest-models
 - 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
 - 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
-- 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
+- 2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls
 embedding_id: 2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Speakers at The Information's AI Agenda Live in San Francisco said open-source m
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent]] · [[2026-07-31-openai-slashes-prices-on-some-of-its-newest-models]] · [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]]
+**Related:** [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent]] · [[2026-07-31-openai-slashes-prices-on-some-of-its-newest-models]] · [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls]]
 <!-- graph:end -->

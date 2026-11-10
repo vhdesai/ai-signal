@@ -5,8 +5,8 @@ title: Google Research published TurboQuant, a vector quantization algorithm tha
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 9266c84fa37bb1db84059bc9ce18e7ec8050ddf50131020113391d005f8f8e4e

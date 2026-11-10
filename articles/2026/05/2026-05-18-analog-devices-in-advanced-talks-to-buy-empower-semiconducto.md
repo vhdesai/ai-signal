@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-06-november-7-2026-the-information
 - 2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline
+- 2026-11-07-november-8-2026-financial-times-via-yahoo-finance
 - 2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati
 - 2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t
-- 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
-- 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
 embedding_id: 2026-05-18-analog-devices-in-advanced-talks-to-buy-empower-semiconducto
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Chipmaker Analog Devices is close to acquiring Empower Semiconductor — a 12-ye
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[M&A Activity]]
-**Related:** [[2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline]] · [[2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati]] · [[2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t]] · [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a]]
+**Related:** [[2026-11-06-november-7-2026-the-information]] · [[2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline]] · [[2026-11-07-november-8-2026-financial-times-via-yahoo-finance]] · [[2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati]] · [[2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Researchers at Tohoku University and Future University Hakodate demonstra
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.tohoku.ac.jp/en/press/living_brain_cells_enable_machine_learning_computations.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 707c6e8a8d401035d608b6e33cddb8a8ee2acd139bc8201ac5ff714ca3b7d4a3

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-29-chatgpt-nears-1-billion-weekly-active-users
 - 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
 - 2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a
-- 2026-07-10-chatgpt-work-launches-after-u-s-government-approval
-- 2026-11-02-november-2-2026-techcrunch
+- 2026-11-09-chatgpt-s-traffic-rebounds-as-it-holds-more-than-81-of-chatb
+- 2026-11-09-third-party-traffic-study-points-to-renewed-chatgpt-growth
 embedding_id: 2026-10-22-uber-expands-chatgpt-work-from-pilot-to-all-30-000-employees
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Uber told TechCrunch it expanded ChatGPT Work from a 1,000-employee pilot to com
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-chatgpt-nears-1-billion-weekly-active-users]] · [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]] · [[2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a]] · [[2026-07-10-chatgpt-work-launches-after-u-s-government-approval]] · [[2026-11-02-november-2-2026-techcrunch]]
+**Related:** [[2026-07-29-chatgpt-nears-1-billion-weekly-active-users]] · [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]] · [[2026-11-02-agent-compute-gets-rationed-chatgpt-pools-usage-with-codex-a]] · [[2026-11-09-chatgpt-s-traffic-rebounds-as-it-holds-more-than-81-of-chatb]] · [[2026-11-09-third-party-traffic-study-points-to-renewed-chatgpt-growth]]
 <!-- graph:end -->

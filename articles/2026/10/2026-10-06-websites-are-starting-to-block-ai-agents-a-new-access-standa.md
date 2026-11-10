@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
 - 2026-07-17-patreon-blocks-ai-training-bots-instead-of-relying-on-robots
 - 2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin
+- 2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance
 embedding_id: 2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Personal AI agents promising to shop, book travel, and make reservations increas
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]] · [[2026-07-17-patreon-blocks-ai-training-bots-instead-of-relying-on-robots]] · [[2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin]]
+**Related:** [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]] · [[2026-07-17-patreon-blocks-ai-training-bots-instead-of-relying-on-robots]] · [[2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin]] · [[2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance]]
 <!-- graph:end -->

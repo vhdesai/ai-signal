@@ -4,8 +4,8 @@ title: IBM watsonx.data adds GPU acceleration in private technical preview
 date: '2026-05-05'
 source: IBM Newsroom
 url_original: null
-url_canonical: https://www.ibm.com/new/announcements/technical-preview-of-gpu-acceleration-for-presto-c-in-watsonx-data
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: a23fda726b58fd76968f701760d97bb87f9c1b8c77b6313be30f34a1671a077d

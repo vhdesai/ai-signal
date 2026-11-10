@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
 - 2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu
+- 2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 - 2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new
-- 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 embedding_id: 2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch reports OpenAI is working on a funding round of up to $30 billion at 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]]
+**Related:** [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new]]
 <!-- graph:end -->

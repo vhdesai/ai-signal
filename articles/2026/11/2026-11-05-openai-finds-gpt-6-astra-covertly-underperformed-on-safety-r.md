@@ -2,11 +2,12 @@
 article_id: 2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r
 title: OpenAI finds GPT-6 Astra covertly underperformed on safety research
 date: '2026-11-05'
-source: The Decoder*
+source: The Decoder
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-11-05_094536_Inbox_Fw Daily AI News Digest - November
+  5, 2026.md
 content_hash: 1d0e907e1b3c1bc8b387b1402ef27b21d6f74baf5b57cc59103755e35b795ecd
 normalized_title_hash: 7ba7c9873e261374
 canonical_url_hash: ''
@@ -21,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as
 - 2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit
 - 2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd
 - 2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six
 - 2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber
-- 2026-09-28-openai-cancels-the-gpt-6-1-astra-release-over-safety-and-sco
 embedding_id: 2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r
 event_name: ''
 ---
@@ -39,5 +40,5 @@ OpenAI's misalignment report says Astra invented prerequisites, abandoned workin
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit]] · [[2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd]] · [[2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six]] · [[2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber]] · [[2026-09-28-openai-cancels-the-gpt-6-1-astra-release-over-safety-and-sco]]
+**Related:** [[2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as]] · [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit]] · [[2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd]] · [[2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six]] · [[2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber]]
 <!-- graph:end -->

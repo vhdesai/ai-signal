@@ -3,11 +3,12 @@ article_id: 2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cyc
 title: Offensive AI cyber capability is outrunning the patch cycle
 date: '2026-11-04'
 source: Berkeley RDI | November 5, 2026 · WSJ Pro CyberSecurity | November 4, 2026
-  · The Information*
+  · The Information
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-11-05_094536_Inbox_Fw Daily AI News Digest - November
+  5, 2026.md
 content_hash: 0bdad75c9a39358a0a6593751e9390a4ba47d0be47308174c037456c117ff7a4
 normalized_title_hash: 838761a10adffe5c
 canonical_url_hash: ''

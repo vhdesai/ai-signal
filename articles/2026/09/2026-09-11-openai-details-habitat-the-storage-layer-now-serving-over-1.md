@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: OpenAI Blog
 url_original: https://openai.com/index/scaling-storage-one-billion-users-part-one/
 url_canonical: https://openai.com/index/scaling-storage-one-billion-users-part-one/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-12_062305_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: e617a9bc10cf6518c19c6b5523e92bf01af90150edc44deca9f51e16f7b511d7
@@ -23,8 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-11-openai-details-habitat-the-storage-platform-behind-1b-weekly
 - 2026-09-11-openai-details-habitat-the-storage-platform-now-serving-1b-c
+- 2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth
 - 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
-- 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
+- 2026-11-09-chatgpt-s-traffic-rebounds-as-it-holds-more-than-81-of-chatb
 embedding_id: 2026-09-11-openai-details-habitat-the-storage-layer-now-serving-over-1
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI published the first of a two-part engineering account of Habitat, the onl
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-11-openai-details-habitat-the-storage-platform-behind-1b-weekly]] · [[2026-09-11-openai-details-habitat-the-storage-platform-now-serving-1b-c]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]]
+**Related:** [[2026-09-11-openai-details-habitat-the-storage-platform-behind-1b-weekly]] · [[2026-09-11-openai-details-habitat-the-storage-platform-now-serving-1b-c]] · [[2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]] · [[2026-11-09-chatgpt-s-traffic-rebounds-as-it-holds-more-than-81-of-chatb]]
 <!-- graph:end -->

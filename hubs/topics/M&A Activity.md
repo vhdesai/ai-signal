@@ -1,14 +1,22 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 543
+member_count: 551
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 543 connected article(s).
+> Auto-generated topic hub. 551 connected article(s).
 
+- `2026-11-08` [[2026-11-08-november-8-2026-business-insider|[November 8, 2026] · [Business Insider]]]
+- `2026-11-08` [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance|November 8, 2026 · Financial Times (via Yahoo Finance)]]
+- `2026-11-08` [[2026-11-08-agility-robotics-is-the-first-us-humanoid-robot-company-to-g|Agility Robotics is the first US humanoid robot company to go public, and it is still far from profitable]]
+- `2026-11-07` [[2026-11-07-november-8-2026-financial-times-via-yahoo-finance|November 8, 2026 · Financial Times (via Yahoo Finance)]]
+- `2026-11-06` [[2026-11-06-november-7-2026-the-information|[November 7, 2026] · [The Information]]]
 - `2026-11-06` [[2026-11-06-google-takes-direct-control-of-crusoe-s-troubled-10-gigawatt|Google takes direct control of Crusoe's troubled 10-gigawatt Wyoming campus]]
+- `2026-11-06` [[2026-11-06-crusoe-confirms-google-s-acquisition-of-its-wyoming-data-cen|Crusoe confirms Google's acquisition of its Wyoming data-center site]]
+- `2026-11-05` [[2026-11-05-the-financial-times-reports-that-china-s-national-developmen|The Financial Times reports that China's National Development and Reform Commission told SoftBank it will not approve…]]
+- `2026-11-05` [[2026-11-05-meta-bought-conductor-whose-platform-runs-teams-of-coding-ag|Meta bought Conductor, whose platform runs teams of coding agents in parallel workspaces using models from Anthropic…]]
 - `2026-11-05` [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko|China tightens the hardware chokehold: H200s stall in Hong Kong as SoftBank's ABB deal is blocked]]
 - `2026-11-05` [[2026-11-05-airbnb-discloses-ties-to-brian-chesky-s-secretive-self-funde|Airbnb discloses ties to Brian Chesky's secretive, self-funded AI lab]]
 - `2026-11-04` [[2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lumentu|Optics becomes the AI choke point: rival-bid talk for Lumentum and a fiber squeeze]]

@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern
+- 2026-11-08-november-9-2026-semafor
 - 2026-10-05-quinnipiac-poll-77-of-americans-want-ai-development-slowed-o
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
-- 2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g
 embedding_id: 2026-10-07-reuters-ipsos-poll-finds-most-u-s-voters-say-leaders-are-not
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Reuters reported that most U.S. voters say President Trump and Congress are not 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern]] · [[2026-10-05-quinnipiac-poll-77-of-americans-want-ai-development-slowed-o]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g]]
+**Related:** [[2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern]] · [[2026-11-08-november-9-2026-semafor]] · [[2026-10-05-quinnipiac-poll-77-of-americans-want-ai-development-slowed-o]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]]
 <!-- graph:end -->

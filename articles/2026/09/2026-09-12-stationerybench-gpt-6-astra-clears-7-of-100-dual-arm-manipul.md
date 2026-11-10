@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
 - 2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b
+- 2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2
 - 2026-09-26-gpt-6-astra-hits-80-on-the-ikea-furniture-assembly-evaluatio
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly
-- 2026-09-19-roboharm-benchmark-frontier-models-rarely-refuse-dangerous-p
 embedding_id: 2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A new robotics benchmark ran both models on identical dual-arm YAM robots across
 
 **Entities:** [[Arm]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-09-26-gpt-6-astra-hits-80-on-the-ikea-furniture-assembly-evaluatio]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly]] · [[2026-09-19-roboharm-benchmark-frontier-models-rarely-refuse-dangerous-p]]
+**Related:** [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2]] · [[2026-09-26-gpt-6-astra-hits-80-on-the-ikea-furniture-assembly-evaluatio]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly]]
 <!-- graph:end -->

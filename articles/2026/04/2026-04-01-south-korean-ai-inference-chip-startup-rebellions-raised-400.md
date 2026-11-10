@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
 - 2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio
 - 2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip
-- 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
-- 2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in
+- 2026-11-09-nvidia-lets-korean-chips-plug-into-its-rack-systems-and-plan
+- 2026-11-08-nvidia-rebellions-and-sk-telecom-announce-collaboration-to-a
 embedding_id: 2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400
 event_name: ''
 ---
@@ -43,5 +43,5 @@ South Korean AI inference chip startup Rebellions raised $400 million in a pre-I
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio]] · [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in]]
+**Related:** [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio]] · [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-11-09-nvidia-lets-korean-chips-plug-into-its-rack-systems-and-plan]] · [[2026-11-08-nvidia-rebellions-and-sk-telecom-announce-collaboration-to-a]]
 <!-- graph:end -->

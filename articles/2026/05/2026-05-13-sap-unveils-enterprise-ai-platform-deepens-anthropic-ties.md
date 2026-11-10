@@ -4,8 +4,8 @@ title: SAP Unveils Enterprise AI Platform, Deepens Anthropic Ties
 date: '2026-05-13'
 source: The Information AM / CIO Dive
 url_original: null
-url_canonical: https://news.sap.com/2026/05/sap-anthropic-to-bring-claude-sap-business-ai-platform/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 42c2316a05f12aa93b6e9731faa19d9eb0c640043ab896f72fb26fdb17012249

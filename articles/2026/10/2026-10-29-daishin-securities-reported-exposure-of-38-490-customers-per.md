@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane
 - 2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d
+- 2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier
 - 2026-11-06-november-6-2026-techcrunch-2
 - 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
-- 2026-09-11-anthropic-s-200m-exchange-distillation-report-becomes-eviden
 embedding_id: 2026-10-29-daishin-securities-reported-exposure-of-38-490-customers-per
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Daishin Securities reported exposure of 38,490 customers' personal data, while M
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d]] · [[2026-11-06-november-6-2026-techcrunch-2]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]] · [[2026-09-11-anthropic-s-200m-exchange-distillation-report-becomes-eviden]]
+**Related:** [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d]] · [[2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier]] · [[2026-11-06-november-6-2026-techcrunch-2]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]]
 <!-- graph:end -->

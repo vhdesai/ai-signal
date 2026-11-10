@@ -5,8 +5,8 @@ title: Microsoft disclosed MDASH (Multi-Model Agentic Scanning Harness), a syste
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 420ed7569d7e2d2f51e15c36919f7ee2a48e569e3bfb2c9f86099bac69fe0910

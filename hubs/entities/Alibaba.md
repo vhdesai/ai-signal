@@ -1,13 +1,24 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 467
+member_count: 478
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 467 connected article(s).
+> Auto-generated entity hub. 478 connected article(s).
 
+- `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
+- `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-08` [[2026-11-08-consumer-agent-platforms-scale-deepseek-harness-passes-1-5-m|Consumer agent platforms scale: DeepSeek Harness passes 1.5 million daily users as Apple readies a more capable Siri]]
+- `2026-11-08` [[2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2|Co-Design Bench: the best coding agent fully completes only 26% of real-world change requests]]
+- `2026-11-07` [[2026-11-07-nous-research-releases-arete-27b-a-qwen3-8-27b-version-train|Nous Research releases Arete-27B, a Qwen3.8-27B version trained to drop Chinese state framing]]
+- `2026-11-07` [[2026-11-07-nous-research-releases-arete-27b-to-strip-state-framing-from|Nous Research releases Arete-27B to strip state framing from Qwen]]
+- `2026-11-07` [[2026-11-07-nous-research-releases-arete-27b-to-strip-chinese-state-fram|Nous Research releases Arete-27B to strip Chinese state framing from Qwen]]
+- `2026-11-07` [[2026-11-07-new-reporting-arete-27b-targets-model-propaganda|New reporting: Arete-27B targets model propaganda]]
+- `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]
+- `2026-11-05` [[2026-11-05-additional-bounded-checks-covered-mistral-cursor-replit-xai|Additional bounded checks covered Mistral, Cursor, Replit, xAI, Alibaba/Qwen, Baidu Research, Huawei, SenseTime,…]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-02` [[2026-11-02-openai-announces-grid-flexibility-pilot-power-pledge-predate|OpenAI announces grid-flexibility pilot; power pledge predates it]]
 - `2026-11-01` [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo|South Korea proposes expanded AI investment and sovereign-model funding]]

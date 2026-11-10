@@ -27,10 +27,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-08-daily-ai-news-digest-november-9-2026
 - 2026-09-20-axios-reports-the-trump-administration-is-considering-standi
 - 2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by
 - 2026-09-23-september-24-2026
-- 2026-07-29-wednesday-july-29-2026
 embedding_id: 2026-09-28-cmu-s-block-center-for-technology-and-society-announced-its
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Publication window: items published Sept 27 – Sept 28, 2026 (last 24 hours). C
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-20-axios-reports-the-trump-administration-is-considering-standi]] · [[2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by]] · [[2026-09-23-september-24-2026]] · [[2026-07-29-wednesday-july-29-2026]]
+**Related:** [[2026-11-08-daily-ai-news-digest-november-9-2026]] · [[2026-09-20-axios-reports-the-trump-administration-is-considering-standi]] · [[2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by]] · [[2026-09-23-september-24-2026]]
 <!-- graph:end -->

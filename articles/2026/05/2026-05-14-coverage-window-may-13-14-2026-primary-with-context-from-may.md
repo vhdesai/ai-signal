@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-primary-window-november-4-5-2026-ending-at-6-14-46-a-m
 - 2026-05-03-may-2-3-is-a-saturday-sunday-window-arxiv-s-daily-mailing-un
 - 2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op
 - 2026-07-05-about-this-digest-compiled-sunday-july-5-2026
 - 2026-05-20-ai-news-digest-may-20-2026
-- 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
 embedding_id: 2026-05-14-coverage-window-may-13-14-2026-primary-with-context-from-may
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Coverage window: May 13–14, 2026 (primary) with context from May 1–12, 2026.
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-03-may-2-3-is-a-saturday-sunday-window-arxiv-s-daily-mailing-un]] · [[2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op]] · [[2026-07-05-about-this-digest-compiled-sunday-july-5-2026]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]]
+**Related:** [[2026-11-05-primary-window-november-4-5-2026-ending-at-6-14-46-a-m]] · [[2026-05-03-may-2-3-is-a-saturday-sunday-window-arxiv-s-daily-mailing-un]] · [[2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op]] · [[2026-07-05-about-this-digest-compiled-sunday-july-5-2026]] · [[2026-05-20-ai-news-digest-may-20-2026]]
 <!-- graph:end -->

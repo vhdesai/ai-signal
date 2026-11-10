@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
 - 2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch
 - 2026-10-28-october-27-2026-the-information
+- 2026-11-09-november-9-2026-google-blog
 - 2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c
-- 2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme
 embedding_id: 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google is backing the Lake Mariner data-center project with a $3.2B guarantee, a
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]] · [[2026-10-28-october-27-2026-the-information]] · [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]] · [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme]]
+**Related:** [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]] · [[2026-10-28-october-27-2026-the-information]] · [[2026-11-09-november-9-2026-google-blog]] · [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]]
 <!-- graph:end -->

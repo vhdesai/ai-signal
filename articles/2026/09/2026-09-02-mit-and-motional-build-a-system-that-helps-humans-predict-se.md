@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-02-mit-and-motional-use-concept-level-explanations-to-flag-auto
-- 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
-- 2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati
-- 2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-11-09-november-9-2026-mit-news
+- 2026-11-09-mit-and-nyu-use-language-feedback-to-improve-robot-motion-pl
+- 2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins
+- 2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha
 embedding_id: 2026-09-02-mit-and-motional-build-a-system-that-helps-humans-predict-se
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT CSAIL researchers and autonomous-vehicle firm Motional developed the Concept
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-02-mit-and-motional-use-concept-level-explanations-to-flag-auto]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati]] · [[2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-09-02-mit-and-motional-use-concept-level-explanations-to-flag-auto]] · [[2026-11-09-november-9-2026-mit-news]] · [[2026-11-09-mit-and-nyu-use-language-feedback-to-improve-robot-motion-pl]] · [[2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins]] · [[2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha]]
 <!-- graph:end -->

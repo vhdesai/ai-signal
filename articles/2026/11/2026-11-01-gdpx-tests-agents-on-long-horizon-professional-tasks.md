@@ -18,6 +18,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-06-openai-introduces-biobasicsbench-for-routine-laboratory-anal
 - 2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu
 - 2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag
 - 2026-10-11-research-24-48h-exception-sakana-ai-s-llm-peer-review-system
@@ -33,5 +34,5 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu]] · [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag]] · [[2026-10-11-research-24-48h-exception-sakana-ai-s-llm-peer-review-system]] · [[2026-11-01-deepseek-open-sources-dsh-superagent-a-coding-agent-that-run]]
+**Related:** [[2026-11-06-openai-introduces-biobasicsbench-for-routine-laboratory-anal]] · [[2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu]] · [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag]] · [[2026-10-11-research-24-48h-exception-sakana-ai-s-llm-peer-review-system]] · [[2026-11-01-deepseek-open-sources-dsh-superagent-a-coding-agent-that-run]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai
+- 2026-11-08-november-9-2026-semafor
 - 2026-06-02-trump-signs-narrower-than-expected-ai-executive-order
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit
-- 2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p
 embedding_id: 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
 event_name: ''
 ---
@@ -38,5 +38,5 @@ As Defense Secretary Pete Hegseth pushes to accelerate military AI adoption, the
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-06-02-trump-signs-narrower-than-expected-ai-executive-order]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit]] · [[2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p]]
+**Related:** [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-11-08-november-9-2026-semafor]] · [[2026-06-02-trump-signs-narrower-than-expected-ai-executive-order]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit]]
 <!-- graph:end -->

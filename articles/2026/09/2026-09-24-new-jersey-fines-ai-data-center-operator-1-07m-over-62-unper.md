@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-24-new-jersey-issues-record-1-07m-data-center-fine-over-62-unpe
 - 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
 - 2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin
-- 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
-- 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
+- 2026-11-08-november-8-2026-financial-times-via-yahoo-finance
+- 2026-11-08-power-and-memory-bottlenecks-bite-used-turbines-a-norwegian
 embedding_id: 2026-09-24-new-jersey-fines-ai-data-center-operator-1-07m-over-62-unper
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Jersey’s Department of Environmental Protection assessed a record $1.07M penal
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-new-jersey-issues-record-1-07m-data-center-fine-over-62-unpe]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]]
+**Related:** [[2026-09-24-new-jersey-issues-record-1-07m-data-center-fine-over-62-unpe]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]] · [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance]] · [[2026-11-08-power-and-memory-bottlenecks-bite-used-turbines-a-norwegian]]
 <!-- graph:end -->

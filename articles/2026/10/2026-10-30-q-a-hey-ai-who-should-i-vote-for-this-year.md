@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-06-mit-reports-chemeleon-s-data-efficient-molecular-property-pr
 - 2026-10-24-washington-s-message-to-ai-execs-please-shut-up
 - 2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi
 - 2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape
 - 2026-10-17-meta-removes-disputed-ai-training-language-from-business-ter
-- 2026-10-30-mit-project-tracks-how-chatbots-answer-2026-midterm-election
 embedding_id: 2026-10-30-q-a-hey-ai-who-should-i-vote-for-this-year
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Source Date-uncertain exception: October 30 date only; retained as a 24–48-hou
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up]] · [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi]] · [[2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape]] · [[2026-10-17-meta-removes-disputed-ai-training-language-from-business-ter]] · [[2026-10-30-mit-project-tracks-how-chatbots-answer-2026-midterm-election]]
+**Related:** [[2026-11-06-mit-reports-chemeleon-s-data-efficient-molecular-property-pr]] · [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up]] · [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi]] · [[2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape]] · [[2026-10-17-meta-removes-disputed-ai-training-language-from-business-ter]]
 <!-- graph:end -->

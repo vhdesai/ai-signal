@@ -5,7 +5,7 @@ date: '2026-11-05'
 source: '[Princeton Neuroscience Institute]'
 url_original: https://pni.princeton.edu/news/2026/princeton-researchers-train-ai-model-learn-language-way-children-do
 url_canonical: https://pni.princeton.edu/news/2026/princeton-researchers-train-ai-model-learn-language-way-children-do
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-06_070742_Inbox_Daily AI News Digest - November
   6, 2026.md
 content_hash: 73e5cdbbe954e186e02523ace1f8b364e1e1ef5bb4c2ad3b1827f2f68de2bdf1

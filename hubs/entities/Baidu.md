@@ -1,15 +1,22 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 141
+member_count: 148
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 141 connected article(s).
+> Auto-generated entity hub. 148 connected article(s).
 
+- `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
+- `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-baidu-introduces-ernie-evolve-for-automated-research|Baidu introduces ERNIE Evolve for automated research]]
+- `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
 - `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]
+- `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]
 - `2026-11-05` [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as|Open weights advance: Baidu releases ERNIE 5.5 Flash Base as Ricursive claims a US open coding lead]]
+- `2026-11-05` [[2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base|Baidu released downloadable weights for ERNIE-5.5-Flash-Base, a text-only mixture-of-experts model with 280B total…]]
+- `2026-11-05` [[2026-11-05-additional-bounded-checks-covered-mistral-cursor-replit-xai|Additional bounded checks covered Mistral, Cursor, Replit, xAI, Alibaba/Qwen, Baidu Research, Huawei, SenseTime,…]]
 - `2026-11-03` [[2026-11-03-november-3-2026-reuters|[November 3, 2026] · [Reuters]]]
 - `2026-11-03` [[2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure|NCSC warns of AI-powered attacks on critical infrastructure]]
 - `2026-11-03` [[2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser|Copyright pressure moves down the AI supply chain: EU adviser on Gemini, NYT sues Brave]]

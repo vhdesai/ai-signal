@@ -5,8 +5,8 @@ title: Global venture investment reached $297 billion in Q1 2026, up 150% year-o
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.dearhueman.com/news/q1-2026-vc-funding-record-297-billion-ai-startups
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: cba9ea3002925189f9507968c0e8a6544e4a737aef52434aa20a89a39b440b93

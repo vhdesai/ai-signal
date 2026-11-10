@@ -42,6 +42,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce
 - 2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture
+- 2026-11-05-news-source-discovery-also-covered-wsj-ai-marktechpost-techc
 embedding_id: 2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce
 event_name: ''
 ---
@@ -55,5 +56,5 @@ Disney agreed to hire most Character.AI staff. Competing bids could replace the 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce]] · [[2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture]]
+**Related:** [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce]] · [[2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture]] · [[2026-11-05-news-source-discovery-also-covered-wsj-ai-marktechpost-techc]]
 <!-- graph:end -->

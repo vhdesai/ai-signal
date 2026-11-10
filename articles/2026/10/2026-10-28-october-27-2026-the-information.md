@@ -5,7 +5,7 @@ date: '2026-10-28'
 source: '[The Information]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+Google+TPUs
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+Google+TPUs
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-29_070116_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: f188ef55e35747c4c21dea0747dcea652d59c899f8576bba26de2669fa699b3b
@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b
+- 2026-11-09-november-9-2026-google-blog
 - 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
-- 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
-- 2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch
-- 2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme
+- 2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu
+- 2026-11-08-google-adds-confidential-computing-and-long-context-tpus-as
 embedding_id: 2026-10-28-october-27-2026-the-information
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The Information first reported that OpenAI, a longtime Nvidia customer, plans to
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]] · [[2026-10-27-anthropic-s-commitments-underscore-the-scale-of-google-s-eme]]
+**Related:** [[2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b]] · [[2026-11-09-november-9-2026-google-blog]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu]] · [[2026-11-08-google-adds-confidential-computing-and-long-context-tpus-as]]
 <!-- graph:end -->

@@ -21,8 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-white-house-authorizes-vetted-private-firms-for-offensive-cy
+- 2026-11-09-november-9-2026-reuters-2
+- 2026-11-09-trump-says-ai-risks-can-be-managed-signals-openness-to-guard
+- 2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a
 - 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
-- 2026-08-13-white-house-opens-vetted-private-sector-cyber-operations-aga
 embedding_id: 2026-08-17-trump-memo-lets-private-companies-hack-foreign-cybercriminal
 event_name: ''
 ---
@@ -35,5 +37,5 @@ President Trump's August 12 memo gives federal agencies 60 days to create a prog
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-12-white-house-authorizes-vetted-private-firms-for-offensive-cy]] · [[2026-05-10-white-house-mulls-executive-order-banning-private-sector-int]] · [[2026-08-13-white-house-opens-vetted-private-sector-cyber-operations-aga]]
+**Related:** [[2026-08-12-white-house-authorizes-vetted-private-firms-for-offensive-cy]] · [[2026-11-09-november-9-2026-reuters-2]] · [[2026-11-09-trump-says-ai-risks-can-be-managed-signals-openness-to-guard]] · [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a]] · [[2026-05-10-white-house-mulls-executive-order-banning-private-sector-int]]
 <!-- graph:end -->

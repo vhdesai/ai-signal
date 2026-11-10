@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
 - 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
 - 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
-- 2026-09-04-daily-ai-news-digest-september-5-2026
+- 2026-11-07-executive-briefing-6-verified-stories
 embedding_id: 2026-10-31-today-s-verified-coverage-highlights-tighter-scrutiny-of-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Today's verified coverage highlights tighter scrutiny of AI spending, vendor-bac
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-06-this-digest-was-compiled-from-37-verified-sources-covering-n]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off]] · [[2026-09-04-daily-ai-news-digest-september-5-2026]]
+**Related:** [[2026-04-06-this-digest-was-compiled-from-37-verified-sources-covering-n]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off]] · [[2026-11-07-executive-briefing-6-verified-stories]]
 <!-- graph:end -->

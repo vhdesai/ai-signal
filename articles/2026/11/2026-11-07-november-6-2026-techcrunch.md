@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-10-02-ramp-ai-index-us-businesses-are-using-more-ai-and-paying-les
 - 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
 - 2026-10-21-october-22-2026-dealbook
-- 2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open
 embedding_id: 2026-11-07-november-6-2026-techcrunch
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Ramp's AI Index shows business spending on AI tokens grew only 1.5% across Augus
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-07-november-6-2026-techcrunch-2]] · [[2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta]] · [[2026-10-02-ramp-ai-index-us-businesses-are-using-more-ai-and-paying-les]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-10-21-october-22-2026-dealbook]] · [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open]]
+**Related:** [[2026-11-07-november-6-2026-techcrunch-2]] · [[2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta]] · [[2026-10-02-ramp-ai-index-us-businesses-are-using-more-ai-and-paying-les]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-10-21-october-22-2026-dealbook]]
 <!-- graph:end -->

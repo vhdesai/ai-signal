@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-07-inference-plumbing-matures-buoyant-open-sources-kinference-a
+- 2026-11-07-buoyant-open-sources-kinference-a-routing-layer-for-running
 - 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
 - 2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu
 - 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn
-- 2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement
 embedding_id: 2026-11-06-november-7-2026-marktechpost
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Buoyant, the maker of Linkerd, released Kinference, an early-alpha Apache 2.0 co
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-07-inference-plumbing-matures-buoyant-open-sources-kinference-a]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu]] · [[2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn]] · [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]]
+**Related:** [[2026-11-07-inference-plumbing-matures-buoyant-open-sources-kinference-a]] · [[2026-11-07-buoyant-open-sources-kinference-a-routing-layer-for-running]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu]] · [[2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn]]
 <!-- graph:end -->

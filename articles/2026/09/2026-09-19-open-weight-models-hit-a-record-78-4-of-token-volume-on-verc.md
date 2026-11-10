@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 - 2026-08-28-analysis-open-weight-ai-companies-are-the-valley-s-hottest-a
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
+- 2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
 embedding_id: 2026-09-19-open-weight-models-hit-a-record-78-4-of-token-volume-on-verc
 event_name: ''
@@ -41,5 +42,5 @@ Vercel CEO Guillermo Rauch published daily gateway data showing closed-weight mo
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-08-28-analysis-open-weight-ai-companies-are-the-valley-s-hottest-a]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]]
+**Related:** [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-08-28-analysis-open-weight-ai-companies-are-the-valley-s-hottest-a]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]]
 <!-- graph:end -->

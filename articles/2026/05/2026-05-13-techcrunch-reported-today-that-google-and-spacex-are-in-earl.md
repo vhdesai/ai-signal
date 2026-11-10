@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten
 - 2026-11-01-google-energy-executive-says-data-centers-in-space-could-cos
 - 2026-11-02-the-information-reports-that-google-s-energy-chief-put-the-c
-- 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers
+- 2026-11-07-november-7-2026-techradar-via-yahoo-finance
 embedding_id: 2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch reported today that Google and SpaceX are in early talks to co-develo
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten]] · [[2026-11-01-google-energy-executive-says-data-centers-in-space-could-cos]] · [[2026-11-02-the-information-reports-that-google-s-energy-chief-put-the-c]] · [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers]]
+**Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten]] · [[2026-11-01-google-energy-executive-says-data-centers-in-space-could-cos]] · [[2026-11-02-the-information-reports-that-google-s-energy-chief-put-the-c]] · [[2026-11-07-november-7-2026-techradar-via-yahoo-finance]]
 <!-- graph:end -->

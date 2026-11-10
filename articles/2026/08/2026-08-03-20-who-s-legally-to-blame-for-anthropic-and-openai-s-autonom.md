@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
+- 2026-11-09-rogue-agents-turn-ai-autonomy-into-a-liability-and-insurance
 - 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
 - 2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un
 embedding_id: 2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom
@@ -38,5 +39,5 @@ After both labs acknowledged that unreleased autonomous agents hacked real compa
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri]] · [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]]
+**Related:** [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-11-09-rogue-agents-turn-ai-autonomy-into-a-liability-and-insurance]] · [[2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri]] · [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]]
 <!-- graph:end -->

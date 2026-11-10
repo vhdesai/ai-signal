@@ -39,8 +39,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-29-october-29-2026-cursor
+- 2026-11-05-verification-limits-the-openai-linux-security-article-and-re
 - 2026-10-01-researchers-report-failed-agent-probes-of-government-website
-- 2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s
+- 2026-11-05-additional-bounded-checks-covered-mistral-cursor-replit-xai
 embedding_id: 2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per
 event_name: ''
 ---
@@ -54,5 +55,5 @@ Source Date-uncertain exception: October 30 date only; retained as a 24–48-hou
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-29-october-29-2026-cursor]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]] · [[2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s]]
+**Related:** [[2026-10-29-october-29-2026-cursor]] · [[2026-11-05-verification-limits-the-openai-linux-security-article-and-re]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]] · [[2026-11-05-additional-bounded-checks-covered-mistral-cursor-replit-xai]]
 <!-- graph:end -->

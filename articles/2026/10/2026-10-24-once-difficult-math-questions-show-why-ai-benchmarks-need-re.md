@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
 - 2026-06-26-this-preprint-argues-that-standard-benchmarks-substantially
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
-- 2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a
+- 2026-11-08-introducing-the-artificial-analysis-decision-index-v2
 embedding_id: 2026-10-24-once-difficult-math-questions-show-why-ai-benchmarks-need-re
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ revisits basic math problems that previously stumped AI systems and contrast
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-24-rapid-model-progress-is-aging-benchmark-assumptions-faster-t]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]] · [[2026-06-26-this-preprint-argues-that-standard-benchmarks-substantially]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a]]
+**Related:** [[2026-10-24-rapid-model-progress-is-aging-benchmark-assumptions-faster-t]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]] · [[2026-06-26-this-preprint-argues-that-standard-benchmarks-substantially]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-11-08-introducing-the-artificial-analysis-decision-index-v2]]
 <!-- graph:end -->

@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
+- 2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
-- 2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou
 embedding_id: 2026-08-18-pitchbook-ai-agents-still-need-humans-pe-zombie-problem-wors
 event_name: ''
 ---
@@ -35,5 +35,5 @@ PitchBook's daily roundup highlights that "agents need humans, too" — reflecti
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou]]
+**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]]
 <!-- graph:end -->

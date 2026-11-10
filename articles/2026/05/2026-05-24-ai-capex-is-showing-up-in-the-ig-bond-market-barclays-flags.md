@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
 - 2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s
 - 2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality
-- 2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund
+- 2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n
 embedding_id: 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The May 24 brief aggregates Nvidia's ~$90B deal spree, Barclays' warning that Bi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back]] · [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]] · [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s]] · [[2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality]] · [[2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund]]
+**Related:** [[2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back]] · [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]] · [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s]] · [[2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality]] · [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n]]
 <!-- graph:end -->

@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-31-daily-ai-news-digest-october-31-2026
 - 2026-10-29-daily-ai-news-digest-october-29-2026
+- 2026-11-07-daily-ai-news-digest-november-9-2026
 - 2026-10-09-daily-ai-news-digest-october-10-2026
 - 2026-09-25-saturday-september-26-2026
-- 2026-10-01-daily-ai-news-digest-october-1-2026
 embedding_id: 2026-11-01-daily-ai-news-digest-november-1-2026
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A quiet weekend made the AI financing turn explicit. OpenAI's round fell well sh
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-10-31-daily-ai-news-digest-october-31-2026]] · [[2026-10-29-daily-ai-news-digest-october-29-2026]] · [[2026-10-09-daily-ai-news-digest-october-10-2026]] · [[2026-09-25-saturday-september-26-2026]] · [[2026-10-01-daily-ai-news-digest-october-1-2026]]
+**Related:** [[2026-10-31-daily-ai-news-digest-october-31-2026]] · [[2026-10-29-daily-ai-news-digest-october-29-2026]] · [[2026-11-07-daily-ai-news-digest-november-9-2026]] · [[2026-10-09-daily-ai-news-digest-october-10-2026]] · [[2026-09-25-saturday-september-26-2026]]
 <!-- graph:end -->

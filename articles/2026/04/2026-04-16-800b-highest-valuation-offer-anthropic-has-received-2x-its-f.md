@@ -5,8 +5,8 @@ title: $800B — Highest valuation offer Anthropic has received (2x its Feb roun
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.siliconreport.com/openai-852b-valuation-and-ipo-path-3c7d5d43
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: f1702dbb83dd6a10a22a39bfc82830a42a39c9f51c9cec52f67f6c3dc79b9091

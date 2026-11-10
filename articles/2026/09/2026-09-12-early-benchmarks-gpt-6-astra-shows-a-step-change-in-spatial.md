@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b
 - 2026-09-27-stanford-caltech-s-homebody-plugs-gpt-6-astra-directly-into
 - 2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp
-- 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly
+- 2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2
 embedding_id: 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
 event_name: ''
 ---
@@ -37,5 +37,5 @@ On StationeryBench — a new robotics benchmark for dual-arm manipulation — GP
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-09-27-stanford-caltech-s-homebody-plugs-gpt-6-astra-directly-into]] · [[2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly]]
+**Related:** [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-09-27-stanford-caltech-s-homebody-plugs-gpt-6-astra-directly-into]] · [[2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp]] · [[2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2]]
 <!-- graph:end -->

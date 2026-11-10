@@ -5,8 +5,8 @@ title: research from MIT and collaborating institutions demonstrated a significa
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 403c49b02f8d7e2d8e345d6374971648501e08ba862d99ef45dd3a58b48a440a
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
 - 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
 - 2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou
-- 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
+- 2026-11-09-mit-and-nyu-use-language-feedback-to-improve-robot-motion-pl
 embedding_id: 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
 event_name: ''
 ---
@@ -37,5 +37,5 @@ research from MIT and collaborating institutions demonstrated a significant impr
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge]] · [[2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]]
+**Related:** [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge]] · [[2026-10-22-mit-researchers-report-unscripted-play-behavior-in-autonomou]] · [[2026-11-09-mit-and-nyu-use-language-feedback-to-improve-robot-motion-pl]]
 <!-- graph:end -->

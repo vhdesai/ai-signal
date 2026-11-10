@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
+- 2026-11-08-ai-companies-have-issued-more-than-300-billion-in-new-stock
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
-- 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 embedding_id: 2026-10-26-meta-launches-approximately-35-billion-in-equity-offerings-f
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta announced concurrent offerings of roughly $22.5 billion in common stock via
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]]
+**Related:** [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-11-08-ai-companies-have-issued-more-than-300-billion-in-new-stock]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]]
 <!-- graph:end -->

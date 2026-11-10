@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-06-meta-launches-spaces-letting-muse-build-trackers-and-planner
 - 2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age
 - 2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all
 - 2026-09-22-meta-admits-muse-s-likeness-to-openclaw-isn-t-a-coincidence
 - 2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding
-- 2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con
 embedding_id: 2026-09-25-meta-muse-gives-every-user-a-full-ubuntu-linux-cloud-compute
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta expanded Muse to provision each user their own always-on Ubuntu Linux cloud
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age]] · [[2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all]] · [[2026-09-22-meta-admits-muse-s-likeness-to-openclaw-isn-t-a-coincidence]] · [[2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding]] · [[2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con]]
+**Related:** [[2026-11-06-meta-launches-spaces-letting-muse-build-trackers-and-planner]] · [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age]] · [[2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all]] · [[2026-09-22-meta-admits-muse-s-likeness-to-openclaw-isn-t-a-coincidence]] · [[2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding]]
 <!-- graph:end -->

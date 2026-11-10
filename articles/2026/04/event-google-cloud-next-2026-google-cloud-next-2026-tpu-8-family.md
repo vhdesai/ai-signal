@@ -25,10 +25,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
-- 2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c
-- 2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b
-- 2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp
+- 2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma
+- 2026-11-09-google-expands-its-tpu-portfolio-for-regulated-and-large-sca
+- 2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu
+- 2026-11-08-november-9-2026-nvidia-blog
 embedding_id: event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family
 event_name: Google Cloud Next 2026
 ---
@@ -42,5 +42,5 @@ Google Cloud announced an eighth-generation TPU family split between training an
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]] · [[2026-10-27-openai-plans-to-buy-google-tpus-as-google-expands-ai-chips-b]] · [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp]]
+**Related:** [[2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma]] · [[2026-11-09-google-expands-its-tpu-portfolio-for-regulated-and-large-sca]] · [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu]] · [[2026-11-08-november-9-2026-nvidia-blog]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
+- 2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins
 - 2026-08-27-looking-beyond-natural-sequences-mit-framework-for-computati
-- 2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass
 embedding_id: 2026-08-31-how-an-mit-research-project-became-a-global-programming-lang
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT News profiles Julia, the programming language that began as an MIT research 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-08-27-looking-beyond-natural-sequences-mit-framework-for-computati]] · [[2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass]]
+**Related:** [[2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins]] · [[2026-08-27-looking-beyond-natural-sequences-mit-framework-for-computati]]
 <!-- graph:end -->

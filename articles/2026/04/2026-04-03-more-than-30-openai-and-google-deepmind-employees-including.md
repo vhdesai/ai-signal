@@ -5,8 +5,8 @@ title: More than 30 OpenAI and Google DeepMind employees — including DeepMind 
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: f3550a5f4a6c77c2502fc388596d540e3ca2b038fc5e38d2221b081c905380f9

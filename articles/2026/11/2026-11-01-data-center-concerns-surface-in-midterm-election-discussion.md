@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 - 2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue
 - 2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi
-- 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
+- 2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg
 embedding_id: 2026-11-01-data-center-concerns-surface-in-midterm-election-discussion
 event_name: ''
 ---
@@ -60,5 +60,5 @@ TechCrunch describes data-center concerns at a Brooklyn election event. This is 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue]] · [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]]
+**Related:** [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue]] · [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi]] · [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg]]
 <!-- graph:end -->

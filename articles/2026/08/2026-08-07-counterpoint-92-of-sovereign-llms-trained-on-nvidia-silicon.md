@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla
 - 2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on
+- 2026-11-08-november-9-2026-nvidia-blog
 - 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
-- 2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
 embedding_id: 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Counterpoint Research found that 92% of roughly 170 sovereign large language mod
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]] · [[2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]]
+**Related:** [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]] · [[2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on]] · [[2026-11-08-november-9-2026-nvidia-blog]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]]
 <!-- graph:end -->

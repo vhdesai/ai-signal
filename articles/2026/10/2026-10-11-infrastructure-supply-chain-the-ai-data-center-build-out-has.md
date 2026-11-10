@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import
+- 2026-11-08-november-8-2026-financial-times-via-yahoo-finance
 - 2026-08-24-us-corporate-capex-set-to-grow-three-times-faster-than-europ
 - 2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs
 - 2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further
-- 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
 embedding_id: 2026-10-11-infrastructure-supply-chain-the-ai-data-center-build-out-has
 event_name: ''
 ---
@@ -38,5 +38,5 @@ INFRASTRUCTURE SUPPLY CHAIN The AI data center build-out has made the US more re
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import]] · [[2026-08-24-us-corporate-capex-set-to-grow-three-times-faster-than-europ]] · [[2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs]] · [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]]
+**Related:** [[2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import]] · [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance]] · [[2026-08-24-us-corporate-capex-set-to-grow-three-times-faster-than-europ]] · [[2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs]] · [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further]]
 <!-- graph:end -->

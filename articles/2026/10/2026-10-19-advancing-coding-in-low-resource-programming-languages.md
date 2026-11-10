@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-19-research-codingopenai-introduces-a-benchmark-for-coding-in-l
 - 2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok
+- 2026-11-06-openai-introduces-biobasicsbench-for-routine-laboratory-anal
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 embedding_id: 2026-10-19-advancing-coding-in-low-resource-programming-languages
@@ -38,5 +39,5 @@ OpenAI released MultiLangBench and reported stronger low-resource coding and COB
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-19-research-codingopenai-introduces-a-benchmark-for-coding-in-l]] · [[2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
+**Related:** [[2026-10-19-research-codingopenai-introduces-a-benchmark-for-coding-in-l]] · [[2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok]] · [[2026-11-06-openai-introduces-biobasicsbench-for-routine-laboratory-anal]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
 <!-- graph:end -->

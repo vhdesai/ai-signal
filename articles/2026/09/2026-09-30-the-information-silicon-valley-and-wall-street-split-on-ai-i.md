@@ -6,7 +6,7 @@ date: '2026-09-30'
 source: The Information (Exclusive)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Wall+Street+Silicon+Valley+Anthropic+IPO+valuation
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Wall+Street+Silicon+Valley+Anthropic+IPO+valuation
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: 8acfca579a48616e37b6011644790bad679af94d13421a61d647d7f45ef67646
@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-06-november-6-2026-the-information
+- 2026-11-09-anthropic-presses-ahead-with-its-ipo-roadshow-as-openai-clos
 - 2026-04-02-despite-the-record-raise-openai-s-secondary-market-position
-- 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
 embedding_id: 2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information reports shifting economic forces are driving a widening divide b
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-06-november-6-2026-the-information]] · [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]]
+**Related:** [[2026-11-06-november-6-2026-the-information]] · [[2026-11-09-anthropic-presses-ahead-with-its-ipo-roadshow-as-openai-clos]] · [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]]
 <!-- graph:end -->

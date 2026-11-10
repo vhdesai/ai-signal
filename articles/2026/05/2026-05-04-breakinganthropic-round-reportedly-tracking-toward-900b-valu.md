@@ -4,8 +4,8 @@ title: BREAKINGAnthropic round reportedly tracking toward $900B+ valuation
 date: '2026-05-04'
 source: TechCrunch / Forbes
 url_original: null
-url_canonical: https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: d54edad568c86d45939949dd2e1bffc97c8c183fe28f536c1bd3a96dbafdab71
 normalized_title_hash: 6e7ff5559c23ce1d

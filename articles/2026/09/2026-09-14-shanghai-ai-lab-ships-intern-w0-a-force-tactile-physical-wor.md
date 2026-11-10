@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
+- 2026-11-09-november-9-2026-mit-news
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
+- 2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins
 - 2026-08-05-china-s-new-ai-gold-rush-world-models
-- 2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum
-- 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
 embedding_id: 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Shanghai AI Lab released Intern Physical World Model W0, a foundation model desi
 
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-08-05-china-s-new-ai-gold-rush-world-models]] · [[2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]]
+**Related:** [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]] · [[2026-11-09-november-9-2026-mit-news]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins]] · [[2026-08-05-china-s-new-ai-gold-rush-world-models]]
 <!-- graph:end -->

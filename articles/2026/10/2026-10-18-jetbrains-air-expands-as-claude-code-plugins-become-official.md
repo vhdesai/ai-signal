@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-18-jetbrains-air-expands-to-five-ides-as-claude-code-plugins-go
 - 2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop
 - 2026-08-08-claude-code-adds-cross-session-messaging-between-agents
-- 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
+- 2026-11-08-google-s-elephant-goldfish-plugin-makes-coding-agents-write
 embedding_id: 2026-10-18-jetbrains-air-expands-as-claude-code-plugins-become-official
 event_name: ''
 ---
@@ -36,5 +36,5 @@ JetBrains Air’s early-access program expanded to five IDEs and now runs multip
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-18-jetbrains-air-expands-to-five-ides-as-claude-code-plugins-go]] · [[2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop]] · [[2026-08-08-claude-code-adds-cross-session-messaging-between-agents]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]]
+**Related:** [[2026-10-18-jetbrains-air-expands-to-five-ides-as-claude-code-plugins-go]] · [[2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop]] · [[2026-08-08-claude-code-adds-cross-session-messaging-between-agents]] · [[2026-11-08-google-s-elephant-goldfish-plugin-makes-coding-agents-write]]
 <!-- graph:end -->

@@ -19,6 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-bloomberg-reports-that-isomorphic-labs-the-ai-drug-discovery
 - 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
 - 2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
@@ -34,5 +35,5 @@ Dealroom reports DeepMind spinout Isomorphic Labs is seeking funding at a $40B v
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]]
+**Related:** [[2026-11-05-bloomberg-reports-that-isomorphic-labs-the-ai-drug-discovery]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]]
 <!-- graph:end -->

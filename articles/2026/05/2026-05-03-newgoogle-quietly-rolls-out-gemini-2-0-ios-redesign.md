@@ -4,8 +4,8 @@ title: NEWGoogle Quietly Rolls Out Gemini 2.0 iOS Redesign
 date: '2026-05-03'
 source: Android Sage
 url_original: null
-url_canonical: https://www.androidsage.com/2026/05/03/gemini-ai-ios-redesign-gemini-2-0-ui/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 48f393576f4362ef4b6906e43adad72efdc0d8ac72e761f8955c8241c407d216
 normalized_title_hash: 0700f063fc9b314b

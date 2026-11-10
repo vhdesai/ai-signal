@@ -4,8 +4,8 @@ title: DeepSeek–Alibaba Funding Talks Disputed in Chinese Press
 date: '2026-05-09'
 source: NewsGlobeNow
 url_original: null
-url_canonical: https://www.digitimes.com/news/a20260423VL216/deepseek-funding-alibaba-tencent-competition.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: f8a322af5a015b2fdcb6b89ad814adc21457a405cb0b2a624d1cc1d62a4a4f7f

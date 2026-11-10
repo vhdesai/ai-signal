@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
 - 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 - 2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi
+- 2026-11-08-november-8-2026-financial-times-via-yahoo-finance
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-- 2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i
 embedding_id: 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Reuters reports the White House is preparing to rally utilities and data-center 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i]]
+**Related:** [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi]] · [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
 <!-- graph:end -->

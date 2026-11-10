@@ -5,8 +5,8 @@ title: OpenAI CFO Sarah Friar Said to Have Privately Advocated Delaying IPO Unti
 date: '2026-05-02'
 source: Wall Street Journal / Techmeme
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/openai-cfo-just-told-employees-135036521.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 43139a3d95594f00b4e3a906e4ec21ab66ef9f82552e6adcefc574cf7d6d54ec
 normalized_title_hash: fc4cbf30b4e04fe2
@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-13-openai-rules-out-a-2026-ipo-citing-safety-concerns
+- 2026-11-08-ai-companies-have-issued-more-than-300-billion-in-new-stock
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety
 - 2026-04-27-
-- 2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo
 embedding_id: 2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A WSJ profile of OpenAI CFO Sarah Friar reveals she privately counseled waiting 
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-13-openai-rules-out-a-2026-ipo-citing-safety-concerns]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety]] · [[2026-04-27-]] · [[2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo]]
+**Related:** [[2026-09-13-openai-rules-out-a-2026-ipo-citing-safety-concerns]] · [[2026-11-08-ai-companies-have-issued-more-than-300-billion-in-new-stock]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety]] · [[2026-04-27-]]
 <!-- graph:end -->

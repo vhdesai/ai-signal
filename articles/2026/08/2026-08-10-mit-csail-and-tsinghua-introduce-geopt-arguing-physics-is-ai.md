@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p
+- 2026-11-09-november-9-2026-mit-news
+- 2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins
+- 2026-11-09-single-ai-model-simulates-the-behavior-of-many-substances-fr
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
-- 2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis
-- 2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials
-- 2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati
 embedding_id: 2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers released GeoPT, which pre-trains models on physics before task train
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis]] · [[2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials]] · [[2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati]]
+**Related:** [[2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p]] · [[2026-11-09-november-9-2026-mit-news]] · [[2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins]] · [[2026-11-09-single-ai-model-simulates-the-behavior-of-many-substances-fr]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]]
 <!-- graph:end -->

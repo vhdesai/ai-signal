@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly
 - 2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum
+- 2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha
 - 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
-- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 embedding_id: 2026-09-19-abc-130k-largest-open-bimanual-teleoperation-dataset-headed
 event_name: ''
 ---
@@ -37,5 +37,5 @@ ABC is a fully open-source behavior-cloning stack for bimanual manipulation, bui
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly]] · [[2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum]] · [[2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]]
+**Related:** [[2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly]] · [[2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum]] · [[2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha]] · [[2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-gpt-rosalind-exits-research-preview-for-life-sciences-organi
 - 2026-04-16-openai-gpt-rosalind-targets-life-sciences-research
 - 2026-04-20-openai-blog-april-18-2026-openai-introduced-gpt-rosalind-a-s
-- 2026-06-03-openai-upgrades-gpt-rosalind-for-life-sciences-research
+- 2026-11-06-openai-introduces-biobasicsbench-for-routine-laboratory-anal
 embedding_id: 2026-10-11-model-openai-24-48h-exception-openai-lists-new-gpt-rosalind
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MODEL OPENAI 24–48H EXCEPTION OpenAI lists new gpt-rosalind-discovery model in
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-10-openai-docs-list-a-gpt-rosalind-discovery-model-but-launch-d]] · [[2026-09-11-gpt-rosalind-exits-research-preview-for-life-sciences-organi]] · [[2026-04-16-openai-gpt-rosalind-targets-life-sciences-research]] · [[2026-04-20-openai-blog-april-18-2026-openai-introduced-gpt-rosalind-a-s]] · [[2026-06-03-openai-upgrades-gpt-rosalind-for-life-sciences-research]]
+**Related:** [[2026-10-10-openai-docs-list-a-gpt-rosalind-discovery-model-but-launch-d]] · [[2026-09-11-gpt-rosalind-exits-research-preview-for-life-sciences-organi]] · [[2026-04-16-openai-gpt-rosalind-targets-life-sciences-research]] · [[2026-04-20-openai-blog-april-18-2026-openai-introduced-gpt-rosalind-a-s]] · [[2026-11-06-openai-introduces-biobasicsbench-for-routine-laboratory-anal]]
 <!-- graph:end -->

@@ -23,14 +23,13 @@ themes:
 - policy-regulation
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier
 related_article_ids:
 - 2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
-- 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 embedding_id: 2026-11-06-november-6-2026-techcrunch-2
 event_name: ''
 ---
@@ -44,5 +43,6 @@ Censys found more than 800 internet-exposed, password-free deployments of Artex,
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]]
+**Canonical:** [[2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier]]
+**Related:** [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]]
 <!-- graph:end -->

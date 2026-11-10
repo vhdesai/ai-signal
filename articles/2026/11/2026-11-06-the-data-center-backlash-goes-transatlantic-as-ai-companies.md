@@ -2,11 +2,12 @@
 article_id: 2026-11-06-the-data-center-backlash-goes-transatlantic-as-ai-companies
 title: The data-center backlash goes transatlantic as AI companies rethink siting
 date: '2026-11-06'
-source: Wall Street Journal | November 6, 2026 · Reuters (via Yahoo News)*
+source: Wall Street Journal | November 6, 2026 · Reuters
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-11-07_065432_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-11-07_065447_Inbox_Daily AI News Digest - November
+  7, 2026.md
 content_hash: e780a2736101816c1211ba6657a0c606c591e50402e7ca36e326c01d1db921e5
 normalized_title_hash: cb7a915309ea1d05
 canonical_url_hash: ''

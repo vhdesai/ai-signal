@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
+- 2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 - 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
-- 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 embedding_id: 2026-09-01-amazon-adds-alexa-update-me-when-purchase-trigger-alerts
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Amazon introduced an Alexa-powered feature that sends personalized alerts about 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]]
+**Related:** [[2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode]]
 <!-- graph:end -->

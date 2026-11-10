@@ -5,8 +5,8 @@ title: 'The Elon Musk vs. Sam Altman / OpenAI trial is ongoing in Oakland, with 
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://allaboutlawyer.com/musk-vs-altman-openai-breach-charitable-trust-lawsuit/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 081220b4e883c9383caa066aab217ae63ac1c3bc1dc91fe27c227380a118cee1

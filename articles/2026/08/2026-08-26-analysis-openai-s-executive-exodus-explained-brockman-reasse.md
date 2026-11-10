@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-techcrunch-analysis-how-do-we-explain-openai-s-executive-exo
 - 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p
+- 2026-11-05-speaking-at-a-wsj-tech-conference-in-napa-openai-president-g
 - 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 embedding_id: 2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse
@@ -41,5 +42,5 @@ TechCrunch’s deep-dive argues 14+ departures reflect Greg Brockman’s reasser
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-26-techcrunch-analysis-how-do-we-explain-openai-s-executive-exo]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
+**Related:** [[2026-08-26-techcrunch-analysis-how-do-we-explain-openai-s-executive-exo]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p]] · [[2026-11-05-speaking-at-a-wsj-tech-conference-in-napa-openai-president-g]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
 <!-- graph:end -->

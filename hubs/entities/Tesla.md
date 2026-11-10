@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 58
+member_count: 59
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 58 connected article(s).
+> Auto-generated entity hub. 59 connected article(s).
 
+- `2026-11-08` [[2026-11-08-agility-robotics-is-the-first-us-humanoid-robot-company-to-g|Agility Robotics is the first US humanoid robot company to go public, and it is still far from profitable]]
 - `2026-11-02` [[2026-11-02-an-independent-developer-released-qwengpu-mit-license-which|An independent developer released qwenGPU (MIT license), which adds 45 compiler-generated, untrained layers to…]]
 - `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
 - `2026-10-02` [[2026-10-02-grok-goes-live-in-xchat-tesla-pushes-staff-toward-grok-4-5-u|Grok goes live in XChat; Tesla pushes staff toward Grok 4.5 under new AI-spending cap]]

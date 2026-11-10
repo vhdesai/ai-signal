@@ -4,8 +4,8 @@ title: 'AntAngelMed: 103B-Parameter Open-Source Medical LLM with 1/32 MoE Activa
 date: '2026-05-12'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/05/12/meet-antangelmed-a-103b-parameter-open-source-medical-language-model-built-on-a-1-32-activation-ratio-moe-architecture/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: 325602c857a5fbd1a1f2c9d328db45183ac1ecf7420d778c6ee2ab2e389334d6

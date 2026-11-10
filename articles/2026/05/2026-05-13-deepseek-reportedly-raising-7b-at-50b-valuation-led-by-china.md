@@ -4,8 +4,8 @@ title: DeepSeek Reportedly Raising $7B+ at $50B Valuation, Led by China's "Big F
 date: '2026-05-13'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: https://deepseek.ai/blog/deepseek-50-billion-funding-round
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: acc4681dff297e7915aa86e490938f610c8516790080ebe5962a60d31cebb5a4

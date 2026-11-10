@@ -23,7 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
-- 2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-china-is
+- 2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re
+- 2026-11-09-november-9-2026-nvidia-blog
 embedding_id: 2026-10-23-nvidia-linked-microduck-consumer-robots-pass-20-000-preorder
 event_name: ''
 ---
@@ -37,5 +38,5 @@ TechCrunch reports Microduck robot preorders exceeded 20,000 after Nvidia CEO Je
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-china-is]]
+**Related:** [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re]] · [[2026-11-09-november-9-2026-nvidia-blog]]
 <!-- graph:end -->

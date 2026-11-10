@@ -3,11 +3,12 @@ article_id: 2026-11-04-optics-becomes-the-ai-choke-point-rival-bid-talk-for-lume
 title: 'Optics becomes the AI choke point: rival-bid talk for Lumentum and a fiber
   squeeze'
 date: '2026-11-04'
-source: The Information | November 4, 2026 · Business Insider*
+source: The Information | November 4, 2026 · Business Insider
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-11-05_094536_Inbox_Fw Daily AI News Digest - November
+  5, 2026.md
 content_hash: d2eb48637fbbd11a87bb02f9d4eed7b7d3e69a65ca98e83854ad47e7c33000cd
 normalized_title_hash: 85556714e3b3c25e
 canonical_url_hash: ''

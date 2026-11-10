@@ -4,11 +4,12 @@ title: 'Token rationing arrives: Apple trims internal AI budgets as enterprise A
   bills climb'
 date: '2026-11-04'
 source: Bloomberg (via TechCrunch) | November 4, 2026 · VentureBeat | November 5,
-  2026 · Business Insider*
+  2026 · Business Insider
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-11-05_065844_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-11-05_094536_Inbox_Fw Daily AI News Digest - November
+  5, 2026.md
 content_hash: 85c173ae06f0cdc69933890aead05a7aa3d4e43636f0e5c2bce31fb249ce13aa
 normalized_title_hash: f69aae35dd9dab03
 canonical_url_hash: ''
@@ -22,8 +23,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-bloomberg-reports-that-apple-cut-its-engineering-teams-daily
 - 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
-- 2026-08-07-rippling-disclosed-it-was-burning-40-of-r-d-payroll-on-ai-to
 embedding_id: 2026-11-04-token-rationing-arrives-apple-trims-internal-ai-budgets-as-e
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Bloomberg reports Apple cut some engineering teams' daily AI allowances from $30
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-08-07-rippling-disclosed-it-was-burning-40-of-r-d-payroll-on-ai-to]]
+**Related:** [[2026-11-05-bloomberg-reports-that-apple-cut-its-engineering-teams-daily]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]]
 <!-- graph:end -->

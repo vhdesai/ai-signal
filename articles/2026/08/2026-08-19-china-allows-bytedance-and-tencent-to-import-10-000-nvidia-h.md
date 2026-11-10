@@ -25,9 +25,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-reuters-reports-that-about-600-000-nvidia-h200-chips-are-sit
 - 2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta
 - 2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio
-- 2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo
 embedding_id: 2026-08-19-china-allows-bytedance-and-tencent-to-import-10-000-nvidia-h
 event_name: ''
 ---
@@ -41,5 +41,5 @@ ByteDance and Tencent have each received roughly 10,000 Nvidia H200 processors i
 
 **Entities:** [[ByteDance]] · [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]] · [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio]] · [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo]]
+**Related:** [[2026-11-05-reuters-reports-that-about-600-000-nvidia-h200-chips-are-sit]] · [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]] · [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio]]
 <!-- graph:end -->

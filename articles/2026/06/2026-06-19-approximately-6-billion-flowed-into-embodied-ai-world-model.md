@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
 - 2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin
 - 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
+- 2026-11-09-november-9-2026-nvidia-blog
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
-- 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 embedding_id: 2026-06-19-approximately-6-billion-flowed-into-embodied-ai-world-model
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Approximately $6 billion flowed into embodied AI world-model companies in Q1 202
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]]
+**Related:** [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]] · [[2026-11-09-november-9-2026-nvidia-blog]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
 <!-- graph:end -->

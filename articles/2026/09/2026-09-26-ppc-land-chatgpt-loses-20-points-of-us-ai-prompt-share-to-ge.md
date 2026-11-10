@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 - 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
 - 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
+- 2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth
 - 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
-- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 embedding_id: 2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge
 event_name: ''
 ---
@@ -43,5 +43,5 @@ PPC Land reports ChatGPT has lost 20 points of US AI prompt-share to Google Gemi
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]] · [[2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back]] · [[2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
+**Related:** [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]] · [[2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back]] · [[2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth]] · [[2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt]]
 <!-- graph:end -->

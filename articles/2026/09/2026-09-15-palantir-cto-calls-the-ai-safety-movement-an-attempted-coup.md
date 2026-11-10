@@ -23,6 +23,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a
 - 2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai
 - 2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin
 - 2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf
@@ -40,5 +41,5 @@ In an essay for The Free Press, Palantir CTO Shyam Sankar argued that effective 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai]] · [[2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin]] · [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf]] · [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom]]
+**Related:** [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a]] · [[2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai]] · [[2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin]] · [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf]] · [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom]]
 <!-- graph:end -->

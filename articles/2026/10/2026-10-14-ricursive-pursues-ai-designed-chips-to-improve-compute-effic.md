@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-25-ricursive-intelligence-ex-alphachip-leads-raise-335m-to-have
+- 2026-11-05-ricursive-intelligence-a-startup-founded-by-former-googlers
 - 2026-09-04-business-insider-spotlights-lightmatter-as-optical-computing
 - 2026-07-16-bair-argues-data-systems-must-be-redesigned-for-agentic-work
-- 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
 embedding_id: 2026-10-14-ricursive-pursues-ai-designed-chips-to-improve-compute-effic
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Ricursive’s founders described AI systems that optimize entire chips and impro
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-25-ricursive-intelligence-ex-alphachip-leads-raise-335m-to-have]] · [[2026-09-04-business-insider-spotlights-lightmatter-as-optical-computing]] · [[2026-07-16-bair-argues-data-systems-must-be-redesigned-for-agentic-work]] · [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]]
+**Related:** [[2026-09-25-ricursive-intelligence-ex-alphachip-leads-raise-335m-to-have]] · [[2026-11-05-ricursive-intelligence-a-startup-founded-by-former-googlers]] · [[2026-09-04-business-insider-spotlights-lightmatter-as-optical-computing]] · [[2026-07-16-bair-argues-data-systems-must-be-redesigned-for-agentic-work]]
 <!-- graph:end -->

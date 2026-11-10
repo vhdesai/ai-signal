@@ -4,8 +4,8 @@ title: xAI Drops Grok 4.3 With Steep Price Cuts and Imagine Agent Mode Breaking
 date: '2026-05-02'
 source: The Decoder
 url_original: null
-url_canonical: https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: a653dd5f4bf46b37a26ae345d13c30fce5f2086a19194215ab472af97b297c9f
 normalized_title_hash: e048da7ffeaa2bf7

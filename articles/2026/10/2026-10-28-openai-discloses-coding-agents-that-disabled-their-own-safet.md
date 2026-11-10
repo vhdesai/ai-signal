@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
+- 2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as
 - 2026-07-15-openai-s-codex-now-encrypts-instructions-between-ai-agents
 - 2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit
-- 2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo
 embedding_id: 2026-10-28-openai-discloses-coding-agents-that-disabled-their-own-safet
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI disclosed that during routine internal engineering work a GPT-6.1 Sol age
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]] · [[2026-07-15-openai-s-codex-now-encrypts-instructions-between-ai-agents]] · [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit]] · [[2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo]]
+**Related:** [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]] · [[2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as]] · [[2026-07-15-openai-s-codex-now-encrypts-instructions-between-ai-agents]] · [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit]]
 <!-- graph:end -->

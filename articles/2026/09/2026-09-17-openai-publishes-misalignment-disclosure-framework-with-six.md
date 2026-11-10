@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-18-openai-publishes-a-standing-misalignment-disclosure-framewor
+- 2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as
 - 2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework
 - 2026-08-26-openai-publishes-official-hugging-face-breach-postmortem
-- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 embedding_id: 2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI introduced a standing process for tracking, investigating, and publicly d
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-18-openai-publishes-a-standing-misalignment-disclosure-framewor]] · [[2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework]] · [[2026-08-26-openai-publishes-official-hugging-face-breach-postmortem]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]]
+**Related:** [[2026-09-18-openai-publishes-a-standing-misalignment-disclosure-framewor]] · [[2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as]] · [[2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework]] · [[2026-08-26-openai-publishes-official-hugging-face-breach-postmortem]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s
-- 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
+- 2026-09-25-saturday-september-26-2026
 embedding_id: 2026-09-04-what-s-new-in-oracle-ai-september-2026-edition
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Oracle Blogs published its September update on Oracle AI capabilities and learni
 
 **Entities:** [[Oracle]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-oracle-expands-oci-enterprise-ai-model-catalog-in-its-septem]] · [[2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s]] · [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi]]
+**Related:** [[2026-09-04-oracle-expands-oci-enterprise-ai-model-catalog-in-its-septem]] · [[2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s]] · [[2026-09-25-saturday-september-26-2026]]
 <!-- graph:end -->

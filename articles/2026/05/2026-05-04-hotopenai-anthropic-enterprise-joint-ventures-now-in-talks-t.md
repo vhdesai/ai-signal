@@ -5,8 +5,8 @@ title: HotOpenAI & Anthropic Enterprise Joint Ventures Now in Talks to Acquire A
 date: '2026-05-04'
 source: Reuters / TechCrunch / Bloomberg
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 4ee1b5056b6cf2c6d2081347c3c8804f73c79c41ef5c41f7f2397e7c568187f0
 normalized_title_hash: 37f065cde432dc40

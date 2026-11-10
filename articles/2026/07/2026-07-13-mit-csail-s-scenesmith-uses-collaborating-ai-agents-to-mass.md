@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-13-scenesmith-ai-agents-build-virtual-playgrounds-to-train-robo
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
-- 2026-08-18-mit-study-ai-generated-images-often-cannot-be-traced-to-any
+- 2026-11-09-november-9-2026-mit-news
 embedding_id: 2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers at MIT CSAIL and the Toyota Research Institute introduced SceneSmith
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-mit-scenesmith-uses-collaborating-ai-agents-to-mass-produce]] · [[2026-07-13-scenesmith-ai-agents-build-virtual-playgrounds-to-train-robo]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]] · [[2026-08-18-mit-study-ai-generated-images-often-cannot-be-traced-to-any]]
+**Related:** [[2026-07-13-mit-scenesmith-uses-collaborating-ai-agents-to-mass-produce]] · [[2026-07-13-scenesmith-ai-agents-build-virtual-playgrounds-to-train-robo]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]] · [[2026-11-09-november-9-2026-mit-news]]
 <!-- graph:end -->

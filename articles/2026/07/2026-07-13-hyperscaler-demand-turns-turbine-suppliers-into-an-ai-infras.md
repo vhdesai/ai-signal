@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
+- 2026-11-09-ai-power-rush-sends-data-centres-hunting-for-used-turbines-a
 - 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
 - 2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory
 - 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
-- 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
 embedding_id: 2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ highlighted surging demand for specialized turbine parts as airlines and hyp
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n]] · [[2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]] · [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]]
+**Related:** [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-11-09-ai-power-rush-sends-data-centres-hunting-for-used-turbines-a]] · [[2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n]] · [[2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]]
 <!-- graph:end -->

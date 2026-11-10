@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-25-openevidence-raises-250m-at-a-15b-valuation-up-25-from-janua
+- 2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b
 - 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
 - 2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi
 embedding_id: 2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c
@@ -39,5 +40,5 @@ OpenEvidence — the clinical search platform used daily by roughly 40% of US ph
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-09-25-openevidence-raises-250m-at-a-15b-valuation-up-25-from-janua]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi]]
+**Related:** [[2026-09-25-openevidence-raises-250m-at-a-15b-valuation-up-25-from-janua]] · [[2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi]]
 <!-- graph:end -->

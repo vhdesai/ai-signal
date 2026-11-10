@@ -8,8 +8,8 @@ date: '2026-04-27'
 source: 'Linux kernel + npm + cPanel: the AI supply-chain pressure ramps up — Dev
   Weekly'
 url_original: null
-url_canonical: https://bceconsulting.com/insights/from-vendor-selection-to-ai-architecture
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080952_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 59df47a6d88cd18a56dc34973b088b80f33b528843a99d3d746159df5fefcbc8
 normalized_title_hash: a612cad2db4776cb

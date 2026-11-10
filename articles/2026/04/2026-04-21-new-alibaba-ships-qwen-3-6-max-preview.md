@@ -4,8 +4,8 @@ title: New Alibaba Ships Qwen 3.6-Max-Preview
 date: '2026-04-21'
 source: Crypto Briefing / r/LocalLLaMA
 url_original: null
-url_canonical: https://cryptobriefing.com/alibaba-qwen-3-8-max-ai-speed/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 8d5c34ab819d2076ec3aef6b5bba09d5673c3c499fdb7d71316fd84039bb7c03

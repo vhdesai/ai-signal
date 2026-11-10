@@ -25,9 +25,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-ricursive-intelligence-a-startup-founded-by-former-googlers
 - 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
 - 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
-- 2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte
 embedding_id: 2026-09-25-ricursive-intelligence-ex-alphachip-leads-raise-335m-to-have
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Ricursive Intelligence — founded by former Google AlphaChip co-leads Anna Gold
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]] · [[2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte]]
+**Related:** [[2026-11-05-ricursive-intelligence-a-startup-founded-by-former-googlers]] · [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]]
 <!-- graph:end -->

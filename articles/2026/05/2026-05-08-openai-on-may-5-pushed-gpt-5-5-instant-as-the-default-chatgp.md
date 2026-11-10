@@ -5,8 +5,8 @@ title: OpenAI on May 5 pushed GPT-5.5 Instant as the default ChatGPT experience,
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://openai.com/index/gpt-5-5-instant/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: d52d2be28b8210a0f451d56ce8e2721a64e75116e735a8b3d7049598981017f7
 normalized_title_hash: 2627b6ca166b3bd5

@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-07-britain-s-biggest-banks-block-ai-agents-from-customer-accoun
+- 2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance
 - 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
 - 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
 - 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
-- 2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul
-- 2026-08-15-business-insider-maps-how-major-wall-street-banks-are-using
 embedding_id: 2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Reuters reported that banks including NatWest, Bank of America, ING, ASB Bank, a
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]] · [[2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul]] · [[2026-08-15-business-insider-maps-how-major-wall-street-banks-are-using]]
+**Related:** [[2026-11-07-britain-s-biggest-banks-block-ai-agents-from-customer-accoun]] · [[2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]]
 <!-- graph:end -->

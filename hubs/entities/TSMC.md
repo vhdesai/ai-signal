@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 67
+member_count: 70
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 67 connected article(s).
+> Auto-generated entity hub. 70 connected article(s).
 
+- `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu|Google adds TPU 8tx and TPU 8i Max as Nvidia opens NVLink Fusion to Korean inference chips]]
+- `2026-11-08` [[2026-11-08-power-and-memory-bottlenecks-bite-used-turbines-a-norwegian|Power and memory bottlenecks bite: used turbines, a Norwegian grid freeze and TSMC eyeing memory]]
+- `2026-11-08` [[2026-11-08-november-9-2026-nvidia-blog|November 9, 2026 · NVIDIA Blog]]
 - `2026-11-06` [[2026-11-06-tsmc-weighs-making-3d-dram-at-nvidia-s-request-as-the-memory|TSMC weighs making 3D DRAM at Nvidia's request as the memory shortage deepens]]
 - `2026-11-05` [[2026-11-05-november-6-2026-dealbook-2|[November 6, 2026] · [DealBook]]]
 - `2026-10-12` [[2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip|Microsoft unveils Maia 300, its latest custom AI chip]]

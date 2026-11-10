@@ -5,8 +5,8 @@ title: The EU AI Act is transitioning from draft to enforcement posture as of Ap
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.orrick.com/en/Insights/2026/05/AI-Law-Center-April-2026-Updates
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: e096c8fb664760eca621bdbadbee1889e898ea781efe72b860a2c118a45e3fc4

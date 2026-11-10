@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-openai-introduced-images-2-6-across-chatgpt-codex-and-the-ap
 - 2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme
 - 2026-11-04-openai-ships-images-2-6-with-gif-creation-across-chatgpt-cod
 embedding_id: 2026-10-19-openai-tests-three-aurora-image-models
@@ -36,5 +37,5 @@ OpenAI is testing three Aurora models focused on image generation, according to 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme]] · [[2026-11-04-openai-ships-images-2-6-with-gif-creation-across-chatgpt-cod]]
+**Related:** [[2026-11-05-openai-introduced-images-2-6-across-chatgpt-codex-and-the-ap]] · [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme]] · [[2026-11-04-openai-ships-images-2-6-with-gif-creation-across-chatgpt-cod]]
 <!-- graph:end -->

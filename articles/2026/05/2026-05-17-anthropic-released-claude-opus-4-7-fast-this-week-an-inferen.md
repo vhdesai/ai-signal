@@ -5,8 +5,8 @@ title: Anthropic released Claude Opus 4.7 (Fast) this week — an inference-opti
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.anthropic.com/claude/opus
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: f28eda689d741befcaa77dbc1c2c1df3cb726cbf918aa46822f26c8a4250df8d

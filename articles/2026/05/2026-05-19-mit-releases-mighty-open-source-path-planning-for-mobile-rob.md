@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world
 - 2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot
+- 2026-11-09-mit-and-nyu-use-language-feedback-to-improve-robot-motion-pl
 - 2026-10-07-mit-advances-collision-free-drone-planning-under-uncertainty
 - 2026-09-18-millemiglia-a-realistic-instance-generator-for-middle-mile-l
-- 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
 embedding_id: 2026-05-19-mit-releases-mighty-open-source-path-planning-for-mobile-rob
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers unveiled MIGHTY, an open-source path-planning system that rapidl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot]] · [[2026-10-07-mit-advances-collision-free-drone-planning-under-uncertainty]] · [[2026-09-18-millemiglia-a-realistic-instance-generator-for-middle-mile-l]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]]
+**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot]] · [[2026-11-09-mit-and-nyu-use-language-feedback-to-improve-robot-motion-pl]] · [[2026-10-07-mit-advances-collision-free-drone-planning-under-uncertainty]] · [[2026-09-18-millemiglia-a-realistic-instance-generator-for-middle-mile-l]]
 <!-- graph:end -->
