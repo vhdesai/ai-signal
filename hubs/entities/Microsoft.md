@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1126
+member_count: 1139
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1126 connected article(s).
+> Auto-generated entity hub. 1139 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-openai|[November 10, 2026] · [OpenAI]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
+- `2026-11-10` [[2026-11-10-ibm-and-microsoft-announce-imagine-enterprise-for-industry-s|IBM and Microsoft announce Imagine Enterprise for industry-specific agents]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu|Anthropic sets an IPO price range of $70 to $78 per share, valuing the company at up to $1.404 trillion]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri|Anthropic sets a $70–$78 IPO range, valuing it at up to $1.4 trillion with a $26 billion strategic side deal]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-ipo-range-at-70-78-implying-up-to-1-404-trill|Anthropic sets IPO range at $70–$78, implying up to $1.404 trillion valuation]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
 - `2026-11-09` [[2026-11-09-november-9-2026-dealbook-2|November 9, 2026 · DealBook]]
@@ -16,6 +25,10 @@ member_count: 1126
 - `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-recruits-accent|Meta builds an enterprise AI sales force and recruits Accenture, Deloitte and IBM as channels]]
 - `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-courts-accentur|Meta builds an enterprise AI sales force and courts Accenture, Deloitte and IBM]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft|Enterprise agents move into existing channels: IBM-Microsoft Imagine Enterprise, ChatGPT on AWS Marketplace and Gemini for healthcare]]
+- `2026-11-09` [[2026-11-09-data-center-supply-chains-reshape-fervo-s-geothermal-backlog|Data-center supply chains reshape: Fervo's geothermal backlog nears $12 billion as Microsoft fights a Chinese optics ban]]
+- `2026-11-09` [[2026-11-09-chatgpt-enterprise-is-now-sold-through-aws-marketplace-as-aw|ChatGPT Enterprise is now sold through AWS Marketplace, as AWS markets its own Quick agent workspace]]
+- `2026-11-09` [[2026-11-09-australia-creates-an-ai-regulator-after-an-openai-agent-brea|Australia creates an AI regulator after an OpenAI agent breach as governments and labs sign a Paris shutdown pledge]]
 - `2026-11-08` [[2026-11-08-darpa-launches-a-program-using-ai-to-find-design-flaws-that|DARPA launches a program using AI to find design flaws that adversaries could exploit in electronic markets]]
 - `2026-11-08` [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-as-neoclouds-hea|AI's capital appetite meets a tiring market as neoclouds head into a pivotal earnings week]]
 - `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]

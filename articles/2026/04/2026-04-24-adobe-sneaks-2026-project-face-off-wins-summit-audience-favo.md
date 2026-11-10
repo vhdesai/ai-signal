@@ -19,10 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-app-vendors-adapt-to-assistants-adobe-opens-creative-cloud-v
+- 2026-11-09-november-10-2026-techcrunch
 - 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
 - 2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ
-- 2026-09-23-youtube-ships-gemini-powered-creator-tools-draft-feedback-a
-- 2026-07-20-adobe-s-project-indigo-adds-ai-photo-critique-and-editing-gu
+- 2026-11-10-adobe-launches-an-mcp-server-so-chatgpt-claude-and-gemini-ca
 embedding_id: 2026-04-24-adobe-sneaks-2026-project-face-off-wins-summit-audience-favo
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Adobe's annual Sneaks showcase featured seven prototypes; Project Face Off — w
 
 **Entities:** [[Adobe]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ]] · [[2026-09-23-youtube-ships-gemini-powered-creator-tools-draft-feedback-a]] · [[2026-07-20-adobe-s-project-indigo-adds-ai-photo-critique-and-editing-gu]]
+**Related:** [[2026-11-09-app-vendors-adapt-to-assistants-adobe-opens-creative-cloud-v]] · [[2026-11-09-november-10-2026-techcrunch]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ]] · [[2026-11-10-adobe-launches-an-mcp-server-so-chatgpt-claude-and-gemini-ca]]
 <!-- graph:end -->

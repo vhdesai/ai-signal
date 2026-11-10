@@ -4,8 +4,8 @@ title: AI-accelerated math puts encryption on the clock as AI misuse drives new 
 date: '2026-11-09'
 source: '[WSJ Pro CyberSecurity]'
 url_original: null
-url_canonical: https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_070620_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 9b17efab832cb3e48a03df2db2eb38c85ab2801e6cf01d4925ce1b5d0a7e5c46

@@ -4,8 +4,8 @@ title: AI-assisted learning platform helps robots reason beyond literal commands
 date: '2026-11-09'
 source: MIT News
 url_original: null
-url_canonical: https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_061807_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 6a35088f92c47d01d9496918072ecb7ca110ba6647877c4ce1de272b2572c29d

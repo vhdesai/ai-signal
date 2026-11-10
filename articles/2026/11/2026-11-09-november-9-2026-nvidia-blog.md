@@ -4,8 +4,8 @@ title: November 9, 2026 · NVIDIA Blog
 date: '2026-11-09'
 source: PitchBook
 url_original: null
-url_canonical: https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_084913_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: dd5aa6267eb790ac6b7a61b4bb09049781da50fa26c00a8fc3fe4671b9052368
@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up
 - 2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re
 - 2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus
+- 2026-11-09-nvidia-reports-few-demonstration-robotics-results-with-gr00t
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
 embedding_id: 2026-11-09-november-9-2026-nvidia-blog
 event_name: ''
@@ -38,5 +39,5 @@ At the Conference on Robot Learning, NVIDIA introduced GR00T 2, an open world-ac
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]]
-**Related:** [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up]] · [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re]] · [[2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]]
+**Related:** [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up]] · [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re]] · [[2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus]] · [[2026-11-09-nvidia-reports-few-demonstration-robotics-results-with-gr00t]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]]
 <!-- graph:end -->

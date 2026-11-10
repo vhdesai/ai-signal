@@ -4,8 +4,8 @@ title: ChatGPT's growth rebounds as it holds more than 81% of chatbot traffic
 date: '2026-11-09'
 source: Business Insider
 url_original: null
-url_canonical: https://www.businessinsider.com/chatgpt-growth-rebounds-openai-rivals-ai-market-share-2026-11
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_065827_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 9f3c58b451b415b0c348cc9353db054d2a52c9ef224067a8cc500cdd39ffc482

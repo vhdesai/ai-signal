@@ -1,19 +1,29 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 782
+member_count: 792
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 782 connected article(s).
+> Auto-generated entity hub. 792 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-openai|[November 10, 2026] · [OpenAI]]]
+- `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
 - `2026-11-09` [[2026-11-09-november-9-2026-yahoo-finance|November 9, 2026 · Yahoo Finance]]
+- `2026-11-09` [[2026-11-09-meta-releases-muse-ember-a-low-cost-hosted-model-for-repetit|Meta releases Muse Ember, a low-cost hosted model for repetitive agent tasks]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft|Enterprise agents move into existing channels: IBM-Microsoft Imagine Enterprise, ChatGPT on AWS Marketplace and Gemini for healthcare]]
 - `2026-11-09` [[2026-11-09-consumer-agents-scale-deepseek-harness-passes-1-5-million-da|Consumer agents scale: DeepSeek Harness passes 1.5 million daily users as Apple readies an agentic Siri]]
+- `2026-11-09` [[2026-11-09-chatgpt-enterprise-is-now-sold-through-aws-marketplace-as-aw|ChatGPT Enterprise is now sold through AWS Marketplace, as AWS markets its own Quick agent workspace]]
+- `2026-11-09` [[2026-11-09-chatgpt-enterprise-is-now-available-through-aws-marketplace|ChatGPT Enterprise is now available through AWS Marketplace]]
+- `2026-11-09` [[2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price|Anthropic ships Claude Fable 5.2 and Mythos 5.2 with a price cut and a warning about evaluation awareness]]
+- `2026-11-09` [[2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cuts-fabl|Anthropic releases Claude Mythos 5.2 and Fable 5.2, cuts Fable's price, and reports that the models more often suspect they are being tested]]
+- `2026-11-09` [[2026-11-09-anthropic-positions-fable-5-2-and-mythos-5-2-for-specialist|Anthropic positions Fable 5.2 and Mythos 5.2 for specialist workloads]]
 - `2026-11-09` [[2026-11-09-amazon-s-hope-prunes-half-of-a-mixture-of-experts-model-with|Amazon's HOPE prunes half of a mixture-of-experts model without retraining]]
 - `2026-11-08` [[2026-11-08-november-8-2026-marktechpost|[November 8, 2026] · [MarkTechPost]]]
 - `2026-11-08` [[2026-11-08-november-8-2026-business-insider|[November 8, 2026] · [Business Insider]]]

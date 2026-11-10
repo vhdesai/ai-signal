@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
 - 2026-05-04-ibm-oracle-expanded-partnership-for-ai-and-cloud-modernizati
+- 2026-11-10-ibm-and-microsoft-announce-imagine-enterprise-for-industry-s
 - 2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a
 - 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
-- 2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single
 embedding_id: 2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management
 event_name: ''
 ---
@@ -37,5 +37,5 @@ IBM launched a “manage all your AI agents in one place” capability inside wa
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-05-04-ibm-oracle-expanded-partnership-for-ai-and-cloud-modernizati]] · [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single]]
+**Related:** [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-05-04-ibm-oracle-expanded-partnership-for-ai-and-cloud-modernizati]] · [[2026-11-10-ibm-and-microsoft-announce-imagine-enterprise-for-industry-s]] · [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-10-november-9-2026-education-week
 - 2026-09-28-mit-uses-small-data-machine-learning-to-make-rna-vaccines-su
 - 2026-08-20-mit-uses-machine-learning-to-screen-catalysts-for-greener-am
 - 2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san
 - 2026-09-28-mit-uses-a-small-data-ml-algorithm-to-make-rna-vaccines-stab
-- 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
 embedding_id: 2026-09-24-uc-riverside-uses-machine-learning-to-find-odorants-that-rep
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A team led by Prof. Anandasankar Ray trained a model on odorant chemical structu
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-28-mit-uses-small-data-machine-learning-to-make-rna-vaccines-su]] · [[2026-08-20-mit-uses-machine-learning-to-screen-catalysts-for-greener-am]] · [[2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san]] · [[2026-09-28-mit-uses-a-small-data-ml-algorithm-to-make-rna-vaccines-stab]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c]]
+**Related:** [[2026-11-10-november-9-2026-education-week]] · [[2026-09-28-mit-uses-small-data-machine-learning-to-make-rna-vaccines-su]] · [[2026-08-20-mit-uses-machine-learning-to-screen-catalysts-for-greener-am]] · [[2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san]] · [[2026-09-28-mit-uses-a-small-data-ml-algorithm-to-make-rna-vaccines-stab]]
 <!-- graph:end -->

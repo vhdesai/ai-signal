@@ -1,13 +1,19 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1753
+member_count: 1767
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1753 connected article(s).
+> Auto-generated topic hub. 1767 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-dealbook-2|[November 10, 2026] · [DealBook]]]
+- `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-google-deepmind-s-alphaproof-code-mathematically-proves-the|Google DeepMind's AlphaProof Code mathematically proves the security of Signal's encryption code]]
+- `2026-11-10` [[2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da|Fireworks breach exposed some customers' model weights and datasets, and Hugging Face warns open AI platforms may tighten access]]
 - `2026-11-09` [[2026-11-09-november-9-2026-reuters-2|[November 9, 2026] · [Reuters]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-dealbook|[November 9, 2026] · [DealBook]]]
@@ -15,10 +21,18 @@ member_count: 1753
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-as-federal-safety-te|Trump signals openness to AI guardrails as federal safety testing moves under the White House]]
 - `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
 - `2026-11-09` [[2026-11-09-trump-says-he-doesn-t-mind-guardrails-as-anthropic-backed-sa|Trump says he doesn't mind guardrails as Anthropic-backed safety groups map a post-midterm agenda]]
+- `2026-11-09` [[2026-11-09-trump-says-fbi-is-looking-into-huang-matter-as-nvidia-shares|Trump says FBI is looking into Huang matter as Nvidia shares slide and lawsuits loom]]
 - `2026-11-09` [[2026-11-09-trump-says-ai-risks-can-be-managed-signals-openness-to-guard|Trump says AI risks can be managed, signals openness to guardrails]]
+- `2026-11-09` [[2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls|Spy scandal revives push for tighter Nvidia export controls]]
+- `2026-11-09` [[2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f|Nvidia's crisis turns legal and political: FBI interest, the first shareholder suit and a governance reckoning]]
 - `2026-11-09` [[2026-11-09-november-9-2026-yahoo-finance|November 9, 2026 · Yahoo Finance]]
+- `2026-11-09` [[2026-11-09-meta-s-muse-ember-pushes-agent-execution-pricing-to-0-10-per|Meta's Muse Ember pushes agent-execution pricing to $0.10 per million input tokens]]
+- `2026-11-09` [[2026-11-09-meta-launches-muse-ember-a-0-10-per-million-token-multimodal|Meta launches Muse Ember, a $0.10-per-million-token multimodal model for high-volume agent work]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-data-center-supply-chains-reshape-fervo-s-geothermal-backlog|Data-center supply chains reshape: Fervo's geothermal backlog nears $12 billion as Microsoft fights a Chinese optics ban]]
 - `2026-11-09` [[2026-11-09-consumer-agents-scale-deepseek-harness-passes-1-5-million-da|Consumer agents scale: DeepSeek Harness passes 1.5 million daily users as Apple readies an agentic Siri]]
+- `2026-11-09` [[2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an|Baidu's ERNIE Evolve agents beat public benchmark records and speed up its production models]]
+- `2026-11-09` [[2026-11-09-ai-infrastructure-becomes-a-target-fireworks-breach-exposes|AI infrastructure becomes a target: Fireworks breach exposes model weights as export-control and insider risks rise]]
 - `2026-11-08` [[2026-11-08-november-7-2026-the-decoder|[November 7, 2026] · [The Decoder]]]
 - `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]
 - `2026-11-08` [[2026-11-08-nvidia-s-board-opens-an-independent-probe-and-key-person-ris|Nvidia's board opens an independent probe, and key-person risk moves to the center of the AI trade]]

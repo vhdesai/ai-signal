@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full-as-frontier
 - 2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai
 - 2026-10-12-meta-releases-muse-wonder-its-first-frontier-model
-- 2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model
+- 2026-11-09-meta-releases-muse-ember-a-low-cost-hosted-model-for-repetit
 embedding_id: 2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta released Muse Wonder through its API and Muse Code; Wonder Full is subscrib
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full-as-frontier]] · [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai]] · [[2026-10-12-meta-releases-muse-wonder-its-first-frontier-model]] · [[2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model]]
+**Related:** [[2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full-as-frontier]] · [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai]] · [[2026-10-12-meta-releases-muse-wonder-its-first-frontier-model]] · [[2026-11-09-meta-releases-muse-ember-a-low-cost-hosted-model-for-repetit]]
 <!-- graph:end -->

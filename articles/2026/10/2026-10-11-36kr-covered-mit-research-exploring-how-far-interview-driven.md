@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-10-november-9-2026-education-week
 - 2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia
 - 2026-10-13-delaware-hub-dedicated-to-human-ai-cooperation-launched-with
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
-- 2026-06-02-deepmind-anthropic-and-meta-expand-research-into-machine-con
 embedding_id: 2026-10-11-36kr-covered-mit-research-exploring-how-far-interview-driven
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Publication window: items published Oct 10 – Oct 11, 2026 (last 24 hours). Com
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-10-13-delaware-hub-dedicated-to-human-ai-cooperation-launched-with]] · [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-06-02-deepmind-anthropic-and-meta-expand-research-into-machine-con]]
+**Related:** [[2026-11-10-november-9-2026-education-week]] · [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-10-13-delaware-hub-dedicated-to-human-ai-cooperation-launched-with]] · [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]]
 <!-- graph:end -->

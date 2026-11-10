@@ -5,8 +5,8 @@ title: AI-accelerated math puts today's encryption on the clock as AI misuse dri
 date: '2026-11-09'
 source: WSJ Pro CyberSecurity; November 7, 2026 · Wall Street Journal*
 url_original: https://www.wsj.com/pro/cybersecurity/ai-could-crack-encryption-sooner-than-quantum-computers-will-6b237ba0
-url_canonical: https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/
-url_status: repaired
+url_canonical: https://www.wsj.com/pro/cybersecurity/ai-could-crack-encryption-sooner-than-quantum-computers-will-6b237ba0
+url_status: broken
 digest_source: digests\raw\2026-11-09_084847_Final-Daily-AI-News-Digest.md
 content_hash: 0a031fa1f7c2f3706302b141b01e911720c90c237526e075b1653b12c7e9a544
 normalized_title_hash: aed6aca28b8f84a5

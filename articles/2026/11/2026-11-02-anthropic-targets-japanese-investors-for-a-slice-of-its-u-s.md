@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-10-anthropic-reportedly-targets-a-1-3-trillion-ipo-valuation
 - 2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma
 - 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
-- 2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi
 embedding_id: 2026-11-02-anthropic-targets-japanese-investors-for-a-slice-of-its-u-s
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic plans a Japanese share offering of up to $3.5 billion alongside its U.
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma]] · [[2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast]] · [[2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi]]
+**Related:** [[2026-11-10-anthropic-reportedly-targets-a-1-3-trillion-ipo-valuation]] · [[2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma]] · [[2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast]]
 <!-- graph:end -->

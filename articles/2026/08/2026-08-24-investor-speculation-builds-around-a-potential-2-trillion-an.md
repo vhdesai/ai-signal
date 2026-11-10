@@ -21,8 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-10-anthropic-reportedly-targets-a-1-3-trillion-ipo-valuation
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
-- 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
 embedding_id: 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Weekend coverage examined investor arguments that Anthropic could command a valu
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]]
+**Related:** [[2026-11-10-anthropic-reportedly-targets-a-1-3-trillion-ipo-valuation]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]]
 <!-- graph:end -->

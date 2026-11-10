@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-10-the-financing-squeeze-shows-up-in-results-softbank-s-7-billi
 - 2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans
 - 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
+- 2026-11-10-november-10-2026-wall-street-journal-3
 - 2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure
-- 2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge
-- 2026-10-19-october-20-2026-the-information
 embedding_id: 2026-09-19-coreweave-prices-3-7b-convertible-bond-coupon-jumps-to-2-875
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CoreWeave priced $3.7B in convertible bonds on Friday, above the $3B initially m
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure]] · [[2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge]] · [[2026-10-19-october-20-2026-the-information]]
+**Related:** [[2026-11-10-the-financing-squeeze-shows-up-in-results-softbank-s-7-billi]] · [[2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-11-10-november-10-2026-wall-street-journal-3]] · [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure]]
 <!-- graph:end -->

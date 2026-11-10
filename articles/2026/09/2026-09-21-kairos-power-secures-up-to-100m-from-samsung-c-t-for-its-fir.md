@@ -24,6 +24,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-fervo-s-contracted-revenue-rises-to-11-9-billion-as-hypersca
 - 2026-09-09-google-commits-13b-15-1b-to-finnish-ai-infrastructure-its-la
 - 2026-09-08-us-closes-1-9b-loan-to-restart-the-iowa-reactor-already-cont
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
@@ -40,5 +41,5 @@ Kairos Power, a future Google power supplier, signed a deal with Samsung C&T wor
 
 **Entities:** [[Google]] · [[Samsung]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-09-google-commits-13b-15-1b-to-finnish-ai-infrastructure-its-la]] · [[2026-09-08-us-closes-1-9b-loan-to-restart-the-iowa-reactor-already-cont]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]]
+**Related:** [[2026-11-09-fervo-s-contracted-revenue-rises-to-11-9-billion-as-hypersca]] · [[2026-09-09-google-commits-13b-15-1b-to-finnish-ai-infrastructure-its-la]] · [[2026-09-08-us-closes-1-9b-loan-to-restart-the-iowa-reactor-already-cont]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]]
 <!-- graph:end -->

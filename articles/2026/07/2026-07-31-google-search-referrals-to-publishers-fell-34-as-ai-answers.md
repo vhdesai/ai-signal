@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-29-the-information-google-tests-paying-100-digital-publishers-f
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr
-- 2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic
+- 2026-11-10-advertisers-say-ai-chatbots-are-starting-to-dent-google-s-22
 embedding_id: 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Axios's Jim VandeHei, citing Chartbeat data, reports Google Search traffic to pu
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r]] · [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr]] · [[2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic]]
+**Related:** [[2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r]] · [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr]] · [[2026-11-10-advertisers-say-ai-chatbots-are-starting-to-dent-google-s-22]]
 <!-- graph:end -->

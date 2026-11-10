@@ -21,11 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-10-november-9-2026-prime-minister-of-canada
 - 2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
 - 2026-09-24-google-openai-and-anthropic-advance-standards-authority-for
 - 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
-- 2026-05-18-bannon-60-trump-allies-sign-letter-demanding-mandatory-feder
 embedding_id: 2026-09-22-twenty-two-governments-call-for-mandatory-pre-deployment-tes
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A declaration organized by Finnish President Alexander Stubb and Norwegian Prime
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for]] · [[2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an]] · [[2026-05-18-bannon-60-trump-allies-sign-letter-demanding-mandatory-feder]]
+**Related:** [[2026-11-10-november-9-2026-prime-minister-of-canada]] · [[2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for]] · [[2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an]]
 <!-- graph:end -->

@@ -27,8 +27,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma
 - 2026-11-09-google-expands-its-tpu-portfolio-for-regulated-and-large-sca
+- 2026-11-09-google-adds-tpu-8i-max-and-confidential-tpu-8tx-to-its-eight
 - 2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu
-- 2026-11-08-november-9-2026-nvidia-blog
 embedding_id: event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family
 event_name: Google Cloud Next 2026
 ---
@@ -42,5 +42,5 @@ Google Cloud announced an eighth-generation TPU family split between training an
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma]] · [[2026-11-09-google-expands-its-tpu-portfolio-for-regulated-and-large-sca]] · [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu]] · [[2026-11-08-november-9-2026-nvidia-blog]]
+**Related:** [[2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma]] · [[2026-11-09-google-expands-its-tpu-portfolio-for-regulated-and-large-sca]] · [[2026-11-09-google-adds-tpu-8i-max-and-confidential-tpu-8tx-to-its-eight]] · [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu]]
 <!-- graph:end -->

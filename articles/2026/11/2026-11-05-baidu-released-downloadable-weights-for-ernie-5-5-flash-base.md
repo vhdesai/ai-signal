@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as
 - 2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to
 - 2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra
+- 2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an
 - 2026-11-09-baidu-introduces-ernie-evolve-for-automated-research
-- 2026-08-26-z-ai-ships-glm-5-3-flash-320b-multimodal-moe-weights-in-two
 embedding_id: 2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Baidu released downloadable weights for ERNIE-5.5-Flash-Base, a text-only mixtur
 
 **Entities:** [[Baidu]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as]] · [[2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to]] · [[2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra]] · [[2026-11-09-baidu-introduces-ernie-evolve-for-automated-research]] · [[2026-08-26-z-ai-ships-glm-5-3-flash-320b-multimodal-moe-weights-in-two]]
+**Related:** [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as]] · [[2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to]] · [[2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra]] · [[2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an]] · [[2026-11-09-baidu-introduces-ernie-evolve-for-automated-research]]
 <!-- graph:end -->

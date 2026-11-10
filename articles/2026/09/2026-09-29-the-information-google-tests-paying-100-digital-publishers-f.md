@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
+- 2026-11-10-advertisers-say-ai-chatbots-are-starting-to-dent-google-s-22
 - 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
-- 2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri
-- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
+- 2026-11-10-google-faces-ai-s-impact-on-its-search-advertising-business
 embedding_id: 2026-09-29-the-information-google-tests-paying-100-digital-publishers-f
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google has been paying roughly 100 digital publishers for how much their content
 
 **Entities:** [[Google]] · [[Meta]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]] · [[2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]]
+**Related:** [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-11-10-advertisers-say-ai-chatbots-are-starting-to-dent-google-s-22]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]] · [[2026-11-10-google-faces-ai-s-impact-on-its-search-advertising-business]]
 <!-- graph:end -->

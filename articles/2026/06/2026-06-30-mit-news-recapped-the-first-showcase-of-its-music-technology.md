@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
-- 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
+- 2026-11-10-november-9-2026-education-week
 embedding_id: 2026-06-30-mit-news-recapped-the-first-showcase-of-its-music-technology
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT News recapped the first showcase of its Music Technology and Computation Gra
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]]
+**Related:** [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-11-10-november-9-2026-education-week]]
 <!-- graph:end -->

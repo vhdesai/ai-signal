@@ -5,8 +5,8 @@ title: Agent operations get their own plumbing, and a cautionary tale about agen
 date: '2026-11-09'
 source: TechCrunch, MarkTechPost, Business Insider
 url_original: null
-url_canonical: https://www.businessinsider.com/openai-dots-agent-moving-offices-spam-emails-2026-11
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_065827_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: e7e988a7a139ff4ec92f1ee2754977fcca749962d208503da12e74bf50defc0c

@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-06-meta-deploys-specialized-muse-models-with-active-memory-and
 - 2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai
-- 2026-09-01-meta-introduces-muse-a-voice-to-transcript-research-model
+- 2026-11-09-meta-releases-muse-ember-a-low-cost-hosted-model-for-repetit
 embedding_id: 2026-11-06-meta-deploys-specialized-muse-and-meta-ai-models-with-active
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta is rolling out specialized versions of the models behind Muse and Meta AI, 
 
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-06-meta-deploys-specialized-muse-models-with-active-memory-and]] · [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai]] · [[2026-09-01-meta-introduces-muse-a-voice-to-transcript-research-model]]
+**Related:** [[2026-11-06-meta-deploys-specialized-muse-models-with-active-memory-and]] · [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai]] · [[2026-11-09-meta-releases-muse-ember-a-low-cost-hosted-model-for-repetit]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-australia-plans-stronger-ai-oversight-and-mandatory-incident
+- 2026-11-10-australia-plans-an-ai-safety-regulator-and-mandatory-protect
 - 2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use
-- 2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts
-- 2026-09-24-australia-stands-up-a-task-force-and-weighs-new-law-after-an
-- 2026-05-31-china-restricts-travel-for-top-ai-researchers
-- 2026-09-23-september-24-2026
+- 2026-11-09-australia-creates-an-ai-regulator-after-an-openai-agent-brea
+- 2026-11-10-november-9-2026-prime-minister-of-canada
 embedding_id: 2026-07-19-australia-to-curb-government-use-of-automated-ai-decision-ma
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Australia will require agencies such as Centrelink and Services Australia to fol
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use]] · [[2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts]] · [[2026-09-24-australia-stands-up-a-task-force-and-weighs-new-law-after-an]] · [[2026-05-31-china-restricts-travel-for-top-ai-researchers]] · [[2026-09-23-september-24-2026]]
+**Related:** [[2026-11-09-australia-plans-stronger-ai-oversight-and-mandatory-incident]] · [[2026-11-10-australia-plans-an-ai-safety-regulator-and-mandatory-protect]] · [[2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use]] · [[2026-11-09-australia-creates-an-ai-regulator-after-an-openai-agent-brea]] · [[2026-11-10-november-9-2026-prime-minister-of-canada]]
 <!-- graph:end -->

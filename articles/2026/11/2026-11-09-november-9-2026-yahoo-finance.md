@@ -4,8 +4,8 @@ title: November 9, 2026 · Yahoo Finance
 date: '2026-11-09'
 source: The Information
 url_original: null
-url_canonical: https://finance.yahoo.com/invest2026/?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_084913_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 3076f7ee314818465590cb0166a90acd08258d37928871d1e1c7e670bdaf6dfc

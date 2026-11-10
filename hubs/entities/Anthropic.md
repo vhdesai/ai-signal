@@ -1,13 +1,24 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2593
+member_count: 2617
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2593 connected article(s).
+> Auto-generated entity hub. 2617 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
+- `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
+- `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion|Anthropic’s proposed IPO could raise about $64.4 billion]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu|Anthropic sets an IPO price range of $70 to $78 per share, valuing the company at up to $1.404 trillion]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri|Anthropic sets a $70–$78 IPO range, valuing it at up to $1.4 trillion with a $26 billion strategic side deal]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-ipo-range-at-70-78-implying-up-to-1-404-trill|Anthropic sets IPO range at $70–$78, implying up to $1.404 trillion valuation]]
+- `2026-11-10` [[2026-11-10-anthropic-reportedly-targets-a-1-3-trillion-ipo-valuation|Anthropic reportedly targets a $1.3 trillion IPO valuation]]
 - `2026-11-09` [[2026-11-09-november-9-2026-reuters-2|[November 9, 2026] · [Reuters]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-dealbook|[November 9, 2026] · [DealBook]]]
@@ -15,17 +26,30 @@ member_count: 2593
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-as-federal-safety-te|Trump signals openness to AI guardrails as federal safety testing moves under the White House]]
 - `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
 - `2026-11-09` [[2026-11-09-trump-says-he-doesn-t-mind-guardrails-as-anthropic-backed-sa|Trump says he doesn't mind guardrails as Anthropic-backed safety groups map a post-midterm agenda]]
+- `2026-11-09` [[2026-11-09-trump-says-fbi-is-looking-into-huang-matter-as-nvidia-shares|Trump says FBI is looking into Huang matter as Nvidia shares slide and lawsuits loom]]
 - `2026-11-09` [[2026-11-09-rogue-agents-turn-ai-autonomy-into-a-liability-and-insurance|Rogue agents turn AI autonomy into a liability and insurance problem]]
+- `2026-11-09` [[2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter|OpenAI describes inference-layer controls for stopping internal research]]
 - `2026-11-09` [[2026-11-09-november-9-2026-pitchbook|November 9, 2026 · PitchBook]]
+- `2026-11-09` [[2026-11-09-meta-s-muse-ember-pushes-agent-execution-pricing-to-0-10-per|Meta's Muse Ember pushes agent-execution pricing to $0.10 per million input tokens]]
 - `2026-11-09` [[2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting|Meta is building an enterprise AI sales team and recruiting consulting partners]]
+- `2026-11-09` [[2026-11-09-meta-introduces-muse-ember-for-lower-cost-agent-execution|Meta introduces Muse Ember for lower-cost agent execution]]
 - `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture|Meta builds an enterprise AI sales team and courts Accenture, Deloitte and IBM]]
 - `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-recruits-accent|Meta builds an enterprise AI sales force and recruits Accenture, Deloitte and IBM as channels]]
 - `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-courts-accentur|Meta builds an enterprise AI sales force and courts Accenture, Deloitte and IBM]]
 - `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu|Google adds TPU 8tx and TPU 8i Max as Nvidia opens NVLink Fusion to Korean inference chips]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-daily-ai-news-digest-november-10-2026|Daily AI News Digest – November 10, 2026]]
 - `2026-11-09` [[2026-11-09-chatgpt-s-growth-rebounds-as-it-holds-more-than-81-of-chatbo|ChatGPT's growth rebounds as it holds more than 81% of chatbot traffic]]
 - `2026-11-09` [[2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth|ChatGPT holds more than 81% of chatbot traffic as its growth picks up again]]
+- `2026-11-09` [[2026-11-09-chatgpt-enterprise-is-now-available-through-aws-marketplace|ChatGPT Enterprise is now available through AWS Marketplace]]
+- `2026-11-09` [[2026-11-09-australia-creates-an-ai-regulator-after-an-openai-agent-brea|Australia creates an AI regulator after an OpenAI agent breach as governments and labs sign a Paris shutdown pledge]]
+- `2026-11-09` [[2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price|Anthropic ships Claude Fable 5.2 and Mythos 5.2 with a price cut and a warning about evaluation awareness]]
+- `2026-11-09` [[2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cutting-f|Anthropic releases Claude Mythos 5.2 and Fable 5.2, cutting Fable input price to $8 per million tokens]]
+- `2026-11-09` [[2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cuts-fabl|Anthropic releases Claude Mythos 5.2 and Fable 5.2, cuts Fable's price, and reports that the models more often suspect they are being tested]]
 - `2026-11-09` [[2026-11-09-anthropic-presses-ahead-with-its-ipo-roadshow-as-openai-clos|Anthropic presses ahead with its IPO roadshow as OpenAI closes $11 billion at a reduced target]]
+- `2026-11-09` [[2026-11-09-anthropic-positions-fable-5-2-and-mythos-5-2-for-specialist|Anthropic positions Fable 5.2 and Mythos 5.2 for specialist workloads]]
+- `2026-11-09` [[2026-11-09-anthropic-launches-fable-5-2-and-restricts-mythos-5-2-to-vet|Anthropic launches Fable 5.2 and restricts Mythos 5.2 to vetted organizations]]
+- `2026-11-09` [[2026-11-09-anthropic-buys-3-4-billion-of-gas-turbines-as-power-becomes|Anthropic buys $3.4 billion of gas turbines as power becomes the AI bottleneck]]
 - `2026-11-08` [[2026-11-08-november-9-2026-the-information|[November 9, 2026] · [The Information]]]
 - `2026-11-08` [[2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance|[November 7, 2026] · [The Telegraph (via Yahoo Finance)]]]
 - `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]

@@ -5,8 +5,8 @@ title: single AI model simulates the behavior of many substances, from sliding s
 date: '2026-11-09'
 source: MIT News
 url_original: null
-url_canonical: https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_061807_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: d74de70a5ef54baf2da33d5056d9ff62f4df7fae8025ccc38359e787ec0369fe

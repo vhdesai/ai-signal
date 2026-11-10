@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
+- 2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
-- 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
 embedding_id: 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
 event_name: ''
 ---
@@ -40,5 +40,5 @@ IBM Consulting announced what it calls the industry's first enterprise-scale age
 
 **Entities:** [[Amazon]] · [[Google]] · [[IBM]] · [[Intel]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]]
+**Related:** [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]]
 <!-- graph:end -->

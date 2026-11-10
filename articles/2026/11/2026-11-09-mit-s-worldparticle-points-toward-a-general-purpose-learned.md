@@ -4,8 +4,8 @@ title: MIT's WorldParticle points toward a general-purpose learned simulator
 date: '2026-11-09'
 source: MIT News
 url_original: null
-url_canonical: https://aiunderstanding.org/news/mit-researchers-develop-worldparticle-for-unified-material-simulation
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_065827_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: a9ddcd13fa4ff51a10198d0a0a2267ac18b32e372db73e425c010c552722b52e

@@ -4,8 +4,8 @@ title: '[November 9, 2026] · [Meta Newsroom]'
 date: '2026-11-09'
 source: '[Bloomberg]'
 url_original: null
-url_canonical: https://www.bloomberg.com/latest/meta
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_070620_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 4b627bd148c6f9d4364f56cc9e6364a56bb6f83386ee636d8e9fb1bf7ff4d171

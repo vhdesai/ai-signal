@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-12-fruit-fly-connectome-bolted-onto-a-1-2b-llm-and-the-authors
 - 2026-09-12-fly-language-model-wires-the-full-fruit-fly-connectome-into
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
-- 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
+- 2026-11-10-november-9-2026-education-week
 embedding_id: 2026-09-03-connectomics-milestone-mapping-the-complete-male-fruit-fly-b
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Research announced a connectomics milestone: mapping the complete male fr
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-03-google-research-maps-the-complete-male-fruit-fly-brain]] · [[2026-09-12-fruit-fly-connectome-bolted-onto-a-1-2b-llm-and-the-authors]] · [[2026-09-12-fly-language-model-wires-the-full-fruit-fly-connectome-into]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
+**Related:** [[2026-09-03-google-research-maps-the-complete-male-fruit-fly-brain]] · [[2026-09-12-fruit-fly-connectome-bolted-onto-a-1-2b-llm-and-the-authors]] · [[2026-09-12-fly-language-model-wires-the-full-fruit-fly-connectome-into]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-11-10-november-9-2026-education-week]]
 <!-- graph:end -->

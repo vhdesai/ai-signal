@@ -19,7 +19,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma
+canonical_article_id: 2026-11-09-google-adds-tpu-8i-max-and-confidential-tpu-8tx-to-its-eight
 related_article_ids: []
 embedding_id: 2026-11-09-google-expands-its-tpu-portfolio-for-regulated-and-large-sca
 event_name: ''
@@ -34,5 +34,5 @@ Reuters reports two new Google chip variants: TPU 8tx and TPU 8i Max. The 8tx pa
 
 **Entities:** [[AMD]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma]]
+**Canonical:** [[2026-11-09-google-adds-tpu-8i-max-and-confidential-tpu-8tx-to-its-eight]]
 <!-- graph:end -->

@@ -34,7 +34,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-02-november-3-2026-the-next-web
 - 2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity
-- 2026-07-14-major-publishers-sue-google-over-gemini-ai-training
+- 2026-11-10-november-10-2026-techcrunch-2
 embedding_id: 2026-11-03-copyright-pressure-moves-down-the-ai-supply-chain-eu-adviser
 event_name: ''
 ---
@@ -48,5 +48,5 @@ In the first EU Court of Justice case on generative AI and copyright, an Advocat
 
 **Entities:** [[Anthropic]] · [[Baidu]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Salesforce]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-02-november-3-2026-the-next-web]] · [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity]] · [[2026-07-14-major-publishers-sue-google-over-gemini-ai-training]]
+**Related:** [[2026-11-02-november-3-2026-the-next-web]] · [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity]] · [[2026-11-10-november-10-2026-techcrunch-2]]
 <!-- graph:end -->

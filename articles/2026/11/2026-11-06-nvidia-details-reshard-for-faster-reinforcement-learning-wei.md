@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-28-nvidia-releases-nemotron-transcription-weights-with-multilin
+- 2026-11-09-nvidia-reports-few-demonstration-robotics-results-with-gr00t
 - 2026-11-07-inference-plumbing-matures-buoyant-open-sources-kinference-a
 - 2026-10-19-nvidia-advances-agentic-security-for-media-from-european-pub
 - 2026-09-04-september-4-2026-nvidia-developer-blog
-- 2026-11-06-november-7-2026-marktechpost
 embedding_id: 2026-11-06-nvidia-details-reshard-for-faster-reinforcement-learning-wei
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA reports 2.7–5.7× faster weight refits using Reshard in NeMo RL benchma
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-28-nvidia-releases-nemotron-transcription-weights-with-multilin]] · [[2026-11-07-inference-plumbing-matures-buoyant-open-sources-kinference-a]] · [[2026-10-19-nvidia-advances-agentic-security-for-media-from-european-pub]] · [[2026-09-04-september-4-2026-nvidia-developer-blog]] · [[2026-11-06-november-7-2026-marktechpost]]
+**Related:** [[2026-10-28-nvidia-releases-nemotron-transcription-weights-with-multilin]] · [[2026-11-09-nvidia-reports-few-demonstration-robotics-results-with-gr00t]] · [[2026-11-07-inference-plumbing-matures-buoyant-open-sources-kinference-a]] · [[2026-10-19-nvidia-advances-agentic-security-for-media-from-european-pub]] · [[2026-09-04-september-4-2026-nvidia-developer-blog]]
 <!-- graph:end -->

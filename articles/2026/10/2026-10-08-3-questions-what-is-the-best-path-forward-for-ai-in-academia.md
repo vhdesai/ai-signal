@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia
+- 2026-11-10-november-9-2026-education-week
 - 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
-- 2026-09-17-mit-ad-hoc-committee-on-ai-in-teaching-learning-and-research
 embedding_id: 2026-10-08-3-questions-what-is-the-best-path-forward-for-ai-in-academia
 event_name: ''
 ---
@@ -35,5 +35,5 @@ MIT's Sasha Rakhlin urges universities to rethink research credit and graduate t
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-09-17-mit-ad-hoc-committee-on-ai-in-teaching-learning-and-research]]
+**Related:** [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-11-10-november-9-2026-education-week]] · [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]]
 <!-- graph:end -->

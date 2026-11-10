@@ -27,7 +27,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-23-daily-ai-news-digest-july-24-2026
-- 2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce
+- 2026-11-09-chatgpt-enterprise-is-now-available-through-aws-marketplace
+- 2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft
 embedding_id: 2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Today's cycle is dominated by the enterprise build-out rather than new frontier 
 
 **Entities:** [[Amazon]] · [[Databricks]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-23-daily-ai-news-digest-july-24-2026]] · [[2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce]]
+**Related:** [[2026-07-23-daily-ai-news-digest-july-24-2026]] · [[2026-11-09-chatgpt-enterprise-is-now-available-through-aws-marketplace]] · [[2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft]]
 <!-- graph:end -->

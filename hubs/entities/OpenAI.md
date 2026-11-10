@@ -1,29 +1,51 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2954
+member_count: 2976
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2954 connected article(s).
+> Auto-generated entity hub. 2976 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-wall-street-journal-3|[November 10, 2026] · [Wall Street Journal]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-openai|[November 10, 2026] · [OpenAI]]]
+- `2026-11-10` [[2026-11-10-the-financing-squeeze-shows-up-in-results-softbank-s-7-billi|The financing squeeze shows up in results: SoftBank's $7 billion loss and CoreWeave debt near 15%]]
+- `2026-11-10` [[2026-11-10-softbank-losses-expose-ai-infrastructure-procurement-risk|SoftBank losses expose AI infrastructure procurement risk]]
+- `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
+- `2026-11-10` [[2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da|Fireworks breach exposed some customers' model weights and datasets, and Hugging Face warns open AI platforms may tighten access]]
 - `2026-11-09` [[2026-11-09-founder-s-test-of-openai-s-dot-agent-sent-about-300-emails-t|founder's test of OpenAI's Dot agent sent about 300 emails to movers and building managers]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-marktechpost|[November 9, 2026] · [MarkTechPost]]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
+- `2026-11-09` [[2026-11-09-softbank-s-7-billion-quarterly-loss-highlights-infrastructur|SoftBank’s $7 billion quarterly loss highlights infrastructure financing exposure]]
 - `2026-11-09` [[2026-11-09-rogue-agents-turn-ai-autonomy-into-a-liability-and-insurance|Rogue agents turn AI autonomy into a liability and insurance problem]]
 - `2026-11-09` [[2026-11-09-reason-machines-open-sources-aspen-a-git-server-built-for-he|Reason Machines open-sources Aspen, a Git server built for heavy agent traffic]]
+- `2026-11-09` [[2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter|OpenAI describes inference-layer controls for stopping internal research]]
 - `2026-11-09` [[2026-11-09-november-9-2026-pitchbook|November 9, 2026 · PitchBook]]
+- `2026-11-09` [[2026-11-09-meta-s-muse-ember-pushes-agent-execution-pricing-to-0-10-per|Meta's Muse Ember pushes agent-execution pricing to $0.10 per million input tokens]]
+- `2026-11-09` [[2026-11-09-meta-releases-muse-ember-a-low-cost-hosted-model-for-repetit|Meta releases Muse Ember, a low-cost hosted model for repetitive agent tasks]]
+- `2026-11-09` [[2026-11-09-meta-launches-muse-ember-a-0-10-per-million-token-multimodal|Meta launches Muse Ember, a $0.10-per-million-token multimodal model for high-volume agent work]]
 - `2026-11-09` [[2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting|Meta is building an enterprise AI sales team and recruiting consulting partners]]
 - `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture|Meta builds an enterprise AI sales team and courts Accenture, Deloitte and IBM]]
 - `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-recruits-accent|Meta builds an enterprise AI sales force and recruits Accenture, Deloitte and IBM as channels]]
 - `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-courts-accentur|Meta builds an enterprise AI sales force and courts Accenture, Deloitte and IBM]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft|Enterprise agents move into existing channels: IBM-Microsoft Imagine Enterprise, ChatGPT on AWS Marketplace and Gemini for healthcare]]
+- `2026-11-09` [[2026-11-09-daily-ai-news-digest-november-10-2026|Daily AI News Digest – November 10, 2026]]
 - `2026-11-09` [[2026-11-09-chatgpt-s-traffic-rebounds-as-it-holds-more-than-81-of-chatb|ChatGPT's traffic rebounds as it holds more than 81% of chatbot visits]]
 - `2026-11-09` [[2026-11-09-chatgpt-s-growth-rebounds-as-it-holds-more-than-81-of-chatbo|ChatGPT's growth rebounds as it holds more than 81% of chatbot traffic]]
 - `2026-11-09` [[2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth|ChatGPT holds more than 81% of chatbot traffic as its growth picks up again]]
+- `2026-11-09` [[2026-11-09-chatgpt-enterprise-is-now-sold-through-aws-marketplace-as-aw|ChatGPT Enterprise is now sold through AWS Marketplace, as AWS markets its own Quick agent workspace]]
+- `2026-11-09` [[2026-11-09-chatgpt-enterprise-is-now-available-through-aws-marketplace|ChatGPT Enterprise is now available through AWS Marketplace]]
+- `2026-11-09` [[2026-11-09-australia-plans-stronger-ai-oversight-and-mandatory-incident|Australia plans stronger AI oversight and mandatory incident reporting]]
+- `2026-11-09` [[2026-11-09-australia-creates-an-ai-regulator-after-an-openai-agent-brea|Australia creates an AI regulator after an OpenAI agent breach as governments and labs sign a Paris shutdown pledge]]
+- `2026-11-09` [[2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price|Anthropic ships Claude Fable 5.2 and Mythos 5.2 with a price cut and a warning about evaluation awareness]]
+- `2026-11-09` [[2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cuts-fabl|Anthropic releases Claude Mythos 5.2 and Fable 5.2, cuts Fable's price, and reports that the models more often suspect they are being tested]]
 - `2026-11-09` [[2026-11-09-anthropic-presses-ahead-with-its-ipo-roadshow-as-openai-clos|Anthropic presses ahead with its IPO roadshow as OpenAI closes $11 billion at a reduced target]]
 - `2026-11-09` [[2026-11-09-agent-operations-get-their-own-plumbing-and-a-cautionary-tal|Agent operations get their own plumbing, and a cautionary tale about agents that send email]]
 - `2026-11-08` [[2026-11-08-november-9-2026-the-information|[November 9, 2026] · [The Information]]]

@@ -1,15 +1,16 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 450
+member_count: 451
 ---
 
 # xAI
 
-> Auto-generated entity hub. 450 connected article(s).
+> Auto-generated entity hub. 451 connected article(s).
 
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-anthropic-buys-3-4-billion-of-gas-turbines-as-power-becomes|Anthropic buys $3.4 billion of gas turbines as power becomes the AI bottleneck]]
 - `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
 - `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]
 - `2026-11-05` [[2026-11-05-additional-bounded-checks-covered-mistral-cursor-replit-xai|Additional bounded checks covered Mistral, Cursor, Replit, xAI, Alibaba/Qwen, Baidu Research, Huawei, SenseTime,…]]

@@ -4,8 +4,8 @@ title: NVIDIA opens GR00T 2 as robot-data suppliers race to stay relevant
 date: '2026-11-09'
 source: NVIDIA Blog, PitchBook
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/open-models-data-ai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_065827_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 1968410877591c67dc7eae233164250a5df319a92bdfccb44bca1861908b92c8

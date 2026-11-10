@@ -1,15 +1,21 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 148
+member_count: 154
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 148 connected article(s).
+> Auto-generated entity hub. 154 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-google-deepmind-s-alphaproof-code-mathematically-proves-the|Google DeepMind's AlphaProof Code mathematically proves the security of Signal's encryption code]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-baidu-s-ernie-evolve-runs-its-own-experiments-and-speeds-up|Baidu's ERNIE Evolve runs its own experiments and speeds up production inference]]
+- `2026-11-09` [[2026-11-09-baidu-s-ernie-evolve-automates-ml-research-and-lifts-product|Baidu's ERNIE Evolve automates ML research and lifts production inference throughput]]
+- `2026-11-09` [[2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an|Baidu's ERNIE Evolve agents beat public benchmark records and speed up its production models]]
 - `2026-11-09` [[2026-11-09-baidu-introduces-ernie-evolve-for-automated-research|Baidu introduces ERNIE Evolve for automated research]]
 - `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
 - `2026-11-06` [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo|Search-index checks — official company sources: OpenAI news, blog, and system card; Google Blog, Cloud, and Workspace;…]]

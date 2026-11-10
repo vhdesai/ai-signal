@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-fervo-s-contracted-revenue-rises-to-11-9-billion-as-hypersca
+- 2026-11-09-data-center-supply-chains-reshape-fervo-s-geothermal-backlog
 - 2026-09-24-fervo-delivers-first-power-from-cape-station-the-first-utili
 - 2026-09-24-fervo-reaches-first-power-at-cape-station-the-first-utility
 - 2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank
-- 2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline
-- 2026-08-30-openai-received-about-5-5-billion-in-sb-energy-warrants-ahea
 embedding_id: 2026-05-14-fervo-energy-pops-33-in-ipo-fueled-by-ai-data-center-demand
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Fervo Energy pops 33% in IPO, fueled by AI data center demand — TechCrunch, Ma
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-24-fervo-delivers-first-power-from-cape-station-the-first-utili]] · [[2026-09-24-fervo-reaches-first-power-at-cape-station-the-first-utility]] · [[2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank]] · [[2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline]] · [[2026-08-30-openai-received-about-5-5-billion-in-sb-energy-warrants-ahea]]
+**Related:** [[2026-11-09-fervo-s-contracted-revenue-rises-to-11-9-billion-as-hypersca]] · [[2026-11-09-data-center-supply-chains-reshape-fervo-s-geothermal-backlog]] · [[2026-09-24-fervo-delivers-first-power-from-cape-station-the-first-utili]] · [[2026-09-24-fervo-reaches-first-power-at-cape-station-the-first-utility]] · [[2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank]]
 <!-- graph:end -->

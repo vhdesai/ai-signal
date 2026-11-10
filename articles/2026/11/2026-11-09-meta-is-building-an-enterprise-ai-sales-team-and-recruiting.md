@@ -4,8 +4,8 @@ title: Meta is building an enterprise AI sales team and recruiting consulting pa
 date: '2026-11-09'
 source: '[The Information]'
 url_original: https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies
-url_canonical: https://www.roic.ai/news/meta-builds-out-enterprise-ai-sales-force-consulting-partnerships-to-land-big-corporate-clients-11-09-2026
-url_status: repaired
+url_canonical: https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies
+url_status: broken
 digest_source: digests\raw\2026-11-09_061126_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 02e5175625e635f5c28e4d2a29680184dfba1a00a38a4ff8e908256af622128d

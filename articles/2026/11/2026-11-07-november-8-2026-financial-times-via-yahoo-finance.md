@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-06-november-7-2026-the-information
+- 2026-11-09-anthropic-buys-3-4-billion-of-gas-turbines-as-power-becomes
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
 - 2026-11-08-november-8-2026-financial-times-via-yahoo-finance
 embedding_id: 2026-11-07-november-8-2026-financial-times-via-yahoo-finance
@@ -39,5 +40,5 @@ The Financial Times reports that Anthropic has secured 1.7 GW of heavy-duty gas-
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-06-november-7-2026-the-information]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]] · [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance]]
+**Related:** [[2026-11-06-november-7-2026-the-information]] · [[2026-11-09-anthropic-buys-3-4-billion-of-gas-turbines-as-power-becomes]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]] · [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance]]
 <!-- graph:end -->

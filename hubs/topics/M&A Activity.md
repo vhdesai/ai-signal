@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 551
+member_count: 552
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 551 connected article(s).
+> Auto-generated topic hub. 552 connected article(s).
 
+- `2026-11-10` [[2026-11-10-advertisers-say-ai-chatbots-are-starting-to-dent-google-s-22|Advertisers say AI chatbots are starting to dent Google's $224 billion search-ads engine]]
 - `2026-11-08` [[2026-11-08-november-8-2026-business-insider|[November 8, 2026] · [Business Insider]]]
 - `2026-11-08` [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance|November 8, 2026 · Financial Times (via Yahoo Finance)]]
 - `2026-11-08` [[2026-11-08-agility-robotics-is-the-first-us-humanoid-robot-company-to-g|Agility Robotics is the first US humanoid robot company to go public, and it is still far from profitable]]

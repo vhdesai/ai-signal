@@ -32,8 +32,8 @@ related_article_ids:
 - 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 - 2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
+- 2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft
 - 2026-04-01-products-tools
-- 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
 embedding_id: 2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Google Gemini AI Assistant Deployed in Millions of Vehicles NEW TechCrunch · Ap
 
 **Entities:** [[Adobe]] · [[Amazon]] · [[Apple]] · [[Google]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[Salesforce]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]] · [[2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-04-01-products-tools]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]]
+**Related:** [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]] · [[2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft]] · [[2026-04-01-products-tools]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Amazon's HOPE prunes half of a mixture-of-experts model without retrainin
 date: '2026-11-09'
 source: Hugging Face Blog
 url_original: null
-url_canonical: https://www.explainx.ai/blog/amazon-hope-moe-expert-pruning-second-order-awslabs-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_084913_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 9bfdf1455cbb5743cb008c9d2d55e927978ed7ac6db05c552a6d2c57dfacfde4

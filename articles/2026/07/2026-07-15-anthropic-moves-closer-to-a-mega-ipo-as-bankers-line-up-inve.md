@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
-- 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
+- 2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion
 embedding_id: 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Goldman Sachs, Morgan Stanley, and JPMorgan have begun scheduling investor meeti
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]]
+**Related:** [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion]]
 <!-- graph:end -->

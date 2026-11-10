@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-fervo-reaches-first-power-at-cape-station-the-first-utility
+- 2026-11-09-fervo-s-contracted-revenue-rises-to-11-9-billion-as-hypersca
+- 2026-11-09-data-center-supply-chains-reshape-fervo-s-geothermal-backlog
 - 2026-05-14-fervo-energy-pops-33-in-ipo-fueled-by-ai-data-center-demand
-- 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
-- 2026-09-21-kairos-power-secures-up-to-100m-from-samsung-c-t-for-its-fir
+- 2026-11-10-november-9-2026-techcrunch-2
 embedding_id: 2026-09-24-fervo-delivers-first-power-from-cape-station-the-first-utili
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Fervo Energy's Cape Station project in Beaver County, Utah delivered its first e
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-fervo-reaches-first-power-at-cape-station-the-first-utility]] · [[2026-05-14-fervo-energy-pops-33-in-ipo-fueled-by-ai-data-center-demand]] · [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-09-21-kairos-power-secures-up-to-100m-from-samsung-c-t-for-its-fir]]
+**Related:** [[2026-09-24-fervo-reaches-first-power-at-cape-station-the-first-utility]] · [[2026-11-09-fervo-s-contracted-revenue-rises-to-11-9-billion-as-hypersca]] · [[2026-11-09-data-center-supply-chains-reshape-fervo-s-geothermal-backlog]] · [[2026-05-14-fervo-energy-pops-33-in-ipo-fueled-by-ai-data-center-demand]] · [[2026-11-10-november-9-2026-techcrunch-2]]
 <!-- graph:end -->

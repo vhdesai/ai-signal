@@ -4,8 +4,8 @@ title: '[November 9, 2026] · [Semafor]'
 date: '2026-11-09'
 source: '[DealBook]'
 url_original: null
-url_canonical: https://www.semafor.com/article/04/30/2026/semafor-launches-silicon-valley-the-world
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_070620_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 446cf763e914a293c75861ca5c22982588f39b48edc94b77892aed7cf2d39fbd

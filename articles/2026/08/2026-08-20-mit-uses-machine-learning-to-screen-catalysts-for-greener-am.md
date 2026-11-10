@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule
-- 2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials
-- 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
+- 2026-11-10-november-9-2026-education-week
+- 2026-11-10-mit-led-team-wins-up-to-53-million-from-arpa-h-to-design-her
+- 2026-11-10-mit-led-plow-project-receives-up-to-53-million-for-ai-design
 embedding_id: 2026-08-20-mit-uses-machine-learning-to-screen-catalysts-for-greener-am
 event_name: ''
 ---
@@ -35,5 +35,5 @@ MIT researchers led by Professor Bilge Yildiz, with doctoral students Constantin
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule]] · [[2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials]] · [[2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations]]
+**Related:** [[2026-11-10-november-9-2026-education-week]] · [[2026-11-10-mit-led-team-wins-up-to-53-million-from-arpa-h-to-design-her]] · [[2026-11-10-mit-led-plow-project-receives-up-to-53-million-for-ai-design]]
 <!-- graph:end -->

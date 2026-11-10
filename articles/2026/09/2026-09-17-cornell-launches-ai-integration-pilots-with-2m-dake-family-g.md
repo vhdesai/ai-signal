@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-cornell-expands-its-ai-critical-literacy-program-to-all-inco
+- 2026-11-10-november-9-2026-education-week
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
 - 2026-08-28-cornell-what-happened-when-we-put-ai-to-work
-- 2026-09-03-new-cornell-leads-7-5m-usda-center-of-excellence-for-orchard
 embedding_id: 2026-09-17-cornell-launches-ai-integration-pilots-with-2m-dake-family-g
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cornell launched AI Integration Pilots and expanded its AI Undergraduate Fellows
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-12-cornell-expands-its-ai-critical-literacy-program-to-all-inco]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-08-28-cornell-what-happened-when-we-put-ai-to-work]] · [[2026-09-03-new-cornell-leads-7-5m-usda-center-of-excellence-for-orchard]]
+**Related:** [[2026-08-12-cornell-expands-its-ai-critical-literacy-program-to-all-inco]] · [[2026-11-10-november-9-2026-education-week]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-08-28-cornell-what-happened-when-we-put-ai-to-work]]
 <!-- graph:end -->

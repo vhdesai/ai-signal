@@ -4,8 +4,8 @@ title: '[November 9, 2026] · [Google Blog]'
 date: '2026-11-09'
 source: '[NVIDIA Newsroom]'
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_070620_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 962e3e73aa82a584a89c77b2302e5b447ce65f53355637d3cf4af8a49e3507b3

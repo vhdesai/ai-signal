@@ -1,17 +1,28 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2401
+member_count: 2412
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2401 connected article(s).
+> Auto-generated topic hub. 2412 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-9-2026-wired|[November 9, 2026] · [WIRED]]]
+- `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
+- `2026-11-10` [[2026-11-10-november-9-2026-education-week|[November 9, 2026] · [Education Week]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
+- `2026-11-10` [[2026-11-10-australia-plans-an-ai-safety-regulator-and-mandatory-protect|Australia plans an AI safety regulator and mandatory protections]]
 - `2026-11-09` [[2026-11-09-november-9-2026-google-blog|[November 9, 2026] · [Google Blog]]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-as-federal-safety-te|Trump signals openness to AI guardrails as federal safety testing moves under the White House]]
+- `2026-11-09` [[2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter|OpenAI describes inference-layer controls for stopping internal research]]
 - `2026-11-09` [[2026-11-09-meta-expands-ai-based-age-estimation-for-instagram-teen-prot|Meta expands AI-based age estimation for Instagram teen protections]]
+- `2026-11-09` [[2026-11-09-daily-ai-news-digest-november-10-2026|Daily AI News Digest – November 10, 2026]]
+- `2026-11-09` [[2026-11-09-berkeley-s-graph-as-policy-connects-reusable-robot-skills|Berkeley’s Graph-as-Policy connects reusable robot skills]]
+- `2026-11-09` [[2026-11-09-australia-plans-stronger-ai-oversight-and-mandatory-incident|Australia plans stronger AI oversight and mandatory incident reporting]]
 - `2026-11-09` [[2026-11-09-ai-accelerated-math-puts-today-s-encryption-on-the-clock-as|AI-accelerated math puts today's encryption on the clock as AI misuse drives new breaches]]
 - `2026-11-08` [[2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance|[November 7, 2026] · [The Telegraph (via Yahoo Finance)]]]
 - `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]

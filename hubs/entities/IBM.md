@@ -1,19 +1,24 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 211
+member_count: 216
 ---
 
 # IBM
 
-> Auto-generated entity hub. 211 connected article(s).
+> Auto-generated entity hub. 216 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-openai|[November 10, 2026] · [OpenAI]]]
+- `2026-11-10` [[2026-11-10-ibm-and-microsoft-announce-imagine-enterprise-for-industry-s|IBM and Microsoft announce Imagine Enterprise for industry-specific agents]]
+- `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting|Meta is building an enterprise AI sales team and recruiting consulting partners]]
 - `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture|Meta builds an enterprise AI sales team and courts Accenture, Deloitte and IBM]]
 - `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-recruits-accent|Meta builds an enterprise AI sales force and recruits Accenture, Deloitte and IBM as channels]]
 - `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-force-and-courts-accentur|Meta builds an enterprise AI sales force and courts Accenture, Deloitte and IBM]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft|Enterprise agents move into existing channels: IBM-Microsoft Imagine Enterprise, ChatGPT on AWS Marketplace and Gemini for healthcare]]
 - `2026-11-09` [[2026-11-09-apptio-expands-portfolio-to-help-enterprises-connect-ai-spen|Apptio Expands Portfolio to Help Enterprises Connect AI Spending to Business Value]]
 - `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
 - `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]

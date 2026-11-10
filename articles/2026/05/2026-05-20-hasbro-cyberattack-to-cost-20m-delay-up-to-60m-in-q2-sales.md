@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on
 - 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
 - 2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone
-- 2026-08-28-nvidia-pauses-its-36b-ai-cloud-revenue-share-financing-progr
-- 2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes
+- 2026-11-09-softbank-s-7-billion-quarterly-loss-highlights-infrastructur
+- 2026-11-10-softbank-losses-expose-ai-infrastructure-procurement-risk
 embedding_id: 2026-05-20-hasbro-cyberattack-to-cost-20m-delay-up-to-60m-in-q2-sales
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Hasbro disclosed that its March data breach will cost roughly $20 million in leg
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone]] · [[2026-08-28-nvidia-pauses-its-36b-ai-cloud-revenue-share-financing-progr]] · [[2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes]]
+**Related:** [[2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone]] · [[2026-11-09-softbank-s-7-billion-quarterly-loss-highlights-infrastructur]] · [[2026-11-10-softbank-losses-expose-ai-infrastructure-procurement-risk]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-30-chatgpt-desktop-app-can-now-run-inference-through-amazon-bed
+- 2026-11-09-chatgpt-enterprise-is-now-available-through-aws-marketplace
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
 - 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
 - 2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux
-- 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
 embedding_id: 2026-10-30-chatgpt-desktop-app-can-now-route-inference-to-amazon-bedroc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AWS says the ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCl
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-30-chatgpt-desktop-app-can-now-run-inference-through-amazon-bed]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]]
+**Related:** [[2026-10-30-chatgpt-desktop-app-can-now-run-inference-through-amazon-bed]] · [[2026-11-09-chatgpt-enterprise-is-now-available-through-aws-marketplace]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux]]
 <!-- graph:end -->

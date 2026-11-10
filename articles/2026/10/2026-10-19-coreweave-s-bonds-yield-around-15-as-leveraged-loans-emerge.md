@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure
 - 2026-10-19-october-20-2026-the-information
 - 2026-07-20-coreweave-s-gpu-expansion-highlights-infrastructure-arms-rac
+- 2026-11-10-the-financing-squeeze-shows-up-in-results-softbank-s-7-billi
 - 2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans
-- 2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge
 embedding_id: 2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge
 event_name: ''
 ---
@@ -39,5 +39,5 @@ PitchBook reports CoreWeave bonds are yielding around 15% as investors question 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure]] · [[2026-10-19-october-20-2026-the-information]] · [[2026-07-20-coreweave-s-gpu-expansion-highlights-infrastructure-arms-rac]] · [[2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]]
+**Related:** [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure]] · [[2026-10-19-october-20-2026-the-information]] · [[2026-07-20-coreweave-s-gpu-expansion-highlights-infrastructure-arms-rac]] · [[2026-11-10-the-financing-squeeze-shows-up-in-results-softbank-s-7-billi]] · [[2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans]]
 <!-- graph:end -->

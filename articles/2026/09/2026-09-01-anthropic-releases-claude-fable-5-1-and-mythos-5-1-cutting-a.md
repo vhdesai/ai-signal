@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t
 - 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75
-- 2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-cutting-agen
-- 2026-09-01-anthropic-ships-claude-fable-5-1-and-claude-mythos-5-1-cuts
-- 2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-75-chea
+- 2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cutting-f
+- 2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price
+- 2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cuts-fabl
 embedding_id: 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic launched Claude Fable 5.1 broadly and restricted the more capable Myth
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75]] · [[2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-cutting-agen]] · [[2026-09-01-anthropic-ships-claude-fable-5-1-and-claude-mythos-5-1-cuts]] · [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-75-chea]]
+**Related:** [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75]] · [[2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cutting-f]] · [[2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price]] · [[2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cuts-fabl]]
 <!-- graph:end -->

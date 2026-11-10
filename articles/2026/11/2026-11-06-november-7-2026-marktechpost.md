@@ -5,7 +5,7 @@ date: '2026-11-06'
 source: '[NVIDIA Technical Blog]'
 url_original: https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/
 url_canonical: https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-07_065733_Final-Daily-AI-News-Digest.md
 content_hash: f31bc807a1c3b54f78bcdf5b4ae7deccab24ef885683f6f61d024b5261dbc8dd
 normalized_title_hash: 8679827bf3ef9316
@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-07-inference-plumbing-matures-buoyant-open-sources-kinference-a
-- 2026-11-07-buoyant-open-sources-kinference-a-routing-layer-for-running
 - 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
 - 2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu
 - 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn
+- 2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement
 embedding_id: 2026-11-06-november-7-2026-marktechpost
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Buoyant, the maker of Linkerd, released Kinference, an early-alpha Apache 2.0 co
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-07-inference-plumbing-matures-buoyant-open-sources-kinference-a]] · [[2026-11-07-buoyant-open-sources-kinference-a-routing-layer-for-running]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu]] · [[2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn]]
+**Related:** [[2026-11-07-inference-plumbing-matures-buoyant-open-sources-kinference-a]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu]] · [[2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn]] · [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]]
 <!-- graph:end -->

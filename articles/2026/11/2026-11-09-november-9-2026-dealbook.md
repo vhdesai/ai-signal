@@ -4,8 +4,8 @@ title: '[November 9, 2026] · [DealBook]'
 date: '2026-11-09'
 source: '[Business Insider]'
 url_original: null
-url_canonical: https://hoodline.com/2026/10/vance-musk-altman-and-mamdani-headline-dealbook-summit-s-25th-anniversary-year/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_070620_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 8046bf7b709989497e3bdb10d01e78e14633ebc7708fe3d7032aca55e7a43afe
@@ -25,7 +25,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-09-november-9-2026-dealbook-2
 - 2026-11-08-november-9-2026-wall-street-journal-wsj-politics
-- 2026-11-08-nvidia-opens-an-independent-board-review-into-reported-forei
 embedding_id: 2026-11-09-november-9-2026-dealbook
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Nvidia's board said Sunday that independent directors and outside counsel will i
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-09-november-9-2026-dealbook-2]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-11-08-nvidia-opens-an-independent-board-review-into-reported-forei]]
+**Related:** [[2026-11-09-november-9-2026-dealbook-2]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-10-adobe-goes-agentic-at-max-and-ships-a-local-mcp-server-for-c
+- 2026-11-09-app-vendors-adapt-to-assistants-adobe-opens-creative-cloud-v
+- 2026-11-10-adobe-launches-an-mcp-server-so-chatgpt-claude-and-gemini-ca
+- 2026-11-09-november-10-2026-techcrunch
 - 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
-- 2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst
-- 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
-- 2026-09-19-unity-ships-official-plugins-for-claude-code-and-openai-code
-- 2026-05-06-
 embedding_id: 2026-06-19-adobe-embeds-firefly-creative-agent-into-chatgpt-claude-and
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Adobe's AI "Creative Agent" now lets users invoke it from third-party assistants
 
 **Entities:** [[Adobe]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis]] · [[2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-09-19-unity-ships-official-plugins-for-claude-code-and-openai-code]] · [[2026-05-06-]]
+**Related:** [[2026-11-10-adobe-goes-agentic-at-max-and-ships-a-local-mcp-server-for-c]] · [[2026-11-09-app-vendors-adapt-to-assistants-adobe-opens-creative-cloud-v]] · [[2026-11-10-adobe-launches-an-mcp-server-so-chatgpt-claude-and-gemini-ca]] · [[2026-11-09-november-10-2026-techcrunch]] · [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis]]
 <!-- graph:end -->

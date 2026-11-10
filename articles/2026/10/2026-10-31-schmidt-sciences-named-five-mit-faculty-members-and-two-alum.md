@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-10-30-five-mit-faculty-named-2026-schmidt-sciences-ai2050-fellows
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 - 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
+- 2026-11-10-november-9-2026-education-week
 - 2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin
-- 2026-08-31-mit-quantum-initiative-launches-postdoctoral-fellowship-prog
 embedding_id: 2026-10-31-schmidt-sciences-named-five-mit-faculty-members-and-two-alum
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Schmidt Sciences named five MIT faculty members and two alumni to its 2026 AI205
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-30-five-mit-faculty-named-2026-schmidt-sciences-ai2050-fellows]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien]] · [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]] · [[2026-08-31-mit-quantum-initiative-launches-postdoctoral-fellowship-prog]]
+**Related:** [[2026-10-30-five-mit-faculty-named-2026-schmidt-sciences-ai2050-fellows]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien]] · [[2026-11-10-november-9-2026-education-week]] · [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]]
 <!-- graph:end -->

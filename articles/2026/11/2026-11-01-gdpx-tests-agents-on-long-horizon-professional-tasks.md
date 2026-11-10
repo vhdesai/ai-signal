@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-06-openai-introduces-biobasicsbench-for-routine-laboratory-anal
+- 2026-11-09-nvidia-reports-few-demonstration-robotics-results-with-gr00t
 - 2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu
 - 2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag
 - 2026-10-11-research-24-48h-exception-sakana-ai-s-llm-peer-review-system
-- 2026-11-01-deepseek-open-sources-dsh-superagent-a-coding-agent-that-run
 embedding_id: 2026-11-01-gdpx-tests-agents-on-long-horizon-professional-tasks
 event_name: ''
 ---
@@ -34,5 +34,5 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-11-06-openai-introduces-biobasicsbench-for-routine-laboratory-anal]] · [[2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu]] · [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag]] · [[2026-10-11-research-24-48h-exception-sakana-ai-s-llm-peer-review-system]] · [[2026-11-01-deepseek-open-sources-dsh-superagent-a-coding-agent-that-run]]
+**Related:** [[2026-11-06-openai-introduces-biobasicsbench-for-routine-laboratory-anal]] · [[2026-11-09-nvidia-reports-few-demonstration-robotics-results-with-gr00t]] · [[2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu]] · [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag]] · [[2026-10-11-research-24-48h-exception-sakana-ai-s-llm-peer-review-system]]
 <!-- graph:end -->

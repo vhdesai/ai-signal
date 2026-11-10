@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 - 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
-- 2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine
+- 2026-11-09-meta-s-muse-ember-pushes-agent-execution-pricing-to-0-10-per
 embedding_id: 2026-09-12-hands-on-meta-s-muse-agent-nearly-cost-a-reporter-408
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A hands-on review of Meta's new personal agent Muse describes a hotel-booking ta
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine]]
+**Related:** [[2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-11-09-meta-s-muse-ember-pushes-agent-execution-pricing-to-0-10-per]]
 <!-- graph:end -->

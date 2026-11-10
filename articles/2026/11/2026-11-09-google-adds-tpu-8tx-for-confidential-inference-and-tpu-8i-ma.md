@@ -21,12 +21,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-11-09-google-expands-its-tpu-portfolio-for-regulated-and-large-sca
-- 2026-11-08-google-adds-confidential-computing-and-long-context-tpus-as
-- 2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu
+dedupe_status: duplicate
+canonical_article_id: 2026-11-09-google-adds-tpu-8i-max-and-confidential-tpu-8tx-to-its-eight
+related_article_ids: []
 embedding_id: 2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma
 event_name: ''
 ---
@@ -40,5 +37,5 @@ Google added two systems to its eighth-generation TPU line, so it now has four T
 
 **Entities:** [[AMD]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-11-09-google-expands-its-tpu-portfolio-for-regulated-and-large-sca]] · [[2026-11-08-google-adds-confidential-computing-and-long-context-tpus-as]] · [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu]]
+**Canonical:** [[2026-11-09-google-adds-tpu-8i-max-and-confidential-tpu-8tx-to-its-eight]]
 <!-- graph:end -->

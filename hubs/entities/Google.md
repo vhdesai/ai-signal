@@ -1,17 +1,39 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1770
+member_count: 1799
 ---
 
 # Google
 
-> Auto-generated entity hub. 1770 connected article(s).
+> Auto-generated entity hub. 1799 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-9-2026-wired|[November 9, 2026] · [WIRED]]]
+- `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-openai|[November 10, 2026] · [OpenAI]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
+- `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-google-faces-ai-s-impact-on-its-search-advertising-business|Google faces AI's impact on its search advertising business]]
+- `2026-11-10` [[2026-11-10-google-deepmind-s-alphaproof-code-mathematically-proves-the|Google DeepMind's AlphaProof Code mathematically proves the security of Signal's encryption code]]
+- `2026-11-10` [[2026-11-10-google-deepmind-s-alphaproof-code-formally-verifies-key-sign|Google DeepMind's AlphaProof Code formally verifies key Signal protocol guarantees]]
+- `2026-11-10` [[2026-11-10-google-cloud-previews-gemini-for-healthcare-an-agent-that-co|Google Cloud previews Gemini for healthcare, an agent that coordinates work across health records, claims, and payer systems]]
+- `2026-11-10` [[2026-11-10-google-cloud-launches-gemini-for-healthcare-with-hca-highmar|Google Cloud launches Gemini for healthcare with HCA, Highmark and Northwell]]
+- `2026-11-10` [[2026-11-10-deepmind-s-alphaproof-code-formally-verifies-core-security-g|DeepMind's AlphaProof Code formally verifies core security guarantees of Signal's deployed code]]
+- `2026-11-10` [[2026-11-10-deepmind-brings-machine-checked-proofs-to-a-signal-protocol|DeepMind brings machine-checked proofs to a Signal protocol implementation]]
+- `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion|Anthropic’s proposed IPO could raise about $64.4 billion]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu|Anthropic sets an IPO price range of $70 to $78 per share, valuing the company at up to $1.404 trillion]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri|Anthropic sets a $70–$78 IPO range, valuing it at up to $1.4 trillion with a $26 billion strategic side deal]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-ipo-range-at-70-78-implying-up-to-1-404-trill|Anthropic sets IPO range at $70–$78, implying up to $1.404 trillion valuation]]
+- `2026-11-10` [[2026-11-10-advertisers-say-ai-chatbots-are-starting-to-dent-google-s-22|Advertisers say AI chatbots are starting to dent Google's $224 billion search-ads engine]]
+- `2026-11-10` [[2026-11-10-adobe-launches-an-mcp-server-so-chatgpt-claude-and-gemini-ca|Adobe launches an MCP server so ChatGPT, Claude, and Gemini can use Creative Cloud features]]
+- `2026-11-10` [[2026-11-10-adobe-goes-agentic-at-max-and-ships-a-local-mcp-server-for-c|Adobe goes agentic at MAX and ships a local MCP server for Creative Cloud]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-google-blog|[November 9, 2026] · [Google Blog]]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
+- `2026-11-09` [[2026-11-09-the-first-shareholder-lawsuit-against-nvidia-over-jensen-hua|The first shareholder lawsuit against Nvidia over Jensen Huang's ties to Megaspeed is filed as rivals' shares rise]]
+- `2026-11-09` [[2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter|OpenAI describes inference-layer controls for stopping internal research]]
 - `2026-11-09` [[2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting|Meta is building an enterprise AI sales team and recruiting consulting partners]]
 - `2026-11-09` [[2026-11-09-meta-expands-ai-age-estimation-worldwide-as-washington-press|Meta expands AI age estimation worldwide as Washington presses Google on AI in schools]]
 - `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture|Meta builds an enterprise AI sales team and courts Accenture, Deloitte and IBM]]
@@ -20,9 +42,16 @@ member_count: 1770
 - `2026-11-09` [[2026-11-09-google-expands-its-tpu-portfolio-for-regulated-and-large-sca|Google expands its TPU portfolio for regulated and large-scale workloads]]
 - `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma|Google adds TPU 8tx for confidential inference and TPU 8i Max for very long contexts]]
 - `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu|Google adds TPU 8tx and TPU 8i Max as Nvidia opens NVLink Fusion to Korean inference chips]]
+- `2026-11-09` [[2026-11-09-google-adds-tpu-8i-max-and-confidential-tpu-8tx-to-its-eight|Google adds TPU 8i Max and confidential TPU 8tx to its eighth-generation lineup]]
+- `2026-11-09` [[2026-11-09-fervo-s-contracted-revenue-rises-to-11-9-billion-as-hypersca|Fervo's contracted revenue rises to $11.9 billion as hyperscalers seek steady power]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft|Enterprise agents move into existing channels: IBM-Microsoft Imagine Enterprise, ChatGPT on AWS Marketplace and Gemini for healthcare]]
+- `2026-11-09` [[2026-11-09-data-center-supply-chains-reshape-fervo-s-geothermal-backlog|Data-center supply chains reshape: Fervo's geothermal backlog nears $12 billion as Microsoft fights a Chinese optics ban]]
 - `2026-11-09` [[2026-11-09-chatgpt-s-growth-rebounds-as-it-holds-more-than-81-of-chatbo|ChatGPT's growth rebounds as it holds more than 81% of chatbot traffic]]
 - `2026-11-09` [[2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth|ChatGPT holds more than 81% of chatbot traffic as its growth picks up again]]
+- `2026-11-09` [[2026-11-09-chatgpt-enterprise-is-now-sold-through-aws-marketplace-as-aw|ChatGPT Enterprise is now sold through AWS Marketplace, as AWS markets its own Quick agent workspace]]
+- `2026-11-09` [[2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price|Anthropic ships Claude Fable 5.2 and Mythos 5.2 with a price cut and a warning about evaluation awareness]]
+- `2026-11-09` [[2026-11-09-anthropic-positions-fable-5-2-and-mythos-5-2-for-specialist|Anthropic positions Fable 5.2 and Mythos 5.2 for specialist workloads]]
 - `2026-11-08` [[2026-11-08-november-8-2026-marktechpost|[November 8, 2026] · [MarkTechPost]]]
 - `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]
 - `2026-11-08` [[2026-11-08-november-9-2026-nvidia-blog|November 9, 2026 · NVIDIA Blog]]

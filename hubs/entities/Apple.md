@@ -1,22 +1,29 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 534
+member_count: 541
 ---
 
 # Apple
 
-> Auto-generated entity hub. 534 connected article(s).
+> Auto-generated entity hub. 541 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
+- `2026-11-09` [[2026-11-09-november-10-2026-techcrunch|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
+- `2026-11-09` [[2026-11-09-the-verge-reports-paid-ai-usage-packs-for-apple-s-logic-pro|The Verge reports paid AI usage packs for Apple’s Logic Pro]]
 - `2026-11-09` [[2026-11-09-november-9-2026-yahoo-finance|November 9, 2026 · Yahoo Finance]]
 - `2026-11-09` [[2026-11-09-meta-expands-ai-based-age-estimation-for-instagram-teen-prot|Meta expands AI-based age estimation for Instagram teen protections]]
 - `2026-11-09` [[2026-11-09-meta-expands-ai-age-estimation-worldwide-as-washington-press|Meta expands AI age estimation worldwide as Washington presses Google on AI in schools]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
 - `2026-11-09` [[2026-11-09-consumer-agents-scale-deepseek-harness-passes-1-5-million-da|Consumer agents scale: DeepSeek Harness passes 1.5 million daily users as Apple readies an agentic Siri]]
 - `2026-11-09` [[2026-11-09-apple-reportedly-targets-more-agent-like-siri-capabilities|Apple reportedly targets more agent-like Siri capabilities]]
+- `2026-11-09` [[2026-11-09-apple-adds-prepaid-usage-packs-for-selected-intelligence-fea|Apple adds prepaid usage packs for selected intelligence features]]
+- `2026-11-09` [[2026-11-09-app-vendors-adapt-to-assistants-adobe-opens-creative-cloud-v|App vendors adapt to assistants: Adobe opens Creative Cloud via MCP as Apple meters AI with usage packs]]
 - `2026-11-08` [[2026-11-08-introducing-arete-27b-qwen3-8-27b-post-trained-to-reinforce|Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values]]
 - `2026-11-08` [[2026-11-08-darpa-launches-a-program-using-ai-to-find-design-flaws-that|DARPA launches a program using AI to find design flaws that adversaries could exploit in electronic markets]]
 - `2026-11-08` [[2026-11-08-consumer-agent-platforms-scale-deepseek-harness-passes-1-5-m|Consumer agent platforms scale: DeepSeek Harness passes 1.5 million daily users as Apple readies a more capable Siri]]

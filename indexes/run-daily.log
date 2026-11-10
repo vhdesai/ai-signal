@@ -1,75 +1,79 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2355.79it/s]
 {
   "command": "run-daily",
   "stages": {
     "ingest": {
-      "digests_total": 1641,
+      "digests_total": 1652,
       "digests_changed": 0,
       "changed": []
     },
     "split": {
-      "digests_parsed": 1645,
-      "articles_written": 15453,
-      "events_parsed": 139,
+      "digests_parsed": 1656,
+      "articles_written": 15561,
+      "events_parsed": 140,
       "event_articles_written": 78,
-      "skipped_publication_sources": 68,
-      "skipped_thin_articles": 5645
+      "skipped_publication_sources": 69,
+      "skipped_thin_articles": 5712
     },
     "index": {
-      "articles_indexed": 11192,
+      "articles_indexed": 11268,
       "embeddings": {
         "enabled": true,
-        "added": 0,
-        "total": 11192,
-        "md_rewritten": 11191
+        "added": 76,
+        "total": 11268,
+        "md_rewritten": 11267
       }
     },
     "dedupe": {
-      "articles": 11192,
-      "exact_duplicates": 16,
-      "canonical": 8305,
-      "semantic_duplicates": 2871,
-      "related_links": 34155
+      "articles": 11268,
+      "exact_duplicates": 18,
+      "canonical": 8356,
+      "semantic_duplicates": 2894,
+      "related_links": 34363
     },
     "build-graph": {
       "status": "ok",
-      "articles_linked": 11192,
-      "wikilinks_emitted": 76655,
+      "articles_linked": 11268,
+      "wikilinks_emitted": 77227,
       "entity_hubs": 34,
       "topic_hubs": 8,
       "hubs_dir": "C:\\Users\\vdesai\\source\\repos\\Newsletter\\ext-host\\hubs"
     },
     "validate-urls": {
-      "checked": 5197,
-      "ok": 3868,
-      "broken": 1329,
-      "missing": 5971,
+      "checked": 5224,
+      "ok": 3750,
+      "broken": 1474,
+      "missing": 6020,
       "skipped": 24
     },
     "repair-urls": {
-      "attempted": 49,
-      "repaired": 29,
-      "unresolved": 20,
+      "attempted": 27,
+      "repaired": 14,
+      "unresolved": 13,
       "skipped": 0,
       "reverted": 0,
       "deferred": 0,
       "terminated": "completed",
-      "elapsed_s": 384.1,
+      "elapsed_s": 402.6,
       "max_workers": 10
     },
     "build-site-daily": {
-      "pages": 322,
-      "articles": 11192,
-      "canonical": 8305,
+      "pages": 323,
+      "articles": 11268,
+      "canonical": 8356,
       "site_dir": "C:\\Users\\vdesai\\source\\repos\\Newsletter\\ext-host\\site",
       "mode": "incremental",
-      "changed_articles": 3897,
-      "written_files": 237,
-      "elapsed_s": 33.58
+      "changed_articles": 316,
+      "written_files": 141,
+      "elapsed_s": 30.96
     },
     "publish": {
       "status": "dry-run",
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20261109T191053+0000-736aaf.json"
+  "run_log": "indexes\\runs\\run-20261110T220825+0000-056f46.json"
 }

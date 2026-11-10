@@ -4,8 +4,8 @@ title: '[November 9, 2026] · [MarkTechPost]'
 date: '2026-11-09'
 source: '[Business Insider]'
 url_original: null
-url_canonical: https://tech-insider.org/wall-st-week-ahead-midterms-jobs-fed-hike-odds-ai-market-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_070620_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: f985cc166190f53d48bef366add8800fbd25f4c59582099a90ec659f36dacffb

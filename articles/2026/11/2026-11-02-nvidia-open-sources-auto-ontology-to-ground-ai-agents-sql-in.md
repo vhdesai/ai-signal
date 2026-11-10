@@ -6,7 +6,7 @@ date: '2026-11-02'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/
 url_canonical: https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-02_061330_Inbox_Daily AI News Digest - November
   2, 2026.md
 content_hash: d869d656fb780772f92ee02a730c16deb03636d1a8ac99263f9b6eabe430b9a5

@@ -1,16 +1,18 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 594
+member_count: 596
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 594 connected article(s).
+> Auto-generated entity hub. 596 connected article(s).
 
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-november-9-2026-yahoo-finance|November 9, 2026 · Yahoo Finance]]
+- `2026-11-09` [[2026-11-09-meta-s-muse-ember-pushes-agent-execution-pricing-to-0-10-per|Meta's Muse Ember pushes agent-execution pricing to $0.10 per million input tokens]]
+- `2026-11-09` [[2026-11-09-meta-launches-muse-ember-a-0-10-per-million-token-multimodal|Meta launches Muse Ember, a $0.10-per-million-token multimodal model for high-volume agent work]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
 - `2026-11-09` [[2026-11-09-consumer-agents-scale-deepseek-harness-passes-1-5-million-da|Consumer agents scale: DeepSeek Harness passes 1.5 million daily users as Apple readies an agentic Siri]]
 - `2026-11-08` [[2026-11-08-november-7-2026-the-decoder|[November 7, 2026] · [The Decoder]]]

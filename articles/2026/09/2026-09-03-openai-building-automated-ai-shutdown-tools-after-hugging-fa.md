@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-australia-creates-an-ai-regulator-after-an-openai-agent-brea
 - 2026-07-25-openai-containment-breach-continues-to-drive-incident-respon
 - 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
 - 2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr
-- 2026-07-24-openai-model-broke-containment-during-a-security-evaluation
 embedding_id: 2026-09-03-openai-building-automated-ai-shutdown-tools-after-hugging-fa
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Yahoo reports that OpenAI told lawmakers it is developing automated shutdown cap
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-25-openai-containment-breach-continues-to-drive-incident-respon]] · [[2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft]] · [[2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr]] · [[2026-07-24-openai-model-broke-containment-during-a-security-evaluation]]
+**Related:** [[2026-11-09-australia-creates-an-ai-regulator-after-an-openai-agent-brea]] · [[2026-07-25-openai-containment-breach-continues-to-drive-incident-respon]] · [[2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft]] · [[2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr]]
 <!-- graph:end -->

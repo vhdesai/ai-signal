@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-01-google-launches-pics-an-ai-first-design-tool-aimed-at-canva
+- 2026-11-09-november-10-2026-techcrunch
+- 2026-11-09-app-vendors-adapt-to-assistants-adobe-opens-creative-cloud-v
 - 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 - 2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google
-- 2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi
 embedding_id: 2026-07-20-adobe-s-project-indigo-adds-ai-photo-critique-and-editing-gu
 event_name: ''
 ---
@@ -39,5 +40,5 @@ TechCrunch reports that Adobe is adding AI-powered critique, editing suggestions
 
 **Entities:** [[Adobe]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-01-google-launches-pics-an-ai-first-design-tool-aimed-at-canva]] · [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature]] · [[2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google]] · [[2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi]]
+**Related:** [[2026-09-01-google-launches-pics-an-ai-first-design-tool-aimed-at-canva]] · [[2026-11-09-november-10-2026-techcrunch]] · [[2026-11-09-app-vendors-adapt-to-assistants-adobe-opens-creative-cloud-v]] · [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature]] · [[2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google]]
 <!-- graph:end -->

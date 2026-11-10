@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
+- 2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
-- 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
 embedding_id: 2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Dealroom reports Chinese tech firms bought more than one million Nvidia gaming a
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]]
+**Related:** [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]]
 <!-- graph:end -->

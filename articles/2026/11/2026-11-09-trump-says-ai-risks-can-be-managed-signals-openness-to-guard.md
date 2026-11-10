@@ -4,8 +4,8 @@ title: Trump says AI risks can be managed, signals openness to guardrails
 date: '2026-11-09'
 source: November 9, 2026, 00:29 UTC
 url_original: null
-url_canonical: https://emergent.sh/news/trump-says-ai-risks-manageable-open
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_061807_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 4c5ec0ac8be6f15f94c9dade3fbb9c40aefb07c61af0a31b728f23f7ddeec09b

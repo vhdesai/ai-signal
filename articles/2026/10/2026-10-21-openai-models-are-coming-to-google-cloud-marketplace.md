@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-10-21-openai-expands-enterprise-distribution-through-google-cloud
 - 2026-06-10-openai-models-and-codex-now-available-through-oracle-cloud
 - 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
+- 2026-11-10-november-10-2026-openai
 - event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
 embedding_id: 2026-10-21-openai-models-are-coming-to-google-cloud-marketplace
 event_name: ''
@@ -39,5 +40,5 @@ OpenAI said its frontier models and Codex workflows are becoming available throu
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-21-openai-expands-enterprise-distribution-through-google-cloud]] · [[2026-06-10-openai-models-and-codex-now-available-through-oracle-cloud]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]]
+**Related:** [[2026-10-21-openai-expands-enterprise-distribution-through-google-cloud]] · [[2026-06-10-openai-models-and-codex-now-available-through-oracle-cloud]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]] · [[2026-11-10-november-10-2026-openai]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]]
 <!-- graph:end -->

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
+- 2026-11-10-november-9-2026-education-week
 embedding_id: 2026-08-21-civil-society-groups-press-the-ftc-to-investigate-ai-trainin
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Advocacy groups are urging the FTC to investigate AI firms that buy, scan and de
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[M&A Activity]]
-**Related:** [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]]
+**Related:** [[2026-11-10-november-9-2026-education-week]]
 <!-- graph:end -->

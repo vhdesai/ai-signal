@@ -1,21 +1,32 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1395
+member_count: 1406
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1395 connected article(s).
+> Auto-generated topic hub. 1406 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
+- `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion|Anthropic’s proposed IPO could raise about $64.4 billion]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu|Anthropic sets an IPO price range of $70 to $78 per share, valuing the company at up to $1.404 trillion]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri|Anthropic sets a $70–$78 IPO range, valuing it at up to $1.4 trillion with a $26 billion strategic side deal]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-ipo-range-at-70-78-implying-up-to-1-404-trill|Anthropic sets IPO range at $70–$78, implying up to $1.404 trillion valuation]]
+- `2026-11-10` [[2026-11-10-anthropic-reportedly-targets-a-1-3-trillion-ipo-valuation|Anthropic reportedly targets a $1.3 trillion IPO valuation]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-dealbook|[November 9, 2026] · [DealBook]]]
 - `2026-11-09` [[2026-11-09-rogue-agents-turn-ai-autonomy-into-a-liability-and-insurance|Rogue agents turn AI autonomy into a liability and insurance problem]]
 - `2026-11-09` [[2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus|Physical AI’s data boom is a race to get out of the data business]]
+- `2026-11-09` [[2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter|OpenAI describes inference-layer controls for stopping internal research]]
 - `2026-11-09` [[2026-11-09-november-9-2026-pitchbook|November 9, 2026 · PitchBook]]
 - `2026-11-09` [[2026-11-09-november-9-2026-nvidia-blog|November 9, 2026 · NVIDIA Blog]]
 - `2026-11-09` [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re|NVIDIA opens GR00T 2 as robot-data suppliers race to stay relevant]]
 - `2026-11-09` [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up|NVIDIA opens GR00T 2 as robot-data suppliers race to move up the stack]]
+- `2026-11-09` [[2026-11-09-daily-ai-news-digest-november-10-2026|Daily AI News Digest – November 10, 2026]]
+- `2026-11-09` [[2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price|Anthropic ships Claude Fable 5.2 and Mythos 5.2 with a price cut and a warning about evaluation awareness]]
 - `2026-11-09` [[2026-11-09-anthropic-presses-ahead-with-its-ipo-roadshow-as-openai-clos|Anthropic presses ahead with its IPO roadshow as OpenAI closes $11 billion at a reduced target]]
 - `2026-11-08` [[2026-11-08-november-9-2026-the-information|[November 9, 2026] · [The Information]]]
 - `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]

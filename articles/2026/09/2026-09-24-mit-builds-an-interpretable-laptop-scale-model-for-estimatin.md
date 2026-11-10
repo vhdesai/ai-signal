@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-24-mit-develops-text-based-model-to-estimate-imminent-suicide-r
 - 2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin
+- 2026-11-10-november-9-2026-education-week
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
-- 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
 embedding_id: 2026-09-24-mit-builds-an-interpretable-laptop-scale-model-for-estimatin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT researchers built a lexicon-based model covering roughly 60 words or phrases
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-24-mit-develops-text-based-model-to-estimate-imminent-suicide-r]] · [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]]
+**Related:** [[2026-09-24-mit-develops-text-based-model-to-estimate-imminent-suicide-r]] · [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin]] · [[2026-11-10-november-9-2026-education-week]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
 <!-- graph:end -->

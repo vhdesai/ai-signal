@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Adobe
-member_count: 27
+member_count: 33
 ---
 
 # Adobe
 
-> Auto-generated entity hub. 27 connected article(s).
+> Auto-generated entity hub. 33 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-google-cloud-previews-gemini-for-healthcare-an-agent-that-co|Google Cloud previews Gemini for healthcare, an agent that coordinates work across health records, claims, and payer systems]]
+- `2026-11-10` [[2026-11-10-adobe-launches-an-mcp-server-so-chatgpt-claude-and-gemini-ca|Adobe launches an MCP server so ChatGPT, Claude, and Gemini can use Creative Cloud features]]
+- `2026-11-10` [[2026-11-10-adobe-goes-agentic-at-max-and-ships-a-local-mcp-server-for-c|Adobe goes agentic at MAX and ships a local MCP server for Creative Cloud]]
+- `2026-11-09` [[2026-11-09-november-10-2026-techcrunch|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-09` [[2026-11-09-app-vendors-adapt-to-assistants-adobe-opens-creative-cloud-v|App vendors adapt to assistants: Adobe opens Creative Cloud via MCP as Apple meters AI with usage packs]]
 - `2026-10-19` [[2026-10-19-nvidia-advances-agentic-security-for-media-from-european-pub|NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production]]
 - `2026-09-28` [[2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho|Adobe Forecasts 130% Increase in AI-Assisted Shopping This Holiday Season]]
 - `2026-09-09` [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis|The Information: OpenAI blocks Adobe and others from advertising competing AI in ChatGPT]]

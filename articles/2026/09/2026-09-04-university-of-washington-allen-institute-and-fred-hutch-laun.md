@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch
+- 2026-11-10-november-9-2026-education-week
 - 2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf
-- 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
 embedding_id: 2026-09-04-university-of-washington-allen-institute-and-fred-hutch-laun
 event_name: ''
 ---
@@ -35,5 +35,5 @@ UW Medicine coverage described a $95M AI BioDesign effort across UW, the Allen I
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch]] · [[2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf]] · [[2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro]]
+**Related:** [[2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch]] · [[2026-11-10-november-9-2026-education-week]] · [[2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf]]
 <!-- graph:end -->

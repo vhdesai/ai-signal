@@ -1,32 +1,52 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1826
+member_count: 1846
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1826 connected article(s).
+> Auto-generated entity hub. 1846 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-dealbook-2|[November 10, 2026] · [DealBook]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
+- `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
+- `2026-11-10` [[2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da|Fireworks breach exposed some customers' model weights and datasets, and Hugging Face warns open AI platforms may tighten access]]
+- `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion|Anthropic’s proposed IPO could raise about $64.4 billion]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu|Anthropic sets an IPO price range of $70 to $78 per share, valuing the company at up to $1.404 trillion]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri|Anthropic sets a $70–$78 IPO range, valuing it at up to $1.4 trillion with a $26 billion strategic side deal]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-ipo-range-at-70-78-implying-up-to-1-404-trill|Anthropic sets IPO range at $70–$78, implying up to $1.404 trillion valuation]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-google-blog|[November 9, 2026] · [Google Blog]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-dealbook|[November 9, 2026] · [DealBook]]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a|Trump says his administration once threatened a leader of a major AI company with jail]]
+- `2026-11-09` [[2026-11-09-trump-says-fbi-is-looking-into-huang-matter-as-nvidia-shares|Trump says FBI is looking into Huang matter as Nvidia shares slide and lawsuits loom]]
+- `2026-11-09` [[2026-11-09-the-first-shareholder-lawsuit-against-nvidia-over-jensen-hua|The first shareholder lawsuit against Nvidia over Jensen Huang's ties to Megaspeed is filed as rivals' shares rise]]
+- `2026-11-09` [[2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls|Spy scandal revives push for tighter Nvidia export controls]]
 - `2026-11-09` [[2026-11-09-recent-advances-in-ai-are-creating-a-paradigm-shift-for-robo|Recent advances in AI are creating a ‘paradigm shift’ for robotics]]
+- `2026-11-09` [[2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter|OpenAI describes inference-layer controls for stopping internal research]]
+- `2026-11-09` [[2026-11-09-nvidia-s-share-decline-puts-governance-and-litigation-risk-i|Nvidia’s share decline puts governance and litigation risk in focus]]
 - `2026-11-09` [[2026-11-09-nvidia-rebellions-and-sk-telecom-partner-on-sovereign-ai-inf|Nvidia, Rebellions, and SK Telecom partner on sovereign AI infrastructure]]
+- `2026-11-09` [[2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f|Nvidia's crisis turns legal and political: FBI interest, the first shareholder suit and a governance reckoning]]
 - `2026-11-09` [[2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors|Nvidia shares fall about 5% before Monday's open as investors weigh key-person risk]]
 - `2026-11-09` [[2026-11-09-nvidia-outlines-further-korean-startup-investments|Nvidia outlines further Korean startup investments]]
 - `2026-11-09` [[2026-11-09-nvidia-lets-korean-chips-plug-into-its-rack-systems-and-plan|Nvidia lets Korean chips plug into its rack systems and plans investments in four Korean startups]]
 - `2026-11-09` [[2026-11-09-november-9-2026-nvidia-blog|November 9, 2026 · NVIDIA Blog]]
 - `2026-11-09` [[2026-11-09-november-9-2026-mit-news|November 9, 2026 · MIT News]]
+- `2026-11-09` [[2026-11-09-nvidia-reports-few-demonstration-robotics-results-with-gr00t|NVIDIA reports few-demonstration robotics results with GR00T 2]]
 - `2026-11-09` [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re|NVIDIA opens GR00T 2 as robot-data suppliers race to stay relevant]]
 - `2026-11-09` [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up|NVIDIA opens GR00T 2 as robot-data suppliers race to move up the stack]]
 - `2026-11-09` [[2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins|MIT and Berkeley push robots and simulators past literal instructions and hand-coded physics]]
 - `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-for-confidential-inference-and-tpu-8i-ma|Google adds TPU 8tx for confidential inference and TPU 8i Max for very long contexts]]
 - `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu|Google adds TPU 8tx and TPU 8i Max as Nvidia opens NVLink Fusion to Korean inference chips]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-daily-ai-news-digest-november-10-2026|Daily AI News Digest – November 10, 2026]]
 - `2026-11-09` [[2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha|CoRL research pushes robots past literal instructions and hand-engineering]]
+- `2026-11-09` [[2026-11-09-berkeley-s-graph-as-policy-connects-reusable-robot-skills|Berkeley’s Graph-as-Policy connects reusable robot skills]]
+- `2026-11-09` [[2026-11-09-ai-infrastructure-becomes-a-target-fireworks-breach-exposes|AI infrastructure becomes a target: Fireworks breach exposes model weights as export-control and insider risks rise]]
 - `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]
 - `2026-11-08` [[2026-11-08-nvidia-s-board-opens-an-independent-probe-and-key-person-ris|Nvidia's board opens an independent probe, and key-person risk moves to the center of the AI trade]]
 - `2026-11-08` [[2026-11-08-nvidia-s-board-opens-an-independent-investigation-after-repo|Nvidia's board opens an independent investigation after reports that Jensen Huang was targeted by Chinese intelligence]]

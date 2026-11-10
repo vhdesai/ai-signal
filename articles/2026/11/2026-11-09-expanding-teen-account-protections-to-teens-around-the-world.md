@@ -4,8 +4,8 @@ title: Expanding Teen Account Protections to Teens Around the World
 date: '2026-11-09'
 source: Meta Newsroom
 url_original: null
-url_canonical: https://techeconomy.ng/meta-expands-teen-account-protections-to-teens-around-the-world
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_061807_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: fd8c5e5f784ee89bc761e3a4e755fd4a9226cc94c0ed9f96957f3c508bfc6e9a

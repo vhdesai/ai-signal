@@ -1,21 +1,31 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 1001
+member_count: 1012
 ---
 
 # Meta
 
-> Auto-generated entity hub. 1001 connected article(s).
+> Auto-generated entity hub. 1012 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
+- `2026-11-10` [[2026-11-10-advertisers-say-ai-chatbots-are-starting-to-dent-google-s-22|Advertisers say AI chatbots are starting to dent Google's $224 billion search-ads engine]]
 - `2026-11-09` [[2026-11-09-november-9-2026-semafor|[November 9, 2026] · [Semafor]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
+- `2026-11-09` [[2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter|OpenAI describes inference-layer controls for stopping internal research]]
 - `2026-11-09` [[2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors|Nvidia shares fall about 5% before Monday's open as investors weigh key-person risk]]
 - `2026-11-09` [[2026-11-09-november-9-2026-yahoo-finance|November 9, 2026 · Yahoo Finance]]
 - `2026-11-09` [[2026-11-09-november-9-2026-pitchbook|November 9, 2026 · PitchBook]]
 - `2026-11-09` [[2026-11-09-november-9-2026-dealbook-2|November 9, 2026 · DealBook]]
+- `2026-11-09` [[2026-11-09-meta-s-muse-ember-pushes-agent-execution-pricing-to-0-10-per|Meta's Muse Ember pushes agent-execution pricing to $0.10 per million input tokens]]
+- `2026-11-09` [[2026-11-09-meta-targets-repetitive-agent-work-with-lightweight-muse-emb|Meta targets repetitive agent work with lightweight Muse Ember]]
+- `2026-11-09` [[2026-11-09-meta-releases-muse-ember-a-low-cost-hosted-model-for-repetit|Meta releases Muse Ember, a low-cost hosted model for repetitive agent tasks]]
+- `2026-11-09` [[2026-11-09-meta-launches-muse-ember-a-0-10-per-million-token-multimodal|Meta launches Muse Ember, a $0.10-per-million-token multimodal model for high-volume agent work]]
 - `2026-11-09` [[2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting|Meta is building an enterprise AI sales team and recruiting consulting partners]]
+- `2026-11-09` [[2026-11-09-meta-introduces-muse-ember-for-lower-cost-agent-execution|Meta introduces Muse Ember for lower-cost agent execution]]
 - `2026-11-09` [[2026-11-09-meta-expands-ai-based-age-estimation-for-instagram-teen-prot|Meta expands AI-based age estimation for Instagram teen protections]]
 - `2026-11-09` [[2026-11-09-meta-expands-ai-age-estimation-worldwide-as-washington-press|Meta expands AI age estimation worldwide as Washington presses Google on AI in schools]]
 - `2026-11-09` [[2026-11-09-meta-builds-an-enterprise-ai-sales-team-and-courts-accenture|Meta builds an enterprise AI sales team and courts Accenture, Deloitte and IBM]]
@@ -25,6 +35,7 @@ member_count: 1001
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
 - `2026-11-09` [[2026-11-09-enterprises-chase-agentic-ai-value-as-workslop-sparks-a-back|Enterprises chase agentic AI value as "workslop" sparks a backlash from bosses]]
 - `2026-11-09` [[2026-11-09-consumer-agents-scale-deepseek-harness-passes-1-5-million-da|Consumer agents scale: DeepSeek Harness passes 1.5 million daily users as Apple readies an agentic Siri]]
+- `2026-11-09` [[2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cuts-fabl|Anthropic releases Claude Mythos 5.2 and Fable 5.2, cuts Fable's price, and reports that the models more often suspect they are being tested]]
 - `2026-11-09` [[2026-11-09-anthropic-presses-ahead-with-its-ipo-roadshow-as-openai-clos|Anthropic presses ahead with its IPO roadshow as OpenAI closes $11 billion at a reduced target]]
 - `2026-11-08` [[2026-11-08-november-9-2026-the-information|[November 9, 2026] · [The Information]]]
 - `2026-11-08` [[2026-11-08-introducing-arete-27b-qwen3-8-27b-post-trained-to-reinforce|Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values]]

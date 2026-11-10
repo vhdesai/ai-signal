@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
 - 2026-11-08-nvidia-s-board-opens-an-independent-investigation-after-repo
 - 2026-11-08-november-9-2026-wall-street-journal-wsj-politics
-- 2026-11-08-nvidia-s-board-opens-an-independent-probe-and-key-person-ris
+- 2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f
 embedding_id: 2026-11-07-us-intelligence-memo-reportedly-says-china-recruited-a-tech
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Citing The New York Times and the Financial Times, TechCrunch reports that a mem
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-11-08-nvidia-s-board-opens-an-independent-investigation-after-repo]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-11-08-nvidia-s-board-opens-an-independent-probe-and-key-person-ris]]
+**Related:** [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-11-08-nvidia-s-board-opens-an-independent-investigation-after-repo]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f]]
 <!-- graph:end -->

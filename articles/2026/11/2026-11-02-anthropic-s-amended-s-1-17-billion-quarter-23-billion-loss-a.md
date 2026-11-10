@@ -29,6 +29,7 @@ related_article_ids:
 - 2026-11-02-november-3-2026-dealbook
 - 2026-11-02-anthropic-s-q3-revenue-reaches-nearly-17-billion-as-growth-s
 - 2026-11-02-anthropic-discloses-rapid-growth-and-substantial-compute-com
+- 2026-11-10-november-10-2026-dealbook
 embedding_id: 2026-11-02-anthropic-s-amended-s-1-17-billion-quarter-23-billion-loss-a
 event_name: ''
 ---
@@ -42,5 +43,5 @@ Anthropic's updated prospectus shows nearly $17 billion in third-quarter revenue
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-02-november-3-2026-dealbook]] · [[2026-11-02-anthropic-s-q3-revenue-reaches-nearly-17-billion-as-growth-s]] · [[2026-11-02-anthropic-discloses-rapid-growth-and-substantial-compute-com]]
+**Related:** [[2026-11-02-november-3-2026-dealbook]] · [[2026-11-02-anthropic-s-q3-revenue-reaches-nearly-17-billion-as-growth-s]] · [[2026-11-02-anthropic-discloses-rapid-growth-and-substantial-compute-com]] · [[2026-11-10-november-10-2026-dealbook]]
 <!-- graph:end -->

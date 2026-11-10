@@ -6,8 +6,8 @@ date: '2026-11-09'
 source: Reuters; November 9, 2026 · Business Insider; November 9, 2026 · DealBook;
   November 9, 2026 · Semafor; November 8, 2026 · AP (via The Boston Globe)*
 url_original: https://www.reuters.com/world/trump-says-ai-risks-can-be-managed-signals-openness-guardrails-2026-11-09/
-url_canonical: https://emergent.sh/news/trump-says-ai-risks-manageable-open
-url_status: repaired
+url_canonical: https://www.reuters.com/world/trump-says-ai-risks-can-be-managed-signals-openness-guardrails-2026-11-09/
+url_status: broken
 digest_source: digests\raw\2026-11-09_084847_Final-Daily-AI-News-Digest.md
 content_hash: 91866e1d7a0b3805b2359b0d515e8e0b06d026454a4d309e6e1369e258019db0
 normalized_title_hash: 4b95897c107c51ee

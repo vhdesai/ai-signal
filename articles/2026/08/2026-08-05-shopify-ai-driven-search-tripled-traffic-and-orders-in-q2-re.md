@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl
 - 2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr
 - 2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho
-- 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
+- 2026-11-10-google-faces-ai-s-impact-on-its-search-advertising-business
 embedding_id: 2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re
 event_name: ''
 ---
@@ -38,5 +38,5 @@ On Shopify's Q2 earnings call, President Harley Finkelstein reported that AI-dri
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]] · [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]] · [[2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr]] · [[2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]]
+**Related:** [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]] · [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]] · [[2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr]] · [[2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho]] · [[2026-11-10-google-faces-ai-s-impact-on-its-search-advertising-business]]
 <!-- graph:end -->

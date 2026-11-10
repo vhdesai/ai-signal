@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before
 - 2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun
+- 2026-11-10-anthropic-reportedly-targets-a-1-3-trillion-ipo-valuation
 - 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
-- 2026-11-01-november-1-2026-pitchbook
 embedding_id: 2026-10-19-anthropic-public-benefit-pledge-draws-market-debate
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic's plan to commit 5% of shares to a public benefit fund continued drawi
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before]] · [[2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]] · [[2026-11-01-november-1-2026-pitchbook]]
+**Related:** [[2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before]] · [[2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun]] · [[2026-11-10-anthropic-reportedly-targets-a-1-3-trillion-ipo-valuation]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]]
 <!-- graph:end -->

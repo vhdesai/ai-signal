@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 - 2026-09-23-studentbench-finds-ai-and-human-tutoring-produce-equivalent
-- 2026-09-24-studentbench-ai-tutoring-matches-human-tutoring-on-gre-learn
+- 2026-11-10-november-9-2026-education-week
 embedding_id: 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Lihi Idan and Bharat Anand (Harvard) examine how generative AI's productivity ef
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]] · [[2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-09-23-studentbench-finds-ai-and-human-tutoring-produce-equivalent]] · [[2026-09-24-studentbench-ai-tutoring-matches-human-tutoring-on-gre-learn]]
+**Related:** [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]] · [[2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-09-23-studentbench-finds-ai-and-human-tutoring-produce-equivalent]] · [[2026-11-10-november-9-2026-education-week]]
 <!-- graph:end -->

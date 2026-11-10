@@ -4,8 +4,8 @@ title: Recent advances in AI are creating a ‘paradigm shift’ for robotics
 date: '2026-11-09'
 source: Berkeley News
 url_original: null
-url_canonical: https://news.berkeley.edu/2026/11/09/recent-advances-in-ai-are-creating-a-paradigm-shift-for-robotics/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_061807_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 092b7fbee1752e7e172c9ede04ca69cb0bf0f8fbb0ae96bf3b1e75efa71eefaf
@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-09-berkeley-s-graph-as-policy-connects-reusable-robot-skills
 - 2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha
 - 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 embedding_id: 2026-11-09-recent-advances-in-ai-are-creating-a-paradigm-shift-for-robo
@@ -35,5 +36,5 @@ UC Berkeley roboticist Ken Goldberg, NVIDIA’s Spencer Huang and collaborators 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]]
+**Related:** [[2026-11-09-berkeley-s-graph-as-policy-connects-reusable-robot-skills]] · [[2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]]
 <!-- graph:end -->

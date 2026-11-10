@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen
 - 2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u
 - 2026-09-13-two-year-law-school-study-banning-ai-in-the-classroom-leaves
-- 2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g
+- 2026-11-09-stanford-s-ai100-report-calls-the-last-five-years-a-scaling
 embedding_id: 2026-09-14-oecd-links-heavy-ai-use-in-schoolwork-to-sharp-learning-decl
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The OECD reported that AI use for schoolwork is associated with students falling
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-14-oecd-pisa-2025-students-using-ai-for-specific-schoolwork-tas]] · [[2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen]] · [[2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u]] · [[2026-09-13-two-year-law-school-study-banning-ai-in-the-classroom-leaves]] · [[2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g]]
+**Related:** [[2026-09-14-oecd-pisa-2025-students-using-ai-for-specific-schoolwork-tas]] · [[2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen]] · [[2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u]] · [[2026-09-13-two-year-law-school-study-banning-ai-in-the-classroom-leaves]] · [[2026-11-09-stanford-s-ai100-report-calls-the-last-five-years-a-scaling]]
 <!-- graph:end -->

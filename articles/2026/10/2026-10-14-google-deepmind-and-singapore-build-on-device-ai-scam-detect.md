@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-14-deepmind-and-singapore-develop-local-scam-detection
 - 2026-10-06-google-expands-gemma-into-multimodal-on-device-retrieval
+- 2026-11-10-deepmind-brings-machine-checked-proofs-to-a-signal-protocol
 - 2026-09-23-google-introduces-server-side-memory-to-private-ai-compute
-- 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
 embedding_id: 2026-10-14-google-deepmind-and-singapore-build-on-device-ai-scam-detect
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind and GovTech Singapore announced a fine-tuned, lightweight Gemma-
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection]] · [[2026-10-06-google-expands-gemma-into-multimodal-on-device-retrieval]] · [[2026-09-23-google-introduces-server-side-memory-to-private-ai-compute]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]]
+**Related:** [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection]] · [[2026-10-06-google-expands-gemma-into-multimodal-on-device-retrieval]] · [[2026-11-10-deepmind-brings-machine-checked-proofs-to-a-signal-protocol]] · [[2026-09-23-google-introduces-server-side-memory-to-private-ai-compute]]
 <!-- graph:end -->

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n
 - 2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back
 - 2026-11-06-november-6-2026-wall-street-journal
-- 2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou
+- 2026-11-10-november-10-2026-wall-street-journal-3
 embedding_id: 2026-11-07-lender-moves-to-sell-half-a-billion-dollars-of-data-center-l
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The Information's weekend column reports that a Dutch bank is trying to quickly 
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-11-06-november-6-2026-wall-street-journal]] · [[2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou]]
+**Related:** [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-11-06-november-6-2026-wall-street-journal]] · [[2026-11-10-november-10-2026-wall-street-journal-3]]
 <!-- graph:end -->

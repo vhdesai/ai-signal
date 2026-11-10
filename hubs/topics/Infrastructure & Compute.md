@@ -1,13 +1,18 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2399
+member_count: 2407
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2399 connected article(s).
+> Auto-generated topic hub. 2407 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-9-2026-wired|[November 9, 2026] · [WIRED]]]
+- `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-softbank-losses-expose-ai-infrastructure-procurement-risk|SoftBank losses expose AI infrastructure procurement risk]]
+- `2026-11-10` [[2026-11-10-bilt-selects-cerebras-inference-for-its-consumer-ai-services|Bilt selects Cerebras inference for its consumer AI services]]
 - `2026-11-09` [[2026-11-09-single-ai-model-simulates-the-behavior-of-many-substances-fr|single AI model simulates the behavior of many substances, from sliding sand to folding proteins]]
 - `2026-11-09` [[2026-11-09-november-9-2026-semafor|[November 9, 2026] · [Semafor]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-google-blog|[November 9, 2026] · [Google Blog]]]
@@ -21,6 +26,9 @@ member_count: 2399
 - `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu|Google adds TPU 8tx and TPU 8i Max as Nvidia opens NVLink Fusion to Korean inference chips]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
 - `2026-11-09` [[2026-11-09-exclusive-covert-russian-network-exploited-french-riots-on-s|EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says]]
+- `2026-11-09` [[2026-11-09-data-center-supply-chains-reshape-fervo-s-geothermal-backlog|Data-center supply chains reshape: Fervo's geothermal backlog nears $12 billion as Microsoft fights a Chinese optics ban]]
+- `2026-11-09` [[2026-11-09-baidu-s-ernie-evolve-runs-its-own-experiments-and-speeds-up|Baidu's ERNIE Evolve runs its own experiments and speeds up production inference]]
+- `2026-11-09` [[2026-11-09-apple-adds-prepaid-usage-packs-for-selected-intelligence-fea|Apple adds prepaid usage packs for selected intelligence features]]
 - `2026-11-09` [[2026-11-09-ai-assisted-learning-platform-helps-robots-reason-beyond-lit|AI-assisted learning platform helps robots reason beyond literal commands]]
 - `2026-11-09` [[2026-11-09-ai-power-rush-sends-data-centres-hunting-for-used-turbines-a|AI power rush sends data centres hunting for used turbines and jet engines]]
 - `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go
+- 2026-11-10-november-9-2026-prime-minister-of-canada
 - 2026-09-23-september-24-2026
+- 2026-11-09-australia-creates-an-ai-regulator-after-an-openai-agent-brea
 - 2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por
-- 2026-08-11-autonomous-agents-shown-pursuing-goals-through-deception-and
-- 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 embedding_id: 2026-07-07-australia-warns-models-are-going-their-own-way-as-its-ai-saf
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Australia's assistant technology minister, Andrew Charlton, warned that AI syste
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go]] · [[2026-09-23-september-24-2026]] · [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por]] · [[2026-08-11-autonomous-agents-shown-pursuing-goals-through-deception-and]] · [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]]
+**Related:** [[2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go]] · [[2026-11-10-november-9-2026-prime-minister-of-canada]] · [[2026-09-23-september-24-2026]] · [[2026-11-09-australia-creates-an-ai-regulator-after-an-openai-agent-brea]] · [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por]]
 <!-- graph:end -->

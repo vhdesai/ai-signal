@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-08-nvidia-s-board-opens-an-independent-probe-and-key-person-ris
 - 2026-11-09-november-9-2026-dealbook
+- 2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f
 - 2026-11-08-nvidia-s-board-opens-an-independent-investigation-after-repo
-- 2026-11-08-nvidia-opens-an-independent-board-review-into-reported-forei
 embedding_id: 2026-11-08-november-9-2026-wall-street-journal-wsj-politics
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Nvidia said independent directors and outside counsel will investigate reports t
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-08-nvidia-s-board-opens-an-independent-probe-and-key-person-ris]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-08-nvidia-s-board-opens-an-independent-investigation-after-repo]] · [[2026-11-08-nvidia-opens-an-independent-board-review-into-reported-forei]]
+**Related:** [[2026-11-08-nvidia-s-board-opens-an-independent-probe-and-key-person-ris]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f]] · [[2026-11-08-nvidia-s-board-opens-an-independent-investigation-after-repo]]
 <!-- graph:end -->

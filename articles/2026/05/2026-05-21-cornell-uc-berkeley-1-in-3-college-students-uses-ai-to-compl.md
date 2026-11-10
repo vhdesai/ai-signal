@@ -43,9 +43,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
+- 2026-11-10-november-9-2026-education-week
 - 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
-- 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 embedding_id: 2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl
 event_name: ''
 ---
@@ -59,5 +59,5 @@ A study published in Science, analyzing 95,000+ students at 20 U.S. public resea
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]]
+**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-11-10-november-9-2026-education-week]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]]
 <!-- graph:end -->

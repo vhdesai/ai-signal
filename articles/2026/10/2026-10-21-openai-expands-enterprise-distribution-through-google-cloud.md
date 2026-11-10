@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-21-openai-models-are-coming-to-google-cloud-marketplace
+- 2026-11-10-november-10-2026-openai
+- 2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft
 - 2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat
-- 2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black
-- 2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo
 embedding_id: 2026-10-21-openai-expands-enterprise-distribution-through-google-cloud
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI announced that its models are coming to Google Cloud pathways including M
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-21-openai-models-are-coming-to-google-cloud-marketplace]] · [[2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat]] · [[2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black]] · [[2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo]]
+**Related:** [[2026-10-21-openai-models-are-coming-to-google-cloud-marketplace]] · [[2026-11-10-november-10-2026-openai]] · [[2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft]] · [[2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat]]
 <!-- graph:end -->

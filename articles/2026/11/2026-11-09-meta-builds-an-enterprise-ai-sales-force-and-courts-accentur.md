@@ -5,8 +5,8 @@ title: Meta builds an enterprise AI sales force and courts Accenture, Deloitte a
 date: '2026-11-09'
 source: The Information
 url_original: null
-url_canonical: https://explainx.ai/blog/meta-enterprise-ai-ibm-accenture-sales-team-information-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_084913_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 7fccc22fb395c0b84df3e00d3ead9749426e867279beef7acaddf08abc4b457e

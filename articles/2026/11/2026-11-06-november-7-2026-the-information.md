@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-07-november-8-2026-financial-times-via-yahoo-finance
+- 2026-11-09-anthropic-buys-3-4-billion-of-gas-turbines-as-power-becomes
 - 2026-11-08-november-8-2026-financial-times-via-yahoo-finance
 - 2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude
 embedding_id: 2026-11-06-november-7-2026-the-information
@@ -39,5 +40,5 @@ The Financial Times reports Anthropic secured 1.7 GW of heavy-duty gas-fired gen
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-07-november-8-2026-financial-times-via-yahoo-finance]] · [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance]] · [[2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude]]
+**Related:** [[2026-11-07-november-8-2026-financial-times-via-yahoo-finance]] · [[2026-11-09-anthropic-buys-3-4-billion-of-gas-turbines-as-power-becomes]] · [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance]] · [[2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude]]
 <!-- graph:end -->

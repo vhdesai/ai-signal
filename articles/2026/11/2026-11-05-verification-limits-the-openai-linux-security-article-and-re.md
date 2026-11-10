@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per
 - 2026-10-31-verification-and-exclusions-included-articles-were-read-in-f
 - 2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber
+- 2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter
 - 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
-- 2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro
 embedding_id: 2026-11-05-verification-limits-the-openai-linux-security-article-and-re
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Verification limits: the OpenAI Linux-security article and Reuters’ Microsoft�
 ## Connections
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Related:** [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per]] · [[2026-10-31-verification-and-exclusions-included-articles-were-read-in-f]] · [[2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro]]
+**Related:** [[2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per]] · [[2026-10-31-verification-and-exclusions-included-articles-were-read-in-f]] · [[2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber]] · [[2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]]
 <!-- graph:end -->

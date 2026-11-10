@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 - 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
-- 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
+- 2026-11-10-november-9-2026-education-week
 embedding_id: 2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin
 event_name: ''
 ---
@@ -40,5 +40,5 @@ MIT Technology Review published an in-depth feature examining the emerging class
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]] · [[2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr]]
+**Related:** [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]] · [[2026-11-10-november-9-2026-education-week]]
 <!-- graph:end -->

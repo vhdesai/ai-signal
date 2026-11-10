@@ -1,29 +1,61 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3765
+member_count: 3797
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3765 connected article(s).
+> Auto-generated topic hub. 3797 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-9-2026-wired|[November 9, 2026] · [WIRED]]]
+- `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-softbank-losses-expose-ai-infrastructure-procurement-risk|SoftBank losses expose AI infrastructure procurement risk]]
+- `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-mit-led-plow-project-receives-up-to-53-million-for-ai-design|MIT-led PLOW project receives up to $53 million for AI-designed herbicide alternatives]]
+- `2026-11-10` [[2026-11-10-google-deepmind-s-alphaproof-code-mathematically-proves-the|Google DeepMind's AlphaProof Code mathematically proves the security of Signal's encryption code]]
+- `2026-11-10` [[2026-11-10-google-cloud-previews-gemini-for-healthcare-an-agent-that-co|Google Cloud previews Gemini for healthcare, an agent that coordinates work across health records, claims, and payer systems]]
+- `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
+- `2026-11-10` [[2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da|Fireworks breach exposed some customers' model weights and datasets, and Hugging Face warns open AI platforms may tighten access]]
+- `2026-11-10` [[2026-11-10-deepmind-brings-machine-checked-proofs-to-a-signal-protocol|DeepMind brings machine-checked proofs to a Signal protocol implementation]]
+- `2026-11-10` [[2026-11-10-adobe-launches-an-mcp-server-so-chatgpt-claude-and-gemini-ca|Adobe launches an MCP server so ChatGPT, Claude, and Gemini can use Creative Cloud features]]
 - `2026-11-09` [[2026-11-09-november-9-2026-reuters-2|[November 9, 2026] · [Reuters]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-marktechpost|[November 9, 2026] · [MarkTechPost]]]
+- `2026-11-09` [[2026-11-09-november-10-2026-techcrunch|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-trump-says-he-doesn-t-mind-guardrails-as-anthropic-backed-sa|Trump says he doesn't mind guardrails as Anthropic-backed safety groups map a post-midterm agenda]]
+- `2026-11-09` [[2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter|OpenAI describes inference-layer controls for stopping internal research]]
 - `2026-11-09` [[2026-11-09-november-9-2026-nvidia-blog|November 9, 2026 · NVIDIA Blog]]
 - `2026-11-09` [[2026-11-09-november-9-2026-mit-news|November 9, 2026 · MIT News]]
+- `2026-11-09` [[2026-11-09-nvidia-reports-few-demonstration-robotics-results-with-gr00t|NVIDIA reports few-demonstration robotics results with GR00T 2]]
 - `2026-11-09` [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re|NVIDIA opens GR00T 2 as robot-data suppliers race to stay relevant]]
 - `2026-11-09` [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up|NVIDIA opens GR00T 2 as robot-data suppliers race to move up the stack]]
+- `2026-11-09` [[2026-11-09-meta-s-muse-ember-pushes-agent-execution-pricing-to-0-10-per|Meta's Muse Ember pushes agent-execution pricing to $0.10 per million input tokens]]
+- `2026-11-09` [[2026-11-09-meta-targets-repetitive-agent-work-with-lightweight-muse-emb|Meta targets repetitive agent work with lightweight Muse Ember]]
+- `2026-11-09` [[2026-11-09-meta-releases-muse-ember-a-low-cost-hosted-model-for-repetit|Meta releases Muse Ember, a low-cost hosted model for repetitive agent tasks]]
+- `2026-11-09` [[2026-11-09-meta-launches-muse-ember-a-0-10-per-million-token-multimodal|Meta launches Muse Ember, a $0.10-per-million-token multimodal model for high-volume agent work]]
+- `2026-11-09` [[2026-11-09-meta-introduces-muse-ember-for-lower-cost-agent-execution|Meta introduces Muse Ember for lower-cost agent execution]]
 - `2026-11-09` [[2026-11-09-meta-expands-ai-age-estimation-worldwide-as-washington-press|Meta expands AI age estimation worldwide as Washington presses Google on AI in schools]]
 - `2026-11-09` [[2026-11-09-mit-s-worldparticle-points-toward-a-general-purpose-learned|MIT's WorldParticle points toward a general-purpose learned simulator]]
 - `2026-11-09` [[2026-11-09-mit-s-worldparticle-explores-a-unified-architecture-for-phys|MIT's WorldParticle explores a unified architecture for physical simulation]]
 - `2026-11-09` [[2026-11-09-mit-and-nyu-use-language-feedback-to-improve-robot-motion-pl|MIT and NYU use language feedback to improve robot motion planning]]
 - `2026-11-09` [[2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins|MIT and Berkeley push robots and simulators past literal instructions and hand-coded physics]]
+- `2026-11-09` [[2026-11-09-fervo-s-contracted-revenue-rises-to-11-9-billion-as-hypersca|Fervo's contracted revenue rises to $11.9 billion as hyperscalers seek steady power]]
+- `2026-11-09` [[2026-11-09-daily-ai-news-digest-november-10-2026|Daily AI News Digest – November 10, 2026]]
 - `2026-11-09` [[2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha|CoRL research pushes robots past literal instructions and hand-engineering]]
+- `2026-11-09` [[2026-11-09-chatgpt-enterprise-is-now-sold-through-aws-marketplace-as-aw|ChatGPT Enterprise is now sold through AWS Marketplace, as AWS markets its own Quick agent workspace]]
+- `2026-11-09` [[2026-11-09-berkeley-s-graph-as-policy-connects-reusable-robot-skills|Berkeley’s Graph-as-Policy connects reusable robot skills]]
+- `2026-11-09` [[2026-11-09-baidu-s-ernie-evolve-runs-its-own-experiments-and-speeds-up|Baidu's ERNIE Evolve runs its own experiments and speeds up production inference]]
+- `2026-11-09` [[2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an|Baidu's ERNIE Evolve agents beat public benchmark records and speed up its production models]]
 - `2026-11-09` [[2026-11-09-baidu-introduces-ernie-evolve-for-automated-research|Baidu introduces ERNIE Evolve for automated research]]
+- `2026-11-09` [[2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price|Anthropic ships Claude Fable 5.2 and Mythos 5.2 with a price cut and a warning about evaluation awareness]]
+- `2026-11-09` [[2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cutting-f|Anthropic releases Claude Mythos 5.2 and Fable 5.2, cutting Fable input price to $8 per million tokens]]
+- `2026-11-09` [[2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cuts-fabl|Anthropic releases Claude Mythos 5.2 and Fable 5.2, cuts Fable's price, and reports that the models more often suspect they are being tested]]
+- `2026-11-09` [[2026-11-09-anthropic-positions-fable-5-2-and-mythos-5-2-for-specialist|Anthropic positions Fable 5.2 and Mythos 5.2 for specialist workloads]]
+- `2026-11-09` [[2026-11-09-anthropic-launches-fable-5-2-and-restricts-mythos-5-2-to-vet|Anthropic launches Fable 5.2 and restricts Mythos 5.2 to vetted organizations]]
 - `2026-11-09` [[2026-11-09-amazon-s-hope-prunes-half-of-a-mixture-of-experts-model-with|Amazon's HOPE prunes half of a mixture-of-experts model without retraining]]
 - `2026-11-09` [[2026-11-09-ai-accelerated-math-puts-encryption-on-the-clock-as-ai-misus|AI-accelerated math puts encryption on the clock as AI misuse drives new breaches]]
 - `2026-11-08` [[2026-11-08-november-8-2026-marktechpost|[November 8, 2026] · [MarkTechPost]]]

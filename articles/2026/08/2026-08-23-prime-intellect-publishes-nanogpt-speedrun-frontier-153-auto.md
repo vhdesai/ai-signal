@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-05-prime-intellect-s-open-source-prime-agent-scores-95-5-on-arc
 - 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
 - 2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g
-- 2026-08-06-prime-intellect-open-sources-prime-agent-an-rsi-harness-scor
+- 2026-11-09-baidu-s-ernie-evolve-runs-its-own-experiments-and-speeds-up
 embedding_id: 2026-08-23-prime-intellect-publishes-nanogpt-speedrun-frontier-153-auto
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Prime Intellect released an open experiment measuring how far frontier models ge
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-prime-intellect-s-open-source-prime-agent-scores-95-5-on-arc]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]] · [[2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g]] · [[2026-08-06-prime-intellect-open-sources-prime-agent-an-rsi-harness-scor]]
+**Related:** [[2026-08-05-prime-intellect-s-open-source-prime-agent-scores-95-5-on-arc]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]] · [[2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g]] · [[2026-11-09-baidu-s-ernie-evolve-runs-its-own-experiments-and-speeds-up]]
 <!-- graph:end -->

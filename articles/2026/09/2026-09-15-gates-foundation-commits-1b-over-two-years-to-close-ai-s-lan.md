@@ -27,6 +27,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par
+- 2026-11-10-november-9-2026-education-week
 - 2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 - 2026-08-16-vc-semiconductor-funding-hits-14-1b-in-h1-2026-on-track-to-s
@@ -43,5 +44,5 @@ The Gates Foundation committed at least $1B over two years to expand AI access i
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par]] · [[2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-08-16-vc-semiconductor-funding-hits-14-1b-in-h1-2026-on-track-to-s]]
+**Related:** [[2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par]] · [[2026-11-10-november-9-2026-education-week]] · [[2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-08-16-vc-semiconductor-funding-hits-14-1b-in-h1-2026-on-track-to-s]]
 <!-- graph:end -->

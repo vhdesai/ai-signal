@@ -22,6 +22,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko
 - 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
 - 2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet
 - 2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh
@@ -37,5 +38,5 @@ The Financial Times reports that China's National Development and Reform Commiss
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
-**Related:** [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]] · [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]] · [[2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh]]
+**Related:** [[2026-11-05-china-tightens-the-hardware-chokehold-h200s-stall-in-hong-ko]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]] · [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]] · [[2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh]]
 <!-- graph:end -->

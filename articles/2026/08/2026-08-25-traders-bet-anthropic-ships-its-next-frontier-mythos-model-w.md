@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-02-trending-anthropic-s-triple-release-read-as-a-2-trillion-ipo
+- 2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points
 - 2026-09-18-exclusive-anthropic-weighs-a-new-model-release-before-the-ip
@@ -37,5 +38,5 @@ Polymarket traders sharply raised the odds — to roughly 81% by September 15 �
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-02-trending-anthropic-s-triple-release-read-as-a-2-trillion-ipo]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points]] · [[2026-09-18-exclusive-anthropic-weighs-a-new-model-release-before-the-ip]]
+**Related:** [[2026-09-02-trending-anthropic-s-triple-release-read-as-a-2-trillion-ipo]] · [[2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points]] · [[2026-09-18-exclusive-anthropic-weighs-a-new-model-release-before-the-ip]]
 <!-- graph:end -->

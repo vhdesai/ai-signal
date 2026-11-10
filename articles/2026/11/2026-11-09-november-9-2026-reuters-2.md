@@ -4,8 +4,8 @@ title: '[November 9, 2026] · [Reuters]'
 date: '2026-11-09'
 source: '[Semafor]'
 url_original: null
-url_canonical: https://www.semafor.com/article/10/01/2026/us-midterms-race-on-a-knifes-edge
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_070620_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 536b9962f02333471d988f4002d7917656bc52c5ff3e3432464fcb0c2d26b835

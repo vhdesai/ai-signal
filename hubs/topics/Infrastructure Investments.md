@@ -1,23 +1,40 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1948
+member_count: 1965
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1948 connected article(s).
+> Auto-generated topic hub. 1965 connected article(s).
 
+- `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-wall-street-journal-3|[November 10, 2026] · [Wall Street Journal]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-openai|[November 10, 2026] · [OpenAI]]]
+- `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
+- `2026-11-10` [[2026-11-10-the-financing-squeeze-shows-up-in-results-softbank-s-7-billi|The financing squeeze shows up in results: SoftBank's $7 billion loss and CoreWeave debt near 15%]]
+- `2026-11-10` [[2026-11-10-softbank-losses-expose-ai-infrastructure-procurement-risk|SoftBank losses expose AI infrastructure procurement risk]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu|Anthropic sets an IPO price range of $70 to $78 per share, valuing the company at up to $1.404 trillion]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri|Anthropic sets a $70–$78 IPO range, valuing it at up to $1.4 trillion with a $26 billion strategic side deal]]
+- `2026-11-10` [[2026-11-10-anthropic-sets-ipo-range-at-70-78-implying-up-to-1-404-trill|Anthropic sets IPO range at $70–$78, implying up to $1.404 trillion valuation]]
+- `2026-11-10` [[2026-11-10-adobe-launches-an-mcp-server-so-chatgpt-claude-and-gemini-ca|Adobe launches an MCP server so ChatGPT, Claude, and Gemini can use Creative Cloud features]]
 - `2026-11-09` [[2026-11-09-november-9-2026-the-straits-times-reuters|[November 9, 2026] · [The Straits Times (Reuters)]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-semafor|[November 9, 2026] · [Semafor]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-google-blog|[November 9, 2026] · [Google Blog]]]
+- `2026-11-09` [[2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls|Spy scandal revives push for tighter Nvidia export controls]]
+- `2026-11-09` [[2026-11-09-softbank-s-7-billion-quarterly-loss-highlights-infrastructur|SoftBank’s $7 billion quarterly loss highlights infrastructure financing exposure]]
 - `2026-11-09` [[2026-11-09-nvidia-rebellions-and-sk-telecom-partner-on-sovereign-ai-inf|Nvidia, Rebellions, and SK Telecom partner on sovereign AI infrastructure]]
 - `2026-11-09` [[2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors|Nvidia shares fall about 5% before Monday's open as investors weigh key-person risk]]
 - `2026-11-09` [[2026-11-09-nvidia-lets-korean-chips-plug-into-its-rack-systems-and-plan|Nvidia lets Korean chips plug into its rack systems and plans investments in four Korean startups]]
 - `2026-11-09` [[2026-11-09-november-9-2026-dealbook-2|November 9, 2026 · DealBook]]
 - `2026-11-09` [[2026-11-09-meta-is-building-an-enterprise-ai-sales-team-and-recruiting|Meta is building an enterprise AI sales team and recruiting consulting partners]]
 - `2026-11-09` [[2026-11-09-google-adds-tpu-8tx-and-tpu-8i-max-as-nvidia-opens-nvlink-fu|Google adds TPU 8tx and TPU 8i Max as Nvidia opens NVLink Fusion to Korean inference chips]]
+- `2026-11-09` [[2026-11-09-fervo-s-contracted-revenue-rises-to-11-9-billion-as-hypersca|Fervo's contracted revenue rises to $11.9 billion as hyperscalers seek steady power]]
+- `2026-11-09` [[2026-11-09-enterprise-agents-move-into-existing-channels-ibm-microsoft|Enterprise agents move into existing channels: IBM-Microsoft Imagine Enterprise, ChatGPT on AWS Marketplace and Gemini for healthcare]]
+- `2026-11-09` [[2026-11-09-data-center-supply-chains-reshape-fervo-s-geothermal-backlog|Data-center supply chains reshape: Fervo's geothermal backlog nears $12 billion as Microsoft fights a Chinese optics ban]]
+- `2026-11-09` [[2026-11-09-anthropic-buys-3-4-billion-of-gas-turbines-as-power-becomes|Anthropic buys $3.4 billion of gas turbines as power becomes the AI bottleneck]]
 - `2026-11-09` [[2026-11-09-ai-power-rush-sends-data-centres-hunting-for-used-turbines-a|AI power rush sends data centres hunting for used turbines and jet engines]]
+- `2026-11-09` [[2026-11-09-ai-infrastructure-becomes-a-target-fireworks-breach-exposes|AI infrastructure becomes a target: Fireworks breach exposes model weights as export-control and insider risks rise]]
 - `2026-11-08` [[2026-11-08-november-7-2026-techcrunch|[November 7, 2026] · [TechCrunch]]]
 - `2026-11-08` [[2026-11-08-power-and-memory-bottlenecks-bite-used-turbines-a-norwegian|Power and memory bottlenecks bite: used turbines, a Norwegian grid freeze and TSMC eyeing memory]]
 - `2026-11-08` [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance|November 8, 2026 · Financial Times (via Yahoo Finance)]]

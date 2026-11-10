@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness
 - 2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use
+- 2026-11-09-stanford-s-ai100-report-calls-the-last-five-years-a-scaling
 - 2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
-- 2026-08-03-this-study-is-important-because-it-examines-real-world-usage
 embedding_id: 2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine
 event_name: ''
 ---
@@ -38,5 +38,5 @@ IBM published Morning Consult research covering more than 2,000 educators and pa
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness]] · [[2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use]] · [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-08-03-this-study-is-important-because-it-examines-real-world-usage]]
+**Related:** [[2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness]] · [[2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use]] · [[2026-11-09-stanford-s-ai100-report-calls-the-last-five-years-a-scaling]] · [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]]
 <!-- graph:end -->

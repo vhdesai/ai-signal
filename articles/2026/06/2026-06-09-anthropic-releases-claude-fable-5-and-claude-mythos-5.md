@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t
 - 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a
+- 2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price
 - 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
 - 2026-09-02-anthropic-ships-fable-5-1-and-mythos-5-1-with-tiered-access
-- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75
 embedding_id: 2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic released Claude Fable 5 — a Mythos-class model for all users — alo
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]]
-**Related:** [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]] · [[2026-09-02-anthropic-ships-fable-5-1-and-mythos-5-1-with-tiered-access]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75]]
+**Related:** [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a]] · [[2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]] · [[2026-09-02-anthropic-ships-fable-5-1-and-mythos-5-1-with-tiered-access]]
 <!-- graph:end -->

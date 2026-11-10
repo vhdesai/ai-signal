@@ -6,7 +6,7 @@ date: '2026-11-02'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/
 url_canonical: https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-02_061330_Inbox_Daily AI News Digest - November
   2, 2026.md
 content_hash: 4bf4cf4ff15439d172a99ffb5548e32e89603c1692b44edb64523a5b8f330206

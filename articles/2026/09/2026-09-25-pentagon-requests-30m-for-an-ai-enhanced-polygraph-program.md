@@ -20,8 +20,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector
+- 2026-11-10-november-9-2026-education-week
 - 2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation
-- 2026-07-11-of-the-pentagon-s-1-5-trillion-budget-request-for-next-year
 embedding_id: 2026-09-25-pentagon-requests-30m-for-an-ai-enhanced-polygraph-program
 event_name: ''
 ---
@@ -34,5 +34,5 @@ A Department of Defense budget request seeks $30.3M over five years for "Polygra
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector]] · [[2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation]] · [[2026-07-11-of-the-pentagon-s-1-5-trillion-budget-request-for-next-year]]
+**Related:** [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector]] · [[2026-11-10-november-9-2026-education-week]] · [[2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation]]
 <!-- graph:end -->

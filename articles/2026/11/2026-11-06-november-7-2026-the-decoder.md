@@ -5,7 +5,7 @@ date: '2026-11-06'
 source: '[Anthropic]'
 url_original: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/
 url_canonical: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-07_065733_Final-Daily-AI-News-Digest.md
 content_hash: d59f428aa7566a75667986be8c1364037c461020bfe35189a73ff9e358164f9b
 normalized_title_hash: e7ec999c9b993c2e

@@ -1,15 +1,16 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 249
+member_count: 250
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 249 connected article(s).
+> Auto-generated entity hub. 250 connected article(s).
 
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
+- `2026-11-09` [[2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an|Baidu's ERNIE Evolve agents beat public benchmark records and speed up its production models]]
 - `2026-11-08` [[2026-11-08-november-7-2026-the-decoder|[November 7, 2026] · [The Decoder]]]
 - `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]
 - `2026-11-06` [[2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google|Crusoe sells troubled Wyoming data center project to Google]]

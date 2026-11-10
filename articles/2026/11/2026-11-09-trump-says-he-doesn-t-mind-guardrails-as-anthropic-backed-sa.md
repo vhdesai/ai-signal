@@ -5,8 +5,8 @@ title: Trump says he doesn't mind guardrails as Anthropic-backed safety groups m
 date: '2026-11-09'
 source: Reuters, Business Insider, Semafor
 url_original: null
-url_canonical: https://www.semafor.com/article/11/09/2026/ai-safety-groups-outline-their-plans-for-a-new-washington
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_065827_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 18aeac8785a5bec7f835a8c6ead6e463006469f8fceef44a35552ebfe69a3c6f

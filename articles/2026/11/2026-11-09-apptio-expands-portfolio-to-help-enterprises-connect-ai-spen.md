@@ -5,8 +5,8 @@ title: Apptio Expands Portfolio to Help Enterprises Connect AI Spending to Busin
 date: '2026-11-09'
 source: IBM Newsroom
 url_original: null
-url_canonical: https://newsroom.ibm.com/2026-11-09-apptio-expands-portfolio-to-help-enterprises-connect-ai-spending-to-business-value
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-09_061807_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 41043059c0039d12f6d09f0bc52b2b64404c108909c1a509bedc3bad13879a46

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
-- 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
+- 2026-11-10-november-9-2026-education-week
 embedding_id: 2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NTNU PhD fellow Hilde Storrøsæter and Czech collaborators systematically revie
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking]]
+**Related:** [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-11-10-november-9-2026-education-week]]
 <!-- graph:end -->
