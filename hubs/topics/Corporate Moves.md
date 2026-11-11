@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5320
+member_count: 5338
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5320 connected article(s).
+> Auto-generated topic hub. 5338 connected article(s).
 
+- `2026-11-11` [[2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi|Venture capital follows the agent stack: Mercor reaches $20 billion as security and agent oversight draw new rounds]]
+- `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
+- `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
@@ -16,20 +19,35 @@ member_count: 5320
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook-2|[November 10, 2026] · [DealBook]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
 - `2026-11-10` [[2026-11-10-the-financing-squeeze-shows-up-in-results-softbank-s-7-billi|The financing squeeze shows up in results: SoftBank's $7 billion loss and CoreWeave debt near 15%]]
+- `2026-11-10` [[2026-11-10-openai-s-revenue-rebounds-50-to-about-10-billion-as-losses-d|OpenAI's revenue rebounds 50% to about $10 billion as losses deepen ahead of a $1.25 trillion raise]]
+- `2026-11-10` [[2026-11-10-openai-turns-chatgpt-into-a-business-channel-and-buys-travel|OpenAI turns ChatGPT into a business channel and buys travel agent Odessia]]
+- `2026-11-10` [[2026-11-10-openai-opens-a-business-discovery-and-agent-channel-inside-c|OpenAI opens a business-discovery and agent channel inside ChatGPT]]
+- `2026-11-10` [[2026-11-10-nvidia-s-selloff-highlights-governance-and-concentration-ris|Nvidia's selloff highlights governance and concentration risks]]
+- `2026-11-10` [[2026-11-10-nvidia-s-nemotron-wins-cost-driven-defections-as-enterprises|Nvidia's Nemotron wins cost-driven defections as enterprises begin rationing tokens]]
+- `2026-11-10` [[2026-11-10-microsoft-research-shows-agent-backdoors-can-be-planted-by-r|Microsoft Research shows agent backdoors can be planted by rewiring fewer than ten dormant neurons]]
+- `2026-11-10` [[2026-11-10-meta-brings-its-muse-assistant-to-apple-watch-and-wear-os|Meta brings its Muse assistant to Apple Watch and Wear OS]]
 - `2026-11-10` [[2026-11-10-mit-led-team-wins-up-to-53-million-from-arpa-h-to-design-her|MIT-led team wins up to $53 million from ARPA-H to design herbicides with generative AI]]
 - `2026-11-10` [[2026-11-10-mit-leads-up-to-53m-arpa-h-effort-to-design-safer-herbicides|MIT leads up to $53M ARPA-H effort to design safer herbicides with generative AI]]
 - `2026-11-10` [[2026-11-10-ibm-and-microsoft-announce-imagine-enterprise-for-industry-s|IBM and Microsoft announce Imagine Enterprise for industry-specific agents]]
+- `2026-11-10` [[2026-11-10-google-s-multimodal-knowledge-agent-benchmark-grades-profess|Google's Multimodal Knowledge Agent benchmark grades professional deliverables, not just answers]]
 - `2026-11-10` [[2026-11-10-google-faces-ai-s-impact-on-its-search-advertising-business|Google faces AI's impact on its search advertising business]]
 - `2026-11-10` [[2026-11-10-google-deepmind-s-alphaproof-code-formally-verifies-key-sign|Google DeepMind's AlphaProof Code formally verifies key Signal protocol guarantees]]
 - `2026-11-10` [[2026-11-10-google-cloud-launches-gemini-for-healthcare-with-hca-highmar|Google Cloud launches Gemini for healthcare with HCA, Highmark and Northwell]]
 - `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
 - `2026-11-10` [[2026-11-10-fireworks-discloses-attackers-accessed-customer-model-weight|Fireworks discloses attackers accessed customer model weights as open AI platforms face rising attacks]]
 - `2026-11-10` [[2026-11-10-deepmind-s-alphaproof-code-formally-verifies-core-security-g|DeepMind's AlphaProof Code formally verifies core security guarantees of Signal's deployed code]]
+- `2026-11-10` [[2026-11-10-cursor-brings-shared-project-context-to-teams-of-developers|Cursor brings shared project context to teams of developers and agents]]
+- `2026-11-10` [[2026-11-10-claude-moves-into-spreadsheets-whiteboards-and-meetings-as-c|Claude moves into spreadsheets, whiteboards and meetings as Cursor makes coding agents multiplayer]]
+- `2026-11-10` [[2026-11-10-claude-adds-shared-spreadsheets-and-whiteboards-claude-data|Claude adds shared spreadsheets and whiteboards; Claude Data reaches general availability]]
+- `2026-11-10` [[2026-11-10-claude-adds-meetings-whiteboards-and-spreadsheets-to-its-wor|Claude adds meetings, whiteboards, and spreadsheets to its workplace push]]
 - `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion|Anthropic’s proposed IPO could raise about $64.4 billion]]
+- `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-range-puts-ai-economics-in-focus|Anthropic's proposed IPO range puts AI economics in focus]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu|Anthropic sets an IPO price range of $70 to $78 per share, valuing the company at up to $1.404 trillion]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri|Anthropic sets a $70–$78 IPO range, valuing it at up to $1.4 trillion with a $26 billion strategic side deal]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-ipo-range-at-70-78-implying-up-to-1-404-trill|Anthropic sets IPO range at $70–$78, implying up to $1.404 trillion valuation]]
 - `2026-11-10` [[2026-11-10-anthropic-reportedly-targets-a-1-3-trillion-ipo-valuation|Anthropic reportedly targets a $1.3 trillion IPO valuation]]
+- `2026-11-10` [[2026-11-10-anthropic-opens-an-australian-retail-channel-for-its-ipo|Anthropic opens an Australian retail channel for its IPO]]
+- `2026-11-10` [[2026-11-10-anthropic-opens-australian-retail-access-to-its-proposed-ipo|Anthropic opens Australian retail access to its proposed IPO]]
 - `2026-11-10` [[2026-11-10-alphaproof-code-applies-machine-checked-proofs-to-a-bounded|AlphaProof Code applies machine-checked proofs to a bounded Signal build]]
 - `2026-11-10` [[2026-11-10-advertisers-say-ai-chatbots-are-starting-to-dent-google-s-22|Advertisers say AI chatbots are starting to dent Google's $224 billion search-ads engine]]
 - `2026-11-10` [[2026-11-10-adobe-goes-agentic-at-max-and-ships-a-local-mcp-server-for-c|Adobe goes agentic at MAX and ships a local MCP server for Creative Cloud]]

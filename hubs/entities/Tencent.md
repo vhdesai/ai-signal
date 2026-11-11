@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 250
+member_count: 251
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 250 connected article(s).
+> Auto-generated entity hub. 251 connected article(s).
 
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
 - `2026-11-09` [[2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an|Baidu's ERNIE Evolve agents beat public benchmark records and speed up its production models]]

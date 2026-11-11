@@ -5,8 +5,8 @@ title: 'The financing squeeze shows up in results: SoftBank''s $7 billion loss a
 date: '2026-11-10'
 source: CNBC, Wall Street Journal, DealBook
 url_original: null
-url_canonical: https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-10_065709_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 256e91ca412bd1e6f88c49f3149e14729261d883cc4fc0dfae176cafa55d7e25

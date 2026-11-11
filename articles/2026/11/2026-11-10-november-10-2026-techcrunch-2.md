@@ -4,8 +4,8 @@ title: '[November 10, 2026] · [TechCrunch]'
 date: '2026-11-10'
 source: '[The Information]'
 url_original: null
-url_canonical: https://techcrunch.com/events/techcrunch-founder-summit-2026/tickets/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-10_070417_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: f3d78cb6964b0d610db64f6dcfb8e2cca3c51c608a3d52eba4809d862dff2d10

@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
+- 2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris
 - 2026-08-08-daily-ai-news-digest-august-8-2026
-- 2026-09-04-daily-ai-news-digest-september-5-2026
 embedding_id: 2026-10-19-ibm-research-launched-a-new-course-explaining-how-ai-models
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Publication window: items published Oct 18 – Oct 19, 2026 (last 24 hours). Com
 
 **Entities:** [[Google]] · [[IBM]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-09-04-daily-ai-news-digest-september-5-2026]]
+**Related:** [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
 <!-- graph:end -->

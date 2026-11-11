@@ -1,24 +1,39 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2617
+member_count: 2632
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2617 connected article(s).
+> Auto-generated entity hub. 2632 connected article(s).
 
+- `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
+- `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
+- `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-openai-s-revenue-rebounds-50-to-about-10-billion-as-losses-d|OpenAI's revenue rebounds 50% to about $10 billion as losses deepen ahead of a $1.25 trillion raise]]
+- `2026-11-10` [[2026-11-10-nvidia-s-nemotron-wins-cost-driven-defections-as-enterprises|Nvidia's Nemotron wins cost-driven defections as enterprises begin rationing tokens]]
+- `2026-11-10` [[2026-11-10-new-york-opens-frontier-ai-registration-as-raise-act-obligat|New York opens frontier-AI registration as RAISE Act obligations approach]]
+- `2026-11-10` [[2026-11-10-new-york-opens-frontier-ai-registration-ahead-of-january-obl|New York opens frontier-AI registration ahead of January obligations]]
+- `2026-11-10` [[2026-11-10-microsoft-research-demonstrates-backdoors-implanted-through|Microsoft Research demonstrates backdoors implanted through dormant neurons]]
 - `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
+- `2026-11-10` [[2026-11-10-claude-moves-into-spreadsheets-whiteboards-and-meetings-as-c|Claude moves into spreadsheets, whiteboards and meetings as Cursor makes coding agents multiplayer]]
+- `2026-11-10` [[2026-11-10-claude-adds-shared-spreadsheets-and-whiteboards-claude-data|Claude adds shared spreadsheets and whiteboards; Claude Data reaches general availability]]
+- `2026-11-10` [[2026-11-10-claude-adds-meetings-whiteboards-and-spreadsheets-to-its-wor|Claude adds meetings, whiteboards, and spreadsheets to its workplace push]]
 - `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion|Anthropic’s proposed IPO could raise about $64.4 billion]]
+- `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-range-puts-ai-economics-in-focus|Anthropic's proposed IPO range puts AI economics in focus]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu|Anthropic sets an IPO price range of $70 to $78 per share, valuing the company at up to $1.404 trillion]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri|Anthropic sets a $70–$78 IPO range, valuing it at up to $1.4 trillion with a $26 billion strategic side deal]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-ipo-range-at-70-78-implying-up-to-1-404-trill|Anthropic sets IPO range at $70–$78, implying up to $1.404 trillion valuation]]
 - `2026-11-10` [[2026-11-10-anthropic-reportedly-targets-a-1-3-trillion-ipo-valuation|Anthropic reportedly targets a $1.3 trillion IPO valuation]]
+- `2026-11-10` [[2026-11-10-anthropic-opens-an-australian-retail-channel-for-its-ipo|Anthropic opens an Australian retail channel for its IPO]]
+- `2026-11-10` [[2026-11-10-anthropic-opens-australian-retail-access-to-its-proposed-ipo|Anthropic opens Australian retail access to its proposed IPO]]
 - `2026-11-09` [[2026-11-09-november-9-2026-reuters-2|[November 9, 2026] · [Reuters]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-dealbook|[November 9, 2026] · [DealBook]]]

@@ -1,26 +1,38 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1799
+member_count: 1811
 ---
 
 # Google
 
-> Auto-generated entity hub. 1799 connected article(s).
+> Auto-generated entity hub. 1811 connected article(s).
 
+- `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
+- `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
 - `2026-11-10` [[2026-11-10-november-9-2026-wired|[November 9, 2026] · [WIRED]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-openai|[November 10, 2026] · [OpenAI]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-openai-turns-chatgpt-into-a-business-channel-and-buys-travel|OpenAI turns ChatGPT into a business channel and buys travel agent Odessia]]
+- `2026-11-10` [[2026-11-10-microsoft-research-demonstrates-backdoors-implanted-through|Microsoft Research demonstrates backdoors implanted through dormant neurons]]
+- `2026-11-10` [[2026-11-10-google-s-multimodal-knowledge-agent-benchmark-grades-profess|Google's Multimodal Knowledge Agent benchmark grades professional deliverables, not just answers]]
+- `2026-11-10` [[2026-11-10-google-s-mka-benchmark-evaluates-professional-deliverables-n|Google's MKA benchmark evaluates professional deliverables, not just answers]]
+- `2026-11-10` [[2026-11-10-google-widens-gemini-4-carbon-to-paying-api-customers-at-2-p|Google widens Gemini 4 Carbon to paying API customers at $2 per million input tokens]]
 - `2026-11-10` [[2026-11-10-google-faces-ai-s-impact-on-its-search-advertising-business|Google faces AI's impact on its search advertising business]]
+- `2026-11-10` [[2026-11-10-google-expands-gemini-4-carbon-beyond-restricted-access|Google expands Gemini 4 Carbon beyond restricted access]]
+- `2026-11-10` [[2026-11-10-google-broadens-paid-access-to-gemini-4-carbon|Google broadens paid access to Gemini 4 Carbon]]
 - `2026-11-10` [[2026-11-10-google-deepmind-s-alphaproof-code-mathematically-proves-the|Google DeepMind's AlphaProof Code mathematically proves the security of Signal's encryption code]]
 - `2026-11-10` [[2026-11-10-google-deepmind-s-alphaproof-code-formally-verifies-key-sign|Google DeepMind's AlphaProof Code formally verifies key Signal protocol guarantees]]
 - `2026-11-10` [[2026-11-10-google-cloud-previews-gemini-for-healthcare-an-agent-that-co|Google Cloud previews Gemini for healthcare, an agent that coordinates work across health records, claims, and payer systems]]
 - `2026-11-10` [[2026-11-10-google-cloud-launches-gemini-for-healthcare-with-hca-highmar|Google Cloud launches Gemini for healthcare with HCA, Highmark and Northwell]]
 - `2026-11-10` [[2026-11-10-deepmind-s-alphaproof-code-formally-verifies-core-security-g|DeepMind's AlphaProof Code formally verifies core security guarantees of Signal's deployed code]]
 - `2026-11-10` [[2026-11-10-deepmind-brings-machine-checked-proofs-to-a-signal-protocol|DeepMind brings machine-checked proofs to a Signal protocol implementation]]
+- `2026-11-10` [[2026-11-10-claude-moves-into-spreadsheets-whiteboards-and-meetings-as-c|Claude moves into spreadsheets, whiteboards and meetings as Cursor makes coding agents multiplayer]]
+- `2026-11-10` [[2026-11-10-claude-adds-meetings-whiteboards-and-spreadsheets-to-its-wor|Claude adds meetings, whiteboards, and spreadsheets to its workplace push]]
 - `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion|Anthropic’s proposed IPO could raise about $64.4 billion]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu|Anthropic sets an IPO price range of $70 to $78 per share, valuing the company at up to $1.404 trillion]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri|Anthropic sets a $70–$78 IPO range, valuing it at up to $1.4 trillion with a $26 billion strategic side deal]]

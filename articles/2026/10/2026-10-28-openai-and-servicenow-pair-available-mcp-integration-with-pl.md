@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a
+- 2026-11-09-apptio-expands-portfolio-to-help-enterprises-connect-ai-spen
 - 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
 - 2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme
 - 2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode
-- 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
 embedding_id: 2026-10-28-openai-and-servicenow-pair-available-mcp-integration-with-pl
 event_name: ''
 ---
@@ -39,5 +39,5 @@ ServiceNow's MCP plugin is available in OpenAI's marketplace now. Voice is plann
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme]] · [[2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode]] · [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]]
+**Related:** [[2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a]] · [[2026-11-09-apptio-expands-portfolio-to-help-enterprises-connect-ai-spen]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme]] · [[2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode]]
 <!-- graph:end -->

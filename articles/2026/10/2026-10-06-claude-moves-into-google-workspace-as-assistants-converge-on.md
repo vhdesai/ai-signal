@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-06-claude-can-now-open-and-edit-google-docs-sheets-and-slides
+- 2026-11-10-claude-adds-meetings-whiteboards-and-spreadsheets-to-its-wor
 - 2026-09-01-salesforce-puts-its-entire-crm-inside-claude
-- 2026-05-06-
-- 2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i
+- 2026-11-10-claude-moves-into-spreadsheets-whiteboards-and-meetings-as-c
 embedding_id: 2026-10-06-claude-moves-into-google-workspace-as-assistants-converge-on
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic brought Claude into Google Docs, Sheets, and Slides, letting paid user
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-06-claude-can-now-open-and-edit-google-docs-sheets-and-slides]] · [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude]] · [[2026-05-06-]] · [[2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i]]
+**Related:** [[2026-10-06-claude-can-now-open-and-edit-google-docs-sheets-and-slides]] · [[2026-11-10-claude-adds-meetings-whiteboards-and-spreadsheets-to-its-wor]] · [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude]] · [[2026-11-10-claude-moves-into-spreadsheets-whiteboards-and-meetings-as-c]]
 <!-- graph:end -->

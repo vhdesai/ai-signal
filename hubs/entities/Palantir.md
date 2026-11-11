@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 222
+member_count: 224
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 222 connected article(s).
+> Auto-generated entity hub. 224 connected article(s).
 
+- `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
 - `2026-11-07` [[2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo|Intelligence memo alleges recruitment to spy on Nvidia’s CEO]]

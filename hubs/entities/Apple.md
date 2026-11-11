@@ -1,15 +1,17 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 541
+member_count: 543
 ---
 
 # Apple
 
-> Auto-generated entity hub. 541 connected article(s).
+> Auto-generated entity hub. 543 connected article(s).
 
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-meta-brings-its-muse-assistant-to-apple-watch-and-wear-os|Meta brings its Muse assistant to Apple Watch and Wear OS]]
 - `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-november-10-2026-techcrunch|[November 10, 2026] · [TechCrunch]]]

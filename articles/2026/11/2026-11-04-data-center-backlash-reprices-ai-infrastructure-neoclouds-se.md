@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t
 - 2026-11-06-november-6-2026-reuters
 - 2026-11-05-in-tuesday-s-midterms-voters-sided-against-data-centers-in-e
-- 2026-11-07-data-center-backlash-raises-infrastructure-questions
+- 2026-11-11-democratic-midterm-sweep-rattles-the-data-center-bets-that-l
 embedding_id: 2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Voters sided against data centers in 40 of 41 local ballot measures, the lone ex
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-11-06-november-6-2026-reuters]] · [[2026-11-05-in-tuesday-s-midterms-voters-sided-against-data-centers-in-e]] · [[2026-11-07-data-center-backlash-raises-infrastructure-questions]]
+**Related:** [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-11-06-november-6-2026-reuters]] · [[2026-11-05-in-tuesday-s-midterms-voters-sided-against-data-centers-in-e]] · [[2026-11-11-democratic-midterm-sweep-rattles-the-data-center-bets-that-l]]
 <!-- graph:end -->

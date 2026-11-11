@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi
 - 2026-11-03-november-3-2026-the-information
 - 2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents
 - 2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
-- 2026-07-09-lyzr-raises-100m-series-b-run-largely-by-its-own-ai-agent
 embedding_id: 2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Agentic-security startup Straiker announced a $64M Series A — led by Marathon 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-11-03-november-3-2026-the-information]] · [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-07-09-lyzr-raises-100m-series-b-run-largely-by-its-own-ai-agent]]
+**Related:** [[2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi]] · [[2026-11-03-november-3-2026-the-information]] · [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]]
 <!-- graph:end -->

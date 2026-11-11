@@ -44,8 +44,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and
+- 2026-11-10-openai-opens-a-business-discovery-and-agent-channel-inside-c
 - 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
-- 2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of
 embedding_id: 2026-10-28-servicenow-and-openai-accelerate-enterprise-ai-from-models-a
 event_name: ''
 ---
@@ -59,5 +59,5 @@ ServiceNow expanded its OpenAI partnership with a ChatGPT plugin, joint security
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-10-27-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of]]
+**Related:** [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and]] · [[2026-11-10-openai-opens-a-business-discovery-and-agent-channel-inside-c]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]]
 <!-- graph:end -->

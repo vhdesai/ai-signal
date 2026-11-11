@@ -4,8 +4,8 @@ title: MIT-led PLOW project receives up to $53 million for AI-designed herbicide
 date: '2026-11-10'
 source: MIT News
 url_original: null
-url_canonical: https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-10_060302_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 13cb5e9d52d74693eda3f9259cdf6e7f5819c1705f96792506a625af30909386

@@ -4,8 +4,8 @@ title: '[November 10, 2026] · [Wall Street Journal]'
 date: '2026-11-10'
 source: '[PitchBook]'
 url_original: null
-url_canonical: https://docshare.wps.com/document/the-wall-street-journal-6-november-2026/684444/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-10_070417_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 84d1f866bb29a1718cf782e82b851c100060da52cd727383e16ee6e2ee596084

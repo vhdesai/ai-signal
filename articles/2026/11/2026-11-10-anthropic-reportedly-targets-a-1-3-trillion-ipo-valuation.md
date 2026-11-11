@@ -4,8 +4,8 @@ title: Anthropic reportedly targets a $1.3 trillion IPO valuation
 date: '2026-11-10'
 source: November 10, 2026; updated 08:18 ET
 url_original: null
-url_canonical: https://nypost.com/2026/11/10/business/anthropic-targets-1-4t-market-value-in-blockbuster-ipo/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-10_062034_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: f3eecae511f7714e986f0d9b9edaa83785544824fc28cd7d17eec1022060d220

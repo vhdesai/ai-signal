@@ -1,20 +1,29 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2976
+member_count: 2985
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2976 connected article(s).
+> Auto-generated entity hub. 2985 connected article(s).
 
+- `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
+- `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-wall-street-journal-3|[November 10, 2026] · [Wall Street Journal]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-openai|[November 10, 2026] · [OpenAI]]]
 - `2026-11-10` [[2026-11-10-the-financing-squeeze-shows-up-in-results-softbank-s-7-billi|The financing squeeze shows up in results: SoftBank's $7 billion loss and CoreWeave debt near 15%]]
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-softbank-losses-expose-ai-infrastructure-procurement-risk|SoftBank losses expose AI infrastructure procurement risk]]
 - `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-openai-s-revenue-rebounds-50-to-about-10-billion-as-losses-d|OpenAI's revenue rebounds 50% to about $10 billion as losses deepen ahead of a $1.25 trillion raise]]
+- `2026-11-10` [[2026-11-10-openai-turns-chatgpt-into-a-business-channel-and-buys-travel|OpenAI turns ChatGPT into a business channel and buys travel agent Odessia]]
+- `2026-11-10` [[2026-11-10-openai-opens-a-business-discovery-and-agent-channel-inside-c|OpenAI opens a business-discovery and agent channel inside ChatGPT]]
+- `2026-11-10` [[2026-11-10-new-york-opens-frontier-ai-registration-as-raise-act-obligat|New York opens frontier-AI registration as RAISE Act obligations approach]]
+- `2026-11-10` [[2026-11-10-new-york-opens-frontier-ai-registration-ahead-of-january-obl|New York opens frontier-AI registration ahead of January obligations]]
+- `2026-11-10` [[2026-11-10-microsoft-research-demonstrates-backdoors-implanted-through|Microsoft Research demonstrates backdoors implanted through dormant neurons]]
 - `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
 - `2026-11-10` [[2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da|Fireworks breach exposed some customers' model weights and datasets, and Hugging Face warns open AI platforms may tighten access]]
 - `2026-11-09` [[2026-11-09-founder-s-test-of-openai-s-dot-agent-sent-about-300-emails-t|founder's test of OpenAI's Dot agent sent about 300 emails to movers and building managers]]

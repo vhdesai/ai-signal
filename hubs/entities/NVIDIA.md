@@ -1,17 +1,25 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1846
+member_count: 1854
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1846 connected article(s).
+> Auto-generated entity hub. 1854 connected article(s).
 
+- `2026-11-11` [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia|The Huang scandal becomes an export-control fight as Nvidia's board hires Wachtell]]
+- `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
+- `2026-11-11` [[2026-11-11-democratic-midterm-sweep-rattles-the-data-center-bets-that-l|Democratic midterm sweep rattles the data-center bets that lifted US infrastructure funds]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook-2|[November 10, 2026] · [DealBook]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-nvidia-s-selloff-highlights-governance-and-concentration-ris|Nvidia's selloff highlights governance and concentration risks]]
+- `2026-11-10` [[2026-11-10-nvidia-s-nemotron-wins-cost-driven-defections-as-enterprises|Nvidia's Nemotron wins cost-driven defections as enterprises begin rationing tokens]]
+- `2026-11-10` [[2026-11-10-nvidia-targets-onboard-compute-constraints-with-alpamayo-2-e|NVIDIA targets onboard compute constraints with Alpamayo 2 Edge]]
+- `2026-11-10` [[2026-11-10-microsoft-research-demonstrates-backdoors-implanted-through|Microsoft Research demonstrates backdoors implanted through dormant neurons]]
 - `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
 - `2026-11-10` [[2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da|Fireworks breach exposed some customers' model weights and datasets, and Hugging Face warns open AI platforms may tighten access]]
 - `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion|Anthropic’s proposed IPO could raise about $64.4 billion]]

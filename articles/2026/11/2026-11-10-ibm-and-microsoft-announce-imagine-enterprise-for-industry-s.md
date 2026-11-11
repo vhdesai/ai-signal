@@ -4,8 +4,8 @@ title: IBM and Microsoft announce Imagine Enterprise for industry-specific agent
 date: '2026-11-10'
 source: PR Newswire
 url_original: null
-url_canonical: https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-10_060302_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 60a6470cb0bf4198ec5605e68906e059272123100f1d9ea4ea34e5bc7f1e283d

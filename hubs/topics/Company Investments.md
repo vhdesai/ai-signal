@@ -1,21 +1,28 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1406
+member_count: 1413
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1406 connected article(s).
+> Auto-generated topic hub. 1413 connected article(s).
 
+- `2026-11-11` [[2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi|Venture capital follows the agent stack: Mercor reaches $20 billion as security and agent oversight draw new rounds]]
+- `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
+- `2026-11-10` [[2026-11-10-openai-s-revenue-rebounds-50-to-about-10-billion-as-losses-d|OpenAI's revenue rebounds 50% to about $10 billion as losses deepen ahead of a $1.25 trillion raise]]
+- `2026-11-10` [[2026-11-10-coreweave-doubles-revenue-but-burns-7-5-billion-leaning-on-c|CoreWeave doubles revenue but burns $7.5 billion, leaning on customer prepayments as debt costs climb]]
 - `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion|Anthropic’s proposed IPO could raise about $64.4 billion]]
+- `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-range-puts-ai-economics-in-focus|Anthropic's proposed IPO range puts AI economics in focus]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu|Anthropic sets an IPO price range of $70 to $78 per share, valuing the company at up to $1.404 trillion]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri|Anthropic sets a $70–$78 IPO range, valuing it at up to $1.4 trillion with a $26 billion strategic side deal]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-ipo-range-at-70-78-implying-up-to-1-404-trill|Anthropic sets IPO range at $70–$78, implying up to $1.404 trillion valuation]]
 - `2026-11-10` [[2026-11-10-anthropic-reportedly-targets-a-1-3-trillion-ipo-valuation|Anthropic reportedly targets a $1.3 trillion IPO valuation]]
+- `2026-11-10` [[2026-11-10-anthropic-opens-an-australian-retail-channel-for-its-ipo|Anthropic opens an Australian retail channel for its IPO]]
+- `2026-11-10` [[2026-11-10-anthropic-opens-australian-retail-access-to-its-proposed-ipo|Anthropic opens Australian retail access to its proposed IPO]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-november-9-2026-dealbook|[November 9, 2026] · [DealBook]]]
 - `2026-11-09` [[2026-11-09-rogue-agents-turn-ai-autonomy-into-a-liability-and-insurance|Rogue agents turn AI autonomy into a liability and insurance problem]]

@@ -1,15 +1,17 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 216
+member_count: 218
 ---
 
 # IBM
 
-> Auto-generated entity hub. 216 connected article(s).
+> Auto-generated entity hub. 218 connected article(s).
 
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-openai|[November 10, 2026] · [OpenAI]]]
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
+- `2026-11-10` [[2026-11-10-microsoft-research-demonstrates-backdoors-implanted-through|Microsoft Research demonstrates backdoors implanted through dormant neurons]]
 - `2026-11-10` [[2026-11-10-ibm-and-microsoft-announce-imagine-enterprise-for-industry-s|IBM and Microsoft announce Imagine Enterprise for industry-specific agents]]
 - `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]

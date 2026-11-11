@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
 - 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 - 2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub
-- 2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india
+- 2026-11-10-openai-opens-a-business-discovery-and-agent-channel-inside-c
 embedding_id: 2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI rolled out shopping features that let ChatGPT users virtually try on clot
 
 **Entities:** [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub]] · [[2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india]]
+**Related:** [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub]] · [[2026-11-10-openai-opens-a-business-discovery-and-agent-channel-inside-c]]
 <!-- graph:end -->

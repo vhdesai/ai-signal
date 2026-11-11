@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 154
+member_count: 155
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 154 connected article(s).
+> Auto-generated entity hub. 155 connected article(s).
 
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
 - `2026-11-10` [[2026-11-10-google-deepmind-s-alphaproof-code-mathematically-proves-the|Google DeepMind's AlphaProof Code mathematically proves the security of Signal's encryption code]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]

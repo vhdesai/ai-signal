@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
 - 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
+- 2026-11-10-cursor-brings-shared-project-context-to-teams-of-developers
 - 2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
-- 2026-05-14-cursor-3-0-has-fundamentally-changed-developer-interaction-w
 embedding_id: 2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Cursor's latest release enables teams to configure development environments for 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-05-14-cursor-3-0-has-fundamentally-changed-developer-interaction-w]]
+**Related:** [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-11-10-cursor-brings-shared-project-context-to-teams-of-developers]] · [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: AlphaProof Code applies machine-checked proofs to a bounded Signal build
 date: '2026-11-10'
 source: Google DeepMind
 url_original: null
-url_canonical: https://deepmind.google/blog/introducing-alphaproof-code/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-10_060302_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 1d7ec7ac9f7a4e2bf940abc72192f40639b86f0c59bab033b4bb3359b1f8b5b8

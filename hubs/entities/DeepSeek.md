@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 596
+member_count: 597
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 596 connected article(s).
+> Auto-generated entity hub. 597 connected article(s).
 
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-november-9-2026-yahoo-finance|November 9, 2026 · Yahoo Finance]]

@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
+- 2026-11-10-meta-brings-its-muse-assistant-to-apple-watch-and-wear-os
 - 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
 - 2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all
-- 2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi
 embedding_id: 2026-09-19-meta-s-muse-assistant-lands-on-mac-with-access-to-messages-c
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Meta brought its Muse AI assistant to macOS, following iOS, Android and web rele
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions]] · [[2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all]] · [[2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi]]
+**Related:** [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-11-10-meta-brings-its-muse-assistant-to-apple-watch-and-wear-os]] · [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions]] · [[2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all]]
 <!-- graph:end -->

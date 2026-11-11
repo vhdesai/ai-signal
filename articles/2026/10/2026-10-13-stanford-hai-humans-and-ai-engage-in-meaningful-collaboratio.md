@@ -30,9 +30,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris
 - 2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
-- 2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki
 embedding_id: 2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Stanford HAI published new work on meaningful human-AI collaboration. The resear
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Huawei]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki]]
+**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris]] · [[2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]]
 <!-- graph:end -->

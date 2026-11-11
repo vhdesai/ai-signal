@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-10-nvidia-s-selloff-highlights-governance-and-concentration-ris
 - 2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors
 - 2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f
 - 2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen
 - 2026-11-09-the-first-shareholder-lawsuit-against-nvidia-over-jensen-hua
-- 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
 embedding_id: 2026-11-09-nvidia-s-share-decline-puts-governance-and-litigation-risk-i
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CNN reports that Nvidia shares closed about 4.3% lower after falling as much as 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Related:** [[2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors]] · [[2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f]] · [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen]] · [[2026-11-09-the-first-shareholder-lawsuit-against-nvidia-over-jensen-hua]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]]
+**Related:** [[2026-11-10-nvidia-s-selloff-highlights-governance-and-concentration-ris]] · [[2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors]] · [[2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f]] · [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen]] · [[2026-11-09-the-first-shareholder-lawsuit-against-nvidia-over-jensen-hua]]
 <!-- graph:end -->

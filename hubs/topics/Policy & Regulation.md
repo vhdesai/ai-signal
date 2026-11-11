@@ -1,18 +1,21 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2412
+member_count: 2415
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2412 connected article(s).
+> Auto-generated topic hub. 2415 connected article(s).
 
+- `2026-11-11` [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia|The Huang scandal becomes an export-control fight as Nvidia's board hires Wachtell]]
+- `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
 - `2026-11-10` [[2026-11-10-november-9-2026-wired|[November 9, 2026] · [WIRED]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-education-week|[November 9, 2026] · [Education Week]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-new-york-opens-frontier-ai-registration-as-raise-act-obligat|New York opens frontier-AI registration as RAISE Act obligations approach]]
 - `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
 - `2026-11-10` [[2026-11-10-australia-plans-an-ai-safety-regulator-and-mandatory-protect|Australia plans an AI safety regulator and mandatory protections]]
 - `2026-11-09` [[2026-11-09-november-9-2026-google-blog|[November 9, 2026] · [Google Blog]]]

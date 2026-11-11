@@ -23,7 +23,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-25-agentic-web-search-infrastructure-startup-keenable-raises-26
 - 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
 - 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s
 - 2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an
@@ -40,5 +39,5 @@ Keenable AI open-sourced NEEDLE, an evaluation benchmark for search APIs and sea
 
 **Entities:** [[Google]] · [[Oracle]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-25-agentic-web-search-infrastructure-startup-keenable-raises-26]] · [[2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba]] · [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s]] · [[2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an]]
+**Related:** [[2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba]] · [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s]] · [[2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an]]
 <!-- graph:end -->

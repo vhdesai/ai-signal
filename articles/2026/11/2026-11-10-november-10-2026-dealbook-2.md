@@ -4,8 +4,8 @@ title: '[November 10, 2026] · [DealBook]'
 date: '2026-11-10'
 source: '[Business Insider]'
 url_original: null
-url_canonical: https://www.nytimes.com/events/dealbook
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-10_070417_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 42b4da9aea355dbdc3bfb933b54a1dfb1ba60ba81d09cb1c9ea7affde856de59

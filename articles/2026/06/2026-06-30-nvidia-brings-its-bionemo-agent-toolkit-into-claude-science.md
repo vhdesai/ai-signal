@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
 - 2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri
+- 2026-11-10-nvidia-s-nemotron-wins-cost-driven-defections-as-enterprises
 - 2026-10-19-nvidia-expands-nemotron-with-enterprise-and-edge-models-for
-- 2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw
 embedding_id: 2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NVIDIA published a June 30 post extending its BioNeMo agent tools (Nemotron, Nem
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]] · [[2026-10-19-nvidia-expands-nemotron-with-enterprise-and-edge-models-for]] · [[2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw]]
+**Related:** [[2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]] · [[2026-11-10-nvidia-s-nemotron-wins-cost-driven-defections-as-enterprises]] · [[2026-10-19-nvidia-expands-nemotron-with-enterprise-and-edge-models-for]]
 <!-- graph:end -->

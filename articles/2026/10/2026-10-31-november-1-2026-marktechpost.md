@@ -5,7 +5,7 @@ date: '2026-10-31'
 source: '[DeepSeek Harness Team]'
 url_original: https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/
 url_canonical: https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-01_065719_Final-Daily-AI-News-Digest.md
 content_hash: baddf37d90d16a2e10140457967331a839a09e0ec1f243a037ab96dc5c40be9a
 normalized_title_hash: d1774aa3233f3097

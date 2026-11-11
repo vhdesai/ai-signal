@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 451
+member_count: 452
 ---
 
 # xAI
 
-> Auto-generated entity hub. 451 connected article(s).
+> Auto-generated entity hub. 452 connected article(s).
 
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
 - `2026-11-09` [[2026-11-09-anthropic-buys-3-4-billion-of-gas-turbines-as-power-becomes|Anthropic buys $3.4 billion of gas turbines as power becomes the AI bottleneck]]

@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-09-november-9-2026-dealbook-2
 - 2026-11-08-november-9-2026-wall-street-journal-wsj-politics
+- 2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia
 embedding_id: 2026-11-09-november-9-2026-dealbook
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Nvidia's board said Sunday that independent directors and outside counsel will i
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-09-november-9-2026-dealbook-2]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]]
+**Related:** [[2026-11-09-november-9-2026-dealbook-2]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]]
 <!-- graph:end -->

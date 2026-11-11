@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-09-stanford-s-ai100-report-calls-the-last-five-years-a-scaling
 - 2026-11-10-mit-leads-up-to-53m-arpa-h-effort-to-design-safer-herbicides
-- 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
+- 2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris
 embedding_id: 2026-11-10-november-9-2026-education-week
 event_name: ''
 ---
@@ -34,5 +34,5 @@ The third report of Stanford HAI's One Hundred Year Study on AI credits scaling 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-11-09-stanford-s-ai100-report-calls-the-last-five-years-a-scaling]] · [[2026-11-10-mit-leads-up-to-53m-arpa-h-effort-to-design-safer-herbicides]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]]
+**Related:** [[2026-11-09-stanford-s-ai100-report-calls-the-last-five-years-a-scaling]] · [[2026-11-10-mit-leads-up-to-53m-arpa-h-effort-to-design-safer-herbicides]] · [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris]]
 <!-- graph:end -->

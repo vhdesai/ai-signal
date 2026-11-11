@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status
 - 2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl
-- 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
+- 2026-05-15-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
 embedding_id: 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
 event_name: ''
 ---
@@ -42,5 +42,5 @@ President Trump indicated he discussed possible AI guardrails with Xi Jinping du
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-17-president-trump-confirmed-he-discussed-possible-ai-safety-gu]] · [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status]] · [[2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl]] · [[2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]]
+**Related:** [[2026-05-17-president-trump-confirmed-he-discussed-possible-ai-safety-gu]] · [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status]] · [[2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl]] · [[2026-05-15-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]]
 <!-- graph:end -->

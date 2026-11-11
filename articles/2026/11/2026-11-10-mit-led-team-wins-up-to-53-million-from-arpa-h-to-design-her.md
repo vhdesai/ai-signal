@@ -5,8 +5,8 @@ title: MIT-led team wins up to $53 million from ARPA-H to design herbicides with
 date: '2026-11-10'
 source: MIT News
 url_original: null
-url_canonical: https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-10_065709_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 634b7bf09851f3b23c0f7607bcf28c4b8ae5f4bcba0d4d70ea30847be0ce6fd5

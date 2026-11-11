@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i
+- 2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia
 - 2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg
 - 2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat
 - 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
@@ -39,5 +40,5 @@ The Information reports a new push for tighter chip export controls is emerging 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i]] · [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg]] · [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]]
+**Related:** [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg]] · [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]]
 <!-- graph:end -->

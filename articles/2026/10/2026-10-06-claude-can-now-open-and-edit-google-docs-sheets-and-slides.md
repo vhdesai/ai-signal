@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-10-06-claude-enters-google-docs-sheets-and-slides
 - 2026-10-06-claude-moves-into-google-workspace-as-assistants-converge-on
 - 2026-08-23-claude-deepens-google-workspace-integration-chatgpt-gains-dr
+- 2026-11-10-claude-adds-meetings-whiteboards-and-spreadsheets-to-its-wor
 - 2026-04-20-new-claude-for-word-add-in-launches-for-microsoft-365
-- 2026-07-27-claude-shared-chats-and-artifacts-appeared-in-google-search
 embedding_id: 2026-10-06-claude-can-now-open-and-edit-google-docs-sheets-and-slides
 event_name: ''
 ---
@@ -39,5 +39,5 @@ VentureBeat reported that Claude can now open directly in Google Docs, Sheets, a
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-10-06-claude-enters-google-docs-sheets-and-slides]] · [[2026-10-06-claude-moves-into-google-workspace-as-assistants-converge-on]] · [[2026-08-23-claude-deepens-google-workspace-integration-chatgpt-gains-dr]] · [[2026-04-20-new-claude-for-word-add-in-launches-for-microsoft-365]] · [[2026-07-27-claude-shared-chats-and-artifacts-appeared-in-google-search]]
+**Related:** [[2026-10-06-claude-enters-google-docs-sheets-and-slides]] · [[2026-10-06-claude-moves-into-google-workspace-as-assistants-converge-on]] · [[2026-08-23-claude-deepens-google-workspace-integration-chatgpt-gains-dr]] · [[2026-11-10-claude-adds-meetings-whiteboards-and-spreadsheets-to-its-wor]] · [[2026-04-20-new-claude-for-word-add-in-launches-for-microsoft-365]]
 <!-- graph:end -->

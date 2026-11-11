@@ -1,17 +1,21 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1767
+member_count: 1771
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1767 connected article(s).
+> Auto-generated topic hub. 1771 connected article(s).
 
+- `2026-11-11` [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia|The Huang scandal becomes an export-control fight as Nvidia's board hires Wachtell]]
+- `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook-2|[November 10, 2026] · [DealBook]]]
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
+- `2026-11-10` [[2026-11-10-microsoft-research-demonstrates-backdoors-implanted-through|Microsoft Research demonstrates backdoors implanted through dormant neurons]]
 - `2026-11-10` [[2026-11-10-google-deepmind-s-alphaproof-code-mathematically-proves-the|Google DeepMind's AlphaProof Code mathematically proves the security of Signal's encryption code]]
 - `2026-11-10` [[2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da|Fireworks breach exposed some customers' model weights and datasets, and Hugging Face warns open AI platforms may tighten access]]
 - `2026-11-09` [[2026-11-09-november-9-2026-reuters-2|[November 9, 2026] · [Reuters]]]

@@ -1,19 +1,23 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1965
+member_count: 1969
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1965 connected article(s).
+> Auto-generated topic hub. 1969 connected article(s).
 
+- `2026-11-11` [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia|The Huang scandal becomes an export-control fight as Nvidia's board hires Wachtell]]
+- `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-wall-street-journal-3|[November 10, 2026] · [Wall Street Journal]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-openai|[November 10, 2026] · [OpenAI]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
 - `2026-11-10` [[2026-11-10-the-financing-squeeze-shows-up-in-results-softbank-s-7-billi|The financing squeeze shows up in results: SoftBank's $7 billion loss and CoreWeave debt near 15%]]
 - `2026-11-10` [[2026-11-10-softbank-losses-expose-ai-infrastructure-procurement-risk|SoftBank losses expose AI infrastructure procurement risk]]
+- `2026-11-10` [[2026-11-10-nvidia-s-selloff-highlights-governance-and-concentration-ris|Nvidia's selloff highlights governance and concentration risks]]
+- `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-range-puts-ai-economics-in-focus|Anthropic's proposed IPO range puts AI economics in focus]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu|Anthropic sets an IPO price range of $70 to $78 per share, valuing the company at up to $1.404 trillion]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri|Anthropic sets a $70–$78 IPO range, valuing it at up to $1.4 trillion with a $26 billion strategic side deal]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-ipo-range-at-70-78-implying-up-to-1-404-trill|Anthropic sets IPO range at $70–$78, implying up to $1.404 trillion valuation]]

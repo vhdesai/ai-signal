@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa
 - 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 - 2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub
+- 2026-11-10-openai-opens-a-business-discovery-and-agent-channel-inside-c
 - 2026-11-09-chatgpt-enterprise-is-now-available-through-aws-marketplace
-- 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 embedding_id: 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI is rolling out visual browsing, product comparisons, and price summaries 
 
 **Entities:** [[Amazon]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub]] · [[2026-11-09-chatgpt-enterprise-is-now-available-through-aws-marketplace]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]]
+**Related:** [[2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub]] · [[2026-11-10-openai-opens-a-business-discovery-and-agent-channel-inside-c]] · [[2026-11-09-chatgpt-enterprise-is-now-available-through-aws-marketplace]]
 <!-- graph:end -->

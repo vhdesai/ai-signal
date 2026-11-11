@@ -1,17 +1,24 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2407
+member_count: 2414
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2407 connected article(s).
+> Auto-generated topic hub. 2414 connected article(s).
 
+- `2026-11-11` [[2026-11-11-democratic-midterm-sweep-rattles-the-data-center-bets-that-l|Democratic midterm sweep rattles the data-center bets that lifted US infrastructure funds]]
 - `2026-11-10` [[2026-11-10-november-9-2026-wired|[November 9, 2026] · [WIRED]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-stanford-s-ai100-introduction-highlights-a-deployment-govern|Stanford's AI100 introduction highlights a deployment–governance gap]]
 - `2026-11-10` [[2026-11-10-softbank-losses-expose-ai-infrastructure-procurement-risk|SoftBank losses expose AI infrastructure procurement risk]]
+- `2026-11-10` [[2026-11-10-new-york-opens-frontier-ai-registration-ahead-of-january-obl|New York opens frontier-AI registration ahead of January obligations]]
+- `2026-11-10` [[2026-11-10-nvidia-targets-onboard-compute-constraints-with-alpamayo-2-e|NVIDIA targets onboard compute constraints with Alpamayo 2 Edge]]
+- `2026-11-10` [[2026-11-10-microsoft-research-demonstrates-backdoors-implanted-through|Microsoft Research demonstrates backdoors implanted through dormant neurons]]
+- `2026-11-10` [[2026-11-10-google-s-mka-benchmark-evaluates-professional-deliverables-n|Google's MKA benchmark evaluates professional deliverables, not just answers]]
+- `2026-11-10` [[2026-11-10-coreweave-doubles-revenue-but-burns-7-5-billion-leaning-on-c|CoreWeave doubles revenue but burns $7.5 billion, leaning on customer prepayments as debt costs climb]]
 - `2026-11-10` [[2026-11-10-bilt-selects-cerebras-inference-for-its-consumer-ai-services|Bilt selects Cerebras inference for its consumer AI services]]
 - `2026-11-09` [[2026-11-09-single-ai-model-simulates-the-behavior-of-many-substances-fr|single AI model simulates the behavior of many substances, from sliding sand to folding proteins]]
 - `2026-11-09` [[2026-11-09-november-9-2026-semafor|[November 9, 2026] · [Semafor]]]

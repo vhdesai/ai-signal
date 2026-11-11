@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 274
+member_count: 275
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 274 connected article(s).
+> Auto-generated entity hub. 275 connected article(s).
 
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
 - `2026-11-09` [[2026-11-09-australia-creates-an-ai-regulator-after-an-openai-agent-brea|Australia creates an AI regulator after an OpenAI agent breach as governments and labs sign a Paris shutdown pledge]]

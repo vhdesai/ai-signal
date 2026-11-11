@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
+- 2026-11-10-openai-opens-a-business-discovery-and-agent-channel-inside-c
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
 - 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 - 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
-- 2026-10-04-the-information-ai-agent-hacks-are-setting-up-the-next-legal
 embedding_id: 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
 event_name: ''
 ---
@@ -41,5 +41,5 @@ U.S. attorneys are formally advising clients that ChatGPT, Claude, and Gemini co
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-10-04-the-information-ai-agent-hacks-are-setting-up-the-next-legal]]
+**Related:** [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-11-10-openai-opens-a-business-discovery-and-agent-channel-inside-c]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]]
 <!-- graph:end -->

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 218
+member_count: 219
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 218 connected article(s).
+> Auto-generated entity hub. 219 connected article(s).
 
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
 - `2026-11-10` [[2026-11-10-bilt-selects-cerebras-inference-for-its-consumer-ai-services|Bilt selects Cerebras inference for its consumer AI services]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]

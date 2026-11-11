@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-08-claude-generates-animated-explainers-and-live-dashboards-fro
 - 2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou
-- 2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab
+- 2026-11-10-claude-adds-shared-spreadsheets-and-whiteboards-claude-data
 embedding_id: 2026-10-08-claude-adds-text-to-dashboard-and-text-to-video-beta-feature
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic launched Claude Dashboards, which turns BigQuery and Snowflake data in
 
 **Entities:** [[Anthropic]] · [[Snowflake]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-08-claude-generates-animated-explainers-and-live-dashboards-fro]] · [[2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou]] · [[2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab]]
+**Related:** [[2026-10-08-claude-generates-animated-explainers-and-live-dashboards-fro]] · [[2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou]] · [[2026-11-10-claude-adds-shared-spreadsheets-and-whiteboards-claude-data]]
 <!-- graph:end -->

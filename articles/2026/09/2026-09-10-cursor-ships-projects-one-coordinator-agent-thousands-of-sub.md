@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-10-cursor-brings-shared-project-context-to-teams-of-developers
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
 - 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
 - 2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full
-- 2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code
 embedding_id: 2026-09-10-cursor-ships-projects-one-coordinator-agent-thousands-of-sub
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cursor launched Projects in beta, a workspace where a coordinator agent plans an
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full]] · [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]]
+**Related:** [[2026-11-10-cursor-brings-shared-project-context-to-teams-of-developers]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full]]
 <!-- graph:end -->

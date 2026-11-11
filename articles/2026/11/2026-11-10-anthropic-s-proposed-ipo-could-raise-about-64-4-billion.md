@@ -4,8 +4,8 @@ title: Anthropic’s proposed IPO could raise about $64.4 billion
 date: '2026-11-10'
 source: Reuters
 url_original: null
-url_canonical: https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-10_060302_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: d6caf5f110b6a93cd6c6f0e3cc4a569482d0bc3e9d8ae1ab2b131c7b42050d5f
@@ -24,6 +24,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-10-anthropic-s-proposed-ipo-range-puts-ai-economics-in-focus
 - 2026-11-10-anthropic-sets-ipo-range-at-70-78-implying-up-to-1-404-trill
 - 2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri
 - 2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu
@@ -41,5 +42,5 @@ Reuters reports that Anthropic’s latest draft prospectus outlines an IPO of up
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-11-10-anthropic-sets-ipo-range-at-70-78-implying-up-to-1-404-trill]] · [[2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri]] · [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu]] · [[2026-09-12-anthropic-in-talks-for-a-record-100b-ipo-at-a-2-trillion-val]]
+**Related:** [[2026-11-10-anthropic-s-proposed-ipo-range-puts-ai-economics-in-focus]] · [[2026-11-10-anthropic-sets-ipo-range-at-70-78-implying-up-to-1-404-trill]] · [[2026-11-10-anthropic-sets-a-70-78-ipo-range-valuing-it-at-up-to-1-4-tri]] · [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu]] · [[2026-09-12-anthropic-in-talks-for-a-record-100b-ipo-at-a-2-trillion-val]]
 <!-- graph:end -->

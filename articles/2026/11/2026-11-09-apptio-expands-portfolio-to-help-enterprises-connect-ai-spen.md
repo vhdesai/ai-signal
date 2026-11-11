@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-ibm-launches-apptio-ai-value-roi-to-connect-ai-spend-to-busi
+- 2026-10-28-openai-and-servicenow-pair-available-mcp-integration-with-pl
 - 2026-04-27-
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
-- 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 embedding_id: 2026-11-09-apptio-expands-portfolio-to-help-enterprises-connect-ai-spen
 event_name: ''
 ---
@@ -39,5 +39,5 @@ IBM announced AI consumption-and-usage connections and expanded forecasting, bud
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-ibm-launches-apptio-ai-value-roi-to-connect-ai-spend-to-busi]] · [[2026-04-27-]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]]
+**Related:** [[2026-08-06-ibm-launches-apptio-ai-value-roi-to-connect-ai-spend-to-busi]] · [[2026-10-28-openai-and-servicenow-pair-available-mcp-integration-with-pl]] · [[2026-04-27-]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]]
 <!-- graph:end -->

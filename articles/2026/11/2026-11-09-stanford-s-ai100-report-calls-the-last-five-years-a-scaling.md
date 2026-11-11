@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-10-november-9-2026-education-week
+- 2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
-- 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 embedding_id: 2026-11-09-stanford-s-ai100-report-calls-the-last-five-years-a-scaling
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The third report of Stanford HAI's One Hundred Year Study on AI credits scaling 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-10-november-9-2026-education-week]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]]
+**Related:** [[2026-11-10-november-9-2026-education-week]] · [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]]
 <!-- graph:end -->

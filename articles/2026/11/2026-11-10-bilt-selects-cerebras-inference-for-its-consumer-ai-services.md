@@ -4,8 +4,8 @@ title: Bilt selects Cerebras inference for its consumer AI services
 date: '2026-11-10'
 source: Cerebras company release
 url_original: null
-url_canonical: https://www.cerebras.ai/press-release/bilt-selects-cerebras-to-deliver-faster-ai-experiences-to-more-than-eight-mill-3399287
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-10_060302_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 949e470f9549a4982b68056bb537611ee197d68a8b11e21c38d35b46fb3ae508

@@ -1,20 +1,24 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3797
+member_count: 3801
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3797 connected article(s).
+> Auto-generated topic hub. 3801 connected article(s).
 
 - `2026-11-10` [[2026-11-10-november-9-2026-wired|[November 9, 2026] · [WIRED]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-softbank-losses-expose-ai-infrastructure-procurement-risk|SoftBank losses expose AI infrastructure procurement risk]]
 - `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]
 - `2026-11-10` [[2026-11-10-mit-led-plow-project-receives-up-to-53-million-for-ai-design|MIT-led PLOW project receives up to $53 million for AI-designed herbicide alternatives]]
+- `2026-11-10` [[2026-11-10-google-widens-gemini-4-carbon-to-paying-api-customers-at-2-p|Google widens Gemini 4 Carbon to paying API customers at $2 per million input tokens]]
+- `2026-11-10` [[2026-11-10-google-expands-gemini-4-carbon-beyond-restricted-access|Google expands Gemini 4 Carbon beyond restricted access]]
+- `2026-11-10` [[2026-11-10-google-broadens-paid-access-to-gemini-4-carbon|Google broadens paid access to Gemini 4 Carbon]]
 - `2026-11-10` [[2026-11-10-google-deepmind-s-alphaproof-code-mathematically-proves-the|Google DeepMind's AlphaProof Code mathematically proves the security of Signal's encryption code]]
 - `2026-11-10` [[2026-11-10-google-cloud-previews-gemini-for-healthcare-an-agent-that-co|Google Cloud previews Gemini for healthcare, an agent that coordinates work across health records, claims, and payer systems]]
 - `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]

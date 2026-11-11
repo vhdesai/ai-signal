@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 478
+member_count: 481
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 478 connected article(s).
+> Auto-generated entity hub. 481 connected article(s).
 
+- `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
+- `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
+- `2026-11-10` [[2026-11-10-microsoft-research-demonstrates-backdoors-implanted-through|Microsoft Research demonstrates backdoors implanted through dormant neurons]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]
 - `2026-11-08` [[2026-11-08-consumer-agent-platforms-scale-deepseek-harness-passes-1-5-m|Consumer agent platforms scale: DeepSeek Harness passes 1.5 million daily users as Apple readies a more capable Siri]]
