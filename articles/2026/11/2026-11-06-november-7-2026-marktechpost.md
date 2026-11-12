@@ -5,7 +5,7 @@ date: '2026-11-06'
 source: '[NVIDIA Technical Blog]'
 url_original: https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/
 url_canonical: https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-07_065733_Final-Daily-AI-News-Digest.md
 content_hash: f31bc807a1c3b54f78bcdf5b4ae7deccab24ef885683f6f61d024b5261dbc8dd
 normalized_title_hash: 8679827bf3ef9316

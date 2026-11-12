@@ -1,20 +1,10 @@
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-
-Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2166.46it/s]
 {
   "command": "run-daily",
   "stages": {
     "ingest": {
       "digests_total": 1657,
-      "digests_changed": 5,
-      "changed": [
-        "news\\2026-11-11_000000_Publication-Sources.md",
-        "news\\2026-11-11_060112_Inbox_Daily AI News Digest - November 11, 2026.md",
-        "news\\2026-11-11_061739_Inbox_Daily AI News Digest - November 11, 2026.md",
-        "news\\2026-11-11_065710_Final-Daily-AI-News-Digest.md",
-        "news\\2026-11-11_065724_Inbox_Daily AI News Digest - November 11, 2026.md"
-      ]
+      "digests_changed": 0,
+      "changed": []
     },
     "split": {
       "digests_parsed": 1661,
@@ -28,7 +18,7 @@ Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2166
       "articles_indexed": 11300,
       "embeddings": {
         "enabled": true,
-        "added": 32,
+        "added": 0,
         "total": 11300,
         "md_rewritten": 11299
       }
@@ -50,20 +40,20 @@ Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2166
     },
     "validate-urls": {
       "checked": 5224,
-      "ok": 3722,
-      "broken": 1502,
+      "ok": 3701,
+      "broken": 1523,
       "missing": 6052,
       "skipped": 24
     },
     "repair-urls": {
       "attempted": 6,
-      "repaired": 5,
-      "unresolved": 1,
+      "repaired": 4,
+      "unresolved": 2,
       "skipped": 0,
       "reverted": 0,
       "deferred": 0,
       "terminated": "completed",
-      "elapsed_s": 322.9,
+      "elapsed_s": 331.2,
       "max_workers": 10
     },
     "build-site-daily": {
@@ -72,14 +62,14 @@ Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2166
       "canonical": 8382,
       "site_dir": "C:\\Users\\vdesai\\source\\repos\\Newsletter\\ext-host\\site",
       "mode": "incremental",
-      "changed_articles": 150,
-      "written_files": 105,
-      "elapsed_s": 22.25
+      "changed_articles": 80,
+      "written_files": 97,
+      "elapsed_s": 25.36
     },
     "publish": {
       "status": "dry-run",
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20261111T183026+0000-7722c2.json"
+  "run_log": "indexes\\runs\\run-20261111T200547+0000-814d01.json"
 }

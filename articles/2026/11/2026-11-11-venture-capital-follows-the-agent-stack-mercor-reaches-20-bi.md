@@ -5,8 +5,8 @@ title: 'Venture capital follows the agent stack: Mercor reaches $20 billion as s
 date: '2026-11-11'
 source: PitchBook; November 11, 2026 · The Information
 url_original: null
-url_canonical: https://www.todaysstartupnews.com/startups/mercor-raises-750m-series-d-20b-valuation-enterprise-ai-agent-evaluation
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-11_065724_Inbox_Daily AI News Digest - November
   11, 2026.md
 content_hash: 36724e00c07929c127629b866b5a0eda2bf579ccc5635ca7a98573cb46d75634
