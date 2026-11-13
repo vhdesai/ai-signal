@@ -5,7 +5,7 @@ date: '2026-11-09'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/
 url_canonical: https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-09_061126_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: b28ca896100387fdcacc1e60b1c9650564687f4aa723d83b26d4d4891b1b469f

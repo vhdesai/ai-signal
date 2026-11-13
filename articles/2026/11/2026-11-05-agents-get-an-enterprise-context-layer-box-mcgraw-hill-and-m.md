@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-11-05-at-boxworks-2026-box-launched-box-content-retrieval
 - 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-11-11-november-12-2026-cio-dive-2
 embedding_id: 2026-11-05-agents-get-an-enterprise-context-layer-box-mcgraw-hill-and-m
 event_name: ''
 ---
@@ -38,5 +38,5 @@ At BoxWorks, Box launched a retrieval engine built on Nvidia's Nemotron models t
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-05-at-boxworks-2026-box-launched-box-content-retrieval]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-11-05-at-boxworks-2026-box-launched-box-content-retrieval]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-11-11-november-12-2026-cio-dive-2]]
 <!-- graph:end -->

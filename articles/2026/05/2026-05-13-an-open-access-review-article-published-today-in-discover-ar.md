@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
+- 2026-11-12-mit-trains-faster-more-trustworthy-ai-climate-emulators-with
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 - 2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop
 - 2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools
-- 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 embedding_id: 2026-05-13-an-open-access-review-article-published-today-in-discover-ar
 event_name: ''
 ---
@@ -37,5 +37,5 @@ An open-access review article published today in Discover Artificial Intelligenc
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop]] · [[2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
+**Related:** [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-11-12-mit-trains-faster-more-trustworthy-ai-climate-emulators-with]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop]] · [[2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-10-31'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/
 url_canonical: https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-31_061259_Inbox_Daily AI News Digest - October
   31, 2026.md
 content_hash: b5ced04da46ec07c0986c1e49ef4c02484dd43fdc6662912e6c92067cf15725b

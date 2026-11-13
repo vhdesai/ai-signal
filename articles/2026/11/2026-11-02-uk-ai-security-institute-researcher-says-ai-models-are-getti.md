@@ -5,7 +5,7 @@ date: '2026-11-02'
 source: '[The Information]'
 url_original: https://www.theinformation.com/articles/ai-models-getting-harder-monitor-says-u-k-governments-joseph-bloom
 url_canonical: https://www.theinformation.com/articles/ai-models-getting-harder-monitor-says-u-k-governments-joseph-bloom
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-03_061250_Inbox_Daily AI News Digest - November
   3, 2026.md
 content_hash: 87f059ed28277d0c65ec41777de0f3d35f5276d4f2b4ef6715a17670d1aa39ac

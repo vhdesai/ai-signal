@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis
 - 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
 - 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
+- 2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft
 - 2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins
-- 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
 embedding_id: 2026-06-25-amazon-microsoft-back-raise-us-a-1b-nonprofit-to-retrain-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon, Microsoft and other tech firms joined RAISE US, a new bipartisan workfor
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis]] · [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi]] · [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]] · [[2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]]
+**Related:** [[2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis]] · [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi]] · [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]] · [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft]] · [[2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins]]
 <!-- graph:end -->

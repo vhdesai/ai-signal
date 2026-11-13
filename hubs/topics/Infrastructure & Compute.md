@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2414
+member_count: 2418
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2414 connected article(s).
+> Auto-generated topic hub. 2418 connected article(s).
 
+- `2026-11-12` [[2026-11-12-november-11-2026-wall-street-journal|[November 11, 2026] · [Wall Street Journal]]]
+- `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]
+- `2026-11-11` [[2026-11-11-november-11-2026-cnbc|[November 11, 2026] · [CNBC]]]
+- `2026-11-11` [[2026-11-11-inference-resellers-start-buying-their-own-gpus-as-coreweave|Inference resellers start buying their own GPUs as CoreWeave turns to investment-grade debt]]
 - `2026-11-11` [[2026-11-11-democratic-midterm-sweep-rattles-the-data-center-bets-that-l|Democratic midterm sweep rattles the data-center bets that lifted US infrastructure funds]]
 - `2026-11-10` [[2026-11-10-november-9-2026-wired|[November 9, 2026] · [WIRED]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]

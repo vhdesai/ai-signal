@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2985
+member_count: 2987
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2985 connected article(s).
+> Auto-generated entity hub. 2987 connected article(s).
 
+- `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-11` [[2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights|United Airlines bans personal AI agents from booking flights as gatekeepers push back on consumer agents]]
 - `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
 - `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]

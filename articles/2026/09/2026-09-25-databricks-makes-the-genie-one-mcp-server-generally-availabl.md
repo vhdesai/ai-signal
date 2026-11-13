@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
+- 2026-11-11-november-12-2026-cio-dive-2
+- 2026-11-11-databricks-turns-genie-into-an-always-on-business-agent-as-t
 - 2026-05-23-google-confirms-gemini-spark-mcp-rollout-canva-magic-layers
 - 2026-10-28-openai-and-servicenow-pair-available-mcp-integration-with-pl
-- 2026-08-21-replit-ships-an-mcp-server-for-managing-apps-from-chatgpt-cl
-- 2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark
 embedding_id: 2026-09-25-databricks-makes-the-genie-one-mcp-server-generally-availabl
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Databricks moved the Genie One MCP server to general availability in Unity Gatew
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-05-23-google-confirms-gemini-spark-mcp-rollout-canva-magic-layers]] · [[2026-10-28-openai-and-servicenow-pair-available-mcp-integration-with-pl]] · [[2026-08-21-replit-ships-an-mcp-server-for-managing-apps-from-chatgpt-cl]] · [[2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark]]
+**Related:** [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-11-11-november-12-2026-cio-dive-2]] · [[2026-11-11-databricks-turns-genie-into-an-always-on-business-agent-as-t]] · [[2026-05-23-google-confirms-gemini-spark-mcp-rollout-canva-magic-layers]] · [[2026-10-28-openai-and-servicenow-pair-available-mcp-integration-with-pl]]
 <!-- graph:end -->

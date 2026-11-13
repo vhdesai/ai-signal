@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic
 - 2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua
 - 2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh
-- 2026-08-15-british-ai-chip-founder-becomes-europe-s-youngest-self-made
+- 2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some
 embedding_id: 2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic
 event_name: ''
 ---
@@ -40,5 +40,5 @@ PitchBook reported that London-based optical AI-chip startup Olix raised a $312 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica]] · [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic]] · [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]] · [[2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh]] · [[2026-08-15-british-ai-chip-founder-becomes-europe-s-youngest-self-made]]
+**Related:** [[2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica]] · [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic]] · [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]] · [[2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh]] · [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-11-02'
 source: '[Wall Street Journal]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+revenue+Q3
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+revenue+Q3
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-03_065703_Final-Daily-AI-News-Digest.md
 content_hash: 2b57a76d148f895b0972b188fe6af3ced73b18224fd84253daa0c2085f43add1
 normalized_title_hash: ef85278a773503cf

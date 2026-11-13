@@ -5,7 +5,7 @@ date: '2026-11-06'
 source: '[The Information]'
 url_original: https://www.theinformation.com/briefings/gpu-futures-hopes-hit-another-roadblock-cme-delays-launch-second-time
 url_canonical: https://www.theinformation.com/briefings/gpu-futures-hopes-hit-another-roadblock-cme-delays-launch-second-time
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-07_061155_Inbox_Daily AI News Digest - November
   7, 2026.md
 content_hash: 0f26ab8698ac57ef317664c67ca06ffd7c3c811e16d2579c8720c24cace9e9e2

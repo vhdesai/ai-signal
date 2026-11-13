@@ -6,7 +6,7 @@ date: '2026-09-04'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/
 url_canonical: https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: a9ddd67cfa6f6dfc355b4a4e82fb1c408ee3dc0161e8dd8834b8c96b27d13da5
@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for
 - 2026-09-01-google-introduces-agentic-video-understanding-for-gemini
 - 2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google
 - 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
-- 2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing
 embedding_id: 2026-09-04-google-ships-agentic-video-understanding-for-gemini-flash-up
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Rather than ingesting video at a fixed one-frame-per-second rate, Gemini now nav
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-google-introduces-agentic-video-understanding-for-gemini]] · [[2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]] · [[2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing]]
+**Related:** [[2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for]] · [[2026-09-01-google-introduces-agentic-video-understanding-for-gemini]] · [[2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]]
 <!-- graph:end -->

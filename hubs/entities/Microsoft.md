@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1145
+member_count: 1149
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1145 connected article(s).
+> Auto-generated entity hub. 1149 connected article(s).
 
+- `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]
+- `2026-11-11` [[2026-11-11-november-12-2026-cio-dive-2|[November 12, 2026] · [CIO Dive]]]
+- `2026-11-11` [[2026-11-11-november-11-2026-cnbc|[November 11, 2026] · [CNBC]]]
+- `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
 - `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]

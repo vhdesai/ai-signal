@@ -5,8 +5,8 @@ title: Anthropic's roadshow filing adds $10 billion of Microsoft and Google comp
 date: '2026-11-11'
 source: The Information; November 11, 2026 · DealBook; November 10, 2026 · CNBC
 url_original: null
-url_canonical: https://cryptobriefing.com/anthropic-compute-commitments-microsoft-google-ipo/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-11_065724_Inbox_Daily AI News Digest - November
   11, 2026.md
 content_hash: 93779621c76767e5ffeefc08761c8df0e8fb2b0f75d280471719daff3ea92dfb

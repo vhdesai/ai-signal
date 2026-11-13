@@ -1,16 +1,25 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1854
+member_count: 1863
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1854 connected article(s).
+> Auto-generated entity hub. 1863 connected article(s).
 
+- `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity-2|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-12` [[2026-11-12-november-12-2026-dealbook|[November 12, 2026] · [DealBook]]]
+- `2026-11-12` [[2026-11-12-november-11-2026-wall-street-journal|[November 11, 2026] · [Wall Street Journal]]]
+- `2026-11-12` [[2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i|Jensen Huang resigns as Nvidia CEO; CFO Colette Kress steps in while the board searches for a successor]]
+- `2026-11-12` [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some|Capital keeps flowing to AI chips and robotics even as some allocators step back from the AI trade]]
+- `2026-11-11` [[2026-11-11-november-11-2026-the-information|[November 11, 2026] · [The Information]]]
 - `2026-11-11` [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia|The Huang scandal becomes an export-control fight as Nvidia's board hires Wachtell]]
 - `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
+- `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
+- `2026-11-11` [[2026-11-11-inference-resellers-start-buying-their-own-gpus-as-coreweave|Inference resellers start buying their own GPUs as CoreWeave turns to investment-grade debt]]
 - `2026-11-11` [[2026-11-11-democratic-midterm-sweep-rattles-the-data-center-bets-that-l|Democratic midterm sweep rattles the data-center bets that lifted US infrastructure funds]]
+- `2026-11-11` [[2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole|Commerce moves to close China's remote chip-access loophole as Congress digs into Nvidia's China records]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook-2|[November 10, 2026] · [DealBook]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]

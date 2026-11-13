@@ -27,8 +27,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi
+- 2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft
+- 2026-11-11-november-11-2026-cnbc
 - 2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c
-- 2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal
 embedding_id: 2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate
 event_name: ''
 ---
@@ -42,5 +43,5 @@ Meta is hiring Dave Brown, one of AWS's most senior compute and AI executives, t
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi]] · [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c]] · [[2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal]]
+**Related:** [[2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi]] · [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft]] · [[2026-11-11-november-11-2026-cnbc]] · [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base
 - 2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as
 - 2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an
-- 2026-08-20-morgan-stanley-downgrades-baidu-to-underweight-as-ernie-lags
+- 2026-11-12-baidu-launches-ernie-5-5-flash-preview-and-a-token-exchange
 embedding_id: 2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Baidu officially released ERNIE 5.1 with a striking efficiency claim: roughly 94
 
 **Entities:** [[Baidu]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra]] · [[2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base]] · [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as]] · [[2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an]] · [[2026-08-20-morgan-stanley-downgrades-baidu-to-underweight-as-ernie-lags]]
+**Related:** [[2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra]] · [[2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base]] · [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as]] · [[2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an]] · [[2026-11-12-baidu-launches-ernie-5-5-flash-preview-and-a-token-exchange]]
 <!-- graph:end -->

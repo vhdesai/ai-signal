@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as
+- 2026-11-12-baidu-launches-ernie-5-5-flash-preview-and-a-token-exchange
 - 2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to
 - 2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra
 - 2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an
-- 2026-11-09-baidu-introduces-ernie-evolve-for-automated-research
 embedding_id: 2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Baidu released downloadable weights for ERNIE-5.5-Flash-Base, a text-only mixtur
 
 **Entities:** [[Baidu]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as]] · [[2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to]] · [[2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra]] · [[2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an]] · [[2026-11-09-baidu-introduces-ernie-evolve-for-automated-research]]
+**Related:** [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as]] · [[2026-11-12-baidu-launches-ernie-5-5-flash-preview-and-a-token-exchange]] · [[2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to]] · [[2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra]] · [[2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an]]
 <!-- graph:end -->

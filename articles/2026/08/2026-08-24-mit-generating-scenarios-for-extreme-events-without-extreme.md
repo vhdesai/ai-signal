@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools
 - 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
 - 2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener
-- 2026-09-21-academic-counterargument-extinction-scenarios-require-physic
+- 2026-11-12-mit-trains-faster-more-trustworthy-ai-climate-emulators-with
 embedding_id: 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MIT engineers published an algorithm that generates plausible extreme-event and 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener]] · [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic]]
+**Related:** [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener]] · [[2026-11-12-mit-trains-faster-more-trustworthy-ai-climate-emulators-with]]
 <!-- graph:end -->

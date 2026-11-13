@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 1015
+member_count: 1020
 ---
 
 # Meta
 
-> Auto-generated entity hub. 1015 connected article(s).
+> Auto-generated entity hub. 1020 connected article(s).
 
+- `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]
+- `2026-11-11` [[2026-11-11-november-11-2026-cnbc|[November 11, 2026] · [CNBC]]]
+- `2026-11-11` [[2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights|United Airlines bans personal AI agents from booking flights as gatekeepers push back on consumer agents]]
+- `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]

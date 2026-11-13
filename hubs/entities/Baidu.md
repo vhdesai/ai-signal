@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 155
+member_count: 157
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 155 connected article(s).
+> Auto-generated entity hub. 157 connected article(s).
 
+- `2026-11-12` [[2026-11-12-baidu-launches-ernie-5-5-flash-preview-and-a-token-exchange|Baidu launches ERNIE 5.5 Flash Preview and a Token Exchange marketplace for model services]]
+- `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]

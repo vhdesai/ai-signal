@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 - 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
+- 2026-11-11-november-12-2026-cio-dive-2
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
-- 2026-09-02-trust3-ai-extends-agent-security-controls-to-the-databricks
 embedding_id: 2026-09-06-databricks-launches-context-engineer-certification-and-expan
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Databricks announced an expansion of its AI agent training offerings, including 
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-09-02-trust3-ai-extends-agent-security-controls-to-the-databricks]]
+**Related:** [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]] · [[2026-11-11-november-12-2026-cio-dive-2]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]]
 <!-- graph:end -->

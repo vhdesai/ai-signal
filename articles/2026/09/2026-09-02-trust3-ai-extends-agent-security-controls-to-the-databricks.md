@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
+- 2026-11-11-november-12-2026-cio-dive-2
+- 2026-11-11-databricks-turns-genie-into-an-always-on-business-agent-as-t
 - 2026-09-06-databricks-launches-context-engineer-certification-and-expan
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
-- event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
-- 2026-10-19-microsoft-xnode-and-sumsub-add-control-planes-for-rogue-agen
 embedding_id: 2026-09-02-trust3-ai-extends-agent-security-controls-to-the-databricks
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Trust3 AI, founded by the creators of Apache Ranger, extended purpose-based agen
 
 **Entities:** [[Databricks]] · [[Snowflake]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-09-06-databricks-launches-context-engineer-certification-and-expan]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[2026-10-19-microsoft-xnode-and-sumsub-add-control-planes-for-rogue-agen]]
+**Related:** [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-11-11-november-12-2026-cio-dive-2]] · [[2026-11-11-databricks-turns-genie-into-an-always-on-business-agent-as-t]] · [[2026-09-06-databricks-launches-context-engineer-certification-and-expan]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]]
 <!-- graph:end -->

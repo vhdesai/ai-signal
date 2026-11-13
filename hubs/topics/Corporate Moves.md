@@ -1,16 +1,26 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5338
+member_count: 5348
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5338 connected article(s).
+> Auto-generated topic hub. 5348 connected article(s).
 
+- `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-12` [[2026-11-12-november-12-2026-dealbook|[November 12, 2026] · [DealBook]]]
+- `2026-11-12` [[2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i|Jensen Huang resigns as Nvidia CEO; CFO Colette Kress steps in while the board searches for a successor]]
+- `2026-11-12` [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some|Capital keeps flowing to AI chips and robotics even as some allocators step back from the AI trade]]
+- `2026-11-11` [[2026-11-11-november-12-2026-cio-dive-2|[November 12, 2026] · [CIO Dive]]]
+- `2026-11-11` [[2026-11-11-november-11-2026-the-information|[November 11, 2026] · [The Information]]]
 - `2026-11-11` [[2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi|Venture capital follows the agent stack: Mercor reaches $20 billion as security and agent oversight draw new rounds]]
+- `2026-11-11` [[2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights|United Airlines bans personal AI agents from booking flights as gatekeepers push back on consumer agents]]
 - `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
+- `2026-11-11` [[2026-11-11-databricks-turns-genie-into-an-always-on-business-agent-as-t|Databricks turns Genie into an always-on business agent as the Linux Foundation backs an agent naming standard]]
 - `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
+- `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-an-ai-holding|AI services find business models: Sequoia backs an AI holding company as Anthropic's Ode adds results-based fees]]
+- `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-ai-holding-co|AI services find business models: Sequoia backs AI holding company Sequence as Anthropic's Ode adds performance fees]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]

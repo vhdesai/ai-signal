@@ -1,16 +1,20 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2632
+member_count: 2636
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2632 connected article(s).
+> Auto-generated entity hub. 2636 connected article(s).
 
 - `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
+- `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
 - `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
 - `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
+- `2026-11-11` [[2026-11-11-anthropic-finds-agent-teams-acting-for-separate-users-underp|Anthropic finds agent teams acting for separate users underperform a single coordinating agent]]
+- `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-an-ai-holding|AI services find business models: Sequoia backs an AI holding company as Anthropic's Ode adds results-based fees]]
+- `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-ai-holding-co|AI services find business models: Sequoia backs AI holding company Sequence as Anthropic's Ode adds performance fees]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]

@@ -1,15 +1,20 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1413
+member_count: 1418
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1413 connected article(s).
+> Auto-generated topic hub. 1418 connected article(s).
 
+- `2026-11-12` [[2026-11-12-november-11-2026-wall-street-journal|[November 11, 2026] · [Wall Street Journal]]]
+- `2026-11-12` [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some|Capital keeps flowing to AI chips and robotics even as some allocators step back from the AI trade]]
+- `2026-11-11` [[2026-11-11-november-11-2026-the-information|[November 11, 2026] · [The Information]]]
 - `2026-11-11` [[2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi|Venture capital follows the agent stack: Mercor reaches $20 billion as security and agent oversight draw new rounds]]
 - `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
+- `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-an-ai-holding|AI services find business models: Sequoia backs an AI holding company as Anthropic's Ode adds results-based fees]]
+- `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-ai-holding-co|AI services find business models: Sequoia backs AI holding company Sequence as Anthropic's Ode adds performance fees]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]

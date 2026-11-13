@@ -5,7 +5,7 @@ date: '2026-10-28'
 source: '[Berkeley RDI]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Shopify+agentic+payments
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Shopify+agentic+payments
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-29_070116_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: 6dcf7129a5a654ef063193ecb8cdccf79bad720e0754b1e22fea29ab573343bf

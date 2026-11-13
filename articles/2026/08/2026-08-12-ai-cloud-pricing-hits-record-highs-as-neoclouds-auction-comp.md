@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
 - 2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex
 - 2026-08-21-gpu-neocloud-comparison-ranks-providers-by-pricing-and-contr
-- 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
+- 2026-11-11-inference-resellers-start-buying-their-own-gpus-as-coreweave
 embedding_id: 2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp
 event_name: ''
 ---
@@ -38,5 +38,5 @@ GPU cloud pricing is at unprecedented levels. CoreWeave raised prices 25% in Jul
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]] · [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-08-21-gpu-neocloud-comparison-ranks-providers-by-pricing-and-contr]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]]
+**Related:** [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]] · [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-08-21-gpu-neocloud-comparison-ranks-providers-by-pricing-and-contr]] · [[2026-11-11-inference-resellers-start-buying-their-own-gpus-as-coreweave]]
 <!-- graph:end -->

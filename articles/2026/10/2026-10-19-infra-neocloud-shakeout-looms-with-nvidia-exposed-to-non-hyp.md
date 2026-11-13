@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 - 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
+- 2026-11-12-november-11-2026-wall-street-journal
 - 2026-11-06-november-6-2026-reuters
-- 2026-10-12-microsoft-moves-to-reduce-nvidia-dependence-with-maia-300-at
 embedding_id: 2026-10-19-infra-neocloud-shakeout-looms-with-nvidia-exposed-to-non-hyp
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Industry executives expect only 7 to 10 of hundreds of AI cloud providers to sur
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-11-06-november-6-2026-reuters]] · [[2026-10-12-microsoft-moves-to-reduce-nvidia-dependence-with-maia-300-at]]
+**Related:** [[2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-11-12-november-11-2026-wall-street-journal]] · [[2026-11-06-november-6-2026-reuters]]
 <!-- graph:end -->

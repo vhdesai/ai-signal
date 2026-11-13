@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-kimi-k3-post-trained-coding/
 url_canonical: https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-kimi-k3-post-trained-coding/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-13_070011_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 9ea05d1af573cc836726c31546c155da913d1b3ed26fb260f925d7b72f251c40

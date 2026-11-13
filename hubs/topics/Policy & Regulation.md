@@ -1,15 +1,18 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2415
+member_count: 2418
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2415 connected article(s).
+> Auto-generated topic hub. 2418 connected article(s).
 
+- `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity-2|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-11` [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia|The Huang scandal becomes an export-control fight as Nvidia's board hires Wachtell]]
+- `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
 - `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
+- `2026-11-11` [[2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole|Commerce moves to close China's remote chip-access loophole as Congress digs into Nvidia's China records]]
 - `2026-11-10` [[2026-11-10-november-9-2026-wired|[November 9, 2026] · [WIRED]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]

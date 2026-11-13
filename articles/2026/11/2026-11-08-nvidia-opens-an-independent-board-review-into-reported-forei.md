@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-08-november-9-2026-wall-street-journal-wsj-politics
 - 2026-11-09-november-9-2026-dealbook
-- 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
+- 2026-11-12-november-12-2026-dealbook
 embedding_id: 2026-11-08-nvidia-opens-an-independent-board-review-into-reported-forei
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nvidia's board has initiated an independent review of reports that CEO Jensen Hu
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]]
+**Related:** [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-12-november-12-2026-dealbook]]
 <!-- graph:end -->

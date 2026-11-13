@@ -6,7 +6,7 @@ date: '2026-05-18'
 source: Cornell Chronicle
 url_original: https://news.cornell.edu/stories/2026/05/toyota-research-institute-cornell-partner-ai-projects
 url_canonical: https://news.cornell.edu/stories/2026/05/toyota-research-institute-cornell-partner-ai-projects
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 254162098f92fd561455ba764ab06ecb3e2d3ffeef3c7955a932d79a4cab3ef5
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh
 - 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-- 2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three
+- 2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati
 embedding_id: 2026-05-18-breaking-cornell-and-toyota-research-institute-launch-31-uni
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cornell joined Toyota Research Institute's University Research Program 3.0 along
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh]] · [[2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three]]
+**Related:** [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh]] · [[2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati]]
 <!-- graph:end -->

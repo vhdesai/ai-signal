@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance
+- 2026-11-12-november-12-2026-wsj-pro-cybersecurity
+- 2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights
 - 2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
-- 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
 embedding_id: 2026-10-13-jpmorgan-limits-third-party-agents-direct-account-access
 event_name: ''
 ---
@@ -37,5 +38,5 @@ JPMorgan blocks outside agents from operating customer accounts through shared c
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance]] · [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]] · [[2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s]]
+**Related:** [[2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance]] · [[2026-11-12-november-12-2026-wsj-pro-cybersecurity]] · [[2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights]] · [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]]
 <!-- graph:end -->

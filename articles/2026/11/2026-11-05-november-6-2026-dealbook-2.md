@@ -5,7 +5,7 @@ date: '2026-11-05'
 source: '[The Information]'
 url_original: https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html
 url_canonical: https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-06_070742_Inbox_Daily AI News Digest - November
   6, 2026.md
 content_hash: c787314d47e1371493d7f2edbbe146bd850645d51b561613af71b81213524ef8

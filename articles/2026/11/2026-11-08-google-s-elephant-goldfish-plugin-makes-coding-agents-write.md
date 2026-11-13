@@ -6,7 +6,7 @@ date: '2026-11-08'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/
 url_canonical: https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-08_061441_Inbox_Daily AI News Digest - November
   8, 2026.md
 content_hash: 8554f63c77d2e59d495199966f7239c41cd32b0be30f3669ed8bbb8f6f00ab02

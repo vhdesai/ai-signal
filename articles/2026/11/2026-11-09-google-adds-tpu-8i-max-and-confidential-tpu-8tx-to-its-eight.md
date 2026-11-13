@@ -5,7 +5,7 @@ date: '2026-11-09'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/11/09/google-tpu-8i-max-tpu-8tx/
 url_canonical: https://www.marktechpost.com/2026/11/09/google-tpu-8i-max-tpu-8tx/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-10_060826_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: c15ecb26c86f5183e80d5d2fc9f30d0050c2130917b5cd59c77b70145f85607b

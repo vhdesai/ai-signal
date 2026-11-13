@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 - 2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw
+- 2026-11-11-anthropic-finds-agent-teams-acting-for-separate-users-underp
 embedding_id: 2026-11-06-anthropic-examines-offline-consolidation-for-agent-memory
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Anthropic describes agents reviewing transcripts to correct and organize persist
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw]]
+**Related:** [[2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw]] · [[2026-11-11-anthropic-finds-agent-teams-acting-for-separate-users-underp]]
 <!-- graph:end -->

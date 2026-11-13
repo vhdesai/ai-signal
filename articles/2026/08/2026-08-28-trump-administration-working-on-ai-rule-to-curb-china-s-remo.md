@@ -22,10 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote
+- 2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole
 - 2026-08-27-trump-admin-s-ai-self-regulatory-eo-stalls-new-china-chip-ac
 - 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
-- 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
-- 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 embedding_id: 2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo
 event_name: ''
 ---
@@ -38,5 +37,5 @@ AI rule targets China’s remote access to compute capacity through cloud provid
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote]] · [[2026-08-27-trump-admin-s-ai-self-regulatory-eo-stalls-new-china-chip-ac]] · [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]]
+**Related:** [[2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote]] · [[2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole]] · [[2026-08-27-trump-admin-s-ai-self-regulatory-eo-stalls-new-china-chip-ac]] · [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]]
 <!-- graph:end -->

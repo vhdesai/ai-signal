@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer
 - 2026-10-19-october-20-2026-pitchbook
+- 2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some
 - 2026-09-12-positron-valued-at-5b-in-new-funding-as-ai-chip-demand-surge
-- 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
 embedding_id: 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The AI-chip company raised $1.5 billion to continue scaling its open-weight AI-c
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer]] · [[2026-10-19-october-20-2026-pitchbook]] · [[2026-09-12-positron-valued-at-5b-in-new-funding-as-ai-chip-demand-surge]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]]
+**Related:** [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer]] · [[2026-10-19-october-20-2026-pitchbook]] · [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some]] · [[2026-09-12-positron-valued-at-5b-in-new-funding-as-ai-chip-demand-surge]]
 <!-- graph:end -->

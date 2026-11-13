@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
 - 2026-04-13-products-tools
+- 2026-11-11-november-12-2026-cio-dive-2
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
 - 2026-09-06-databricks-launches-context-engineer-certification-and-expan
-- 2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del
 embedding_id: 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Databricks extended Mosaic AI with first-class agent deployment primitives, whil
 
 **Entities:** [[Databricks]] · [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]] · [[2026-04-13-products-tools]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-09-06-databricks-launches-context-engineer-certification-and-expan]] · [[2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del]]
+**Related:** [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]] · [[2026-04-13-products-tools]] · [[2026-11-11-november-12-2026-cio-dive-2]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-09-06-databricks-launches-context-engineer-certification-and-expan]]
 <!-- graph:end -->

@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1811
+member_count: 1814
 ---
 
 # Google
 
-> Auto-generated entity hub. 1811 connected article(s).
+> Auto-generated entity hub. 1814 connected article(s).
 
+- `2026-11-12` [[2026-11-12-november-11-2026-google|[November 11, 2026] · [Google]]]
+- `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
 - `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
+- `2026-11-11` [[2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for|Google's Gemini Decision 1 adds a low-cost scoring layer for agent workflows]]
 - `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
 - `2026-11-10` [[2026-11-10-november-9-2026-wired|[November 9, 2026] · [WIRED]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]

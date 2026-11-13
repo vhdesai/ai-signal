@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-overseas-as-u
 - 2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote
 - 2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo
+- 2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
-- 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
 embedding_id: 2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-offshore-as-u
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Chinese labs including Moonshot AI have accessed restricted Nvidia GB300-class c
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-overseas-as-u]] · [[2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote]] · [[2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]]
+**Related:** [[2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-overseas-as-u]] · [[2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote]] · [[2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo]] · [[2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]]
 <!-- graph:end -->

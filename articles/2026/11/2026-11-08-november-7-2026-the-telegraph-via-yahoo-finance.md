@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris
 - 2026-11-07-november-9-2026-business-insider
 - 2026-11-08-teams-of-ai-agents-prove-more-effective-and-less-ethical-tha
-- 2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa
+- 2026-11-12-november-12-2026-wsj-pro-cybersecurity
 embedding_id: 2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance
 event_name: ''
 ---
@@ -40,5 +40,5 @@ HSBC, Nationwide, NatWest, Barclays and Lloyds have moved to block AI agents, in
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-11-07-britain-s-biggest-banks-block-ai-agents-from-customer-accoun]] · [[2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris]] · [[2026-11-07-november-9-2026-business-insider]] · [[2026-11-08-teams-of-ai-agents-prove-more-effective-and-less-ethical-tha]] · [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]]
+**Related:** [[2026-11-07-britain-s-biggest-banks-block-ai-agents-from-customer-accoun]] · [[2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris]] · [[2026-11-07-november-9-2026-business-insider]] · [[2026-11-08-teams-of-ai-agents-prove-more-effective-and-less-ethical-tha]] · [[2026-11-12-november-12-2026-wsj-pro-cybersecurity]]
 <!-- graph:end -->

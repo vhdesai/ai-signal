@@ -5,8 +5,8 @@ date: '2026-11-11'
 source: Wall Street Journal; November 11, 2026 · DealBook; November 11, 2026 · The
   Information; November 11, 2026 · Business Insider
 url_original: null
-url_canonical: https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-11_065724_Inbox_Daily AI News Digest - November
   11, 2026.md
 content_hash: 093407ab560a93f76c9d0c50ac53bbc67191bf6596885d32d8fc453a00d35c67

@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 554
+member_count: 556
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 554 connected article(s).
+> Auto-generated topic hub. 556 connected article(s).
 
+- `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-an-ai-holding|AI services find business models: Sequoia backs an AI holding company as Anthropic's Ode adds results-based fees]]
+- `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-ai-holding-co|AI services find business models: Sequoia backs AI holding company Sequence as Anthropic's Ode adds performance fees]]
 - `2026-11-10` [[2026-11-10-openai-turns-chatgpt-into-a-business-channel-and-buys-travel|OpenAI turns ChatGPT into a business channel and buys travel agent Odessia]]
 - `2026-11-10` [[2026-11-10-openai-opens-a-business-discovery-and-agent-channel-inside-c|OpenAI opens a business-discovery and agent channel inside ChatGPT]]
 - `2026-11-10` [[2026-11-10-advertisers-say-ai-chatbots-are-starting-to-dent-google-s-22|Advertisers say AI chatbots are starting to dent Google's $224 billion search-ads engine]]

@@ -5,8 +5,8 @@ title: TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins a
 date: '2026-11-11'
 source: Wall Street Journal
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/tsmc-approves-1-billion-investment-111521145.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-11_065724_Inbox_Daily AI News Digest - November
   11, 2026.md
 content_hash: b961609cf3b1743768e062b31f9526d5e10af2ce04b02e0359a3da24cce83b8a

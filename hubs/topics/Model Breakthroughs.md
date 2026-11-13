@@ -1,13 +1,21 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3801
+member_count: 3809
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3801 connected article(s).
+> Auto-generated topic hub. 3809 connected article(s).
 
+- `2026-11-12` [[2026-11-12-november-11-2026-google|[November 11, 2026] · [Google]]]
+- `2026-11-12` [[2026-11-12-mit-trains-faster-more-trustworthy-ai-climate-emulators-with|MIT trains faster, more trustworthy AI climate emulators with far less simulation data]]
+- `2026-11-12` [[2026-11-12-baidu-launches-ernie-5-5-flash-preview-and-a-token-exchange|Baidu launches ERNIE 5.5 Flash Preview and a Token Exchange marketplace for model services]]
+- `2026-11-11` [[2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for|Google's Gemini Decision 1 adds a low-cost scoring layer for agent workflows]]
+- `2026-11-11` [[2026-11-11-deepmind-s-alphagenome-2-predicts-dna-variant-effects-in-spe|DeepMind's AlphaGenome 2 predicts DNA-variant effects in specific cell types]]
+- `2026-11-11` [[2026-11-11-berkeley-s-cyberbingym-shows-ai-agents-can-turn-binary-secur|Berkeley's CyberBinGym shows AI agents can turn binary security patches into working exploits]]
+- `2026-11-11` [[2026-11-11-berkeley-s-cyberbingym-shows-ai-agents-can-reverse-engineer|Berkeley's CyberBinGym shows AI agents can reverse-engineer security patches into working exploits]]
+- `2026-11-11` [[2026-11-11-anthropic-finds-agent-teams-acting-for-separate-users-underp|Anthropic finds agent teams acting for separate users underperform a single coordinating agent]]
 - `2026-11-10` [[2026-11-10-november-9-2026-wired|[November 9, 2026] · [WIRED]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]

@@ -5,8 +5,8 @@ title: Democratic midterm sweep rattles the data-center bets that lifted US infr
 date: '2026-11-11'
 source: PitchBook; November 10, 2026 · The Information
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/midterms-rattle-data-centre-bets-112607617.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-11_065724_Inbox_Daily AI News Digest - November
   11, 2026.md
 content_hash: e424c6099f23d1a1bbf7a8dcdc29d67417aaffef22a929e06143dadac2b023fe

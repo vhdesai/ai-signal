@@ -1,15 +1,19 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1771
+member_count: 1775
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1771 connected article(s).
+> Auto-generated topic hub. 1775 connected article(s).
 
+- `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity-2|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-12` [[2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i|Jensen Huang resigns as Nvidia CEO; CFO Colette Kress steps in while the board searches for a successor]]
 - `2026-11-11` [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia|The Huang scandal becomes an export-control fight as Nvidia's board hires Wachtell]]
 - `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
+- `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
+- `2026-11-11` [[2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole|Commerce moves to close China's remote chip-access loophole as Congress digs into Nvidia's China records]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook-2|[November 10, 2026] · [DealBook]]]

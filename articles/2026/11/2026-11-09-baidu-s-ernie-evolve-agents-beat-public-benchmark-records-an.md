@@ -6,7 +6,7 @@ date: '2026-11-09'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/11/09/baidu-ernie-evolve-automated-research-system/
 url_canonical: https://www.marktechpost.com/2026/11/09/baidu-ernie-evolve-automated-research-system/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-10_061512_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 956f8be4445d11b5be019a93e70ea14f1674dcf3c18872b2aa2f213f45c5a4a0

@@ -6,7 +6,7 @@ source: CIO Dive; November 8, 2026 · Business Insider; November 7, 2026 · Wall
   Journal*
 url_original: https://www.ciodive.com/news/insurers-race-capture-value-agentic-ai/874047/
 url_canonical: https://www.ciodive.com/news/insurers-race-capture-value-agentic-ai/874047/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-09_084847_Final-Daily-AI-News-Digest.md
 content_hash: ddd33e9953eb1a3b7237b16d18cf63c412f7a6ff29136975c91d009c4be552ca
 normalized_title_hash: 5c9517249d6a2eb6

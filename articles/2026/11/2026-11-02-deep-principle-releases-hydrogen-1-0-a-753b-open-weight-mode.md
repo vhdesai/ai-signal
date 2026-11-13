@@ -6,7 +6,7 @@ date: '2026-11-02'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/
 url_canonical: https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-03_061250_Inbox_Daily AI News Digest - November
   3, 2026.md
 content_hash: b174e95779d12df87bac510164d0ab5ca1cacfb82927e1db8e35909f4be58ba1

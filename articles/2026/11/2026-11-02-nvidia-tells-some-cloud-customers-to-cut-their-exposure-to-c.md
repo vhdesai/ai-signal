@@ -5,7 +5,7 @@ date: '2026-11-02'
 source: '[The Information]'
 url_original: https://www.theinformation.com/briefings/nvidia-tells-cloud-clients-take-less-china-business
 url_canonical: https://www.theinformation.com/briefings/nvidia-tells-cloud-clients-take-less-china-business
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-03_061250_Inbox_Daily AI News Digest - November
   3, 2026.md
 content_hash: dee37af26e8c401a25e25514c789057db2baf57212b086c9421006b358ab518e

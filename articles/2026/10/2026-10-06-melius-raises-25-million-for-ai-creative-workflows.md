@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 embedding_id: 2026-10-06-melius-raises-25-million-for-ai-creative-workflows
@@ -34,5 +35,5 @@ Melius disclosed $25 million across seed and Series A financing for AI-generated
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Related:** [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
 <!-- graph:end -->

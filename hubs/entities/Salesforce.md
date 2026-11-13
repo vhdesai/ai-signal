@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 101
+member_count: 103
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 101 connected article(s).
+> Auto-generated entity hub. 103 connected article(s).
 
+- `2026-11-11` [[2026-11-11-november-12-2026-cio-dive-2|[November 12, 2026] · [CIO Dive]]]
+- `2026-11-11` [[2026-11-11-databricks-turns-genie-into-an-always-on-business-agent-as-t|Databricks turns Genie into an always-on business agent as the Linux Foundation backs an agent naming standard]]
 - `2026-11-03` [[2026-11-03-november-3-2026-the-information|[November 3, 2026] · [The Information]]]
 - `2026-11-03` [[2026-11-03-enterprise-ai-consolidation-salesforce-buys-cresta-crowdstri|Enterprise AI consolidation: Salesforce buys Cresta; CrowdStrike buys two AI-security startups]]
 - `2026-11-03` [[2026-11-03-enterprise-ai-consolidation-salesforce-buys-cresta-as-crowds|Enterprise AI consolidation: Salesforce buys Cresta as CrowdStrike buys two AI-security startups]]

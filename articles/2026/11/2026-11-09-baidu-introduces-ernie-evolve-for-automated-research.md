@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an
 - 2026-11-09-baidu-s-ernie-evolve-automates-ml-research-and-lifts-product
 - 2026-11-09-baidu-s-ernie-evolve-runs-its-own-experiments-and-speeds-up
+- 2026-11-12-baidu-launches-ernie-5-5-flash-preview-and-a-token-exchange
 - 2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base
-- 2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to
 embedding_id: 2026-11-09-baidu-introduces-ernie-evolve-for-automated-research
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Baidu says ERNIE Evolve can propose research directions, run experiments, and ev
 
 **Entities:** [[Baidu]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an]] · [[2026-11-09-baidu-s-ernie-evolve-automates-ml-research-and-lifts-product]] · [[2026-11-09-baidu-s-ernie-evolve-runs-its-own-experiments-and-speeds-up]] · [[2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base]] · [[2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to]]
+**Related:** [[2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an]] · [[2026-11-09-baidu-s-ernie-evolve-automates-ml-research-and-lifts-product]] · [[2026-11-09-baidu-s-ernie-evolve-runs-its-own-experiments-and-speeds-up]] · [[2026-11-12-baidu-launches-ernie-5-5-flash-preview-and-a-token-exchange]] · [[2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base]]
 <!-- graph:end -->

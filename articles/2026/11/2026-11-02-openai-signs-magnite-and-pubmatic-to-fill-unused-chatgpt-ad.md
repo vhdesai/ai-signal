@@ -5,7 +5,7 @@ date: '2026-11-02'
 source: '[The Information]'
 url_original: https://www.theinformation.com/briefings/exclusive-openai-sign-deals-magnite-pubmatic-fill-unused-chatgpt-ad-space
 url_canonical: https://www.theinformation.com/briefings/exclusive-openai-sign-deals-magnite-pubmatic-fill-unused-chatgpt-ad-space
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-03_061250_Inbox_Daily AI News Digest - November
   3, 2026.md
 content_hash: ab488d4f9fe0f8ee3a94d2b105c203d9e8d9baea738bc6ba28b05f06caf0eef4

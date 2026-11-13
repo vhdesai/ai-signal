@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t
 - 2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow
+- 2026-11-11-november-11-2026-cnbc
 - 2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge
 embedding_id: 2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Several US states that granted long-dated tax exemptions to attract hyperscale d
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t]] · [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow]] · [[2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge]]
+**Related:** [[2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t]] · [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow]] · [[2026-11-11-november-11-2026-cnbc]] · [[2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
 <!-- graph:end -->

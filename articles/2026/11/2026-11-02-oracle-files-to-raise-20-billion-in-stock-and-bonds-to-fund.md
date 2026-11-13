@@ -5,7 +5,7 @@ date: '2026-11-02'
 source: '[The Information]'
 url_original: https://www.theinformation.com/briefings/oracle-launches-20-billion-stock-bond-sales
 url_canonical: https://www.theinformation.com/briefings/oracle-launches-20-billion-stock-bond-sales
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-03_061250_Inbox_Daily AI News Digest - November
   3, 2026.md
 content_hash: 7bcd6c760d52746b11ff6ba81765154c85213452a9ea1e59a62b2375f256d88e

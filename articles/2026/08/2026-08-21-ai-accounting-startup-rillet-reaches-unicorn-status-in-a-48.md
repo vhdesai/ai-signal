@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-21-rillet-reportedly-became-an-ai-accounting-unicorn-after-a-10
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 - 2026-09-01-afterquery-becomes-y-combinator-s-fastest-unicorn-at-a-3-2b
-- 2026-09-01-afterquery-becomes-y-combinator-s-fastest-ever-unicorn-at-a
+- 2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some
 embedding_id: 2026-08-21-ai-accounting-startup-rillet-reaches-unicorn-status-in-a-48
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Rillet closed a $100M round that took it to unicorn valuation in roughly two day
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-21-rillet-reportedly-became-an-ai-accounting-unicorn-after-a-10]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-09-01-afterquery-becomes-y-combinator-s-fastest-unicorn-at-a-3-2b]] · [[2026-09-01-afterquery-becomes-y-combinator-s-fastest-ever-unicorn-at-a]]
+**Related:** [[2026-08-21-rillet-reportedly-became-an-ai-accounting-unicorn-after-a-10]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-09-01-afterquery-becomes-y-combinator-s-fastest-unicorn-at-a-3-2b]] · [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some]]
 <!-- graph:end -->

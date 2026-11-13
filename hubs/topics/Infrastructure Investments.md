@@ -1,14 +1,20 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1969
+member_count: 1975
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1969 connected article(s).
+> Auto-generated topic hub. 1975 connected article(s).
 
+- `2026-11-12` [[2026-11-12-november-11-2026-wall-street-journal|[November 11, 2026] · [Wall Street Journal]]]
+- `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]
+- `2026-11-12` [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some|Capital keeps flowing to AI chips and robotics even as some allocators step back from the AI trade]]
+- `2026-11-11` [[2026-11-11-november-11-2026-cnbc|[November 11, 2026] · [CNBC]]]
 - `2026-11-11` [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia|The Huang scandal becomes an export-control fight as Nvidia's board hires Wachtell]]
+- `2026-11-11` [[2026-11-11-inference-resellers-start-buying-their-own-gpus-as-coreweave|Inference resellers start buying their own GPUs as CoreWeave turns to investment-grade debt]]
+- `2026-11-11` [[2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole|Commerce moves to close China's remote chip-access loophole as Congress digs into Nvidia's China records]]
 - `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-wall-street-journal-3|[November 10, 2026] · [Wall Street Journal]]]

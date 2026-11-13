@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some
 - 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi
 - 2026-09-02-enterprise-ai-startup-wonderful-raises-550m-at-a-5-billion-v
 - 2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo
 - 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
-- 2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation
 embedding_id: 2026-06-23-sovereign-ai-startup-dream-raises-260m-at-a-3b-valuation
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Tel Aviv– and Vienna-based sovereign-AI and cyber-defense company Dream closed
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi]] · [[2026-09-02-enterprise-ai-startup-wonderful-raises-550m-at-a-5-billion-v]] · [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation]]
+**Related:** [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some]] · [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi]] · [[2026-09-02-enterprise-ai-startup-wonderful-raises-550m-at-a-5-billion-v]] · [[2026-11-01-south-korea-proposes-expanded-ai-investment-and-sovereign-mo]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]]
 <!-- graph:end -->

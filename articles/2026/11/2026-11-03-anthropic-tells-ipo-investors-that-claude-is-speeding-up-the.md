@@ -6,7 +6,7 @@ date: '2026-11-03'
 source: '[The Information]'
 url_original: https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors
 url_canonical: https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-03_061250_Inbox_Daily AI News Digest - November
   3, 2026.md
 content_hash: ce3c2569b0cdcc2fddfff009ec5de88345f2852ba1e83401203b658687b625f9
