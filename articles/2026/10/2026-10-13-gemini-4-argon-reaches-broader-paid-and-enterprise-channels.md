@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-10-28-october-29-2026-the-information
 - 2026-11-10-google-expands-gemini-4-carbon-beyond-restricted-access
 - 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
+- 2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear
 - 2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with
 embedding_id: 2026-10-13-gemini-4-argon-reaches-broader-paid-and-enterprise-channels
 event_name: ''
@@ -39,5 +40,5 @@ Google broadened Argon access across APIs and paid products. Introductory pricin
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-28-october-29-2026-the-information]] · [[2026-11-10-google-expands-gemini-4-carbon-beyond-restricted-access]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]] · [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with]]
+**Related:** [[2026-10-28-october-29-2026-the-information]] · [[2026-11-10-google-expands-gemini-4-carbon-beyond-restricted-access]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]] · [[2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear]] · [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with]]
 <!-- graph:end -->

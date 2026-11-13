@@ -5,7 +5,7 @@ date: '2026-11-06'
 source: '[Business Insider]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+telecom+buildings
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+telecom+buildings
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-06_070742_Inbox_Daily AI News Digest - November
   6, 2026.md
 content_hash: b7bd172eaf0d92c13f900695039cdf7f716d16c8d73525dc2dac105185b1dccf

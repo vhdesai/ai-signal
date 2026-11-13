@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2636
+member_count: 2640
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2636 connected article(s).
+> Auto-generated entity hub. 2640 connected article(s).
 
+- `2026-11-12` [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is|Without Huang, Nvidia's role as the AI economy's financier is in doubt]]
+- `2026-11-12` [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new|Pressure on frontier AI broadens: nonprofits sue to halt new models as Congress and the EU set agendas]]
+- `2026-11-12` [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as|OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand]]
+- `2026-11-12` [[2026-11-12-anthropic-pushes-claude-into-factories-and-google-meet-days|Anthropic pushes Claude into factories and Google Meet days before its IPO]]
 - `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
 - `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
 - `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]

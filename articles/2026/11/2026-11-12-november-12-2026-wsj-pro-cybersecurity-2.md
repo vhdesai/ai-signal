@@ -5,7 +5,7 @@ date: '2026-11-12'
 source: '[CIO Dive]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Commerce+remote+access+rule
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Commerce+remote+access+rule
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-12_065919_Final-Daily-AI-News-Digest.md
 content_hash: ad884ecb552cf99a5b636b54e7ad42432a7aa5b3188cfe552d1e36b7e681d380
 normalized_title_hash: a985cf94ced62abf

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 148
+member_count: 149
 ---
 
 # AMD
 
-> Auto-generated entity hub. 148 connected article(s).
+> Auto-generated entity hub. 149 connected article(s).
 
+- `2026-11-12` [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as|OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
 - `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion|Anthropic’s proposed IPO could raise about $64.4 billion]]
 - `2026-11-10` [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu|Anthropic sets an IPO price range of $70 to $78 per share, valuing the company at up to $1.404 trillion]]

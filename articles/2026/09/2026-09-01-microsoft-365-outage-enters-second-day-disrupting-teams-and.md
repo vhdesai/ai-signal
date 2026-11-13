@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and
 - 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
 - 2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s
 - 2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l
 - 2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues
-- 2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok
 embedding_id: 2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Microsoft worked Tuesday to restore Microsoft 365 after a multi-service outage a
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s]] · [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]] · [[2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok]]
+**Related:** [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s]] · [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]]
 <!-- graph:end -->

@@ -1,14 +1,20 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1814
+member_count: 1820
 ---
 
 # Google
 
-> Auto-generated entity hub. 1814 connected article(s).
+> Auto-generated entity hub. 1820 connected article(s).
 
+- `2026-11-13` [[2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync|Open inference plumbing matures: Google open-sources TPU Sync and llama.cpp reaches 1.0]]
 - `2026-11-12` [[2026-11-12-november-11-2026-google|[November 11, 2026] · [Google]]]
+- `2026-11-12` [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new|Pressure on frontier AI broadens: nonprofits sue to halt new models as Congress and the EU set agendas]]
+- `2026-11-12` [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as|OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand]]
+- `2026-11-12` [[2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear|Google's Gemini 4 Hydrogen becomes the fast default for Search and agent work]]
+- `2026-11-12` [[2026-11-12-anthropic-pushes-claude-into-factories-and-google-meet-days|Anthropic pushes Claude into factories and Google Meet days before its IPO]]
+- `2026-11-12` [[2026-11-12-agents-start-spending-money-and-making-calls-as-amazon-plans|Agents start spending money and making calls as Amazon plans a product graph to blunt them]]
 - `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
 - `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
 - `2026-11-11` [[2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for|Google's Gemini Decision 1 adds a low-cost scoring layer for agent workflows]]

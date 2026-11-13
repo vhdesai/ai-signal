@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-microsoft-disrupts-eviltokens-an-ai-native-cybercrime-servic
+- 2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine
 - 2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co
 - 2026-09-08-google-attackers-built-and-ran-a-credential-harvesting-campa
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
-- 2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion
 embedding_id: 2026-09-23-microsoft-seizes-eviltokens-ai-powered-phishing-service-used
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Microsoft announced it helped dismantle EvilTokens, an AI chatbot designed to as
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-22-microsoft-disrupts-eviltokens-an-ai-native-cybercrime-servic]] · [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co]] · [[2026-09-08-google-attackers-built-and-ran-a-credential-harvesting-campa]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion]]
+**Related:** [[2026-09-22-microsoft-disrupts-eviltokens-an-ai-native-cybercrime-servic]] · [[2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine]] · [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co]] · [[2026-09-08-google-attackers-built-and-ran-a-credential-harvesting-campa]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]]
 <!-- graph:end -->

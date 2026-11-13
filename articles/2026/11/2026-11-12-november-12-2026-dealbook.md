@@ -5,7 +5,7 @@ date: '2026-11-12'
 source: '[TechCrunch]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Jensen+Huang+resigns
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Jensen+Huang+resigns
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-12_065919_Final-Daily-AI-News-Digest.md
 content_hash: 73fedbb6b1a10c2f6e9f06b4bf5d045639a42cc010fdbf3259d81f04b2bd2907
 normalized_title_hash: a66eb2095d374c8f

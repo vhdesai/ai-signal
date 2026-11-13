@@ -1,14 +1,17 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2418
+member_count: 2421
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2418 connected article(s).
+> Auto-generated topic hub. 2421 connected article(s).
 
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity-2|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-12` [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats|The Nvidia-China fallout widens: Huang will testify, Democrats probe export approvals and Lutnick is under pressure]]
+- `2026-11-12` [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new|Pressure on frontier AI broadens: nonprofits sue to halt new models as Congress and the EU set agendas]]
+- `2026-11-12` [[2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine|AI raises the stakes on both sides of security as free Chinese models, deepfakes and vendor breaches spread]]
 - `2026-11-11` [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia|The Huang scandal becomes an export-control fight as Nvidia's board hires Wachtell]]
 - `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
 - `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]

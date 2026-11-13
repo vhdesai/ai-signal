@@ -1,15 +1,19 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1418
+member_count: 1422
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1418 connected article(s).
+> Auto-generated topic hub. 1422 connected article(s).
 
 - `2026-11-12` [[2026-11-12-november-11-2026-wall-street-journal|[November 11, 2026] · [Wall Street Journal]]]
+- `2026-11-12` [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is|Without Huang, Nvidia's role as the AI economy's financier is in doubt]]
+- `2026-11-12` [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as|OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand]]
 - `2026-11-12` [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some|Capital keeps flowing to AI chips and robotics even as some allocators step back from the AI trade]]
+- `2026-11-12` [[2026-11-12-anthropic-pushes-claude-into-factories-and-google-meet-days|Anthropic pushes Claude into factories and Google Meet days before its IPO]]
+- `2026-11-12` [[2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi|Agent infrastructure draws capital: LangChain doubles to $3 billion and IBM buys AuthMind for agent identity]]
 - `2026-11-11` [[2026-11-11-november-11-2026-the-information|[November 11, 2026] · [The Information]]]
 - `2026-11-11` [[2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi|Venture capital follows the agent stack: Mercor reaches $20 billion as security and agent oversight draw new rounds]]
 - `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]

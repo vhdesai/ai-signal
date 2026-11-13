@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-29-october-28-2026-cnbc
 - 2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
-- 2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl
+- 2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new
 embedding_id: 2026-09-19-antitrust-suit-alleges-openai-anthropic-google-and-spacexai
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Four named plaintiffs who pay for ChatGPT, Claude, Grok or Gemini subscriptions 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-19-class-action-alleges-anthropic-openai-google-and-xai-illegal]] · [[2026-10-29-october-28-2026-cnbc]] · [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl]]
+**Related:** [[2026-09-19-class-action-alleges-anthropic-openai-google-and-xai-illegal]] · [[2026-10-29-october-28-2026-cnbc]] · [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new]]
 <!-- graph:end -->

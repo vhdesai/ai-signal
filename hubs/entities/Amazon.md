@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 797
+member_count: 798
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 797 connected article(s).
+> Auto-generated entity hub. 798 connected article(s).
 
 - `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]
+- `2026-11-12` [[2026-11-12-agents-start-spending-money-and-making-calls-as-amazon-plans|Agents start spending money and making calls as Amazon plans a product graph to blunt them]]
 - `2026-11-11` [[2026-11-11-november-11-2026-cnbc|[November 11, 2026] · [CNBC]]]
 - `2026-11-11` [[2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights|United Airlines bans personal AI agents from booking flights as gatekeepers push back on consumer agents]]
 - `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]

@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-05-nous-research-collapses-local-model-setup-to-one-click-in-he
+- 2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync
 - 2026-07-31-nous-research-ships-hermes-agent-integration-for-block-s-ope
-- 2026-08-17-nous-research-ships-bot-mode-for-its-hermes-agent
 embedding_id: 2026-09-05-nous-research-adds-one-click-local-model-setup-to-hermes-des
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Hermes Desktop now detects local hardware, fit-checks the model catalog against 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-05-nous-research-collapses-local-model-setup-to-one-click-in-he]] · [[2026-07-31-nous-research-ships-hermes-agent-integration-for-block-s-ope]] · [[2026-08-17-nous-research-ships-bot-mode-for-its-hermes-agent]]
+**Related:** [[2026-09-05-nous-research-collapses-local-model-setup-to-one-click-in-he]] · [[2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync]] · [[2026-07-31-nous-research-ships-hermes-agent-integration-for-block-s-ope]]
 <!-- graph:end -->

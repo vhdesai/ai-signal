@@ -6,7 +6,7 @@ date: '2026-11-07'
 source: '[The Information]'
 url_original: https://www.theinformation.com/articles/will-democrats-crush-data-centers
 url_canonical: https://www.theinformation.com/articles/will-democrats-crush-data-centers
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-08_061441_Inbox_Daily AI News Digest - November
   8, 2026.md
 content_hash: 4a0fd9ab23dcc53985dd000a9d6e4bf3b998a907118ae6a15e2fab58a5d38cfe

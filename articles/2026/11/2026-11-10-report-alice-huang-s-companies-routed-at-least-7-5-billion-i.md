@@ -6,7 +6,7 @@ date: '2026-11-10'
 source: '[The Information]'
 url_original: https://www.theinformation.com/articles/jensen-huangs-yearslong-ties-alice-huang-enabled-nvidia-chip-sales-china
 url_canonical: https://www.theinformation.com/articles/jensen-huangs-yearslong-ties-alice-huang-enabled-nvidia-chip-sales-china
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-10_061512_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: f1bf2bc48a8cfb7fdc7494f2ca82f457abd3a0ff0a05df994031c7bb9e8b1259
@@ -31,9 +31,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls
 - 2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia
+- 2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats
 - 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
 - 2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat
-- 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
 embedding_id: 2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i
 event_name: ''
 ---
@@ -47,5 +47,5 @@ According to two people who know her, Alice Huang, her sister, and her husband b
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]] · [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]]
+**Related:** [[2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]] · [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat]]
 <!-- graph:end -->

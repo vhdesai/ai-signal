@@ -1,14 +1,19 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2987
+member_count: 2992
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2987 connected article(s).
+> Auto-generated entity hub. 2992 connected article(s).
 
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-12` [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti|SpaceX's AI arm plans $74 billion of data centers while cutting most of the Grok video team]]
+- `2026-11-12` [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new|Pressure on frontier AI broadens: nonprofits sue to halt new models as Congress and the EU set agendas]]
+- `2026-11-12` [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as|OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand]]
+- `2026-11-12` [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not|Cerebras lands Microsoft and raises guidance as delivery, not demand, becomes the bottleneck for neoclouds]]
+- `2026-11-12` [[2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine|AI raises the stakes on both sides of security as free Chinese models, deepfakes and vendor breaches spread]]
 - `2026-11-11` [[2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights|United Airlines bans personal AI agents from booking flights as gatekeepers push back on consumer agents]]
 - `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
 - `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]

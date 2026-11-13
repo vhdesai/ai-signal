@@ -5,7 +5,7 @@ date: '2026-11-10'
 source: '[The Information]'
 url_original: https://www.theinformation.com/articles/google-grapples-ais-hit-ads-juggernaut
 url_canonical: https://www.theinformation.com/articles/google-grapples-ais-hit-ads-juggernaut
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-10_061512_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: bff295e35a7ac49ba7aa62724f7a526634d2661a196a0a4e854bf4a21624ed8e

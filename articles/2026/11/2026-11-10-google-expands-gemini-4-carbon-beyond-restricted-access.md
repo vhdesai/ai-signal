@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-28-october-29-2026-the-information
 - 2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with
 - 2026-11-10-google-broadens-paid-access-to-gemini-4-carbon
-- 2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites
+- 2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear
 embedding_id: 2026-11-10-google-expands-gemini-4-carbon-beyond-restricted-access
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google is opening Carbon to paying API customers and beginning access for AI Ult
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-10-google-widens-gemini-4-carbon-to-paying-api-customers-at-2-p]] · [[2026-10-28-october-29-2026-the-information]] · [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with]] · [[2026-11-10-google-broadens-paid-access-to-gemini-4-carbon]] · [[2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites]]
+**Related:** [[2026-11-10-google-widens-gemini-4-carbon-to-paying-api-customers-at-2-p]] · [[2026-10-28-october-29-2026-the-information]] · [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with]] · [[2026-11-10-google-broadens-paid-access-to-gemini-4-carbon]] · [[2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear]]
 <!-- graph:end -->

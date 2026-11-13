@@ -1,17 +1,22 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5348
+member_count: 5353
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5348 connected article(s).
+> Auto-generated topic hub. 5353 connected article(s).
 
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-12` [[2026-11-12-november-12-2026-dealbook|[November 12, 2026] · [DealBook]]]
+- `2026-11-12` [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is|Without Huang, Nvidia's role as the AI economy's financier is in doubt]]
+- `2026-11-12` [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as|OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand]]
 - `2026-11-12` [[2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i|Jensen Huang resigns as Nvidia CEO; CFO Colette Kress steps in while the board searches for a successor]]
 - `2026-11-12` [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some|Capital keeps flowing to AI chips and robotics even as some allocators step back from the AI trade]]
+- `2026-11-12` [[2026-11-12-anthropic-pushes-claude-into-factories-and-google-meet-days|Anthropic pushes Claude into factories and Google Meet days before its IPO]]
+- `2026-11-12` [[2026-11-12-agents-start-spending-money-and-making-calls-as-amazon-plans|Agents start spending money and making calls as Amazon plans a product graph to blunt them]]
+- `2026-11-12` [[2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi|Agent infrastructure draws capital: LangChain doubles to $3 billion and IBM buys AuthMind for agent identity]]
 - `2026-11-11` [[2026-11-11-november-12-2026-cio-dive-2|[November 12, 2026] · [CIO Dive]]]
 - `2026-11-11` [[2026-11-11-november-11-2026-the-information|[November 11, 2026] · [The Information]]]
 - `2026-11-11` [[2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi|Venture capital follows the agent stack: Mercor reaches $20 billion as security and agent oversight draw new rounds]]

@@ -6,7 +6,7 @@ date: '2026-11-01'
 source: '[The Information]'
 url_original: https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework
 url_canonical: https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-02_061330_Inbox_Daily AI News Digest - November
   2, 2026.md
 content_hash: c776726b6c1b92811fcbfa4d05a0cbeb5660201f90dd0963c3bacf11ec2ab566

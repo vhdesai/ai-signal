@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-02-despite-the-record-raise-openai-s-secondary-market-position
+- 2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as
 - 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest
 - 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
-- 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 embedding_id: 2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI and Anthropic share approximately 90 investors, creating an unusual dynam
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]] · [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]]
+**Related:** [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]] · [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as]] · [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]]
 <!-- graph:end -->

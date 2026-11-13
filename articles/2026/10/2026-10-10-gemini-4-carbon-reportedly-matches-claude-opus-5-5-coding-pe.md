@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-11-10-google-broadens-paid-access-to-gemini-4-carbon
 - 2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c
 - 2026-10-28-october-29-2026-the-information
-- 2026-11-10-google-widens-gemini-4-carbon-to-paying-api-customers-at-2-p
+- 2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear
 embedding_id: 2026-10-10-gemini-4-carbon-reportedly-matches-claude-opus-5-5-coding-pe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google's Gemini 4 Carbon model is reportedly circulating internally and has been
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-10-gemini-4-carbon-reportedly-matches-opus-5-5-coding-performan]] · [[2026-11-10-google-broadens-paid-access-to-gemini-4-carbon]] · [[2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c]] · [[2026-10-28-october-29-2026-the-information]] · [[2026-11-10-google-widens-gemini-4-carbon-to-paying-api-customers-at-2-p]]
+**Related:** [[2026-10-10-gemini-4-carbon-reportedly-matches-opus-5-5-coding-performan]] · [[2026-11-10-google-broadens-paid-access-to-gemini-4-carbon]] · [[2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c]] · [[2026-10-28-october-29-2026-the-information]] · [[2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear]]
 <!-- graph:end -->

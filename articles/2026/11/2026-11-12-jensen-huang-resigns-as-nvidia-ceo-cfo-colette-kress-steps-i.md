@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-11-12-november-12-2026-dealbook
 - 2026-11-09-november-9-2026-dealbook
 - 2026-11-08-november-9-2026-wall-street-journal-wsj-politics
-- 2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia
+- 2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is
 embedding_id: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Nvidia said Jensen Huang has resigned as president, CEO and director after repor
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-11-12-november-12-2026-dealbook]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]]
+**Related:** [[2026-11-12-november-12-2026-dealbook]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is]]
 <!-- graph:end -->

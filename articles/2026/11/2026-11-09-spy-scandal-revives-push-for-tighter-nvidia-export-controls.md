@@ -5,7 +5,7 @@ date: '2026-11-09'
 source: The Information
 url_original: https://www.theinformation.com/articles/nvidias-next-headache-new-push-export-controls-wake-spy-scandal
 url_canonical: https://www.theinformation.com/articles/nvidias-next-headache-new-push-export-controls-wake-spy-scandal
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-10_060826_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 8b622b0c8e4574b7e0005b0038eca0826c52b299f7b405067ebf49e21f384f8d
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i
 - 2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia
+- 2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats
 - 2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg
 - 2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat
-- 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
 embedding_id: 2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reports a new push for tighter chip export controls is emerging 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg]] · [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]]
+**Related:** [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats]] · [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg]] · [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat]]
 <!-- graph:end -->

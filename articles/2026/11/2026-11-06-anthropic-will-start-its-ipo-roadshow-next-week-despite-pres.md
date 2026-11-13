@@ -5,7 +5,7 @@ date: '2026-11-06'
 source: '[The Information]'
 url_original: https://www.theinformation.com/briefings/anthropic-proceed-ipo-roadshow-next-week
 url_canonical: https://www.theinformation.com/briefings/anthropic-proceed-ipo-roadshow-next-week
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-07_061155_Inbox_Daily AI News Digest - November
   7, 2026.md
 content_hash: 7e484e2f8c5db1a62df5a192b8e41782328a59439b5c8a37245560d07983e761

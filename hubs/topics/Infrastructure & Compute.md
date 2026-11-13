@@ -1,15 +1,18 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2418
+member_count: 2421
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2418 connected article(s).
+> Auto-generated topic hub. 2421 connected article(s).
 
+- `2026-11-13` [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and|An 18-hour Microsoft 365 outage takes down Outlook, Teams and Copilot worldwide]]
 - `2026-11-12` [[2026-11-12-november-11-2026-wall-street-journal|[November 11, 2026] · [Wall Street Journal]]]
+- `2026-11-12` [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti|SpaceX's AI arm plans $74 billion of data centers while cutting most of the Grok video team]]
 - `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]
+- `2026-11-12` [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not|Cerebras lands Microsoft and raises guidance as delivery, not demand, becomes the bottleneck for neoclouds]]
 - `2026-11-11` [[2026-11-11-november-11-2026-cnbc|[November 11, 2026] · [CNBC]]]
 - `2026-11-11` [[2026-11-11-inference-resellers-start-buying-their-own-gpus-as-coreweave|Inference resellers start buying their own GPUs as CoreWeave turns to investment-grade debt]]
 - `2026-11-11` [[2026-11-11-democratic-midterm-sweep-rattles-the-data-center-bets-that-l|Democratic midterm sweep rattles the data-center bets that lifted US infrastructure funds]]

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-spacex-openai-and-anthropic-prepare-for-4-trillion-combined
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
-- 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest
+- 2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as
 embedding_id: 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Combined valuations for SpaceX (filed at $1.75T), OpenAI (IPO expected as early 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-05-23-spacex-openai-and-anthropic-prepare-for-4-trillion-combined]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]]
+**Related:** [[2026-05-23-spacex-openai-and-anthropic-prepare-for-4-trillion-combined]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as]]
 <!-- graph:end -->

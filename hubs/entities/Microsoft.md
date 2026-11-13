@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1149
+member_count: 1152
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1149 connected article(s).
+> Auto-generated entity hub. 1152 connected article(s).
 
+- `2026-11-13` [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and|An 18-hour Microsoft 365 outage takes down Outlook, Teams and Copilot worldwide]]
 - `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]
+- `2026-11-12` [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not|Cerebras lands Microsoft and raises guidance as delivery, not demand, becomes the bottleneck for neoclouds]]
+- `2026-11-12` [[2026-11-12-anthropic-pushes-claude-into-factories-and-google-meet-days|Anthropic pushes Claude into factories and Google Meet days before its IPO]]
 - `2026-11-11` [[2026-11-11-november-12-2026-cio-dive-2|[November 12, 2026] · [CIO Dive]]]
 - `2026-11-11` [[2026-11-11-november-11-2026-cnbc|[November 11, 2026] · [CNBC]]]
 - `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]

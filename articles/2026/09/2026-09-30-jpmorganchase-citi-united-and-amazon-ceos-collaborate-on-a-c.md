@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
+- 2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new
 - 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
 - 2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
-- 2026-09-09-white-house-trusted-partner-ai-whitelist-causes-confusion-in
 embedding_id: 2026-09-30-jpmorganchase-citi-united-and-amazon-ceos-collaborate-on-a-c
 event_name: ''
 ---
@@ -42,5 +42,5 @@ CEOs of major banks, airlines, telecom providers, and other large corporates are
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi]] · [[2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-09-09-white-house-trusted-partner-ai-whitelist-causes-confusion-in]]
+**Related:** [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new]] · [[2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi]] · [[2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]]
 <!-- graph:end -->

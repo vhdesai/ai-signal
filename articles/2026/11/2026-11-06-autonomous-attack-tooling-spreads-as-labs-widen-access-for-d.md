@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-11-06-censys-finds-more-than-800-instances-of-the-ai-hacking-tool
 - 2026-11-06-november-6-2026-techcrunch-2
 - 2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane
+- 2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine
 embedding_id: 2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Censys found more than 800 internet-exposed, password-free deployments of Artex,
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier]] · [[2026-11-06-censys-finds-more-than-800-instances-of-the-ai-hacking-tool]] · [[2026-11-06-november-6-2026-techcrunch-2]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]]
+**Related:** [[2026-11-06-autonomous-attack-tooling-spreads-as-openai-widens-frontier]] · [[2026-11-06-censys-finds-more-than-800-instances-of-the-ai-hacking-tool]] · [[2026-11-06-november-6-2026-techcrunch-2]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine]]
 <!-- graph:end -->

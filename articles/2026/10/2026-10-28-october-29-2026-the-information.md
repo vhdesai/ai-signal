@@ -23,9 +23,9 @@ related_article_ids:
 - 2026-10-28-october-29-2026-the-information-2
 - 2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with
 - 2026-11-10-google-expands-gemini-4-carbon-beyond-restricted-access
+- 2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear
 - 2026-11-10-google-widens-gemini-4-carbon-to-paying-api-customers-at-2-p
 - 2026-11-10-google-broadens-paid-access-to-gemini-4-carbon
-- 2026-10-13-gemini-4-argon-reaches-broader-paid-and-enterprise-channels
 embedding_id: 2026-10-28-october-29-2026-the-information
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google unveiled Gemini 4 Carbon less than a month after Gemini 4 Argon, at the s
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-28-october-29-2026-the-information-2]] · [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with]] · [[2026-11-10-google-expands-gemini-4-carbon-beyond-restricted-access]] · [[2026-11-10-google-widens-gemini-4-carbon-to-paying-api-customers-at-2-p]] · [[2026-11-10-google-broadens-paid-access-to-gemini-4-carbon]] · [[2026-10-13-gemini-4-argon-reaches-broader-paid-and-enterprise-channels]]
+**Related:** [[2026-10-28-october-29-2026-the-information-2]] · [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with]] · [[2026-11-10-google-expands-gemini-4-carbon-beyond-restricted-access]] · [[2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear]] · [[2026-11-10-google-widens-gemini-4-carbon-to-paying-api-customers-at-2-p]] · [[2026-11-10-google-broadens-paid-access-to-gemini-4-carbon]]
 <!-- graph:end -->

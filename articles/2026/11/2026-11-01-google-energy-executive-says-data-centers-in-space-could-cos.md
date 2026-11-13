@@ -6,7 +6,7 @@ date: '2026-11-01'
 source: '[The Information]'
 url_original: https://www.theinformation.com/articles/google-energy-chief-space-data-centers-cost-100-times-earth
 url_canonical: https://www.theinformation.com/articles/google-energy-chief-space-data-centers-cost-100-times-earth
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-02_061330_Inbox_Daily AI News Digest - November
   2, 2026.md
 content_hash: 7d02c7672f50ff429a2002b05cfb4c653d6e4edaa11233c38b059a055794aea4

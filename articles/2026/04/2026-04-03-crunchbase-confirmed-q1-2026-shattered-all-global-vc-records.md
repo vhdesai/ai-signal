@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 - 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
-- 2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap
+- 2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as
 embedding_id: 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Crunchbase confirmed Q1 2026 shattered all global VC records: $300B across 6,000
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap]]
+**Related:** [[2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as]]
 <!-- graph:end -->

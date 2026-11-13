@@ -6,7 +6,7 @@ date: '2026-11-07'
 source: '[The Information]'
 url_original: https://www.theinformation.com/articles/blue-wave-may-stop-musks-texas-data-center-ambitions
 url_canonical: https://www.theinformation.com/articles/blue-wave-may-stop-musks-texas-data-center-ambitions
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-08_061441_Inbox_Daily AI News Digest - November
   8, 2026.md
 content_hash: 77ee907b6f6d520f4a27bcf3173dad51a138764e23cfe9aef08a0a09a307e18f

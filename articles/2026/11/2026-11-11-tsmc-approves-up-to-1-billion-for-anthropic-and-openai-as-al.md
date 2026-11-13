@@ -28,9 +28,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses
+- 2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
-- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 embedding_id: 2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al
 event_name: ''
 ---
@@ -44,5 +44,5 @@ TSMC's board approved investing $500 million apiece in Anthropic and OpenAI, ext
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[TSMC]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
+**Related:** [[2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses]] · [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]]
 <!-- graph:end -->

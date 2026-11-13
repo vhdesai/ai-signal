@@ -1,15 +1,18 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3809
+member_count: 3812
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3809 connected article(s).
+> Auto-generated topic hub. 3812 connected article(s).
 
+- `2026-11-13` [[2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync|Open inference plumbing matures: Google open-sources TPU Sync and llama.cpp reaches 1.0]]
+- `2026-11-13` [[2026-11-13-mit-s-design-copilot-lets-engineers-steer-ai-generated-struc|MIT's design copilot lets engineers steer AI-generated structures as they form]]
 - `2026-11-12` [[2026-11-12-november-11-2026-google|[November 11, 2026] · [Google]]]
 - `2026-11-12` [[2026-11-12-mit-trains-faster-more-trustworthy-ai-climate-emulators-with|MIT trains faster, more trustworthy AI climate emulators with far less simulation data]]
+- `2026-11-12` [[2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear|Google's Gemini 4 Hydrogen becomes the fast default for Search and agent work]]
 - `2026-11-12` [[2026-11-12-baidu-launches-ernie-5-5-flash-preview-and-a-token-exchange|Baidu launches ERNIE 5.5 Flash Preview and a Token Exchange marketplace for model services]]
 - `2026-11-11` [[2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for|Google's Gemini Decision 1 adds a low-cost scoring layer for agent workflows]]
 - `2026-11-11` [[2026-11-11-deepmind-s-alphagenome-2-predicts-dna-variant-effects-in-spe|DeepMind's AlphaGenome 2 predicts DNA-variant effects in specific cell types]]

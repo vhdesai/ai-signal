@@ -1,82 +1,82 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 
 Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2120.70it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2538.89it/s]
 {
   "command": "run-daily",
   "stages": {
     "ingest": {
-      "digests_total": 1659,
+      "digests_total": 1661,
       "digests_changed": 2,
       "changed": [
-        "news\\2026-11-12_065758_Final-Daily-AI-News-Digest.md",
-        "news\\2026-11-12_065919_Final-Daily-AI-News-Digest.md"
+        "news\\2026-11-13_065820_Final-Daily-AI-News-Digest.md",
+        "news\\daily-ai-news-digest-2026-11-13.md"
       ]
     },
     "split": {
-      "digests_parsed": 1663,
-      "articles_written": 15638,
-      "events_parsed": 140,
+      "digests_parsed": 1665,
+      "articles_written": 15652,
+      "events_parsed": 141,
       "event_articles_written": 78,
       "skipped_publication_sources": 70,
       "skipped_thin_articles": 5733
     },
     "index": {
-      "articles_indexed": 11325,
+      "articles_indexed": 11339,
       "embeddings": {
         "enabled": true,
-        "added": 25,
-        "total": 11325,
-        "md_rewritten": 11324
+        "added": 14,
+        "total": 11339,
+        "md_rewritten": 11338
       }
     },
     "dedupe": {
-      "articles": 11325,
+      "articles": 11339,
       "exact_duplicates": 19,
-      "canonical": 8402,
+      "canonical": 8416,
       "semantic_duplicates": 2904,
-      "related_links": 34532
+      "related_links": 34590
     },
     "build-graph": {
       "status": "ok",
-      "articles_linked": 11325,
-      "wikilinks_emitted": 77620,
+      "articles_linked": 11339,
+      "wikilinks_emitted": 77735,
       "entity_hubs": 34,
       "topic_hubs": 8,
       "hubs_dir": "C:\\Users\\vdesai\\source\\repos\\Newsletter\\ext-host\\hubs"
     },
     "validate-urls": {
-      "checked": 5246,
-      "ok": 4481,
-      "broken": 765,
+      "checked": 5259,
+      "ok": 4122,
+      "broken": 1137,
       "missing": 6052,
-      "skipped": 27
+      "skipped": 28
     },
     "repair-urls": {
-      "attempted": 1,
+      "attempted": 0,
       "repaired": 0,
-      "unresolved": 1,
+      "unresolved": 0,
       "skipped": 0,
       "reverted": 0,
       "deferred": 0,
       "terminated": "completed",
-      "elapsed_s": 350.1,
+      "elapsed_s": 327.1,
       "max_workers": 10
     },
     "build-site-daily": {
-      "pages": 325,
-      "articles": 11325,
-      "canonical": 8402,
+      "pages": 326,
+      "articles": 11339,
+      "canonical": 8416,
       "site_dir": "C:\\Users\\vdesai\\source\\repos\\Newsletter\\ext-host\\site",
       "mode": "incremental",
-      "changed_articles": 853,
-      "written_files": 217,
-      "elapsed_s": 23.95
+      "changed_articles": 388,
+      "written_files": 179,
+      "elapsed_s": 23.61
     },
     "publish": {
       "status": "dry-run",
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20261112T193622+0000-8d3e3d.json"
+  "run_log": "indexes\\runs\\run-20261113T174218+0000-1bcb50.json"
 }

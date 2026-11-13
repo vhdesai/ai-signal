@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 556
+member_count: 558
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 556 connected article(s).
+> Auto-generated topic hub. 558 connected article(s).
 
+- `2026-11-12` [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti|SpaceX's AI arm plans $74 billion of data centers while cutting most of the Grok video team]]
+- `2026-11-12` [[2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi|Agent infrastructure draws capital: LangChain doubles to $3 billion and IBM buys AuthMind for agent identity]]
 - `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-an-ai-holding|AI services find business models: Sequoia backs an AI holding company as Anthropic's Ode adds results-based fees]]
 - `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-ai-holding-co|AI services find business models: Sequoia backs AI holding company Sequence as Anthropic's Ode adds performance fees]]
 - `2026-11-10` [[2026-11-10-openai-turns-chatgpt-into-a-business-channel-and-buys-travel|OpenAI turns ChatGPT into a business channel and buys travel agent Odessia]]

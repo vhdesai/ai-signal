@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane
 - 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 - 2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr
-- 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
 embedding_id: 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Documents reviewed by *The Wall Street Journal* show Chinese cyber-mercenaries a
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr]] · [[2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi]]
+**Related:** [[2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr]]
 <!-- graph:end -->

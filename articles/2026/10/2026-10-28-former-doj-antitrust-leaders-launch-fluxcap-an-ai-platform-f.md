@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
+- 2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new
 - 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
 - 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
-- 2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo
 embedding_id: 2026-10-28-former-doj-antitrust-leaders-launch-fluxcap-an-ai-platform-f
 event_name: ''
 ---
@@ -37,5 +37,5 @@ FluxCap’s launch illustrates a clear pattern: AI applications in regulated, hi
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-10-26-big-tech-s-litigation-exposure-offers-a-warning-for-ai-deplo]]
+**Related:** [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new]] · [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]]
 <!-- graph:end -->
