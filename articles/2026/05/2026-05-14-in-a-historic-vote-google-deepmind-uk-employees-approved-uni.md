@@ -5,8 +5,8 @@ title: In a historic vote, Google DeepMind UK employees approved unionization by
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 0bda43d83544c4ff6e76fcf12a95ecfb19914f160a05528ad85023f3a16fe6f3

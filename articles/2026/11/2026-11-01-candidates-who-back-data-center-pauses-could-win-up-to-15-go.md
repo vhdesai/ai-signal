@@ -5,7 +5,7 @@ date: '2026-11-01'
 source: '[The Information]'
 url_original: https://www.theinformation.com/articles/candidates-backing-data-center-pauses-win-15-governors-races
 url_canonical: https://www.theinformation.com/articles/candidates-backing-data-center-pauses-win-15-governors-races
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-02_061330_Inbox_Daily AI News Digest - November
   2, 2026.md
 content_hash: c57c540d9f6906a158831e3b42cbb424f201ade5fa2896050f4f30cbaa3cc910

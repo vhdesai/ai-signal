@@ -5,8 +5,8 @@ title: Meta AI • April 8, 2026 (updated Apr 19) Meta expanded access to Muse S
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ai.meta.com/blog/introducing-muse-spark-msl/
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 43f9303529cf7d38d9fbb444ea3011a114fe7521d6c029271c030c03ad359a9f

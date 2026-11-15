@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-november-12-2026-ars-technica
 - 2026-10-28-october-29-2026-the-information
 - 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
 - 2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en
@@ -37,5 +38,5 @@ Google released Gemini 4 Hydrogen immediately rather than in stages, replacing G
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-28-october-29-2026-the-information]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en]]
+**Related:** [[2026-11-13-november-12-2026-ars-technica]] · [[2026-10-28-october-29-2026-the-information]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en]]
 <!-- graph:end -->

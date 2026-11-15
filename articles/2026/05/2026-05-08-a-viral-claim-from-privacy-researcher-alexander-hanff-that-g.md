@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-november-12-2026-ars-technica
 - 2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip
 - 2026-07-06-rumor-model-release-reported-gemini-3-5-pro-leak-points-to-2
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context
-- 2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se
 embedding_id: 2026-05-08-a-viral-claim-from-privacy-researcher-alexander-hanff-that-g
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A viral claim from privacy researcher Alexander Hanff — that Google Chrome was
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]] · [[2026-07-06-rumor-model-release-reported-gemini-3-5-pro-leak-points-to-2]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context]] · [[2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se]]
+**Related:** [[2026-11-13-november-12-2026-ars-technica]] · [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]] · [[2026-07-06-rumor-model-release-reported-gemini-3-5-pro-leak-points-to-2]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context]]
 <!-- graph:end -->

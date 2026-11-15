@@ -5,7 +5,7 @@ date: '2026-10-29'
 source: '[The Information]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=invisible+ads+AI+agents
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=invisible+ads+AI+agents
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-29_070116_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: 315f4c3e9ccdc15108ad77e792be8271a91ae9ed593135bfbd10bd8bc7d5afba

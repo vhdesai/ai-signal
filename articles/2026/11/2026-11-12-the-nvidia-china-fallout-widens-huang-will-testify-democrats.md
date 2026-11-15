@@ -26,11 +26,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-november-14-2026-dealbook
 - 2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia
 - 2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i
 - 2026-11-09-november-9-2026-dealbook
 - 2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls
-- 2026-11-08-november-9-2026-wall-street-journal-wsj-politics
 embedding_id: 2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Huang agreed to a closed-door briefing for three Republican-led House committees
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]]
+**Related:** [[2026-11-13-november-14-2026-dealbook]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls]]
 <!-- graph:end -->

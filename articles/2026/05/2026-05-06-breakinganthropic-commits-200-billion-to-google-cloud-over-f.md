@@ -4,8 +4,8 @@ title: BreakingAnthropic Commits $200 Billion to Google Cloud over Five Years
 date: '2026-05-06'
 source: The Information / The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/anthropic-commits-200-billion-to-google-cloud-over-five-years/
+url_status: repaired
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 67a04c40716b082a32f724042c4da39913b6b083e5fffebf249b9bf326abef1c
 normalized_title_hash: e402a53a46809679

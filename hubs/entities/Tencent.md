@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 251
+member_count: 253
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 251 connected article(s).
+> Auto-generated entity hub. 253 connected article(s).
 
+- `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
+- `2026-11-13` [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne|Weight forensics tie China's top open models to export-banned Blackwell chips as Washington feuds over Megaspeed]]
 - `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]

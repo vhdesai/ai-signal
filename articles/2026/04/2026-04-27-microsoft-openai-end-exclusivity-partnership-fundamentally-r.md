@@ -5,8 +5,8 @@ title: 'Microsoft & OpenAI End Exclusivity: Partnership Fundamentally Restructur
 date: '2026-04-27'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/
+url_status: repaired
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: f2559e1cd0487a9b8e73f76a203d178b3c5eb3b44b2100e35eabc5886628e807

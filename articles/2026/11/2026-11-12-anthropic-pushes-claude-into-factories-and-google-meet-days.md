@@ -26,9 +26,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-10-claude-adds-meetings-whiteboards-and-spreadsheets-to-its-wor
+- 2026-11-13-november-13-2026-databricks
 - 2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-- 2026-11-10-claude-moves-into-spreadsheets-whiteboards-and-meetings-as-c
 embedding_id: 2026-11-12-anthropic-pushes-claude-into-factories-and-google-meet-days
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Claude for Manufacturing ships 17 skills for quoting jobs, preparing failed-insp
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-11-10-claude-adds-meetings-whiteboards-and-spreadsheets-to-its-wor]] · [[2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-11-10-claude-moves-into-spreadsheets-whiteboards-and-meetings-as-c]]
+**Related:** [[2026-11-10-claude-adds-meetings-whiteboards-and-spreadsheets-to-its-wor]] · [[2026-11-13-november-13-2026-databricks]] · [[2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
 <!-- graph:end -->

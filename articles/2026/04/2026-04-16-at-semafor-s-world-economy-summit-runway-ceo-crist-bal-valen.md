@@ -5,8 +5,8 @@ title: At Semafor's World Economy Summit, Runway CEO Cristóbal Valenzuela propo
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 5c4fbc6182308289af56db1b755fa4d9926db1a7e35106359245fd8308f155d2

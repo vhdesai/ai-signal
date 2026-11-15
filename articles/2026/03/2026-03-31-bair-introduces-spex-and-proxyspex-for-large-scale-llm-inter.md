@@ -4,8 +4,8 @@ title: BAIR Introduces SPEX and ProxySPEX for Large-Scale LLM Interpretability
 date: '2026-03-31'
 source: BAIR Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://bair.berkeley.edu/blog/2026/03/13/spex/
+url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: d05894f35de9dc758d395a4b4abb8214d4f364162313cf3a2dc35902aeb13ad4

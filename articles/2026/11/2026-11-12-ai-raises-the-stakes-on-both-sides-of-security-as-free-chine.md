@@ -24,9 +24,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-14-november-13-2026-wsj-pro-cybersecurity
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 - 2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d
-- 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
 embedding_id: 2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Tenzai's CTO says freely downloadable Chinese open-weight models can now break i
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]]
+**Related:** [[2026-11-14-november-13-2026-wsj-pro-cybersecurity]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token
 - 2026-09-15-commerce-department-reportedly-ordered-kalshi-to-pull-its-ai
 - 2026-11-06-november-6-2026-reuters
-- 2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-as-neoclouds-hea
+- 2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro
 embedding_id: 2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Information reports the CFTC has extended its review of CME Group's planned 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-06-cme-delays-launch-of-nvidia-gpu-rental-price-futures-for-a-s]] · [[2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token]] · [[2026-09-15-commerce-department-reportedly-ordered-kalshi-to-pull-its-ai]] · [[2026-11-06-november-6-2026-reuters]] · [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-as-neoclouds-hea]]
+**Related:** [[2026-11-06-cme-delays-launch-of-nvidia-gpu-rental-price-futures-for-a-s]] · [[2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token]] · [[2026-09-15-commerce-department-reportedly-ordered-kalshi-to-pull-its-ai]] · [[2026-11-06-november-6-2026-reuters]] · [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro]]
 <!-- graph:end -->

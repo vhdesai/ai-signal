@@ -5,8 +5,8 @@ title: Breaking Anthropic Signs SpaceX Colossus Data Center Deal — Despite His
 date: '2026-05-08'
 source: SiliconANGLE
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/06/anthropic-spacex-data-center-capacity.html
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: c2bd31adaaddb84ee88d496bd4862f727f34420307c4c3362e36838baf794c0c

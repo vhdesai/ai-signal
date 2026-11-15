@@ -5,8 +5,8 @@ title: In US v. Heppner, Judge Jed Rakoff of the Southern District of New York r
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.debevoise.com/insights/publications/2026/02/update-judge-rakoff-issues-written-opinion-that-ai
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: aa5ab962c26d3080cbcc87e18bf2fcdb20c36c1537e9815c8877be962443bc45

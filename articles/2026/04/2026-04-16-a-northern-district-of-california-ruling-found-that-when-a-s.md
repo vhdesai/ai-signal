@@ -5,8 +5,8 @@ title: A Northern District of California ruling found that when a social media p
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.debevoise.com/-/media/files/insights/publications/2025/02/california-judge-allows-public-nuisance-claims.pdf
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 80eed08ca3bf58835c58152d724c8531ad74e8106a43137dd3ed0a786fcdfd88

@@ -25,6 +25,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-november-12-2026-techcrunch
 - 2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 - 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
@@ -42,5 +43,5 @@ Meta's Muse, with more than 10 million users, can now phone US businesses for pa
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]]
+**Related:** [[2026-11-13-november-12-2026-techcrunch]] · [[2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]]
 <!-- graph:end -->

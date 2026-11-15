@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation/
 url_canonical: https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-28_060201_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 899f44c421bb2cca6a73285ed18f23c1db5fe693957cb51b5e88280e821b2f7a
@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-a-long-open
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into
 - 2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti
 - 2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a
-- 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 embedding_id: 2026-09-27-google-research-introduces-an-ai-video-co-director-four-agen
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google Research published a model-agnostic orchestration layer over Gemini and V
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]]
+**Related:** [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-a-long-open]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]]
 <!-- graph:end -->

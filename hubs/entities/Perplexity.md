@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 92
+member_count: 97
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 92 connected article(s).
+> Auto-generated entity hub. 97 connected article(s).
 
+- `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-13` [[2026-11-13-november-13-2026-databricks|[November 13, 2026] · [Databricks]]]
+- `2026-11-13` [[2026-11-13-november-12-2026-ars-technica|[November 12, 2026] · [Ars Technica]]]
+- `2026-11-13` [[2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur|Perplexity open-sources Decider v1.3, small models that return probabilities instead of text]]
+- `2026-11-13` [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch|OpenAI and Databricks bring governed enterprise data into ChatGPT as Perplexity's Teammates agents reach the Mac]]
 - `2026-11-02` [[2026-11-02-new-york-times-sues-brave-alleging-it-scraped-content-and-so|New York Times sues Brave, alleging it scraped content and sold it to AI companies]]
 - `2026-10-13` [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai|NVIDIA says the RTX Spark PC ecosystem is ready for local AI agents]]
 - `2026-09-29` [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f|The Information: Google Tests Paying ~100 Digital Publishers for Content That Improves AI Answers]]

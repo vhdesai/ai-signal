@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 798
+member_count: 800
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 798 connected article(s).
+> Auto-generated entity hub. 800 connected article(s).
 
+- `2026-11-13` [[2026-11-13-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
+- `2026-11-13` [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads|Agents get wallets: ChatGPT can now buy for you, Gemini reads your spending and banks scramble to keep up]]
 - `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]
 - `2026-11-12` [[2026-11-12-agents-start-spending-money-and-making-calls-as-amazon-plans|Agents start spending money and making calls as Amazon plans a product graph to blunt them]]
 - `2026-11-11` [[2026-11-11-november-11-2026-cnbc|[November 11, 2026] · [CNBC]]]

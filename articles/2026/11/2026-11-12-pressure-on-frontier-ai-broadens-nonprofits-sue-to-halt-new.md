@@ -26,11 +26,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-november-12-2026-crypto-briefing
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 - 2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af
-- 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
 embedding_id: 2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Four nonprofits including Public Citizen and the Alliance for Secure AI sued Ope
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]]
+**Related:** [[2026-11-13-november-12-2026-crypto-briefing]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af]]
 <!-- graph:end -->

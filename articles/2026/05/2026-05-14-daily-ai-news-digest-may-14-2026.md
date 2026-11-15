@@ -4,8 +4,8 @@ title: Daily AI News Digest — May 14, 2026
 date: '2026-05-14'
 source: 'Curated for senior technology leadership · Coverage: May 12–14, 2026'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.juliewinklegiulioni.com/blog/leadership-matters/may-2026-leadership-development-digest/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: c63967708dd1697cd9be996bdf8160a38f0655f0f14fb11d23be15b2c6857fa7

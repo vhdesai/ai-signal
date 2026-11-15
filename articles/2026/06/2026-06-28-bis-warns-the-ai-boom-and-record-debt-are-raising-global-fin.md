@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
+- 2026-11-13-the-fed-ranks-ai-as-the-top-threat-to-financial-stability-as
 - 2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor
 - 2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system
-- 2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain
 embedding_id: 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Bank for International Settlements' Annual Economic Report, published Sunday
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor]] · [[2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system]] · [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain]]
+**Related:** [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-11-13-the-fed-ranks-ai-as-the-top-threat-to-financial-stability-as]] · [[2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor]] · [[2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system]]
 <!-- graph:end -->

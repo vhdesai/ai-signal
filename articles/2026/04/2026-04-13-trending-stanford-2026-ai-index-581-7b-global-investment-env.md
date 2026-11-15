@@ -5,8 +5,8 @@ title: '💜 TRENDING Stanford 2026 AI Index: $581.7B Global Investment, Environ
 date: '2026-04-13'
 source: Stanford HAI / Unite.AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070520_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 625e18150893c522dadf99861763f5dd4648de5607afc22c55848e8fe26da8e0

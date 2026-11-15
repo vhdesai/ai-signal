@@ -4,8 +4,8 @@ title: YouTube Expands AI Deepfake Detection for Creators
 date: '2026-04-20'
 source: Google / YouTube Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://support.google.com/youtube/thread/434105667/expanding-likeness-detection-to-all-creators-18-over-protecting-your-identity-on-youtube?hl=en
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 91d60fe5f320f1c6ed9ea4eb86742199c8952d32f089965b70459f01aca2158e

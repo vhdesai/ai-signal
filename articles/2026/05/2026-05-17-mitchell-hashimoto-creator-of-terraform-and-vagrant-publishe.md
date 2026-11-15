@@ -5,8 +5,8 @@ title: Mitchell Hashimoto (creator of Terraform and Vagrant) published widely-sh
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://pub.towardsai.net/he-built-terraform-vagrant-and-ghostty-heres-how-he-stopped-fighting-ai-and-started-using-it-f621baa834f2
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: cb23abc5e5727b62053f4e4d80a8c946553a6d8c7f61858fa7fed01ea5d4019f

@@ -5,7 +5,7 @@ date: '2026-10-29'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/
 url_canonical: https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-30_065803_Final-Daily-AI-News-Digest.md
 content_hash: c6dab42ce70346f101645e476345c9a698bc659acd6ffec50b9a3b751e2a861e
 normalized_title_hash: 9dfd11cc480f24f6

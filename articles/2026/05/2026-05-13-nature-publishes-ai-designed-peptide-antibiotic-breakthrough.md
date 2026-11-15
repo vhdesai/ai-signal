@@ -4,8 +4,8 @@ title: Nature Publishes AI-Designed Peptide Antibiotic Breakthrough
 date: '2026-05-13'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nature.com/articles/s42256-026-01237-5
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 8460853c15765ba0661cba98d519d81ed6453673563972b76ff4e5ecd13a234f

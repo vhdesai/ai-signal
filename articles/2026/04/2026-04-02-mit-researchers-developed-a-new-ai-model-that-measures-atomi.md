@@ -5,8 +5,8 @@ title: MIT researchers developed a new AI model that measures atomic-scale defec
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.mit.edu/2026/mit-researchers-use-ai-uncover-atomic-defects-materials-0330
+url_status: repaired
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: bced63852b96950a9e35394c1c27b9704c76c727d32e4f1d1db597196b574403

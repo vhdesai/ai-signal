@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 219
+member_count: 221
 ---
 
 # IBM
 
-> Auto-generated entity hub. 219 connected article(s).
+> Auto-generated entity hub. 221 connected article(s).
 
+- `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-12` [[2026-11-12-november-12-2026-siliconangle|[November 12, 2026] · [SiliconANGLE]]]
 - `2026-11-12` [[2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi|Agent infrastructure draws capital: LangChain doubles to $3 billion and IBM buys AuthMind for agent identity]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-openai|[November 10, 2026] · [OpenAI]]]

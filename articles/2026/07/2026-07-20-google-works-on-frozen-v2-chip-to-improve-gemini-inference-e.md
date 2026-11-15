@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip
 - 2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient
+- 2026-11-13-november-12-2026-ars-technica
 - 2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
-- 2026-05-03-google-s-unreleased-gemini-3-2-flash-surfaces-on-eleuther-ai
 embedding_id: 2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e
 event_name: ''
 ---
@@ -42,5 +42,5 @@ TechCrunch reports that Alphabet is designing a new server chip, internally call
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]] · [[2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient]] · [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-03-google-s-unreleased-gemini-3-2-flash-surfaces-on-eleuther-ai]]
+**Related:** [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]] · [[2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient]] · [[2026-11-13-november-12-2026-ars-technica]] · [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]]
 <!-- graph:end -->

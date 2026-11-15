@@ -1,13 +1,19 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2421
+member_count: 2427
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2421 connected article(s).
+> Auto-generated topic hub. 2427 connected article(s).
 
+- `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
+- `2026-11-13` [[2026-11-13-november-12-2026-crypto-briefing|[November 12, 2026] · [Crypto Briefing]]]
+- `2026-11-13` [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne|Weight forensics tie China's top open models to export-banned Blackwell chips as Washington feuds over Megaspeed]]
+- `2026-11-13` [[2026-11-13-the-fed-ranks-ai-as-the-top-threat-to-financial-stability-as|The Fed ranks AI as the top threat to financial stability as the White House task force turns to cyber risk]]
+- `2026-11-13` [[2026-11-13-cursor-traces-a-malicious-claude-code-extension-to-a-key-lea|Cursor traces a malicious Claude Code extension to a key leaked by Fireworks as AI fuels a ransomware boom]]
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity-2|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-12` [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats|The Nvidia-China fallout widens: Huang will testify, Democrats probe export approvals and Lutnick is under pressure]]
 - `2026-11-12` [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new|Pressure on frontier AI broadens: nonprofits sue to halt new models as Congress and the EU set agendas]]

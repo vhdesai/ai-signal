@@ -1,14 +1,20 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1867
+member_count: 1873
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1867 connected article(s).
+> Auto-generated entity hub. 1873 connected article(s).
 
+- `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
+- `2026-11-13` [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times|[November 13, 2026] · [Crypto Briefing, citing the Financial Times]]]
 - `2026-11-13` [[2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync|Open inference plumbing matures: Google open-sources TPU Sync and llama.cpp reaches 1.0]]
+- `2026-11-13` [[2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni|Nvidia's succession search turns to Arm's Rene Haas as earnings put Kress's financing stance to the test]]
+- `2026-11-13` [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo|Amodei calls compute Anthropic's deepest dilemma as the IPO roadshow turns away Chinese orders]]
+- `2026-11-13` [[2026-11-13-ai2-s-xybench-finds-leading-models-rarely-correct-users-mist|AI2's XYBench finds leading models rarely correct users' mistaken assumptions]]
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity-2|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-12` [[2026-11-12-november-12-2026-dealbook|[November 12, 2026] · [DealBook]]]
 - `2026-11-12` [[2026-11-12-november-11-2026-wall-street-journal|[November 11, 2026] · [Wall Street Journal]]]

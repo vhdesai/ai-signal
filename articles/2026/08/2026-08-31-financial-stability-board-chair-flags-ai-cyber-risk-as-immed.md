@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-the-fed-ranks-ai-as-the-top-threat-to-financial-stability-as
 - 2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten
 - 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
-- 2026-04-13-ai-safety-policy
 embedding_id: 2026-08-31-financial-stability-board-chair-flags-ai-cyber-risk-as-immed
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Nairametrics reported that the Financial Stability Board chair identified advanc
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-04-13-ai-safety-policy]]
+**Related:** [[2026-11-13-the-fed-ranks-ai-as-the-top-threat-to-financial-stability-as]] · [[2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]]
 <!-- graph:end -->

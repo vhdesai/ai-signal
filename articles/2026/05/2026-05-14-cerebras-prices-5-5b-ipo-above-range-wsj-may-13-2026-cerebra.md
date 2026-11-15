@@ -5,8 +5,8 @@ title: Cerebras prices $5.5B IPO above range — WSJ, May 13, 2026 Cerebras pric
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 38e91c44aaf3ed9d00a54d9861c43775c5520dfbceb3aa68ae01acfc8d73e380

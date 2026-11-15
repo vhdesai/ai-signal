@@ -5,8 +5,8 @@ title: Anthropic officially expanded Claude into legal services via a new set of
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://claude.com/resources/articles/claude-for-the-legal-industry
+url_status: repaired
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: f51468ed41c961353dc1f7ca75010697f79e73f41f19d00191c0e4b825725023

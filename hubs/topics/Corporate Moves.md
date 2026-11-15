@@ -1,14 +1,24 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5353
+member_count: 5363
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5353 connected article(s).
+> Auto-generated topic hub. 5363 connected article(s).
 
+- `2026-11-13` [[2026-11-13-november-13-2026-wall-street-journal-2|[November 13, 2026] · [Wall Street Journal]]]
+- `2026-11-13` [[2026-11-13-november-13-2026-databricks|[November 13, 2026] · [Databricks]]]
+- `2026-11-13` [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times|[November 13, 2026] · [Crypto Briefing, citing the Financial Times]]]
+- `2026-11-13` [[2026-11-13-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
+- `2026-11-13` [[2026-11-13-openai-folds-its-robotics-team-into-research-and-applied-gro|OpenAI folds its robotics team into research and applied groups, betting general models can run robots]]
+- `2026-11-13` [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch|OpenAI and Databricks bring governed enterprise data into ChatGPT as Perplexity's Teammates agents reach the Mac]]
+- `2026-11-13` [[2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni|Nvidia's succession search turns to Arm's Rene Haas as earnings put Kress's financing stance to the test]]
+- `2026-11-13` [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo|Amodei calls compute Anthropic's deepest dilemma as the IPO roadshow turns away Chinese orders]]
+- `2026-11-13` [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads|Agents get wallets: ChatGPT can now buy for you, Gemini reads your spending and banks scramble to keep up]]
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-12` [[2026-11-12-november-12-2026-siliconangle|[November 12, 2026] · [SiliconANGLE]]]
 - `2026-11-12` [[2026-11-12-november-12-2026-dealbook|[November 12, 2026] · [DealBook]]]
 - `2026-11-12` [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is|Without Huang, Nvidia's role as the AI economy's financier is in doubt]]
 - `2026-11-12` [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as|OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand]]

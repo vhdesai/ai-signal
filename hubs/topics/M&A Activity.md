@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 558
+member_count: 561
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 558 connected article(s).
+> Auto-generated topic hub. 561 connected article(s).
 
+- `2026-11-13` [[2026-11-13-november-12-2026-wall-street-journal|[November 12, 2026] · [Wall Street Journal]]]
+- `2026-11-13` [[2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni|Nvidia's succession search turns to Arm's Rene Haas as earnings put Kress's financing stance to the test]]
+- `2026-11-12` [[2026-11-12-november-12-2026-siliconangle|[November 12, 2026] · [SiliconANGLE]]]
 - `2026-11-12` [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti|SpaceX's AI arm plans $74 billion of data centers while cutting most of the Grok video team]]
 - `2026-11-12` [[2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi|Agent infrastructure draws capital: LangChain doubles to $3 billion and IBM buys AuthMind for agent identity]]
 - `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-an-ai-holding|AI services find business models: Sequoia backs an AI holding company as Anthropic's Ode adds results-based fees]]

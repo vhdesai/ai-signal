@@ -5,7 +5,7 @@ date: '2026-11-02'
 source: '[OpenAI]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=data+center+pauses+governor+races
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=data+center+pauses+governor+races
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-03_065703_Final-Daily-AI-News-Digest.md
 content_hash: 9fe399c8b92b5c09e103e5f0bec6e4ee101573b4754fc40be66826c8f7fbadd9
 normalized_title_hash: 69e2638087eecc9f

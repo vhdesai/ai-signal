@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-14-anthropic-walks-a-tightrope-to-nasdaq-preaching-restraint-wh
+- 2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo
 - 2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet
 - 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
 embedding_id: 2026-09-12-anthropic-s-prisoner-s-dilemma-the-skeptical-read-of-the-slo
@@ -37,5 +38,5 @@ Analysis framing Amodei’s pacing essay as strategically self-serving, landing 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-14-anthropic-walks-a-tightrope-to-nasdaq-preaching-restraint-wh]] · [[2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]]
+**Related:** [[2026-09-14-anthropic-walks-a-tightrope-to-nasdaq-preaching-restraint-wh]] · [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo]] · [[2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]]
 <!-- graph:end -->

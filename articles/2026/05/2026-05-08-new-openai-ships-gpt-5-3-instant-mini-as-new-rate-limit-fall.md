@@ -4,8 +4,8 @@ title: New OpenAI Ships GPT-5.3 Instant Mini as New Rate-Limit Fallback Model
 date: '2026-05-08'
 source: OpenAI / ToolsCompare.ai
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.buildfastwithai.com/gpt-5-5-instant-mini-chatgpt-fallback-model-july-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 35df7f219e374c1f65aab28cc2171aa5b1d824a34f81f9c7a601f736baeb1519

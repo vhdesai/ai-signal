@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Arm
-member_count: 39
+member_count: 41
 ---
 
 # Arm
 
-> Auto-generated entity hub. 39 connected article(s).
+> Auto-generated entity hub. 41 connected article(s).
 
+- `2026-11-13` [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times|[November 13, 2026] · [Crypto Briefing, citing the Financial Times]]]
+- `2026-11-13` [[2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni|Nvidia's succession search turns to Arm's Rene Haas as earnings put Kress's financing stance to the test]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]

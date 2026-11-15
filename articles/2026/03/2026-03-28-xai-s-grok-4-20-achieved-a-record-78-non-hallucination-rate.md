@@ -5,8 +5,8 @@ title: xAI's Grok 4.20 achieved a record 78% non-hallucination rate on standard 
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/grok-4-20-trails-gemini-and-gpt-5-4-by-a-wide-margin-but-sets-a-new-record-for-not-hallucinating/
+url_status: repaired
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 7f1b2cf5e47683267e6fd64a651017f0304bc8d4bc910c232b6ec41100576289

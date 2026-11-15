@@ -25,10 +25,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-14-november-12-2026-techcrunch
 - 2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu
 - 2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl
 - 2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation
-- 2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14
 embedding_id: 2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Cerebras reported core revenue up 70% to $230.9 million, an unexpected adjusted 
 
 **Entities:** [[Cerebras]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl]] · [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]] · [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14]]
+**Related:** [[2026-11-14-november-12-2026-techcrunch]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl]] · [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]]
 <!-- graph:end -->

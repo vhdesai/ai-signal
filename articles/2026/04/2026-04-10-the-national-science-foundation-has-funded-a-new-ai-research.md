@@ -5,8 +5,8 @@ title: The National Science Foundation has funded a new AI research institute at
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cmu.edu/news/stories/archives/2026/july/carnegie-mellons-ai-science-foundry-selected-by-nsf-to-help-build-national-infrastructure-for-ai
+url_status: repaired
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 95a392be1b38e2cca0ddeb30a2b69b8de82f68f5dd42a28711815c4d095d63c0

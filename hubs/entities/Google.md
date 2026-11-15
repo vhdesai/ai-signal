@@ -1,14 +1,23 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1820
+member_count: 1829
 ---
 
 # Google
 
-> Auto-generated entity hub. 1820 connected article(s).
+> Auto-generated entity hub. 1829 connected article(s).
 
+- `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-13` [[2026-11-13-november-13-2026-databricks|[November 13, 2026] · [Databricks]]]
+- `2026-11-13` [[2026-11-13-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
+- `2026-11-13` [[2026-11-13-november-12-2026-crypto-briefing|[November 12, 2026] · [Crypto Briefing]]]
+- `2026-11-13` [[2026-11-13-november-12-2026-ars-technica|[November 12, 2026] · [Ars Technica]]]
+- `2026-11-13` [[2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur|Perplexity open-sources Decider v1.3, small models that return probabilities instead of text]]
 - `2026-11-13` [[2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync|Open inference plumbing matures: Google open-sources TPU Sync and llama.cpp reaches 1.0]]
+- `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-the-courtad|Google's /teamwork multi-agent system helps prove the Courtade-Kumar conjecture, with proofs checked in Lean 4]]
+- `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-a-long-open|Google's /teamwork multi-agent system helps prove a long-open conjecture, with proofs checked in Lean 4]]
+- `2026-11-13` [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads|Agents get wallets: ChatGPT can now buy for you, Gemini reads your spending and banks scramble to keep up]]
 - `2026-11-12` [[2026-11-12-november-11-2026-google|[November 11, 2026] · [Google]]]
 - `2026-11-12` [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new|Pressure on frontier AI broadens: nonprofits sue to halt new models as Congress and the EU set agendas]]
 - `2026-11-12` [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as|OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand]]

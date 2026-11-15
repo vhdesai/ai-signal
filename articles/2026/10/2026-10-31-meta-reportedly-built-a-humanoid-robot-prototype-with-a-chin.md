@@ -5,7 +5,7 @@ date: '2026-10-31'
 source: '[The Information]'
 url_original: https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push
 url_canonical: https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-01_061059_Inbox_Daily AI News Digest - November
   1, 2026.md
 content_hash: caf08034103e53b002742776b5c4085f227b6a70ae355d0c3f771e6c0c862fbd

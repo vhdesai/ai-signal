@@ -5,7 +5,7 @@ date: '2026-10-30'
 source: '[The Information]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+pension+Spark+Capital
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+pension+Spark+Capital
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-30_065803_Final-Daily-AI-News-Digest.md
 content_hash: 9e76a10761ba6914f81b5b8236572655717376b41d47965c1cab3ca3b50bc576
 normalized_title_hash: f781331a51bb2437

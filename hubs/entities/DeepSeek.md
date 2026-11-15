@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 598
+member_count: 601
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 598 connected article(s).
+> Auto-generated entity hub. 601 connected article(s).
 
+- `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
+- `2026-11-13` [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne|Weight forensics tie China's top open models to export-banned Blackwell chips as Washington feuds over Megaspeed]]
+- `2026-11-13` [[2026-11-13-ai2-s-xybench-finds-leading-models-rarely-correct-users-mist|AI2's XYBench finds leading models rarely correct users' mistaken assumptions]]
 - `2026-11-12` [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats|The Nvidia-China fallout widens: Huang will testify, Democrats probe export approvals and Lutnick is under pressure]]
 - `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-09` [[2026-11-09-november-9-2026-meta-newsroom|[November 9, 2026] · [Meta Newsroom]]]

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032
 - 2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor
+- 2026-11-13-the-fed-ranks-ai-as-the-top-threat-to-financial-stability-as
 - 2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor
 - 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
-- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 embedding_id: 2026-07-02-brookings-fed-working-paper-ai-s-projected-2-2t-deficit-redu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new working paper from economists at Brookings and the Federal Reserve finds A
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032]] · [[2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor]] · [[2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]]
+**Related:** [[2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032]] · [[2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor]] · [[2026-11-13-the-fed-ranks-ai-as-the-top-threat-to-financial-stability-as]] · [[2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]]
 <!-- graph:end -->

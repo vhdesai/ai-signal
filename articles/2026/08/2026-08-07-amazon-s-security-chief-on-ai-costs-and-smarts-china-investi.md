@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
 - 2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane
-- 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
+- 2026-11-14-november-13-2026-wsj-pro-cybersecurity
 embedding_id: 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
 event_name: ''
 ---
@@ -41,5 +41,5 @@ WSJ Pro Cybersecurity profiles Amazon's security chief discussing how the compan
 
 **Entities:** [[Amazon]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]]
+**Related:** [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-11-14-november-13-2026-wsj-pro-cybersecurity]]
 <!-- graph:end -->

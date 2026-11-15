@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-november-12-2026-wall-street-journal
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 - 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
 - 2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in
 - 2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m
-- 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 embedding_id: 2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti
 event_name: ''
 ---
@@ -43,5 +43,5 @@ SpaceX outlined about $24 billion of supercomputing investment in Texas with on-
 
 **Entities:** [[OpenAI]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in]] · [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]]
+**Related:** [[2026-11-13-november-12-2026-wall-street-journal]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in]] · [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m]]
 <!-- graph:end -->

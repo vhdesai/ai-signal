@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 1022
+member_count: 1024
 ---
 
 # Meta
 
-> Auto-generated entity hub. 1022 connected article(s).
+> Auto-generated entity hub. 1024 connected article(s).
 
+- `2026-11-13` [[2026-11-13-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
+- `2026-11-13` [[2026-11-13-november-12-2026-crypto-briefing|[November 12, 2026] · [Crypto Briefing]]]
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-12` [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new|Pressure on frontier AI broadens: nonprofits sue to halt new models as Congress and the EU set agendas]]
 - `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]

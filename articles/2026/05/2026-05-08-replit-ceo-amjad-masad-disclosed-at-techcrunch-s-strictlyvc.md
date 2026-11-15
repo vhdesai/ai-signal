@@ -5,8 +5,8 @@ title: Replit CEO Amjad Masad disclosed at TechCrunch's StrictlyVC event that th
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/podcast/ceo-amjad-masad-on-how-replit-is-changing-who-gets-to-build-software/
+url_status: repaired
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: c9f86dce8bfc6474e4aa8639af4bbf0d1b405c9c2c2d2d5ddcbd1abf4a5ce888
 normalized_title_hash: dad2cdd95eba35fe

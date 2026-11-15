@@ -1,15 +1,22 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3812
+member_count: 3819
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3812 connected article(s).
+> Auto-generated topic hub. 3819 connected article(s).
 
+- `2026-11-14` [[2026-11-14-stanford-s-memorilla-gives-a-frozen-llm-an-entire-document-s|Stanford's Memorilla gives a frozen LLM an entire document store in just 16 tokens]]
+- `2026-11-13` [[2026-11-13-november-14-2026-marktechpost|[November 14, 2026] · [MarkTechPost]]]
+- `2026-11-13` [[2026-11-13-november-12-2026-ars-technica|[November 12, 2026] · [Ars Technica]]]
+- `2026-11-13` [[2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur|Perplexity open-sources Decider v1.3, small models that return probabilities instead of text]]
 - `2026-11-13` [[2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync|Open inference plumbing matures: Google open-sources TPU Sync and llama.cpp reaches 1.0]]
 - `2026-11-13` [[2026-11-13-mit-s-design-copilot-lets-engineers-steer-ai-generated-struc|MIT's design copilot lets engineers steer AI-generated structures as they form]]
+- `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-the-courtad|Google's /teamwork multi-agent system helps prove the Courtade-Kumar conjecture, with proofs checked in Lean 4]]
+- `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-a-long-open|Google's /teamwork multi-agent system helps prove a long-open conjecture, with proofs checked in Lean 4]]
+- `2026-11-13` [[2026-11-13-ai2-s-xybench-finds-leading-models-rarely-correct-users-mist|AI2's XYBench finds leading models rarely correct users' mistaken assumptions]]
 - `2026-11-12` [[2026-11-12-november-11-2026-google|[November 11, 2026] · [Google]]]
 - `2026-11-12` [[2026-11-12-mit-trains-faster-more-trustworthy-ai-climate-emulators-with|MIT trains faster, more trustworthy AI climate emulators with far less simulation data]]
 - `2026-11-12` [[2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear|Google's Gemini 4 Hydrogen becomes the fast default for Search and agent work]]

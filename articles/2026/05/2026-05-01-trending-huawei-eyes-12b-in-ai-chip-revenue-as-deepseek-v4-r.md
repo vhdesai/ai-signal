@@ -5,8 +5,8 @@ title: Trending Huawei Eyes $12B in AI Chip Revenue as DeepSeek V4 Redirects Chi
 date: '2026-05-01'
 source: The Deep Dive / Financial Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thedeepdive.ca/huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-drives-orders-away-from-nvidia/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: b7c1c44c954bcbdd939d2cd46d0c46164800d2fcb112f7803b5a524b91865267

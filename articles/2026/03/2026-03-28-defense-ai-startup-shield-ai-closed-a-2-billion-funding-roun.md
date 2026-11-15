@@ -5,8 +5,8 @@ title: Defense AI startup Shield AI closed a $2 billion funding round at a $12.7
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/shield-ai-2-billion-series-g-defense-ai-autonomous-warfare-2026/
+url_status: repaired
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: a699cd554282089ad1cbd1607ed60dbb85d18278f82c4dc323278416b220dc2c

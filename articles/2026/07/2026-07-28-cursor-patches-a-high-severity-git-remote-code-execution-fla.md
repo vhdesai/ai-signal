@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-29-october-29-2026-cursor
 - 2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues
+- 2026-11-13-cursor-traces-a-malicious-claude-code-extension-to-a-key-lea
 - 2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le
 - 2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy
-- 2026-08-14-z-ai-glm-5-3-reportedly-found-a-serious-vulnerability-in-cur
 embedding_id: 2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cursor (Anysphere) patched a high-severity Windows vulnerability that let malici
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-29-october-29-2026-cursor]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]] · [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]] · [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy]] · [[2026-08-14-z-ai-glm-5-3-reportedly-found-a-serious-vulnerability-in-cur]]
+**Related:** [[2026-10-29-october-29-2026-cursor]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]] · [[2026-11-13-cursor-traces-a-malicious-claude-code-extension-to-a-key-lea]] · [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]] · [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy]]
 <!-- graph:end -->

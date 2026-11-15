@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-24-underdog-saluki-27b-spotlights-aggressive-2-bit-compression
 - 2026-10-25-marktechpost-s-technical-walkthrough-examines-a-heavily-quan
+- 2026-11-13-november-14-2026-marktechpost
 - 2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu
 - 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
-- 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
 embedding_id: 2026-10-24-underdog-saluki-27b-emphasizes-2-bit-compression-for-tool-ca
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MarkTechPost details Saluki 27B as a heavily quantized build intended to reduce 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-24-underdog-saluki-27b-spotlights-aggressive-2-bit-compression]] · [[2026-10-25-marktechpost-s-technical-walkthrough-examines-a-heavily-quan]] · [[2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]]
+**Related:** [[2026-10-24-underdog-saluki-27b-spotlights-aggressive-2-bit-compression]] · [[2026-10-25-marktechpost-s-technical-walkthrough-examines-a-heavily-quan]] · [[2026-11-13-november-14-2026-marktechpost]] · [[2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]]
 <!-- graph:end -->

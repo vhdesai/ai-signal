@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-14-anthropic-picks-nasdaq-for-potential-ipo
+- 2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo
 - 2026-09-12-anthropic-s-prisoner-s-dilemma-the-skeptical-read-of-the-slo
 - 2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes
 embedding_id: 2026-09-14-anthropic-walks-a-tightrope-to-nasdaq-preaching-restraint-wh
@@ -39,5 +40,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo]] · [[2026-09-12-anthropic-s-prisoner-s-dilemma-the-skeptical-read-of-the-slo]] · [[2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes]]
+**Related:** [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo]] · [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo]] · [[2026-09-12-anthropic-s-prisoner-s-dilemma-the-skeptical-read-of-the-slo]] · [[2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes]]
 <!-- graph:end -->

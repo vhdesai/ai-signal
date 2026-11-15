@@ -5,8 +5,8 @@ title: A federal court granted Anthropic a preliminary injunction blocking the T
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html
+url_status: repaired
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 3e479fe4fc292062de71b3f86a83ee56454aae899eb9843e6f818e2705ee2d59
