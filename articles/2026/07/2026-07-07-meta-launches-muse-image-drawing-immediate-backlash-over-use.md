@@ -4,8 +4,8 @@ title: Meta launches Muse Image, drawing immediate backlash over use of users’
 date: '2026-07-07'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/
+url_status: repaired
 digest_source: digests\raw\2026-07-08_064841_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 27f0e5ec73ac4468f22a603c42b58960e4c1d79aa46f3a1808a8efd6ff348206

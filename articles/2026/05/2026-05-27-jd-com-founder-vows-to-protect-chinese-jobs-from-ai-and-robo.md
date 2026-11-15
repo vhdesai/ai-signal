@@ -4,8 +4,8 @@ title: JD.com founder vows to protect Chinese jobs from AI and robots
 date: '2026-05-27'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-05-28/jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robots
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 8443676591da6dcade1a0f660de39fbba3e5176bc97549976b39048ed47e73f9

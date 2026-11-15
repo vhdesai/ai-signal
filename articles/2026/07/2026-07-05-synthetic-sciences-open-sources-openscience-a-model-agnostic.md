@@ -4,8 +4,8 @@ title: Synthetic Sciences open-sources "OpenScience," a model-agnostic research 
 date: '2026-07-05'
 source: MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/
+url_status: repaired
 digest_source: digests\raw\2026-07-06_062258_Inbox_Daily AI News Digest - July 6,
   2026.md
 content_hash: 99ad0d62eae4d41d5e75f00b53c4c735013cbba630961844d68b8afce856ee78

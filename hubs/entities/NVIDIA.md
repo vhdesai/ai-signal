@@ -1,18 +1,33 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1873
+member_count: 1888
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1873 connected article(s).
+> Auto-generated entity hub. 1888 connected article(s).
 
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-14` [[2026-11-14-former-openai-researcher-will-depue-analyzed-open-weights-fr|Former OpenAI researcher Will DePue analyzed open weights from DeepSeek, Moonshot, MiniMax and Ant Group and reports…]]
+- `2026-11-14` [[2026-11-14-capitalg-led-the-round-with-gic-dfj-growth-ivp-and-sapphire|CapitalG led the round, with GIC, DFJ Growth, IVP and Sapphire participating; the valuation is more than double the…]]
+- `2026-11-14` [[2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo|Axios reports Treasury Secretary Scott Bessent pointed responsibility for the Megaspeed chip matter at the Commerce…]]
+- `2026-11-14` [[2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an|A day after the board accepted Jensen Huang's resignation and named CFO Colette Kress interim CEO, reporting shifted to…]]
 - `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times|[November 13, 2026] · [Crypto Briefing, citing the Financial Times]]]
+- `2026-11-13` [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne|Weight forensics tie China's top open models to export-banned Blackwell chips as Washington feuds over Megaspeed]]
+- `2026-11-13` [[2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u|VCs and founders expect Nvidia's startup funding to shrink under Kress, with OpenAI and Oracle most exposed]]
+- `2026-11-13` [[2026-11-13-treasury-points-to-commerce-over-proposed-megaspeed-restrict|Treasury points to Commerce over proposed Megaspeed restrictions]]
+- `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
 - `2026-11-13` [[2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync|Open inference plumbing matures: Google open-sources TPU Sync and llama.cpp reaches 1.0]]
+- `2026-11-13` [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan|Nvidia’s startup-financing role faces uncertainty after Huang’s departure]]
 - `2026-11-13` [[2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni|Nvidia's succession search turns to Arm's Rene Haas as earnings put Kress's financing stance to the test]]
+- `2026-11-13` [[2026-11-13-nvidia-startup-funding-faces-uncertainty-after-huang-departu|Nvidia startup funding faces uncertainty after Huang departure]]
+- `2026-11-13` [[2026-11-13-model-weight-analysis-raises-questions-about-restricted-nvid|Model-weight analysis raises questions about restricted Nvidia compute]]
+- `2026-11-13` [[2026-11-13-model-weight-analysis-raises-questions-about-nvidia-export-c|Model-weight analysis raises questions about Nvidia export controls]]
+- `2026-11-13` [[2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation-on-its|LangChain raises $300 million at a $3 billion valuation on its pitch that enterprises should own their agents]]
+- `2026-11-13` [[2026-11-13-forensic-analysis-of-model-weights-suggests-deepseek-v4-and|Forensic analysis of model weights suggests DeepSeek V4 and Kimi K3 were trained on export-banned Blackwell chips]]
 - `2026-11-13` [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo|Amodei calls compute Anthropic's deepest dilemma as the IPO roadshow turns away Chinese orders]]
 - `2026-11-13` [[2026-11-13-ai2-s-xybench-finds-leading-models-rarely-correct-users-mist|AI2's XYBench finds leading models rarely correct users' mistaken assumptions]]
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity-2|[November 12, 2026] · [WSJ Pro CyberSecurity]]]

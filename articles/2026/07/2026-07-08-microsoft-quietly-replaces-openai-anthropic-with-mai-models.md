@@ -4,8 +4,8 @@ title: Microsoft Quietly Replaces OpenAI/Anthropic with MAI Models in Excel and 
 date: '2026-07-08'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps
+url_status: repaired
 digest_source: digests\raw\2026-07-09_083415_Inbox_Fw Daily AI News Digest - July
   9, 2026.md
 content_hash: ded93613f14be805a397983c7b0e754644b9e537d0bb5cd80fc1e8633f7c8a30

@@ -4,8 +4,8 @@ title: Microsoft patches record 570 vulnerabilities, citing AI-assisted discover
 date: '2026-07-15'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/
+url_status: repaired
 digest_source: digests\raw\2026-07-16-daily-ai-news-digest.md
 content_hash: d76984305d3ebb7076a5e668fe104ecc64b5c1b734e320247a55781c8ef0b9e4
 normalized_title_hash: 32ca5ba3973319cf

@@ -4,8 +4,8 @@ title: 'IBM CEO Study: C-suite roles being reshaped for the AI era'
 date: '2026-05-04'
 source: IBM Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newsroom.ibm.com/2026-05-04-ibm-study-ceos-are-reshaping-c-suite-roles-for-the-ai-era
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 5afc97c7abe77ed8651a14017f9d151eef3391d0ca608de14f053f1995950e35
 normalized_title_hash: 99c549da0d223f1d

@@ -4,8 +4,8 @@ title: Agility Robotics is going public via SPAC
 date: '2026-07-05'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/
+url_status: repaired
 digest_source: digests\raw\2026-07-06_060000_Daily-AI-News-Digest.md
 content_hash: cdab101048f13c76c53145a14ce83a93b0dfc0dd5d39ee03cd7b1b1cb9dcf25d
 normalized_title_hash: d14f08321c490ee8

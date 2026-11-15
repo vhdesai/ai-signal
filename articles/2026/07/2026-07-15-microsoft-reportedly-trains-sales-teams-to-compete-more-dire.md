@@ -5,8 +5,8 @@ title: Microsoft reportedly trains sales teams to compete more directly against 
 date: '2026-07-15'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/
+url_status: repaired
 digest_source: digests\raw\2026-07-16-daily-ai-news-digest.md
 content_hash: 96c133eb5de3df6a8984cf8c8aa2d47c3fda62c05cc2ae1cdb9a83023c6d095d
 normalized_title_hash: d343c918fcc32008

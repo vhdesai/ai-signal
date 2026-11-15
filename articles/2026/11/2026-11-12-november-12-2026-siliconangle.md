@@ -3,13 +3,14 @@ article_id: 2026-11-12-november-12-2026-siliconangle
 title: '[November 12, 2026] · [SiliconANGLE]'
 date: '2026-11-12'
 source: '[IBM]'
-url_original: https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/
-url_canonical: https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/
-url_status: ok
-digest_source: digests\raw\2026-11-14_065734_Final-Daily-AI-News-Digest.md
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-11-14_070451_Inbox_Daily AI News Digest - November
+  14, 2026.md
 content_hash: 369f16d0869e6b33430d89023592d72acfd3f3425e116f05f2aef851883ae8dd
 normalized_title_hash: ecc6d50e849f850d
-canonical_url_hash: 2a22880187b00b66
+canonical_url_hash: ''
 tags: []
 entities:
 - IBM

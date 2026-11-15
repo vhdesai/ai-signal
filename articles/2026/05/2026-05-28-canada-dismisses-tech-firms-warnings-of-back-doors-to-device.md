@@ -4,8 +4,8 @@ title: Canada dismisses tech firms' warnings of 'back doors' to devices
 date: '2026-05-28'
 source: WSJ Pro Cybersecurity
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://justthenews.com/politics-policy/regulation/tech-companies-oppose-bill-would-make-it-easier-government-snoop-devices
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: df36350d88c0e1d1052c35e66a4059d96bf6ece9bfe360729cc99f4820e433c8

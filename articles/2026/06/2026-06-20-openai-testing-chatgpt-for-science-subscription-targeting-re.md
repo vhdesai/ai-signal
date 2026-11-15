@@ -4,8 +4,8 @@ title: OpenAI Testing "ChatGPT for Science" Subscription Targeting Research Inst
 date: '2026-06-20'
 source: Bleeping Computer; Windows Report
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/
+url_status: repaired
 digest_source: digests\raw\2026-06-21_070014_Final-Daily-AI-News-Digest.md
 content_hash: f26e00ebd683704a2e58d6d636d79ec2728e72a8c13dcd91ad0b94f26e30bf4b
 normalized_title_hash: c9c7089c1f02f3cc

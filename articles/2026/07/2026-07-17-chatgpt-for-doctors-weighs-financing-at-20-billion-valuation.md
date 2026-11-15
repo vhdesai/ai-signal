@@ -4,8 +4,8 @@ title: “ChatGPT for doctors” weighs financing at $20 billion valuation
 date: '2026-07-17'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://vff.ai/article/2026/07/20/chatgpt-for-doctors-mulls-new-financing-at-20-billion-valuation
+url_status: repaired
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: 05897614ad941dffa516ec3915aff0bfee9d81301623fb2d40e718f8d495e537
 normalized_title_hash: 04ad3ca67029e5c5

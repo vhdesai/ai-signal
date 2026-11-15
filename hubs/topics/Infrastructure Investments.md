@@ -1,20 +1,24 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1989
+member_count: 1993
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1989 connected article(s).
+> Auto-generated topic hub. 1993 connected article(s).
 
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch|Cerebras says its next-generation WSE-5 chip is ahead of schedule, with CS-5 systems due in early summer 2027]]
+- `2026-11-14` [[2026-11-14-capitalg-led-the-round-with-gic-dfj-growth-ivp-and-sapphire|CapitalG led the round, with GIC, DFJ Growth, IVP and Sapphire participating; the valuation is more than double the…]]
 - `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-wall-street-journal-2|[November 13, 2026] · [Wall Street Journal]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-wall-street-journal|[November 12, 2026] · [Wall Street Journal]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-crypto-briefing|[November 12, 2026] · [Crypto Briefing]]]
 - `2026-11-13` [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne|Weight forensics tie China's top open models to export-banned Blackwell chips as Washington feuds over Megaspeed]]
 - `2026-11-13` [[2026-11-13-the-fed-ranks-ai-as-the-top-threat-to-financial-stability-as|The Fed ranks AI as the top threat to financial stability as the White House task force turns to cyber risk]]
+- `2026-11-13` [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan|Nvidia’s startup-financing role faces uncertainty after Huang’s departure]]
+- `2026-11-13` [[2026-11-13-drogue-raises-20-million-to-put-data-centers-on-ships-powere|Drogue raises $20 million to put data centers on ships powered by ocean heat]]
 - `2026-11-13` [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo|Amodei calls compute Anthropic's deepest dilemma as the IPO roadshow turns away Chinese orders]]
 - `2026-11-13` [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro|AI infrastructure finance matures: compute futures near approval, Cerebras pulls in WSE-5 and capital chases off-grid power]]
 - `2026-11-12` [[2026-11-12-november-11-2026-wall-street-journal|[November 11, 2026] · [Wall Street Journal]]]

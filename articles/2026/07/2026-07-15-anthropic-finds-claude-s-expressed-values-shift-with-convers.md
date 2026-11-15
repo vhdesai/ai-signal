@@ -4,8 +4,8 @@ title: Anthropic finds Claude's expressed values shift with conversation languag
 date: '2026-07-15'
 source: Anthropic
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/research/claude-values-models-languages
+url_status: repaired
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 74486b949091967cb165c0a25513ba93c55a5e6ababa057a9de2f12da6035310
 normalized_title_hash: 5186f934bc9f4615

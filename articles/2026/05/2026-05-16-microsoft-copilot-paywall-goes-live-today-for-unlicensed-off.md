@@ -4,8 +4,8 @@ title: Microsoft Copilot Paywall Goes Live Today for Unlicensed Office Users
 date: '2026-05-16'
 source: Microsoft / Chris Menard Training
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.windowscentral.com/microsoft/microsoft-office/microsoft-365-is-paywalling-most-of-copilot-in-office-apps-whats-changing
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 3e753a935993441b591cf44e15d27e06e320885498a0b0dd4926764e99f82eb9

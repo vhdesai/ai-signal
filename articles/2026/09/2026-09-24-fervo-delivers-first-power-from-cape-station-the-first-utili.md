@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-11-09-fervo-s-contracted-revenue-rises-to-11-9-billion-as-hypersca
 - 2026-11-09-data-center-supply-chains-reshape-fervo-s-geothermal-backlog
 - 2026-05-14-fervo-energy-pops-33-in-ipo-fueled-by-ai-data-center-demand
-- 2026-11-10-november-9-2026-techcrunch-2
+- 2026-11-13-drogue-raises-20-million-to-put-data-centers-on-ships-powere
 embedding_id: 2026-09-24-fervo-delivers-first-power-from-cape-station-the-first-utili
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Fervo Energy's Cape Station project in Beaver County, Utah delivered its first e
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-fervo-reaches-first-power-at-cape-station-the-first-utility]] · [[2026-11-09-fervo-s-contracted-revenue-rises-to-11-9-billion-as-hypersca]] · [[2026-11-09-data-center-supply-chains-reshape-fervo-s-geothermal-backlog]] · [[2026-05-14-fervo-energy-pops-33-in-ipo-fueled-by-ai-data-center-demand]] · [[2026-11-10-november-9-2026-techcrunch-2]]
+**Related:** [[2026-09-24-fervo-reaches-first-power-at-cape-station-the-first-utility]] · [[2026-11-09-fervo-s-contracted-revenue-rises-to-11-9-billion-as-hypersca]] · [[2026-11-09-data-center-supply-chains-reshape-fervo-s-geothermal-backlog]] · [[2026-05-14-fervo-energy-pops-33-in-ipo-fueled-by-ai-data-center-demand]] · [[2026-11-13-drogue-raises-20-million-to-put-data-centers-on-ships-powere]]
 <!-- graph:end -->

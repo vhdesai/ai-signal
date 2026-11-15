@@ -5,8 +5,8 @@ title: Illinois Enacts First-in-Nation Law Requiring Independent Safety Audits o
 date: '2026-07-07'
 source: Governing · JURIST
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.skadden.com/insights/publications/2026/07/illinois-enacts-ai-safety-law-becoming-first-state
+url_status: repaired
 digest_source: digests\raw\2026-07-08_074536_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 355dc326f8a832ed3de836d7f75c4edf5f6341a4454f5edf35b27b3d5f6d9957

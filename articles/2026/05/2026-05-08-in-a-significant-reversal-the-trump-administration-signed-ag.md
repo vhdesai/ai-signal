@@ -5,8 +5,8 @@ title: In a significant reversal, the Trump administration signed agreements wit
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techechelon.com/post/trump-administration-signs-ai-safety-testing-agreements-with-google-deepmind-microsoft-and-xai
+url_status: repaired
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: 3cbd9d4cf0572cad6798450920cb2924c51fc98e457a94a90e103839030b44da
 normalized_title_hash: c326ddf147090809

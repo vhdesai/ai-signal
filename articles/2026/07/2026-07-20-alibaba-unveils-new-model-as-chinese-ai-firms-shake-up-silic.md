@@ -4,8 +4,8 @@ title: Alibaba unveils new model as Chinese AI firms shake up Silicon Valley
 date: '2026-07-20'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://vff.ai/article/2026/07/20/alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silicon-valley
+url_status: repaired
 digest_source: digests\raw\2026-07-20-daily-ai-news-digest.md
 content_hash: 8d46b24dfa79054bc9f3179163942c60da9057880c0a34e454efd6464f0b4b20
 normalized_title_hash: adfaa191839e2473

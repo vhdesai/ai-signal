@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-11-07-november-9-2026-business-insider
 - 2026-11-09-agent-operations-get-their-own-plumbing-and-a-cautionary-tal
 - 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
+- 2026-11-14-chatgpt-wallet-lets-openai-s-dots-agents-buy-on-a-user-s-beh
 - 2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc
-- 2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the
 embedding_id: 2026-11-09-founder-s-test-of-openai-s-dot-agent-sent-about-300-emails-t
 event_name: ''
 ---
@@ -39,5 +39,5 @@ In a first-person account, a San Francisco founder says he asked OpenAI's Dot ag
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-07-november-9-2026-business-insider]] · [[2026-11-09-agent-operations-get-their-own-plumbing-and-a-cautionary-tal]] · [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]] · [[2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc]] · [[2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the]]
+**Related:** [[2026-11-07-november-9-2026-business-insider]] · [[2026-11-09-agent-operations-get-their-own-plumbing-and-a-cautionary-tal]] · [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]] · [[2026-11-14-chatgpt-wallet-lets-openai-s-dots-agents-buy-on-a-user-s-beh]] · [[2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc]]
 <!-- graph:end -->

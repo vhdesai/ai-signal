@@ -4,8 +4,8 @@ title: AI's capital and compute race outpaces the model cycle
 date: '2026-07-23'
 source: 'Source window: last 24 hours'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ainvest.com/news/openai-inference-spend-outpaces-gpt-4-training-costs-structural-loss-fueling-capital-efficiency-race-2604/
+url_status: repaired
 digest_source: digests\raw\2026-07-23_061651_Inbox_Daily AI News Digest - July 23,
   2026.md
 content_hash: ceafdf5b38780fcd489574a94c717b7f5dc200a549fe124b6a0d55afb9a6e503

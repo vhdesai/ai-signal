@@ -4,8 +4,8 @@ title: Anthropic Agrees to $200B Google Cloud Commitment Over 5 Years
 date: '2026-05-10'
 source: Engadget
 url_original: null
-url_canonical: https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 0c57ec52f8966b217098c0e3a85daa4c47cbfe9dff8a8d85f4db064e87e5c0d5

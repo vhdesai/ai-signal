@@ -5,8 +5,8 @@ title: This preprint argues that standard benchmarks substantially undercount fr
 date: '2026-06-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2606.26836
+url_status: repaired
 digest_source: digests\raw\2026-06-26_060327_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 2fc8012c5e7f2075e786a08d9b9cb5174ec73a653fb95c7e845f19f89e78264c

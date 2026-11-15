@@ -4,8 +4,8 @@ title: Poetiq Meta-System Improves Every LLM Tested on LiveCodeBench Pro Without
 date: '2026-05-14'
 source: MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 34107fb85b32df6fd3da94d076f3f21eb79e1e06c4bc5b2062e5bfbe7f90a83d

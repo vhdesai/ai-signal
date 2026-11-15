@@ -4,17 +4,16 @@ title: Amodei calls compute Anthropic's deepest dilemma as the IPO roadshow turn
   away Chinese orders
 date: '2026-11-13'
 source: Business Insider; November 13, 2026 · Wall Street Journal; November 13, 2026
-  · The Information; November 13, 2026 · Reuters*
-url_original: https://www.businessinsider.com/anthropic-ipo-pitch-dario-amodei-compute-dilemma-2026-11
-url_canonical: https://www.businessinsider.com/anthropic-ipo-pitch-dario-amodei-compute-dilemma-2026-11
-url_status: ok
-digest_source: digests\raw\2026-11-14_065459_Final-Daily-AI-News-Digest.md
-content_hash: 73dde69e250e02f266f6d452bec411ece83bbcd4980ef827254ad7d3bbda494a
+  · The Information; November 13, 2026 · Reuters
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-11-14_065517_Inbox_Daily AI News Digest - November
+  14, 2026.md
+content_hash: c6c538ad402ff614409b2d111758fdc7faf9512ffced245e28a1b58e8021d9c1
 normalized_title_hash: 1fd3be90871a5c41
-canonical_url_hash: 5a277754d74208a9
-tags:
-- Finance
-- Trending
+canonical_url_hash: ''
+tags: []
 entities:
 - Anthropic
 - NVIDIA
@@ -37,7 +36,7 @@ event_name: ''
 
 # Amodei calls compute Anthropic's deepest dilemma as the IPO roadshow turns away Chinese orders
 
-In a livestream with Jamie Dimon, Dario Amodei said forecasting how much compute to buy is Anthropic's hardest problem given about $900 billion in disclosed infrastructure commitments, and that the company relies on strong gross margins and more than $95 billion in cash to buy spot capacity if demand runs hot. He said he hopes the IPO will underpromise and overdeliver, with shares expected to start trading Thursday at a valuation of roughly $1.3 trillion or more. Bloomberg reports bankers are turning away orders from mainland Chinese and Hong Kong institutions, and Anthropic was sued for trademark infringement by a Virginia software company over the Claude Mythos name. PitchBook argues the listing's reception, relative to the $965 billion private valuation, will shape late-stage AI funding more than Nvidia's turmoil.
+In a livestream with Jamie Dimon, Dario Amodei said forecasting how much compute to buy is Anthropic's hardest problem given about $900 billion in disclosed infrastructure commitments, and that the company relies on strong gross margins and more than $95 billion in cash to buy spot capacity if demand runs hot. He said he hopes the IPO will underpromise and overdeliver, with shares expected to start trading Thursday at a valuation of roughly $1.3 trillion or more. Bloomberg reports bankers are turning away orders from mainland Chinese and Hong Kong institutions, and Anthropic was sued for trademark infringement by a Virginia software company over the Claude Mythos name. PitchBook argues the listing's reception, relative to the $965 billion private valuation, will shape late-stage AI funding more than Nvidia's turmoil. https://www.businessinsider.com/anthropic-ipo-pitch-dario-amodei-compute-dilemma-2026-11 https://www.wsj.com/finance/anthropic-chief-tells-jamie-dimon-he-hopes-ipo-will-underpromise-and-overdeliver-1ba2dd71 https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+roadshow+J.P.+Morgan https://www.reuters.com/legal/legalindustry/anthropic-sued-trademark-infringement-over-mythos-model-2026-11-13/
 
 <!-- graph:start -->
 ## Connections

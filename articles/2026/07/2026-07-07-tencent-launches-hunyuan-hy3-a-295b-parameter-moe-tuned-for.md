@@ -5,8 +5,8 @@ title: Tencent launches Hunyuan Hy3, a 295B-parameter MoE tuned for agentic and 
 date: '2026-07-07'
 source: TechNode
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.tencent.com/en-us/articles/2202386.html
+url_status: repaired
 digest_source: digests\raw\2026-07-08_064841_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: f254852d056ddb9577c9c98282b6a0de660bc6b66661b431705b190edb83f6ae

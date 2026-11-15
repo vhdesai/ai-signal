@@ -5,8 +5,8 @@ title: Newly released U.S. law-enforcement documents show DHS, the FBI, and othe
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 995aa143a45ef6b63ca877757ea7ec6e8d0d004d892a38878fafd30193db3e89

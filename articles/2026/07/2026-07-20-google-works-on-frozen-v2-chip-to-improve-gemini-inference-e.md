@@ -4,8 +4,8 @@ title: Google works on “Frozen v2” chip to improve Gemini inference efficien
 date: '2026-07-20'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/
+url_status: repaired
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: dc33f09ef2366833788989042176e4be968601e79018b091cb6178fec97ce10c
 normalized_title_hash: 2dd3abeb3acbe91b

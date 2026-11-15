@@ -4,8 +4,8 @@ title: '[arXiv] "Senses Wide Shut": Representation-Action Gap in Omnimodal LLMs'
 date: '2026-05-14'
 source: arXiv:2605.13737  · cs.CL
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.13737
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 1e238371c3e9e5476a3217228fe9f649188d3d9f7254a7168287645cb2284f79

@@ -3,26 +3,28 @@ article_id: 2026-11-14-november-13-2026-dealbook
 title: '[November 13, 2026] · [DealBook]'
 date: '2026-11-14'
 source: '[Wall Street Journal]'
-url_original: https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/
-url_canonical: https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/
-url_status: ok
-digest_source: digests\raw\2026-11-14_065734_Final-Daily-AI-News-Digest.md
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-11-14_070451_Inbox_Daily AI News Digest - November
+  14, 2026.md
 content_hash: 9d26c49250d1cd1570ea9b7325afe86ac43c962c15ecbde2877c1462dab2f6e6
 normalized_title_hash: 3ba85da5f9486992
-canonical_url_hash: b76b23e0ccaa5252
+canonical_url_hash: ''
 tags: []
 entities:
 - Microsoft
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and
 - 2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and
+- 2026-11-14-the-wall-street-journal-reports-that-microsoft-says-service
+- 2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil
 - 2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g
-- 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
 embedding_id: 2026-11-14-november-13-2026-dealbook
 event_name: ''
 ---
@@ -35,6 +37,6 @@ A global outage tied to Exchange Online spread from Outlook and Teams to SharePo
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and]] · [[2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and]] · [[2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and]] · [[2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and]] · [[2026-11-14-the-wall-street-journal-reports-that-microsoft-says-service]] · [[2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil]] · [[2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g]]
 <!-- graph:end -->

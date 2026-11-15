@@ -5,8 +5,8 @@ title: TechCrunch argues the AI competitive frame has broadened well beyond the 
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/tag/openai/
+url_status: repaired
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: aac9e7737ae773d519d5722108dff3ce34860802cad4206c091d1179acf15781

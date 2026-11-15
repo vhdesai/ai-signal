@@ -3,13 +3,14 @@ article_id: 2026-11-13-november-12-2026-techcrunch
 title: '[November 12, 2026] · [TechCrunch]'
 date: '2026-11-13'
 source: '[Reuters]'
-url_original: https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
-url_canonical: https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
-url_status: ok
-digest_source: digests\raw\2026-11-14_065734_Final-Daily-AI-News-Digest.md
-content_hash: 160808dfe23612b10931bfccdced37fc094c5cf33079fe48897bab6af91fe745
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-11-14_070451_Inbox_Daily AI News Digest - November
+  14, 2026.md
+content_hash: d4563439261a31c568147a1fcfc678084b5c007818c90ae8a58ee634f57009bb
 normalized_title_hash: 070ac2fc66c3ffc8
-canonical_url_hash: cd336cbdb7962f39
+canonical_url_hash: ''
 tags: []
 entities:
 - Amazon
@@ -28,7 +29,7 @@ event_name: ''
 
 # [November 12, 2026] · [TechCrunch]
 
-OpenAI's ChatGPT Wallet lets its dots agents complete purchases for a limited group of US ChatGPT Pro subscribers using tokenized Visa, Mastercard and American Express credentials, with biometric approval required for each purchase. Google let US Gemini app users connect Google Wallet and, through Plaid, bank accounts and cards, but kept access read-only, while Meta's Muse can now phone US businesses for paying subscribers. The Journal reports banks are racing to adapt fraud, authentication and liability rules as AI bots start using credit cards, and Reuters reports Amazon is building a World Product Graph so shopping agents search Amazon first. Per-transaction approval and tokenized credentials are becoming the baseline controls for agentic commerce.
+OpenAI's ChatGPT Wallet lets its dots agents complete purchases for a limited group of US ChatGPT Pro subscribers using tokenized Visa, Mastercard and American Express credentials, with biometric approval required for each purchase. Google let US Gemini app users connect Google Wallet and, through Plaid, bank accounts and cards, but kept access read-only, while Meta's Muse can now phone US businesses for paying subscribers. The Journal reports banks are racing to adapt fraud, authentication and liability rules as AI bots start using credit cards, and Reuters reports Amazon is building a World Product Graph so shopping agents search Amazon first. Per-transaction approval and tokenized credentials are becoming the baseline controls for agentic commerce. TechCrunch | OpenAI | Google | WSJ
 
 <!-- graph:start -->
 ## Connections

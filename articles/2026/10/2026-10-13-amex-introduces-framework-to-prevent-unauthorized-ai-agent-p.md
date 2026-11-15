@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-13-american-express-introduces-an-intent-framework-for-agentic
+- 2026-11-14-chatgpt-wallet-lets-openai-s-dots-agents-buy-on-a-user-s-beh
 - 2026-10-19-industry-stripe-says-ai-agent-purchases-are-adding-up-but-wo
-- 2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production
 embedding_id: 2026-10-13-amex-introduces-framework-to-prevent-unauthorized-ai-agent-p
 event_name: ''
 ---
@@ -35,5 +35,5 @@ American Express introduced a framework designed to ensure AI agents only make p
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-13-american-express-introduces-an-intent-framework-for-agentic]] · [[2026-10-19-industry-stripe-says-ai-agent-purchases-are-adding-up-but-wo]] · [[2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production]]
+**Related:** [[2026-10-13-american-express-introduces-an-intent-framework-for-agentic]] · [[2026-11-14-chatgpt-wallet-lets-openai-s-dots-agents-buy-on-a-user-s-beh]] · [[2026-10-19-industry-stripe-says-ai-agent-purchases-are-adding-up-but-wo]]
 <!-- graph:end -->

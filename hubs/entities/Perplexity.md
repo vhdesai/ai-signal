@@ -1,16 +1,20 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 97
+member_count: 101
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 97 connected article(s).
+> Auto-generated entity hub. 101 connected article(s).
 
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and|Perplexity shipped pplx-decider-v1.3 (27B, on Qwen3.8-27B) and a distilled 4B Flash variant under Apache 2.0]]
+- `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
 - `2026-11-13` [[2026-11-13-november-13-2026-databricks|[November 13, 2026] · [Databricks]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-ars-technica|[November 12, 2026] · [Ars Technica]]]
+- `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
+- `2026-11-13` [[2026-11-13-perplexity-releases-open-weight-decider-v1-3-models-that-ret|Perplexity releases open-weight Decider v1.3 models that return probabilities instead of text]]
 - `2026-11-13` [[2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur|Perplexity open-sources Decider v1.3, small models that return probabilities instead of text]]
 - `2026-11-13` [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch|OpenAI and Databricks bring governed enterprise data into ChatGPT as Perplexity's Teammates agents reach the Mac]]
 - `2026-11-02` [[2026-11-02-new-york-times-sues-brave-alleging-it-scraped-content-and-so|New York Times sues Brave, alleging it scraped content and sold it to AI companies]]

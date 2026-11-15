@@ -5,8 +5,8 @@ title: Nvidia CEO Jensen Huang publicly criticized what he termed a "god complex
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://fortune.com/2026/05/02/jensen-huang-nvdia-ceo-god-complex-ai-apocalypse-warnings-shortages-critical-jobs/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 68d2e22c795399fd02fda235f8dd34862c2d39b6f9a393f808e9922b648b0452
 normalized_title_hash: 28e3648aadbfc7e9

@@ -5,7 +5,7 @@ date: '2026-11-09'
 source: The Information
 url_original: https://www.theinformation.com/articles/nvidias-next-headache-new-push-export-controls-wake-spy-scandal
 url_canonical: https://www.theinformation.com/articles/nvidias-next-headache-new-push-export-controls-wake-spy-scandal
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-10_060826_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 8b622b0c8e4574b7e0005b0038eca0826c52b299f7b405067ebf49e21f384f8d

@@ -4,8 +4,8 @@ title: Sovereign-AI startup Dream raises $260M at a $3B valuation
 date: '2026-06-23'
 source: International Business Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ibtimes.sg/sovereign-ai-unicorn-dream-raises-another-260m-3b-valuation-eyes-southeast-asia-expansion-88419
+url_status: repaired
 digest_source: digests\raw\2026-06-24_060529_Inbox_Daily AI News Digest - June 24,
   2026.md
 content_hash: 2c4f28180833acaf6bc175dc74cb2a4e0bf3b62095094dca81882c46c9670a5d

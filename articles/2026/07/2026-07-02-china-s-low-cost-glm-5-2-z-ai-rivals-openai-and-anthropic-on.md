@@ -5,8 +5,8 @@ title: China's low‑cost GLM‑5.2 (Z.ai) rivals OpenAI and Anthropic on coding
 date: '2026-07-02'
 source: Reuters
 url_original: https://www.moneycontrol.com/world/a-new-cheaper-chinese-ai-model-is-rivaling-anthropic-openai-it-s-not-deepseek-article-13964399.html
-url_canonical: https://www.moneycontrol.com/world/a-new-cheaper-chinese-ai-model-is-rivaling-anthropic-openai-it-s-not-deepseek-article-13964399.html
-url_status: broken
+url_canonical: https://www.calcalistech.com/ctechnews/article/b13meqdqge
+url_status: repaired
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 99ae00515bb72386ea2ad9015adf9d4f79726afbb91af97e4bd20a03a973a2bb

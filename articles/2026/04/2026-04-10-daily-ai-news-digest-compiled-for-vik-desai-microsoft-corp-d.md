@@ -5,8 +5,8 @@ title: 'Daily AI News Digest | Compiled for Vik Desai, Microsoft Corp Dev | Apri
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.humai.blog/ai-news-trends-april-2026-complete-monthly-digest/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 53a036eebc6fe4744fd139cf0b004ab2af527750e5e21f47ead73ddaa96e86bc

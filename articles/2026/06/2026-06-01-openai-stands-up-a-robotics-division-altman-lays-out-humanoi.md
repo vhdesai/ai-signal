@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-openai-redistributes-robotics-work-across-research-and-appli
 - 2026-11-13-openai-folds-its-robotics-team-into-research-and-applied-gro
 - 2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin
 - 2026-11-09-recent-advances-in-ai-are-creating-a-paradigm-shift-for-robo
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
-- 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
 embedding_id: 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI is hiring robotics engineers for a new division spun out of its world-sim
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-11-13-openai-folds-its-robotics-team-into-research-and-applied-gro]] · [[2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin]] · [[2026-11-09-recent-advances-in-ai-are-creating-a-paradigm-shift-for-robo]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]]
+**Related:** [[2026-11-13-openai-redistributes-robotics-work-across-research-and-appli]] · [[2026-11-13-openai-folds-its-robotics-team-into-research-and-applied-gro]] · [[2026-10-31-meta-reportedly-built-a-humanoid-robot-prototype-with-a-chin]] · [[2026-11-09-recent-advances-in-ai-are-creating-a-paradigm-shift-for-robo]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]]
 <!-- graph:end -->

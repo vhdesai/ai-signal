@@ -5,8 +5,8 @@ title: OpenAI updates GPT-5.5 Instant for intent, constraints and shopping — a
 date: '2026-06-25'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://robottoday.com/industry-briefing/openai-s-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-it-s-already-in-the-api/6679
+url_status: repaired
 digest_source: digests\raw\2026-06-26_063915_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: f7904c2e5d15c9538a665a6241dc199fa3a431853fd5dd42b0986db6353fa9de

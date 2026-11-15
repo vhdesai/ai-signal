@@ -1,23 +1,38 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 3003
+member_count: 3018
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 3003 connected article(s).
+> Auto-generated entity hub. 3018 connected article(s).
 
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-14` [[2026-11-14-former-openai-researcher-will-depue-analyzed-open-weights-fr|Former OpenAI researcher Will DePue analyzed open weights from DeepSeek, Moonshot, MiniMax and Ant Group and reports…]]
+- `2026-11-14` [[2026-11-14-chatgpt-wallet-lets-openai-s-dots-agents-buy-on-a-user-s-beh|ChatGPT Wallet lets OpenAI's dots agents buy on a user's behalf using tokenized card credentials, so neither the agent…]]
+- `2026-11-14` [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch|Cerebras says its next-generation WSE-5 chip is ahead of schedule, with CS-5 systems due in early summer 2027]]
+- `2026-11-14` [[2026-11-14-all-u-s-gemini-app-users-can-now-connect-google-wallet-under|All U.S. Gemini app users can now connect Google Wallet under Personal Intelligence, with optional bank and card…]]
 - `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-wall-street-journal-2|[November 13, 2026] · [Wall Street Journal]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-wall-street-journal|[November 12, 2026] · [Wall Street Journal]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-crypto-briefing|[November 12, 2026] · [Crypto Briefing]]]
 - `2026-11-13` [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne|Weight forensics tie China's top open models to export-banned Blackwell chips as Washington feuds over Megaspeed]]
+- `2026-11-13` [[2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u|VCs and founders expect Nvidia's startup funding to shrink under Kress, with OpenAI and Oracle most exposed]]
+- `2026-11-13` [[2026-11-13-treasury-points-to-commerce-over-proposed-megaspeed-restrict|Treasury points to Commerce over proposed Megaspeed restrictions]]
+- `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
+- `2026-11-13` [[2026-11-13-openai-redistributes-robotics-work-across-research-and-appli|OpenAI redistributes robotics work across research and applied teams]]
+- `2026-11-13` [[2026-11-13-openai-introduces-chatgpt-wallet-for-agent-purchases|OpenAI introduces ChatGPT Wallet for agent purchases]]
 - `2026-11-13` [[2026-11-13-openai-folds-its-robotics-team-into-research-and-applied-gro|OpenAI folds its robotics team into research and applied groups, betting general models can run robots]]
+- `2026-11-13` [[2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt|OpenAI and Databricks put governed company data into ChatGPT and Codex through Genie and Unity Gateway]]
 - `2026-11-13` [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch|OpenAI and Databricks bring governed enterprise data into ChatGPT as Perplexity's Teammates agents reach the Mac]]
 - `2026-11-13` [[2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni|Nvidia's succession search turns to Arm's Rene Haas as earnings put Kress's financing stance to the test]]
+- `2026-11-13` [[2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil|Microsoft apologizes after prolonged Microsoft 365 and Copilot disruption]]
+- `2026-11-13` [[2026-11-13-forensic-analysis-of-model-weights-suggests-deepseek-v4-and|Forensic analysis of model weights suggests DeepSeek V4 and Kimi K3 were trained on export-banned Blackwell chips]]
+- `2026-11-13` [[2026-11-13-chatgpt-wallet-lets-openai-s-agents-complete-purchases-with|ChatGPT Wallet lets OpenAI's agents complete purchases with tokenized cards as Gemini connects to Google Wallet]]
+- `2026-11-13` [[2026-11-13-anthropic-s-roadshow-draws-wall-street-s-largest-investors-a|Anthropic's roadshow draws Wall Street's largest investors as orders from China are reportedly rebuffed]]
 - `2026-11-13` [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads|Agents get wallets: ChatGPT can now buy for you, Gemini reads your spending and banks scramble to keep up]]
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-12` [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti|SpaceX's AI arm plans $74 billion of data centers while cutting most of the Grok video team]]

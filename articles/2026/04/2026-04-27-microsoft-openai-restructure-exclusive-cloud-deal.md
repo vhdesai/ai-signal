@@ -4,7 +4,7 @@ title: Microsoft & OpenAI restructure exclusive cloud deal
 date: '2026-04-27'
 source: The AI Track
 url_original: null
-url_canonical: https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/
+url_canonical: https://theaitrack.com/microsoft-and-openai-end-exclusive-deal/
 url_status: repaired
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: dbeff5eb6008a2a4a00efcd117f870e0e0d63aeae5f1b24c051c7d1666c51912

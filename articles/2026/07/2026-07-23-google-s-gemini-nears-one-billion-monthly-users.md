@@ -4,8 +4,8 @@ title: Google's Gemini nears one billion monthly users
 date: '2026-07-23'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/
+url_status: repaired
 digest_source: digests\raw\2026-07-24-daily-ai-news-digest.md
 content_hash: 09c1281c95d851a162226d25c9760fd8f67491486c6f72e1d316c53c010b2e28
 normalized_title_hash: 2d9a0b4ca5e504e8

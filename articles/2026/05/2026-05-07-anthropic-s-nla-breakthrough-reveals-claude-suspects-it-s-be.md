@@ -5,8 +5,8 @@ title: Anthropic's NLA Breakthrough Reveals Claude "Suspects" It's Being Tested 
 date: '2026-05-07'
 source: Anthropic / Build Fast With AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/research/natural-language-autoencoders
+url_status: repaired
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: cd2da2ed9d83d7d0a811689019705d5116b7d2753f3d0836ccd57d5ea399c5c3

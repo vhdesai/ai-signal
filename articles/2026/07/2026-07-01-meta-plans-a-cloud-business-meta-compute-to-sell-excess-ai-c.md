@@ -4,8 +4,8 @@ title: Meta plans a cloud business ("Meta Compute") to sell excess AI capacity
 date: '2026-07-01'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute
+url_status: repaired
 digest_source: digests\raw\2026-07-03_062557_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 2695adf9700d5139fd0a4b15c06d2b264fea0c5d47b3a937a8a1d948d0c46a11

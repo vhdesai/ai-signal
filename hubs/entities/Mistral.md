@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 275
+member_count: 277
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 275 connected article(s).
+> Auto-generated entity hub. 277 connected article(s).
 
+- `2026-11-13` [[2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u|VCs and founders expect Nvidia's startup funding to shrink under Kress, with OpenAI and Oracle most exposed]]
+- `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
 - `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]

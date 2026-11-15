@@ -5,8 +5,8 @@ title: Claude Mythos — Anthropic's next-generation model currently in restrict
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/claude/mythos
+url_status: repaired
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: f29f54b451bea730a4259f5cfa4de577d3908aa2dd4d7adde923e1d7869ce57f
 normalized_title_hash: a0c2582e3fd7ead3

@@ -4,8 +4,8 @@ title: '“Compute is destiny”: Google''s surge validates Altman''s infrastruc
 date: '2026-05-04'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/google-compute-advantage-crushing-rivals-sam-altman-ai-2026-5
+url_status: repaired
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: 5ca61a692b4338a7d4f251a99a9f0875447c2840a9f7dcdab4ed6b904db5feb6

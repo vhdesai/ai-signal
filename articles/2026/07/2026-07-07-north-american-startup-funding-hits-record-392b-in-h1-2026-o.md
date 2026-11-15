@@ -5,8 +5,8 @@ title: North American Startup Funding Hits Record $392B in H1 2026, Overwhelming
 date: '2026-07-07'
 source: Crunchbase News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026/
+url_status: repaired
 digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 26c76bce3ca843e79be814f828107d699b4e8655b1dbd6d4f5977cc1f54b568f

@@ -4,8 +4,8 @@ title: Replit's Amjad Masad on the Cursor Deal and Apple Friction
 date: '2026-05-02'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080843_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 68c0df806be6e830b7d3bd497e5e677ebed104bc35bbbabadc351b6308e3c94c
 normalized_title_hash: f671f335037a0e11

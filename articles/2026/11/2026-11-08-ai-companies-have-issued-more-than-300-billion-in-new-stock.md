@@ -6,7 +6,7 @@ date: '2026-11-08'
 source: '[The Information]'
 url_original: https://www.theinformation.com/articles/ai-stock-can-market-absorb
 url_canonical: https://www.theinformation.com/articles/ai-stock-can-market-absorb
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-09_061126_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: e1d2f55a159091f201d693629c02c60b510c15430ba990a1416324eca0491035

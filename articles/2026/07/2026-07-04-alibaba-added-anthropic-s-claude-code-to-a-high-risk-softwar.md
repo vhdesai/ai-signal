@@ -5,8 +5,8 @@ title: Alibaba added Anthropic's Claude Code to a "high-risk software" list and 
 date: '2026-07-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.livemint.com/ai/artificial-intelligence/anthropic-labels-claude-code-high-risk-software-bars-employees-from-using-it-11783323170120.html
+url_status: repaired
 digest_source: digests\raw\2026-07-04_060944_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: bffa71ad6829d9bc26f2ad8988059b4848fc7e7b75dcb5fc8f641428cf2fa7b1

@@ -4,8 +4,8 @@ title: AI policy groups and researchers converge on regulation efforts
 date: '2026-07-17'
 source: Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.axios.com/2026/10/02/openai-anthropic-ai-researchers-rebellion
+url_status: repaired
 digest_source: digests\raw\2026-07-17-daily-ai-news-digest.md
 content_hash: 0e5dfe79f43ad68fa17d0a7721e3645356a35a7de0a2613072edc59cb6adb9c1
 normalized_title_hash: 5501f4b2906409ea

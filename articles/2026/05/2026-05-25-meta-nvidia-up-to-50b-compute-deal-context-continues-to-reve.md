@@ -4,8 +4,8 @@ title: Meta–NVIDIA Up-To-$50B Compute Deal Context Continues to Reverberate
 date: '2026-05-25'
 source: Bloomberg / Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/news/nvidia-and-meta-expand-gpu-team-up-with-millions-of-additional-ai-chips-211544907.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071821_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 0cbd4a27c9a85f38e9825f1edaf288e726ba7ebdbb8cdf577bbf51b0e74ca8ee

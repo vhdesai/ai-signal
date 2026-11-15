@@ -4,8 +4,8 @@ title: NVIDIA Jetson GPUs are headed to the lunar surface
 date: '2026-07-23'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/
+url_status: repaired
 digest_source: digests\raw\2026-07-24-daily-ai-news-digest.md
 content_hash: c13594534abd58d019e497cb0fb7bb902ff8fd6b5c48700c0b4ee7852838c541
 normalized_title_hash: 3b237e6a6467bd0b

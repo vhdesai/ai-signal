@@ -1,16 +1,25 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1428
+member_count: 1437
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1428 connected article(s).
+> Auto-generated topic hub. 1437 connected article(s).
 
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-the-information-reports-on-anthropic-s-investor-roadshow-eve|The Information reports on Anthropic's investor roadshow event at J.P]]
+- `2026-11-14` [[2026-11-14-capitalg-led-the-round-with-gic-dfj-growth-ivp-and-sapphire|CapitalG led the round, with GIC, DFJ Growth, IVP and Sapphire participating; the valuation is more than double the…]]
 - `2026-11-13` [[2026-11-13-november-13-2026-wall-street-journal-2|[November 13, 2026] · [Wall Street Journal]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times|[November 13, 2026] · [Crypto Briefing, citing the Financial Times]]]
+- `2026-11-13` [[2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u|VCs and founders expect Nvidia's startup funding to shrink under Kress, with OpenAI and Oracle most exposed]]
+- `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
+- `2026-11-13` [[2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation-on-its|LangChain raises $300 million at a $3 billion valuation on its pitch that enterprises should own their agents]]
+- `2026-11-13` [[2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation|LangChain raises $300 million at a $3 billion valuation]]
+- `2026-11-13` [[2026-11-13-drogue-raises-20-million-to-put-data-centers-on-ships-powere|Drogue raises $20 million to put data centers on ships powered by ocean heat]]
+- `2026-11-13` [[2026-11-13-anthropic-s-roadshow-draws-wall-street-s-largest-investors-a|Anthropic's roadshow draws Wall Street's largest investors as orders from China are reportedly rebuffed]]
+- `2026-11-13` [[2026-11-13-anthropic-ipo-demand-meets-questions-about-durability|Anthropic IPO demand meets questions about durability]]
 - `2026-11-13` [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo|Amodei calls compute Anthropic's deepest dilemma as the IPO roadshow turns away Chinese orders]]
 - `2026-11-13` [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro|AI infrastructure finance matures: compute futures near approval, Cerebras pulls in WSE-5 and capital chases off-grid power]]
 - `2026-11-12` [[2026-11-12-november-12-2026-siliconangle|[November 12, 2026] · [SiliconANGLE]]]

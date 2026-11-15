@@ -1,18 +1,21 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2425
+member_count: 2428
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2425 connected article(s).
+> Auto-generated topic hub. 2428 connected article(s).
 
-- `2026-11-14` [[2026-11-14-november-13-2026-dealbook|[November 13, 2026] · [DealBook]]]
+- `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-14` [[2026-11-14-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
+- `2026-11-14` [[2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo|Axios reports Treasury Secretary Scott Bessent pointed responsibility for the Megaspeed chip matter at the Commerce…]]
+- `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-wall-street-journal|[November 12, 2026] · [Wall Street Journal]]]
+- `2026-11-13` [[2026-11-13-november-12-2026-crypto-briefing|[November 12, 2026] · [Crypto Briefing]]]
+- `2026-11-13` [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan|Nvidia’s startup-financing role faces uncertainty after Huang’s departure]]
 - `2026-11-13` [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and|An 18-hour Microsoft 365 outage takes down Outlook, Teams and Copilot worldwide]]
-- `2026-11-13` [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro|AI infrastructure finance matures: compute futures near approval, Cerebras pulls in WSE-5 and capital chases off-grid power]]
 - `2026-11-12` [[2026-11-12-november-11-2026-wall-street-journal|[November 11, 2026] · [Wall Street Journal]]]
 - `2026-11-12` [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti|SpaceX's AI arm plans $74 billion of data centers while cutting most of the Grok video team]]
 - `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]

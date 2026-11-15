@@ -5,8 +5,8 @@ title: Anthropic launched Claude for Small Business, a toggle inside the Claude 
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/claude-for-small-business
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 507ed719c0fb6c43529e84c9fe5a73d9685bd51a7c9e4686564c583ca9dd4a68

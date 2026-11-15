@@ -5,8 +5,8 @@ title: 'Wired published a feature documenting Meta''s current state: record fina
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.wired.com/story/microsoft-google-meta-2025-earnings/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: affaadce81f3388300838b81f0abcc0f529bf1df06f5dd9beced87696dac8c9b

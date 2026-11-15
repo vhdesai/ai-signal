@@ -4,8 +4,8 @@ title: 'Subject: Daily AI News Digest – July 14, 2026'
 date: '2026-07-14'
 source: '15 items · Source window: July 13–14, 2026'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.thehindu.com/news/morning-digest-july-14-2026/article71219673.ece
+url_status: repaired
 digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - July
   14, 2026.md
 content_hash: 3b73b874558715d68d9a77dda9ccf4f3d004f6bc33d46421ae8f7d0dc19c67d0

@@ -4,8 +4,8 @@ title: BREAKINGMozilla Formally Opposes Google's Chrome Prompt API
 date: '2026-04-30'
 source: Hacker News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.e-ink.me/en/archive/2026-04-30/article/mozilla-s-opposition-to-chrome-s-prompt-api
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 09dcd2909d7b3672ac69f821f800f434cb522af648f30e55c6c739bbb1cc5cee
 normalized_title_hash: c76ca1dbbaf6c355

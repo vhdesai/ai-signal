@@ -4,8 +4,8 @@ title: Illinois AI Safety Law Toughens Reporting Requirements
 date: '2026-07-07'
 source: WSJ Pro Cybersecurity
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://riskjournal.dowjones.com/article/new-ai-safety-law-toughens-tech-reporting-requirements-a2b239a3
+url_status: repaired
 digest_source: digests\raw\2026-07-08_074500_Inbox_Daily AI News Digest – July 8,
   2026.md
 content_hash: 75922cb9a7e21a97e72383592baf172d0584579eeacbd4a689dd0aa4cb73849e

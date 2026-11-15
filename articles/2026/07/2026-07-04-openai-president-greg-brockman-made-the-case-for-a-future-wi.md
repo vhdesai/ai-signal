@@ -5,8 +5,8 @@ title: OpenAI President Greg Brockman made the case for a future with "almost no
 date: '2026-07-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/
+url_status: repaired
 digest_source: digests\raw\2026-07-04_060944_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: a2da5f9fb602d167e67c4a2bea9b119984ad0d3d699091b7f1437846f2e06549

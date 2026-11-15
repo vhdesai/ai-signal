@@ -4,8 +4,8 @@ title: Grok 4.3 Beta Goes Live for SuperGrok Heavy
 date: '2026-04-17'
 source: Build Fast with AI
 url_original: null
-url_canonical: https://grokipedia.com/page/SuperGrok_Heavy
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072002_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 5b230c58a21ff3dc5788793e94c0da2bbd0f48104a5562595fd7661e822914ba

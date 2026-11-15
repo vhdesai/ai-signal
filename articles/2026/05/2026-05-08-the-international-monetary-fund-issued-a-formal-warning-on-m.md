@@ -5,8 +5,8 @@ title: The International Monetary Fund issued a formal warning on May 7 that adv
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.politico.eu/article/advanced-ai-models-can-destroy-the-financial-system-imf-boss-warns/
+url_status: repaired
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: 217c623a96d6ddfb9ca0a6a32b27f2e7619f2c174475c68ae59e988b2191297f
 normalized_title_hash: cfe5f81b0d23ccc8

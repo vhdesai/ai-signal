@@ -5,8 +5,8 @@ title: 'New ZAYA1-8B: Competitive Open Reasoning Model Trained Entirely on AMD I
 date: '2026-05-07'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.zyphra.com/our-work/zaya1-8b
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 704d7352db156478a74649246097cdcfba5fd1bd0146a82da53d41b21b9a87df

@@ -4,8 +4,8 @@ title: Vertu launches AI foldable for CEOs starting at $6,880
 date: '2026-05-28'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: a3b28ae3df452f4788e6776481a655af19b6b3a13f0318f66f7a2346baa84d4f

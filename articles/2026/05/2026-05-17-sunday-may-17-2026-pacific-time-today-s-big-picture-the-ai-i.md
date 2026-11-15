@@ -5,8 +5,8 @@ title: 'Sunday, May 17, 2026 | Pacific Time Today''s big picture: The AI industr
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_071257_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 235b5001c61a0372d223ba6be7e9b638080fbade705bd530f7f9f8a8fab16002

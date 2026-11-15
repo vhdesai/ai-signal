@@ -5,8 +5,8 @@ title: Researchers from UC Berkeley, Stanford, CMU, Databricks, and Google annou
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.caisconf.org/program/2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: b9ed3f01e6988b551b9c9b5c4b7ad32007fe7d3182883106aa8aa8f977ec693d
 normalized_title_hash: e602bcbda677881e

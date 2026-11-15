@@ -5,8 +5,8 @@ title: xAI launches Grok Voice AI Agent Builder (beta) — build a voice agent i
 date: '2026-07-02'
 source: Moneycontrol
 url_original: https://www.moneycontrol.com/technology/xai-rolls-out-grok-voice-ai-agent-builder-to-let-users-create-ai-voice-agents-in-under-two-minutes-article-13964433.html
-url_canonical: https://www.moneycontrol.com/technology/xai-rolls-out-grok-voice-ai-agent-builder-to-let-users-create-ai-voice-agents-in-under-two-minutes-article-13964433.html
-url_status: broken
+url_canonical: https://x.ai/news/grok-voice-agent-builder
+url_status: repaired
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 9616e214b4880225e5a0bb9a2ce23c369db1d014034868f17e1e2ab8bdc9aa04

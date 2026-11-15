@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 543
+member_count: 546
 ---
 
 # Apple
 
-> Auto-generated entity hub. 543 connected article(s).
+> Auto-generated entity hub. 546 connected article(s).
 
+- `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-13` [[2026-11-13-treasury-points-to-commerce-over-proposed-megaspeed-restrict|Treasury points to Commerce over proposed Megaspeed restrictions]]
+- `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]

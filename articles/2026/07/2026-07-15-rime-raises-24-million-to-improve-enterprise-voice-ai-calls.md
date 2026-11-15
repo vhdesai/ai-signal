@@ -4,8 +4,8 @@ title: Rime raises $24 million to improve enterprise voice AI calls
 date: '2026-07-15'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/
+url_status: repaired
 digest_source: digests\raw\2026-07-15-daily-ai-news-digest.md
 content_hash: 4c3459cf67362896d1743e9d717642122d285a106ee06fdf9e7c5abbcd3869b0
 normalized_title_hash: 938646960b3d7cba

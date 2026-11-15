@@ -5,8 +5,8 @@ title: 'Microsoft confirmed two significant Copilot Cowork changes in the same w
 date: '2026-06-19'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.data3.com/knowledge-centre/news/the-free-ride-is-over-copilot-coworks-new-payment-model/
+url_status: repaired
 digest_source: digests\raw\2026-06-19-daily-ai-news-digest.md
 content_hash: a3850c22004b172903664629dacafd31309e0196b4aa87287f6f7c03a192c459
 normalized_title_hash: 8bebe417dcd25ec1

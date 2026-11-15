@@ -5,8 +5,8 @@ title: Anthropic launched Project Glasswing on April 7 — a coordinated initiat
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/project/glasswing
+url_status: repaired
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 85c1d7c9213721d4ab971c7f75d9ee373e9f78588cf2fcf62f96995a1dfc5829

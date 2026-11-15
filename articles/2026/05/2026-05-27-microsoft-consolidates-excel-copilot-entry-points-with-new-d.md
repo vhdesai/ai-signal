@@ -5,8 +5,8 @@ title: Microsoft consolidates Excel Copilot entry points with new "Dynamic Actio
 date: '2026-05-27'
 source: Neowin
 url_original: https://www.neowin.net/news/here-are-all-the-new-features-microsoft-added-to-excel-in-may-2026/
-url_canonical: https://www.neowin.net/news/here-are-all-the-new-features-microsoft-added-to-excel-in-may-2026/
-url_status: broken
+url_canonical: https://support.microsoft.com/en-us/office/foundations-experiences/copilot-dab/the-copilot-dynamic-action-button-in-word-excel-and-powerpoint
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 86bd1f2fa4b04063c664059f74b3d9b3e1cd80a70d773c2c968a4db76a6b5907

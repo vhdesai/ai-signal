@@ -4,8 +4,8 @@ title: Alibaba and Tencent pivot from chatbots to embodied AI and robotics
 date: '2026-05-28'
 source: South China Morning Post
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www-scmp-com.libproxy1.nus.edu.sg/tech/tech-trends/article/3355178/alibaba-tencent-lead-pivot-chatbots-embodied-ai-robotics
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: b164599030adc8f42ac9309025c5cdb9d80a44fbd9e233b12802349f530b7a00

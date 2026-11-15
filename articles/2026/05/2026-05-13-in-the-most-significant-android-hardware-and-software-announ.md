@@ -5,8 +5,8 @@ title: In the most significant Android hardware-and-software announcement in yea
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 6362723143480f74ea432b29d278d8c72a0d850c8f0f1635738cd0b0fc2e7028

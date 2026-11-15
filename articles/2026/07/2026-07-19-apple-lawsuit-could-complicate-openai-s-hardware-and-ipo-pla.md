@@ -4,8 +4,8 @@ title: Apple lawsuit could complicate OpenAI's hardware and IPO plans
 date: '2026-07-19'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/
+url_status: repaired
 digest_source: digests\raw\2026-07-20-daily-ai-news-digest.md
 content_hash: 6e8431a5822f7b8be49cd133e192e7d78152be42eaf14efc0ccc2c60636a0998
 normalized_title_hash: 0b6c21bf3d31f886

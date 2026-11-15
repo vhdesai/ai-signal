@@ -4,8 +4,8 @@ title: Oracle Cuts ~21,000 Jobs (~13% of Workforce), Cites AI Adoption
 date: '2026-06-23'
 source: Multiple sources
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/oracle-cuts-21-000-jobs-134000506.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-23_065425_Final-Daily-AI-News-Digest.md
 content_hash: c23a34337a91c9a02eeebff3fa63486d1ac6c45ab300c6a7dc67ab7a835d150f
 normalized_title_hash: 7e5de2debf18ac7d

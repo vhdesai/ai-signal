@@ -5,8 +5,8 @@ title: '"The market opportunities are enormous, and there is no one company that
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.afr.com/markets/equity-markets/gqg-s-rajiv-jain-stuns-market-by-capitulating-on-anti-tech-bet-20260820-p60q5s
+url_status: repaired
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: 13d686e86eb20312e7f7a112265bb24f6f3fa6c6d7cfab1c3e6db99275380b65
 normalized_title_hash: 6a83d1109047a686

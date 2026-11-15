@@ -5,8 +5,8 @@ title: In a LinkedIn post, Mensch argued that vendors of closed models accumulat
 date: '2026-07-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/mistral-ceo-open-source-enterprise-warning
+url_status: repaired
 digest_source: digests\raw\2026-07-05_061041_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 33c355b1427dd7929ac9295771bb8ae140fbb318104a4cd01835edfd5a14e315

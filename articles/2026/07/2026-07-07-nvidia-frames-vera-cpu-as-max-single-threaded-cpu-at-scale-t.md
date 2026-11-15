@@ -5,8 +5,8 @@ title: NVIDIA Frames Vera CPU as “Max Single-Threaded CPU at Scale”; Teases 
 date: '2026-07-07'
 source: NVIDIA Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/
+url_status: repaired
 digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 602724ac658763c17eeb4f4f9af5d5878b08274106703cc23d9a185fc3f00310

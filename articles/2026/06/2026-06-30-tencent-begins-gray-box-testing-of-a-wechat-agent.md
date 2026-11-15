@@ -4,8 +4,8 @@ title: Tencent begins gray-box testing of a WeChat Agent
 date: '2026-06-30'
 source: NewTimeSpace
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.biggo.com/news/7cf25c36-bbc0-4fa5-9ff5-798de05f9642
+url_status: repaired
 digest_source: digests\raw\2026-07-01_060607_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: d352b00523fc270a6b8ea4d8a6e507da7dcff65ad3fb769d67fc37175a3ab217

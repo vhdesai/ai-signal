@@ -1,15 +1,20 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 601
+member_count: 606
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 601 connected article(s).
+> Auto-generated entity hub. 606 connected article(s).
 
+- `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-14` [[2026-11-14-former-openai-researcher-will-depue-analyzed-open-weights-fr|Former OpenAI researcher Will DePue analyzed open weights from DeepSeek, Moonshot, MiniMax and Ant Group and reports…]]
 - `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
 - `2026-11-13` [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne|Weight forensics tie China's top open models to export-banned Blackwell chips as Washington feuds over Megaspeed]]
+- `2026-11-13` [[2026-11-13-model-weight-analysis-raises-questions-about-restricted-nvid|Model-weight analysis raises questions about restricted Nvidia compute]]
+- `2026-11-13` [[2026-11-13-model-weight-analysis-raises-questions-about-nvidia-export-c|Model-weight analysis raises questions about Nvidia export controls]]
+- `2026-11-13` [[2026-11-13-forensic-analysis-of-model-weights-suggests-deepseek-v4-and|Forensic analysis of model weights suggests DeepSeek V4 and Kimi K3 were trained on export-banned Blackwell chips]]
 - `2026-11-13` [[2026-11-13-ai2-s-xybench-finds-leading-models-rarely-correct-users-mist|AI2's XYBench finds leading models rarely correct users' mistaken assumptions]]
 - `2026-11-12` [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats|The Nvidia-China fallout widens: Huang will testify, Democrats probe export approvals and Lutnick is under pressure]]
 - `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]

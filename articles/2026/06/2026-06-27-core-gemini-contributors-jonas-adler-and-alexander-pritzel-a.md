@@ -5,8 +5,8 @@ title: Core Gemini contributors Jonas Adler and Alexander Pritzel are leaving fo
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://enterprisedna.co/resources/news/google-gemini-adler-pritzel-anthropic-talent-exodus-2026/
+url_status: repaired
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 3d2eb67d73062f4c85a0c06cd846eeef96539654fe6ad9e9f816c02259262b5b

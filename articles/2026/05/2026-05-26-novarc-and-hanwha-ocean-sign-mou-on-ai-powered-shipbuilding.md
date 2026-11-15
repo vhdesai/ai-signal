@@ -4,8 +4,8 @@ title: Novarc and Hanwha Ocean Sign MoU on AI-Powered Shipbuilding Manufacturing
 date: '2026-05-26'
 source: GlobeNewswire / Markets Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.novarctech.com/company/press-releases/novarc-and-hanwha-ocean-sign-mou-for-innovation-collaboration-on-welding-automation-and-ai-powered-manufacturing-technologies-for-advanced-shipbuilding-applications/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_070624_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: e9da36455d9c30660ba089d110a8e023c6df05de7d0fdd555a3094487ecc3edc

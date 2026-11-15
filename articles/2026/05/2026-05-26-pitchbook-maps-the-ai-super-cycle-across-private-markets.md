@@ -4,8 +4,8 @@ title: PitchBook maps the AI super-cycle across private markets
 date: '2026-05-26'
 source: PitchBook News
 url_original: https://pitchbook.com/news/articles/mapping-the-ai-super-cycle
-url_canonical: https://pitchbook.com/news/articles/mapping-the-ai-super-cycle
-url_status: broken
+url_canonical: https://pitchbook.com/news/reports/market-maps
+url_status: repaired
 digest_source: digests\raw\2026-05-26_081144_Inbox_Daily AI News Digest –– May 26,
   2026 (Merged Cowork Edition).md
 content_hash: 4ed5a67b17124faf86f63630480cd2d531deeee388ef0d690b1f1f0050a0a7fb

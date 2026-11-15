@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 103
+member_count: 105
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 103 connected article(s).
+> Auto-generated entity hub. 105 connected article(s).
 
+- `2026-11-14` [[2026-11-14-capitalg-led-the-round-with-gic-dfj-growth-ivp-and-sapphire|CapitalG led the round, with GIC, DFJ Growth, IVP and Sapphire participating; the valuation is more than double the…]]
+- `2026-11-13` [[2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation-on-its|LangChain raises $300 million at a $3 billion valuation on its pitch that enterprises should own their agents]]
 - `2026-11-11` [[2026-11-11-november-12-2026-cio-dive-2|[November 12, 2026] · [CIO Dive]]]
 - `2026-11-11` [[2026-11-11-databricks-turns-genie-into-an-always-on-business-agent-as-t|Databricks turns Genie into an always-on business agent as the Linux Foundation backs an agent naming standard]]
 - `2026-11-03` [[2026-11-03-november-3-2026-the-information|[November 3, 2026] · [The Information]]]

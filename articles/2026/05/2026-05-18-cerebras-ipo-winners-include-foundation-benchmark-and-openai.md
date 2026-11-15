@@ -4,7 +4,7 @@ title: Cerebras IPO Winners Include Foundation, Benchmark — and OpenAI
 date: '2026-05-18'
 source: The Information
 url_original: null
-url_canonical: https://alpha-maven.com/story/private-equity/cerebras-ipo-winners-include-foundation-benchmark-and-openai-the-information
+url_canonical: https://www.theinformation.com/articles/cerebras-ipo-winners-include-foundation-benchmark-openai
 url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md

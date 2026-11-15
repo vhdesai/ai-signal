@@ -5,8 +5,8 @@ title: Practitioners who deployed agentic AI pipelines in late 2025 and Q1 2026 
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 4ba562acec9bd0e951f7e9b59e1d067ac93ac652425cf0b0accf56a52f42dc77

@@ -4,8 +4,8 @@ title: Jack Dorsey's Buzz puts humans and AI agents in the same workplace chat
 date: '2026-07-21'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/
+url_status: repaired
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: aedbeada994078e89195323a84f5440b5a0ed2086b3b127d00e853fd63ebb05a
 normalized_title_hash: 272380bcc150071a

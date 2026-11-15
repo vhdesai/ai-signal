@@ -4,8 +4,8 @@ title: Nvidia commits $150B per year to make Taiwan the "epicenter" of AI
 date: '2026-05-27'
 source: Ars Technica
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 438c679c440e790b949d0ec59fb9d4f444f9884a5e16c7cc0aed890f5de7d299

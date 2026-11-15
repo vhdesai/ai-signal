@@ -4,8 +4,8 @@ title: Amazon and OpenAI Build Stateful Model Runtime on Amazon Bedrock
 date: '2026-03-31'
 source: The Motley Fool
 url_original: null
-url_canonical: https://www.aboutamazon.com/news/aws/amazon-bedrock-openai-gpt-models-ai-agents
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: c340bbf136a1f501fe642d9d280a9847abbb92afe1bf594162daf1047642414b

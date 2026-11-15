@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-14-the-ggml-org-team-released-v1-0-0-of-llama-cpp-and-ggml-afte
 - event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family
 - 2026-10-21-llm-d-1-0-lands-as-a-production-distributed-inference-stack
 - 2026-11-08-google-adds-confidential-computing-and-long-context-tpus-as
-- 2026-10-28-october-27-2026-the-information
 embedding_id: 2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google Cloud released TPU Sync, an Apache-2.0 library that moves KV caches and m
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family]] · [[2026-10-21-llm-d-1-0-lands-as-a-production-distributed-inference-stack]] · [[2026-11-08-google-adds-confidential-computing-and-long-context-tpus-as]] · [[2026-10-28-october-27-2026-the-information]]
+**Related:** [[2026-11-14-the-ggml-org-team-released-v1-0-0-of-llama-cpp-and-ggml-afte]] · [[event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family]] · [[2026-10-21-llm-d-1-0-lands-as-a-production-distributed-inference-stack]] · [[2026-11-08-google-adds-confidential-computing-and-long-context-tpus-as]]
 <!-- graph:end -->

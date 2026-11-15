@@ -4,8 +4,8 @@ title: Executives Say AI Demand Is 'Almost Unlimited' Even as Buyers Shift to 'V
 date: '2026-07-11'
 source: CNBC**
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html
+url_status: repaired
 digest_source: digests\raw\2026-07-12_065021_Final-Daily-AI-News-Digest.md
 content_hash: 9e16912b82f9400505a11a0be23e5275333beca31ee90f26f6998c56cde1070d
 normalized_title_hash: 1660757ea32ef729

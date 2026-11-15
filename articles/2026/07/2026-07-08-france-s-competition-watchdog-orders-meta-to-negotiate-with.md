@@ -4,8 +4,8 @@ title: France’s Competition Watchdog Orders Meta to Negotiate with News Publis
 date: '2026-07-08'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-07-08/french-watchdog-orders-meta-to-negotiate-in-news-copyright-case
+url_status: repaired
 digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 23f8eabc33e3170a69066ddcbc2bed5f01b839cee7fe416398ca47dd785c6929

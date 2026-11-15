@@ -4,8 +4,8 @@ title: Vint Cerf backs effort to create identity standards for internet-scale AI
 date: '2026-07-15'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/
+url_status: repaired
 digest_source: digests\raw\2026-07-15-daily-ai-news-digest.md
 content_hash: 720e9140b4a6da1ede790c703b9d36f60f803a81dc7119054021bb1c5ee7e929
 normalized_title_hash: 15c4cfd44905743c

@@ -4,8 +4,8 @@ title: Palantir Stock Watched as AIP Adoption Lifts 2026 Revenue Guide to $7.65B
 date: '2026-05-26'
 source: Finbold
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.vaasblock.com/tech/palantir-aip-enterprise-revenue-commercial-ai-analytics-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_070624_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: c849b3f27ab79d2d5a48e756a51f440e78b838934aa6a312009476f25fbebaeb

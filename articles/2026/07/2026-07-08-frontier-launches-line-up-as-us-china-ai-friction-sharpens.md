@@ -4,8 +4,8 @@ title: Frontier Launches Line Up as US–China AI Friction Sharpens
 date: '2026-07-08'
 source: '17 items · Source window: last 24 hours'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.chinadaily.com.cn/a/202610/01/WS6abd9afbe4b06d4aa0561172.html
+url_status: repaired
 digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 8b9508a22a40309f67c705972b7dde4fccce0fca3051463668fe489a3edff4d6

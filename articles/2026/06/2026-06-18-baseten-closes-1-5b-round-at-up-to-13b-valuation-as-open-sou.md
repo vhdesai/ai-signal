@@ -5,8 +5,8 @@ title: Baseten Closes $1.5B Round at Up to $13B Valuation as Open-Source Inferen
 date: '2026-06-18'
 source: Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/the-13-billion-ai-startup-betting-on-cheaper-alternatives-to-openai-anthropic-b9679603
-url_canonical: https://www.wsj.com/tech/ai/the-13-billion-ai-startup-betting-on-cheaper-alternatives-to-openai-anthropic-b9679603
-url_status: broken
+url_canonical: https://mlq.ai/news/baseten-nears-15b-raise-at-13b-valuation-tripling-in-five-months/
+url_status: repaired
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: 150ea46742d2664849406e2b3fa671f5d093fd237aca68b4f21bbe2897db3c8e
 normalized_title_hash: 365bccf848f9d7df

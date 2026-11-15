@@ -4,8 +4,8 @@ title: Samsung Guides to Record Q2 Profit on AI-Memory Demand — But Shares Fal
 date: '2026-07-07'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/01/29/samsung-record-q4-2025-profit-ai-hbm-ai-memory-chip-shortage.html
+url_status: repaired
 digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: e6a722e8c7d111fbbdfe1aa19d19e34026d3478e35ae10fd95cf517d17bd1981

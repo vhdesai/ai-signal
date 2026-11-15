@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: AiThority
 url_original: https://aithority.com/machine-learning/nvidia-foxconn-and-taiwan-medical-centers-bring-agentic-and-physical-ai-to-healthy-taiwan/
 url_canonical: https://aithority.com/machine-learning/nvidia-foxconn-and-taiwan-medical-centers-bring-agentic-and-physical-ai-to-healthy-taiwan/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: 93da8a23776076aad82428d7100a8f766d6982d1e9a77116ee5b7002181ee53f

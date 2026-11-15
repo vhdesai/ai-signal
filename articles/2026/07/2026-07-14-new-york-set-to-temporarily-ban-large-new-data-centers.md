@@ -4,8 +4,8 @@ title: New York set to temporarily ban large new data centers
 date: '2026-07-14'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.yahoo.com/news/politics/articles/york-gov-set-sign-order-103124778.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 2c4c3f96a23db1937974b20b7a0a0c321f117657d02b00d0dc72c904fbbe704e

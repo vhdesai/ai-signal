@@ -4,8 +4,8 @@ title: OpenAI brings Codex Remote to general availability across all ChatGPT pla
 date: '2026-06-25'
 source: OpenAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/work-with-codex-from-anywhere/
+url_status: repaired
 digest_source: digests\raw\2026-06-26_063915_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 0de76d029da9e131802cc8aec32041ffb773af5f043d37da7be3d18de4c63edc

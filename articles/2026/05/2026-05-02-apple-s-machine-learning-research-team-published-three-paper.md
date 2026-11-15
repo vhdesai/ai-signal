@@ -5,8 +5,8 @@ title: Apple's machine learning research team published three papers at ICASSP 2
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://resources.paperdigest.org/2026/05/icassp-2026-papers-highlights/
+url_status: repaired
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 474c4d08b59329dba3df3f5ae9bb338b4429f09e96d8f84f3a45f4fe813a9571
 normalized_title_hash: ec4dc19d895ba99a

@@ -5,8 +5,8 @@ title: Mozilla published a detailed technical blog post describing a collaborati
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/
+url_status: repaired
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: 7ad46a131435bb340a0fca295644398b89e75cff551363fc4a8b75f3f8434ba6
 normalized_title_hash: 68309cdf5fb599a7

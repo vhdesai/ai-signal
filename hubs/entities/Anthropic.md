@@ -1,18 +1,26 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2647
+member_count: 2655
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2647 connected article(s).
+> Auto-generated entity hub. 2655 connected article(s).
 
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-the-information-reports-on-anthropic-s-investor-roadshow-eve|The Information reports on Anthropic's investor roadshow event at J.P]]
+- `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
 - `2026-11-13` [[2026-11-13-november-13-2026-wall-street-journal-2|[November 13, 2026] · [Wall Street Journal]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-databricks|[November 13, 2026] · [Databricks]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times|[November 13, 2026] · [Crypto Briefing, citing the Financial Times]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-crypto-briefing|[November 12, 2026] · [Crypto Briefing]]]
+- `2026-11-13` [[2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u|VCs and founders expect Nvidia's startup funding to shrink under Kress, with OpenAI and Oracle most exposed]]
+- `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
+- `2026-11-13` [[2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil|Microsoft apologizes after prolonged Microsoft 365 and Copilot disruption]]
+- `2026-11-13` [[2026-11-13-cursor-traces-its-breach-and-a-malicious-claude-code-extensi|Cursor traces its breach and a malicious Claude Code extension build to an access key leaked by Fireworks]]
+- `2026-11-13` [[2026-11-13-anthropic-s-roadshow-draws-wall-street-s-largest-investors-a|Anthropic's roadshow draws Wall Street's largest investors as orders from China are reportedly rebuffed]]
+- `2026-11-13` [[2026-11-13-anthropic-ipo-demand-meets-questions-about-durability|Anthropic IPO demand meets questions about durability]]
 - `2026-11-13` [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo|Amodei calls compute Anthropic's deepest dilemma as the IPO roadshow turns away Chinese orders]]
 - `2026-11-13` [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro|AI infrastructure finance matures: compute futures near approval, Cerebras pulls in WSE-5 and capital chases off-grid power]]
 - `2026-11-12` [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is|Without Huang, Nvidia's role as the AI economy's financier is in doubt]]

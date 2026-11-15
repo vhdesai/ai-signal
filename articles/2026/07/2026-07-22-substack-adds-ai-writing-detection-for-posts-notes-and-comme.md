@@ -4,8 +4,8 @@ title: Substack adds AI-writing detection for posts, notes, and comments
 date: '2026-07-22'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/
+url_status: repaired
 digest_source: digests\raw\2026-07-23-daily-ai-news-digest.md
 content_hash: 7fd6a0d374d07f6339a5f353d1bc6655935eacf83300fa7b2f983a1e9b83b6d8
 normalized_title_hash: 701535d7799a93db

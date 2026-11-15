@@ -4,7 +4,7 @@ title: RSA Conference 2026 / RSAC 2026 — Overview
 date: '2026-04-12'
 source: RSA Conference 2026 / RSAC 2026
 url_original: https://www.rsaconference.com/usa
-url_canonical: https://www.sans.org/blog/rsac-2026-conference-recap-power-community
+url_canonical: https://www.rsaconference.com/events/2026-usa
 url_status: repaired
 digest_source: digests\raw\rsa-conference-2026.md
 content_hash: c2066d147cab9ebfc62f0b09298462c76f37fd98f4d56d90711ed2a857374e8a

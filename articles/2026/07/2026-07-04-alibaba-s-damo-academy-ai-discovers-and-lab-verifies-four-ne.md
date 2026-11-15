@@ -4,8 +4,8 @@ title: Alibaba’s DAMO Academy AI discovers — and lab-verifies — four new s
 date: '2026-07-04'
 source: NewsBytes
 url_original: https://www.newsbytesapp.com/news/science/alibaba-s-new-ai-finds-superconducting-materials-could-speed-up-research/story
-url_canonical: https://www.newsbytesapp.com/news/science/alibaba-s-new-ai-finds-superconducting-materials-could-speed-up-research/story
-url_status: broken
+url_canonical: https://finance.biggo.com/news/035e04ff-19da-440a-8969-c2e2b0f3b26a
+url_status: repaired
 digest_source: digests\raw\2026-07-05_062627_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 48e664a534ba247eee0cb36d90ee2ce5256a5af3531901d93a1aed4033d8a315

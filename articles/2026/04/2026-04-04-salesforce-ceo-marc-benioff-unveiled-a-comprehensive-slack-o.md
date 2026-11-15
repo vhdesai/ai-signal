@@ -5,8 +5,8 @@ title: Salesforce CEO Marc Benioff unveiled a comprehensive Slack overhaul featu
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 46d1870c2111114172b64ac24466c27e62267d15a355b1a8601738a2369f80c8

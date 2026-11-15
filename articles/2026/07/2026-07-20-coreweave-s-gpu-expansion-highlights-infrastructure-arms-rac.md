@@ -4,8 +4,8 @@ title: CoreWeave's GPU expansion highlights infrastructure arms race
 date: '2026-07-20'
 source: PitchBook
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nextplatform.com/cloud/2026/11/12/coreweave-is-accelerating-to-escape-velocity-thanks-to-gpu-shortages/5309222
+url_status: repaired
 digest_source: digests\raw\2026-07-20_065739_Final-Daily-AI-News-Digest.md
 content_hash: c70fd263bcd444fa9a596a2999cfc435b7dd9b20acc8c9bd1c3f212aaadbc41c
 normalized_title_hash: ddca2c6a45d81d7f

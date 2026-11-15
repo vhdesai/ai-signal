@@ -1,18 +1,27 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2427
+member_count: 2436
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2427 connected article(s).
+> Auto-generated topic hub. 2436 connected article(s).
 
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-the-wall-street-journal-reports-that-microsoft-says-service|The Wall Street Journal reports that Microsoft says service is restored and it has processed the email backlog after a…]]
+- `2026-11-14` [[2026-11-14-google-research-says-teams-using-gemini-4-models-and-antigra|Google Research says teams using Gemini 4 models and Antigravity's /teamwork harness produced results in information…]]
+- `2026-11-14` [[2026-11-14-former-openai-researcher-will-depue-analyzed-open-weights-fr|Former OpenAI researcher Will DePue analyzed open weights from DeepSeek, Moonshot, MiniMax and Ant Group and reports…]]
+- `2026-11-14` [[2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo|Axios reports Treasury Secretary Scott Bessent pointed responsibility for the Megaspeed chip matter at the Commerce…]]
 - `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-crypto-briefing|[November 12, 2026] · [Crypto Briefing]]]
 - `2026-11-13` [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne|Weight forensics tie China's top open models to export-banned Blackwell chips as Washington feuds over Megaspeed]]
+- `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
 - `2026-11-13` [[2026-11-13-the-fed-ranks-ai-as-the-top-threat-to-financial-stability-as|The Fed ranks AI as the top threat to financial stability as the White House task force turns to cyber risk]]
+- `2026-11-13` [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan|Nvidia’s startup-financing role faces uncertainty after Huang’s departure]]
+- `2026-11-13` [[2026-11-13-model-weight-analysis-raises-questions-about-nvidia-export-c|Model-weight analysis raises questions about Nvidia export controls]]
+- `2026-11-13` [[2026-11-13-forensic-analysis-of-model-weights-suggests-deepseek-v4-and|Forensic analysis of model weights suggests DeepSeek V4 and Kimi K3 were trained on export-banned Blackwell chips]]
+- `2026-11-13` [[2026-11-13-cursor-traces-its-breach-and-a-malicious-claude-code-extensi|Cursor traces its breach and a malicious Claude Code extension build to an access key leaked by Fireworks]]
 - `2026-11-13` [[2026-11-13-cursor-traces-a-malicious-claude-code-extension-to-a-key-lea|Cursor traces a malicious Claude Code extension to a key leaked by Fireworks as AI fuels a ransomware boom]]
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity-2|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-12` [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats|The Nvidia-China fallout widens: Huang will testify, Democrats probe export approvals and Lutnick is under pressure]]

@@ -4,8 +4,8 @@ title: HotApple Plans iOS 27 as a "Choose Your Own Adventure" of AI Models
 date: '2026-05-06'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/
+url_status: repaired
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 6b20ba739baf5959b5a111fc40c92ed8491f4e6c2a16df96f0c08c44aa6783c8
 normalized_title_hash: 84ad0cb19f40eaf7

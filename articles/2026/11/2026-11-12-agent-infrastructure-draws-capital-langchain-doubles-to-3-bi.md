@@ -27,9 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-12-november-12-2026-siliconangle
+- 2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation
+- 2026-11-14-capitalg-led-the-round-with-gic-dfj-growth-ivp-and-sapphire
 - 2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-- 2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua
 embedding_id: 2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi
 event_name: ''
 ---
@@ -43,5 +44,5 @@ LangChain raised $300 million led by Alphabet's CapitalG, more than doubling its
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-12-november-12-2026-siliconangle]] · [[2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]]
+**Related:** [[2026-11-12-november-12-2026-siliconangle]] · [[2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation]] · [[2026-11-14-capitalg-led-the-round-with-gic-dfj-growth-ivp-and-sapphire]] · [[2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
 <!-- graph:end -->

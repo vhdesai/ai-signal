@@ -34,6 +34,7 @@ related_article_ids:
 - 2026-04-03-more-than-30-openai-and-google-deepmind-employees-including
 - 2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag
 - 2026-10-01-ftc-opens-investigation-into-whether-openai-and-anthropic-br
+- 2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy
 embedding_id: 2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf
 event_name: ''
 ---
@@ -47,5 +48,5 @@ At Trump’s AI safety lunch, executives from Google, Anthropic, Meta, Nvidia, O
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-29-daily-ai-news-digest-september-30-2026]] · [[2026-04-03-more-than-30-openai-and-google-deepmind-employees-including]] · [[2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag]] · [[2026-10-01-ftc-opens-investigation-into-whether-openai-and-anthropic-br]]
+**Related:** [[2026-09-29-daily-ai-news-digest-september-30-2026]] · [[2026-04-03-more-than-30-openai-and-google-deepmind-employees-including]] · [[2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag]] · [[2026-10-01-ftc-opens-investigation-into-whether-openai-and-anthropic-br]] · [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy]]
 <!-- graph:end -->

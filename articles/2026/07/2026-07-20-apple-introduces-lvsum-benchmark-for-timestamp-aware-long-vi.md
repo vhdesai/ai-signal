@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
+- 2026-11-14-stanford-s-open-source-memorilla-compresses-a-whole-document
 - 2026-09-23-apple-releases-lensvlm-9b-open-weights-for-document-understa
-- 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 embedding_id: 2026-07-20-apple-introduces-lvsum-benchmark-for-timestamp-aware-long-vi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple published LVSum, a human-annotated benchmark for evaluating long-form vide
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-09-23-apple-releases-lensvlm-9b-open-weights-for-document-understa]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]]
+**Related:** [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-11-14-stanford-s-open-source-memorilla-compresses-a-whole-document]] · [[2026-09-23-apple-releases-lensvlm-9b-open-weights-for-document-understa]]
 <!-- graph:end -->

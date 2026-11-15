@@ -5,8 +5,8 @@ title: Apple is reportedly developing a major Siri overhaul that would automatic
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: af7c5ef426241e8fa69bca4911a6b6c2899ca6fedf6b6a59e2a9aec1ce973f12

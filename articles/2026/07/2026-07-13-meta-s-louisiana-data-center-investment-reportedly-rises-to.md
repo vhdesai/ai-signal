@@ -4,8 +4,8 @@ title: Meta's Louisiana data-center investment reportedly rises to $50 billion
 date: '2026-07-13'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html
+url_status: repaired
 digest_source: digests\raw\2026-07-13-daily-ai-news-digest.md
 content_hash: fd936574dc9f2ed79a09f5f3e04d191bc74cf1b4e0bed81c417905f4122c30ba
 normalized_title_hash: b4c63b330b82d20c

@@ -5,8 +5,8 @@ title: Microsoft begins swapping OpenAI and Anthropic out for its own MAI models
 date: '2026-07-07'
 source: The Next Web
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/microsoft-mai-models-replace-openai-apps
+url_status: repaired
 digest_source: digests\raw\2026-07-08_064841_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 4e882ccfcaf222d0f2a5478e3caf1485fd5820b0a89cc52a67d9e3edc18f904e

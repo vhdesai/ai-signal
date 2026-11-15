@@ -5,7 +5,7 @@ title: The Information / Axios • April 17–19, 2026 OpenAI confirmed the depa
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/
+url_canonical: https://www.cnbc.com/2026/04/17/openai-executives-leave.html
 url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md

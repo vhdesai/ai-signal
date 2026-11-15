@@ -4,8 +4,8 @@ title: Pro-AI and AI-safety groups prepare major midterm spending
 date: '2026-07-17'
 source: Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million
+url_status: repaired
 digest_source: digests\raw\2026-07-18-daily-ai-news-digest.md
 content_hash: 1f84d10a28c64a577b91236cba3133f61eafeef9aebe1b89cdf542a3721954b5
 normalized_title_hash: b6b3964fb6f85484

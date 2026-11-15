@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy
 - 2026-09-09-the-information-confusion-reigns-over-the-white-house-s-ai-w
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 - 2026-10-28-october-28-2026-house-science-committee-democrats
 - 2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati
-- 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 embedding_id: 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
 event_name: ''
 ---
@@ -39,5 +39,5 @@ As the review framework takes effect, reporting indicates the White House is wor
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-09-the-information-confusion-reigns-over-the-white-house-s-ai-w]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-10-28-october-28-2026-house-science-committee-democrats]] · [[2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]]
+**Related:** [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy]] · [[2026-09-09-the-information-confusion-reigns-over-the-white-house-s-ai-w]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-10-28-october-28-2026-house-science-committee-democrats]] · [[2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati]]
 <!-- graph:end -->

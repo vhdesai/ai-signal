@@ -1,16 +1,23 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1782
+member_count: 1789
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1782 connected article(s).
+> Auto-generated topic hub. 1789 connected article(s).
 
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-14` [[2026-11-14-former-openai-researcher-will-depue-analyzed-open-weights-fr|Former OpenAI researcher Will DePue analyzed open weights from DeepSeek, Moonshot, MiniMax and Ant Group and reports…]]
+- `2026-11-14` [[2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo|Axios reports Treasury Secretary Scott Bessent pointed responsibility for the Megaspeed chip matter at the Commerce…]]
 - `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
 - `2026-11-13` [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne|Weight forensics tie China's top open models to export-banned Blackwell chips as Washington feuds over Megaspeed]]
+- `2026-11-13` [[2026-11-13-model-weight-analysis-raises-questions-about-restricted-nvid|Model-weight analysis raises questions about restricted Nvidia compute]]
+- `2026-11-13` [[2026-11-13-model-weight-analysis-raises-questions-about-nvidia-export-c|Model-weight analysis raises questions about Nvidia export controls]]
+- `2026-11-13` [[2026-11-13-forensic-analysis-of-model-weights-suggests-deepseek-v4-and|Forensic analysis of model weights suggests DeepSeek V4 and Kimi K3 were trained on export-banned Blackwell chips]]
+- `2026-11-13` [[2026-11-13-anthropic-s-roadshow-draws-wall-street-s-largest-investors-a|Anthropic's roadshow draws Wall Street's largest investors as orders from China are reportedly rebuffed]]
 - `2026-11-13` [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo|Amodei calls compute Anthropic's deepest dilemma as the IPO roadshow turns away Chinese orders]]
 - `2026-11-13` [[2026-11-13-ai2-s-xybench-finds-leading-models-rarely-correct-users-mist|AI2's XYBench finds leading models rarely correct users' mistaken assumptions]]
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity-2|[November 12, 2026] · [WSJ Pro CyberSecurity]]]

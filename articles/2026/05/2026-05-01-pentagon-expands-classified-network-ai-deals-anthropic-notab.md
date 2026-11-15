@@ -4,7 +4,7 @@ title: Pentagon expands classified-network AI deals — Anthropic notably absent
 date: '2026-05-01'
 source: TechCrunch
 url_original: null
-url_canonical: https://thedefensepost.com/2026/05/04/pentagon-snubs-anthropic-ai/
+url_canonical: https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic
 url_status: repaired
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 0c79d4e09cb5cbead8e9213212e30f4320e5288f2451bccdb9ee7a717a929503

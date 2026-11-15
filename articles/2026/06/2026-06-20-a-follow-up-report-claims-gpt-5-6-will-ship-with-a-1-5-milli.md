@@ -5,8 +5,8 @@ title: A follow-up report claims GPT-5.6 will ship with a 1.5 million token cont
 date: '2026-06-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hotpotnews.com/post/gpt-5-4-massive-context-window-analysis/
+url_status: repaired
 digest_source: digests\raw\2026-06-20-daily-ai-news-digest.md
 content_hash: 82956ddaf44a612b34aefbf55c6015c030b1342e7bcd0e10d5143f8a456d9231
 normalized_title_hash: ffc7fa900b5b2fa4

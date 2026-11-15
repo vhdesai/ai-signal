@@ -4,8 +4,8 @@ title: Liquid AI Open-Sources “Antidoom” to Eliminate Reasoning Doom Loops
 date: '2026-07-07'
 source: Liquid AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.liquid.ai/blog/antidoom
+url_status: repaired
 digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: abcc1fda3be6c763957c8804d10d90080d14d4695fc88fe4ed1d6915af7dbb05

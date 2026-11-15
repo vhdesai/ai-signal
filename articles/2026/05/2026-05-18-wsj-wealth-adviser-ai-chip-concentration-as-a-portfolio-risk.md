@@ -4,8 +4,8 @@ title: 'WSJ Wealth Adviser: AI-chip concentration as a portfolio risk'
 date: '2026-05-18'
 source: WSJ Wealth Adviser
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/hidden-ai-concentration-risk-in-diversified-portfolios
+url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 91cb2d48f68e30fcb6dc05e2c24199bd59eed46434d569cdd65da7b08b1db33e

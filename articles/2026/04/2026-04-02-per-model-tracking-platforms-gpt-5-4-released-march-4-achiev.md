@@ -5,8 +5,8 @@ title: Per model tracking platforms, GPT-5.4 (released March 4) achieves 0.9 GPQ
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.digitalapplied.com/blog/12-ai-models-released-one-week-march-2026-developer-guide
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: ab068fc5142bcfdd9a2b70b230e52e19d3da86a6af93536c24ebb291a50afd66

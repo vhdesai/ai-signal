@@ -5,8 +5,8 @@ title: OpenAI posted a teaser for a physical Codex device — a square, button-a
 date: '2026-06-30'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech.yahoo.com/ai/copilot/articles/openai-codex-micro-230-macro-173048885.html
+url_status: repaired
 digest_source: digests\raw\2026-06-30_062533_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: f41c1237092abb3df0d1dd9d69e87935cc5247493cad4b1b4c0f7dfeb4ca8508

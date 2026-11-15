@@ -4,8 +4,8 @@ title: Meta launches Muse Image generator, immediately drawing consent backlash
 date: '2026-07-07'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/
+url_status: repaired
 digest_source: digests\raw\2026-07-08_063010_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 838f617690f8d144a579f9c0201ae37679408dad7767d2e30eb517b9fe6375fd

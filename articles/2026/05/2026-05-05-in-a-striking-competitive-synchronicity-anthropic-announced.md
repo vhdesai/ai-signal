@@ -5,7 +5,7 @@ title: In a striking competitive synchronicity, Anthropic announced a $1.5B ente
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.blackstone.com/news/press/the-ai-native-enterprise-services-firm-backed-by-anthropic-blackstone-and-hellman-friedman-announces-acquisition-of-fractional-ai/
+url_canonical: https://www.anthropic.com/news/enterprise-ai-services-company
 url_status: repaired
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 556b35f22ebdd6a140e699bdb40fdc4bc1b6be706d116f28a282f3c3b2d5a2a9

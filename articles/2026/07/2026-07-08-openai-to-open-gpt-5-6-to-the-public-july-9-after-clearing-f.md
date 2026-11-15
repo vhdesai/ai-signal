@@ -5,8 +5,8 @@ title: OpenAI to open GPT-5.6 to the public July 9 after clearing federal pre-re
 date: '2026-07-08'
 source: Engadget
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/
+url_status: repaired
 digest_source: digests\raw\2026-07-08_063010_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 3e0cb435a311adf0e5a4d644e25ebf307bae7361828acafcb239f0ef51dc7778

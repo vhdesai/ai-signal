@@ -5,8 +5,8 @@ title: From a team including interpretability researcher Neel Nanda, this prepri
 date: '2026-06-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.llm-bento.com/people/neel-nanda
+url_status: repaired
 digest_source: digests\raw\2026-06-26_060327_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 0ba11ee0d869730f9fcb71e1176f205e0f05457c3c631fa152466e0e4e886d15

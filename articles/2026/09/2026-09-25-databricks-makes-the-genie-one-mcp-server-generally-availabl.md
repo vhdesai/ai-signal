@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
 - 2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch
+- 2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt
 - 2026-11-11-november-12-2026-cio-dive-2
 - 2026-11-11-databricks-turns-genie-into-an-always-on-business-agent-as-t
-- 2026-11-13-november-13-2026-databricks
 embedding_id: 2026-09-25-databricks-makes-the-genie-one-mcp-server-generally-availabl
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Databricks moved the Genie One MCP server to general availability in Unity Gatew
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch]] · [[2026-11-11-november-12-2026-cio-dive-2]] · [[2026-11-11-databricks-turns-genie-into-an-always-on-business-agent-as-t]] · [[2026-11-13-november-13-2026-databricks]]
+**Related:** [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch]] · [[2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt]] · [[2026-11-11-november-12-2026-cio-dive-2]] · [[2026-11-11-databricks-turns-genie-into-an-always-on-business-agent-as-t]]
 <!-- graph:end -->

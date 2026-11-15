@@ -4,8 +4,8 @@ title: HOTReplit Tracking Toward $1B ARR; Cursor in Talks with SpaceX at $60B
 date: '2026-05-01'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 6cc7acb9b04ac808e7548919d337f559c384b7d477cc572346052814cbab9ace
 normalized_title_hash: a8d3ee3691918242

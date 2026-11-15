@@ -5,7 +5,7 @@ date: '2026-11-03'
 source: '[DealBook]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+cloud+China
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+cloud+China
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-03_065703_Final-Daily-AI-News-Digest.md
 content_hash: 783d3df78dd3520f7c32b5c1a1aef8647f9bcf9b43973e9430d1cd49a4395ec3
 normalized_title_hash: 0a62f73ac65e23be

@@ -4,8 +4,8 @@ title: GPT-5.6 Rumors Build Ahead of Rumored June 23 Launch
 date: '2026-06-20'
 source: Gizmochina; TestingCatalog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.gizmochina.com/2026/06/20/gpt-5-6-rumored-launch-next-week/
+url_status: repaired
 digest_source: digests\raw\2026-06-21_070147_Final-Daily-AI-News-Digest.md
 content_hash: f52efc7d302aa3776e7569c3f46cd6264ab9419734ec3b64b52a5ab501382950
 normalized_title_hash: fb37211ebf952c0a

@@ -4,8 +4,8 @@ title: Global tech sell-off as investors reprice AI; Kospi triggers circuit brea
 date: '2026-06-26'
 source: TheStreet
 url_original: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026
-url_canonical: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026
-url_status: broken
+url_canonical: https://www.brecorder.com/news/40444347
+url_status: repaired
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: f3742bb3126f41c9a4b98151f8ff36944f3d6215b7a4ee665abe9b6a334a69dd

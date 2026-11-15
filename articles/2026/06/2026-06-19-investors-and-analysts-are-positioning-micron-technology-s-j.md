@@ -5,8 +5,8 @@ title: Investors and analysts are positioning Micron Technology's June 24 earnin
 date: '2026-06-19'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.tradingkey.com/analysis/stocks/us-stocks/261975340-mu-q3-earnings-preview-june-2026-tradingkey
+url_status: repaired
 digest_source: digests\raw\2026-06-19-daily-ai-news-digest.md
 content_hash: 4e18b41b235eef5c29cf9e3455acbe8935ebc0f2262a376903dcbb40367c5240
 normalized_title_hash: 844c3896e5df1af0

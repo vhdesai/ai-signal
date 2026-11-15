@@ -1,22 +1,51 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5363
+member_count: 5392
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5363 connected article(s).
+> Auto-generated topic hub. 5392 connected article(s).
 
+- `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-november-13-2026-dealbook|[November 13, 2026] · [DealBook]]]
+- `2026-11-14` [[2026-11-14-the-ggml-org-team-released-v1-0-0-of-llama-cpp-and-ggml-afte|The ggml-org team released v1.0.0 of llama.cpp and ggml after 3.5 years, adopting semantic versioning in which breaking…]]
+- `2026-11-14` [[2026-11-14-stanford-s-memorilla-gives-a-frozen-llm-an-entire-document-s|Stanford's Memorilla gives a frozen LLM an entire document store in just 16 tokens]]
+- `2026-11-14` [[2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and|Perplexity shipped pplx-decider-v1.3 (27B, on Qwen3.8-27B) and a distilled 4B Flash variant under Apache 2.0]]
+- `2026-11-14` [[2026-11-14-google-research-says-teams-using-gemini-4-models-and-antigra|Google Research says teams using Gemini 4 models and Antigravity's /teamwork harness produced results in information…]]
+- `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-14` [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch|Cerebras says its next-generation WSE-5 chip is ahead of schedule, with CS-5 systems due in early summer 2027]]
+- `2026-11-14` [[2026-11-14-capitalg-led-the-round-with-gic-dfj-growth-ivp-and-sapphire|CapitalG led the round, with GIC, DFJ Growth, IVP and Sapphire participating; the valuation is more than double the…]]
+- `2026-11-13` [[2026-11-13-november-14-2026-marktechpost|[November 14, 2026] · [MarkTechPost]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-wall-street-journal-2|[November 13, 2026] · [Wall Street Journal]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-databricks|[November 13, 2026] · [Databricks]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times|[November 13, 2026] · [Crypto Briefing, citing the Financial Times]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
+- `2026-11-13` [[2026-11-13-november-12-2026-ars-technica|[November 12, 2026] · [Ars Technica]]]
+- `2026-11-13` [[2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u|VCs and founders expect Nvidia's startup funding to shrink under Kress, with OpenAI and Oracle most exposed]]
+- `2026-11-13` [[2026-11-13-treasury-points-to-commerce-over-proposed-megaspeed-restrict|Treasury points to Commerce over proposed Megaspeed restrictions]]
+- `2026-11-13` [[2026-11-13-spacex-ai-reportedly-trims-grok-imagine-team-as-priorities-s|SpaceX AI reportedly trims Grok Imagine team as priorities shift]]
+- `2026-11-13` [[2026-11-13-perplexity-releases-open-weight-decider-v1-3-models-that-ret|Perplexity releases open-weight Decider v1.3 models that return probabilities instead of text]]
 - `2026-11-13` [[2026-11-13-openai-folds-its-robotics-team-into-research-and-applied-gro|OpenAI folds its robotics team into research and applied groups, betting general models can run robots]]
+- `2026-11-13` [[2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt|OpenAI and Databricks put governed company data into ChatGPT and Codex through Genie and Unity Gateway]]
 - `2026-11-13` [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch|OpenAI and Databricks bring governed enterprise data into ChatGPT as Perplexity's Teammates agents reach the Mac]]
+- `2026-11-13` [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan|Nvidia’s startup-financing role faces uncertainty after Huang’s departure]]
 - `2026-11-13` [[2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni|Nvidia's succession search turns to Arm's Rene Haas as earnings put Kress's financing stance to the test]]
+- `2026-11-13` [[2026-11-13-nvidia-startup-funding-faces-uncertainty-after-huang-departu|Nvidia startup funding faces uncertainty after Huang departure]]
+- `2026-11-13` [[2026-11-13-model-weight-analysis-raises-questions-about-restricted-nvid|Model-weight analysis raises questions about restricted Nvidia compute]]
+- `2026-11-13` [[2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil|Microsoft apologizes after prolonged Microsoft 365 and Copilot disruption]]
+- `2026-11-13` [[2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation-on-its|LangChain raises $300 million at a $3 billion valuation on its pitch that enterprises should own their agents]]
+- `2026-11-13` [[2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation|LangChain raises $300 million at a $3 billion valuation]]
+- `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-the-courtad|Google's /teamwork multi-agent system helps prove the Courtade-Kumar conjecture, with proofs checked in Lean 4]]
+- `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-a-long-open|Google's /teamwork multi-agent system helps prove a long-open conjecture, with proofs checked in Lean 4]]
+- `2026-11-13` [[2026-11-13-drogue-raises-20-million-to-put-data-centers-on-ships-powere|Drogue raises $20 million to put data centers on ships powered by ocean heat]]
+- `2026-11-13` [[2026-11-13-chatgpt-wallet-lets-openai-s-agents-complete-purchases-with|ChatGPT Wallet lets OpenAI's agents complete purchases with tokenized cards as Gemini connects to Google Wallet]]
+- `2026-11-13` [[2026-11-13-anthropic-s-roadshow-draws-wall-street-s-largest-investors-a|Anthropic's roadshow draws Wall Street's largest investors as orders from China are reportedly rebuffed]]
 - `2026-11-13` [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo|Amodei calls compute Anthropic's deepest dilemma as the IPO roadshow turns away Chinese orders]]
 - `2026-11-13` [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads|Agents get wallets: ChatGPT can now buy for you, Gemini reads your spending and banks scramble to keep up]]
+- `2026-11-13` [[2026-11-13-ai2-s-xybench-finds-leading-models-rarely-correct-users-mist|AI2's XYBench finds leading models rarely correct users' mistaken assumptions]]
+- `2026-11-13` [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro|AI infrastructure finance matures: compute futures near approval, Cerebras pulls in WSE-5 and capital chases off-grid power]]
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-12` [[2026-11-12-november-12-2026-siliconangle|[November 12, 2026] · [SiliconANGLE]]]
 - `2026-11-12` [[2026-11-12-november-12-2026-dealbook|[November 12, 2026] · [DealBook]]]

@@ -1,16 +1,22 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1155
+member_count: 1161
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1155 connected article(s).
+> Auto-generated entity hub. 1161 connected article(s).
 
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-14` [[2026-11-14-november-13-2026-dealbook|[November 13, 2026] · [DealBook]]]
 - `2026-11-14` [[2026-11-14-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
+- `2026-11-14` [[2026-11-14-the-wall-street-journal-reports-that-microsoft-says-service|The Wall Street Journal reports that Microsoft says service is restored and it has processed the email backlog after a…]]
+- `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-14` [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch|Cerebras says its next-generation WSE-5 chip is ahead of schedule, with CS-5 systems due in early summer 2027]]
+- `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
+- `2026-11-13` [[2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil|Microsoft apologizes after prolonged Microsoft 365 and Copilot disruption]]
+- `2026-11-13` [[2026-11-13-cursor-traces-a-malicious-claude-code-extension-to-a-key-lea|Cursor traces a malicious Claude Code extension to a key leaked by Fireworks as AI fuels a ransomware boom]]
 - `2026-11-13` [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and|An 18-hour Microsoft 365 outage takes down Outlook, Teams and Copilot worldwide]]
 - `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]
 - `2026-11-12` [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not|Cerebras lands Microsoft and raises guidance as delivery, not demand, becomes the bottleneck for neoclouds]]

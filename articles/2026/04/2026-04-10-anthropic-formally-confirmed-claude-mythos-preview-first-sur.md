@@ -5,8 +5,8 @@ title: Anthropic formally confirmed Claude Mythos Preview — first surfaced in 
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.mindstudio.ai/blog/what-is-claude-mythos-anthropic-most-powerful-model
+url_status: repaired
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: a6381ed1f9535093abfd999977032a6cde68b39bd0c2674bdf54c9f33b53807e

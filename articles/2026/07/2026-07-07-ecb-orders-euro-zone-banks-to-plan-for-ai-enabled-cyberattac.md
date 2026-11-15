@@ -4,8 +4,8 @@ title: ECB orders euro-zone banks to plan for AI-enabled cyberattacks
 date: '2026-07-07'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://kpmg.com/ie/en/insights/financial-services/ecb-action-plan-AI-enabled-cyberattacks.html
+url_status: repaired
 digest_source: digests\raw\2026-07-07_061919_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 5fbf3b80309b978ec5a8f985720effa05fc47c5aa575ee2917b20d9bca8501e7

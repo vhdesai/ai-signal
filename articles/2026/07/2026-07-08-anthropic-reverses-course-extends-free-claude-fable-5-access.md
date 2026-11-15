@@ -5,8 +5,8 @@ title: Anthropic reverses course, extends free Claude Fable 5 access to July 12 
 date: '2026-07-08'
 source: Android Authority
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.androidauthority.com/claude-fable-5-free-extension-3685103/
+url_status: repaired
 digest_source: digests\raw\2026-07-08_063010_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 2d42290094fac5eb74a15aab5f30a105da526aa27bb7c8561a15a2e2a514571b

@@ -4,8 +4,8 @@ title: U.S. threatens sanctions against Chinese AI models over alleged IP theft
 date: '2026-07-21'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/
+url_status: repaired
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: a68d14389e495a611c8a384f662502ff19a1c8629f86a1685077c492fc44d487
 normalized_title_hash: 46c38dffb4d9fe51

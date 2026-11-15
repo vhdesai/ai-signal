@@ -6,7 +6,7 @@ date: '2026-11-10'
 source: '[The Information]'
 url_original: https://www.theinformation.com/articles/jensen-huangs-yearslong-ties-alice-huang-enabled-nvidia-chip-sales-china
 url_canonical: https://www.theinformation.com/articles/jensen-huangs-yearslong-ties-alice-huang-enabled-nvidia-chip-sales-china
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-10_061512_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: f1bf2bc48a8cfb7fdc7494f2ca82f457abd3a0ff0a05df994031c7bb9e8b1259

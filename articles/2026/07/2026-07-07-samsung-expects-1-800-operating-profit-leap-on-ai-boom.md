@@ -4,8 +4,8 @@ title: Samsung expects 1,800% operating profit leap on AI boom
 date: '2026-07-07'
 source: AFP via Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/samsung-expects-1-800-leap-001639799.html
-url_canonical: https://finance.yahoo.com/technology/ai/articles/samsung-expects-1-800-leap-001639799.html
-url_status: broken
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/samsung-record-80-billion-profit-054545681.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 51a5e4b1c61d823e81edafc4998149f82aa9c260e75295f559a57513bba5fbc9

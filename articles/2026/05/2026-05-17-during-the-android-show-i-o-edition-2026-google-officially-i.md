@@ -5,8 +5,8 @@ title: 'During The Android Show: I/O Edition 2026, Google officially introduced 
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/products-and-platforms/platforms/android/meet-googlebook/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 788635a32ffd00800c2d73571101e1a821e7cc837f84362f3f82b1c76612e336

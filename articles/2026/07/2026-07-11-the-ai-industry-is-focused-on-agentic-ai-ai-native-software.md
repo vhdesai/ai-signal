@@ -5,8 +5,8 @@ title: The AI industry is focused on agentic AI, AI-native software development,
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newsroom.arm.com/news/arm-everywhere-the-compute-platform-for-agentic-ai
+url_status: repaired
 digest_source: digests\raw\2026-07-12_010725_Automated_Your-Daily-AI-News-Digest.md
 content_hash: f2ef8a2c588b749cead66f5db7f929562d40ed1900dffd118300feff241455b3
 normalized_title_hash: d6fbaa0f9dfb301b

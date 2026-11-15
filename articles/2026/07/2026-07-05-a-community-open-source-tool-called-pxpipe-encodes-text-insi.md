@@ -5,8 +5,8 @@ title: A community open-source tool called pxpipe encodes text inside PNG images
 date: '2026-07-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/
+url_status: repaired
 digest_source: digests\raw\2026-07-05_061041_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: b59462032d08c67aed64a5bc9ebdca3496d540fff86d1d23a68df34771dc9950

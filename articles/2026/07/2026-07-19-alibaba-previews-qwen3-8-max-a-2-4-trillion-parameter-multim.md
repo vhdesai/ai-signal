@@ -4,8 +4,8 @@ title: Alibaba previews Qwen3.8-Max, a 2.4 trillion-parameter multimodal model
 date: '2026-07-19'
 source: MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.alibabacloud.com/press-room/alibaba-unveils-qwen3-8-max
+url_status: repaired
 digest_source: digests\raw\2026-07-20-daily-ai-news-digest.md
 content_hash: 940a73ef133b0e233c7f5f32ec1807ac241e5d9a2ae929ba57720cd5a1fa5e90
 normalized_title_hash: 00a5ff6a54b53728

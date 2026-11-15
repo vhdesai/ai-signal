@@ -4,8 +4,8 @@ title: Anthropic accuses Alibaba's Qwen lab of distilling Claude via 25,000 fake
 date: '2026-06-26'
 source: Forbes
 url_original: https://www.forbes.com/sites/jonmarkman/2026/06/26/anthropic-says-alibaba-used-25000-fake-accounts-to-distill-claude/
-url_canonical: https://www.forbes.com/sites/jonmarkman/2026/06/26/anthropic-says-alibaba-used-25000-fake-accounts-to-distill-claude/
-url_status: broken
+url_canonical: https://www.infoworld.com/article/4189342/anthropic-accuses-alibaba-of-using-25000-fake-accounts-to-scrape-claude-ai.html
+url_status: repaired
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 522074dbaa67fe882f5526b7bdb41533d2fcbb90c7b1b29d6bce1d044841c327

@@ -4,8 +4,8 @@ title: Anthropic accuses Alibaba of the largest known “distillation attack” 
 date: '2026-06-25'
 source: Inc.
 url_original: https://www.inc.com/hazel-gandhi/anthropic-accused-alibaba-of-a-distillation-attack-heres-what-that-means-and-why-its-so-dangerous/91365906
-url_canonical: https://www.inc.com/hazel-gandhi/anthropic-accused-alibaba-of-a-distillation-attack-heres-what-that-means-and-why-its-so-dangerous/91365906
-url_status: broken
+url_canonical: https://www.digitimes.com/news/a20260625VL203/anthropic-alibaba-claude-bloomberg.html
+url_status: repaired
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: aae3d85554a2c14721b466806ab61fc66cdc2673c1afc1263a17851d7df7a5ab

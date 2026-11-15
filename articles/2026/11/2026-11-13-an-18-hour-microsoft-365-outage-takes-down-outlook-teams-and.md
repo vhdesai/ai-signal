@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-14-november-13-2026-dealbook
 - 2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and
+- 2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil
+- 2026-11-14-the-wall-street-journal-reports-that-microsoft-says-service
 - 2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g
-- 2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues
-- 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
 embedding_id: 2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A global outage tied to Exchange Online spread from Outlook and Teams to SharePo
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-11-14-november-13-2026-dealbook]] · [[2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and]] · [[2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]]
+**Related:** [[2026-11-14-november-13-2026-dealbook]] · [[2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and]] · [[2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil]] · [[2026-11-14-the-wall-street-journal-reports-that-microsoft-says-service]] · [[2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g]]
 <!-- graph:end -->

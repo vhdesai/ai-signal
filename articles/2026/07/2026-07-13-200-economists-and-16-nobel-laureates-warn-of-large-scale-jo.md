@@ -5,8 +5,8 @@ title: 200+ economists and 16 Nobel laureates warn of “large-scale job displac
 date: '2026-07-13'
 source: U.S. News
 url_original: https://money.usnews.com/investing/news/articles/2026-07-13/over-200-experts-call-for-urgent-action-to-tackle-ais-economic-impact
-url_canonical: https://money.usnews.com/investing/news/articles/2026-07-13/over-200-experts-call-for-urgent-action-to-tackle-ais-economic-impact
-url_status: broken
+url_canonical: https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7
+url_status: repaired
 digest_source: digests\raw\2026-07-14_061116_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 56199cd905c750a5f898b1bf7d755dfc04c89301374c6ec261a68fcbba4bee70

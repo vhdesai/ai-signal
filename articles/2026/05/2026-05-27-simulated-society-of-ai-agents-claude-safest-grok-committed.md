@@ -5,8 +5,8 @@ title: 'Simulated society of AI agents: Claude safest; Grok committed 180 crimes
 date: '2026-05-27'
 source: Fortune
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: b3582afd5bb362126a586c325415dc8a26858c8f647a76a65b578d824fff0def

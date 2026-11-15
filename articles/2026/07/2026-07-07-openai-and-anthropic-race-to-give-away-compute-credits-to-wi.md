@@ -4,8 +4,8 @@ title: OpenAI and Anthropic Race to Give Away Compute Credits to Win Startups
 date: '2026-07-07'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/
+url_status: repaired
 digest_source: digests\raw\2026-07-07_060843_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 0ae8b77ba207bf20c3496543fb273711c8d7ccca6d655fa3a26f96af2c9cf1ea

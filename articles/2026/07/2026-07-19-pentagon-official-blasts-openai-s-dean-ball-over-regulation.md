@@ -4,8 +4,8 @@ title: Pentagon official blasts OpenAI's Dean Ball over regulation stance
 date: '2026-07-19'
 source: Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.axios.com/2026/07/19/pentagon-openai-dean-ball-trump-ai
+url_status: repaired
 digest_source: digests\raw\2026-07-20_065739_Final-Daily-AI-News-Digest.md
 content_hash: 7a3b2cc9e11ddae3cd2e5615130b83d70a39431e441e6a9a56c9a9481a2af71e
 normalized_title_hash: 360d04084cdd1d19

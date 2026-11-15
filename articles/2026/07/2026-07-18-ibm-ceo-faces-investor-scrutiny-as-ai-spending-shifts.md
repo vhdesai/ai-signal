@@ -4,8 +4,8 @@ title: IBM CEO faces investor scrutiny as AI spending shifts
 date: '2026-07-18'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/ibm-just-had-worst-day-170952716.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: 4d222bfc9dac239d4da11f446a204602c1d3f420c056f49aa8a856f54f71c2a9
 normalized_title_hash: d79319fc3cea08ed

@@ -4,8 +4,8 @@ title: Daily AI News Digest — June 26, 2026
 date: '2026-06-26'
 source: Senior Technology Executive Briefing
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.leadwithai.co/article/executive-ai-briefing-june-2026
+url_status: repaired
 digest_source: digests\raw\2026-06-26_063915_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 7532d6c90c28e531b05371a92f67c12cdf3613b5d624fc5a0d0fef9a86911604

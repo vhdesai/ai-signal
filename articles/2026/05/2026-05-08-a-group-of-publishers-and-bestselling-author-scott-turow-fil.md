@@ -5,8 +5,8 @@ title: A group of publishers and bestselling author Scott Turow filed a class-ac
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://publishers.org/news/publishers-and-authors-file-class-action-lawsuit-against-meta-and-zuckerberg-for-willful-copyright-infringement-to-develop-llama-ai-models/
+url_status: repaired
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: d4daea4d5c93032f13e5196135cecf581cb45109b815701c7dab9e9a6d271c5e
 normalized_title_hash: a8608338099235dc

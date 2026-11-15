@@ -5,8 +5,8 @@ title: In a wide-ranging interview aired Saturday, Nvidia CEO Jensen Huang compa
 date: '2026-06-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.channelnewsasia.com/business/ceo-job-cuts-lazy-ai-nvidia-jensen-huang-6140246
+url_status: repaired
 digest_source: digests\raw\2026-06-20-daily-ai-news-digest.md
 content_hash: 37d11b500dfab7381e10bfd7f26f4e470919ac74a463c6f9db93d85f6b433ec5
 normalized_title_hash: 85baad40772f311b

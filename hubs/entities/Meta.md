@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 1024
+member_count: 1027
 ---
 
 # Meta
 
-> Auto-generated entity hub. 1024 connected article(s).
+> Auto-generated entity hub. 1027 connected article(s).
 
+- `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
 - `2026-11-13` [[2026-11-13-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-crypto-briefing|[November 12, 2026] · [Crypto Briefing]]]
+- `2026-11-13` [[2026-11-13-treasury-points-to-commerce-over-proposed-megaspeed-restrict|Treasury points to Commerce over proposed Megaspeed restrictions]]
+- `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-12` [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new|Pressure on frontier AI broadens: nonprofits sue to halt new models as Congress and the EU set agendas]]
 - `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]

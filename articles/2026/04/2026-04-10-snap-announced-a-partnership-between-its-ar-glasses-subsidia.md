@@ -5,8 +5,8 @@ title: Snap announced a partnership between its AR glasses subsidiary Specs and 
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.qualcomm.com/news/releases/2026/04/qualcomm-and-snap-expand-strategic-collaboration-to-advance-inte
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: e174f23d8f812ad73c5e5562aa818999e42a4cba6583e718bfbc7d96264e6ae1

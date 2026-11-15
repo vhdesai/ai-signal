@@ -5,8 +5,8 @@ title: Hon Hai Precision (Foxconn), Nvidia's key server-assembly partner, said J
 date: '2026-07-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.taipeitimes.com/News/biz/archives/2026/07/06/2003860281
+url_status: repaired
 digest_source: digests\raw\2026-07-05_061041_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 213349c8c934e0af2e4503f80dabf0c213916a5d0cb03371343ea9cc561b6188

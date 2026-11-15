@@ -4,8 +4,8 @@ title: Commerce Department Claims Unprecedented Power Over AI Models
 date: '2026-06-19'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-06-19/lutnick-s-anthropic-crackdown-claims-new-power-over-ai-models
+url_status: repaired
 digest_source: digests\raw\2026-06-19_070311_Final-Daily-AI-News-Digest.md
 content_hash: 9381ccf00d9600ba827159b1d14b993a8f880dfd629948aaa8b0c35ea440130d
 normalized_title_hash: b6cdd7d539fdd88d

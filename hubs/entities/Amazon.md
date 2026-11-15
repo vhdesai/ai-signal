@@ -1,14 +1,19 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 800
+member_count: 805
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 800 connected article(s).
+> Auto-generated entity hub. 805 connected article(s).
 
+- `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-14` [[2026-11-14-chatgpt-wallet-lets-openai-s-dots-agents-buy-on-a-user-s-beh|ChatGPT Wallet lets OpenAI's dots agents buy on a user's behalf using tokenized card credentials, so neither the agent…]]
+- `2026-11-14` [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch|Cerebras says its next-generation WSE-5 chip is ahead of schedule, with CS-5 systems due in early summer 2027]]
 - `2026-11-13` [[2026-11-13-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
+- `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
+- `2026-11-13` [[2026-11-13-chatgpt-wallet-lets-openai-s-agents-complete-purchases-with|ChatGPT Wallet lets OpenAI's agents complete purchases with tokenized cards as Gemini connects to Google Wallet]]
 - `2026-11-13` [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads|Agents get wallets: ChatGPT can now buy for you, Gemini reads your spending and banks scramble to keep up]]
 - `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]
 - `2026-11-12` [[2026-11-12-agents-start-spending-money-and-making-calls-as-amazon-plans|Agents start spending money and making calls as Amazon plans a product graph to blunt them]]

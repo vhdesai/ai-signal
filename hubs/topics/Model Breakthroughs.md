@@ -1,22 +1,29 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3819
+member_count: 3826
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3819 connected article(s).
+> Auto-generated topic hub. 3826 connected article(s).
 
-- `2026-11-14` [[2026-11-14-stanford-s-memorilla-gives-a-frozen-llm-an-entire-document-s|Stanford's Memorilla gives a frozen LLM an entire document store in just 16 tokens]]
-- `2026-11-13` [[2026-11-13-november-14-2026-marktechpost|[November 14, 2026] · [MarkTechPost]]]
+- `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-stanford-s-open-source-memorilla-compresses-a-whole-document|Stanford's open-source Memorilla compresses a whole document collection into 16 tokens a frozen LLM can read]]
+- `2026-11-14` [[2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and|Perplexity shipped pplx-decider-v1.3 (27B, on Qwen3.8-27B) and a distilled 4B Flash variant under Apache 2.0]]
+- `2026-11-14` [[2026-11-14-jure-leskovec-s-snap-group-at-stanford-released-memorilla-a|Jure Leskovec's SNAP group at Stanford released Memorilla, a 194M-parameter module that compresses a whole document…]]
+- `2026-11-14` [[2026-11-14-google-research-says-teams-using-gemini-4-models-and-antigra|Google Research says teams using Gemini 4 models and Antigravity's /teamwork harness produced results in information…]]
+- `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
+- `2026-11-13` [[2026-11-13-november-12-2026-crypto-briefing|[November 12, 2026] · [Crypto Briefing]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-ars-technica|[November 12, 2026] · [Ars Technica]]]
+- `2026-11-13` [[2026-11-13-treasury-points-to-commerce-over-proposed-megaspeed-restrict|Treasury points to Commerce over proposed Megaspeed restrictions]]
 - `2026-11-13` [[2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur|Perplexity open-sources Decider v1.3, small models that return probabilities instead of text]]
+- `2026-11-13` [[2026-11-13-openai-redistributes-robotics-work-across-research-and-appli|OpenAI redistributes robotics work across research and applied teams]]
 - `2026-11-13` [[2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync|Open inference plumbing matures: Google open-sources TPU Sync and llama.cpp reaches 1.0]]
+- `2026-11-13` [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan|Nvidia’s startup-financing role faces uncertainty after Huang’s departure]]
 - `2026-11-13` [[2026-11-13-mit-s-design-copilot-lets-engineers-steer-ai-generated-struc|MIT's design copilot lets engineers steer AI-generated structures as they form]]
-- `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-the-courtad|Google's /teamwork multi-agent system helps prove the Courtade-Kumar conjecture, with proofs checked in Lean 4]]
-- `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-a-long-open|Google's /teamwork multi-agent system helps prove a long-open conjecture, with proofs checked in Lean 4]]
-- `2026-11-13` [[2026-11-13-ai2-s-xybench-finds-leading-models-rarely-correct-users-mist|AI2's XYBench finds leading models rarely correct users' mistaken assumptions]]
+- `2026-11-13` [[2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation|LangChain raises $300 million at a $3 billion valuation]]
+- `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-settle-long-open|Google's /teamwork multi-agent system helps settle long-open math problems, with proofs checked in Lean 4]]
 - `2026-11-12` [[2026-11-12-november-11-2026-google|[November 11, 2026] · [Google]]]
 - `2026-11-12` [[2026-11-12-mit-trains-faster-more-trustworthy-ai-climate-emulators-with|MIT trains faster, more trustworthy AI climate emulators with far less simulation data]]
 - `2026-11-12` [[2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear|Google's Gemini 4 Hydrogen becomes the fast default for Search and agent work]]

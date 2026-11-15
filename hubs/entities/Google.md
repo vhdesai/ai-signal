@@ -1,22 +1,30 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1829
+member_count: 1837
 ---
 
 # Google
 
-> Auto-generated entity hub. 1829 connected article(s).
+> Auto-generated entity hub. 1837 connected article(s).
 
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-google-research-says-teams-using-gemini-4-models-and-antigra|Google Research says teams using Gemini 4 models and Antigravity's /teamwork harness produced results in information…]]
+- `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-14` [[2026-11-14-all-u-s-gemini-app-users-can-now-connect-google-wallet-under|All U.S. Gemini app users can now connect Google Wallet under Personal Intelligence, with optional bank and card…]]
 - `2026-11-13` [[2026-11-13-november-13-2026-databricks|[November 13, 2026] · [Databricks]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-crypto-briefing|[November 12, 2026] · [Crypto Briefing]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-ars-technica|[November 12, 2026] · [Ars Technica]]]
+- `2026-11-13` [[2026-11-13-treasury-points-to-commerce-over-proposed-megaspeed-restrict|Treasury points to Commerce over proposed Megaspeed restrictions]]
+- `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
 - `2026-11-13` [[2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur|Perplexity open-sources Decider v1.3, small models that return probabilities instead of text]]
 - `2026-11-13` [[2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync|Open inference plumbing matures: Google open-sources TPU Sync and llama.cpp reaches 1.0]]
+- `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-settle-long-open|Google's /teamwork multi-agent system helps settle long-open math problems, with proofs checked in Lean 4]]
 - `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-the-courtad|Google's /teamwork multi-agent system helps prove the Courtade-Kumar conjecture, with proofs checked in Lean 4]]
 - `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-a-long-open|Google's /teamwork multi-agent system helps prove a long-open conjecture, with proofs checked in Lean 4]]
+- `2026-11-13` [[2026-11-13-chatgpt-wallet-lets-openai-s-agents-complete-purchases-with|ChatGPT Wallet lets OpenAI's agents complete purchases with tokenized cards as Gemini connects to Google Wallet]]
+- `2026-11-13` [[2026-11-13-anthropic-ipo-demand-meets-questions-about-durability|Anthropic IPO demand meets questions about durability]]
 - `2026-11-13` [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads|Agents get wallets: ChatGPT can now buy for you, Gemini reads your spending and banks scramble to keep up]]
 - `2026-11-12` [[2026-11-12-november-11-2026-google|[November 11, 2026] · [Google]]]
 - `2026-11-12` [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new|Pressure on frontier AI broadens: nonprofits sue to halt new models as Congress and the EU set agendas]]

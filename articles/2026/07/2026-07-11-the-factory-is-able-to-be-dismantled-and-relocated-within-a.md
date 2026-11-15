@@ -5,8 +5,8 @@ title: The factory is able to be dismantled and relocated within a day, in case 
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.europol.europa.eu/media-press/newsroom/news/fake-document-factory-dismantled-in-spain-around-800-ids-seized
+url_status: repaired
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: 90f56c95b9b3e2e46c62ccb319a711319e68fb4e5a96e83658723324702e4263
 normalized_title_hash: 7e04e52726276164

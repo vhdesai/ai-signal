@@ -5,8 +5,8 @@ title: 'China''s AI Self-Correction: ByteDance Cuts 30% of Doubao Projects, Tenc
 date: '2026-05-18'
 source: Forbes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theneuralfeed.com/article/bytedance-cuts-ai-projects-and-tencent-pivots-amidst-china-s-ai-self-correction/kNX4Fnn9
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: f165cf0118b007661c98c3d9b7eebea19f740efcdfc058559abb2cf3452f096d

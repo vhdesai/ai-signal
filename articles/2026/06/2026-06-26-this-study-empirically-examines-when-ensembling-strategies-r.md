@@ -5,8 +5,8 @@ title: This study empirically examines when ensembling strategies — routing, v
 date: '2026-06-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2606.27288
+url_status: repaired
 digest_source: digests\raw\2026-06-26_060327_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: c55bd13ce0cd4cb62fe65ac12d233db462d90fa5bfd6e8ff1c0c04cf5c5d200a

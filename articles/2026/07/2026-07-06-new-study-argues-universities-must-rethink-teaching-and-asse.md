@@ -5,8 +5,8 @@ title: New study argues universities must rethink teaching and assessment for an
 date: '2026-07-06'
 source: Phys.org
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.manchester.ac.uk/about/news/universities-must-rethink-how-they-prepare-students/
+url_status: repaired
 digest_source: digests\raw\2026-07-07_060820_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 6cda76152f638a6492e1bb78255ef2ddd66626f8c12796f6e2284e2bdae593bf

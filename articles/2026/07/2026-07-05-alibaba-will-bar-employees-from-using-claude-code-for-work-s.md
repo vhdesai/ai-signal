@@ -5,8 +5,8 @@ title: Alibaba will bar employees from using Claude Code for work starting July 
 date: '2026-07-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/
+url_status: repaired
 digest_source: digests\raw\2026-07-05_061041_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 3032ea4d72ad2874c7e400f869158bad1cf7af9f473cc598d7dd11cc9a6ca3ac

@@ -20,11 +20,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-drogue-raises-20-million-to-put-data-centers-on-ships-powere
 - 2026-08-19-terrapower-s-molten-salt-nuclear-reactor-has-a-secret-weapon
 - 2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 - 2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u
-- 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
 embedding_id: 2026-06-10-china-opens-world-s-first-wind-powered-underwater-data-cente
 event_name: ''
 ---
@@ -37,5 +37,5 @@ China opened the first wind-powered underwater data center, combining ocean cool
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-08-19-terrapower-s-molten-salt-nuclear-reactor-has-a-secret-weapon]] · [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u]] · [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]]
+**Related:** [[2026-11-13-drogue-raises-20-million-to-put-data-centers-on-ships-powere]] · [[2026-08-19-terrapower-s-molten-salt-nuclear-reactor-has-a-secret-weapon]] · [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u]]
 <!-- graph:end -->

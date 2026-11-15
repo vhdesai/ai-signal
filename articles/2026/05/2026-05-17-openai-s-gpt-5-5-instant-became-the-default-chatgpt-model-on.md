@@ -5,8 +5,8 @@ title: OpenAI's GPT-5.5 Instant became the default ChatGPT model on May 5, featu
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/gpt-5-5-instant/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 9954d82f2d12d8b9a32624ffe99e3d49b58c586c832db7c70d45b1c696d6792e

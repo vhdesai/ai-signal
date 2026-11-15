@@ -5,8 +5,8 @@ title: Notion turns its workspace into a hub for AI agents — TechCrunch, May 1
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 4043cd8dee2a956cef9d756b60ccace24c16280be4d3aa0b7efa89d5d7dbb3d6

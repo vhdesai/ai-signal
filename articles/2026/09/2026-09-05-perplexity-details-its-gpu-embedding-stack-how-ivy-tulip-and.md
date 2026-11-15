@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-09-05-perplexity-publishes-the-internals-of-its-gpu-embedding-serv
 - 2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed
 - 2026-09-19-linkup-releases-sparseup-a-149m-parameter-open-source-sparse
+- 2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and
 embedding_id: 2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Perplexity’s engineering team published an account of the serving infrastructu
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-05-perplexity-details-the-gpu-serving-stack-behind-pplx-embed]] · [[2026-09-05-perplexity-publishes-the-internals-of-its-gpu-embedding-serv]] · [[2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed]] · [[2026-09-19-linkup-releases-sparseup-a-149m-parameter-open-source-sparse]]
+**Related:** [[2026-09-05-perplexity-details-the-gpu-serving-stack-behind-pplx-embed]] · [[2026-09-05-perplexity-publishes-the-internals-of-its-gpu-embedding-serv]] · [[2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed]] · [[2026-09-19-linkup-releases-sparseup-a-149m-parameter-open-source-sparse]] · [[2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-25-perplexity-trains-its-computer-agent-on-real-mistakes-with-h
+- 2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and
 - 2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for
 - 2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
-- 2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit
 embedding_id: 2026-09-25-perplexity-trains-its-computer-use-agent-on-its-own-failures
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A Perplexity Research post-training study trains a model inside Perplexity Compu
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-25-perplexity-trains-its-computer-agent-on-real-mistakes-with-h]] · [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for]] · [[2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit]]
+**Related:** [[2026-09-25-perplexity-trains-its-computer-agent-on-real-mistakes-with-h]] · [[2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and]] · [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for]] · [[2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]]
 <!-- graph:end -->

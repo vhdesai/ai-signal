@@ -4,8 +4,8 @@ title: OpenAI announces AI infrastructure project in Effingham County, Georgia
 date: '2026-07-22'
 source: OpenAI Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community/
+url_status: repaired
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: 2fb92c8b77cd5dee7cc30029268d7fb52f23b67ecdaaab7e4bce28d2d17d7a81
 normalized_title_hash: 3e3ef692c206e274

@@ -5,8 +5,8 @@ title: Taiwanese prosecutors raided Super Micro Computer's Taiwan offices and tw
 date: '2026-06-30'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/319476/20260701/taiwan-raids-super-micro-widening-probe-alleged-nvidia-ai-server-smuggling.htm
+url_status: repaired
 digest_source: digests\raw\2026-06-30_060551_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: d8edc44098d51ecdddb098ab17f8a6cdf27715b4ef1a9ac86e97dc016ffdbea6

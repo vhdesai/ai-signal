@@ -5,8 +5,8 @@ title: EU AI Act High-Risk Enforcement Now in Effect; Global Compliance Complexi
 date: '2026-05-15'
 source: Various sources
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://informedclearly.com/en/ai/55723/eu-ai-act-high-risk-enforcement-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: f61782f87ed221b34af4fe8240abc2cde2add20aa787e0700ba4c7f18533a0e1

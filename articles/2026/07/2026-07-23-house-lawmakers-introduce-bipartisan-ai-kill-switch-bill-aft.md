@@ -5,8 +5,8 @@ title: House lawmakers introduce bipartisan AI “kill switch” bill after Open
 date: '2026-07-23'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://lieu.house.gov/media-center/in-the-news/house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-following-openai
+url_status: repaired
 digest_source: digests\raw\2026-07-25-daily-ai-news-digest.md
 content_hash: 3de6f64dc5027d53f85322216157c9b2cd8907c3549ba2a76504c2c410a50824
 normalized_title_hash: b1ecb403f40c8a18

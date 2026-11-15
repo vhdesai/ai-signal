@@ -4,8 +4,8 @@ title: China’s MiniMax Plans a 2.7-Trillion-Parameter Open-Weight Model
 date: '2026-07-08'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://economictimes.indiatimes.com/tech/technology/chinas-minimax-plans-to-launch-giant-2-7-trillion-parameter-model/articleshow/132263031.cms
+url_status: repaired
 digest_source: digests\raw\2026-07-08_062121_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 7f345686b37e0ce4638a1a6795e5ae325033c82b95ea4ebe1de38cb0483b27cc

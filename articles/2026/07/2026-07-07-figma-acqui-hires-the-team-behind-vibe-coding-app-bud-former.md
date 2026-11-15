@@ -4,8 +4,8 @@ title: Figma acqui-hires the team behind vibe-coding app Bud (formerly Orchids)
 date: '2026-07-07'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/
+url_status: repaired
 digest_source: digests\raw\2026-07-08_064841_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: ec438054eea83e492a4201d209e7404d7b77135c5e2ef41094cf63ab2d0ec560

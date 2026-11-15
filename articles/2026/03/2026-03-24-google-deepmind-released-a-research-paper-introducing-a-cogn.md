@@ -5,8 +5,8 @@ title: Google DeepMind released a research paper introducing a cognitive framewo
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/
+url_status: repaired
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 34f1b5f252d4f9821123f7d05343c6ed29a3bd2509035def0ca5a2461d05f8e0

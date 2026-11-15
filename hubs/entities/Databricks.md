@@ -1,16 +1,19 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 187
+member_count: 190
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 187 connected article(s).
+> Auto-generated entity hub. 190 connected article(s).
 
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-databricks|[November 13, 2026] · [Databricks]]]
+- `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
+- `2026-11-13` [[2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt|OpenAI and Databricks put governed company data into ChatGPT and Codex through Genie and Unity Gateway]]
 - `2026-11-13` [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch|OpenAI and Databricks bring governed enterprise data into ChatGPT as Perplexity's Teammates agents reach the Mac]]
+- `2026-11-13` [[2026-11-13-chatgpt-wallet-lets-openai-s-agents-complete-purchases-with|ChatGPT Wallet lets OpenAI's agents complete purchases with tokenized cards as Gemini connects to Google Wallet]]
 - `2026-11-11` [[2026-11-11-november-12-2026-cio-dive-2|[November 12, 2026] · [CIO Dive]]]
 - `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
 - `2026-11-11` [[2026-11-11-databricks-turns-genie-into-an-always-on-business-agent-as-t|Databricks turns Genie into an always-on business agent as the Linux Foundation backs an agent naming standard]]

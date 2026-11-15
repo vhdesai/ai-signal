@@ -4,8 +4,8 @@ title: OpenAI Unveils Five-Part 2026 Election Integrity and Cyber-Defense Plan B
 date: '2026-05-27'
 source: OpenAI  / Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/cybersecurity-in-the-intelligence-age/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: c43de54e2fecbcbdaca82eebde9025252ff3dd574c75ad1aaf83544a2a7ec987

@@ -4,8 +4,8 @@ title: Databricks reaches $188 billion valuation as AI infrastructure demand con
 date: '2026-07-17'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/
+url_status: repaired
 digest_source: digests\raw\2026-07-18-daily-ai-news-digest.md
 content_hash: b23c04bfeda5a29e88498f30305281b371c9cd4ffaa6c0dadc0a229435f7bb92
 normalized_title_hash: 03ba6e2fe2767e86

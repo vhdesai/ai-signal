@@ -4,8 +4,8 @@ title: OpenRouter reportedly fields multibillion-dollar takeover interest
 date: '2026-07-17'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fourweekmba.com/ai-openrouter-takeover-middleware-ai-stack/
+url_status: repaired
 digest_source: digests\raw\2026-07-18-daily-ai-news-digest.md
 content_hash: 7f36d4018971599e434c852ecf226d8c0dd3625d11372c9cca8800f66d6a0b44
 normalized_title_hash: 56bb1e866b028c99

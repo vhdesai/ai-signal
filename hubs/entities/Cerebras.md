@@ -1,15 +1,17 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 223
+member_count: 225
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 223 connected article(s).
+> Auto-generated entity hub. 225 connected article(s).
 
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-14` [[2026-11-14-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
+- `2026-11-14` [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch|Cerebras says its next-generation WSE-5 chip is ahead of schedule, with CS-5 systems due in early summer 2027]]
+- `2026-11-13` [[2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt|OpenAI and Databricks put governed company data into ChatGPT and Codex through Genie and Unity Gateway]]
 - `2026-11-13` [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro|AI infrastructure finance matures: compute futures near approval, Cerebras pulls in WSE-5 and capital chases off-grid power]]
 - `2026-11-12` [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not|Cerebras lands Microsoft and raises guidance as delivery, not demand, becomes the bottleneck for neoclouds]]
 - `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]

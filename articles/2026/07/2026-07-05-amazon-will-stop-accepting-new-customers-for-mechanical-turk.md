@@ -4,8 +4,8 @@ title: Amazon will stop accepting new customers for Mechanical Turk
 date: '2026-07-05'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/
+url_status: repaired
 digest_source: digests\raw\2026-07-06_060000_Daily-AI-News-Digest.md
 content_hash: 8d468df03cda639e988ea7b3521682787e2ab66cb262d4d13e1102b9953df673
 normalized_title_hash: 509052f1bef83efc

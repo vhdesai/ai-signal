@@ -5,8 +5,8 @@ title: Alibaba & Tencent Signal AI Spending Surge Despite Earnings Pressure as H
 date: '2026-05-14'
 source: South China Morning Post
 url_original: null
-url_canonical: https://article.wn.com/view/2026/05/14/Alibaba_Tencent_signal_AI_spending_surge_despite_earnings_pr/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: cbfe17ef5cc6a88eb981ba2bb463edfa2e4e44516a724f64c6b17b808a53b707

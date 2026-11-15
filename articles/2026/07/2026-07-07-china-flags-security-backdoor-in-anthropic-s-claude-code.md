@@ -4,8 +4,8 @@ title: China Flags "Security Backdoor" in Anthropic's Claude Code
 date: '2026-07-07'
 source: Multiple sources; WSJ Pro Cybersecurity
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techrepublic.com/article/news-china-claude-code-backdoor-security-risk-apac/
+url_status: repaired
 digest_source: digests\raw\2026-07-08_074500_Inbox_Daily AI News Digest – July 8,
   2026.md
 content_hash: c6b72c6cd7361e87aa4f0740e706124bb60ea88785cc86e13e0067fe230a36f6

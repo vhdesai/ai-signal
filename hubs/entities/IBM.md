@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 221
+member_count: 224
 ---
 
 # IBM
 
-> Auto-generated entity hub. 221 connected article(s).
+> Auto-generated entity hub. 224 connected article(s).
 
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
+- `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-13` [[2026-11-13-november-12-2026-wall-street-journal|[November 12, 2026] · [Wall Street Journal]]]
 - `2026-11-12` [[2026-11-12-november-12-2026-siliconangle|[November 12, 2026] · [SiliconANGLE]]]
 - `2026-11-12` [[2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi|Agent infrastructure draws capital: LangChain doubles to $3 billion and IBM buys AuthMind for agent identity]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
