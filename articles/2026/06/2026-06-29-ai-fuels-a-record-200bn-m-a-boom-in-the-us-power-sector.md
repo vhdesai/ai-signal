@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-17-cybersecurity-m-a-heads-for-record-year-as-ai-security-start
 - 2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline
 - 2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import
+- 2026-11-16-insurers-hold-85-billion-of-ai-debt-as-data-centers-drive-a
 - 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
-- 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
 embedding_id: 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Financial Times reports a record ~$200B in M&A across the U.S. power and uti
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-17-cybersecurity-m-a-heads-for-record-year-as-ai-security-start]] · [[2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline]] · [[2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]]
+**Related:** [[2026-07-17-cybersecurity-m-a-heads-for-record-year-as-ai-security-start]] · [[2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline]] · [[2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import]] · [[2026-11-16-insurers-hold-85-billion-of-ai-debt-as-data-centers-drive-a]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]]
 <!-- graph:end -->

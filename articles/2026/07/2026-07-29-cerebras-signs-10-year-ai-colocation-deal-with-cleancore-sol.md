@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc
 - 2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center
+- 2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a
 - 2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability
 - 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
-- 2026-09-02-cerebras-breaks-ground-on-a-165mw-data-center-in-mikkeli-fin
 embedding_id: 2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol
 event_name: ''
 ---
@@ -41,5 +41,5 @@ CleanCore Solutions (NYSE American: ZONE) signed a 10-year colocation agreement 
 
 **Entities:** [[Cerebras]] · [[Scale AI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc]] · [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center]] · [[2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability]] · [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]] · [[2026-09-02-cerebras-breaks-ground-on-a-165mw-data-center-in-mikkeli-fin]]
+**Related:** [[2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc]] · [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center]] · [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a]] · [[2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability]] · [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]]
 <!-- graph:end -->

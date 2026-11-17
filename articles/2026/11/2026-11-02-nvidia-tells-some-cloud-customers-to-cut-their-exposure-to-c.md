@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 - 2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat
-- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
+- 2026-11-14-asian-governments-move-to-lock-in-nvidia-commitments-after-h
 embedding_id: 2026-11-02-nvidia-tells-some-cloud-customers-to-cut-their-exposure-to-c
 event_name: ''
 ---
@@ -40,5 +40,5 @@ According to three people familiar with the matter, Nvidia recently told some cl
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-11-03-nvidia-tells-cloud-partners-to-limit-future-business-with-ch]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
+**Related:** [[2026-11-03-nvidia-tells-cloud-partners-to-limit-future-business-with-ch]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat]] · [[2026-11-14-asian-governments-move-to-lock-in-nvidia-commitments-after-h]]
 <!-- graph:end -->

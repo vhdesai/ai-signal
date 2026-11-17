@@ -4,8 +4,8 @@ title: White House plans to redirect billions in research funds toward AI
 date: '2026-07-21'
 source: WSJ
 url_original: null
-url_canonical: https://scibeat.com/articles/white-house-plans-major-redirect-of-research-funds-toward-ai-9d1378a9
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: cfbeaa2f51f585077c5e7e99971c9bf142270800272ff3187480f989b0b87e54
 normalized_title_hash: a5610e81204fc4a8

@@ -40,11 +40,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern
 - 2026-11-07-us-intelligence-memo-reportedly-says-china-recruited-a-tech
+- 2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval
 - 2026-11-08-november-9-2026-wall-street-journal-wsj-politics
 - 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
-- 2026-11-08-november-7-2026-techcrunch
-- 2026-10-01-openai-parts-ways-with-three-safety-researchers
 embedding_id: 2026-11-07-intelligence-memo-alleges-recruitment-to-spy-on-nvidia-s-ceo
 event_name: ''
 ---
@@ -58,5 +58,5 @@ TechCrunch reports a U.S. intelligence memo alleging China recruited a Megaspeed
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-11-07-us-intelligence-memo-reportedly-says-china-recruited-a-tech]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-11-08-november-7-2026-techcrunch]] · [[2026-10-01-openai-parts-ways-with-three-safety-researchers]]
+**Related:** [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern]] · [[2026-11-07-us-intelligence-memo-reportedly-says-china-recruited-a-tech]] · [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]]
 <!-- graph:end -->

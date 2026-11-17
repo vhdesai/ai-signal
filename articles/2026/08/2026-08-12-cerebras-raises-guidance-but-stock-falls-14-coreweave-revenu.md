@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14
 - 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
+- 2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a
 - 2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not
-- 2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai
 embedding_id: 2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Two infrastructure earnings in one day paint a nuanced picture. Cerebras raised 
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not]] · [[2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai]]
+**Related:** [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a]] · [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not]]
 <!-- graph:end -->

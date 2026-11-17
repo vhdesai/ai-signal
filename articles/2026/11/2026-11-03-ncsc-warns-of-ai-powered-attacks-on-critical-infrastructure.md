@@ -43,9 +43,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks
 - 2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy
+- 2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a
 - 2026-10-23-security-leaders-warn-of-faster-flaw-discovery
 - 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
-- 2026-11-14-november-13-2026-wsj-pro-cybersecurity
 embedding_id: 2026-11-03-ncsc-warns-of-ai-powered-attacks-on-critical-infrastructure
 event_name: ''
 ---
@@ -59,5 +59,5 @@ Official date only; corroborating reporting appeared at 00:01 UTC November 3 NCS
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks]] · [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy]] · [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]] · [[2026-11-14-november-13-2026-wsj-pro-cybersecurity]]
+**Related:** [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks]] · [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy]] · [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a]] · [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]]
 <!-- graph:end -->

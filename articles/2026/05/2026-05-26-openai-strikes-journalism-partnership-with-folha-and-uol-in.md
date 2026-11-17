@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: OpenAI / WinBuzzer
 url_original: https://openai.com/index/grupo-folha-grupo-uol-partnership/
 url_canonical: https://openai.com/index/grupo-folha-grupo-uol-partnership/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 4d91aed7b9de339a033dbf703812d4f0202ea29f178484f8035d6e2cb47e0b88
@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi
+- 2026-11-16-lvmh-s-media-group-partners-with-openai-on-newsroom-tools-an
+- 2026-11-16-openai-s-lvmh-media-agreement-joins-enterprise-adoption-with
+- 2026-11-16-openai-signs-lvmh-s-media-group-bringing-les-echos-and-le-pa
 - 2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal
-- 2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan
-- 2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries
-- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 embedding_id: 2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenAI's first media partnership in Brazil surfaces attributed Folha/UOL summari
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi]] · [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]] · [[2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan]] · [[2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]]
+**Related:** [[2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi]] · [[2026-11-16-lvmh-s-media-group-partners-with-openai-on-newsroom-tools-an]] · [[2026-11-16-openai-s-lvmh-media-agreement-joins-enterprise-adoption-with]] · [[2026-11-16-openai-signs-lvmh-s-media-group-bringing-les-echos-and-le-pa]] · [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]]
 <!-- graph:end -->

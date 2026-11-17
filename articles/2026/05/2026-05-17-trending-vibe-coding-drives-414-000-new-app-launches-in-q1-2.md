@@ -5,8 +5,8 @@ title: 💜 TRENDING "Vibe Coding" Drives 414,000 New App Launches in Q1 2026 �
 date: '2026-05-17'
 source: The Eastern Herald
 url_original: null
-url_canonical: https://www.taskade.com/blog/state-of-vibe-coding
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070520_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 35c95c0aaf57d6aad252283045de1f954ee6e24ddace2ab27caca9e7eff7875a

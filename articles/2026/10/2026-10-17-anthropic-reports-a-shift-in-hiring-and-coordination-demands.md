@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-17-anthropic-report-says-ai-heavy-workflows-are-changing-hiring
 - 2026-10-18-anthropic-says-junior-hiring-has-fallen-as-ai-agents-log-6x
+- 2026-11-11-anthropic-study-finds-coordination-costs-when-users-delegate
 embedding_id: 2026-10-17-anthropic-reports-a-shift-in-hiring-and-coordination-demands
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Anthropic’s junior technical hiring share fell from 27% to 9%; meeting time ro
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-17-anthropic-report-says-ai-heavy-workflows-are-changing-hiring]] · [[2026-10-18-anthropic-says-junior-hiring-has-fallen-as-ai-agents-log-6x]]
+**Related:** [[2026-10-17-anthropic-report-says-ai-heavy-workflows-are-changing-hiring]] · [[2026-10-18-anthropic-says-junior-hiring-has-fallen-as-ai-agents-log-6x]] · [[2026-11-11-anthropic-study-finds-coordination-costs-when-users-delegate]]
 <!-- graph:end -->

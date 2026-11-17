@@ -1,18 +1,31 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 3018
+member_count: 3041
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 3018 connected article(s).
+> Auto-generated entity hub. 3041 connected article(s).
 
+- `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]
+- `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-16` [[2026-11-16-openai-s-lvmh-media-agreement-joins-enterprise-adoption-with|OpenAI’s LVMH media agreement joins enterprise adoption with content access]]
+- `2026-11-16` [[2026-11-16-openai-signs-lvmh-s-media-group-bringing-les-echos-and-le-pa|OpenAI signs LVMH's media group, bringing Les Echos and Le Parisien journalism into ChatGPT]]
+- `2026-11-16` [[2026-11-16-openai-explored-a-5-billion-plus-acquisition-of-goodfire-a-s|OpenAI explored a $5 billion-plus acquisition of Goodfire, a startup that decodes how AI models think]]
+- `2026-11-16` [[2026-11-16-lvmh-s-media-group-partners-with-openai-on-newsroom-tools-an|LVMH’s media group partners with OpenAI on newsroom tools and linked journalism]]
+- `2026-11-16` [[2026-11-16-insurers-hold-85-billion-of-ai-debt-as-data-centers-drive-a|Insurers hold $85 billion of AI debt as data centers drive a record quarter for climate tech VC]]
+- `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-15` [[2026-11-15-san-francisco-declaration-outlines-international-ai-security|San Francisco declaration outlines international AI security and infrastructure cooperation]]
+- `2026-11-15` [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in|Megaspeed opens internal probe and says Alice Huang left in 2025]]
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-scotland-s-ai-build-out-faces-organized-public-opposition|Scotland’s AI build-out faces organized public opposition]]
 - `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-14` [[2026-11-14-gemini-4-carbon-takes-the-matharena-crown-but-at-15-times-gp|Gemini 4 Carbon takes the MathArena crown, but at 15 times GPT-6.1 Sol's cost]]
 - `2026-11-14` [[2026-11-14-former-openai-researcher-will-depue-analyzed-open-weights-fr|Former OpenAI researcher Will DePue analyzed open weights from DeepSeek, Moonshot, MiniMax and Ant Group and reports…]]
 - `2026-11-14` [[2026-11-14-chatgpt-wallet-lets-openai-s-dots-agents-buy-on-a-user-s-beh|ChatGPT Wallet lets OpenAI's dots agents buy on a user's behalf using tokenized card credentials, so neither the agent…]]
 - `2026-11-14` [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch|Cerebras says its next-generation WSE-5 chip is ahead of schedule, with CS-5 systems due in early summer 2027]]
+- `2026-11-14` [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern|Analysis: Nvidia controversy raises executive-security governance questions]]
 - `2026-11-14` [[2026-11-14-all-u-s-gemini-app-users-can-now-connect-google-wallet-under|All U.S. Gemini app users can now connect Google Wallet under Personal Intelligence, with optional bank and card…]]
 - `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-wall-street-journal-2|[November 13, 2026] · [Wall Street Journal]]]
@@ -28,21 +41,31 @@ member_count: 3018
 - `2026-11-13` [[2026-11-13-openai-folds-its-robotics-team-into-research-and-applied-gro|OpenAI folds its robotics team into research and applied groups, betting general models can run robots]]
 - `2026-11-13` [[2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt|OpenAI and Databricks put governed company data into ChatGPT and Codex through Genie and Unity Gateway]]
 - `2026-11-13` [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch|OpenAI and Databricks bring governed enterprise data into ChatGPT as Perplexity's Teammates agents reach the Mac]]
+- `2026-11-13` [[2026-11-13-openai-unveils-daybreak-red-team-defense-factory-security-to|OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools]]
 - `2026-11-13` [[2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni|Nvidia's succession search turns to Arm's Rene Haas as earnings put Kress's financing stance to the test]]
 - `2026-11-13` [[2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil|Microsoft apologizes after prolonged Microsoft 365 and Copilot disruption]]
+- `2026-11-13` [[2026-11-13-malaysia-denies-clearing-megaspeed-checks-for-illegal-chip-r|Malaysia denies clearing Megaspeed, checks for illegal chip re-exports]]
 - `2026-11-13` [[2026-11-13-forensic-analysis-of-model-weights-suggests-deepseek-v4-and|Forensic analysis of model weights suggests DeepSeek V4 and Kimi K3 were trained on export-banned Blackwell chips]]
 - `2026-11-13` [[2026-11-13-chatgpt-wallet-lets-openai-s-agents-complete-purchases-with|ChatGPT Wallet lets OpenAI's agents complete purchases with tokenized cards as Gemini connects to Google Wallet]]
+- `2026-11-13` [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a|Cerebras signs Microsoft as its third hyperscaler customer and raises guidance, but its OpenAI capacity is late]]
 - `2026-11-13` [[2026-11-13-anthropic-s-roadshow-draws-wall-street-s-largest-investors-a|Anthropic's roadshow draws Wall Street's largest investors as orders from China are reportedly rebuffed]]
 - `2026-11-13` [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads|Agents get wallets: ChatGPT can now buy for you, Gemini reads your spending and banks scramble to keep up]]
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-12` [[2026-11-12-the-fireworks-ai-breach-reached-notion-ai-chat-transcripts-s|The Fireworks AI breach reached Notion AI chat transcripts, showing how inference-vendor incidents spread]]
 - `2026-11-12` [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti|SpaceX's AI arm plans $74 billion of data centers while cutting most of the Grok video team]]
 - `2026-11-12` [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new|Pressure on frontier AI broadens: nonprofits sue to halt new models as Congress and the EU set agendas]]
 - `2026-11-12` [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as|OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand]]
+- `2026-11-12` [[2026-11-12-openai-raises-15-billion-at-a-1-25-trillion-valuation-half-t|OpenAI raises $15 billion at a $1.25 trillion valuation, half the amount it sought]]
+- `2026-11-12` [[2026-11-12-nonprofits-sue-anthropic-google-meta-openai-and-spacex-s-ai|Nonprofits sue Anthropic, Google, Meta, OpenAI, and SpaceX's AI unit to halt new frontier models]]
+- `2026-11-12` [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval|Lawmakers seek records on Nvidia's China chip-sales approvals]]
 - `2026-11-12` [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not|Cerebras lands Microsoft and raises guidance as delivery, not demand, becomes the bottleneck for neoclouds]]
 - `2026-11-12` [[2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine|AI raises the stakes on both sides of security as free Chinese models, deepfakes and vendor breaches spread]]
 - `2026-11-11` [[2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights|United Airlines bans personal AI agents from booking flights as gatekeepers push back on consumer agents]]
+- `2026-11-11` [[2026-11-11-trending-openai-s-reported-quarterly-revenue-exceeds-10-bill|Trending OpenAI’s reported quarterly revenue exceeds $10 billion]]
 - `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
+- `2026-11-11` [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a|Reported U.S. rule would restrict remote access to advanced AI chips]]
 - `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
+- `2026-11-11` [[2026-11-11-cornell-names-leadership-for-independent-new-york-ai-safety|Cornell names leadership for independent New York AI-safety evaluations]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-3|[November 9, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-prime-minister-of-canada|[November 9, 2026] · [Prime Minister of Canada]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-wall-street-journal-3|[November 10, 2026] · [Wall Street Journal]]]

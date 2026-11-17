@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-06-the-data-center-backlash-goes-transatlantic-as-protesters-st
 - 2026-11-06-the-data-center-backlash-goes-transatlantic-as-ai-companies
+- 2026-11-15-november-14-2026-wall-street-journal
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-11-08-november-8-2026-financial-times-via-yahoo-finance
-- 2026-11-07-lender-moves-to-sell-half-a-billion-dollars-of-data-center-l
 embedding_id: 2026-11-06-november-6-2026-wall-street-journal
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Wall Street Journal reports AI companies are scrambling to navigate a world 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-protesters-st]] · [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-ai-companies]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance]] · [[2026-11-07-lender-moves-to-sell-half-a-billion-dollars-of-data-center-l]]
+**Related:** [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-protesters-st]] · [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-ai-companies]] · [[2026-11-15-november-14-2026-wall-street-journal]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-31-apple-schedules-a-staged-apple-intelligence-rollout-in-china
 - 2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab
+- 2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a
 - 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
 - 2026-07-16-apple-intelligence-cleared-for-china-with-alibaba-s-qwen-and
-- 2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op
 embedding_id: 2026-10-31-apple-schedules-a-staged-china-ai-rollout
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Timing exception: Outside the strict 24-hour window, but within 48 hours. The or
 
 **Entities:** [[Alibaba]] · [[Apple]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-10-31-apple-schedules-a-staged-apple-intelligence-rollout-in-china]] · [[2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-07-16-apple-intelligence-cleared-for-china-with-alibaba-s-qwen-and]] · [[2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op]]
+**Related:** [[2026-10-31-apple-schedules-a-staged-apple-intelligence-rollout-in-china]] · [[2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab]] · [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-07-16-apple-intelligence-cleared-for-china-with-alibaba-s-qwen-and]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: MIT's ultra-efficient chip lets tiny robots map their world on an LED's w
 date: '2026-06-23'
 source: Tech Xplore
 url_original: null
-url_canonical: https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-24_060529_Inbox_Daily AI News Digest - June 24,
   2026.md
 content_hash: fb20b81b4cbba0388e72d8ba5cf0986ab59b3be960aa755229ca2acdac49a64e

@@ -5,8 +5,8 @@ title: CMU at ICLR 2026 (194 papers) introduced the Agent Data Protocol (ADP) â€
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://arxiv.org/abs/2510.24702
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest â€“ May 17,
   2026.md
 content_hash: 0da1682c7d60148a729079e58d53d31f289709e5f8b98c1f68f4ed07f65043c2

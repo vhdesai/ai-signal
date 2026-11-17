@@ -4,8 +4,8 @@ title: Nvidia Positions Vera CPU for the Agentic Era, Previews Next-Gen Rosa CPU
 date: '2026-07-07'
 source: NVIDIA Blog
 url_original: null
-url_canonical: https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_074231_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 789ac53812acad4f9d21fbf09ed8fa18bb679cfd293f737ca1bfa03581925dbe

@@ -4,8 +4,8 @@ title: SpaceX secures a $6.3B compute deal from AI startup Reflection
 date: '2026-06-23'
 source: DataCenterDynamics
 url_original: null
-url_canonical: https://www.datacenterdynamics.com/en/news/spacex-secures-63bn-compute-capacity-deal-from-ai-startup-reflection/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-24_060529_Inbox_Daily AI News Digest - June 24,
   2026.md
 content_hash: f0cc0ee5831f904da268fb01ada56a57049a2f4b2ebd052e8aea8bab38502291

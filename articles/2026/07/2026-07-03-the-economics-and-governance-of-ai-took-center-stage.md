@@ -4,8 +4,8 @@ title: The economics and governance of AI took center stage
 date: '2026-07-03'
 source: 'Source window: Jul 2, 06:12 – Jul 3, 06:12 PDT'
 url_original: null
-url_canonical: https://link.springer.com/journal/10101
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 85eda5439df36e31b25d69446cbb93f7d908dbb0a6a30f6861c7fbbed622f891

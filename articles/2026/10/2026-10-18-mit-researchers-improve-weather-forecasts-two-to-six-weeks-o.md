@@ -30,10 +30,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-14-machine-learning-corrections-target-the-subseasonal-weather
+- 2026-11-12-new-research-could-lead-to-faster-trustworthy-ai-models-for
 - 2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op
+- 2026-11-12-mit-explores-more-data-efficient-training-for-ai-climate-emu
 - 2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio
 embedding_id: 2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o
 event_name: ''
 ---
@@ -47,5 +47,5 @@ MIT Energy Initiative reports researchers improved weather forecasts looking two
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-10-14-machine-learning-corrections-target-the-subseasonal-weather]] · [[2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op]] · [[2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio]]
+**Related:** [[2026-10-14-machine-learning-corrections-target-the-subseasonal-weather]] · [[2026-11-12-new-research-could-lead-to-faster-trustworthy-ai-models-for]] · [[2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op]] · [[2026-11-12-mit-explores-more-data-efficient-training-for-ai-climate-emu]] · [[2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools]]
 <!-- graph:end -->

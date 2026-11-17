@@ -4,8 +4,8 @@ title: Apple researchers evaluate uncertainty for LLM function-calling safety
 date: '2026-07-15'
 source: Apple Machine Learning Research
 url_original: null
-url_canonical: https://machinelearning.apple.com/research/uncertainty-quantification-function-calling
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-16-daily-ai-news-digest.md
 content_hash: 197ef52554097b544759fe1aadafcc9ddc6332ea51a75d93325ed0d8b45228e6
 normalized_title_hash: 20e051e98a36f395

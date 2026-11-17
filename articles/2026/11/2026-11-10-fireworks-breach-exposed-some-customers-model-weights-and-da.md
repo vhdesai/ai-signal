@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-11-10-fireworks-discloses-attackers-accessed-customer-model-weight
 - 2026-11-09-ai-infrastructure-becomes-a-target-fireworks-breach-exposes
 - 2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf
+- 2026-11-12-the-fireworks-ai-breach-reached-notion-ai-chat-transcripts-s
 embedding_id: 2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Fireworks, which runs and trains open-source models for developers, disclosed on
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-11-10-fireworks-discloses-attackers-accessed-customer-model-weight]] · [[2026-11-09-ai-infrastructure-becomes-a-target-fireworks-breach-exposes]] · [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf]]
+**Related:** [[2026-11-10-fireworks-discloses-attackers-accessed-customer-model-weight]] · [[2026-11-09-ai-infrastructure-becomes-a-target-fireworks-breach-exposes]] · [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf]] · [[2026-11-12-the-fireworks-ai-breach-reached-notion-ai-chat-transcripts-s]]
 <!-- graph:end -->

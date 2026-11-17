@@ -5,8 +5,8 @@ title: 'Needle: open-source project distills Gemini tool calling into a 26M-para
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://cactuscompute.com/blog/needle
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: bf34b1f4ba16652144de512fc304b1b470e36fc0f919f1b30405756e056bce9f
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 - 2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for
+- 2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl
 - 2026-05-19-google-gemini-3-1-ultra-2m-token-context-native-multimodal-b
-- 2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability
 embedding_id: 2026-05-14-needle-open-source-project-distills-gemini-tool-calling-into
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Needle: open-source project distills Gemini tool calling into a 26M-parameter mo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for]] · [[2026-05-19-google-gemini-3-1-ultra-2m-token-context-native-multimodal-b]] · [[2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability]]
+**Related:** [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for]] · [[2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl]] · [[2026-05-19-google-gemini-3-1-ultra-2m-token-context-native-multimodal-b]]
 <!-- graph:end -->

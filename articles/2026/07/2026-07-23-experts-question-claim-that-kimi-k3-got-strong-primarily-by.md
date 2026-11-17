@@ -5,8 +5,8 @@ title: Experts question claim that Kimi K3 got strong primarily by distilling An
 date: '2026-07-23'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-23-daily-ai-news-digest.md
 content_hash: bd835f7437c37277bb06a6d2084306302695a5ea10ec37ca90803a2e6e4b1fa0
 normalized_title_hash: 9f3ce5b8044c9b4b

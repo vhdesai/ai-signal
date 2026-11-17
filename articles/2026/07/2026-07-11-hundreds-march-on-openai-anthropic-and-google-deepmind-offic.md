@@ -4,8 +4,8 @@ title: Hundreds march on OpenAI, Anthropic, and Google DeepMind offices in San F
 date: '2026-07-11'
 source: Mission Local
 url_original: null
-url_canonical: https://missionlocal.org/2026/07/san-francisco-protest-ai-openai-anthropic-google/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_060920_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 95e23384b95a179adfe669d555275d872c78881f1dfbe592bacff23f9dfb42d7

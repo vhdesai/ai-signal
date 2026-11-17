@@ -4,8 +4,8 @@ title: OpenAI announces Project Camellia, a $30B Georgia data-center buildout
 date: '2026-07-22'
 source: Multiple sources
 url_original: null
-url_canonical: https://www.techtimes.com/articles/321460/20260724/openai-locks-32-gigawatts-georgia-data-center-despite-public-backlash.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: 3411be2b6b182a31c2bdfa073b38fd7b73ecc0f7e969eace6819855f070c0625
 normalized_title_hash: 2d235f930c6ab1a6

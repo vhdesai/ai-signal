@@ -4,8 +4,8 @@ title: 'Capex Outpaces the Frontier: Alphabet''s Guide and OpenAI''s Bet'
 date: '2026-07-23'
 source: 'Source window: last 24 hours'
 url_original: null
-url_canonical: https://www.nextgig.rocks/dash/ai-tracker/company/openai
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-23_062528_Inbox_Daily AI News Digest - July 23,
   2026.md
 content_hash: 7825ce48237406dcad56e983e02c11dec27d17ec56f2765993fdb48f99ee7e36

@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-20-tsmc-accelerates-arizona-buildout-to-capture-the-ai-megatren
+- 2026-11-14-asian-governments-emphasize-continuity-in-nvidia-infrastruct
 - 2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained
 - 2026-11-08-power-and-memory-bottlenecks-bite-used-turbines-a-norwegian
 - 2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi
-- 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
 embedding_id: 2026-07-29-tsmc-gradually-resumes-japan-operations-after-earthquake
 event_name: ''
 ---
@@ -41,5 +41,5 @@ TSMC said it is gradually resuming operations at its Kumamoto, Japan, plant afte
 
 **Entities:** [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-07-20-tsmc-accelerates-arizona-buildout-to-capture-the-ai-megatren]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-11-08-power-and-memory-bottlenecks-bite-used-turbines-a-norwegian]] · [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi]] · [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]]
+**Related:** [[2026-07-20-tsmc-accelerates-arizona-buildout-to-capture-the-ai-megatren]] · [[2026-11-14-asian-governments-emphasize-continuity-in-nvidia-infrastruct]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-11-08-power-and-memory-bottlenecks-bite-used-turbines-a-norwegian]] · [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi]]
 <!-- graph:end -->

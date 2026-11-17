@@ -22,11 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear
+- 2026-11-12-google-releases-gemini-4-hydrogen-as-its-fast-daily-driver-f
+- 2026-11-12-new-google-introduces-gemini-4-hydrogen-its-fast-lower-cost
 - 2026-10-28-october-29-2026-the-information
 - 2026-11-12-november-11-2026-google
-- 2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e
-- 2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip
 embedding_id: 2026-11-13-november-12-2026-ars-technica
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Google released Gemini 4 Hydrogen immediately rather than in stages, replacing G
 
 **Entities:** [[Google]] · [[Perplexity]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear]] · [[2026-10-28-october-29-2026-the-information]] · [[2026-11-12-november-11-2026-google]] · [[2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e]] · [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]]
+**Related:** [[2026-11-12-google-releases-gemini-4-hydrogen-as-its-fast-daily-driver-f]] · [[2026-11-12-new-google-introduces-gemini-4-hydrogen-its-fast-lower-cost]] · [[2026-10-28-october-29-2026-the-information]] · [[2026-11-12-november-11-2026-google]]
 <!-- graph:end -->

@@ -4,27 +4,30 @@ title: Baidu launches ERNIE 5.5 Flash Preview and a Token Exchange marketplace f
   model services
 date: '2026-11-12'
 source: '[Baidu via PR Newswire]'
-url_original: https://www.prnewswire.com/news-releases/baidu-unveils-latest-ernie-models-amid-broader-full-stack-ai-lineup-and-debuts-token-exchange-to-power-intelligent-organizations-302937959.html
-url_canonical: https://www.prnewswire.com/news-releases/baidu-unveils-latest-ernie-models-amid-broader-full-stack-ai-lineup-and-debuts-token-exchange-to-power-intelligent-organizations-302937959.html
-url_status: ok
-digest_source: digests\raw\2026-11-12_065919_Final-Daily-AI-News-Digest.md
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-11-12_070930_Inbox_Daily AI News Digest - November
+  12, 2026.md
 content_hash: ff5bcb4537b88c72fbd34f27bf5fb4f3d691d98af5640d341f3f3ac3e1a53193
 normalized_title_hash: e33d1fb4a0d7798b
-canonical_url_hash: cf50c772431ffecc
+canonical_url_hash: ''
 tags:
 - New
 entities:
 - Baidu
+- Google
 themes:
+- datacenter-infrastructure
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-12-baidu-pairs-ernie-5-5-flash-preview-with-a-wider-enterprise
 - 2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base
 - 2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to
 - 2026-11-09-baidu-introduces-ernie-evolve-for-automated-research
-- 2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra
 embedding_id: 2026-11-12-baidu-launches-ernie-5-5-flash-preview-and-a-token-exchange
 event_name: ''
 ---
@@ -36,7 +39,7 @@ At Baidu World 2026, Baidu introduced ERNIE 5.5 Flash Preview, a mixture-of-expe
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[Baidu]]
-**Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base]] · [[2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to]] · [[2026-11-09-baidu-introduces-ernie-evolve-for-automated-research]] · [[2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra]]
+**Entities:** [[Baidu]] · [[Google]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Related:** [[2026-11-12-baidu-pairs-ernie-5-5-flash-preview-with-a-wider-enterprise]] · [[2026-11-05-baidu-released-downloadable-weights-for-ernie-5-5-flash-base]] · [[2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to]] · [[2026-11-09-baidu-introduces-ernie-evolve-for-automated-research]]
 <!-- graph:end -->

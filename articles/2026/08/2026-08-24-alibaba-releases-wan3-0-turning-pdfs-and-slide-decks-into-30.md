@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
+- 2026-11-16-november-16-2026-theprint-citing-bloomberg
 - 2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim
 - 2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability
 embedding_id: 2026-08-24-alibaba-releases-wan3-0-turning-pdfs-and-slide-decks-into-30
@@ -39,5 +40,5 @@ Alibaba’s Tongyi Lab released Wan3.0, a video model that generates 30-second s
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]] · [[2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim]] · [[2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability]]
+**Related:** [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]] · [[2026-11-16-november-16-2026-theprint-citing-bloomberg]] · [[2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim]] · [[2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability]]
 <!-- graph:end -->

@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
+- 2026-11-15-bharat-semi-raises-24-million-for-programmable-ai-sensor-chi
 - 2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val
 - 2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua
-- 2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val
 embedding_id: 2026-09-01-indian-ai-chip-startup-agrani-labs-raising-50m-at-up-to-200m
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Bengaluru-based Agrani Labs, founded by former Intel and AMD executives, is in a
 
 **Entities:** [[AMD]] · [[Intel]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val]] · [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua]] · [[2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val]]
+**Related:** [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-11-15-bharat-semi-raises-24-million-for-programmable-ai-sensor-chi]] · [[2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val]] · [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua]]
 <!-- graph:end -->

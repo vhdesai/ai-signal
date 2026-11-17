@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not
+- 2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a
+- 2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an
 - 2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch
 - 2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu
-- 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
 embedding_id: 2026-11-14-november-12-2026-techcrunch
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Cerebras reported core revenue up 70% to $230.9 million, an unexpected adjusted 
 
 **Entities:** [[Cerebras]] · [[IBM]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not]] · [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]]
+**Related:** [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not]] · [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a]] · [[2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an]] · [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]]
 <!-- graph:end -->

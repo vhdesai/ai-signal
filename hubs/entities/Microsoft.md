@@ -1,28 +1,47 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1161
+member_count: 1180
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1161 connected article(s).
+> Auto-generated entity hub. 1180 connected article(s).
 
+- `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-16` [[2026-11-16-cios-draw-lessons-from-the-microsoft-365-outage-as-compute-s|CIOs draw lessons from the Microsoft 365 outage as compute strain threatens more disruptions]]
+- `2026-11-15` [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in|Megaspeed opens internal probe and says Alice Huang left in 2025]]
+- `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900b-in-sp|Anthropic heads into Thursday's Nasdaq debut with $900B+ in spending commitments]]
+- `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900-billio|Anthropic heads into Thursday's Nasdaq debut with $900 billion in commitments and a $104 billion nine-month loss]]
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-14` [[2026-11-14-november-13-2026-dealbook|[November 13, 2026] · [DealBook]]]
 - `2026-11-14` [[2026-11-14-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
 - `2026-11-14` [[2026-11-14-the-wall-street-journal-reports-that-microsoft-says-service|The Wall Street Journal reports that Microsoft says service is restored and it has processed the email backlog after a…]]
+- `2026-11-14` [[2026-11-14-scotland-s-ai-build-out-faces-organized-public-opposition|Scotland’s AI build-out faces organized public opposition]]
 - `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
 - `2026-11-14` [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch|Cerebras says its next-generation WSE-5 chip is ahead of schedule, with CS-5 systems due in early summer 2027]]
+- `2026-11-14` [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern|Analysis: Nvidia controversy raises executive-security governance questions]]
 - `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
+- `2026-11-13` [[2026-11-13-openai-unveils-daybreak-red-team-defense-factory-security-to|OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools]]
+- `2026-11-13` [[2026-11-13-microsoft-s-roughly-18-hour-outage-spreads-from-outlook-and|Microsoft's roughly 18-hour outage spreads from Outlook and Teams to Copilot, Defender, and Intune]]
 - `2026-11-13` [[2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil|Microsoft apologizes after prolonged Microsoft 365 and Copilot disruption]]
+- `2026-11-13` [[2026-11-13-malaysia-denies-clearing-megaspeed-checks-for-illegal-chip-r|Malaysia denies clearing Megaspeed, checks for illegal chip re-exports]]
 - `2026-11-13` [[2026-11-13-cursor-traces-a-malicious-claude-code-extension-to-a-key-lea|Cursor traces a malicious Claude Code extension to a key leaked by Fireworks as AI fuels a ransomware boom]]
+- `2026-11-13` [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a|Cerebras signs Microsoft as its third hyperscaler customer and raises guidance, but its OpenAI capacity is late]]
 - `2026-11-13` [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and|An 18-hour Microsoft 365 outage takes down Outlook, Teams and Copilot worldwide]]
+- `2026-11-12` [[2026-11-12-the-fireworks-ai-breach-reached-notion-ai-chat-transcripts-s|The Fireworks AI breach reached Notion AI chat transcripts, showing how inference-vendor incidents spread]]
+- `2026-11-12` [[2026-11-12-nebius-plans-40-billion-of-2027-capex-as-its-microsoft-capac|Nebius plans $40 billion of 2027 capex as its Microsoft capacity slips and Nvidia-backed deals face new doubts]]
+- `2026-11-12` [[2026-11-12-new-claude-for-manufacturing-targets-quoting-quality-and-mai|NEW Claude for Manufacturing targets quoting, quality, and maintenance workflows]]
 - `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]
+- `2026-11-12` [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval|Lawmakers seek records on Nvidia's China chip-sales approvals]]
+- `2026-11-12` [[2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an|Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal]]
 - `2026-11-12` [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not|Cerebras lands Microsoft and raises guidance as delivery, not demand, becomes the bottleneck for neoclouds]]
 - `2026-11-12` [[2026-11-12-anthropic-pushes-claude-into-factories-and-google-meet-days|Anthropic pushes Claude into factories and Google Meet days before its IPO]]
+- `2026-11-12` [[2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine|AI raises the stakes on both sides of security as free Chinese models, deepfakes and vendor breaches spread]]
 - `2026-11-11` [[2026-11-11-november-12-2026-cio-dive-2|[November 12, 2026] · [CIO Dive]]]
 - `2026-11-11` [[2026-11-11-november-11-2026-cnbc|[November 11, 2026] · [CNBC]]]
+- `2026-11-11` [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a|Reported U.S. rule would restrict remote access to advanced AI chips]]
 - `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
 - `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]

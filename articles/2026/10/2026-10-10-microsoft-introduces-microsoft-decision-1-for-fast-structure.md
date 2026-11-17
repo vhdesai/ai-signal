@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
 - 2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod
 - 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
+- 2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl
 embedding_id: 2026-10-10-microsoft-introduces-microsoft-decision-1-for-fast-structure
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Microsoft introduced Microsoft-Decision-1, a decision-scoring model available th
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec]] · [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring]] · [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]]
+**Related:** [[2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec]] · [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring]] · [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl]]
 <!-- graph:end -->

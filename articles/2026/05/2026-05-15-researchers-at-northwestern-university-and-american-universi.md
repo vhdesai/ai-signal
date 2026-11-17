@@ -5,8 +5,8 @@ title: Researchers at Northwestern University and American University found that
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.storyboard18.com/digital/researchers-asked-chatgpt-claude-and-gemini-who-may-lose-jobs-to-ai-each-gave-different-answers-99275.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: af66ac7d4f0edc1e4ac0b4f56e5a33c09a0c615b037b8790e808cffb6e107f33

@@ -4,8 +4,8 @@ title: AI's wider availability puts pressure on OpenAI and Anthropic
 date: '2026-07-17'
 source: WSJ
 url_original: null
-url_canonical: https://www.msn.com/en-us/money/other/ai-s-wider-availability-is-good-for-china-not-great-for-openai-and-anthropic/ar-AA287ol3
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: 7dbc3ea8f0f006298b9113c7d2dc0cd3994cfe7d3dc16fb0be4ab4ada87ee3de
 normalized_title_hash: 63a96c55d29e55d0

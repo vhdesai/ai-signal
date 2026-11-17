@@ -5,8 +5,8 @@ title: Forget typosquatting; slopsquatting is the software supply chain threat c
 date: '2026-07-11'
 source: VentureBeat
 url_original: null
-url_canonical: https://itoverdose.com/en/news/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools-d7f7121d
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_061123_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: b6924ce242692d02552929d5e5a69f6236c97b1c040a7966d73e5b8ec8ffab85

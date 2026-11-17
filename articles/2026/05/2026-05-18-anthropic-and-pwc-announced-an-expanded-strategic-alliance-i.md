@@ -5,8 +5,8 @@ title: Anthropic and PwC announced an expanded strategic alliance in which PwC w
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.anthropic.com/news/pwc-expanded-partnership
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: e4be43b439438cc6bf03e044e4514e97662dbd37b0c25c76035d16a88a2e4b0a

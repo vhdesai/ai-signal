@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in
+- 2026-11-16-lvmh-s-media-group-partners-with-openai-on-newsroom-tools-an
+- 2026-11-16-openai-s-lvmh-media-agreement-joins-enterprise-adoption-with
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
-- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
-- 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
-- 2026-06-11-wired-meet-the-openai-engineer-leading-chatgpt-s-biggest-tra
+- 2026-11-16-openai-signs-lvmh-s-media-group-bringing-les-echos-and-le-pa
 embedding_id: 2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI's first major Latin American publisher partnership brings Folha de S.Paul
 
 **Entities:** [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]] · [[2026-06-11-wired-meet-the-openai-engineer-leading-chatgpt-s-biggest-tra]]
+**Related:** [[2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in]] · [[2026-11-16-lvmh-s-media-group-partners-with-openai-on-newsroom-tools-an]] · [[2026-11-16-openai-s-lvmh-media-agreement-joins-enterprise-adoption-with]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]] · [[2026-11-16-openai-signs-lvmh-s-media-group-bringing-les-echos-and-le-pa]]
 <!-- graph:end -->

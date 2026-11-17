@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a
+- 2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900b-in-sp
 - 2026-09-12-anthropic-in-talks-for-a-record-100b-ipo-at-a-2-trillion-val
 - 2026-09-13-anthropic-selects-nasdaq-for-its-potential-ipo
-- 2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat
 embedding_id: 2026-09-14-anthropic-picks-nasdaq-for-potential-ipo
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider reports Anthropic has selected Nasdaq as its listing venue for 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a]] · [[2026-09-12-anthropic-in-talks-for-a-record-100b-ipo-at-a-2-trillion-val]] · [[2026-09-13-anthropic-selects-nasdaq-for-its-potential-ipo]] · [[2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat]]
+**Related:** [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a]] · [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900b-in-sp]] · [[2026-09-12-anthropic-in-talks-for-a-record-100b-ipo-at-a-2-trillion-val]] · [[2026-09-13-anthropic-selects-nasdaq-for-its-potential-ipo]]
 <!-- graph:end -->

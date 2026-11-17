@@ -4,8 +4,8 @@ title: Xi Jinping pushes open-source AI as China challenges U.S. dominance
 date: '2026-07-17'
 source: WSJ
 url_original: null
-url_canonical: https://meduza.io/en/feature/2026/07/15/wsj-the-leader-xi-jinping-once-called-his-role-model-is-now-beijing-s-supplicant-and-china-is-making-putin-wait-for-the-gas-deal-moscow-badly-needs
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-17-daily-ai-news-digest.md
 content_hash: d05e0cf24d587e7ebc6a6e06a74f13d0664a49182037ca2dd1787be67ab4ed0a
 normalized_title_hash: 3fce13ee4b1af3c5

@@ -5,8 +5,8 @@ title: 'Model cadence tightening: Anthropic, OpenAI, and xAI all pushed meaningf
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 053cfc7ea6166bb40d1061ec86c5626d12f3889b9b6a3ebce92226eeaccbcdde

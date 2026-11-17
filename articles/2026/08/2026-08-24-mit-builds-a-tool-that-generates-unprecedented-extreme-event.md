@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
 - 2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools
+- 2026-11-12-new-mit-explores-more-data-efficient-training-for-climate-em
+- 2026-11-12-new-research-could-lead-to-faster-trustworthy-ai-models-for
 - 2026-11-12-mit-trains-faster-more-trustworthy-ai-climate-emulators-with
-- 2026-10-14-machine-learning-corrections-target-the-subseasonal-weather
-- 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
 embedding_id: 2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers Kai Chang and Themis Sapsis introduced an “Extreme Event Aware
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools]] · [[2026-11-12-mit-trains-faster-more-trustworthy-ai-climate-emulators-with]] · [[2026-10-14-machine-learning-corrections-target-the-subseasonal-weather]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]]
+**Related:** [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools]] · [[2026-11-12-new-mit-explores-more-data-efficient-training-for-climate-em]] · [[2026-11-12-new-research-could-lead-to-faster-trustworthy-ai-models-for]] · [[2026-11-12-mit-trains-faster-more-trustworthy-ai-climate-emulators-with]]
 <!-- graph:end -->

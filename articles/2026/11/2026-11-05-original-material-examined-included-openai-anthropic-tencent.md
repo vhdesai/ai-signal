@@ -35,10 +35,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-06-search-index-checks-official-company-sources-openai-news-blo
+- 2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval
 - 2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla
 - 2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o
 - 2026-11-06-earlier-discovery-corroboration-included-reuters-bloomberg-y
-- 2026-11-06-evidence-standard-these-five-summaries-and-publication-times
 embedding_id: 2026-11-05-original-material-examined-included-openai-anthropic-tencent
 event_name: ''
 ---
@@ -52,5 +52,5 @@ Original material examined included OpenAI, Anthropic, Tencent, Conductor, Micro
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Cerebras]] · [[Databricks]] · [[Google]] · [[IBM]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo]] · [[2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla]] · [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o]] · [[2026-11-06-earlier-discovery-corroboration-included-reuters-bloomberg-y]] · [[2026-11-06-evidence-standard-these-five-summaries-and-publication-times]]
+**Related:** [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo]] · [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval]] · [[2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla]] · [[2026-10-31-company-watchlist-searched-nvidia-google-alphabet-deepmind-o]] · [[2026-11-06-earlier-discovery-corroboration-included-reuters-bloomberg-y]]
 <!-- graph:end -->

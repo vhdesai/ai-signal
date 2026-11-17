@@ -4,8 +4,8 @@ title: 'Magnificent Seven Q1 2026 Earnings: Nvidia Rounds Out AI-Fueled Results 
 date: '2026-05-21'
 source: Reuters / U.S. News Money
 url_original: null
-url_canonical: https://www.financialexpress.com/market/global-markets/magnificent-7-earnings-hit-a-record-how-much-of-the-growth-is-real/4335432/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: b2865c841981300dc6ba35d78badf1cf2ad3b98007a76d7f1af00266551ab58a

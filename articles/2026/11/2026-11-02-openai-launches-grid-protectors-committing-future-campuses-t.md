@@ -6,7 +6,7 @@ date: '2026-11-02'
 source: '[OpenAI Blog]'
 url_original: https://openai.com/index/grid-protectors-program
 url_canonical: https://openai.com/index/grid-protectors-program
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-03_061250_Inbox_Daily AI News Digest - November
   3, 2026.md
 content_hash: 4780da792531c7b30c27777c0fd7101412c1134789a2efed5641a1e9dce989c7

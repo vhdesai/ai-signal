@@ -4,8 +4,8 @@ title: Nvidia, Oracle, and Palantir Trade Higher on AI Backlog Commentary
 date: '2026-05-26'
 source: 'Source: WSJ / Axios markets'
 url_original: null
-url_canonical: https://parameter.io/nvidia-nvda-stock-oracles-shocking-455b-backlog-sends-ai-shares-soaring/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_071446_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 699465085a7c2e670ae24384ded0b971fb5f27369acf8d5ec9acf54e4e765546

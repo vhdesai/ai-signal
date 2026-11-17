@@ -5,8 +5,8 @@ title: RAD Intel, an AI-driven marketing decision-intelligence company, announce
 date: '2026-06-30'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://finance.yahoo.com/media-advertising/articles/rad-intel-acquires-majority-stake-100000227.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-30_060551_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 6e9d498ec0fc48370396cbe28fa185c6949a2cc00adf5a6f2ccc899b28594411

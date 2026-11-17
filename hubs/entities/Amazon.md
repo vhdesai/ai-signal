@@ -1,24 +1,36 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 805
+member_count: 817
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 805 connected article(s).
+> Auto-generated entity hub. 817 connected article(s).
 
+- `2026-11-16` [[2026-11-16-zoox-robotaxis-go-live-on-the-uber-app-in-las-vegas|Zoox robotaxis go live on the Uber app in Las Vegas]]
+- `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-15` [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in|Megaspeed opens internal probe and says Alice Huang left in 2025]]
+- `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900b-in-sp|Anthropic heads into Thursday's Nasdaq debut with $900B+ in spending commitments]]
+- `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900-billio|Anthropic heads into Thursday's Nasdaq debut with $900 billion in commitments and a $104 billion nine-month loss]]
 - `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
 - `2026-11-14` [[2026-11-14-chatgpt-wallet-lets-openai-s-dots-agents-buy-on-a-user-s-beh|ChatGPT Wallet lets OpenAI's dots agents buy on a user's behalf using tokenized card credentials, so neither the agent…]]
 - `2026-11-14` [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch|Cerebras says its next-generation WSE-5 chip is ahead of schedule, with CS-5 systems due in early summer 2027]]
+- `2026-11-14` [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern|Analysis: Nvidia controversy raises executive-security governance questions]]
 - `2026-11-13` [[2026-11-13-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
 - `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
 - `2026-11-13` [[2026-11-13-chatgpt-wallet-lets-openai-s-agents-complete-purchases-with|ChatGPT Wallet lets OpenAI's agents complete purchases with tokenized cards as Gemini connects to Google Wallet]]
+- `2026-11-13` [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a|Cerebras signs Microsoft as its third hyperscaler customer and raises guidance, but its OpenAI capacity is late]]
+- `2026-11-13` [[2026-11-13-amazon-s-internal-world-product-graph-plan-aims-to-own-produ|Amazon's internal "World Product Graph" plan aims to own product data for every item sold and blunt AI shopping agents]]
 - `2026-11-13` [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads|Agents get wallets: ChatGPT can now buy for you, Gemini reads your spending and banks scramble to keep up]]
+- `2026-11-12` [[2026-11-12-the-fireworks-ai-breach-reached-notion-ai-chat-transcripts-s|The Fireworks AI breach reached Notion AI chat transcripts, showing how inference-vendor incidents spread]]
+- `2026-11-12` [[2026-11-12-openai-raises-15-billion-at-a-1-25-trillion-valuation-half-t|OpenAI raises $15 billion at a $1.25 trillion valuation, half the amount it sought]]
 - `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]
 - `2026-11-12` [[2026-11-12-agents-start-spending-money-and-making-calls-as-amazon-plans|Agents start spending money and making calls as Amazon plans a product graph to blunt them]]
 - `2026-11-11` [[2026-11-11-november-11-2026-cnbc|[November 11, 2026] · [CNBC]]]
 - `2026-11-11` [[2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights|United Airlines bans personal AI agents from booking flights as gatekeepers push back on consumer agents]]
+- `2026-11-11` [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a|Reported U.S. rule would restrict remote access to advanced AI chips]]
+- `2026-11-11` [[2026-11-11-meta-changes-leadership-of-its-ai-infrastructure-buildout|Meta changes leadership of its AI infrastructure buildout]]
 - `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-openai|[November 10, 2026] · [OpenAI]]]

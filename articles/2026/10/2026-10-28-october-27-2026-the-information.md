@@ -5,7 +5,7 @@ date: '2026-10-28'
 source: '[The Information]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+Google+TPUs
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+Google+TPUs
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-29_070116_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: f188ef55e35747c4c21dea0747dcea652d59c899f8576bba26de2669fa699b3b

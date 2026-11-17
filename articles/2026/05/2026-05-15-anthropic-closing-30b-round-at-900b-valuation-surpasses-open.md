@@ -4,8 +4,8 @@ title: Anthropic Closing $30B Round at $900B Valuation — Surpasses OpenAI's $8
 date: '2026-05-15'
 source: Yahoo Finance / Financial Times
 url_original: null
-url_canonical: https://finance.yahoo.com/sectors/technology/articles/anthropic-set-close-30-billion-203545596.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 213c55c44a0fa36bd456eedc218d247801ecec10d759c60528f59e874082a8e0

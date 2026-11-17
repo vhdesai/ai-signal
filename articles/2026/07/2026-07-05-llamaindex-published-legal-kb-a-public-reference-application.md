@@ -5,8 +5,8 @@ title: LlamaIndex published legal-kb, a public reference application that gives 
 date: '2026-07-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-05_061041_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 88f04e1c0922c5e9e6309ebbcc560678a82ba5ee39c3641c1b1fe2e49ff721d1

@@ -4,8 +4,8 @@ title: IBM says AI hardware cost pressure delayed mainframe purchases
 date: '2026-07-22'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-23-daily-ai-news-digest.md
 content_hash: 1db1fd5fb184d7f82985502aea924c124cf78579e63f790bf504e43acda32b05
 normalized_title_hash: f2bb9ccd7f9625ac

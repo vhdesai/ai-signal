@@ -4,8 +4,8 @@ title: Travis Kalanick's Atoms raises $1.7 billion for industrial robotics
 date: '2026-07-22'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-23-daily-ai-news-digest.md
 content_hash: fc639282490a70e57aff8e18df6cd34de0d1035011c91525bd935ac2edbec0c7
 normalized_title_hash: 46f139650b9d075f

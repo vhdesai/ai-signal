@@ -3,17 +3,17 @@ article_id: 2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-
 title: OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's
   IPO draws about six times demand
 date: '2026-11-12'
-source: Yahoo Finance (citing CNBC); November 12, 2026 · CNBC-TV18 (citing Bloomberg)*
-url_original: https://finance.yahoo.com/markets/stocks/articles/openai-reportedly-raises-15b-1-192622324.html
-url_canonical: https://finance.yahoo.com/markets/stocks/articles/openai-reportedly-raises-15b-1-192622324.html
-url_status: ok
-digest_source: digests\raw\2026-11-13_065820_Final-Daily-AI-News-Digest.md
-content_hash: c8c60dc9289b84ec0fa3239bbb8f27a200d45d34090b9d0db3459394a0759ef2
+source: Yahoo Finance
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-11-13_065837_Inbox_Daily AI News Digest - November
+  13, 2026.md
+content_hash: 307420ba817cc3421d89e6f70cac6de6e8142178f334fa01c0b42d0d0ffb7740
 normalized_title_hash: 1253f9ce35d41df3
-canonical_url_hash: 7f4858eb5d2cb7a2
+canonical_url_hash: ''
 tags:
 - Breaking
-- Finance
 entities:
 - AMD
 - Anthropic
@@ -35,7 +35,7 @@ event_name: ''
 
 # OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand
 
-CNBC reports that OpenAI raised $15 billion at a $1.25 trillion valuation, half the $30 billion it initially sought and below the $1.4 trillion it pitched, as it keeps burning cash despite about 50% quarterly revenue growth. Anthropic's IPO is reportedly about six times oversubscribed, with pricing set for November 18 and Nasdaq trading under the ticker ANT on November 19. Together with a $26 billion private placement anchored by Google, Nvidia and AMD, Anthropic's offering could become the largest listing ever. The two labs are now visibly diverging in how easily they can raise capital.
+CNBC reports that OpenAI raised $15 billion at a $1.25 trillion valuation, half the $30 billion it initially sought and below the $1.4 trillion it pitched, as it keeps burning cash despite about 50% quarterly revenue growth. Anthropic's IPO is reportedly about six times oversubscribed, with pricing set for November 18 and Nasdaq trading under the ticker ANT on November 19. Together with a $26 billion private placement anchored by Google, Nvidia and AMD, Anthropic's offering could become the largest listing ever. The two labs are now visibly diverging in how easily they can raise capital. https://finance.yahoo.com/markets/stocks/articles/openai-reportedly-raises-15b-1-192622324.html https://www.cnbctv18.com/market/anthropic-ipo-mega-issue-oversubscribed-6-times-20033062.htm https://finance.yahoo.com/technology/article/anthropic-ipo-claude-maker-to-begin-trading-on-thursday-nov-19-173550865.html FUNDING
 
 <!-- graph:start -->
 ## Connections

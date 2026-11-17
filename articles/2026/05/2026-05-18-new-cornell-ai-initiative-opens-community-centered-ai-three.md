@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
+- 2026-11-11-cornell-names-leadership-for-independent-new-york-ai-safety
 - 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
 - 2026-08-28-cornell-what-happened-when-we-put-ai-to-work
 - 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
-- 2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati
 embedding_id: 2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A three-day Cornell convening began May 18, bringing researchers, practitioners,
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]] · [[2026-08-28-cornell-what-happened-when-we-put-ai-to-work]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati]]
+**Related:** [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-11-11-cornell-names-leadership-for-independent-new-york-ai-safety]] · [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]] · [[2026-08-28-cornell-what-happened-when-we-put-ai-to-work]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]]
 <!-- graph:end -->

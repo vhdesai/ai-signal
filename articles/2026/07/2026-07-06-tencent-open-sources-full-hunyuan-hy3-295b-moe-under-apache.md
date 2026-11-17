@@ -4,8 +4,8 @@ title: Tencent Open-Sources Full Hunyuan Hy3 (295B MoE) Under Apache-2.0
 date: '2026-07-06'
 source: VentureBeat
 url_original: null
-url_canonical: https://rits.shanghai.nyu.edu/ai/tencent-releases-hy3-295b-open-moe-model-under-apache-2-0/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 0cef147033765345accbd60f1a924ca7d7052e07ffa1683c9e3d87f83ae738dd

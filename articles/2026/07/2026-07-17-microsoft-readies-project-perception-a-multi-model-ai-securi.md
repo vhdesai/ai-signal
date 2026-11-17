@@ -4,8 +4,8 @@ title: Microsoft Readies "Project Perception," a Multi-Model AI Security Tool
 date: '2026-07-17'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft+Project+Perception
-url_canonical: https://www.microsoft.com/en-us/security/business/ai-powered-cybersecurity/project-perception-agentic-system
-url_status: repaired
+url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft+Project+Perception
+url_status: broken
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: cc6e3530e260ab6db1b926802e5ec986ace0e33e971ae2501af7d830bea4f8d7
 normalized_title_hash: d76729916d818d2b

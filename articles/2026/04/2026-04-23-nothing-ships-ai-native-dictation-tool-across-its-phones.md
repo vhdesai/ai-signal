@@ -4,8 +4,8 @@ title: Nothing ships AI-native dictation tool across its phones
 date: '2026-04-23'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: df608ce0e96d35ced8068500aca180c0c4a90b0b1c9bcd6fe54af9c7862a0ab3

@@ -1,15 +1,28 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1437
+member_count: 1455
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1437 connected article(s).
+> Auto-generated topic hub. 1455 connected article(s).
 
+- `2026-11-16` [[2026-11-16-november-16-2026-business-insider|[November 16, 2026] · [Business Insider]]]
+- `2026-11-16` [[2026-11-16-nvidia-s-open-checkbook-era-is-ending-as-its-slump-rattles-a|Nvidia's open-checkbook era is ending as its slump rattles Asia's chipmakers and lifts equal-weight funds]]
+- `2026-11-16` [[2026-11-16-dreamteam-raises-53-million-across-seed-and-series-a-rounds|Dreamteam raises $53 million across seed and Series A rounds for AI-native CRM]]
+- `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-15` [[2026-11-15-wall-street-wants-to-trade-ai-compute-like-oil-as-private-cr|Wall Street wants to trade AI compute like oil as private credit funds the buildout]]
+- `2026-11-15` [[2026-11-15-south-korea-s-top-tax-exam-scorer-admits-cheating-with-ai-da|South Korea's top tax-exam scorer admits cheating with AI days before the national college entrance exam]]
+- `2026-11-15` [[2026-11-15-bharat-semi-raises-24-million-for-programmable-ai-sensor-chi|Bharat Semi raises $24 million for programmable AI sensor chips]]
+- `2026-11-15` [[2026-11-15-anthropic-s-ipo-deck-says-claude-ported-its-stack-to-amd-mi3|Anthropic's IPO deck says Claude ported its stack to AMD MI355 in three days]]
+- `2026-11-15` [[2026-11-15-anthropic-s-ipo-deck-says-claude-ported-its-models-to-amd-mi|Anthropic's IPO deck says Claude ported its models to AMD MI355 in three days, chipping at CUDA lock-in]]
+- `2026-11-15` [[2026-11-15-anthropic-looks-set-to-price-above-its-range-ahead-of-thursd|Anthropic looks set to price above its range ahead of Thursday's 'Grandthropic' debut as crypto loses out]]
+- `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900b-in-sp|Anthropic heads into Thursday's Nasdaq debut with $900B+ in spending commitments]]
+- `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900-billio|Anthropic heads into Thursday's Nasdaq debut with $900 billion in commitments and a $104 billion nine-month loss]]
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-14` [[2026-11-14-the-information-reports-on-anthropic-s-investor-roadshow-eve|The Information reports on Anthropic's investor roadshow event at J.P]]
+- `2026-11-14` [[2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke|Investors and 115,000 petitioners press Nvidia's board to keep Huang's return open after a $573 billion wipeout]]
 - `2026-11-14` [[2026-11-14-capitalg-led-the-round-with-gic-dfj-growth-ivp-and-sapphire|CapitalG led the round, with GIC, DFJ Growth, IVP and Sapphire participating; the valuation is more than double the…]]
 - `2026-11-13` [[2026-11-13-november-13-2026-wall-street-journal-2|[November 13, 2026] · [Wall Street Journal]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times|[November 13, 2026] · [Crypto Briefing, citing the Financial Times]]]
@@ -24,13 +37,18 @@ member_count: 1437
 - `2026-11-13` [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro|AI infrastructure finance matures: compute futures near approval, Cerebras pulls in WSE-5 and capital chases off-grid power]]
 - `2026-11-12` [[2026-11-12-november-12-2026-siliconangle|[November 12, 2026] · [SiliconANGLE]]]
 - `2026-11-12` [[2026-11-12-november-11-2026-wall-street-journal|[November 11, 2026] · [Wall Street Journal]]]
+- `2026-11-12` [[2026-11-12-yahoo-reports-anthropic-confirmation-of-its-november-18-19-i|Yahoo reports Anthropic confirmation of its November 18–19 IPO timetable]]
 - `2026-11-12` [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is|Without Huang, Nvidia's role as the AI economy's financier is in doubt]]
 - `2026-11-12` [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as|OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand]]
+- `2026-11-12` [[2026-11-12-openai-raises-15-billion-at-a-1-25-trillion-valuation-half-t|OpenAI raises $15 billion at a $1.25 trillion valuation, half the amount it sought]]
+- `2026-11-12` [[2026-11-12-nonprofits-sue-anthropic-google-meta-openai-and-spacex-s-ai|Nonprofits sue Anthropic, Google, Meta, OpenAI, and SpaceX's AI unit to halt new frontier models]]
+- `2026-11-12` [[2026-11-12-ibm-acquires-authmind-to-monitor-how-ai-agents-use-credentia|IBM acquires AuthMind to monitor how AI agents use credentials after they are granted]]
 - `2026-11-12` [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some|Capital keeps flowing to AI chips and robotics even as some allocators step back from the AI trade]]
 - `2026-11-12` [[2026-11-12-anthropic-pushes-claude-into-factories-and-google-meet-days|Anthropic pushes Claude into factories and Google Meet days before its IPO]]
 - `2026-11-12` [[2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi|Agent infrastructure draws capital: LangChain doubles to $3 billion and IBM buys AuthMind for agent identity]]
 - `2026-11-11` [[2026-11-11-november-11-2026-the-information|[November 11, 2026] · [The Information]]]
 - `2026-11-11` [[2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi|Venture capital follows the agent stack: Mercor reaches $20 billion as security and agent oversight draw new rounds]]
+- `2026-11-11` [[2026-11-11-fractile-raises-720-million-to-bring-its-inference-architect|Fractile raises $720 million to bring its inference architecture to market]]
 - `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
 - `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-an-ai-holding|AI services find business models: Sequoia backs an AI holding company as Anthropic's Ode adds results-based fees]]
 - `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-ai-holding-co|AI services find business models: Sequoia backs AI holding company Sequence as Anthropic's Ode adds performance fees]]

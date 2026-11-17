@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-nhtsa-investigates-tesla-s-cybercab-deployment-without-manua
 - 2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w
-- 2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin
+- 2026-11-14-tesla-opens-cybercab-pre-orders-for-personal-use-limited-to
 embedding_id: 2026-09-06-tesla-s-cybercab-reaches-public-roads-and-its-first-operatio
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch's mobility roundup reports the wheel-free Cybercab operating on publi
 
 **Entities:** [[Tesla]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-04-nhtsa-investigates-tesla-s-cybercab-deployment-without-manua]] · [[2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w]] · [[2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin]]
+**Related:** [[2026-09-04-nhtsa-investigates-tesla-s-cybercab-deployment-without-manua]] · [[2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w]] · [[2026-11-14-tesla-opens-cybercab-pre-orders-for-personal-use-limited-to]]
 <!-- graph:end -->

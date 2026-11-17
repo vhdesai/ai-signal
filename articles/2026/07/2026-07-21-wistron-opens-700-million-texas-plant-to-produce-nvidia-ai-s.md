@@ -4,8 +4,8 @@ title: Wistron opens $700 million Texas plant to produce NVIDIA AI systems
 date: '2026-07-21'
 source: NVIDIA Blog
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/wistron-manufacturing-texas/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: 3ac644a141d4ca3260488b0469074f8b91055fb8ec1a9f44c2950c282cfcaff7
 normalized_title_hash: fa074020a1e49f44

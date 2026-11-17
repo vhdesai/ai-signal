@@ -4,8 +4,8 @@ title: Nvidia highlights Japan's full-stack AI and robotics ecosystem
 date: '2026-07-15'
 source: NVIDIA Blog
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/japan-ecosystem-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-15-daily-ai-news-digest.md
 content_hash: ee4bdf4f6667aa276fa0dff3ed81a81763e8e53640f094b979fb0f8f0748ad71
 normalized_title_hash: 2098fd3aa4bce9e3

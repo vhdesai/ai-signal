@@ -5,8 +5,8 @@ title: 'UW study: LLMs show significant racial, gender, and intersectional bias 
 date: '2026-05-12'
 source: AI@UW / University of Washington
 url_original: null
-url_canonical: https://www.washington.edu/news/2024/10/31/ai-bias-resume-screening-race-gender/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: b7486672ddda726330979642c3752eda699afeb165120ab8e788892153213ff6

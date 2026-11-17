@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-llama-cpp-and-ggml-reach-version-1-0-with-a-stable-api-commi
 - 2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync
 - 2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we
 - 2026-09-05-nous-research-adds-one-click-local-model-setup-to-hermes-des
@@ -35,5 +36,5 @@ The ggml-org team released v1.0.0 of llama.cpp and ggml after 3.5 years, adoptin
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync]] · [[2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we]] · [[2026-09-05-nous-research-adds-one-click-local-model-setup-to-hermes-des]]
+**Related:** [[2026-11-13-llama-cpp-and-ggml-reach-version-1-0-with-a-stable-api-commi]] · [[2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync]] · [[2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we]] · [[2026-09-05-nous-research-adds-one-click-local-model-setup-to-hermes-des]]
 <!-- graph:end -->

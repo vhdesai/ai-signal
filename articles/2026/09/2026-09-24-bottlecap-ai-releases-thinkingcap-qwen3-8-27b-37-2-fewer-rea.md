@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/
 url_canonical: https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 21fa172677332f369c9c471c98ff932944ae5f3ce22962d1d61263d64c643074
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-to-reduce-reas
+- 2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex
 - 2026-07-30-thinking-machines-releases-inkling-small-276b-open-weights-m
 - 2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch
 - 2026-05-17-an-open-source-project-called-orthrus-qwen3-claims-up-to-7-8
-- 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 embedding_id: 2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-rea
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A fine-tune of Qwen3.8-27B optimised purely for shorter reasoning traces: across
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-to-reduce-reas]] · [[2026-07-30-thinking-machines-releases-inkling-small-276b-open-weights-m]] · [[2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch]] · [[2026-05-17-an-open-source-project-called-orthrus-qwen3-claims-up-to-7-8]] · [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]]
+**Related:** [[2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-to-reduce-reas]] · [[2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex]] · [[2026-07-30-thinking-machines-releases-inkling-small-276b-open-weights-m]] · [[2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch]] · [[2026-05-17-an-open-source-project-called-orthrus-qwen3-claims-up-to-7-8]]
 <!-- graph:end -->

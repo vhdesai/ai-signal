@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w
 - 2026-09-04-nhtsa-investigates-tesla-s-cybercab-deployment-without-manua
+- 2026-11-14-tesla-opens-cybercab-pre-orders-for-personal-use-limited-to
+- 2026-11-15-select-customers-can-now-pre-order-the-29-990-cybercab-for-p
 - 2026-09-06-tesla-s-cybercab-reaches-public-roads-and-its-first-operatio
-- 2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-deployment
-- 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 embedding_id: 2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Tesla emailed invitations for a September 3 Cybercab launch event in Austin, pro
 
 **Entities:** [[Tesla]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w]] · [[2026-09-04-nhtsa-investigates-tesla-s-cybercab-deployment-without-manua]] · [[2026-09-06-tesla-s-cybercab-reaches-public-roads-and-its-first-operatio]] · [[2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-deployment]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]]
+**Related:** [[2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w]] · [[2026-09-04-nhtsa-investigates-tesla-s-cybercab-deployment-without-manua]] · [[2026-11-14-tesla-opens-cybercab-pre-orders-for-personal-use-limited-to]] · [[2026-11-15-select-customers-can-now-pre-order-the-29-990-cybercab-for-p]] · [[2026-09-06-tesla-s-cybercab-reaches-public-roads-and-its-first-operatio]]
 <!-- graph:end -->

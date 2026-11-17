@@ -5,8 +5,8 @@ title: 'IBM Granite 4.1 Series Released: Open-Source Enterprise Models at 3B, 8B
 date: '2026-04-29'
 source: AI Flash Report
 url_original: null
-url_canonical: https://www.ibm.com/granite/docs/models/granite4-1
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 729ec7ca7275dbe06f107e0f740bf31524306391ef04b53b9f60933a300edc85

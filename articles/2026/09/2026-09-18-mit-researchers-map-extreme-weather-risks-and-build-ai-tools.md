@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
 - 2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event
+- 2026-11-12-new-research-could-lead-to-faster-trustworthy-ai-models-for
+- 2026-11-12-new-mit-explores-more-data-efficient-training-for-climate-em
 - 2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o
-- 2026-11-12-mit-trains-faster-more-trustworthy-ai-climate-emulators-with
-- 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
 embedding_id: 2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT published a four-year progress report on its Climate Grand Challenges projec
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o]] · [[2026-11-12-mit-trains-faster-more-trustworthy-ai-climate-emulators-with]] · [[2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo]]
+**Related:** [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-11-12-new-research-could-lead-to-faster-trustworthy-ai-models-for]] · [[2026-11-12-new-mit-explores-more-data-efficient-training-for-climate-em]] · [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o]]
 <!-- graph:end -->

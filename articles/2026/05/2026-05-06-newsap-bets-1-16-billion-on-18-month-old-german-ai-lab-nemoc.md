@@ -4,8 +4,8 @@ title: NewSAP Bets $1.16 Billion on 18-Month-Old German AI Lab NemoClaw
 date: '2026-05-06'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 995854d38f270df5374efffa325462cee13e475968001f118d16e824687f60d3
 normalized_title_hash: 3ee15c027e0a5fe0

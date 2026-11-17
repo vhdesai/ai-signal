@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch
+- 2026-11-11-databricks-positions-genie-for-extended-data-grounded-assign
 - 2026-09-25-databricks-makes-the-genie-one-mcp-server-generally-availabl
 - 2026-08-21-chatgpt-gains-a-messages-integration-on-macos
-- 2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag
 embedding_id: 2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A Databricks Genie plugin for ChatGPT, built on Genie MCP, lets employees query 
 
 **Entities:** [[Cerebras]] · [[Databricks]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch]] · [[2026-09-25-databricks-makes-the-genie-one-mcp-server-generally-availabl]] · [[2026-08-21-chatgpt-gains-a-messages-integration-on-macos]] · [[2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag]]
+**Related:** [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch]] · [[2026-11-11-databricks-positions-genie-for-extended-data-grounded-assign]] · [[2026-09-25-databricks-makes-the-genie-one-mcp-server-generally-availabl]] · [[2026-08-21-chatgpt-gains-a-messages-integration-on-macos]]
 <!-- graph:end -->

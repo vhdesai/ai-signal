@@ -4,8 +4,8 @@ title: Meta patent describes an always‑listening AI that infers and logs your 
 date: '2026-07-13'
 source: The Hacker News
 url_original: null
-url_canonical: https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-13_060930_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: ee387ac2daeb24ba8e3653d76417e5ae60efb2996aea11bd79df2bef03a35f3b

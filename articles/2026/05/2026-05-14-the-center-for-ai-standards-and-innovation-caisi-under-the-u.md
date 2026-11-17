@@ -4,8 +4,8 @@ title: The Center for AI Standards and Innovation (CAISI), under the U.S
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://casrai.org/guides/what-is-caisi
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 82bce18d12419e845d722788c9d18f4d9a6747e4ae6b922461c57cc6002c84c1

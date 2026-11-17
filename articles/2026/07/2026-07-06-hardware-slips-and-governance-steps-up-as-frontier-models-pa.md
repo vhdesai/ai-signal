@@ -4,8 +4,8 @@ title: Hardware Slips and Governance Steps Up as Frontier Models Pause
 date: '2026-07-06'
 source: 'Source window: last 24 hours'
 url_original: null
-url_canonical: https://labs.cloudsecurityalliance.org/research/csa-research-note-pacing-the-frontier-governance-20260806-cs/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-06_062502_Inbox_Daily AI News Digest - July 6,
   2026.md
 content_hash: 4ddaf949869329c9c30ffa1d344cacfe6d3cb13b6d11588b06c4b56da21ef8a4

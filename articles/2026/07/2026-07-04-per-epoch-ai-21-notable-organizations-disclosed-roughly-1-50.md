@@ -5,8 +5,8 @@ title: Per Epoch AI, 21 notable organizations disclosed roughly 1,500 high-sever
 date: '2026-07-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://epoch.ai/data-insights/cve-severity-spike
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-04_060944_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 42d89866e6ea9a836a603b06727f22810ac1044f34848f7225975483d180f16b

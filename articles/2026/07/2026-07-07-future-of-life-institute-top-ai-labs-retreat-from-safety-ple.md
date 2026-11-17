@@ -4,8 +4,8 @@ title: 'Future of Life Institute: Top AI Labs Retreat From Safety Pledges'
 date: '2026-07-07'
 source: Axios
 url_original: null
-url_canonical: https://theaifeed.com/en/ai-news/fli-ai-safety-index-summer-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_074536_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 72be8afa2d1aaef6eaf11f0e265eb2d0a62dbe5bc0bdf9ba055f02000aac9e4c

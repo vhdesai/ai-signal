@@ -4,8 +4,8 @@ title: Amazon, Microsoft back RAISE US — a $1B nonprofit to retrain AI-displac
 date: '2026-06-25'
 source: GeekWire
 url_original: null
-url_canonical: https://www.geekwire.com/2026/amazon-and-microsoft-join-new-nonprofits-push-to-help-american-workers-navigate-the-ai-economy/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-26_063915_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 52105ea4f2360a949819db0a1d1f01fc39e69c179644a16d70ff56dbbd6eb3f0

@@ -25,9 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen
+- 2026-11-15-axios-estimates-the-cost-of-nvidia-s-near-30-share-decline-o
 - 2026-11-09-nvidia-s-share-decline-puts-governance-and-litigation-risk-i
+- 2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke
 - 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
-- 2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade
 embedding_id: 2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Just after 8 a.m. ET, Nvidia was down about 5% in premarket trading, pointing to
 
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen]] · [[2026-11-09-nvidia-s-share-decline-puts-governance-and-litigation-risk-i]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade]]
+**Related:** [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen]] · [[2026-11-15-axios-estimates-the-cost-of-nvidia-s-near-30-share-decline-o]] · [[2026-11-09-nvidia-s-share-decline-puts-governance-and-litigation-risk-i]] · [[2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]]
 <!-- graph:end -->

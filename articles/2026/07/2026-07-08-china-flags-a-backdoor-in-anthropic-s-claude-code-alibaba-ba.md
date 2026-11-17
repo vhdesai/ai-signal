@@ -4,8 +4,8 @@ title: China Flags a “Backdoor” in Anthropic’s Claude Code; Alibaba Bans I
 date: '2026-07-08'
 source: CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_062121_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 4ce324355efa692fdb3d5fbdd570b277e0168f4f967caa40be0080d371c6e9ba

@@ -1,19 +1,27 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 224
+member_count: 232
 ---
 
 # IBM
 
-> Auto-generated entity hub. 224 connected article(s).
+> Auto-generated entity hub. 232 connected article(s).
 
+- `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-15` [[2026-11-15-san-francisco-declaration-outlines-international-ai-security|San Francisco declaration outlines international AI security and infrastructure cooperation]]
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-14` [[2026-11-14-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
+- `2026-11-14` [[2026-11-14-scotland-s-ai-build-out-faces-organized-public-opposition|Scotland’s AI build-out faces organized public opposition]]
 - `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-14` [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern|Analysis: Nvidia controversy raises executive-security governance questions]]
 - `2026-11-13` [[2026-11-13-november-12-2026-wall-street-journal|[November 12, 2026] · [Wall Street Journal]]]
 - `2026-11-12` [[2026-11-12-november-12-2026-siliconangle|[November 12, 2026] · [SiliconANGLE]]]
+- `2026-11-12` [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval|Lawmakers seek records on Nvidia's China chip-sales approvals]]
+- `2026-11-12` [[2026-11-12-ibm-acquires-authmind-to-monitor-how-ai-agents-use-credentia|IBM acquires AuthMind to monitor how AI agents use credentials after they are granted]]
+- `2026-11-12` [[2026-11-12-consumer-and-small-business-agents-start-spending-money-meta|Consumer and small-business agents start spending money: Meta's Muse places calls and Replit Agent makes purchases]]
 - `2026-11-12` [[2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi|Agent infrastructure draws capital: LangChain doubles to $3 billion and IBM buys AuthMind for agent identity]]
+- `2026-11-11` [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a|Reported U.S. rule would restrict remote access to advanced AI chips]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-november-10-2026-openai|[November 10, 2026] · [OpenAI]]]
 - `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]

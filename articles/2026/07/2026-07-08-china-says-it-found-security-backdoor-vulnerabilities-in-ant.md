@@ -5,8 +5,8 @@ title: China says it found “security backdoor” vulnerabilities in Anthropic�
 date: '2026-07-08'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://www.siliconreport.com/chinas-cnvd-alleges-claude-code-contains-security-backdoors-escalating-ai-data-localizatio-15e060c42cde54fd
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_064841_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: b705ea380fa291d77892328e456bd4ef33b55434c270b25b879515dc9379c5c6

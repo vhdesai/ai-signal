@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 - 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
-- 2026-06-25-no-items-met-the-strict-24-hour-publication-bar
+- 2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval
 embedding_id: 2026-08-19-southaven-permit-hearing-could-determine-the-future-of-xai-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Coverage Notes • Academic Research: No university-affiliated research publicat
 
 **Entities:** [[Anthropic]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]]
-**Related:** [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-06-25-no-items-met-the-strict-24-hour-publication-bar]]
+**Related:** [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval]]
 <!-- graph:end -->

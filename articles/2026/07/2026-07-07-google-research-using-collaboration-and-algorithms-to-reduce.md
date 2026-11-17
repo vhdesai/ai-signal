@@ -4,8 +4,8 @@ title: 'Google Research: Using Collaboration and Algorithms to Reduce Traffic Co
 date: '2026-07-07'
 source: Google Research Blog
 url_original: null
-url_canonical: https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 6075fe1844b29bd26374369521e13a198af37fcca21be743400949fa05d162d8

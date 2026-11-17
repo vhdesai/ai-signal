@@ -4,8 +4,8 @@ title: Indonesia copyright rewrite puts Google and AI platforms on notice
 date: '2026-07-17'
 source: Reuters
 url_original: null
-url_canonical: https://www.yahoo.com/news/articles/indonesias-copyright-rewrite-puts-google-094806099.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-17-daily-ai-news-digest.md
 content_hash: cd22b76328a01d783895170148a2258831e6f9b7491d7dc4d4be2b3e28a0456e
 normalized_title_hash: fb6ebaf317c253f7

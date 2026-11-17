@@ -25,10 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-malaysia-denies-clearing-megaspeed-checks-for-illegal-chip-r
+- 2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in
+- 2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-- 2026-10-31-verification-and-exclusions-included-articles-were-read-in-f
-- 2026-08-27-subject-daily-ai-news-digest-august-27-2026
-- 2026-05-14-daily-ai-news-digest-may-14-2026
+- 2026-11-14-bessent-and-congress-focus-on-lutnick-s-handling-of-megaspee
 embedding_id: 2026-11-13-treasury-points-to-commerce-over-proposed-megaspeed-restrict
 event_name: ''
 ---
@@ -42,5 +43,5 @@ Reuters Treasury Secretary Scott Bessent said Treasury, the Pentagon, State and 
 
 **Entities:** [[Apple]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-10-31-verification-and-exclusions-included-articles-were-read-in-f]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
+**Related:** [[2026-11-13-malaysia-denies-clearing-megaspeed-checks-for-illegal-chip-r]] · [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in]] · [[2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-11-14-bessent-and-congress-focus-on-lutnick-s-handling-of-megaspee]]
 <!-- graph:end -->

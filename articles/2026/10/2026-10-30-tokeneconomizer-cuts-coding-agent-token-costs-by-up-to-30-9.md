@@ -5,7 +5,7 @@ date: '2026-10-30'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/
 url_canonical: https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-31_061259_Inbox_Daily AI News Digest - October
   31, 2026.md
 content_hash: 9ed3633e006879a36855f3366666564d285e2d08d5d67efb98fa195dd634849d

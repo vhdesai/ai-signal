@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-11-claude-opus-4-7-is-now-generally-available
+- 2026-11-14-anthropic-tells-claude-opus-5-5-users-to-drop-think-hard-and
 - 2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen
 - 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
-- 2026-08-11-anthropic-confirms-it-will-watermark-text-generated-by-claud
 embedding_id: 2026-09-22-opus-5-5-carries-four-breaking-api-changes-for-existing-opus
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Migration is not a drop-in swap. Anthropic's platform documentation lists four c
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]] · [[2026-08-11-anthropic-confirms-it-will-watermark-text-generated-by-claud]]
+**Related:** [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-11-14-anthropic-tells-claude-opus-5-5-users-to-drop-think-hard-and]] · [[2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]]
 <!-- graph:end -->

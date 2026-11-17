@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-05-altman-reaffirms-cerebras-relationship-as-shares-recover-pre
 - 2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14
+- 2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an
 - 2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn
-- 2026-05-22-cerebras-ipo-surges-68-on-day-one-wall-street-remains-cool-o
 embedding_id: 2026-10-05-cerebras-gains-after-renewed-partnership-endorsement
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CNBC reports Cerebras shares gained 5.8% premarket Monday after Altman reaffirme
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-10-05-altman-reaffirms-cerebras-relationship-as-shares-recover-pre]] · [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14]] · [[2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn]] · [[2026-05-22-cerebras-ipo-surges-68-on-day-one-wall-street-remains-cool-o]]
+**Related:** [[2026-10-05-altman-reaffirms-cerebras-relationship-as-shares-recover-pre]] · [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14]] · [[2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an]] · [[2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn]]
 <!-- graph:end -->

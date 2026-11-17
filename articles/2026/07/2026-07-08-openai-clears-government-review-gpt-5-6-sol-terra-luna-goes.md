@@ -5,8 +5,8 @@ title: OpenAI Clears Government Review; GPT-5.6 (Sol, Terra, Luna) Goes Public J
 date: '2026-07-08'
 source: CNBC · Engadget
 url_original: null
-url_canonical: https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_070221_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 8557318b0c5170a94f3fbac85536e7331b26f7e62f3b7301fd64665b6f5bec23

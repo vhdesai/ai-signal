@@ -4,8 +4,8 @@ title: BreakingAnthropic ARR Confirmed Above $44 Billion After 80x Q1 2026 Growt
 date: '2026-05-07'
 source: AIToolsRecap / Multiple Sources
 url_original: null
-url_canonical: https://www.startuphub.ai/ai-news/ai-figures/2026/figure-dario-amodei-company-financial-breakdown-2026-06-14
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: e7cd8dadeafc1c2cd3eb335ba88fc870b44b88cee981fc70bec326913bfb7e71

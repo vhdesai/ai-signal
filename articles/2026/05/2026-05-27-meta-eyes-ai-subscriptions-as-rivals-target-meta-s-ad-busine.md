@@ -4,8 +4,8 @@ title: Meta eyes AI subscriptions as rivals target Meta's ad business
 date: '2026-05-27'
 source: Bloomberg
 url_original: null
-url_canonical: https://www.bloomberg.com/news/newsletters/2026-05-28/meta-unveils-subscriptions-for-ai-while-openai-xai-target-meta-s-ad-business
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_071156_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 0337a4af663d48a28e7e8bf97d3a610b8fd7192e1a23c8ce5b870c1ab49d89c3

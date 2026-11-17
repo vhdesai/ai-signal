@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 61
+member_count: 65
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 61 connected article(s).
+> Auto-generated entity hub. 65 connected article(s).
 
+- `2026-11-15` [[2026-11-15-south-korea-s-top-tax-exam-scorer-admits-cheating-with-ai-da|South Korea's top tax-exam scorer admits cheating with AI days before the national college entrance exam]]
+- `2026-11-15` [[2026-11-15-select-customers-can-now-pre-order-the-29-990-cybercab-for-p|Select customers can now pre-order the $29,990 Cybercab for personal use, with delivery estimated for December 2026 in…]]
+- `2026-11-14` [[2026-11-14-tesla-opens-cybercab-pre-orders-for-personal-use-limited-to|Tesla opens Cybercab pre-orders for personal use, limited to robotaxi geofences with a $299 monthly fee]]
+- `2026-11-13` [[2026-11-13-xai-lays-off-most-of-the-grok-imagine-video-generation-team|xAI lays off most of the Grok Imagine video-generation team]]
 - `2026-11-13` [[2026-11-13-november-12-2026-wall-street-journal|[November 12, 2026] · [Wall Street Journal]]]
 - `2026-11-12` [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti|SpaceX's AI arm plans $74 billion of data centers while cutting most of the Grok video team]]
 - `2026-11-08` [[2026-11-08-agility-robotics-is-the-first-us-humanoid-robot-company-to-g|Agility Robotics is the first US humanoid robot company to go public, and it is still far from profitable]]

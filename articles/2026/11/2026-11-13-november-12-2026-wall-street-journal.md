@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti
+- 2026-11-13-xai-lays-off-most-of-the-grok-imagine-video-generation-team
 - 2026-11-13-spacex-ai-reportedly-trims-grok-imagine-team-as-priorities-s
 - 2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
-- 2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso
 embedding_id: 2026-11-13-november-12-2026-wall-street-journal
 event_name: ''
 ---
@@ -42,5 +42,5 @@ SpaceX outlined about $24 billion of supercomputing investment in Texas with on-
 
 **Entities:** [[IBM]] · [[OpenAI]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti]] · [[2026-11-13-spacex-ai-reportedly-trims-grok-imagine-team-as-priorities-s]] · [[2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso]]
+**Related:** [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti]] · [[2026-11-13-xai-lays-off-most-of-the-grok-imagine-video-generation-team]] · [[2026-11-13-spacex-ai-reportedly-trims-grok-imagine-team-as-priorities-s]] · [[2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]]
 <!-- graph:end -->

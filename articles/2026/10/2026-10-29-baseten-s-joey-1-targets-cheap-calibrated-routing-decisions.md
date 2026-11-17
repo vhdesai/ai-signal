@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-26-julia-1-a-144-3m-parameter-open-decision-model-trained-for-r
+- 2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl
 - 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
-- 2026-09-21-stepfun-launches-step-5-preview-600b-total-27b-active-moe-wi
 embedding_id: 2026-10-29-baseten-s-joey-1-targets-cheap-calibrated-routing-decisions
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Baseten released joey-1, an MIT-licensed 2-billion-parameter model that returns 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-26-julia-1-a-144-3m-parameter-open-decision-model-trained-for-r]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]] · [[2026-09-21-stepfun-launches-step-5-preview-600b-total-27b-active-moe-wi]]
+**Related:** [[2026-09-26-julia-1-a-144-3m-parameter-open-decision-model-trained-for-r]] · [[2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-11-trending-openai-s-reported-quarterly-revenue-exceeds-10-bill
 - 2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b
 - 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
-- 2026-08-18-openai-s-q2-revenue-growth-lags-anthropic-as-margins-worsen
 embedding_id: 2026-11-10-openai-s-revenue-rebounds-50-to-about-10-billion-as-losses-d
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI told investors that third-quarter revenue jumped about 50% to roughly $10
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b]] · [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]] · [[2026-08-18-openai-s-q2-revenue-growth-lags-anthropic-as-margins-worsen]]
+**Related:** [[2026-11-11-trending-openai-s-reported-quarterly-revenue-exceeds-10-bill]] · [[2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b]] · [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]]
 <!-- graph:end -->

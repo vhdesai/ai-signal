@@ -5,7 +5,7 @@ date: '2026-10-22'
 source: '[OpenAI Blog]'
 url_original: https://openai.com/index/decisions-api
 url_canonical: https://openai.com/index/decisions-api
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-23_065801_Final-Daily-AI-News-Digest.md
 content_hash: b12c7bf04c65824cdeafc1cb539d043a8dd7e051b8a7a936824df9b2af99199d
 normalized_title_hash: 15bcbc6525896de1
@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-10-09-openai-decisions-api-enters-public-beta-for-typed-low-latenc
 - 2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs
 - 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
+- 2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl
 embedding_id: 2026-10-22-openai-launches-the-decisions-api-for-low-latency-decision-w
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI announced the Decisions API as a focused interface for fast, low-cost app
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l]] · [[2026-10-09-openai-decisions-api-enters-public-beta-for-typed-low-latenc]] · [[2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs]] · [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring]]
+**Related:** [[2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l]] · [[2026-10-09-openai-decisions-api-enters-public-beta-for-typed-low-latenc]] · [[2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs]] · [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring]] · [[2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Ceva wins landmark AI licensing deal with major U.S. software and AI plat
 date: '2026-07-06'
 source: AiThority
 url_original: null
-url_canonical: https://aithority.com/machine-learning/ceva-wins-landmark-ai-licensing-deal-with-major-u-s-software-and-ai-platform-company/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-06_060000_Daily-AI-News-Digest.md
 content_hash: 3d549b59cbc3de59aed52338391656cff93685c255154896a3fad7afe385e9e8
 normalized_title_hash: 0c017201d024179d
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
-- 2026-05-14-daily-ai-news-digest-may-14-2026
+- 2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation
 embedding_id: 2026-07-06-ceva-wins-landmark-ai-licensing-deal-with-major-u-s-software
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Ceva disclosed a strategic licensing deal for its NeuPro-M neural processing uni
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market]] · [[2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
+**Related:** [[2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market]] · [[2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation]]
 <!-- graph:end -->

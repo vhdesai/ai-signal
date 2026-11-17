@@ -5,8 +5,8 @@ title: 'Physical AI Milestone: Humanoid Robots from Schaeffler/Humanoid and RLWR
 date: '2026-05-14'
 source: AI News
 url_original: null
-url_canonical: https://thehumanoid.ai/humanoid-secures-landmark-deal-with-schaeffler-to-deploy-thousands-of-humanoid-robots/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 3bfb71d8e6111f889bfd2ca206ef4fff9b3416e74f3e8809ffc2dfee08c3a15f

@@ -4,8 +4,8 @@ title: Google to Appeal German Ruling Holding It Liable for AI Overviews
 date: '2026-06-19'
 source: The Decoder
 url_original: null
-url_canonical: https://the-decoder.com/google-appeals-ruling-that-made-it-directly-liable-for-ai-generated-search-overview-content/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-19_070001_Final-Daily-AI-News-Digest.md
 content_hash: 4a7880ed484183a41059bdea5286ca1d4a816a23c4a5b8fa1d410507916b0239
 normalized_title_hash: d7c133b6a89790cf

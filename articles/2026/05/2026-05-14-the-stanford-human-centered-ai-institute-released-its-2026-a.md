@@ -5,8 +5,8 @@ title: The Stanford Human-Centered AI Institute released its 2026 AI Index, the 
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 1c3fd8bcee503adc7bc857bbb561b384443c5aac374e9576be71297420a5d2a7

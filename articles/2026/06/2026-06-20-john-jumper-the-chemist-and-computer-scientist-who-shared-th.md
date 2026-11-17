@@ -5,8 +5,8 @@ title: John Jumper, the chemist and computer scientist who shared the 2024 Nobel
 date: '2026-06-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.nobelprize.org/prizes/chemistry/2024/jumper/facts/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-20-daily-ai-news-digest.md
 content_hash: b3eb1ba480731cd9a4d87ec45a66b1939079c1e61073942247fab08d554ac311
 normalized_title_hash: 9e6204b08c4500f5

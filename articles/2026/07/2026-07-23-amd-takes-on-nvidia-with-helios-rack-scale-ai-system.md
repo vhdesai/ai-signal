@@ -4,8 +4,8 @@ title: AMD takes on NVIDIA with Helios rack-scale AI system
 date: '2026-07-23'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-25-daily-ai-news-digest.md
 content_hash: 8cb26b4eba87b2b68edb375957d1b6bc311efd863866a8fb63a81581453e8b99
 normalized_title_hash: 26df489479ad4c4b

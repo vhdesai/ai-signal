@@ -1,14 +1,25 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 481
+member_count: 492
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 481 connected article(s).
+> Auto-generated entity hub. 492 connected article(s).
 
+- `2026-11-16` [[2026-11-16-november-16-2026-theprint-citing-bloomberg|[November 16, 2026] · [ThePrint, citing Bloomberg]]]
+- `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-16` [[2026-11-16-qwen4-max-brings-a-larger-multimodal-model-to-alibaba-s-clou|Qwen4-Max brings a larger multimodal model to Alibaba’s cloud]]
+- `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-16` [[2026-11-16-alibaba-launches-qwen4-max-and-tencent-ships-hy4-flash-both|Alibaba launches Qwen4-Max and Tencent ships Hy4 flash, both with million-token context]]
+- `2026-11-16` [[2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex|Alibaba introduces Qwen4-Max with a one-million-token context window]]
+- `2026-11-15` [[2026-11-15-san-francisco-declaration-outlines-international-ai-security|San Francisco declaration outlines international AI security and infrastructure cooperation]]
+- `2026-11-14` [[2026-11-14-scotland-s-ai-build-out-faces-organized-public-opposition|Scotland’s AI build-out faces organized public opposition]]
+- `2026-11-14` [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern|Analysis: Nvidia controversy raises executive-security governance questions]]
+- `2026-11-12` [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval|Lawmakers seek records on Nvidia's China chip-sales approvals]]
 - `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
+- `2026-11-11` [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a|Reported U.S. rule would restrict remote access to advanced AI chips]]
 - `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-microsoft-research-demonstrates-backdoors-implanted-through|Microsoft Research demonstrates backdoors implanted through dormant neurons]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]

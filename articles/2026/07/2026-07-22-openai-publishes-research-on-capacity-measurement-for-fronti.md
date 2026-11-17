@@ -4,8 +4,8 @@ title: OpenAI Publishes Research on Capacity Measurement for Frontier Models
 date: '2026-07-22'
 source: OpenAI**
 url_original: null
-url_canonical: https://openai.com/research/index/publication/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-23_065018_Final-Daily-AI-News-Digest.md
 content_hash: 3d7ec2ccb93bca01de4c99d95312fb41f573f03b1cef604edbe8d7058d80955d
 normalized_title_hash: 2e1da7f60dea59e5

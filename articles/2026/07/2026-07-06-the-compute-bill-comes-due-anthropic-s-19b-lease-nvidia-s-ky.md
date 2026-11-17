@@ -5,8 +5,8 @@ title: 'The compute bill comes due: Anthropic''s $19B lease, Nvidia''s Kyber sli
 date: '2026-07-06'
 source: 'Source window: last 24 hours'
 url_original: null
-url_canonical: https://finance.yahoo.com/markets/article/anthropics-new-ipo-filing-puts-its-computing-bill-near-900-billion-151830444.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-06_063900_Inbox_Daily AI News Digest - July 6,
   2026.md
 content_hash: 789dc58fea82a7feddcda8ed931576d2e53d0cbf86a9e4276b77ecd212a202c0

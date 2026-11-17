@@ -4,8 +4,8 @@ title: OpenAI Brings Codex to Mobile, Extending Agentic Coding Beyond Desktop
 date: '2026-05-14'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 92341023685f64e20b675681cff422d441bfa0f72cf2604f3f593cf7bc03e222

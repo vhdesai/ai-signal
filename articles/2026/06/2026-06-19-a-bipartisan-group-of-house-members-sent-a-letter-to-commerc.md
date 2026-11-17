@@ -5,8 +5,8 @@ title: A bipartisan group of House members sent a letter to Commerce Secretary H
 date: '2026-06-19'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://liccardo.house.gov/media/press-releases/bipartisan-members-congress-seek-transparency-frontier-ai-export-controls
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-19-daily-ai-news-digest.md
 content_hash: c07bd015affb5fd44f0a841ba8e743055572926d1fb32696b4460af70cee00de
 normalized_title_hash: eaaa84e4bdea5c99

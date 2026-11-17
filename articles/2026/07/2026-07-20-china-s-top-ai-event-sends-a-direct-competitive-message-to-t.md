@@ -4,8 +4,8 @@ title: China's top AI event sends a direct competitive message to the U.S.
 date: '2026-07-20'
 source: WSJ
 url_original: null
-url_canonical: https://geopoliticspulse.com/2026/07/20/chinas-top-ai-event-delivers-message-to-the-u-s-were-coming-for-you-wsj/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: 5f9722a9139c0422b95dc7970c5ec2fcc2c218e5956b8f9533f34df05605f095
 normalized_title_hash: 3158727b0a421000

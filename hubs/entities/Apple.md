@@ -1,16 +1,32 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 546
+member_count: 562
 ---
 
 # Apple
 
-> Auto-generated entity hub. 546 connected article(s).
+> Auto-generated entity hub. 562 connected article(s).
 
+- `2026-11-16` [[2026-11-16-tencent-positions-hy4-flash-for-low-cost-long-context-deploy|Tencent positions Hy4 flash for low-cost, long-context deployment]]
+- `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-15` [[2026-11-15-november-15-2026-apple-newsroom|[November 15, 2026] · [Apple Newsroom]]]
+- `2026-11-15` [[2026-11-15-san-francisco-declaration-outlines-international-ai-security|San Francisco declaration outlines international AI security and infrastructure cooperation]]
+- `2026-11-15` [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in|Megaspeed opens internal probe and says Alice Huang left in 2025]]
+- `2026-11-15` [[2026-11-15-apple-uses-a-large-health-ai-study-to-examine-real-world-use|Apple uses a large health-AI study to examine real-world use]]
+- `2026-11-15` [[2026-11-15-apple-launches-an-openevidence-powered-app-to-study-how-200|Apple launches an OpenEvidence-powered app to study how 200,000 people use AI for health]]
+- `2026-11-15` [[2026-11-15-apple-launches-a-research-study-of-ai-assisted-health-inform|Apple launches a research study of AI-assisted health information]]
+- `2026-11-14` [[2026-11-14-scotland-s-ai-build-out-faces-organized-public-opposition|Scotland’s AI build-out faces organized public opposition]]
 - `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-14` [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern|Analysis: Nvidia controversy raises executive-security governance questions]]
 - `2026-11-13` [[2026-11-13-treasury-points-to-commerce-over-proposed-megaspeed-restrict|Treasury points to Commerce over proposed Megaspeed restrictions]]
 - `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
+- `2026-11-13` [[2026-11-13-malaysia-denies-clearing-megaspeed-checks-for-illegal-chip-r|Malaysia denies clearing Megaspeed, checks for illegal chip re-exports]]
+- `2026-11-12` [[2026-11-12-the-fireworks-ai-breach-reached-notion-ai-chat-transcripts-s|The Fireworks AI breach reached Notion AI chat transcripts, showing how inference-vendor incidents spread]]
+- `2026-11-12` [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval|Lawmakers seek records on Nvidia's China chip-sales approvals]]
+- `2026-11-11` [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a|Reported U.S. rule would restrict remote access to advanced AI chips]]
+- `2026-11-11` [[2026-11-11-cornell-names-leadership-for-independent-new-york-ai-safety|Cornell names leadership for independent New York AI-safety evaluations]]
 - `2026-11-10` [[2026-11-10-november-10-2026-techcrunch-2|[November 10, 2026] · [TechCrunch]]]
 - `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i|Report: Alice Huang's companies routed at least $7.5 billion in Nvidia chips to China as Congress revisits export controls]]

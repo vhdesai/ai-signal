@@ -4,8 +4,8 @@ title: Citi launches Arc to scale AI agents across the bank
 date: '2026-05-04'
 source: CIO Dive
 url_original: null
-url_canonical: https://www.ciodive.com/news/citi-launches-arc-scale-ai-agents/819113/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: e97edbf913175a8e2945c9b05d2f63fe2992f84e0a36285e2d1b93499b17283b

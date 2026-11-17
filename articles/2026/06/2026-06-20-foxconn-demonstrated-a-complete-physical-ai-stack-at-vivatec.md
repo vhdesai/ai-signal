@@ -5,8 +5,8 @@ title: Foxconn demonstrated a complete physical AI stack at VivaTech 2026--from 
 date: '2026-06-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.techtimes.com/articles/318548/20260617/foxconn-debuts-humanoid-robots-europe-revealing-closed-loop-physical-ai-stack.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-20-daily-ai-news-digest.md
 content_hash: ec5ebe182de0a1b78d927d7ac51ffccc486cad1d6c5ab981c5f7027fe4100432
 normalized_title_hash: ae69a96a92176bb9

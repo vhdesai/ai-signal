@@ -5,8 +5,8 @@ title: AI megarounds drive North American venture funding to a record $392B in H
 date: '2026-07-07'
 source: Crunchbase News
 url_original: null
-url_canonical: https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_063010_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 380af24114955d9b52a52972cf67617938a4131dfbb4f36416648c53b1872b2c

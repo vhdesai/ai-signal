@@ -4,8 +4,8 @@ title: 'Restoring the Sweet Spot: Pass-Rate Weighted Self-Distillation for LLM R
 date: '2026-05-28'
 source: Liu, Cao, Chen, Honavar (Penn State) — arXiv:2605.27765
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.27765
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: efccf888e9f1ecf17c86f243c62db2dba5e7a3c231b811fc680e074f892bc758

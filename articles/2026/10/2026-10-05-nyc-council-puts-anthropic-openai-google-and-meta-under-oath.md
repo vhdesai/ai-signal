@@ -5,7 +5,7 @@ date: '2026-10-05'
 source: Unite.AI
 url_original: https://www.unite.ai/nyc-council-hearing-puts-anthropic-openai-google-meta-under-oath/
 url_canonical: https://www.unite.ai/nyc-council-hearing-puts-anthropic-openai-google-meta-under-oath/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-05_081053_Inbox_Daily AI News Digest – October
   5, 2026.md
 content_hash: 6047b98476b283032cf0d57d9089d1e8eed4808e2e500cbc3d9ee31e835c2647
@@ -25,6 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-10-05-anthropic-openai-google-and-meta-testify-under-oath-at-new-y
 related_article_ids:
 - 2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u
+- 2026-11-12-nonprofits-sue-anthropic-google-meta-openai-and-spacex-s-ai
 - 2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon
 embedding_id: 2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath
 event_name: ''
@@ -40,5 +41,5 @@ Unite.AI reported that New York City's Committee of the Whole is holding under-o
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-10-05-anthropic-openai-google-and-meta-testify-under-oath-at-new-y]]
-**Related:** [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u]] · [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon]]
+**Related:** [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u]] · [[2026-11-12-nonprofits-sue-anthropic-google-meta-openai-and-spacex-s-ai]] · [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon]]
 <!-- graph:end -->

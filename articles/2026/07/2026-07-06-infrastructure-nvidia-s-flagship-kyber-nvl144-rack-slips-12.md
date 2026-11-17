@@ -5,8 +5,8 @@ title: Infrastructure Nvidia's flagship Kyber NVL144 rack slips ~12 months to 20
 date: '2026-07-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-06_060841_Inbox_Daily AI News Digest - July 6,
   2026.md
 content_hash: 6ca43cff8c5097d56fcf50e8110ec6e3094a9343f530a369f11d128c8765b8f5

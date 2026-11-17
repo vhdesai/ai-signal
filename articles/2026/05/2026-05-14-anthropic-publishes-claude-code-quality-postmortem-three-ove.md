@@ -5,8 +5,8 @@ title: 'Anthropic Publishes Claude Code Quality Postmortem: Three Overlapping Bu
 date: '2026-05-14'
 source: InfoQ / Anthropic
 url_original: null
-url_canonical: https://www.infoq.com/news/2026/05/anthropic-claude-code-postmortem/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 3e87757f81b533764ae22abe9eb051308a5f465098032336e75dbef0e57a6989

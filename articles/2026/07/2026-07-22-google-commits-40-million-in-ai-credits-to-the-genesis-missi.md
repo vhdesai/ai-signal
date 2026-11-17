@@ -4,8 +4,8 @@ title: Google commits $40 million in AI credits to the Genesis Mission
 date: '2026-07-22'
 source: Google DeepMind Blog
 url_original: null
-url_canonical: https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-23-daily-ai-news-digest.md
 content_hash: e9944f2358e412a179c81a03eef3b5aa5c210cecc18b95736ecf23f68134a4cc
 normalized_title_hash: 581b5bbbcdf5dbeb

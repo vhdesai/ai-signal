@@ -4,8 +4,8 @@ title: Sakana AI proposes DiffusionBlocks for modular denoising networks
 date: '2026-05-28'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 7a79230ec9fcc401258e8c19c5bce6eb6cf142eb5a6c2b9f083a889a11239023

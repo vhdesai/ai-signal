@@ -5,8 +5,8 @@ title: 'Research / Academic: arXiv cs.AI, arXiv cs.LG, arXiv cs.CL, arxiv.deeppa
 date: '2026-05-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://casrai.org/guides/huggingface-papers
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-03_071037_Inbox_Daily AI News Digest – May 3, 2026.md
 content_hash: 13d5492b431c3e9a3ae5a16b9f5427b8e0b8777aa7013aa9a410eebeaf7bca54
 normalized_title_hash: 292dbd3eb9e48e52

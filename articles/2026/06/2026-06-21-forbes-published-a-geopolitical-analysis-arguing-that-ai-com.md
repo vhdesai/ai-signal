@@ -5,8 +5,8 @@ title: 'Forbes published a geopolitical analysis arguing that AI competition is 
 date: '2026-06-21'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.dowjones.com/business-intelligence/blog/dje-forum-geopolitical-competition-reshapes-energy-security-former-cia-chief-says/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-21-daily-ai-news-digest.md
 content_hash: 0787a474327451e2145174ae6faf7917c6d7bc92b885ad22ed2802a7d691d48e
 normalized_title_hash: bd0b14ec05308032

@@ -5,8 +5,8 @@ title: Cursor revealed that its recently launched Composer 2 coding model — ma
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://cursor.com/blog/composer-2
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: c6f665f0a0c58c6b583df4da49aa5235690ee0bfc3abd306c3f119866094188a

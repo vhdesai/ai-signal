@@ -4,8 +4,8 @@ title: Tim Cook Warns AI Chip Demand Making Apple Price Increases "Unavoidable"
 date: '2026-06-18'
 source: DealBook (NYT) / Wall Street Journal
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/articles/apple-ceo-cook-warns-product-133700726.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: cd4ec6f85844d2e4c17c0fe7b36c535f7cf85265c60caf0fcc03223d2953f29f
 normalized_title_hash: b6266d074d79de48

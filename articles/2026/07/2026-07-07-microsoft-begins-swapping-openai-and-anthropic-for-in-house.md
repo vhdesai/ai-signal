@@ -4,8 +4,8 @@ title: Microsoft Begins Swapping OpenAI and Anthropic for In-House MAI Models
 date: '2026-07-07'
 source: Bloomberg
 url_original: null
-url_canonical: https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_074536_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 3ee2d534a8b84fbd3a878081e2dcd5a69fff4f419e7185eea965ddc5eacc18fb

@@ -4,8 +4,8 @@ title: NVIDIA open-sources GPU-accelerated medical physics simulation framework
 date: '2026-07-22'
 source: NVIDIA Blog
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-23-daily-ai-news-digest.md
 content_hash: 9db675b851c10ac2c87780842523542f790c41578a495f33d810a5afdb188abe
 normalized_title_hash: 3806f9deb56379ff

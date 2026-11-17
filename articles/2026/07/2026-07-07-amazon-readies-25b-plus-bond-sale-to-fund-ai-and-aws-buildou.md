@@ -4,8 +4,8 @@ title: Amazon Readies $25B-Plus Bond Sale to Fund AI and AWS Buildout
 date: '2026-07-07'
 source: The Tech Portal
 url_original: null
-url_canonical: https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_074536_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 0864a6e5acb09128b00278aee8d3595f683f4cd9ccbf597e8ab1069d6caad852

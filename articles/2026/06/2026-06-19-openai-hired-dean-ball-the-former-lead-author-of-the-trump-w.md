@@ -5,8 +5,8 @@ title: OpenAI hired Dean Ball, the former lead author of the Trump White House's
 date: '2026-06-19'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://qz.com/openai-anthropic-hiring-trump-officials-senior-roles-100926
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-19-daily-ai-news-digest.md
 content_hash: b6fa9bb4c8b2134d1b9c4792889ddac2ab7098184c16f79aa8d50bc415c184f6
 normalized_title_hash: b816fe3fb5b5755c

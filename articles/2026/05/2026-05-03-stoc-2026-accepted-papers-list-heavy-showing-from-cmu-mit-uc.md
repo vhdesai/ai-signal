@@ -5,8 +5,8 @@ title: STOC 2026 Accepted-Papers List — Heavy Showing from CMU, MIT, UC Berkel
 date: '2026-05-03'
 source: ACM STOC
 url_original: null
-url_canonical: https://acm-stoc.org/stoc2026/accepted-papers.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080843_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: c6c59674855dd0f0c9872fc67a5cd0362a68749f34b9ed13579d4018797b3c11
 normalized_title_hash: befc0810f5779fed

@@ -4,8 +4,8 @@ title: Gemini user hits 5-hour usage cap on a single prompt; Google responds
 date: '2026-05-26'
 source: Android Authority
 url_original: null
-url_canonical: https://www.androidauthority.com/google-gemini-usage-limit-problem-3670846/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: ef373cd29383e39063922f23421472bab86793309cff598445acbe6f52937c81

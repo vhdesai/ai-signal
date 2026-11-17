@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-06-november-6-2026-wall-street-journal
 - 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
+- 2026-11-15-november-14-2026-wall-street-journal
 - 2026-09-15-data-center-siting-fights-reach-philadelphia-the-boom-is-col
 - 2026-09-04-september-5-2026-bleepingcomputer
-- 2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats
 embedding_id: 2026-08-07-city-that-arrested-a-person-for-clapping-at-a-data-center-me
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Emporia, Kansas held its city commission meeting virtually with no public commen
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-06-november-6-2026-wall-street-journal]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-09-15-data-center-siting-fights-reach-philadelphia-the-boom-is-col]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]]
+**Related:** [[2026-11-06-november-6-2026-wall-street-journal]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-11-15-november-14-2026-wall-street-journal]] · [[2026-09-15-data-center-siting-fights-reach-philadelphia-the-boom-is-col]] · [[2026-09-04-september-5-2026-bleepingcomputer]]
 <!-- graph:end -->

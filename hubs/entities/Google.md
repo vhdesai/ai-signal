@@ -1,16 +1,23 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1837
+member_count: 1859
 ---
 
 # Google
 
-> Auto-generated entity hub. 1837 connected article(s).
+> Auto-generated entity hub. 1859 connected article(s).
 
+- `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-15` [[2026-11-15-san-francisco-declaration-outlines-international-ai-security|San Francisco declaration outlines international AI security and infrastructure cooperation]]
+- `2026-11-15` [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in|Megaspeed opens internal probe and says Alice Huang left in 2025]]
+- `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900b-in-sp|Anthropic heads into Thursday's Nasdaq debut with $900B+ in spending commitments]]
+- `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900-billio|Anthropic heads into Thursday's Nasdaq debut with $900 billion in commitments and a $104 billion nine-month loss]]
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-14` [[2026-11-14-google-research-says-teams-using-gemini-4-models-and-antigra|Google Research says teams using Gemini 4 models and Antigravity's /teamwork harness produced results in information…]]
 - `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-14` [[2026-11-14-gemini-4-carbon-takes-the-matharena-crown-but-at-15-times-gp|Gemini 4 Carbon takes the MathArena crown, but at 15 times GPT-6.1 Sol's cost]]
+- `2026-11-14` [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern|Analysis: Nvidia controversy raises executive-security governance questions]]
 - `2026-11-14` [[2026-11-14-all-u-s-gemini-app-users-can-now-connect-google-wallet-under|All U.S. Gemini app users can now connect Google Wallet under Personal Intelligence, with optional bank and card…]]
 - `2026-11-13` [[2026-11-13-november-13-2026-databricks|[November 13, 2026] · [Databricks]]]
 - `2026-11-13` [[2026-11-13-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
@@ -20,21 +27,36 @@ member_count: 1837
 - `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
 - `2026-11-13` [[2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur|Perplexity open-sources Decider v1.3, small models that return probabilities instead of text]]
 - `2026-11-13` [[2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync|Open inference plumbing matures: Google open-sources TPU Sync and llama.cpp reaches 1.0]]
+- `2026-11-13` [[2026-11-13-malaysia-denies-clearing-megaspeed-checks-for-illegal-chip-r|Malaysia denies clearing Megaspeed, checks for illegal chip re-exports]]
 - `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-settle-long-open|Google's /teamwork multi-agent system helps settle long-open math problems, with proofs checked in Lean 4]]
 - `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-the-courtad|Google's /teamwork multi-agent system helps prove the Courtade-Kumar conjecture, with proofs checked in Lean 4]]
 - `2026-11-13` [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-a-long-open|Google's /teamwork multi-agent system helps prove a long-open conjecture, with proofs checked in Lean 4]]
+- `2026-11-13` [[2026-11-13-google-open-sources-tpu-sync-to-move-kv-caches-and-weights-b|Google open-sources TPU Sync to move KV caches and weights between memory, storage, and network]]
 - `2026-11-13` [[2026-11-13-chatgpt-wallet-lets-openai-s-agents-complete-purchases-with|ChatGPT Wallet lets OpenAI's agents complete purchases with tokenized cards as Gemini connects to Google Wallet]]
 - `2026-11-13` [[2026-11-13-anthropic-ipo-demand-meets-questions-about-durability|Anthropic IPO demand meets questions about durability]]
 - `2026-11-13` [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads|Agents get wallets: ChatGPT can now buy for you, Gemini reads your spending and banks scramble to keep up]]
 - `2026-11-12` [[2026-11-12-november-11-2026-google|[November 11, 2026] · [Google]]]
+- `2026-11-12` [[2026-11-12-the-fireworks-ai-breach-reached-notion-ai-chat-transcripts-s|The Fireworks AI breach reached Notion AI chat transcripts, showing how inference-vendor incidents spread]]
 - `2026-11-12` [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new|Pressure on frontier AI broadens: nonprofits sue to halt new models as Congress and the EU set agendas]]
 - `2026-11-12` [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as|OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand]]
+- `2026-11-12` [[2026-11-12-nonprofits-sue-anthropic-google-meta-openai-and-spacex-s-ai|Nonprofits sue Anthropic, Google, Meta, OpenAI, and SpaceX's AI unit to halt new frontier models]]
+- `2026-11-12` [[2026-11-12-nebius-plans-40-billion-of-2027-capex-as-its-microsoft-capac|Nebius plans $40 billion of 2027 capex as its Microsoft capacity slips and Nvidia-backed deals face new doubts]]
+- `2026-11-12` [[2026-11-12-new-google-introduces-gemini-4-hydrogen-its-fast-lower-cost|NEW Google introduces Gemini 4 Hydrogen, its fast, lower-cost model tier]]
+- `2026-11-12` [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval|Lawmakers seek records on Nvidia's China chip-sales approvals]]
 - `2026-11-12` [[2026-11-12-google-s-gemini-4-hydrogen-becomes-the-fast-default-for-sear|Google's Gemini 4 Hydrogen becomes the fast default for Search and agent work]]
+- `2026-11-12` [[2026-11-12-google-releases-gemini-4-hydrogen-as-its-fast-daily-driver-f|Google releases Gemini 4 Hydrogen as its fast "daily driver" for agents and puts it in Search worldwide]]
+- `2026-11-12` [[2026-11-12-consumer-and-small-business-agents-start-spending-money-meta|Consumer and small-business agents start spending money: Meta's Muse places calls and Replit Agent makes purchases]]
+- `2026-11-12` [[2026-11-12-baidu-launches-ernie-5-5-flash-preview-and-a-token-exchange|Baidu launches ERNIE 5.5 Flash Preview and a Token Exchange marketplace for model services]]
 - `2026-11-12` [[2026-11-12-anthropic-pushes-claude-into-factories-and-google-meet-days|Anthropic pushes Claude into factories and Google Meet days before its IPO]]
 - `2026-11-12` [[2026-11-12-agents-start-spending-money-and-making-calls-as-amazon-plans|Agents start spending money and making calls as Amazon plans a product graph to blunt them]]
+- `2026-11-11` [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a|Reported U.S. rule would restrict remote access to advanced AI chips]]
 - `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
+- `2026-11-11` [[2026-11-11-new-google-introduces-gemini-decision-1-for-high-volume-deci|New Google introduces Gemini Decision 1 for high-volume decision workloads]]
 - `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
 - `2026-11-11` [[2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for|Google's Gemini Decision 1 adds a low-cost scoring layer for agent workflows]]
+- `2026-11-11` [[2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl|Google introduces a low-cost decision layer for agent workflows]]
+- `2026-11-11` [[2026-11-11-deepmind-s-alphagenome-2-predicts-dna-variant-effects-in-spe|DeepMind's AlphaGenome 2 predicts DNA-variant effects in specific cell types]]
+- `2026-11-11` [[2026-11-11-cornell-names-leadership-for-independent-new-york-ai-safety|Cornell names leadership for independent New York AI-safety evaluations]]
 - `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
 - `2026-11-10` [[2026-11-10-november-9-2026-wired|[November 9, 2026] · [WIRED]]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]

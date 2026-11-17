@@ -5,8 +5,8 @@ title: Anthropic raises $65B at $965B valuation, surpassing OpenAI as world's mo
 date: '2026-05-28'
 source: CNBC / TechCrunch / The Straits Times
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_073426_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 725e4b33fd0bf77e5c0610e805c8cbd91b06ba225094b61a4b450db8bd5f159a

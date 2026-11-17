@@ -6,7 +6,7 @@ date: '2026-11-13'
 source: '[The Information]'
 url_original: https://www.theinformation.com/briefings/white-house-ai-task-force-discussed-cyber-threats-critical-infrastructure-second-meeting
 url_canonical: https://www.theinformation.com/briefings/white-house-ai-task-force-discussed-cyber-threats-critical-infrastructure-second-meeting
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-14_061857_Inbox_Daily AI News Digest - November
   14, 2026.md
 content_hash: 8189f0789d1f6823d453f4c0af4f005271f0c2e80aa68b6f43b7d0e54a938969
@@ -33,11 +33,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-the-fed-ranks-ai-as-the-top-threat-to-financial-stability-as
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a
 - 2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg
 - 2026-11-13-november-12-2026-crypto-briefing
-- 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
 embedding_id: 2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy
 event_name: ''
 ---
@@ -51,5 +51,5 @@ According to an administration official, the task force met Thursday to work on 
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Databricks]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]] · [[Perplexity]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]]
-**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a]] · [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg]] · [[2026-11-13-november-12-2026-crypto-briefing]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]]
+**Related:** [[2026-11-13-the-fed-ranks-ai-as-the-top-threat-to-financial-stability-as]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-11-09-trump-says-his-administration-once-threatened-a-leader-of-a]] · [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg]] · [[2026-11-13-november-12-2026-crypto-briefing]]
 <!-- graph:end -->

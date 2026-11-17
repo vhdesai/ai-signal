@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
+- 2026-11-11-trending-openai-s-reported-quarterly-revenue-exceeds-10-bill
 - 2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch
 - 2026-08-31-openai-s-advertising-business-reaches-a-1-billion-annualized
-- 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
 embedding_id: 2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI's annualized revenue is reportedly far below earlier expectations — clo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]] · [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch]] · [[2026-08-31-openai-s-advertising-business-reaches-a-1-billion-annualized]] · [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re]]
+**Related:** [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]] · [[2026-11-11-trending-openai-s-reported-quarterly-revenue-exceeds-10-bill]] · [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch]] · [[2026-08-31-openai-s-advertising-business-reaches-a-1-billion-annualized]]
 <!-- graph:end -->

@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 149
+member_count: 155
 ---
 
 # AMD
 
-> Auto-generated entity hub. 149 connected article(s).
+> Auto-generated entity hub. 155 connected article(s).
 
+- `2026-11-15` [[2026-11-15-south-korea-s-top-tax-exam-scorer-admits-cheating-with-ai-da|South Korea's top tax-exam scorer admits cheating with AI days before the national college entrance exam]]
+- `2026-11-15` [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in|Megaspeed opens internal probe and says Alice Huang left in 2025]]
+- `2026-11-15` [[2026-11-15-anthropic-s-ipo-deck-says-claude-ported-its-stack-to-amd-mi3|Anthropic's IPO deck says Claude ported its stack to AMD MI355 in three days]]
+- `2026-11-15` [[2026-11-15-anthropic-s-ipo-deck-says-claude-ported-its-models-to-amd-mi|Anthropic's IPO deck says Claude ported its models to AMD MI355 in three days, chipping at CUDA lock-in]]
+- `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900b-in-sp|Anthropic heads into Thursday's Nasdaq debut with $900B+ in spending commitments]]
+- `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900-billio|Anthropic heads into Thursday's Nasdaq debut with $900 billion in commitments and a $104 billion nine-month loss]]
 - `2026-11-12` [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as|OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand]]
 - `2026-11-10` [[2026-11-10-november-10-2026-dealbook|[November 10, 2026] · [DealBook]]]
 - `2026-11-10` [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion|Anthropic’s proposed IPO could raise about $64.4 billion]]

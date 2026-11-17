@@ -1,16 +1,31 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2655
+member_count: 2681
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2655 connected article(s).
+> Auto-generated entity hub. 2681 connected article(s).
 
+- `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]
+- `2026-11-16` [[2026-11-16-november-16-2026-business-insider|[November 16, 2026] · [Business Insider]]]
+- `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-16` [[2026-11-16-openai-explored-a-5-billion-plus-acquisition-of-goodfire-a-s|OpenAI explored a $5 billion-plus acquisition of Goodfire, a startup that decodes how AI models think]]
+- `2026-11-16` [[2026-11-16-insurers-hold-85-billion-of-ai-debt-as-data-centers-drive-a|Insurers hold $85 billion of AI debt as data centers drive a record quarter for climate tech VC]]
+- `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-15` [[2026-11-15-wall-street-wants-to-trade-ai-compute-like-oil-as-private-cr|Wall Street wants to trade AI compute like oil as private credit funds the buildout]]
+- `2026-11-15` [[2026-11-15-south-korea-s-top-tax-exam-scorer-admits-cheating-with-ai-da|South Korea's top tax-exam scorer admits cheating with AI days before the national college entrance exam]]
+- `2026-11-15` [[2026-11-15-san-francisco-declaration-outlines-international-ai-security|San Francisco declaration outlines international AI security and infrastructure cooperation]]
+- `2026-11-15` [[2026-11-15-anthropic-s-ipo-deck-says-claude-ported-its-stack-to-amd-mi3|Anthropic's IPO deck says Claude ported its stack to AMD MI355 in three days]]
+- `2026-11-15` [[2026-11-15-anthropic-s-ipo-deck-says-claude-ported-its-models-to-amd-mi|Anthropic's IPO deck says Claude ported its models to AMD MI355 in three days, chipping at CUDA lock-in]]
+- `2026-11-15` [[2026-11-15-anthropic-looks-set-to-price-above-its-range-ahead-of-thursd|Anthropic looks set to price above its range ahead of Thursday's 'Grandthropic' debut as crypto loses out]]
+- `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900b-in-sp|Anthropic heads into Thursday's Nasdaq debut with $900B+ in spending commitments]]
+- `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900-billio|Anthropic heads into Thursday's Nasdaq debut with $900 billion in commitments and a $104 billion nine-month loss]]
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-14` [[2026-11-14-the-information-reports-on-anthropic-s-investor-roadshow-eve|The Information reports on Anthropic's investor roadshow event at J.P]]
 - `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
+- `2026-11-14` [[2026-11-14-anthropic-tells-claude-opus-5-5-users-to-drop-think-hard-and|Anthropic tells Claude Opus 5.5 users to drop 'think hard' and other outdated prompting habits]]
 - `2026-11-13` [[2026-11-13-november-13-2026-wall-street-journal-2|[November 13, 2026] · [Wall Street Journal]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-databricks|[November 13, 2026] · [Databricks]]]
 - `2026-11-13` [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times|[November 13, 2026] · [Crypto Briefing, citing the Financial Times]]]
@@ -18,19 +33,30 @@ member_count: 2655
 - `2026-11-13` [[2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u|VCs and founders expect Nvidia's startup funding to shrink under Kress, with OpenAI and Oracle most exposed]]
 - `2026-11-13` [[2026-11-13-the-white-house-ai-task-force-s-second-meeting-focuses-on-cy|The White House AI task force's second meeting focuses on cyber threats, critical infrastructure and the labs' safety accord]]
 - `2026-11-13` [[2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil|Microsoft apologizes after prolonged Microsoft 365 and Copilot disruption]]
+- `2026-11-13` [[2026-11-13-malaysia-denies-clearing-megaspeed-checks-for-illegal-chip-r|Malaysia denies clearing Megaspeed, checks for illegal chip re-exports]]
 - `2026-11-13` [[2026-11-13-cursor-traces-its-breach-and-a-malicious-claude-code-extensi|Cursor traces its breach and a malicious Claude Code extension build to an access key leaked by Fireworks]]
 - `2026-11-13` [[2026-11-13-anthropic-s-roadshow-draws-wall-street-s-largest-investors-a|Anthropic's roadshow draws Wall Street's largest investors as orders from China are reportedly rebuffed]]
 - `2026-11-13` [[2026-11-13-anthropic-ipo-demand-meets-questions-about-durability|Anthropic IPO demand meets questions about durability]]
 - `2026-11-13` [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo|Amodei calls compute Anthropic's deepest dilemma as the IPO roadshow turns away Chinese orders]]
 - `2026-11-13` [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro|AI infrastructure finance matures: compute futures near approval, Cerebras pulls in WSE-5 and capital chases off-grid power]]
+- `2026-11-12` [[2026-11-12-yahoo-reports-anthropic-confirmation-of-its-november-18-19-i|Yahoo reports Anthropic confirmation of its November 18–19 IPO timetable]]
 - `2026-11-12` [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is|Without Huang, Nvidia's role as the AI economy's financier is in doubt]]
 - `2026-11-12` [[2026-11-12-pressure-on-frontier-ai-broadens-nonprofits-sue-to-halt-new|Pressure on frontier AI broadens: nonprofits sue to halt new models as Congress and the EU set agendas]]
 - `2026-11-12` [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as|OpenAI takes $15 billion at $1.25 trillion, half its target, as Anthropic's IPO draws about six times demand]]
+- `2026-11-12` [[2026-11-12-openai-raises-15-billion-at-a-1-25-trillion-valuation-half-t|OpenAI raises $15 billion at a $1.25 trillion valuation, half the amount it sought]]
+- `2026-11-12` [[2026-11-12-nonprofits-sue-anthropic-google-meta-openai-and-spacex-s-ai|Nonprofits sue Anthropic, Google, Meta, OpenAI, and SpaceX's AI unit to halt new frontier models]]
+- `2026-11-12` [[2026-11-12-new-claude-for-manufacturing-targets-quoting-quality-and-mai|NEW Claude for Manufacturing targets quoting, quality, and maintenance workflows]]
+- `2026-11-12` [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval|Lawmakers seek records on Nvidia's China chip-sales approvals]]
+- `2026-11-12` [[2026-11-12-anthropic-s-regional-eligibility-clarification-takes-effect|Anthropic’s regional eligibility clarification takes effect]]
 - `2026-11-12` [[2026-11-12-anthropic-pushes-claude-into-factories-and-google-meet-days|Anthropic pushes Claude into factories and Google Meet days before its IPO]]
+- `2026-11-11` [[2026-11-11-trending-openai-s-reported-quarterly-revenue-exceeds-10-bill|Trending OpenAI’s reported quarterly revenue exceeds $10 billion]]
 - `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
+- `2026-11-11` [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a|Reported U.S. rule would restrict remote access to advanced AI chips]]
 - `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
 - `2026-11-11` [[2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co|Hackers are stealing AI API keys to resell frontier-model compute]]
+- `2026-11-11` [[2026-11-11-cornell-names-leadership-for-independent-new-york-ai-safety|Cornell names leadership for independent New York AI-safety evaluations]]
 - `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
+- `2026-11-11` [[2026-11-11-anthropic-study-finds-coordination-costs-when-users-delegate|Anthropic study finds coordination costs when users delegate to separate agents]]
 - `2026-11-11` [[2026-11-11-anthropic-finds-agent-teams-acting-for-separate-users-underp|Anthropic finds agent teams acting for separate users underperform a single coordinating agent]]
 - `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-an-ai-holding|AI services find business models: Sequoia backs an AI holding company as Anthropic's Ode adds results-based fees]]
 - `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-ai-holding-co|AI services find business models: Sequoia backs AI holding company Sequence as Anthropic's Ode adds performance fees]]

@@ -5,8 +5,8 @@ title: Leaked UI elements suggest OpenAI is developing a "ChatGPT for Science" s
 date: '2026-06-21'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-21-daily-ai-news-digest.md
 content_hash: c165e8df905480af83077896c5a0f8f0e2195c82239662e405fe910c06cfdf76
 normalized_title_hash: e70b2cda87937836

@@ -1,17 +1,22 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 561
+member_count: 566
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 561 connected article(s).
+> Auto-generated topic hub. 566 connected article(s).
 
+- `2026-11-16` [[2026-11-16-openai-explored-a-5-billion-plus-acquisition-of-goodfire-a-s|OpenAI explored a $5 billion-plus acquisition of Goodfire, a startup that decodes how AI models think]]
+- `2026-11-15` [[2026-11-15-anthropic-looks-set-to-price-above-its-range-ahead-of-thursd|Anthropic looks set to price above its range ahead of Thursday's 'Grandthropic' debut as crypto loses out]]
+- `2026-11-13` [[2026-11-13-xai-lays-off-most-of-the-grok-imagine-video-generation-team|xAI lays off most of the Grok Imagine video-generation team]]
 - `2026-11-13` [[2026-11-13-november-12-2026-wall-street-journal|[November 12, 2026] · [Wall Street Journal]]]
 - `2026-11-13` [[2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni|Nvidia's succession search turns to Arm's Rene Haas as earnings put Kress's financing stance to the test]]
 - `2026-11-12` [[2026-11-12-november-12-2026-siliconangle|[November 12, 2026] · [SiliconANGLE]]]
 - `2026-11-12` [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti|SpaceX's AI arm plans $74 billion of data centers while cutting most of the Grok video team]]
+- `2026-11-12` [[2026-11-12-ibm-acquires-authmind-to-monitor-how-ai-agents-use-credentia|IBM acquires AuthMind to monitor how AI agents use credentials after they are granted]]
+- `2026-11-12` [[2026-11-12-consumer-and-small-business-agents-start-spending-money-meta|Consumer and small-business agents start spending money: Meta's Muse places calls and Replit Agent makes purchases]]
 - `2026-11-12` [[2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi|Agent infrastructure draws capital: LangChain doubles to $3 billion and IBM buys AuthMind for agent identity]]
 - `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-an-ai-holding|AI services find business models: Sequoia backs an AI holding company as Anthropic's Ode adds results-based fees]]
 - `2026-11-11` [[2026-11-11-ai-services-find-business-models-sequoia-backs-ai-holding-co|AI services find business models: Sequoia backs AI holding company Sequence as Anthropic's Ode adds performance fees]]

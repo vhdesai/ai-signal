@@ -4,8 +4,8 @@ title: OpenAI Faces Fast-Growing Wave of AI Safety Lawsuits
 date: '2026-05-14'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: https://cryptobriefing.com/chatbot-companies-lawsuits-ai-violence-teen-safety/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 43f079ed4a7705c34e26f68ddc77ff14a1dea2ae2fab689b5fdbc0da2d3d2a2b

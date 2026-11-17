@@ -4,8 +4,8 @@ title: Google makes computer use a built-in tool in Gemini 3.5 Flash
 date: '2026-06-24'
 source: Google DeepMind Blog
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-26_063915_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 4473371f516296820ee4f222de8a61be310a9d6ccfcb6c2dcfcff0a0612c8dc0

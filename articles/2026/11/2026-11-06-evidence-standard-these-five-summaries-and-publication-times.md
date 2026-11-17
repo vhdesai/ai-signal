@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval
 - 2026-11-06-search-index-checks-official-company-sources-openai-news-blo
 - 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
 - 2026-09-04-techcrunch-reports-that-independent-researchers-found-agents
 - 2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla
-- 2026-10-31-verification-and-exclusions-included-articles-were-read-in-f
 embedding_id: 2026-11-06-evidence-standard-these-five-summaries-and-publication-times
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Evidence standard: These five summaries and publication timestamps were verified
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]] · [[2026-09-04-techcrunch-reports-that-independent-researchers-found-agents]] · [[2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla]] · [[2026-10-31-verification-and-exclusions-included-articles-were-read-in-f]]
+**Related:** [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval]] · [[2026-11-06-search-index-checks-official-company-sources-openai-news-blo]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]] · [[2026-09-04-techcrunch-reports-that-independent-researchers-found-agents]] · [[2026-11-06-full-page-originals-openai-cyber-and-alignment-anthropic-cla]]
 <!-- graph:end -->

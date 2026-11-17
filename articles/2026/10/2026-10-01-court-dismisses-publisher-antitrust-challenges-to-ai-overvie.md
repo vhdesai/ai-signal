@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-29-october-28-2026-cnbc
+- 2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 - 2026-08-29-ai-stops-being-a-software-category-courts-capital-and-contra
-- 2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit
 embedding_id: 2026-10-01-court-dismisses-publisher-antitrust-challenges-to-ai-overvie
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Ars Technica reported dismissal of Chegg and Penske antitrust suits. The ruling 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-10-29-october-28-2026-cnbc]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-08-29-ai-stops-being-a-software-category-courts-capital-and-contra]] · [[2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit]]
+**Related:** [[2026-10-29-october-28-2026-cnbc]] · [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-08-29-ai-stops-being-a-software-category-courts-capital-and-contra]]
 <!-- graph:end -->

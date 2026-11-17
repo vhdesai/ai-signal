@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 452
+member_count: 457
 ---
 
 # xAI
 
-> Auto-generated entity hub. 452 connected article(s).
+> Auto-generated entity hub. 457 connected article(s).
 
+- `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-14` [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern|Analysis: Nvidia controversy raises executive-security governance questions]]
+- `2026-11-13` [[2026-11-13-xai-lays-off-most-of-the-grok-imagine-video-generation-team|xAI lays off most of the Grok Imagine video-generation team]]
+- `2026-11-13` [[2026-11-13-amazon-s-internal-world-product-graph-plan-aims-to-own-produ|Amazon's internal "World Product Graph" plan aims to own product data for every item sold and blunt AI shopping agents]]
+- `2026-11-11` [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a|Reported U.S. rule would restrict remote access to advanced AI chips]]
 - `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-09` [[2026-11-09-trump-signals-openness-to-ai-guardrails-without-naming-a-leg|Trump signals openness to AI guardrails without naming a legislative plan]]
 - `2026-11-09` [[2026-11-09-expanding-teen-account-protections-to-teens-around-the-world|Expanding Teen Account Protections to Teens Around the World]]

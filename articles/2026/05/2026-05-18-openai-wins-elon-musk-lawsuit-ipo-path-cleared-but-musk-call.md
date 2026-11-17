@@ -5,8 +5,8 @@ title: OpenAI Wins Elon Musk Lawsuit — IPO Path Cleared, but Musk Calls Verdic
 date: '2026-05-18'
 source: Forbes / New York Times
 url_original: null
-url_canonical: https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: e0c1b44f4cee7c9537cb60d4db5ec0bc9e4290592bea2f1bb2b97dac4418efa6

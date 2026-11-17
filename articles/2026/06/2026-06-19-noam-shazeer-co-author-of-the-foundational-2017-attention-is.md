@@ -5,8 +5,8 @@ title: Noam Shazeer, co-author of the foundational 2017 "Attention Is All You Ne
 date: '2026-06-19'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://arxiv.org/abs/1706.03762
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-19-daily-ai-news-digest.md
 content_hash: 1dfbe9ba57d98ded5495225c2a240e7b8180669b781edb632dc1d3296c66b05c
 normalized_title_hash: e700cfbc114abb6f

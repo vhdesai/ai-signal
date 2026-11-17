@@ -5,8 +5,8 @@ title: 'Blogs & news: OpenAI Blog, Google DeepMind, Meta AI, BAIR, Apple ML Rese
 date: '2026-06-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/tag/openai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_060300_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 525027e50bd658f4fe14d16a70788b7baed55f4d3f9b93958f56602d66d7283f

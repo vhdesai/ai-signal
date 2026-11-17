@@ -3,38 +3,35 @@ article_id: 2026-11-11-deepmind-s-alphagenome-2-predicts-dna-variant-effects-in-
 title: DeepMind's AlphaGenome 2 predicts DNA-variant effects in specific cell types
 date: '2026-11-11'
 source: '[Google DeepMind]'
-url_original: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
-url_canonical: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
-url_status: ok
-digest_source: digests\raw\2026-11-12_065919_Final-Daily-AI-News-Digest.md
-content_hash: b30e20448d6f52de70cf8b9fa016c8f399d36207a1af82c21ad041384d1cc8d7
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-11-12_070930_Inbox_Daily AI News Digest - November
+  12, 2026.md
+content_hash: 5dce68e01addd00184897910c5efad49d9924694c79e3448cd82b2947d15c3cd
 normalized_title_hash: 45dfcfcae1fefe75
-canonical_url_hash: 833534b672b8daa3
-tags:
-- Research
-- New
-entities: []
+canonical_url_hash: ''
+tags: []
+entities:
+- Google
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-03-transfer-learning-for-genomic-prediction-in-underrepresented
-- 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-- 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
-- 2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec
+dedupe_status: duplicate
+canonical_article_id: 2026-11-11-alphagenome-2-adds-cell-specific-predictions-for-genetic-res
+related_article_ids: []
 embedding_id: 2026-11-11-deepmind-s-alphagenome-2-predicts-dna-variant-effects-in-spe
 event_name: ''
 ---
 
 # DeepMind's AlphaGenome 2 predicts DNA-variant effects in specific cell types
 
-AlphaGenome 2 predicts how DNA variants affect gene activity in specific cell types and states rather than averaging across tissues, and adapts to new single-cell datasets without retraining. On single-cell benchmarks across 28 immune cell types it recovered 30% of causal variants at 90% precision, versus 16% for a fine-tuned AlphaGenome 1. It is available through the AlphaGenome API for non-commercial research, and DeepMind stresses it is not clinically validated.
+AlphaGenome 2 predicts how DNA variants affect gene activity in specific cell types and states rather than averaging across tissues, and adapts to new single-cell datasets without retraining. On single-cell benchmarks across 28 immune cell types it recovered 30% of causal variants at 90% precision, versus 16% for a fine-tuned AlphaGenome 1. It is available through the AlphaGenome API for non-commercial research, and DeepMind stresses it is not clinically validated. Google DeepMind RESEARCH ANALYSIS
 
 <!-- graph:start -->
 ## Connections
 
+**Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-03-transfer-learning-for-genomic-prediction-in-underrepresented]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr]] · [[2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec]]
+**Canonical:** [[2026-11-11-alphagenome-2-adds-cell-specific-predictions-for-genetic-res]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: New Perplexity Personal Computer Now Generally Available for All Mac User
 date: '2026-05-07'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: ea6ed1f8a184116468d70178b98dbf10ae472ef2d2d1fb7729e9a4696d1578a3

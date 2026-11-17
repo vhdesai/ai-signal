@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da
 - 2026-11-10-november-10-2026-techcrunch-2
 - 2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf
-- 2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine
+- 2026-11-12-the-fireworks-ai-breach-reached-notion-ai-chat-transcripts-s
 embedding_id: 2026-11-09-ai-infrastructure-becomes-a-target-fireworks-breach-exposes
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Fireworks disclosed that attackers accessed some customers' model weights, datas
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-10-fireworks-discloses-attackers-accessed-customer-model-weight]] · [[2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da]] · [[2026-11-10-november-10-2026-techcrunch-2]] · [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf]] · [[2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine]]
+**Related:** [[2026-11-10-fireworks-discloses-attackers-accessed-customer-model-weight]] · [[2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da]] · [[2026-11-10-november-10-2026-techcrunch-2]] · [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf]] · [[2026-11-12-the-fireworks-ai-breach-reached-notion-ai-chat-transcripts-s]]
 <!-- graph:end -->

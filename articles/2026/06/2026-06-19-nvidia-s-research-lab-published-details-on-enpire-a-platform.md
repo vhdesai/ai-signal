@@ -5,8 +5,8 @@ title: NVIDIA's research lab published details on ENPIRE, a platform that allows
 date: '2026-06-19'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://research.nvidia.com/labs/gear/enpire/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-19-daily-ai-news-digest.md
 content_hash: 9a9582ea0c71b190a9088696bb65d2df34ba6b814a3449e9fa5d140537269f8c
 normalized_title_hash: 4f3ff67833658bd8

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle
 - 2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit
+- 2026-11-16-zoox-robotaxis-go-live-on-the-uber-app-in-las-vegas
+- 2026-11-16-zoox-robotaxis-become-available-through-uber-in-las-vegas
 - 2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee
-- 2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles
-- 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 embedding_id: 2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Amazon-owned Zoox revealed design and functional upgrades to its purpose-built, 
 ## Connections
 
 **Entities:** [[Amazon]]
-**Related:** [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle]] · [[2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit]] · [[2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee]] · [[2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]]
+**Related:** [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle]] · [[2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit]] · [[2026-11-16-zoox-robotaxis-go-live-on-the-uber-app-in-las-vegas]] · [[2026-11-16-zoox-robotaxis-become-available-through-uber-in-las-vegas]] · [[2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Future of Life Institute Releases AI Safety Index
 date: '2026-07-07'
 source: Multiple sources
 url_original: null
-url_canonical: https://futureoflife.org/ai-safety-index-summer-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_074500_Inbox_Daily AI News Digest – July 8,
   2026.md
 content_hash: 903a64d7064fdb4f97c02f515ce2ac015ee1728a971ab9827f5c28d79e93e448

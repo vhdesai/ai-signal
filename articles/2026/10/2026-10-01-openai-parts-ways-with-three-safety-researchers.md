@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-01-reports-cover-openai-departures-over-information-handling-al
 - 2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also
+- 2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval
 - 2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents
 - 2026-09-04-techcrunch-reports-that-independent-researchers-found-agents
-- 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 embedding_id: 2026-10-01-openai-parts-ways-with-three-safety-researchers
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI confirmed three departures, citing mishandled sensitive information; WSJ 
 
 **Entities:** [[Amazon]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-01-reports-cover-openai-departures-over-information-handling-al]] · [[2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also]] · [[2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents]] · [[2026-09-04-techcrunch-reports-that-independent-researchers-found-agents]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]]
+**Related:** [[2026-10-01-reports-cover-openai-departures-over-information-handling-al]] · [[2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also]] · [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval]] · [[2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents]] · [[2026-09-04-techcrunch-reports-that-independent-researchers-found-agents]]
 <!-- graph:end -->

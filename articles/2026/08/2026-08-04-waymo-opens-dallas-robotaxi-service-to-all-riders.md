@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
+- 2026-11-16-zoox-robotaxis-go-live-on-the-uber-app-in-las-vegas
 - 2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv
+- 2026-11-16-zoox-robotaxis-become-available-through-uber-in-las-vegas
 - 2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee
-- 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
-- 2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto
 embedding_id: 2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Waymo removed the waitlist for its Dallas robotaxi service, opening access to an
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]] · [[2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee]] · [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]] · [[2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto]]
+**Related:** [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-11-16-zoox-robotaxis-go-live-on-the-uber-app-in-las-vegas]] · [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]] · [[2026-11-16-zoox-robotaxis-become-available-through-uber-in-las-vegas]] · [[2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee]]
 <!-- graph:end -->

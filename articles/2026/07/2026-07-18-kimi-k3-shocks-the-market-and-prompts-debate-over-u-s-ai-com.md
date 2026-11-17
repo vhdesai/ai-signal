@@ -4,8 +4,8 @@ title: Kimi K3 shocks the market and prompts debate over U.S. AI competitiveness
 date: '2026-07-18'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/18/kimi-threat-or-menace/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: 46cb91feaa472b9af95c9d9a8a96b39e443cf94cac1d08b03173fc26a73abb90
 normalized_title_hash: fc0f6d1e444666a3

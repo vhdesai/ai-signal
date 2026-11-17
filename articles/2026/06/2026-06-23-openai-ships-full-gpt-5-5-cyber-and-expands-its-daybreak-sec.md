@@ -4,8 +4,8 @@ title: OpenAI ships full GPT-5.5-Cyber and expands its Daybreak security program
 date: '2026-06-23'
 source: The Hacker News
 url_original: null
-url_canonical: https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-24_060529_Inbox_Daily AI News Digest - June 24,
   2026.md
 content_hash: 453ac6f6c16916cb9c124cf1f3e47e489d32667bf71d12a9b40c215be820ec58

@@ -1,17 +1,41 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1789
+member_count: 1816
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1789 connected article(s).
+> Auto-generated topic hub. 1816 connected article(s).
 
+- `2026-11-16` [[2026-11-16-november-16-2026-theprint-citing-bloomberg|[November 16, 2026] · [ThePrint, citing Bloomberg]]]
+- `2026-11-16` [[2026-11-16-tencent-positions-hy4-flash-for-low-cost-long-context-deploy|Tencent positions Hy4 flash for low-cost, long-context deployment]]
+- `2026-11-16` [[2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m|Tencent launches Hy4 flash as a lower-cost multimodal work model]]
+- `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-16` [[2026-11-16-reported-deepseek-consumer-limits-highlight-compute-availabi|Reported DeepSeek consumer limits highlight compute availability risk]]
+- `2026-11-16` [[2026-11-16-qwen4-max-brings-a-larger-multimodal-model-to-alibaba-s-clou|Qwen4-Max brings a larger multimodal model to Alibaba’s cloud]]
+- `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-16` [[2026-11-16-alibaba-launches-qwen4-max-and-tencent-ships-hy4-flash-both|Alibaba launches Qwen4-Max and Tencent ships Hy4 flash, both with million-token context]]
+- `2026-11-16` [[2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex|Alibaba introduces Qwen4-Max with a one-million-token context window]]
+- `2026-11-15` [[2026-11-15-november-16-2026-business-insider|[November 16, 2026] · [Business Insider]]]
+- `2026-11-15` [[2026-11-15-wsj-southeast-asian-data-centers-gave-chinese-ai-firms-a-bac|WSJ: Southeast Asian data centers gave Chinese AI firms a "backdoor" to Nvidia compute]]
+- `2026-11-15` [[2026-11-15-the-journal-reports-that-large-data-centers-in-southeast-asi|The Journal reports that large data centers in Southeast Asia gave Chinese companies crucial computing power and served…]]
+- `2026-11-15` [[2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee|Southeast Asian data centers come under scrutiny as Megaspeed opens a probe and Asian governments seek Nvidia reassurances]]
+- `2026-11-15` [[2026-11-15-south-korea-s-science-ministry-said-nvidia-reaffirmed-its-pl|South Korea's Science Ministry said Nvidia reaffirmed its plan to supply 260,000 advanced GPUs, and the country's AI…]]
+- `2026-11-15` [[2026-11-15-san-francisco-declaration-outlines-international-ai-security|San Francisco declaration outlines international AI security and infrastructure cooperation]]
+- `2026-11-15` [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in|Megaspeed opens internal probe and says Alice Huang left in 2025]]
+- `2026-11-15` [[2026-11-15-bessent-demands-an-outside-nvidia-ceo-as-huang-s-allies-push|Bessent demands an outside Nvidia CEO as Huang's allies push a comeback before Tuesday's earnings]]
+- `2026-11-14` [[2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim|[November 15, 2026] · [The Economic Times, citing the Financial Times]]]
+- `2026-11-14` [[2026-11-14-november-15-2026-cnbc|[November 15, 2026] · [CNBC]]]
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-scotland-s-ai-build-out-faces-organized-public-opposition|Scotland’s AI build-out faces organized public opposition]]
+- `2026-11-14` [[2026-11-14-pressure-shifts-to-commerce-as-bessent-says-bis-has-the-pen|Pressure shifts to Commerce as Bessent says BIS 'has the pen' on Megaspeed and the NYT details Lutnick's chip-rule push]]
 - `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]
 - `2026-11-14` [[2026-11-14-former-openai-researcher-will-depue-analyzed-open-weights-fr|Former OpenAI researcher Will DePue analyzed open weights from DeepSeek, Moonshot, MiniMax and Ant Group and reports…]]
+- `2026-11-14` [[2026-11-14-bessent-and-congress-focus-on-lutnick-s-handling-of-megaspee|Bessent and Congress focus on Lutnick's handling of Megaspeed]]
 - `2026-11-14` [[2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo|Axios reports Treasury Secretary Scott Bessent pointed responsibility for the Megaspeed chip matter at the Commerce…]]
+- `2026-11-14` [[2026-11-14-asian-governments-move-to-lock-in-nvidia-commitments-after-h|Asian governments move to lock in Nvidia commitments after Huang's exit]]
+- `2026-11-14` [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern|Analysis: Nvidia controversy raises executive-security governance questions]]
 - `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
 - `2026-11-13` [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne|Weight forensics tie China's top open models to export-banned Blackwell chips as Washington feuds over Megaspeed]]
 - `2026-11-13` [[2026-11-13-model-weight-analysis-raises-questions-about-restricted-nvid|Model-weight analysis raises questions about restricted Nvidia compute]]
@@ -22,10 +46,13 @@ member_count: 1789
 - `2026-11-13` [[2026-11-13-ai2-s-xybench-finds-leading-models-rarely-correct-users-mist|AI2's XYBench finds leading models rarely correct users' mistaken assumptions]]
 - `2026-11-12` [[2026-11-12-november-12-2026-wsj-pro-cybersecurity-2|[November 12, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-12` [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats|The Nvidia-China fallout widens: Huang will testify, Democrats probe export approvals and Lutnick is under pressure]]
+- `2026-11-12` [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval|Lawmakers seek records on Nvidia's China chip-sales approvals]]
 - `2026-11-12` [[2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i|Jensen Huang resigns as Nvidia CEO; CFO Colette Kress steps in while the board searches for a successor]]
+- `2026-11-12` [[2026-11-12-democrats-open-a-second-congressional-probe-into-nvidia-s-ch|Democrats open a second congressional probe into Nvidia's China sales as Huang agrees to testify behind closed doors]]
 - `2026-11-12` [[2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine|AI raises the stakes on both sides of security as free Chinese models, deepfakes and vendor breaches spread]]
 - `2026-11-11` [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia|The Huang scandal becomes an export-control fight as Nvidia's board hires Wachtell]]
 - `2026-11-11` [[2026-11-11-tsmc-approves-up-to-1-billion-for-anthropic-and-openai-as-al|TSMC approves up to $1 billion for Anthropic and OpenAI as Alibaba wins approval to list its chip unit]]
+- `2026-11-11` [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a|Reported U.S. rule would restrict remote access to advanced AI chips]]
 - `2026-11-11` [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati|New York names leaders for an independent AI-safety evaluation center]]
 - `2026-11-11` [[2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole|Commerce moves to close China's remote chip-access loophole as Congress digs into Nvidia's China records]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]

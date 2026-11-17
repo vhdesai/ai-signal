@@ -4,8 +4,8 @@ title: MIT Unveils Ultra-Low-Power Navigation Chip for Autonomous Micro-Robots
 date: '2026-06-23'
 source: Multiple sources
 url_original: null
-url_canonical: https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-23_065425_Final-Daily-AI-News-Digest.md
 content_hash: 83b18ac997d810b36745b2834d887033cad6dbb36fe828aaee85550929cd67ad
 normalized_title_hash: 7cf888f84e8e6d92

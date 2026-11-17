@@ -5,7 +5,7 @@ date: '2026-08-29'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/
 url_canonical: https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-30_060705_Inbox_Daily AI News Digest - August 30,
   2026.md
 content_hash: 75f9e34168c762d0200f3511755f8b71a4cf59e9aee2326e0cd3f24873fd0f6e
@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re
 - 2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up
 - 2026-11-09-november-9-2026-nvidia-blog
+- 2026-11-12-new-research-could-lead-to-faster-trustworthy-ai-models-for
 embedding_id: 2026-08-29-nvidia-earth2studio-tutorial-shows-custom-ensemble-forecasti
 event_name: ''
 ---
@@ -37,5 +38,5 @@ MarkTechPost published a technical workflow for building batched ensemble weathe
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]] · [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re]] · [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up]] · [[2026-11-09-november-9-2026-nvidia-blog]]
+**Related:** [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]] · [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-stay-re]] · [[2026-11-09-nvidia-opens-gr00t-2-as-robot-data-suppliers-race-to-move-up]] · [[2026-11-09-november-9-2026-nvidia-blog]] · [[2026-11-12-new-research-could-lead-to-faster-trustworthy-ai-models-for]]
 <!-- graph:end -->

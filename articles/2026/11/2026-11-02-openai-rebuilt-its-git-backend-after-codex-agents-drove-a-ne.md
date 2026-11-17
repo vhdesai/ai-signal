@@ -6,7 +6,7 @@ date: '2026-11-02'
 source: '[OpenAI Blog]'
 url_original: https://openai.com/index/scaling-git-at-openai
 url_canonical: https://openai.com/index/scaling-git-at-openai
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-03_061250_Inbox_Daily AI News Digest - November
   3, 2026.md
 content_hash: 08ed92d39723c13f95b3b02130590bcb2ed7551d75e041088bc83c80bd6a2e0d

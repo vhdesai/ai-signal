@@ -1,19 +1,27 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 225
+member_count: 233
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 225 connected article(s).
+> Auto-generated entity hub. 233 connected article(s).
 
+- `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-14` [[2026-11-14-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]
+- `2026-11-14` [[2026-11-14-scotland-s-ai-build-out-faces-organized-public-opposition|Scotland’s AI build-out faces organized public opposition]]
 - `2026-11-14` [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch|Cerebras says its next-generation WSE-5 chip is ahead of schedule, with CS-5 systems due in early summer 2027]]
+- `2026-11-14` [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern|Analysis: Nvidia controversy raises executive-security governance questions]]
 - `2026-11-13` [[2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt|OpenAI and Databricks put governed company data into ChatGPT and Codex through Genie and Unity Gateway]]
+- `2026-11-13` [[2026-11-13-openai-unveils-daybreak-red-team-defense-factory-security-to|OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools]]
+- `2026-11-13` [[2026-11-13-microsoft-s-roughly-18-hour-outage-spreads-from-outlook-and|Microsoft's roughly 18-hour outage spreads from Outlook and Teams to Copilot, Defender, and Intune]]
+- `2026-11-13` [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a|Cerebras signs Microsoft as its third hyperscaler customer and raises guidance, but its OpenAI capacity is late]]
 - `2026-11-13` [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro|AI infrastructure finance matures: compute futures near approval, Cerebras pulls in WSE-5 and capital chases off-grid power]]
+- `2026-11-12` [[2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an|Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal]]
 - `2026-11-12` [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not|Cerebras lands Microsoft and raises guidance as delivery, not demand, becomes the bottleneck for neoclouds]]
+- `2026-11-11` [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a|Reported U.S. rule would restrict remote access to advanced AI chips]]
 - `2026-11-10` [[2026-11-10-stanford-ai100-assesses-the-scaling-era-and-its-societal-ris|Stanford AI100 assesses the scaling era and its societal risks]]
 - `2026-11-10` [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf|Fireworks exposure and Hugging Face warning sharpen AI platform security concerns]]
 - `2026-11-10` [[2026-11-10-bilt-selects-cerebras-inference-for-its-consumer-ai-services|Bilt selects Cerebras inference for its consumer AI services]]

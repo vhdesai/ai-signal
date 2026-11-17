@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat
 - 2026-09-06-databricks-launches-context-engineer-certification-and-expan
 - 2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s
-- 2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in
+- 2026-11-11-databricks-positions-genie-for-extended-data-grounded-assign
 embedding_id: 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Oracle introduced a builder experience that lets developers create and deploy ag
 
 **Entities:** [[Databricks]] · [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat]] · [[2026-09-06-databricks-launches-context-engineer-certification-and-expan]] · [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s]] · [[2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in]]
+**Related:** [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat]] · [[2026-09-06-databricks-launches-context-engineer-certification-and-expan]] · [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s]] · [[2026-11-11-databricks-positions-genie-for-extended-data-grounded-assign]]
 <!-- graph:end -->

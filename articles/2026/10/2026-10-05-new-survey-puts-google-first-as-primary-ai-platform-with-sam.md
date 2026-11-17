@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r
 - 2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth
 - 2026-08-11-gemini-app-crosses-1-billion-monthly-active-users
+- 2026-11-11-new-google-introduces-gemini-decision-1-for-high-volume-deci
 - 2026-11-09-chatgpt-s-growth-rebounds-as-it-holds-more-than-81-of-chatbo
-- 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
 embedding_id: 2026-10-05-new-survey-puts-google-first-as-primary-ai-platform-with-sam
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google leads the survey’s primary-platform responses at 48%, combining Gemini 
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r]] · [[2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth]] · [[2026-08-11-gemini-app-crosses-1-billion-monthly-active-users]] · [[2026-11-09-chatgpt-s-growth-rebounds-as-it-holds-more-than-81-of-chatbo]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]]
+**Related:** [[2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r]] · [[2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth]] · [[2026-08-11-gemini-app-crosses-1-billion-monthly-active-users]] · [[2026-11-11-new-google-introduces-gemini-decision-1-for-high-volume-deci]] · [[2026-11-09-chatgpt-s-growth-rebounds-as-it-holds-more-than-81-of-chatbo]]
 <!-- graph:end -->

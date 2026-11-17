@@ -4,8 +4,8 @@ title: Mozilla researchers show AI coding agents can be coerced into running mal
 date: '2026-06-27'
 source: Tom's Hardware
 url_original: null
-url_canonical: https://www.tomshardware.com/tech-industry/cyber-security/ai-coding-agents-can-be-tricked-into-installing-malware-via-clean-github-repositories-mozillas-0din-team-shows-how-claude-code-can-be-exploited-by-its-own-helpfulness
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_060911_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 34248ae13690a45e15b4593fa5a61b03dbbd85a4c410e039737514efbcf9a484

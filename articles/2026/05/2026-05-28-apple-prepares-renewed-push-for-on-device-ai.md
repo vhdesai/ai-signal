@@ -4,8 +4,8 @@ title: Apple prepares renewed push for on-device AI
 date: '2026-05-28'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=apple-ai-runs-on-devices-instead-of-cloud
-url_canonical: https://discussions.apple.com/thread/254782170
-url_status: repaired
+url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=apple-ai-runs-on-devices-instead-of-cloud
+url_status: broken
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 233be8e374f4b330e44232106fca9e8974dda89c519edb724bef97162a62cd5d

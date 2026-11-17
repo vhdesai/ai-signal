@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-25-claude-gets-unified-memory-across-chat-and-cowork-no-more-re
 - 2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web
 - 2026-08-12-anthropic-brings-claude-cowork-to-a-chrome-sidebar
-- 2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of
+- 2026-11-14-anthropic-tells-claude-opus-5-5-users-to-drop-think-hard-and
 embedding_id: 2026-08-25-claude-cowork-finally-remembers-what-you-told-the-app-in-cha
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic merged the memory systems behind Claude chat and Claude Cowork so cont
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-25-claude-gets-unified-memory-across-chat-and-cowork]] · [[2026-08-25-claude-gets-unified-memory-across-chat-and-cowork-no-more-re]] · [[2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web]] · [[2026-08-12-anthropic-brings-claude-cowork-to-a-chrome-sidebar]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of]]
+**Related:** [[2026-08-25-claude-gets-unified-memory-across-chat-and-cowork]] · [[2026-08-25-claude-gets-unified-memory-across-chat-and-cowork-no-more-re]] · [[2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web]] · [[2026-08-12-anthropic-brings-claude-cowork-to-a-chrome-sidebar]] · [[2026-11-14-anthropic-tells-claude-opus-5-5-users-to-drop-think-hard-and]]
 <!-- graph:end -->

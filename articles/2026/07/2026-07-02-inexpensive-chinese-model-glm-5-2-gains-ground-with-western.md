@@ -4,8 +4,8 @@ title: Inexpensive Chinese model GLM-5.2 gains ground with Western developers
 date: '2026-07-02'
 source: Reuters
 url_original: null
-url_canonical: https://www.ibtimes.co.uk/chinese-ai-model-glm-5-2-challenges-western-rivals-1806676
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: d86a565fb9d83ee0c898b7b77c7f816bd4ffb754d41aca9a2864cf98da567867

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-05-cerebras-gains-after-renewed-partnership-endorsement
+- 2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a
 - 2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation
 - 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
 - 2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i
-- 2026-05-23-cerebras-systems-completed-a-blockbuster-ipo-with-a-strong-m
 embedding_id: 2026-10-05-altman-reaffirms-cerebras-relationship-as-shares-recover-pre
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Yahoo Finance reports premarket gains after Altman reaffirmed Cerebras' partners
 
 **Entities:** [[Cerebras]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-05-cerebras-gains-after-renewed-partnership-endorsement]] · [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]] · [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]] · [[2026-05-23-cerebras-systems-completed-a-blockbuster-ipo-with-a-strong-m]]
+**Related:** [[2026-10-05-cerebras-gains-after-renewed-partnership-endorsement]] · [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a]] · [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]] · [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]]
 <!-- graph:end -->

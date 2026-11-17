@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-bill-gates-warns-about-ai-risks
 - 2026-11-14-november-13-2026-wsj-pro-cybersecurity
+- 2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern
 - 2026-08-06-chip-investors-navigate-geopolitical-risk-as-ai-powered-cons
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
-- 2026-11-08-november-7-2026-techcrunch
 embedding_id: 2026-08-18-wsj-deep-dive-trump-s-privateer-hacking-plan-brings-high-ris
 event_name: ''
 ---
@@ -41,5 +41,5 @@ WSJ Pro CyberSecurity follows up on last week's Trump memo authorizing corporate
 
 **Entities:** [[Databricks]] · [[NVIDIA]] · [[Tesla]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-11-14-november-13-2026-wsj-pro-cybersecurity]] · [[2026-08-06-chip-investors-navigate-geopolitical-risk-as-ai-powered-cons]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-11-08-november-7-2026-techcrunch]]
+**Related:** [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-11-14-november-13-2026-wsj-pro-cybersecurity]] · [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern]] · [[2026-08-06-chip-investors-navigate-geopolitical-risk-as-ai-powered-cons]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f
 - 2026-11-09-november-9-2026-dealbook
 - 2026-11-08-november-9-2026-wall-street-journal-wsj-politics
-- 2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia
+- 2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in
 embedding_id: 2026-11-09-the-first-shareholder-lawsuit-against-nvidia-over-jensen-hua
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Rosen Law Firm filed a proposed class action in the Northern District of Califor
 
 **Entities:** [[AMD]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]]
+**Related:** [[2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in]]
 <!-- graph:end -->

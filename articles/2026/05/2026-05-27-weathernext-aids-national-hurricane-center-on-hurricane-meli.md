@@ -4,8 +4,8 @@ title: WeatherNext Aids National Hurricane Center on Hurricane Melissa Landfall 
 date: '2026-05-27'
 source: Google DeepMind
 url_original: null
-url_canonical: https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_070624_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: bbf33f294d8c076132ac00d961b77494abbab150e059cc421686e7163c7fe783

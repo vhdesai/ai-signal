@@ -4,8 +4,8 @@ title: IBM claims first sub-1nm transistor — a 0.7nm "nanostack" architecture
 date: '2026-06-25'
 source: AOL Finance
 url_original: null
-url_canonical: https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-26_063915_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: bc5117a8774ecd4ca4a8f72ac98302dd3775e96a27cbc46c5cd589f6f86f0daf

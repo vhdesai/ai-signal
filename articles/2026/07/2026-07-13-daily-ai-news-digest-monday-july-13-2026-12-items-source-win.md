@@ -6,8 +6,8 @@ date: '2026-07-13'
 source: Infrastructure HOT INFRASTRUCTURE Meta expands Louisiana Hyperion supercluster
   to 5 GW and more than $50B [July 13, 2026]
 url_original: null
-url_canonical: https://louisianai.com/briefs/meta-hyperion-5gw-public-record-july-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-13_065937_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: 51fd68db5f18f1bb60b3fc4f5489ef21d0578b21513f3bb715d2503bfed98ff7

@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d
+- 2026-11-13-mit-mit-puts-human-judgment-inside-ai-assisted-structural-de
 - 2026-10-22-mit-introduces-design-software-for-embedding-sensing-into-ev
+- 2026-11-13-new-ai-copilot-helps-engineers-design-better-structures
 - 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
-- 2026-04-02-mit-researchers-developed-a-new-ai-model-that-measures-atomi
-- 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
 embedding_id: 2026-10-01-instructmesh-helps-users-repair-generated-designs-before-fab
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT's InstructMesh supports interactive repair of generated objects. Novice eval
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d]] · [[2026-10-22-mit-introduces-design-software-for-embedding-sensing-into-ev]] · [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-04-02-mit-researchers-developed-a-new-ai-model-that-measures-atomi]] · [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat]]
+**Related:** [[2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d]] · [[2026-11-13-mit-mit-puts-human-judgment-inside-ai-assisted-structural-de]] · [[2026-10-22-mit-introduces-design-software-for-embedding-sensing-into-ev]] · [[2026-11-13-new-ai-copilot-helps-engineers-design-better-structures]] · [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]]
 <!-- graph:end -->

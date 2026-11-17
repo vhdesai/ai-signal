@@ -5,8 +5,8 @@ title: U.S. and European semiconductor stocks sold off Friday on fears that soar
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://finance.yahoo.com/markets/stocks/articles/global-stock-rout-deepens-ai-070141088.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: f827e4635f584b0a2c964bd3c0d9f1054932730e474e9fdb57eb94fbec5607ed

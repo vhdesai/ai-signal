@@ -5,8 +5,8 @@ title: AI data‑center buildout emerges as a fresh inflation threat, complicati
 date: '2026-07-13'
 source: Associated Press
 url_original: null
-url_canonical: https://www.pbs.org/newshour/economy/massive-data-center-buildout-poses-latest-inflation-threat-for-consumers
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-13_060930_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: 991dcd83e67095ea82c5b3633857a84f588b9f61d2cdb4d49f32d2cce098f35e

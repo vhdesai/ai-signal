@@ -4,8 +4,8 @@ title: Bipartisan lawmakers push human oversight of AI weapons
 date: '2026-07-17'
 source: Axios
 url_original: null
-url_canonical: https://www.axios.com/2026/07/17/bipartisan-lawmakers-human-oversight-ai-weapons
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-17-daily-ai-news-digest.md
 content_hash: 4f31c6ddc69d02b1424a474528f4200ea6ccb70815c55c6aa20981e2fc17cfab
 normalized_title_hash: 3d1a05cb4f879fcd

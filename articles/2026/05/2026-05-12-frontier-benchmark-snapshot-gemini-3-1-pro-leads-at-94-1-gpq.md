@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g
 - 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
 - 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
-- 2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat
+- 2026-11-14-gemini-4-carbon-takes-the-matharena-crown-but-at-15-times-gp
 embedding_id: 2026-05-12-frontier-benchmark-snapshot-gemini-3-1-pro-leads-at-94-1-gpq
 event_name: ''
 ---
@@ -46,5 +46,5 @@ As of today's reporting window, Google Gemini 3.1 Pro Preview leads the GPQA Dia
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-16-gpt-5-4-pro-openai-holds-the-top-spot-on-gpqa-diamond-gradua]] · [[2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8]] · [[2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat]]
+**Related:** [[2026-05-16-gpt-5-4-pro-openai-holds-the-top-spot-on-gpqa-diamond-gradua]] · [[2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8]] · [[2026-11-14-gemini-4-carbon-takes-the-matharena-crown-but-at-15-times-gp]]
 <!-- graph:end -->

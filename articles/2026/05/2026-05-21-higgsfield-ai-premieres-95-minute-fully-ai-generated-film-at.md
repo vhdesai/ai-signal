@@ -4,8 +4,8 @@ title: Higgsfield AI Premieres 95-Minute Fully AI-Generated Film at Cannes Trend
 date: '2026-05-21'
 source: Wall Street Journal
 url_original: null
-url_canonical: https://tech.yahoo.com/ai/article/a-fully-ai-generated-film-premiered-in-cannes-this-week-150336187.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 5a606bae671bcb7bc5df17b244f61410770dfb26b7361212afd51a2499e5d844

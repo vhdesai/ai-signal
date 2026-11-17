@@ -22,8 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d
+- 2026-11-13-mit-s-ai-copilot-for-structural-design-asks-engineers-for-fe
+- 2026-11-13-mit-mit-puts-human-judgment-inside-ai-assisted-structural-de
 - 2026-11-13-mit-s-design-copilot-lets-engineers-steer-ai-generated-struc
-- 2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials
 embedding_id: 2026-10-22-mit-introduces-design-software-for-embedding-sensing-into-ev
 event_name: ''
 ---
@@ -36,5 +37,5 @@ MIT News reports X-Hinges, a design approach that helps creators 3D-print intera
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d]] · [[2026-11-13-mit-s-design-copilot-lets-engineers-steer-ai-generated-struc]] · [[2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials]]
+**Related:** [[2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d]] · [[2026-11-13-mit-s-ai-copilot-for-structural-design-asks-engineers-for-fe]] · [[2026-11-13-mit-mit-puts-human-judgment-inside-ai-assisted-structural-de]] · [[2026-11-13-mit-s-design-copilot-lets-engineers-steer-ai-generated-struc]]
 <!-- graph:end -->

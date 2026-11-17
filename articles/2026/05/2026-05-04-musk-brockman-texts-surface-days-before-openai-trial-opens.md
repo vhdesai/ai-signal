@@ -4,8 +4,8 @@ title: Musk–Brockman texts surface days before OpenAI trial opens
 date: '2026-05-04'
 source: CNBC / Techmeme
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 40fcabad31722913b0d94b16187d8c80c15fcbf55dfd17f506379dc182bd86f8
 normalized_title_hash: b9b836ffbab2830d

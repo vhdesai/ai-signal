@@ -23,9 +23,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats
-- 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
-- 2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne
+- 2026-11-14-bessent-and-congress-focus-on-lutnick-s-handling-of-megaspee
+- 2026-11-14-pressure-shifts-to-commerce-as-bessent-says-bis-has-the-pen
+- 2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim
+- 2026-11-15-u-s-export-control-scrutiny-puts-nvidia-governance-in-focus
 embedding_id: 2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Axios reports Treasury Secretary Scott Bessent pointed responsibility for the Me
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne]]
+**Related:** [[2026-11-14-bessent-and-congress-focus-on-lutnick-s-handling-of-megaspee]] · [[2026-11-14-pressure-shifts-to-commerce-as-bessent-says-bis-has-the-pen]] · [[2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim]] · [[2026-11-15-u-s-export-control-scrutiny-puts-nvidia-governance-in-focus]]
 <!-- graph:end -->

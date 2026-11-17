@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-11-09-november-9-2026-mit-news
 - 2026-11-09-mit-and-nyu-use-language-feedback-to-improve-robot-motion-pl
 - 2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins
-- 2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha
+- 2026-11-13-mit-mit-puts-human-judgment-inside-ai-assisted-structural-de
 embedding_id: 2026-09-02-mit-and-motional-build-a-system-that-helps-humans-predict-se
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT CSAIL researchers and autonomous-vehicle firm Motional developed the Concept
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-02-mit-and-motional-use-concept-level-explanations-to-flag-auto]] · [[2026-11-09-november-9-2026-mit-news]] · [[2026-11-09-mit-and-nyu-use-language-feedback-to-improve-robot-motion-pl]] · [[2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins]] · [[2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha]]
+**Related:** [[2026-09-02-mit-and-motional-use-concept-level-explanations-to-flag-auto]] · [[2026-11-09-november-9-2026-mit-news]] · [[2026-11-09-mit-and-nyu-use-language-feedback-to-improve-robot-motion-pl]] · [[2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins]] · [[2026-11-13-mit-mit-puts-human-judgment-inside-ai-assisted-structural-de]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-22-1password-launches-delegated-agent-login-without-exposing-us
 - 2026-11-12-november-12-2026-wsj-pro-cybersecurity
 - 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
-- 2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights
+- 2026-11-16-banks-race-to-keep-up-as-ai-agents-use-credit-cards-and-the
 embedding_id: 2026-10-27-bank-of-america-warns-customers-against-giving-ai-assistants
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch reports Bank of America publicly reminded customers not to share cred
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris]] · [[2026-10-22-1password-launches-delegated-agent-login-without-exposing-us]] · [[2026-11-12-november-12-2026-wsj-pro-cybersecurity]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]] · [[2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights]]
+**Related:** [[2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris]] · [[2026-10-22-1password-launches-delegated-agent-login-without-exposing-us]] · [[2026-11-12-november-12-2026-wsj-pro-cybersecurity]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]] · [[2026-11-16-banks-race-to-keep-up-as-ai-agents-use-credit-cards-and-the]]
 <!-- graph:end -->

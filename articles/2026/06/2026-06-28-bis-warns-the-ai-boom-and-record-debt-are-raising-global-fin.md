@@ -4,8 +4,8 @@ title: BIS warns the AI boom and record debt are raising global financial risks
 date: '2026-06-28'
 source: CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/06/28/debt-ai-boom-and-economic-fragilities-raise-global-risks-bis-says.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_060911_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: bd2702def459c0182f3714f1d3a8ca5a35c213ecd8e1c0a8f313fadffa257433

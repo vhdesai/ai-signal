@@ -29,9 +29,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-10-november-10-2026-techcrunch-2
+- 2026-11-12-the-fireworks-ai-breach-reached-notion-ai-chat-transcripts-s
 - 2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da
 - 2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur
-- 2026-11-09-ai-infrastructure-becomes-a-target-fireworks-breach-exposes
 embedding_id: 2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf
 event_name: ''
 ---
@@ -45,5 +45,5 @@ TechCrunch reports a Fireworks security incident involving account and billing i
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Cerebras]] · [[IBM]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-11-10-november-10-2026-techcrunch-2]] · [[2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da]] · [[2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur]] · [[2026-11-09-ai-infrastructure-becomes-a-target-fireworks-breach-exposes]]
+**Related:** [[2026-11-10-november-10-2026-techcrunch-2]] · [[2026-11-12-the-fireworks-ai-breach-reached-notion-ai-chat-transcripts-s]] · [[2026-11-10-fireworks-breach-exposed-some-customers-model-weights-and-da]] · [[2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur]]
 <!-- graph:end -->

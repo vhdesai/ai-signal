@@ -6,7 +6,7 @@ date: '2026-11-07'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/
 url_canonical: https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-08_061441_Inbox_Daily AI News Digest - November
   8, 2026.md
 content_hash: bb68cf100c77136f3b2685780e1a72c5c8841c28144341a37887e09aff7ad966

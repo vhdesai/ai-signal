@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-xai-lays-off-most-of-the-grok-imagine-video-generation-team
 - 2026-11-13-november-12-2026-wall-street-journal
 - 2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti
 - 2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover
-- 2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in
 embedding_id: 2026-11-13-spacex-ai-reportedly-trims-grok-imagine-team-as-priorities-s
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Yahoo Finance / Investing.com, citing The Information Yahoo Finance and Investin
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-13-november-12-2026-wall-street-journal]] · [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti]] · [[2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover]] · [[2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in]]
+**Related:** [[2026-11-13-xai-lays-off-most-of-the-grok-imagine-video-generation-team]] · [[2026-11-13-november-12-2026-wall-street-journal]] · [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti]] · [[2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover]]
 <!-- graph:end -->

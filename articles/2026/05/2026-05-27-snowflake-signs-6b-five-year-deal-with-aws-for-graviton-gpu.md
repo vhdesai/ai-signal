@@ -4,8 +4,8 @@ title: Snowflake Signs $6B Five-Year Deal with AWS for Graviton + GPU Compute Ho
 date: '2026-05-27'
 source: TechCrunch  / CNBC  / WSJ
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 66c3b0e481bc225341095ea38eda9aabeb321853bbbdbb5436a435dba764379b

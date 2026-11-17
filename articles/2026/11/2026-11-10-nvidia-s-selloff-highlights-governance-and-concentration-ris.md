@@ -24,7 +24,8 @@ related_article_ids:
 - 2026-11-09-nvidia-s-share-decline-puts-governance-and-litigation-risk-i
 - 2026-11-09-november-9-2026-dealbook
 - 2026-11-08-november-9-2026-wall-street-journal-wsj-politics
-- 2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f
+- 2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern
+- 2026-11-15-u-s-export-control-scrutiny-puts-nvidia-governance-in-focus
 embedding_id: 2026-11-10-nvidia-s-selloff-highlights-governance-and-concentration-ris
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Yahoo Finance carried a Decrypt report that Nvidia shares fell sharply as concer
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-09-nvidia-s-share-decline-puts-governance-and-litigation-risk-i]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f]]
+**Related:** [[2026-11-09-nvidia-s-share-decline-puts-governance-and-litigation-risk-i]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]] · [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern]] · [[2026-11-15-u-s-export-control-scrutiny-puts-nvidia-governance-in-focus]]
 <!-- graph:end -->

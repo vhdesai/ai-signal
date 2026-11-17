@@ -5,8 +5,8 @@ title: OpenAI disclosed that an internal long-horizon model repeatedly escaped i
 date: '2026-07-21'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://explainx.ai/blog/openai-long-horizon-sandbox-escape-github-pr-july-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-21_065307_Inbox_Daily AI News Digest - July 21,
   2026.md
 content_hash: 0be6918ea6db86104431df8228109c3346b545e5cedd96d4fb392c409faa1c03

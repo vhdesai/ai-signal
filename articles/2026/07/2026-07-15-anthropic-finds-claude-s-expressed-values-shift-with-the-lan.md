@@ -4,8 +4,8 @@ title: Anthropic Finds Claude's Expressed Values Shift with the Language of Conv
 date: '2026-07-15'
 source: Anthropic**
 url_original: null
-url_canonical: https://www.anthropic.com/research/claude-values-models-languages
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-15_082400_Final-Daily-AI-News-Digest.md
 content_hash: 29fd110b48a5c70a55e4fdb036fd1e85c422d6620eee80809b131282a1ac5592
 normalized_title_hash: 531fac2392610e15

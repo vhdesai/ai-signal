@@ -4,8 +4,8 @@ title: Microsoft Build 2026 — Strategic Implications
 date: '2026-06-02'
 source: Microsoft Build 2026
 url_original: null
-url_canonical: https://news.microsoft.com/build-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
 content_hash: d835a3d3461034d590caa761d048b323ae36391d850bb9a03d05f2b403e74477
 normalized_title_hash: 767b7e7f5f076330

@@ -5,8 +5,8 @@ title: A feature profiling the less‑visible infrastructure, tooling, and model
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.nbcnews.com/tech/tech-news/data-center-developer-ai-boom-backlash-who-build-rcna353391
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 962e73659edfbf73a6df2ef9710e5013f9898325a77b4d500bf7219f5b620259

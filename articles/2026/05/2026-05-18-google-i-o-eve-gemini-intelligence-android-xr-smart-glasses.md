@@ -5,8 +5,8 @@ title: 'Google I/O Eve: Gemini Intelligence, Android XR Smart Glasses & "Googleb
 date: '2026-05-18'
 source: The Next Web
 url_original: null
-url_canonical: https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 64f4a0bdeb35d7cd3c92a10527debe3658f690170f63f52f0cdbe63f6d56b439

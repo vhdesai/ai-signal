@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
 - 2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati
+- 2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
-- 2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren
 embedding_id: 2026-09-22-tencent-launches-hy-image-3-5-preview-shares-rise-about-5
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Tencent released the preview of its Hunyuan image model supporting text-to-image
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[Google]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren]]
+**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati]] · [[2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]]
 <!-- graph:end -->

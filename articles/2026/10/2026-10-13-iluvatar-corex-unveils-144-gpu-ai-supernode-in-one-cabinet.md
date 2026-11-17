@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3370711/chinas-iluvatar-corexs-first-ai-computing-supernode-squeezes-most-gpus-1-system
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3370711/chinas-iluvatar-corexs-first-ai-computing-supernode-squeezes-most-gpus-1-system
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 03ea702dfb2d51be866201f7ba4645579565af76b5cb931ef756576ef31d193e
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 - 2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti
-- 2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact
+- 2026-11-15-south-korea-s-science-ministry-said-nvidia-reaffirmed-its-pl
 embedding_id: 2026-10-13-iluvatar-corex-unveils-144-gpu-ai-supernode-in-one-cabinet
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Chinese AI chipmaker Iluvatar CoreX debuted the Tiangai 300 IXL144, packing 144 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat]] · [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti]] · [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]]
+**Related:** [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat]] · [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti]] · [[2026-11-15-south-korea-s-science-ministry-said-nvidia-reaffirmed-its-pl]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Legal-AI startup Norm Ai raises $120M Series C at a $1.2B valuation
 date: '2026-07-07'
 source: Ventureburn
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_063010_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: c52a12f3310e90d84c8acd18722169b971f394d32fd2cfc2970fa63011c121a0

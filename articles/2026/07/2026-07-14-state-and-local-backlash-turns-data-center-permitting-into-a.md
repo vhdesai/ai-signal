@@ -5,8 +5,8 @@ title: State and local backlash turns data-center permitting into an AI infrastr
 date: '2026-07-14'
 source: The Wall Street Journal · Axios
 url_original: null
-url_canonical: https://www.axios.com/2026/10/31/ai-data-center-backlash
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - July
   14, 2026.md
 content_hash: bdf20cc148412b262ed915361b5e33471dff7b5077ae477edf035f70932ef9c8

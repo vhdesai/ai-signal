@@ -4,8 +4,8 @@ title: Musk sets Grok 4.5 public release for Thursday, pitching an ‘Opus-class
 date: '2026-07-08'
 source: Yahoo Finance
 url_original: null
-url_canonical: https://tech.yahoo.com/ai/gemini/articles/spacexai-releases-grok-4-5-193016419.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_063010_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: c9f50ad86c438ba03cd81647aab47d938c09e244bdd15a2a52a44b5a031e1dfb

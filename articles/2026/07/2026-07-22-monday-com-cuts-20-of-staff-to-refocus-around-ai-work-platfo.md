@@ -4,8 +4,8 @@ title: Monday.com cuts 20% of staff to refocus around AI Work Platform
 date: '2026-07-22'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-23-daily-ai-news-digest.md
 content_hash: 089c41f1804de239b5f63c0c9010de002888532d86017e7c0a41f4e6a666b8f0
 normalized_title_hash: 9ef1a4c21871fc38

@@ -4,8 +4,8 @@ title: Meta Ships Muse Image, an Agentic Generator — and Immediate Backlash
 date: '2026-07-07'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_062121_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 25111ad2f7b1fa079269025fd7283317bdfd89929138641e3b0ad25b8ba086b8

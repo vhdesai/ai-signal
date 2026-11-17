@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record
 - 2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu
+- 2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 - 2026-05-15-wsj-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue
-- 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
 embedding_id: 2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Yahoo Finance/Motley Fool analysis compares Cerebras' expected 2026 core revenue
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-15-wsj-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]]
+**Related:** [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-15-wsj-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue]]
 <!-- graph:end -->

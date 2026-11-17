@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m
 - 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
+- 2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex
 embedding_id: 2026-08-18-alibaba-s-qwen-passes-3-billion-downloads-ahead-of-meta-and
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Alibaba said its open Qwen family has surpassed 3 billion cumulative downloads a
 
 **Entities:** [[Alibaba]] · [[Google]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m]] · [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]]
+**Related:** [[2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m]] · [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]] · [[2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex]]
 <!-- graph:end -->

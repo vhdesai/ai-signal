@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
+- 2026-11-12-consumer-and-small-business-agents-start-spending-money-meta
 - 2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams
-- 2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy
 embedding_id: 2026-05-28-visa-invests-in-replit-to-power-agentic-payments
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Visa took an undisclosed equity stake in Replit and is exploring integration of 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
-**Related:** [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams]] · [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy]]
+**Related:** [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-11-12-consumer-and-small-business-agents-start-spending-money-meta]] · [[2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: NewIBM Consulting Expands Enterprise Advantage AI Platform at IBM Think 2
 date: '2026-05-06'
 source: IBM Newsroom
 url_original: null
-url_canonical: https://newsroom.ibm.com/2026-05-06-ibm-consulting-expands-ai-capabilities-to-accelerate-enterprise-transformation
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: a9cadd4b82cfaffeb08859fdb5d84494a2edd2f3de413de5722624a2674607d6
 normalized_title_hash: 49fb571859e40182

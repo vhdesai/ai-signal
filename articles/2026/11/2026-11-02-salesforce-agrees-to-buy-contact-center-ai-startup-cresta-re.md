@@ -6,7 +6,7 @@ date: '2026-11-02'
 source: '[The Information]'
 url_original: https://www.theinformation.com/briefings/exclusive-salesforce-acquires-startup-cresta-2-7-billion
 url_canonical: https://www.theinformation.com/briefings/exclusive-salesforce-acquires-startup-cresta-2-7-billion
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-03_061250_Inbox_Daily AI News Digest - November
   3, 2026.md
 content_hash: 254f2404cfe469dd6e35717268ad6dddfcb0a056be9cbef59aac632eafb771da

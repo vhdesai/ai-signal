@@ -4,8 +4,8 @@ title: AegisAI raises $36 million to fight AI-driven spear phishing
 date: '2026-07-23'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-25-daily-ai-news-digest.md
 content_hash: 0e3022fa2f7075e4b1bed55382917518ce5825dae46226fc702f2cea7bdd6b7b
 normalized_title_hash: 403eaa31b69dfc5e

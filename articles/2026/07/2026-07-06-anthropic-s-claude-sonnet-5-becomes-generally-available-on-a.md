@@ -4,8 +4,8 @@ title: Anthropic's Claude Sonnet 5 Becomes Generally Available on AWS
 date: '2026-07-06'
 source: AWS News Blog
 url_original: null
-url_canonical: https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 4b8529f1459857cdc68974e9b61f176066706df50f6b730100d5b6c2e5b7b319

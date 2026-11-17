@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-amazon-completes-another-35b-investment-in-openai
 - 2026-08-03-amazon-completes-additional-35-billion-investment-in-openai
 - 2026-09-10-amazon-lets-advertisers-buy-chatgpt-ads-through-amazon-s-ad
-- 2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin
+- 2026-11-12-openai-raises-15-billion-at-a-1-25-trillion-valuation-half-t
 embedding_id: 2026-08-02-amazon-completes-50b-openai-investment-taking-5-stake-as-cha
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Amazon completed its $50 billion investment in OpenAI, disclosed in an SEC filin
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-03-amazon-completes-another-35b-investment-in-openai]] · [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai]] · [[2026-09-10-amazon-lets-advertisers-buy-chatgpt-ads-through-amazon-s-ad]] · [[2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin]]
+**Related:** [[2026-08-03-amazon-completes-another-35b-investment-in-openai]] · [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai]] · [[2026-09-10-amazon-lets-advertisers-buy-chatgpt-ads-through-amazon-s-ad]] · [[2026-11-12-openai-raises-15-billion-at-a-1-25-trillion-valuation-half-t]]
 <!-- graph:end -->

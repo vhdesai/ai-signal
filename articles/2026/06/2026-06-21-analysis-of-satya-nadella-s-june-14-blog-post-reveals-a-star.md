@@ -5,8 +5,8 @@ title: 'Analysis of Satya Nadella''s June 14 blog post reveals a stark warning: 
 date: '2026-06-21'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.livemint.com/technology/tech-news/microsoft-ceo-satya-nadella-issues-stark-warning-on-future-of-business-ai-firms-could-capture-all-the-value-11781525290934.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-21-daily-ai-news-digest.md
 content_hash: 92223eb07150b575d601e81bf6958da7073e45372318532bc582d20fe7d6f795
 normalized_title_hash: dad000e2ac55ddfd

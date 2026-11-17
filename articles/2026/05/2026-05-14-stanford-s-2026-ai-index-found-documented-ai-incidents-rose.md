@@ -5,8 +5,8 @@ title: Stanford's 2026 AI Index found documented AI incidents rose to 362 in 202
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report/responsible-ai
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 80bf19e954f3faff80835e48463a0c16de28c07f753ee76bda436e8cad14da7a

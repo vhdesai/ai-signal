@@ -4,8 +4,8 @@ title: Mistral expands Harvey AI partnership to push into legal sector
 date: '2026-05-26'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://aibusiness.com/generative-ai/mistral-ai-taps-legal-sector-harvey-partnership
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 4f5d49a239c7789804201b960e8c53258a0121db8610a08fa2066776c3d22468

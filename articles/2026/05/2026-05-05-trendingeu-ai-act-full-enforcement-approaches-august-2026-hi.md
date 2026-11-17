@@ -5,8 +5,8 @@ title: TrendingEU AI Act Full Enforcement Approaches August 2026 — High-Risk A
 date: '2026-05-05'
 source: Regulations.ai / RAIL Score Knowledge Hub
 url_original: null
-url_canonical: https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 55fd309ea0fe5481a179cb97082ab644d3790e870f1cb32d591130bb57cc320b
 normalized_title_hash: f771b2a8b9b72e30

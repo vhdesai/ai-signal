@@ -1,14 +1,27 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1993
+member_count: 2013
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1993 connected article(s).
+> Auto-generated topic hub. 2013 connected article(s).
 
+- `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]
+- `2026-11-16` [[2026-11-16-insurers-hold-85-billion-of-ai-debt-as-data-centers-drive-a|Insurers hold $85 billion of AI debt as data centers drive a record quarter for climate tech VC]]
+- `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-15` [[2026-11-15-wall-street-wants-to-trade-ai-compute-like-oil-as-private-cr|Wall Street wants to trade AI compute like oil as private credit funds the buildout]]
+- `2026-11-15` [[2026-11-15-the-journal-reports-that-large-data-centers-in-southeast-asi|The Journal reports that large data centers in Southeast Asia gave Chinese companies crucial computing power and served…]]
+- `2026-11-15` [[2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee|Southeast Asian data centers come under scrutiny as Megaspeed opens a probe and Asian governments seek Nvidia reassurances]]
+- `2026-11-15` [[2026-11-15-south-korea-s-top-tax-exam-scorer-admits-cheating-with-ai-da|South Korea's top tax-exam scorer admits cheating with AI days before the national college entrance exam]]
+- `2026-11-15` [[2026-11-15-bharat-semi-raises-24-million-for-programmable-ai-sensor-chi|Bharat Semi raises $24 million for programmable AI sensor chips]]
+- `2026-11-15` [[2026-11-15-a-report-for-japan-s-innovation-for-cool-earth-forum-led-by|A report for Japan's Innovation for Cool Earth Forum, led by Columbia University's David Sandalow, warns that tens of…]]
+- `2026-11-14` [[2026-11-14-november-15-2026-cnbc|[November 15, 2026] · [CNBC]]]
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-14` [[2026-11-14-scotland-s-ai-build-out-faces-organized-public-opposition|Scotland’s AI build-out faces organized public opposition]]
+- `2026-11-14` [[2026-11-14-nvidia-s-asian-partners-signal-continuity-amid-leadership-di|Nvidia’s Asian partners signal continuity amid leadership disruption]]
+- `2026-11-14` [[2026-11-14-data-center-backlash-spreads-as-thousands-march-in-edinburgh|Data-center backlash spreads as thousands march in Edinburgh and builders look to the sea and orbit]]
 - `2026-11-14` [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch|Cerebras says its next-generation WSE-5 chip is ahead of schedule, with CS-5 systems due in early summer 2027]]
 - `2026-11-14` [[2026-11-14-capitalg-led-the-round-with-gic-dfj-growth-ivp-and-sapphire|CapitalG led the round, with GIC, DFJ Growth, IVP and Sapphire participating; the valuation is more than double the…]]
 - `2026-11-13` [[2026-11-13-november-14-2026-dealbook|[November 14, 2026] · [DealBook]]]
@@ -17,21 +30,28 @@ member_count: 1993
 - `2026-11-13` [[2026-11-13-november-12-2026-crypto-briefing|[November 12, 2026] · [Crypto Briefing]]]
 - `2026-11-13` [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne|Weight forensics tie China's top open models to export-banned Blackwell chips as Washington feuds over Megaspeed]]
 - `2026-11-13` [[2026-11-13-the-fed-ranks-ai-as-the-top-threat-to-financial-stability-as|The Fed ranks AI as the top threat to financial stability as the White House task force turns to cyber risk]]
+- `2026-11-13` [[2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync|Open inference plumbing matures: Google open-sources TPU Sync and llama.cpp reaches 1.0]]
 - `2026-11-13` [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan|Nvidia’s startup-financing role faces uncertainty after Huang’s departure]]
 - `2026-11-13` [[2026-11-13-drogue-raises-20-million-to-put-data-centers-on-ships-powere|Drogue raises $20 million to put data centers on ships powered by ocean heat]]
+- `2026-11-13` [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a|Cerebras signs Microsoft as its third hyperscaler customer and raises guidance, but its OpenAI capacity is late]]
 - `2026-11-13` [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo|Amodei calls compute Anthropic's deepest dilemma as the IPO roadshow turns away Chinese orders]]
 - `2026-11-13` [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro|AI infrastructure finance matures: compute futures near approval, Cerebras pulls in WSE-5 and capital chases off-grid power]]
 - `2026-11-12` [[2026-11-12-november-11-2026-wall-street-journal|[November 11, 2026] · [Wall Street Journal]]]
 - `2026-11-12` [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is|Without Huang, Nvidia's role as the AI economy's financier is in doubt]]
 - `2026-11-12` [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats|The Nvidia-China fallout widens: Huang will testify, Democrats probe export approvals and Lutnick is under pressure]]
 - `2026-11-12` [[2026-11-12-spacex-s-ai-arm-plans-74-billion-of-data-centers-while-cutti|SpaceX's AI arm plans $74 billion of data centers while cutting most of the Grok video team]]
+- `2026-11-12` [[2026-11-12-spacex-plans-more-than-74-billion-in-texas-arizona-data-cent|SpaceX Plans More Than $74 Billion in Texas, Arizona Data-Center Investments]]
+- `2026-11-12` [[2026-11-12-nebius-plans-40-billion-of-2027-capex-as-its-microsoft-capac|Nebius plans $40 billion of 2027 capex as its Microsoft capacity slips and Nvidia-backed deals face new doubts]]
+- `2026-11-12` [[2026-11-12-meta-uses-long-term-commitments-to-support-cleaner-data-cent|Meta uses long-term commitments to support cleaner data-center supply chains]]
 - `2026-11-12` [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft|Meta hands its AI buildout to an ex-AWS leader as Microsoft pledges to pay its own way on power]]
 - `2026-11-12` [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not|Cerebras lands Microsoft and raises guidance as delivery, not demand, becomes the bottleneck for neoclouds]]
 - `2026-11-12` [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some|Capital keeps flowing to AI chips and robotics even as some allocators step back from the AI trade]]
 - `2026-11-12` [[2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi|Agent infrastructure draws capital: LangChain doubles to $3 billion and IBM buys AuthMind for agent identity]]
 - `2026-11-11` [[2026-11-11-november-11-2026-cnbc|[November 11, 2026] · [CNBC]]]
 - `2026-11-11` [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia|The Huang scandal becomes an export-control fight as Nvidia's board hires Wachtell]]
+- `2026-11-11` [[2026-11-11-meta-changes-leadership-of-its-ai-infrastructure-buildout|Meta changes leadership of its AI infrastructure buildout]]
 - `2026-11-11` [[2026-11-11-inference-resellers-start-buying-their-own-gpus-as-coreweave|Inference resellers start buying their own GPUs as CoreWeave turns to investment-grade debt]]
+- `2026-11-11` [[2026-11-11-hot-nvidia-faces-reported-ceo-succession-uncertainty|Hot Nvidia faces reported CEO succession uncertainty]]
 - `2026-11-11` [[2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole|Commerce moves to close China's remote chip-access loophole as Congress digs into Nvidia's China records]]
 - `2026-11-11` [[2026-11-11-anthropic-s-roadshow-filing-adds-10-billion-of-microsoft-and|Anthropic's roadshow filing adds $10 billion of Microsoft and Google compute and warns of margin pressure]]
 - `2026-11-10` [[2026-11-10-november-9-2026-techcrunch-2|[November 9, 2026] · [TechCrunch]]]

@@ -4,8 +4,8 @@ title: Compromised npm Package Drops Rust Infostealer Targeting AI Dev Tools
 date: '2026-07-11'
 source: The Hacker News
 url_original: null
-url_canonical: https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_065239_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: ce3c463846c0172bbc0a1364fe86311b6a09d8c995833f4900fb1a3fa812933d

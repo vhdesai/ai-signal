@@ -4,8 +4,8 @@ title: Anthropic extends Claude Fable 5 access after OpenAI’s GPT-5.6 “Sol�
 date: '2026-07-13'
 source: Forbes
 url_original: https://www.forbes.com/sites/tylerroush/2026/07/13/ai-model-wars-anthropic-extends-fable-access-again-after-openais-sol-release/
-url_canonical: https://theroboticsmedia.com/article/anthropic-claude-fable-5-free-access-extension-openai-sol-gpt-5-6-july-2026
-url_status: repaired
+url_canonical: https://www.forbes.com/sites/tylerroush/2026/07/13/ai-model-wars-anthropic-extends-fable-access-again-after-openais-sol-release/
+url_status: broken
 digest_source: digests\raw\2026-07-14_061758_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: a9e411d01ff690d23197a00effc3961dcc26ae3cc488dd85ad64e04aac2e48af

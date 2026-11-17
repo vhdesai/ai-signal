@@ -5,8 +5,8 @@ title: GPT-5.4-Pro (OpenAI) holds the top spot on GPQA Diamond (graduate-level s
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://openrouter.ai/benchmarks/gpqa-diamond
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 74d756b7025b535f93ea3a0292ba594de3bad299ea5d4df27b7b570576596a7b

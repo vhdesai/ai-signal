@@ -4,8 +4,8 @@ title: DeepSeek reportedly designing its own inference chip
 date: '2026-07-07'
 source: Engadget
 url_original: null
-url_canonical: https://www.engadget.com/2209378/deepseek-reportedly-developing-ai-chips/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-07_061919_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 019e777a3b6371c045a8e1f1ae4c3c97ef1e4dc1a58ff9a8bd5580c593516e8d

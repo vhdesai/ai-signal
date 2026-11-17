@@ -28,6 +28,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-13-november-13-2026-wall-street-journal-2
 - 2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes
+- 2026-11-16-november-16-2026-business-insider
 - 2026-09-14-anthropic-picks-nasdaq-for-potential-ipo
 - 2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor
 embedding_id: 2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo
@@ -43,5 +44,5 @@ In a livestream with Jamie Dimon, Dario Amodei said forecasting how much compute
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-13-november-13-2026-wall-street-journal-2]] · [[2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes]] · [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo]] · [[2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor]]
+**Related:** [[2026-11-13-november-13-2026-wall-street-journal-2]] · [[2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes]] · [[2026-11-16-november-16-2026-business-insider]] · [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo]] · [[2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor]]
 <!-- graph:end -->

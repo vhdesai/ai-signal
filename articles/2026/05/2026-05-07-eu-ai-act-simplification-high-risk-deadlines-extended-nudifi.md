@@ -5,8 +5,8 @@ title: 'EU AI Act Simplification: High-Risk Deadlines Extended, Nudification App
 date: '2026-05-07'
 source: JD Supra / The AI Track
 url_original: null
-url_canonical: https://www.europarl.europa.eu/news/en/press-room/20260611IPR45207/ai-act-ep-approves-simplification-measures-and-nudifier-app-ban
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: ac6a3c7f6f935b54a7c8f8c7bc135d4773a542fd7e7e3fc04232cfa31d25bc0d

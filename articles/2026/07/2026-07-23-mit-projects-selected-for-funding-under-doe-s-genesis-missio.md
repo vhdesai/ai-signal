@@ -4,8 +4,8 @@ title: MIT projects selected for funding under DOE's Genesis Mission
 date: '2026-07-23'
 source: MIT News
 url_original: null
-url_canonical: https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-24_061331_Inbox_Daily AI News Digest - July 24,
   2026.md
 content_hash: 0bd13e4121c8acfb7f99ce985d291884f2df4dfc3cae2d80d8078adb5b66360b

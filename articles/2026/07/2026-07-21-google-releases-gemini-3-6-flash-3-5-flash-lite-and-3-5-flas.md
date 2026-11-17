@@ -4,8 +4,8 @@ title: Google releases Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber
 date: '2026-07-21'
 source: Google DeepMind Blog
 url_original: null
-url_canonical: https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: c81b6d422a10a5b936767393f3c980c3b104ed4ff684c9f3099949e0c8c6978b
 normalized_title_hash: dfbb77d99cb61dc6

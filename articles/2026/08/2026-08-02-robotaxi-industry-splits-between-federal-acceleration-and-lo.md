@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv
 - 2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto
 - 2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders
+- 2026-11-16-zoox-robotaxis-go-live-on-the-uber-app-in-las-vegas
 - 2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee
-- 2026-08-30-the-hidden-human-labor-behind-robotaxi-autonomy
 embedding_id: 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch reports that Zoox cleared a key federal NHTSA hurdle for paid robotax
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]] · [[2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto]] · [[2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders]] · [[2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee]] · [[2026-08-30-the-hidden-human-labor-behind-robotaxi-autonomy]]
+**Related:** [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]] · [[2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto]] · [[2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders]] · [[2026-11-16-zoox-robotaxis-go-live-on-the-uber-app-in-las-vegas]] · [[2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee]]
 <!-- graph:end -->

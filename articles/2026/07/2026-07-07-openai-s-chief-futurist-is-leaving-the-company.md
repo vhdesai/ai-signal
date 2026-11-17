@@ -4,8 +4,8 @@ title: OpenAI’s Chief Futurist is leaving the company
 date: '2026-07-07'
 source: WIRED
 url_original: null
-url_canonical: https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_061307_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 5a6ae29367fa6d31cd751b468ba97c470c1d611efa9a69b8d1ea35d125ddd697

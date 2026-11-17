@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch
 - 2026-11-12-anthropic-pushes-claude-into-factories-and-google-meet-days
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
-- 2026-05-06-
+- 2026-11-11-databricks-positions-genie-for-extended-data-grounded-assign
 embedding_id: 2026-11-13-november-13-2026-databricks
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic shipped Claude for Manufacturing with 17 skills for quoting jobs, diag
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[Google]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch]] · [[2026-11-12-anthropic-pushes-claude-into-factories-and-google-meet-days]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-05-06-]]
+**Related:** [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch]] · [[2026-11-12-anthropic-pushes-claude-into-factories-and-google-meet-days]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-11-11-databricks-positions-genie-for-extended-data-grounded-assign]]
 <!-- graph:end -->

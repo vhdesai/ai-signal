@@ -4,8 +4,8 @@ title: Google DeepMind's AI-Powered Mouse Pointer Begins Chrome Rollout
 date: '2026-05-16'
 source: Memeburn / MarkTechPost / Google DeepMind Blog
 url_original: null
-url_canonical: https://deepmind.google/blog/ai-pointer/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: e709ddc470bb82d57ea7918e8c199274ecfc8c8feb45a5f3096962dcf05b4e61

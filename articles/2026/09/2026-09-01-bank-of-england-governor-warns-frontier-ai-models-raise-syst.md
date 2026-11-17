@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten
 - 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
-- 2026-04-13-ai-safety-policy
+- 2026-11-16-fed-governor-barr-warns-about-herding-and-consent-risks-from
 embedding_id: 2026-09-01-bank-of-england-governor-warns-frontier-ai-models-raise-syst
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Bank of England Governor Andrew Bailey warned that increasingly powerful frontie
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-04-13-ai-safety-policy]]
+**Related:** [[2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-11-16-fed-governor-barr-warns-about-herding-and-consent-risks-from]]
 <!-- graph:end -->

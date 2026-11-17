@@ -5,8 +5,8 @@ title: Google has rolled out end-to-end encryption for Gmail on Android and iOS 
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://workspaceupdates.googleblog.com/2026/04/gmail-end-to-end-encryption-now-available-on-mobile-devices.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: e584eb6df02dd18a60553de4150f46a4b9e9d8cb62c83df0fffdbe3d9b1c30d3

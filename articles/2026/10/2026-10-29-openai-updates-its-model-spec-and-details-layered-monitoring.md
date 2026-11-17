@@ -5,7 +5,7 @@ date: '2026-10-29'
 source: '[OpenAI]'
 url_original: https://openai.com/index/updated-model-spec/
 url_canonical: https://openai.com/index/updated-model-spec/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-30_065803_Final-Daily-AI-News-Digest.md
 content_hash: 22ec2073673e1fead3b521eed2d96600e3b684e0dbe1b6c428390ae3af929b91
 normalized_title_hash: ffcacf5576d0ac29
