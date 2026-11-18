@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 817
+member_count: 820
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 817 connected article(s).
+> Auto-generated entity hub. 820 connected article(s).
 
+- `2026-11-16` [[2026-11-16-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
+- `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]
 - `2026-11-16` [[2026-11-16-zoox-robotaxis-go-live-on-the-uber-app-in-las-vegas|Zoox robotaxis go live on the Uber app in Las Vegas]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-16` [[2026-11-16-california-attorney-general-november-16-2026|California Attorney General · November 16, 2026]]
 - `2026-11-15` [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in|Megaspeed opens internal probe and says Alice Huang left in 2025]]
 - `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900b-in-sp|Anthropic heads into Thursday's Nasdaq debut with $900B+ in spending commitments]]
 - `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900-billio|Anthropic heads into Thursday's Nasdaq debut with $900 billion in commitments and a $104 billion nine-month loss]]

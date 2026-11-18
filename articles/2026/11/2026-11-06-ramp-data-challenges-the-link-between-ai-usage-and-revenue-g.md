@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta
 - 2026-11-07-november-6-2026-techcrunch
+- 2026-11-16-databricks-launches-a-weekly-index-of-enterprise-ai-usage-an
 - 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
-- 2026-10-02-ramp-ai-index-us-businesses-are-using-more-ai-and-paying-les
 embedding_id: 2026-11-06-ramp-data-challenges-the-link-between-ai-usage-and-revenue-g
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Ramp's sampled token spending rose just 1.5% across August–September despite g
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta]] · [[2026-11-07-november-6-2026-techcrunch]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-10-02-ramp-ai-index-us-businesses-are-using-more-ai-and-paying-les]]
+**Related:** [[2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta]] · [[2026-11-07-november-6-2026-techcrunch]] · [[2026-11-16-databricks-launches-a-weekly-index-of-enterprise-ai-usage-an]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]]
 <!-- graph:end -->

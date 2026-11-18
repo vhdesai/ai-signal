@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Snowflake
-member_count: 38
+member_count: 39
 ---
 
 # Snowflake
 
-> Auto-generated entity hub. 38 connected article(s).
+> Auto-generated entity hub. 39 connected article(s).
 
+- `2026-11-16` [[2026-11-16-noeri-launches-with-110-million-and-an-enterprise-owned-ai-p|Noeri launches with $110 million and an enterprise-owned AI proposition]]
 - `2026-11-02` [[2026-11-02-nvidia-s-apache-2-0-auto-ontology-generates-a-starting-ontol|NVIDIA's Apache 2.0 Auto Ontology generates a starting ontology from enterprise metadata, validates agent SQL against…]]
 - `2026-10-08` [[2026-10-08-claude-generates-animated-explainers-and-live-dashboards-fro|Claude generates animated explainers and live dashboards from prompts]]
 - `2026-10-08` [[2026-10-08-claude-adds-text-to-dashboard-and-text-to-video-beta-feature|Claude adds text-to-dashboard and text-to-video beta features]]

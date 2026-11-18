@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-16-nvidia-reports-vera-rubin-training-results-agentic-inference
 - 2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla
 - 2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p
 - 2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv
 - 2026-11-13-model-weight-analysis-raises-questions-about-restricted-nvid
-- 2026-11-09-november-9-2026-nvidia-blog
 embedding_id: 2026-06-16-nvidia-blackwell-sweeps-mlperf-training-v6-0-benchmark
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MLCommons released MLPerf Training v6.0 results with NVIDIA's Blackwell GPU syst
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]] · [[2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p]] · [[2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv]] · [[2026-11-13-model-weight-analysis-raises-questions-about-restricted-nvid]] · [[2026-11-09-november-9-2026-nvidia-blog]]
+**Related:** [[2026-11-16-nvidia-reports-vera-rubin-training-results-agentic-inference]] · [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]] · [[2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p]] · [[2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv]] · [[2026-11-13-model-weight-analysis-raises-questions-about-restricted-nvid]]
 <!-- graph:end -->

@@ -1,14 +1,21 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1859
+member_count: 1866
 ---
 
 # Google
 
-> Auto-generated entity hub. 1859 connected article(s).
+> Auto-generated entity hub. 1866 connected article(s).
 
+- `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
+- `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-amd-and-google-chip-away-at-nvidia-as-huang-s-exit-shakes-cu|AMD and Google chip away at Nvidia as Huang's exit shakes customers]]
+- `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-16` [[2026-11-16-november-16-2026-google-threat-intelligence-group|November 16, 2026 · Google Threat Intelligence Group]]
+- `2026-11-16` [[2026-11-16-nvidia-reports-vera-rubin-training-results-agentic-inference|NVIDIA reports Vera Rubin training results; agentic inference remains provisional]]
+- `2026-11-16` [[2026-11-16-california-attorney-general-november-16-2026|California Attorney General · November 16, 2026]]
 - `2026-11-15` [[2026-11-15-san-francisco-declaration-outlines-international-ai-security|San Francisco declaration outlines international AI security and infrastructure cooperation]]
 - `2026-11-15` [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in|Megaspeed opens internal probe and says Alice Huang left in 2025]]
 - `2026-11-15` [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900b-in-sp|Anthropic heads into Thursday's Nasdaq debut with $900B+ in spending commitments]]

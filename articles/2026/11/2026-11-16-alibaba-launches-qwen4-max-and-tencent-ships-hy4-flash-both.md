@@ -24,7 +24,9 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
 canonical_article_id: 2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex
-related_article_ids: []
+related_article_ids:
+- 2026-11-16-alibaba-introduces-qwen4-max-smaller-open-weight-models-rema
+- 2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m
 embedding_id: 2026-11-16-alibaba-launches-qwen4-max-and-tencent-ships-hy4-flash-both
 event_name: ''
 ---
@@ -39,4 +41,5 @@ Alibaba made Qwen4-Max generally available, a multimodal mixture-of-experts mode
 **Entities:** [[Alibaba]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Canonical:** [[2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex]]
+**Related:** [[2026-11-16-alibaba-introduces-qwen4-max-smaller-open-weight-models-rema]] · [[2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-17-november-16-2026-wall-street-journal
 - 2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors
 - 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 - 2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade
@@ -37,5 +38,5 @@ Axios estimates the cost of Nvidia's near-30% share decline over the past month 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade]]
+**Related:** [[2026-11-17-november-16-2026-wall-street-journal]] · [[2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade]]
 <!-- graph:end -->

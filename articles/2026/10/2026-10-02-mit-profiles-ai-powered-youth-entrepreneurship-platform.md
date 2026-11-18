@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-08-3-questions-what-is-the-best-path-forward-for-ai-in-academia
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
-- 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
+- 2026-11-17-mit-profiles-jacob-andreas-s-work-on-explaining-what-models
 embedding_id: 2026-10-02-mit-profiles-ai-powered-youth-entrepreneurship-platform
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT’s new Q&A profiles Dear Dreamer, an AI-supported youth entrepreneurship pl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-10-08-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]]
+**Related:** [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-10-08-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-11-17-mit-profiles-jacob-andreas-s-work-on-explaining-what-models]]
 <!-- graph:end -->

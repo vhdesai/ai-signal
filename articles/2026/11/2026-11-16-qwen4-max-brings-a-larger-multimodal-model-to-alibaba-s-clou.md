@@ -4,8 +4,8 @@ title: Qwen4-Max brings a larger multimodal model to Alibaba’s cloud
 date: '2026-11-16'
 source: China dateline; corroborating coverage published 10:23 a.m. IST
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-16_060252_Inbox_Daily AI News Digest - November
   16, 2026.md
 content_hash: 5833911a348424f7ba64ba27227f1cefea19c03e669d22f825b831485378528a
@@ -21,7 +21,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex
+canonical_article_id: 2026-11-16-alibaba-introduces-qwen4-max-smaller-open-weight-models-rema
 related_article_ids: []
 embedding_id: 2026-11-16-qwen4-max-brings-a-larger-multimodal-model-to-alibaba-s-clou
 event_name: ''
@@ -36,5 +36,5 @@ Source: Alibaba Cloud; Bloomberg via ThePrint Alibaba announced general availabi
 
 **Entities:** [[Alibaba]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex]]
+**Canonical:** [[2026-11-16-alibaba-introduces-qwen4-max-smaller-open-weight-models-rema]]
 <!-- graph:end -->

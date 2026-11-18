@@ -4,8 +4,8 @@ title: '[November 16, 2026] · [Federal Reserve]'
 date: '2026-11-16'
 source: '[CIO Dive]'
 url_original: https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30
-url_canonical: https://www.federalreserve.gov/newsevents/2026-november.htm
-url_status: repaired
+url_canonical: https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30
+url_status: broken
 digest_source: digests\raw\2026-11-16_065758_Final-Daily-AI-News-Digest.md
 content_hash: 9999e73bf908c712ad8663b1ebb916c325f71603fbcb045c5d11c7899d8550f4
 normalized_title_hash: 19ee297e05b2db94

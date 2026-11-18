@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 155
+member_count: 157
 ---
 
 # AMD
 
-> Auto-generated entity hub. 155 connected article(s).
+> Auto-generated entity hub. 157 connected article(s).
 
+- `2026-11-17` [[2026-11-17-amd-and-google-chip-away-at-nvidia-as-huang-s-exit-shakes-cu|AMD and Google chip away at Nvidia as Huang's exit shakes customers]]
+- `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]
 - `2026-11-15` [[2026-11-15-south-korea-s-top-tax-exam-scorer-admits-cheating-with-ai-da|South Korea's top tax-exam scorer admits cheating with AI days before the national college entrance exam]]
 - `2026-11-15` [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in|Megaspeed opens internal probe and says Alice Huang left in 2025]]
 - `2026-11-15` [[2026-11-15-anthropic-s-ipo-deck-says-claude-ported-its-stack-to-amd-mi3|Anthropic's IPO deck says Claude ported its stack to AMD MI355 in three days]]

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 - 2026-08-25-emerald-ai-raises-150m-at-1-05b-to-make-data-centers-flexibl
+- 2026-11-16-november-17-2026-the-information
 - 2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen
 - 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
-- 2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope
 embedding_id: 2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Britain's National Grid said it will invest $1.75B for a 35% stake in Joulent, a
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-08-25-emerald-ai-raises-150m-at-1-05b-to-make-data-centers-flexibl]] · [[2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen]] · [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]] · [[2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope]]
+**Related:** [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-08-25-emerald-ai-raises-150m-at-1-05b-to-make-data-centers-flexibl]] · [[2026-11-16-november-17-2026-the-information]] · [[2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen]] · [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]]
 <!-- graph:end -->

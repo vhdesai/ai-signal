@@ -1,15 +1,16 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2458
+member_count: 2459
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2458 connected article(s).
+> Auto-generated topic hub. 2459 connected article(s).
 
 - `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]
 - `2026-11-16` [[2026-11-16-reported-deepseek-consumer-limits-highlight-compute-availabi|Reported DeepSeek consumer limits highlight compute availability risk]]
+- `2026-11-16` [[2026-11-16-ibm-newsroom-november-16-2026-08-00-pst|IBM Newsroom · November 16, 2026 · 08:00 PST]]
 - `2026-11-15` [[2026-11-15-november-14-2026-wall-street-journal|[November 14, 2026] · [Wall Street Journal]]]
 - `2026-11-15` [[2026-11-15-u-s-export-control-scrutiny-puts-nvidia-governance-in-focus|U.S. export-control scrutiny puts Nvidia governance in focus]]
 - `2026-11-15` [[2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee|Southeast Asian data centers come under scrutiny as Megaspeed opens a probe and Asian governments seek Nvidia reassurances]]

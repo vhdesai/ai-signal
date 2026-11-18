@@ -5,8 +5,8 @@ title: Corma raises $125 million for defensive AI agents as the Fireworks breach
 date: '2026-11-16'
 source: '[WSJ Pro CyberSecurity]'
 url_original: null
-url_canonical: https://en.globes.co.il/en/article-defensive-ai-agents-co-corma-raises-125-million-at-1b-valuation-1001563580
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-16_070404_Inbox_Daily AI News Digest - November
   16, 2026.md
 content_hash: b04c1030bf6e8f190956df265630e8caca9076a58de1454abe8d4e8c47211c4e

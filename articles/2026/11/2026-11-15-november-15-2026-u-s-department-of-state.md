@@ -22,7 +22,6 @@ related_article_ids:
 - 2026-11-16-washington-still-plans-to-name-nvidia-an-ai-national-champio
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-11-15-san-francisco-declaration-outlines-international-ai-security
-- 2026-09-25-us-china-ai-rivalry-moves-to-standards-setting-with-nvidia-i
 embedding_id: 2026-11-15-november-15-2026-u-s-department-of-state
 event_name: ''
 ---
@@ -36,5 +35,5 @@ The Trump administration will designate Nvidia among more than two dozen AI nati
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-11-16-washington-still-plans-to-name-nvidia-an-ai-national-champio]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-11-15-san-francisco-declaration-outlines-international-ai-security]] · [[2026-09-25-us-china-ai-rivalry-moves-to-standards-setting-with-nvidia-i]]
+**Related:** [[2026-11-16-washington-still-plans-to-name-nvidia-an-ai-national-champio]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-11-15-san-francisco-declaration-outlines-international-ai-security]]
 <!-- graph:end -->

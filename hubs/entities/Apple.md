@@ -1,16 +1,18 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 562
+member_count: 564
 ---
 
 # Apple
 
-> Auto-generated entity hub. 562 connected article(s).
+> Auto-generated entity hub. 564 connected article(s).
 
+- `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
 - `2026-11-16` [[2026-11-16-tencent-positions-hy4-flash-for-low-cost-long-context-deploy|Tencent positions Hy4 flash for low-cost, long-context deployment]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-16` [[2026-11-16-california-attorney-general-november-16-2026|California Attorney General · November 16, 2026]]
 - `2026-11-15` [[2026-11-15-november-15-2026-apple-newsroom|[November 15, 2026] · [Apple Newsroom]]]
 - `2026-11-15` [[2026-11-15-san-francisco-declaration-outlines-international-ai-security|San Francisco declaration outlines international AI security and infrastructure cooperation]]
 - `2026-11-15` [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in|Megaspeed opens internal probe and says Alice Huang left in 2025]]

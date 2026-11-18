@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d
 - 2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation
 - 2026-11-05-bloomberg-reports-that-isomorphic-labs-the-ai-drug-discovery
-- 2026-10-31-isomorphic-labs-pushes-ai-first-drug-discovery-toward-cancer
+- 2026-11-17-isomorphic-labs-raises-5-billion-to-expand-ai-driven-drug-de
 embedding_id: 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Alphabet-backed AI drug-design company Isomorphic Labs (led by DeepMind founder 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai]] · [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]] · [[2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation]] · [[2026-11-05-bloomberg-reports-that-isomorphic-labs-the-ai-drug-discovery]] · [[2026-10-31-isomorphic-labs-pushes-ai-first-drug-discovery-toward-cancer]]
+**Related:** [[2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai]] · [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]] · [[2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation]] · [[2026-11-05-bloomberg-reports-that-isomorphic-labs-the-ai-drug-discovery]] · [[2026-11-17-isomorphic-labs-raises-5-billion-to-expand-ai-driven-drug-de]]
 <!-- graph:end -->

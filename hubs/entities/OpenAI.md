@@ -1,21 +1,33 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 3041
+member_count: 3053
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 3041 connected article(s).
+> Auto-generated entity hub. 3053 connected article(s).
 
+- `2026-11-17` [[2026-11-17-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
+- `2026-11-17` [[2026-11-17-q-a-why-building-math-muscles-remains-important-in-the-ai-er|Q&A: Why building math muscles remains important in the AI era]]
+- `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-amd-and-google-chip-away-at-nvidia-as-huang-s-exit-shakes-cu|AMD and Google chip away at Nvidia as Huang's exit shakes customers]]
+- `2026-11-16` [[2026-11-16-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]
+- `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-16` [[2026-11-16-openai-s-lvmh-media-agreement-joins-enterprise-adoption-with|OpenAI’s LVMH media agreement joins enterprise adoption with content access]]
+- `2026-11-16` [[2026-11-16-openai-s-astra-makes-some-robot-training-simulation-data-100|OpenAI's Astra makes some robot-training simulation data 100 times faster, says Nvidia's robotics chief]]
 - `2026-11-16` [[2026-11-16-openai-signs-lvmh-s-media-group-bringing-les-echos-and-le-pa|OpenAI signs LVMH's media group, bringing Les Echos and Le Parisien journalism into ChatGPT]]
 - `2026-11-16` [[2026-11-16-openai-explored-a-5-billion-plus-acquisition-of-goodfire-a-s|OpenAI explored a $5 billion-plus acquisition of Goodfire, a startup that decodes how AI models think]]
+- `2026-11-16` [[2026-11-16-openai-expands-academic-researcher-grants-with-applications|OpenAI expands academic researcher grants, with applications opening November 23]]
+- `2026-11-16` [[2026-11-16-openai-adds-embedded-assessors-with-scoped-access-and-disclo|OpenAI adds embedded assessors with scoped access and disclosure limits]]
+- `2026-11-16` [[2026-11-16-november-16-2026-openai-semafor-reporting-at-9-06-a-m-pst|November 16, 2026 • OpenAI; Semafor reporting at 9:06 a.m. PST]]
 - `2026-11-16` [[2026-11-16-lvmh-s-media-group-partners-with-openai-on-newsroom-tools-an|LVMH’s media group partners with OpenAI on newsroom tools and linked journalism]]
 - `2026-11-16` [[2026-11-16-insurers-hold-85-billion-of-ai-debt-as-data-centers-drive-a|Insurers hold $85 billion of AI debt as data centers drive a record quarter for climate tech VC]]
 - `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-16` [[2026-11-16-california-sues-openai-over-alleged-failures-in-experimental|California sues OpenAI over alleged failures in experimental-agent containment]]
+- `2026-11-16` [[2026-11-16-california-attorney-general-november-16-2026|California Attorney General · November 16, 2026]]
 - `2026-11-15` [[2026-11-15-san-francisco-declaration-outlines-international-ai-security|San Francisco declaration outlines international AI security and infrastructure cooperation]]
 - `2026-11-15` [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in|Megaspeed opens internal probe and says Alice Huang left in 2025]]
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]

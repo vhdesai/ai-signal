@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
 - 2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis
 - 2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than
-- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-11-17-mit-profiles-jacob-andreas-s-work-on-explaining-what-models
 embedding_id: 2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers published work on training AI models to accurately interpret cha
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati]] · [[2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo]] · [[2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis]] · [[2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
+**Related:** [[2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati]] · [[2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo]] · [[2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis]] · [[2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than]] · [[2026-11-17-mit-profiles-jacob-andreas-s-work-on-explaining-what-models]]
 <!-- graph:end -->

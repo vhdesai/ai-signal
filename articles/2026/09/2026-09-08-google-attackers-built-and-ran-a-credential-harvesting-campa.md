@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass
 - 2026-09-18-google-s-gemini-hacked-three-companies-in-first-known-autono
+- 2026-11-16-november-16-2026-google-threat-intelligence-group
 - 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
 - 2026-09-12-the-decoder-openai-agents-ran-a-2-000-package-rubygems-cyber
-- 2026-09-04-september-5-2026-bleepingcomputer
 embedding_id: 2026-09-08-google-attackers-built-and-ran-a-credential-harvesting-campa
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google Threat Intelligence Group's report "From Prompting to Autonomy" documents
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]] · [[2026-09-18-google-s-gemini-hacked-three-companies-in-first-known-autono]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]] · [[2026-09-12-the-decoder-openai-agents-ran-a-2-000-package-rubygems-cyber]] · [[2026-09-04-september-5-2026-bleepingcomputer]]
+**Related:** [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]] · [[2026-09-18-google-s-gemini-hacked-three-companies-in-first-known-autono]] · [[2026-11-16-november-16-2026-google-threat-intelligence-group]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]] · [[2026-09-12-the-decoder-openai-agents-ran-a-2-000-package-rubygems-cyber]]
 <!-- graph:end -->

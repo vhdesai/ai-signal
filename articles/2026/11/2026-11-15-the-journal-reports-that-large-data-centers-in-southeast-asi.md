@@ -27,7 +27,6 @@ related_article_ids:
 - 2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee
 - 2026-11-14-november-15-2026-cnbc
 - 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
-- 2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls
 embedding_id: 2026-11-15-the-journal-reports-that-large-data-centers-in-southeast-asi
 event_name: ''
 ---
@@ -41,5 +40,5 @@ The Journal reports that large data centers in Southeast Asia gave Chinese compa
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-15-wsj-southeast-asian-data-centers-gave-chinese-ai-firms-a-bac]] · [[2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee]] · [[2026-11-14-november-15-2026-cnbc]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]] · [[2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls]]
+**Related:** [[2026-11-15-wsj-southeast-asian-data-centers-gave-chinese-ai-firms-a-bac]] · [[2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee]] · [[2026-11-14-november-15-2026-cnbc]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]]
 <!-- graph:end -->

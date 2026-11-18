@@ -32,8 +32,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-05-04-university-of-washington-microsoft-ai-deal-still-lacks-defin
-- 2026-10-29-october-28-2026-wall-street-journal
 - 2026-10-01-oregon-capital-chronicle-reports-nvidia-s-partnership-with-o
+- 2026-11-16-november-17-2026-the-information
 - 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
 embedding_id: 2026-10-02-the-university-of-washington-opened-a-new-global-innovation
 event_name: ''
@@ -48,5 +48,5 @@ Publication window: items published Oct 1 – Oct 2, 2026 (last 24 hours). Compi
 
 **Entities:** [[Amazon]] · [[Google]] · [[IBM]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-05-04-university-of-washington-microsoft-ai-deal-still-lacks-defin]] · [[2026-10-29-october-28-2026-wall-street-journal]] · [[2026-10-01-oregon-capital-chronicle-reports-nvidia-s-partnership-with-o]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]]
+**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-05-04-university-of-washington-microsoft-ai-deal-still-lacks-defin]] · [[2026-10-01-oregon-capital-chronicle-reports-nvidia-s-partnership-with-o]] · [[2026-11-16-november-17-2026-the-information]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]]
 <!-- graph:end -->

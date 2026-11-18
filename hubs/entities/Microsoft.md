@@ -1,14 +1,19 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1180
+member_count: 1185
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1180 connected article(s).
+> Auto-generated entity hub. 1185 connected article(s).
 
+- `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
+- `2026-11-17` [[2026-11-17-november-16-2026-the-information-2|[November 16, 2026] · [The Information]]]
+- `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-16` [[2026-11-16-microsoft-expands-agentic-azure-operations-with-distinct-ava|Microsoft expands agentic Azure operations with distinct availability stages]]
 - `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
 - `2026-11-16` [[2026-11-16-cios-draw-lessons-from-the-microsoft-365-outage-as-compute-s|CIOs draw lessons from the Microsoft 365 outage as compute strain threatens more disruptions]]
 - `2026-11-15` [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in|Megaspeed opens internal probe and says Alice Huang left in 2025]]

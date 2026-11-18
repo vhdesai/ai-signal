@@ -1,21 +1,35 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1935
+member_count: 1949
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1935 connected article(s).
+> Auto-generated entity hub. 1949 connected article(s).
 
+- `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
+- `2026-11-17` [[2026-11-17-november-16-2026-wall-street-journal|[November 16, 2026] · [Wall Street Journal]]]
+- `2026-11-17` [[2026-11-17-november-16-2026-the-information|[November 16, 2026] · [The Information]]]
+- `2026-11-17` [[2026-11-17-november-16-2026-business-insider-3|[November 16, 2026] · [Business Insider]]]
+- `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-nvidia-creates-a-board-committee-for-national-security-and-e|NVIDIA creates a board committee for national security and export-control oversight]]
+- `2026-11-17` [[2026-11-17-amd-and-google-chip-away-at-nvidia-as-huang-s-exit-shakes-cu|AMD and Google chip away at Nvidia as Huang's exit shakes customers]]
 - `2026-11-16` [[2026-11-16-november-16-2026-pitchbook|[November 16, 2026] · [PitchBook]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]
+- `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]
 - `2026-11-16` [[2026-11-16-washington-still-plans-to-name-nvidia-an-ai-national-champio|Washington still plans to name Nvidia an AI 'national champion' as the US and nine allies sign a supply-chain accord]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-16` [[2026-11-16-reported-deepseek-consumer-limits-highlight-compute-availabi|Reported DeepSeek consumer limits highlight compute availability risk]]
+- `2026-11-16` [[2026-11-16-openai-s-astra-makes-some-robot-training-simulation-data-100|OpenAI's Astra makes some robot-training simulation data 100 times faster, says Nvidia's robotics chief]]
 - `2026-11-16` [[2026-11-16-nvidia-s-open-checkbook-era-is-ending-as-its-slump-rattles-a|Nvidia's open-checkbook era is ending as its slump rattles Asia's chipmakers and lifts equal-weight funds]]
+- `2026-11-16` [[2026-11-16-noeri-launches-with-110-million-and-an-enterprise-owned-ai-p|Noeri launches with $110 million and an enterprise-owned AI proposition]]
+- `2026-11-16` [[2026-11-16-nvidia-reports-vera-rubin-training-results-agentic-inference|NVIDIA reports Vera Rubin training results; agentic inference remains provisional]]
+- `2026-11-16` [[2026-11-16-nvidia-newsroom-november-16-2026-08-00-pst|NVIDIA Newsroom · November 16, 2026 · 08:00 PST]]
 - `2026-11-16` [[2026-11-16-insurers-hold-85-billion-of-ai-debt-as-data-centers-drive-a|Insurers hold $85 billion of AI debt as data centers drive a record quarter for climate tech VC]]
+- `2026-11-16` [[2026-11-16-ibm-newsroom-november-16-2026-08-00-pst|IBM Newsroom · November 16, 2026 · 08:00 PST]]
 - `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-16` [[2026-11-16-california-attorney-general-november-16-2026|California Attorney General · November 16, 2026]]
 - `2026-11-15` [[2026-11-15-november-16-2026-business-insider|[November 16, 2026] · [Business Insider]]]
 - `2026-11-15` [[2026-11-15-november-15-2026-u-s-department-of-state|[November 15, 2026] · [U.S. Department of State]]]
 - `2026-11-15` [[2026-11-15-november-14-2026-the-information|[November 14, 2026] · [The Information]]]

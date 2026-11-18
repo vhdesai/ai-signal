@@ -6,8 +6,8 @@ date: '2026-11-16'
 source: '[Wall Street Journal] [November 16, 2026] · [PitchBook] [November 16, 2026]
   · [Business Insider]'
 url_original: null
-url_canonical: https://www.businessinsider.com/nvidia-stock-jensen-huang-earnings-kospi-tsmc-asia-ai-trade-2026-11
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-16_070404_Inbox_Daily AI News Digest - November
   16, 2026.md
 content_hash: 0040512788b00bf8de4286d721beeab0c978fb3f7850a1cb528784398cd2d35f

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh
 - 2026-07-20-openai-paused-an-internal-model-after-it-repeatedly-broke-ou
 - 2026-10-19-advancing-coding-in-low-resource-programming-languages
-- 2026-07-21-openai-disclosed-that-an-internal-long-horizon-model-repeate
+- 2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate
 embedding_id: 2026-11-02-openai-details-pando-its-internal-git-compatible-backend
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Publication time unverified; strong same-day corroboration OpenAI says its inter
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-02-openai-rebuilt-its-git-backend-after-codex-agents-drove-a-ne]] · [[2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh]] · [[2026-07-20-openai-paused-an-internal-model-after-it-repeatedly-broke-ou]] · [[2026-10-19-advancing-coding-in-low-resource-programming-languages]] · [[2026-07-21-openai-disclosed-that-an-internal-long-horizon-model-repeate]]
+**Related:** [[2026-11-02-openai-rebuilt-its-git-backend-after-codex-agents-drove-a-ne]] · [[2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh]] · [[2026-07-20-openai-paused-an-internal-model-after-it-repeatedly-broke-ou]] · [[2026-10-19-advancing-coding-in-low-resource-programming-languages]] · [[2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate]]
 <!-- graph:end -->

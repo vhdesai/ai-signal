@@ -20,11 +20,9 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-11-16-alibaba-introduces-qwen4-max-smaller-open-weight-models-rema
 related_article_ids:
-- 2026-11-16-qwen4-max-brings-a-larger-multimodal-model-to-alibaba-s-clou
-- 2026-11-16-november-16-2026-theprint-citing-bloomberg
 - 2026-11-16-alibaba-launches-qwen4-max-and-tencent-ships-hy4-flash-both
 embedding_id: 2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex
 event_name: ''
@@ -39,5 +37,6 @@ Alibaba unveiled Qwen4-Max, a multimodal mixture-of-experts model with 2.4 trill
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-11-16-qwen4-max-brings-a-larger-multimodal-model-to-alibaba-s-clou]] · [[2026-11-16-november-16-2026-theprint-citing-bloomberg]] · [[2026-11-16-alibaba-launches-qwen4-max-and-tencent-ships-hy4-flash-both]]
+**Canonical:** [[2026-11-16-alibaba-introduces-qwen4-max-smaller-open-weight-models-rema]]
+**Related:** [[2026-11-16-alibaba-launches-qwen4-max-and-tencent-ships-hy4-flash-both]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: OpenAI’s LVMH media agreement joins enterprise adoption with content ac
 date: '2026-11-16'
 source: 10:00 a.m. CET, Les Echos publication
 url_original: null
-url_canonical: https://www.lemonde.fr/pixels/article/2026/11/16/les-medias-de-lvmh-dont-le-parisien-et-les-echos-signent-un-accord-avec-openai_6811772_4408996.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-16_060252_Inbox_Daily AI News Digest - November
   16, 2026.md
 content_hash: 4ee8288439bfad792c174f95819482d707cc00ae936d1ab33ca40c97a23d775d

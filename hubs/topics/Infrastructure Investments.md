@@ -1,14 +1,17 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 2013
+member_count: 2016
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 2013 connected article(s).
+> Auto-generated topic hub. 2016 connected article(s).
 
+- `2026-11-17` [[2026-11-17-amd-and-google-chip-away-at-nvidia-as-huang-s-exit-shakes-cu|AMD and Google chip away at Nvidia as Huang's exit shakes customers]]
+- `2026-11-16` [[2026-11-16-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]
+- `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]
 - `2026-11-16` [[2026-11-16-insurers-hold-85-billion-of-ai-debt-as-data-centers-drive-a|Insurers hold $85 billion of AI debt as data centers drive a record quarter for climate tech VC]]
 - `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
 - `2026-11-15` [[2026-11-15-wall-street-wants-to-trade-ai-compute-like-oil-as-private-cr|Wall Street wants to trade AI compute like oil as private credit funds the buildout]]

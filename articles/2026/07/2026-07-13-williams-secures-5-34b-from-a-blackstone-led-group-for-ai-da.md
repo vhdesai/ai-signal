@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-16-november-17-2026-the-information
 - 2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi
 - 2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value
 - 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
 - 2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da
-- 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 embedding_id: 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Williams (NYSE: WMB) announced that a Blackstone Credit & Insurance-led group (w
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi]] · [[2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
+**Related:** [[2026-11-16-november-17-2026-the-information]] · [[2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi]] · [[2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da]]
 <!-- graph:end -->

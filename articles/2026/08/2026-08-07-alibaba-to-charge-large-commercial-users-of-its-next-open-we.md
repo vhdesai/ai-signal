@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-08-alibaba-plans-revenue-sharing-on-open-weight-qwen-3-8-max
 - 2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-qwe
 - 2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m
+- 2026-11-16-alibaba-introduces-qwen4-max-smaller-open-weight-models-rema
 embedding_id: 2026-08-07-alibaba-to-charge-large-commercial-users-of-its-next-open-we
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Alibaba plans to require revenue sharing from companies generating more than $20
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-use]] · [[2026-08-08-alibaba-plans-revenue-sharing-on-open-weight-qwen-3-8-max]] · [[2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-qwe]] · [[2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m]]
+**Related:** [[2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-use]] · [[2026-08-08-alibaba-plans-revenue-sharing-on-open-weight-qwen-3-8-max]] · [[2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-qwe]] · [[2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m]] · [[2026-11-16-alibaba-introduces-qwen4-max-smaller-open-weight-models-rema]]
 <!-- graph:end -->

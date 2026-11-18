@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 232
+member_count: 234
 ---
 
 # IBM
 
-> Auto-generated entity hub. 232 connected article(s).
+> Auto-generated entity hub. 234 connected article(s).
 
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
+- `2026-11-16` [[2026-11-16-ibm-newsroom-november-16-2026-08-00-pst|IBM Newsroom · November 16, 2026 · 08:00 PST]]
+- `2026-11-16` [[2026-11-16-california-attorney-general-november-16-2026|California Attorney General · November 16, 2026]]
 - `2026-11-15` [[2026-11-15-san-francisco-declaration-outlines-international-ai-security|San Francisco declaration outlines international AI security and infrastructure cooperation]]
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-14` [[2026-11-14-november-12-2026-techcrunch|[November 12, 2026] · [TechCrunch]]]

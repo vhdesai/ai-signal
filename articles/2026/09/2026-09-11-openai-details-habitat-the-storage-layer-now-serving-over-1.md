@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-11-openai-details-habitat-the-storage-platform-behind-1b-weekly
 - 2026-09-11-openai-details-habitat-the-storage-platform-now-serving-1b-c
+- 2026-11-16-openai-expands-academic-researcher-grants-with-applications
 - 2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth
 - 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
-- 2026-11-09-chatgpt-s-traffic-rebounds-as-it-holds-more-than-81-of-chatb
 embedding_id: 2026-09-11-openai-details-habitat-the-storage-layer-now-serving-over-1
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI published the first of a two-part engineering account of Habitat, the onl
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-11-openai-details-habitat-the-storage-platform-behind-1b-weekly]] · [[2026-09-11-openai-details-habitat-the-storage-platform-now-serving-1b-c]] · [[2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]] · [[2026-11-09-chatgpt-s-traffic-rebounds-as-it-holds-more-than-81-of-chatb]]
+**Related:** [[2026-09-11-openai-details-habitat-the-storage-platform-behind-1b-weekly]] · [[2026-09-11-openai-details-habitat-the-storage-platform-now-serving-1b-c]] · [[2026-11-16-openai-expands-academic-researcher-grants-with-applications]] · [[2026-11-09-chatgpt-holds-more-than-81-of-chatbot-traffic-as-its-growth]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]]
 <!-- graph:end -->

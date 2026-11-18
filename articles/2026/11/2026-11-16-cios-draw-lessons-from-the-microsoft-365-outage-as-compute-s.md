@@ -5,8 +5,8 @@ title: CIOs draw lessons from the Microsoft 365 outage as compute strain threate
 date: '2026-11-16'
 source: '[CIO Dive]'
 url_original: null
-url_canonical: https://petri.com/microsoft-explains-microsoft-365-outage/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-16_070404_Inbox_Daily AI News Digest - November
   16, 2026.md
 content_hash: f30032c0fcd368624b39ccfa29ad7e4e2c7da266ca8d4f8c043c6fc49da8cc9d

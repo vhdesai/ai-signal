@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia
 - 2026-11-10-nvidia-s-selloff-highlights-governance-and-concentration-ris
+- 2026-11-17-nvidia-creates-a-board-committee-for-national-security-and-e
 - 2026-11-15-bessent-demands-an-outside-nvidia-ceo-as-huang-s-allies-push
-- 2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports
 embedding_id: 2026-11-15-u-s-export-control-scrutiny-puts-nvidia-governance-in-focus
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Source: CNBC Treasury Secretary Scott Bessent called for Nvidia to recruit an ou
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-11-10-nvidia-s-selloff-highlights-governance-and-concentration-ris]] · [[2026-11-15-bessent-demands-an-outside-nvidia-ceo-as-huang-s-allies-push]] · [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports]]
+**Related:** [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-11-10-nvidia-s-selloff-highlights-governance-and-concentration-ris]] · [[2026-11-17-nvidia-creates-a-board-committee-for-national-security-and-e]] · [[2026-11-15-bessent-demands-an-outside-nvidia-ceo-as-huang-s-allies-push]]
 <!-- graph:end -->

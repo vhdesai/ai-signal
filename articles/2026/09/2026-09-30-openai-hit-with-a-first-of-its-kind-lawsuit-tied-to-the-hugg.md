@@ -21,8 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-17-november-17-2026-the-information
 - 2026-07-20-reports-say-an-ai-agent-carried-out-an-end-to-end-cyberattac
-- 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
 embedding_id: 2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Axios and CNBC report OpenAI is facing a first-of-its-kind lawsuit tied to an ag
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-20-reports-say-an-ai-agent-carried-out-an-end-to-end-cyberattac]] · [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face]]
+**Related:** [[2026-11-17-november-17-2026-the-information]] · [[2026-07-20-reports-say-an-ai-agent-carried-out-an-end-to-end-cyberattac]]
 <!-- graph:end -->

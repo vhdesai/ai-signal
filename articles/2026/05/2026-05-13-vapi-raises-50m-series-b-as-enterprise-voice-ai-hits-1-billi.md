@@ -5,7 +5,7 @@ date: '2026-05-13'
 source: AiThority
 url_original: https://aithority.com/machine-learning/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai/
 url_canonical: https://aithority.com/machine-learning/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 9c6c3fcef61ca04d606218f8e10cccfced26a276f5b69cd3b94a54ff29a36ca9

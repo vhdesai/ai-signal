@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-15-november-14-2026-the-information
 - 2026-11-15-a-petition-asking-nvidia-s-board-to-bring-back-jensen-huang
+- 2026-11-17-november-16-2026-the-information
 - 2026-11-14-major-nvidia-shareholders-urge-the-board-not-to-rush-huang-s
 - 2026-11-14-tech-leaders-press-nvidia-to-reinstate-jensen-huang
-- 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
 embedding_id: 2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Altimeter's Brad Gerstner and Atreides' Gavin Baker urged Nvidia's board to run 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-11-15-november-14-2026-the-information]] · [[2026-11-15-a-petition-asking-nvidia-s-board-to-bring-back-jensen-huang]] · [[2026-11-14-major-nvidia-shareholders-urge-the-board-not-to-rush-huang-s]] · [[2026-11-14-tech-leaders-press-nvidia-to-reinstate-jensen-huang]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]]
+**Related:** [[2026-11-15-november-14-2026-the-information]] · [[2026-11-15-a-petition-asking-nvidia-s-board-to-bring-back-jensen-huang]] · [[2026-11-17-november-16-2026-the-information]] · [[2026-11-14-major-nvidia-shareholders-urge-the-board-not-to-rush-huang-s]] · [[2026-11-14-tech-leaders-press-nvidia-to-reinstate-jensen-huang]]
 <!-- graph:end -->

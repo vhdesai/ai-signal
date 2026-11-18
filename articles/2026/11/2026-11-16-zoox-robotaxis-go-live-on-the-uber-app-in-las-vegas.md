@@ -4,8 +4,8 @@ title: Zoox robotaxis go live on the Uber app in Las Vegas
 date: '2026-11-16'
 source: '[TechCrunch]'
 url_original: null
-url_canonical: https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-16_070404_Inbox_Daily AI News Digest - November
   16, 2026.md
 content_hash: 99af5373a3c89f8938653b3437097f32835970df955f3c3760c66d1b8b8f549e

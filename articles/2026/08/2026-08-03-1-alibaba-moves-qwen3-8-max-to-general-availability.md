@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c
 - 2026-08-03-alibaba-releases-qwen3-8-max-a-2-4-trillion-parameter-moe-mo
+- 2026-11-16-alibaba-introduces-qwen4-max-smaller-open-weight-models-rema
 - 2026-11-16-qwen4-max-brings-a-larger-multimodal-model-to-alibaba-s-clou
 - 2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate
-- 2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex
 embedding_id: 2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alibaba’s flagship 2.4-trillion-parameter mixture-of-experts model moved from 
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c]] · [[2026-08-03-alibaba-releases-qwen3-8-max-a-2-4-trillion-parameter-moe-mo]] · [[2026-11-16-qwen4-max-brings-a-larger-multimodal-model-to-alibaba-s-clou]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate]] · [[2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex]]
+**Related:** [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c]] · [[2026-08-03-alibaba-releases-qwen3-8-max-a-2-4-trillion-parameter-moe-mo]] · [[2026-11-16-alibaba-introduces-qwen4-max-smaller-open-weight-models-rema]] · [[2026-11-16-qwen4-max-brings-a-larger-multimodal-model-to-alibaba-s-clou]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate]]
 <!-- graph:end -->

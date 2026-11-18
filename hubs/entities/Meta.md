@@ -1,17 +1,19 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 1046
+member_count: 1048
 ---
 
 # Meta
 
-> Auto-generated entity hub. 1046 connected article(s).
+> Auto-generated entity hub. 1048 connected article(s).
 
+- `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
 - `2026-11-16` [[2026-11-16-november-16-2026-federal-reserve|[November 16, 2026] · [Federal Reserve]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-16` [[2026-11-16-insurers-hold-85-billion-of-ai-debt-as-data-centers-drive-a|Insurers hold $85 billion of AI debt as data centers drive a record quarter for climate tech VC]]
+- `2026-11-16` [[2026-11-16-california-attorney-general-november-16-2026|California Attorney General · November 16, 2026]]
 - `2026-11-16` [[2026-11-16-banks-race-to-keep-up-as-ai-agents-use-credit-cards-and-the|Banks race to keep up as AI agents use credit cards, and the Fed's Barr warns of herding and consent risks]]
 - `2026-11-15` [[2026-11-15-san-francisco-declaration-outlines-international-ai-security|San Francisco declaration outlines international AI security and infrastructure cooperation]]
 - `2026-11-14` [[2026-11-14-scotland-s-ai-build-out-faces-organized-public-opposition|Scotland’s AI build-out faces organized public opposition]]

@@ -4,8 +4,8 @@ title: '[November 16, 2026] · [Business Insider]'
 date: '2026-11-16'
 source: '[DealBook]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+IPO
-url_canonical: https://www.newsweek.com/scientists-predicted-doomsday-for-november-13-2026-they-got-it-all-wrong-12704398
-url_status: repaired
+url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+IPO
+url_status: broken
 digest_source: digests\raw\2026-11-16_065758_Final-Daily-AI-News-Digest.md
 content_hash: abb4b93af5cae112953a5049507940ef9f4f402388223e176760e6fa6542c0ca
 normalized_title_hash: c2428cdef239b3dd

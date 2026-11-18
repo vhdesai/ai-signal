@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro
 - 2026-09-04-openai-launches-plan-to-protect-critical-infrastructure-from
+- 2026-11-17-q-a-why-building-math-muscles-remains-important-in-the-ai-er
 embedding_id: 2026-10-23-openai-and-poland-s-nask-announce-partnership-on-ai-safety-a
 event_name: ''
 ---
@@ -37,5 +38,5 @@ OpenAI announced a partnership with Poland's NASK to collaborate on AI safety, s
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro]] · [[2026-09-04-openai-launches-plan-to-protect-critical-infrastructure-from]]
+**Related:** [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro]] · [[2026-09-04-openai-launches-plan-to-protect-critical-infrastructure-from]] · [[2026-11-17-q-a-why-building-math-muscles-remains-important-in-the-ai-er]]
 <!-- graph:end -->

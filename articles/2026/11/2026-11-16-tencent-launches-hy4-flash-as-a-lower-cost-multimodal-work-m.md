@@ -4,8 +4,8 @@ title: Tencent launches Hy4 flash as a lower-cost multimodal work model
 date: '2026-11-16'
 source: '[Tencent Hy]'
 url_original: null
-url_canonical: https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-16_062034_Inbox_Daily AI News Digest - November
   16, 2026.md
 content_hash: aeace74c7768ea7114606b0b4dba153931312db970e6c8cc1d7c1c91766d7774

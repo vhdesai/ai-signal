@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-17-mit-profiles-jacob-andreas-s-work-on-explaining-what-models
 - 2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 - 2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins
-- 2026-08-27-looking-beyond-natural-sequences-mit-framework-for-computati
 embedding_id: 2026-08-31-how-an-mit-research-project-became-a-global-programming-lang
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT News profiles Julia, the programming language that began as an MIT research 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins]] · [[2026-08-27-looking-beyond-natural-sequences-mit-framework-for-computati]]
+**Related:** [[2026-11-17-mit-profiles-jacob-andreas-s-work-on-explaining-what-models]] · [[2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-11-09-mit-and-berkeley-push-robots-and-simulators-past-literal-ins]]
 <!-- graph:end -->

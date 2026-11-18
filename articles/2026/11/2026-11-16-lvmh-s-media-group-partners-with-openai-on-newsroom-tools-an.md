@@ -4,8 +4,8 @@ title: LVMH’s media group partners with OpenAI on newsroom tools and linked jo
 date: '2026-11-16'
 source: '[Groupe Les Echos–Le Parisien]'
 url_original: null
-url_canonical: https://www.lemonde.fr/pixels/article/2026/11/16/les-medias-de-lvmh-dont-le-parisien-et-les-echos-signent-un-accord-avec-openai_6811772_4408996.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-16_062034_Inbox_Daily AI News Digest - November
   16, 2026.md
 content_hash: 8b487b78432df9ccd4f8af7761c1078440d4e245752c1ae495186fdca8133d42

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-10-29-october-28-2026-the-information
 - 2026-10-21-october-22-2026-wsj-pro-cybersecurity
 - 2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p
-- 2026-10-24-washington-s-message-to-ai-execs-please-shut-up
-- 2026-10-29-on-techcrunch-s-equity-podcast-wiz-s-tomer-schwartz-said-the
+- 2026-11-16-november-16-2026-google-threat-intelligence-group
+- 2026-11-16-november-16-2026-bleepingcomputer
 embedding_id: 2026-10-23-security-leaders-warn-of-faster-flaw-discovery
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Guardian’s reaction reporting warns AI-assisted flaw discovery may strain 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-10-29-october-28-2026-the-information]] · [[2026-10-21-october-22-2026-wsj-pro-cybersecurity]] · [[2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p]] · [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up]] · [[2026-10-29-on-techcrunch-s-equity-podcast-wiz-s-tomer-schwartz-said-the]]
+**Related:** [[2026-10-29-october-28-2026-the-information]] · [[2026-10-21-october-22-2026-wsj-pro-cybersecurity]] · [[2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p]] · [[2026-11-16-november-16-2026-google-threat-intelligence-group]] · [[2026-11-16-november-16-2026-bleepingcomputer]]
 <!-- graph:end -->

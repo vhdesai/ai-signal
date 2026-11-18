@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1816
+member_count: 1822
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1816 connected article(s).
+> Auto-generated topic hub. 1822 connected article(s).
 
+- `2026-11-17` [[2026-11-17-november-16-2026-wall-street-journal|[November 16, 2026] · [Wall Street Journal]]]
+- `2026-11-17` [[2026-11-17-november-16-2026-business-insider-3|[November 16, 2026] · [Business Insider]]]
+- `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-nvidia-creates-a-board-committee-for-national-security-and-e|NVIDIA creates a board committee for national security and export-control oversight]]
 - `2026-11-16` [[2026-11-16-november-16-2026-theprint-citing-bloomberg|[November 16, 2026] · [ThePrint, citing Bloomberg]]]
 - `2026-11-16` [[2026-11-16-tencent-positions-hy4-flash-for-low-cost-long-context-deploy|Tencent positions Hy4 flash for low-cost, long-context deployment]]
 - `2026-11-16` [[2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m|Tencent launches Hy4 flash as a lower-cost multimodal work model]]
@@ -15,7 +19,9 @@ member_count: 1816
 - `2026-11-16` [[2026-11-16-reported-deepseek-consumer-limits-highlight-compute-availabi|Reported DeepSeek consumer limits highlight compute availability risk]]
 - `2026-11-16` [[2026-11-16-qwen4-max-brings-a-larger-multimodal-model-to-alibaba-s-clou|Qwen4-Max brings a larger multimodal model to Alibaba’s cloud]]
 - `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-16` [[2026-11-16-california-attorney-general-november-16-2026|California Attorney General · November 16, 2026]]
 - `2026-11-16` [[2026-11-16-alibaba-launches-qwen4-max-and-tencent-ships-hy4-flash-both|Alibaba launches Qwen4-Max and Tencent ships Hy4 flash, both with million-token context]]
+- `2026-11-16` [[2026-11-16-alibaba-introduces-qwen4-max-smaller-open-weight-models-rema|Alibaba introduces Qwen4-Max; smaller open-weight models remain planned]]
 - `2026-11-16` [[2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex|Alibaba introduces Qwen4-Max with a one-million-token context window]]
 - `2026-11-15` [[2026-11-15-november-16-2026-business-insider|[November 16, 2026] · [Business Insider]]]
 - `2026-11-15` [[2026-11-15-wsj-southeast-asian-data-centers-gave-chinese-ai-firms-a-bac|WSJ: Southeast Asian data centers gave Chinese AI firms a "backdoor" to Nvidia compute]]

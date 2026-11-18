@@ -1,22 +1,27 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3871
+member_count: 3876
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3871 connected article(s).
+> Auto-generated topic hub. 3876 connected article(s).
 
+- `2026-11-17` [[2026-11-17-q-a-why-building-math-muscles-remains-important-in-the-ai-er|Q&A: Why building math muscles remains important in the AI era]]
+- `2026-11-17` [[2026-11-17-mit-profiles-jacob-andreas-s-work-on-explaining-what-models|MIT profiles Jacob Andreas’s work on explaining what models learn]]
 - `2026-11-16` [[2026-11-16-november-16-2026-theprint-citing-bloomberg|[November 16, 2026] · [ThePrint, citing Bloomberg]]]
 - `2026-11-16` [[2026-11-16-tencent-positions-hy4-flash-for-low-cost-long-context-deploy|Tencent positions Hy4 flash for low-cost, long-context deployment]]
 - `2026-11-16` [[2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m|Tencent launches Hy4 flash as a lower-cost multimodal work model]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-16` [[2026-11-16-reported-deepseek-consumer-limits-highlight-compute-availabi|Reported DeepSeek consumer limits highlight compute availability risk]]
 - `2026-11-16` [[2026-11-16-qwen4-max-brings-a-larger-multimodal-model-to-alibaba-s-clou|Qwen4-Max brings a larger multimodal model to Alibaba’s cloud]]
+- `2026-11-16` [[2026-11-16-ibm-newsroom-november-16-2026-08-00-pst|IBM Newsroom · November 16, 2026 · 08:00 PST]]
 - `2026-11-16` [[2026-11-16-fed-governor-barr-warns-about-herding-and-consent-risks-from|Fed Governor Barr warns about herding and consent risks from financial AI agents]]
 - `2026-11-16` [[2026-11-16-dreamteam-raises-53-million-across-seed-and-series-a-rounds|Dreamteam raises $53 million across seed and Series A rounds for AI-native CRM]]
+- `2026-11-16` [[2026-11-16-california-attorney-general-november-16-2026|California Attorney General · November 16, 2026]]
 - `2026-11-16` [[2026-11-16-alibaba-launches-qwen4-max-and-tencent-ships-hy4-flash-both|Alibaba launches Qwen4-Max and Tencent ships Hy4 flash, both with million-token context]]
+- `2026-11-16` [[2026-11-16-alibaba-introduces-qwen4-max-smaller-open-weight-models-rema|Alibaba introduces Qwen4-Max; smaller open-weight models remain planned]]
 - `2026-11-16` [[2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex|Alibaba introduces Qwen4-Max with a one-million-token context window]]
 - `2026-11-15` [[2026-11-15-south-korea-s-top-tax-exam-scorer-admits-cheating-with-ai-da|South Korea's top tax-exam scorer admits cheating with AI days before the national college entrance exam]]
 - `2026-11-15` [[2026-11-15-san-francisco-declaration-outlines-international-ai-security|San Francisco declaration outlines international AI security and infrastructure cooperation]]

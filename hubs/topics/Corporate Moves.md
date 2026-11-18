@@ -1,13 +1,26 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5465
+member_count: 5490
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5465 connected article(s).
+> Auto-generated topic hub. 5490 connected article(s).
 
+- `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
+- `2026-11-17` [[2026-11-17-november-16-2026-wall-street-journal|[November 16, 2026] · [Wall Street Journal]]]
+- `2026-11-17` [[2026-11-17-november-16-2026-the-information-2|[November 16, 2026] · [The Information]]]
+- `2026-11-17` [[2026-11-17-november-16-2026-the-information|[November 16, 2026] · [The Information]]]
+- `2026-11-17` [[2026-11-17-november-16-2026-business-insider-2|[November 16, 2026] · [Business Insider]]]
+- `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-nvidia-creates-a-board-committee-for-national-security-and-e|NVIDIA creates a board committee for national security and export-control oversight]]
+- `2026-11-17` [[2026-11-17-isomorphic-labs-raises-5-billion-to-expand-ai-driven-drug-de|Isomorphic Labs raises $5 billion to expand AI-driven drug design]]
+- `2026-11-17` [[2026-11-17-isomorphic-labs-announces-a-5-billion-series-c-for-ai-driven|Isomorphic Labs announces a $5 billion Series C for AI-driven drug development]]
+- `2026-11-17` [[2026-11-17-gates-ventures-and-west-health-offer-15-million-to-researche|Gates Ventures and West Health offer $15 million to researchers building AI tools for Alzheimer's]]
+- `2026-11-17` [[2026-11-17-consumers-turn-to-chatgpt-claude-and-gemini-over-bank-chatbo|Consumers turn to ChatGPT, Claude and Gemini over bank chatbots for banking tasks]]
+- `2026-11-17` [[2026-11-17-amd-and-google-chip-away-at-nvidia-as-huang-s-exit-shakes-cu|AMD and Google chip away at Nvidia as Huang's exit shakes customers]]
+- `2026-11-16` [[2026-11-16-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-pitchbook|[November 16, 2026] · [PitchBook]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-business-insider|[November 16, 2026] · [Business Insider]]]
 - `2026-11-16` [[2026-11-16-zoox-robotaxis-go-live-on-the-uber-app-in-las-vegas|Zoox robotaxis go live on the Uber app in Las Vegas]]
@@ -17,15 +30,27 @@ member_count: 5465
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-16` [[2026-11-16-qwen4-max-brings-a-larger-multimodal-model-to-alibaba-s-clou|Qwen4-Max brings a larger multimodal model to Alibaba’s cloud]]
 - `2026-11-16` [[2026-11-16-openai-s-lvmh-media-agreement-joins-enterprise-adoption-with|OpenAI’s LVMH media agreement joins enterprise adoption with content access]]
+- `2026-11-16` [[2026-11-16-openai-s-astra-makes-some-robot-training-simulation-data-100|OpenAI's Astra makes some robot-training simulation data 100 times faster, says Nvidia's robotics chief]]
 - `2026-11-16` [[2026-11-16-openai-signs-lvmh-s-media-group-bringing-les-echos-and-le-pa|OpenAI signs LVMH's media group, bringing Les Echos and Le Parisien journalism into ChatGPT]]
 - `2026-11-16` [[2026-11-16-openai-explored-a-5-billion-plus-acquisition-of-goodfire-a-s|OpenAI explored a $5 billion-plus acquisition of Goodfire, a startup that decodes how AI models think]]
+- `2026-11-16` [[2026-11-16-openai-expands-academic-researcher-grants-with-applications|OpenAI expands academic researcher grants, with applications opening November 23]]
+- `2026-11-16` [[2026-11-16-openai-adds-embedded-assessors-with-scoped-access-and-disclo|OpenAI adds embedded assessors with scoped access and disclosure limits]]
 - `2026-11-16` [[2026-11-16-nvidia-s-open-checkbook-era-is-ending-as-its-slump-rattles-a|Nvidia's open-checkbook era is ending as its slump rattles Asia's chipmakers and lifts equal-weight funds]]
+- `2026-11-16` [[2026-11-16-november-16-2026-openai-semafor-reporting-at-9-06-a-m-pst|November 16, 2026 • OpenAI; Semafor reporting at 9:06 a.m. PST]]
+- `2026-11-16` [[2026-11-16-november-16-2026-google-threat-intelligence-group|November 16, 2026 · Google Threat Intelligence Group]]
+- `2026-11-16` [[2026-11-16-noeri-launches-with-110-million-and-an-enterprise-owned-ai-p|Noeri launches with $110 million and an enterprise-owned AI proposition]]
+- `2026-11-16` [[2026-11-16-nvidia-reports-vera-rubin-training-results-agentic-inference|NVIDIA reports Vera Rubin training results; agentic inference remains provisional]]
+- `2026-11-16` [[2026-11-16-nvidia-newsroom-november-16-2026-08-00-pst|NVIDIA Newsroom · November 16, 2026 · 08:00 PST]]
+- `2026-11-16` [[2026-11-16-microsoft-expands-agentic-azure-operations-with-distinct-ava|Microsoft expands agentic Azure operations with distinct availability stages]]
 - `2026-11-16` [[2026-11-16-lvmh-s-media-group-partners-with-openai-on-newsroom-tools-an|LVMH’s media group partners with OpenAI on newsroom tools and linked journalism]]
 - `2026-11-16` [[2026-11-16-insurers-hold-85-billion-of-ai-debt-as-data-centers-drive-a|Insurers hold $85 billion of AI debt as data centers drive a record quarter for climate tech VC]]
 - `2026-11-16` [[2026-11-16-dreamteam-raises-53-million-across-seed-and-series-a-rounds|Dreamteam raises $53 million across seed and Series A rounds for AI-native CRM]]
+- `2026-11-16` [[2026-11-16-databricks-launches-a-weekly-index-of-enterprise-ai-usage-an|Databricks launches a weekly index of enterprise AI usage and token economics]]
 - `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-16` [[2026-11-16-california-sues-openai-over-alleged-failures-in-experimental|California sues OpenAI over alleged failures in experimental-agent containment]]
 - `2026-11-16` [[2026-11-16-cios-draw-lessons-from-the-microsoft-365-outage-as-compute-s|CIOs draw lessons from the Microsoft 365 outage as compute strain threatens more disruptions]]
 - `2026-11-16` [[2026-11-16-banks-race-to-keep-up-as-ai-agents-use-credit-cards-and-the|Banks race to keep up as AI agents use credit cards, and the Fed's Barr warns of herding and consent risks]]
+- `2026-11-16` [[2026-11-16-anthropic-ipo-preview-sets-proposed-range-ahead-of-expected|Anthropic IPO preview sets proposed range ahead of expected pricing]]
 - `2026-11-16` [[2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex|Alibaba introduces Qwen4-Max with a one-million-token context window]]
 - `2026-11-15` [[2026-11-15-november-16-2026-business-insider|[November 16, 2026] · [Business Insider]]]
 - `2026-11-15` [[2026-11-15-november-15-2026-apple-newsroom|[November 15, 2026] · [Apple Newsroom]]]

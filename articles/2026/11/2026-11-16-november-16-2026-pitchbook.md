@@ -4,8 +4,8 @@ title: '[November 16, 2026] · [PitchBook]'
 date: '2026-11-16'
 source: '[Business Insider]'
 url_original: https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388
-url_canonical: https://nvca.org/wp-content/uploads/2026/10/Q3-2026-PitchBook-NVCA-Venture-Monitor.pdf
-url_status: repaired
+url_canonical: https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388
+url_status: broken
 digest_source: digests\raw\2026-11-16_065758_Final-Daily-AI-News-Digest.md
 content_hash: 30529f52599546ea8924da0559160bba68cf82f921f951d9591c7fdd5a4a96c2
 normalized_title_hash: e969f4e94504a385
@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-16-nvidia-s-open-checkbook-era-is-ending-as-its-slump-rattles-a
+- 2026-11-17-november-16-2026-wall-street-journal
 - 2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times
 - 2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is
 embedding_id: 2026-11-16-november-16-2026-pitchbook
@@ -37,5 +38,5 @@ The Wall Street Journal reports Kress is expected to rein in the deals through w
 
 **Entities:** [[NVIDIA]] · [[Samsung]] · [[TSMC]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-16-nvidia-s-open-checkbook-era-is-ending-as-its-slump-rattles-a]] · [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times]] · [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is]]
+**Related:** [[2026-11-16-nvidia-s-open-checkbook-era-is-ending-as-its-slump-rattles-a]] · [[2026-11-17-november-16-2026-wall-street-journal]] · [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times]] · [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is]]
 <!-- graph:end -->

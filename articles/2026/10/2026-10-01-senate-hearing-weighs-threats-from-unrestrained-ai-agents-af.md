@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
 - 2026-09-11-senators-from-both-parties-question-openai-over-the-hugging
 - 2026-09-23-september-24-2026
-- 2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg
+- 2026-11-16-california-attorney-general-november-16-2026
 embedding_id: 2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A Senate hearing convened to weigh systemic threats from unrestrained AI agents 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face]] · [[2026-09-11-senators-from-both-parties-question-openai-over-the-hugging]] · [[2026-09-23-september-24-2026]] · [[2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg]]
+**Related:** [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face]] · [[2026-09-11-senators-from-both-parties-question-openai-over-the-hugging]] · [[2026-09-23-september-24-2026]] · [[2026-11-16-california-attorney-general-november-16-2026]]
 <!-- graph:end -->

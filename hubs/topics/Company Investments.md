@@ -1,17 +1,23 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1455
+member_count: 1461
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1455 connected article(s).
+> Auto-generated topic hub. 1461 connected article(s).
 
+- `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
+- `2026-11-17` [[2026-11-17-november-16-2026-wall-street-journal|[November 16, 2026] · [Wall Street Journal]]]
+- `2026-11-17` [[2026-11-17-isomorphic-labs-raises-5-billion-to-expand-ai-driven-drug-de|Isomorphic Labs raises $5 billion to expand AI-driven drug design]]
+- `2026-11-17` [[2026-11-17-isomorphic-labs-announces-a-5-billion-series-c-for-ai-driven|Isomorphic Labs announces a $5 billion Series C for AI-driven drug development]]
 - `2026-11-16` [[2026-11-16-november-16-2026-business-insider|[November 16, 2026] · [Business Insider]]]
+- `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]
 - `2026-11-16` [[2026-11-16-nvidia-s-open-checkbook-era-is-ending-as-its-slump-rattles-a|Nvidia's open-checkbook era is ending as its slump rattles Asia's chipmakers and lifts equal-weight funds]]
 - `2026-11-16` [[2026-11-16-dreamteam-raises-53-million-across-seed-and-series-a-rounds|Dreamteam raises $53 million across seed and Series A rounds for AI-native CRM]]
 - `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]
+- `2026-11-16` [[2026-11-16-anthropic-ipo-preview-sets-proposed-range-ahead-of-expected|Anthropic IPO preview sets proposed range ahead of expected pricing]]
 - `2026-11-15` [[2026-11-15-wall-street-wants-to-trade-ai-compute-like-oil-as-private-cr|Wall Street wants to trade AI compute like oil as private credit funds the buildout]]
 - `2026-11-15` [[2026-11-15-south-korea-s-top-tax-exam-scorer-admits-cheating-with-ai-da|South Korea's top tax-exam scorer admits cheating with AI days before the national college entrance exam]]
 - `2026-11-15` [[2026-11-15-bharat-semi-raises-24-million-for-programmable-ai-sensor-chi|Bharat Semi raises $24 million for programmable AI sensor chips]]
