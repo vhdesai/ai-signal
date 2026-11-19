@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
 - 2026-08-18-mit-study-ai-generated-images-often-cannot-be-traced-to-any
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
-- 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
+- 2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai
 embedding_id: 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT researchers developed a technique to test open-source generative models for 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin]] · [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat]] · [[2026-08-18-mit-study-ai-generated-images-often-cannot-be-traced-to-any]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar]]
+**Related:** [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin]] · [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat]] · [[2026-08-18-mit-study-ai-generated-images-often-cannot-be-traced-to-any]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai]]
 <!-- graph:end -->

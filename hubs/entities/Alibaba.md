@@ -1,14 +1,18 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 495
+member_count: 499
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 495 connected article(s).
+> Auto-generated entity hub. 499 connected article(s).
 
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
+- `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
+- `2026-11-17` [[2026-11-17-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-new-reporting-widens-the-nvidia-megaspeed-export-control-web|New reporting widens the Nvidia–Megaspeed export-control web, from Alibaba introductions to bank loans]]
 - `2026-11-16` [[2026-11-16-november-16-2026-theprint-citing-bloomberg|[November 16, 2026] · [ThePrint, citing Bloomberg]]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-16` [[2026-11-16-qwen4-max-brings-a-larger-multimodal-model-to-alibaba-s-clou|Qwen4-Max brings a larger multimodal model to Alibaba’s cloud]]

@@ -4,8 +4,8 @@ title: '[November 16, 2026] · [The Information]'
 date: '2026-11-17'
 source: '[The Information]'
 url_original: null
-url_canonical: https://www.fema.gov/press-release/20260916/fema-and-fcc-schedule-2026-nationwide-test-emergency-alert-system-november
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-17_070307_Inbox_Daily AI News Digest - November
   17, 2026.md
 content_hash: b1395c9b49f2633dfd1184fae91d6542e83eaf75c9f2aeded31dccbbcc3654a0

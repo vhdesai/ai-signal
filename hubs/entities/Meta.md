@@ -1,14 +1,20 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 1048
+member_count: 1054
 ---
 
 # Meta
 
-> Auto-generated entity hub. 1048 connected article(s).
+> Auto-generated entity hub. 1054 connected article(s).
 
+- `2026-11-18` [[2026-11-18-november-17-2026-techcrunch|[November 17, 2026] · [TechCrunch]]]
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-google-s-open-source-torchtpu-takes-aim-at-nvidia-s-cuda-moa|Google's open-source TorchTPU takes aim at Nvidia's CUDA moat]]
+- `2026-11-17` [[2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat|Google's TorchTPU takes aim at Nvidia's CUDA moat]]
+- `2026-11-17` [[2026-11-17-google-makes-gemini-tasks-free-and-keeps-temporary-chats-for|Google makes Gemini Tasks free and keeps temporary chats for two months]]
+- `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]
 - `2026-11-16` [[2026-11-16-november-16-2026-federal-reserve|[November 16, 2026] · [Federal Reserve]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]

@@ -1,17 +1,30 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1822
+member_count: 1835
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1822 connected article(s).
+> Auto-generated topic hub. 1835 connected article(s).
 
+- `2026-11-18` [[2026-11-18-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
+- `2026-11-18` [[2026-11-18-november-18-2026-pitchbook|[November 18, 2026] · [PitchBook]]]
+- `2026-11-18` [[2026-11-18-sensetime-reports-accelerating-revenue-and-generative-ai-act|SenseTime reports accelerating revenue and generative-AI activity]]
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
+- `2026-11-18` [[2026-11-18-mit-and-cornell-lift-detection-of-disguised-ai-text-from-27|MIT and Cornell lift detection of disguised AI text from 27% to 93% with test-time adaptation]]
+- `2026-11-18` [[2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i|ByteDance nears a $500 million Azure deal for OpenAI models, irking OpenAI]]
+- `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
+- `2026-11-17` [[2026-11-17-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-wall-street-journal|[November 16, 2026] · [Wall Street Journal]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-business-insider-3|[November 16, 2026] · [Business Insider]]]
+- `2026-11-17` [[2026-11-17-nvidia-earnings-put-ai-infrastructure-demand-back-in-focus|Nvidia earnings put AI infrastructure demand back in focus]]
+- `2026-11-17` [[2026-11-17-nvidia-beats-and-lifts-next-year-s-growth-outlook-to-75-in-i|Nvidia beats and lifts next year's growth outlook to 75% in its first quarter without Huang]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-new-reporting-widens-the-nvidia-megaspeed-export-control-web|New reporting widens the Nvidia–Megaspeed export-control web, from Alibaba introductions to bank loans]]
+- `2026-11-17` [[2026-11-17-nvidia-reports-115-8-billion-quarter-and-higher-revenue-guid|NVIDIA reports $115.8 billion quarter and higher revenue guidance]]
 - `2026-11-17` [[2026-11-17-nvidia-creates-a-board-committee-for-national-security-and-e|NVIDIA creates a board committee for national security and export-control oversight]]
+- `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]
 - `2026-11-16` [[2026-11-16-november-16-2026-theprint-citing-bloomberg|[November 16, 2026] · [ThePrint, citing Bloomberg]]]
 - `2026-11-16` [[2026-11-16-tencent-positions-hy4-flash-for-low-cost-long-context-deploy|Tencent positions Hy4 flash for low-cost, long-context deployment]]
 - `2026-11-16` [[2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m|Tencent launches Hy4 flash as a lower-cost multimodal work model]]

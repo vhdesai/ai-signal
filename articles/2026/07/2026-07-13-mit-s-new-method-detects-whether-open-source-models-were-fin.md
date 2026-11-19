@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
 - 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
+- 2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
-- 2026-08-14-google-open-sources-heir-a-compiler-that-runs-ai-inference-o
 embedding_id: 2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT researchers, working with child-safety nonprofit Thorn, developed an auditin
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-08-14-google-open-sources-heir-a-compiler-that-runs-ai-inference-o]]
+**Related:** [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat]] · [[2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]]
 <!-- graph:end -->

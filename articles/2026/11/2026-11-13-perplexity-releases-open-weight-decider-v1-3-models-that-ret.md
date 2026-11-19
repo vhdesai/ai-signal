@@ -6,7 +6,7 @@ date: '2026-11-13'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/
 url_canonical: https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-14_061857_Inbox_Daily AI News Digest - November
   14, 2026.md
 content_hash: afe3fb9ce830037835effe15f15792f1188492c330b216f5cb41a0136d56c65d

@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 266
+member_count: 268
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 266 connected article(s).
+> Auto-generated entity hub. 268 connected article(s).
 
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]
 - `2026-11-16` [[2026-11-16-november-16-2026-theprint-citing-bloomberg|[November 16, 2026] · [ThePrint, citing Bloomberg]]]
 - `2026-11-16` [[2026-11-16-tencent-positions-hy4-flash-for-low-cost-long-context-deploy|Tencent positions Hy4 flash for low-cost, long-context deployment]]
 - `2026-11-16` [[2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m|Tencent launches Hy4 flash as a lower-cost multimodal work model]]

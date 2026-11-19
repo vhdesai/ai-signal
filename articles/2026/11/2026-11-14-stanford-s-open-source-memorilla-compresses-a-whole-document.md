@@ -6,7 +6,7 @@ date: '2026-11-14'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/
 url_canonical: https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-14_061857_Inbox_Daily AI News Digest - November
   14, 2026.md
 content_hash: 630a5b41dc57dec3e1779f8e0e7629a511faf6ef30dd93193b694dee200eb134

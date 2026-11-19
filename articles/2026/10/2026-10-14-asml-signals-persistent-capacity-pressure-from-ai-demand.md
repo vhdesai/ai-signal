@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-15-asml-raises-2026-guidance-a-second-time-on-strong-ai-chip-de
 - 2026-07-15-asml-raises-guidance-again-on-continuing-ai-chip-demand
+- 2026-11-18-sensetime-reports-accelerating-revenue-and-generative-ai-act
 - 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
-- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 embedding_id: 2026-10-14-asml-signals-persistent-capacity-pressure-from-ai-demand
 event_name: ''
 ---
@@ -37,5 +37,5 @@ ASML reported €11.7 billion quarterly sales and €5.0 billion profit. AI dema
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-15-asml-raises-2026-guidance-a-second-time-on-strong-ai-chip-de]] · [[2026-07-15-asml-raises-guidance-again-on-continuing-ai-chip-demand]] · [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
+**Related:** [[2026-07-15-asml-raises-2026-guidance-a-second-time-on-strong-ai-chip-de]] · [[2026-07-15-asml-raises-guidance-again-on-continuing-ai-chip-demand]] · [[2026-11-18-sensetime-reports-accelerating-revenue-and-generative-ai-act]] · [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]]
 <!-- graph:end -->

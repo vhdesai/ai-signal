@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/
 url_canonical: https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-08-07_061741_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 8fbf55cb53997c754e720d3265b21e495b981e1b8a3bee06c6c511992e65f859
@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
+- 2026-11-18-november-17-2026-microsoft-ai
 - 2026-08-06-openai-launches-codex-security-in-research-preview-for-autom
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - 2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza
@@ -37,5 +38,5 @@ Microsoft released code-testing-generator, an MIT-licensed, polyglot AI agent th
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-08-06-openai-launches-codex-security-in-research-preview-for-autom]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza]]
+**Related:** [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-11-18-november-17-2026-microsoft-ai]] · [[2026-08-06-openai-launches-codex-security-in-research-preview-for-autom]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza]]
 <!-- graph:end -->

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 457
+member_count: 458
 ---
 
 # xAI
 
-> Auto-generated entity hub. 457 connected article(s).
+> Auto-generated entity hub. 458 connected article(s).
 
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-14` [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern|Analysis: Nvidia controversy raises executive-security governance questions]]
 - `2026-11-13` [[2026-11-13-xai-lays-off-most-of-the-grok-imagine-video-generation-team|xAI lays off most of the Grok Imagine video-generation team]]

@@ -41,6 +41,7 @@ related_article_ids:
 - 2026-10-29-october-29-2026-cursor
 - 2026-11-13-cursor-traces-its-breach-and-a-malicious-claude-code-extensi
 - 2026-11-13-cursor-traces-a-malicious-claude-code-extension-to-a-key-lea
+- 2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym
 - 2026-11-05-verification-limits-the-openai-linux-security-article-and-re
 embedding_id: 2026-10-30-inside-a-malicious-claude-code-branded-extension-and-its-per
 event_name: ''
@@ -55,5 +56,5 @@ Source Date-uncertain exception: October 30 date only; retained as a 24–48-hou
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-29-october-29-2026-cursor]] · [[2026-11-13-cursor-traces-its-breach-and-a-malicious-claude-code-extensi]] · [[2026-11-13-cursor-traces-a-malicious-claude-code-extension-to-a-key-lea]] · [[2026-11-05-verification-limits-the-openai-linux-security-article-and-re]]
+**Related:** [[2026-10-29-october-29-2026-cursor]] · [[2026-11-13-cursor-traces-its-breach-and-a-malicious-claude-code-extensi]] · [[2026-11-13-cursor-traces-a-malicious-claude-code-extension-to-a-key-lea]] · [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym]] · [[2026-11-05-verification-limits-the-openai-linux-security-article-and-re]]
 <!-- graph:end -->

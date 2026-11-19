@@ -1,15 +1,25 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1866
+member_count: 1876
 ---
 
 # Google
 
-> Auto-generated entity hub. 1866 connected article(s).
+> Auto-generated entity hub. 1876 connected article(s).
 
+- `2026-11-18` [[2026-11-18-november-17-2026-techcrunch|[November 17, 2026] · [TechCrunch]]]
+- `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
+- `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-google-s-open-source-torchtpu-takes-aim-at-nvidia-s-cuda-moa|Google's open-source TorchTPU takes aim at Nvidia's CUDA moat]]
+- `2026-11-17` [[2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat|Google's TorchTPU takes aim at Nvidia's CUDA moat]]
+- `2026-11-17` [[2026-11-17-google-widens-free-access-to-gemini-tasks-for-real-world-act|Google widens free access to Gemini Tasks for real-world actions]]
+- `2026-11-17` [[2026-11-17-google-makes-gemini-tasks-free-and-keeps-temporary-chats-for|Google makes Gemini Tasks free and keeps temporary chats for two months]]
+- `2026-11-17` [[2026-11-17-google-broadens-free-gemini-task-execution-across-major-mark|Google broadens free Gemini task execution across major markets]]
+- `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]
 - `2026-11-17` [[2026-11-17-amd-and-google-chip-away-at-nvidia-as-huang-s-exit-shakes-cu|AMD and Google chip away at Nvidia as Huang's exit shakes customers]]
 - `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]

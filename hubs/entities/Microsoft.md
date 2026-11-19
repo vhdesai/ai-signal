@@ -1,16 +1,26 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1185
+member_count: 1195
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1185 connected article(s).
+> Auto-generated entity hub. 1195 connected article(s).
 
+- `2026-11-18` [[2026-11-18-november-17-2026-microsoft-ai|[November 17, 2026] · [Microsoft AI]]]
+- `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
+- `2026-11-18` [[2026-11-18-microsoft-adds-mai-code-2-and-code-2-flash-to-the-coding-mod|Microsoft adds MAI Code 2 and Code 2 Flash to the coding-model mix]]
+- `2026-11-18` [[2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i|ByteDance nears a $500 million Azure deal for OpenAI models, irking OpenAI]]
+- `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-the-information-2|[November 16, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-microsoft-moves-office-into-copilot-and-starts-the-autopilot|Microsoft moves Office into Copilot and starts the Autopilot rollout]]
+- `2026-11-17` [[2026-11-17-microsoft-launches-mai-code-2-and-offers-licensed-model-weig|Microsoft launches MAI Code 2 and offers licensed model weights at Ignite]]
+- `2026-11-17` [[2026-11-17-microsoft-expands-mai-lineup-and-previews-licensed-weights|Microsoft expands MAI lineup and previews licensed weights]]
+- `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]
 - `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-16` [[2026-11-16-microsoft-expands-agentic-azure-operations-with-distinct-ava|Microsoft expands agentic Azure operations with distinct availability stages]]

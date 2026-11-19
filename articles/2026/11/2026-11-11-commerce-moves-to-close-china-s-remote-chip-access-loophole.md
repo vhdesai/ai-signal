@@ -26,7 +26,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo
-- 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
 embedding_id: 2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole
 event_name: ''
 ---
@@ -40,5 +39,5 @@ The Commerce Department is finalizing a rule, possibly to be announced this mont
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo]] · [[2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]]
+**Related:** [[2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo]]
 <!-- graph:end -->

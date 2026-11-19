@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-29-google-opens-gemini-skills-to-all-free-account-users
+- 2026-11-17-google-makes-gemini-tasks-free-and-keeps-temporary-chats-for
 - 2026-08-05-google-sets-a-september-4-deadline-to-replace-google-assista
+- 2026-11-18-november-17-2026-techcrunch
 - 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
-- 2026-08-28-google-relocates-90-person-gemini-safety-team-out-of-deepmin
 embedding_id: 2026-09-28-google-is-retiring-gemini-s-gems-in-favour-of-skills
 event_name: ''
 ---
@@ -38,5 +39,5 @@ An in-app notice confirms Gems — the custom assistants Google launched in 2024
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-29-google-opens-gemini-skills-to-all-free-account-users]] · [[2026-08-05-google-sets-a-september-4-deadline-to-replace-google-assista]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]] · [[2026-08-28-google-relocates-90-person-gemini-safety-team-out-of-deepmin]]
+**Related:** [[2026-09-29-google-opens-gemini-skills-to-all-free-account-users]] · [[2026-11-17-google-makes-gemini-tasks-free-and-keeps-temporary-chats-for]] · [[2026-08-05-google-sets-a-september-4-deadline-to-replace-google-assista]] · [[2026-11-18-november-17-2026-techcrunch]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]]
 <!-- graph:end -->

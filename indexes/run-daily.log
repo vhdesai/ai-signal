@@ -1,86 +1,88 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 
 Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights:  83%|████████▎ | 166/199 [00:00<00:00, 1601.23it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1656.06it/s]
+Loading weights:  92%|█████████▏| 184/199 [00:00<00:00, 1839.13it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1846.44it/s]
 {
   "command": "run-daily",
   "stages": {
     "ingest": {
-      "digests_total": 1706,
-      "digests_changed": 5,
+      "digests_total": 1713,
+      "digests_changed": 7,
       "changed": [
-        "news\\2026-11-17_000000_Publication-Sources.md",
-        "news\\2026-11-17_060438_Inbox_Daily AI News Digest - November 17, 2026.md",
-        "news\\2026-11-17_062147_Inbox_Daily AI News Digest - November 17, 2026.md",
-        "news\\2026-11-17_065752_Final-Daily-AI-News-Digest.md",
-        "news\\2026-11-17_070307_Inbox_Daily AI News Digest - November 17, 2026.md"
+        "news\\2026-11-18_000000_Publication-Sources.md",
+        "news\\2026-11-18_060402_Inbox_Daily AI News Digest - November 18, 2026.md",
+        "news\\2026-11-18_062225_Inbox_Daily AI News Digest - November 18, 2026.md",
+        "news\\2026-11-18_065751_Final-Daily-AI-News-Digest.md",
+        "news\\2026-11-18_065804_Inbox_Daily AI News Digest - November 18, 2026.md",
+        "news\\2026-11-18_070019_Final-Daily-AI-News-Digest.md",
+        "news\\2026-11-18_070508_Inbox_Daily AI News Digest - November 18, 2026.md"
       ]
     },
     "split": {
-      "digests_parsed": 1710,
-      "articles_written": 15980,
+      "digests_parsed": 1717,
+      "articles_written": 16056,
       "events_parsed": 145,
       "event_articles_written": 78,
-      "skipped_publication_sources": 76,
-      "skipped_thin_articles": 6049
+      "skipped_publication_sources": 77,
+      "skipped_thin_articles": 6084
     },
     "index": {
-      "articles_indexed": 11565,
+      "articles_indexed": 11609,
       "embeddings": {
         "enabled": true,
-        "added": 33,
-        "total": 11565,
-        "md_rewritten": 11564
+        "added": 44,
+        "total": 11609,
+        "md_rewritten": 11608
       }
     },
     "dedupe": {
-      "articles": 11565,
-      "exact_duplicates": 21,
-      "canonical": 8589,
-      "semantic_duplicates": 2955,
-      "related_links": 35259
+      "articles": 11609,
+      "exact_duplicates": 23,
+      "canonical": 8624,
+      "semantic_duplicates": 2962,
+      "related_links": 35395
     },
     "build-graph": {
       "status": "ok",
-      "articles_linked": 11565,
-      "wikilinks_emitted": 79431,
+      "articles_linked": 11609,
+      "wikilinks_emitted": 79767,
       "entity_hubs": 34,
       "topic_hubs": 8,
       "hubs_dir": "C:\\Users\\vdesai\\source\\repos\\Newsletter\\ext-host\\hubs"
     },
     "validate-urls": {
-      "checked": 5299,
-      "ok": 3866,
-      "broken": 1433,
-      "missing": 6242,
+      "checked": 5323,
+      "ok": 3893,
+      "broken": 1430,
+      "missing": 6262,
       "skipped": 24
     },
     "repair-urls": {
-      "attempted": 10,
-      "repaired": 7,
-      "unresolved": 3,
+      "attempted": 7,
+      "repaired": 1,
+      "unresolved": 6,
       "skipped": 0,
       "reverted": 0,
       "deferred": 0,
       "terminated": "completed",
-      "elapsed_s": 294.1,
+      "elapsed_s": 301.4,
       "max_workers": 10
     },
     "build-site-daily": {
-      "pages": 330,
-      "articles": 11565,
-      "canonical": 8589,
+      "pages": 331,
+      "articles": 11609,
+      "canonical": 8624,
       "site_dir": "C:\\Users\\vdesai\\source\\repos\\Newsletter\\ext-host\\site",
       "mode": "incremental",
-      "changed_articles": 118,
-      "written_files": 93,
-      "elapsed_s": 24.9
+      "changed_articles": 446,
+      "written_files": 182,
+      "elapsed_s": 19.14
     },
     "publish": {
       "status": "dry-run",
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20261117T183021+0000-414602.json"
+  "run_log": "indexes\\runs\\run-20261118T212938+0000-f1e6e0.json"
 }

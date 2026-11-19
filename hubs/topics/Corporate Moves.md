@@ -1,24 +1,55 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5490
+member_count: 5521
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5490 connected article(s).
+> Auto-generated topic hub. 5521 connected article(s).
 
+- `2026-11-18` [[2026-11-18-november-18-2026-the-information-2|[November 18, 2026] · [The Information]]]
+- `2026-11-18` [[2026-11-18-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
+- `2026-11-18` [[2026-11-18-november-18-2026-pitchbook|[November 18, 2026] · [PitchBook]]]
+- `2026-11-18` [[2026-11-18-november-17-2026-techcrunch|[November 17, 2026] · [TechCrunch]]]
+- `2026-11-18` [[2026-11-18-november-17-2026-business-insider-2|[November 17, 2026] · [Business Insider]]]
+- `2026-11-18` [[2026-11-18-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
+- `2026-11-18` [[2026-11-18-texas-clears-spacex-s-1-456gw-supercomputer-power-plant-as-a|Texas clears SpaceX's 1.456GW supercomputer power plant as Abbott lifts a data-center permit freeze]]
+- `2026-11-18` [[2026-11-18-sensetime-reports-accelerating-revenue-and-generative-ai-act|SenseTime reports accelerating revenue and generative-AI activity]]
+- `2026-11-18` [[2026-11-18-openai-and-le-figaro-combine-content-discovery-with-enterpri|OpenAI and Le Figaro combine content discovery with enterprise adoption]]
+- `2026-11-18` [[2026-11-18-nvidia-turns-disciplined-and-selective-on-the-investments-th|Nvidia turns 'disciplined and selective' on the investments that fueled the AI startup boom]]
+- `2026-11-18` [[2026-11-18-mit-and-cornell-lift-detection-of-disguised-ai-text-from-27|MIT and Cornell lift detection of disguised AI text from 27% to 93% with test-time adaptation]]
+- `2026-11-18` [[2026-11-18-enterprises-put-a-leash-on-ai-spend-as-chief-ai-officers-str|Enterprises put a leash on AI spend as chief AI officers struggle for budget sway]]
+- `2026-11-18` [[2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i|ByteDance nears a $500 million Azure deal for OpenAI models, irking OpenAI]]
+- `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
+- `2026-11-17` [[2026-11-17-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-wall-street-journal|[November 16, 2026] · [Wall Street Journal]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-the-information-2|[November 16, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-the-information|[November 16, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-business-insider-2|[November 16, 2026] · [Business Insider]]]
+- `2026-11-17` [[2026-11-17-vals-reports-gaps-in-safeguards-around-weapons-related-workf|Vals reports gaps in safeguards around weapons-related workflows]]
+- `2026-11-17` [[2026-11-17-texas-clears-spacex-s-1-456-gigawatt-supercomputer-power-pla|Texas clears SpaceX's 1.456-gigawatt supercomputer power plant as data-center permits resume]]
+- `2026-11-17` [[2026-11-17-replit-missions-packages-outcome-driven-software-execution|Replit Missions packages outcome-driven software execution]]
+- `2026-11-17` [[2026-11-17-openai-introduces-gpt-6-2-astra-and-sol-with-lower-stated-pr|OpenAI introduces GPT-6.2 Astra and Sol with lower stated pricing]]
+- `2026-11-17` [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o|Nvidia's board shuts the door on Huang's return as the SEC opens a disclosure probe]]
+- `2026-11-17` [[2026-11-17-nvidia-earnings-put-ai-infrastructure-demand-back-in-focus|Nvidia earnings put AI infrastructure demand back in focus]]
+- `2026-11-17` [[2026-11-17-nvidia-beats-and-lifts-next-year-s-growth-outlook-to-75-in-i|Nvidia beats and lifts next year's growth outlook to 75% in its first quarter without Huang]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-nvidia-reports-115-8-billion-quarter-and-higher-revenue-guid|NVIDIA reports $115.8 billion quarter and higher revenue guidance]]
 - `2026-11-17` [[2026-11-17-nvidia-creates-a-board-committee-for-national-security-and-e|NVIDIA creates a board committee for national security and export-control oversight]]
+- `2026-11-17` [[2026-11-17-microsoft-moves-office-into-copilot-and-starts-the-autopilot|Microsoft moves Office into Copilot and starts the Autopilot rollout]]
+- `2026-11-17` [[2026-11-17-microsoft-expands-mai-lineup-and-previews-licensed-weights|Microsoft expands MAI lineup and previews licensed weights]]
 - `2026-11-17` [[2026-11-17-isomorphic-labs-raises-5-billion-to-expand-ai-driven-drug-de|Isomorphic Labs raises $5 billion to expand AI-driven drug design]]
 - `2026-11-17` [[2026-11-17-isomorphic-labs-announces-a-5-billion-series-c-for-ai-driven|Isomorphic Labs announces a $5 billion Series C for AI-driven drug development]]
+- `2026-11-17` [[2026-11-17-google-s-open-source-torchtpu-takes-aim-at-nvidia-s-cuda-moa|Google's open-source TorchTPU takes aim at Nvidia's CUDA moat]]
+- `2026-11-17` [[2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat|Google's TorchTPU takes aim at Nvidia's CUDA moat]]
+- `2026-11-17` [[2026-11-17-google-makes-gemini-tasks-free-and-keeps-temporary-chats-for|Google makes Gemini Tasks free and keeps temporary chats for two months]]
+- `2026-11-17` [[2026-11-17-google-broadens-free-gemini-task-execution-across-major-mark|Google broadens free Gemini task execution across major markets]]
+- `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]
 - `2026-11-17` [[2026-11-17-gates-ventures-and-west-health-offer-15-million-to-researche|Gates Ventures and West Health offer $15 million to researchers building AI tools for Alzheimer's]]
 - `2026-11-17` [[2026-11-17-consumers-turn-to-chatgpt-claude-and-gemini-over-bank-chatbo|Consumers turn to ChatGPT, Claude and Gemini over bank chatbots for banking tasks]]
+- `2026-11-17` [[2026-11-17-anthropic-prepares-to-price-its-ipo-above-range-at-a-valuati|Anthropic prepares to price its IPO above range at a valuation near $1.5 trillion]]
 - `2026-11-17` [[2026-11-17-amd-and-google-chip-away-at-nvidia-as-huang-s-exit-shakes-cu|AMD and Google chip away at Nvidia as Huang's exit shakes customers]]
 - `2026-11-16` [[2026-11-16-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-pitchbook|[November 16, 2026] · [PitchBook]]]

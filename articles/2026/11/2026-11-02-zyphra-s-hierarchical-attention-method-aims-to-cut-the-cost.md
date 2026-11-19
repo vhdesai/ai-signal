@@ -6,7 +6,7 @@ date: '2026-11-02'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/
 url_canonical: https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-03_061250_Inbox_Daily AI News Digest - November
   3, 2026.md
 content_hash: 2648437722989598d0246acb4883b580c4df363da4878df25c8b623b22a877b4

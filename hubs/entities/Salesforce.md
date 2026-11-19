@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 105
+member_count: 108
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 105 connected article(s).
+> Auto-generated entity hub. 108 connected article(s).
 
+- `2026-11-18` [[2026-11-18-november-18-2026-the-information-2|[November 18, 2026] · [The Information]]]
+- `2026-11-18` [[2026-11-18-enterprises-put-a-leash-on-ai-spend-as-chief-ai-officers-str|Enterprises put a leash on AI spend as chief AI officers struggle for budget sway]]
+- `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-14` [[2026-11-14-capitalg-led-the-round-with-gic-dfj-growth-ivp-and-sapphire|CapitalG led the round, with GIC, DFJ Growth, IVP and Sapphire participating; the valuation is more than double the…]]
 - `2026-11-13` [[2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation-on-its|LangChain raises $300 million at a $3 billion valuation on its pitch that enterprises should own their agents]]
 - `2026-11-11` [[2026-11-11-november-12-2026-cio-dive-2|[November 12, 2026] · [CIO Dive]]]

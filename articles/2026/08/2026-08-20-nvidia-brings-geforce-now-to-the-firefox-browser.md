@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-03-new-nvidia-debuts-dlss-5-with-3d-guided-neural-rendering-on
 - 2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
+- 2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat
 - 2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation
-- 2026-08-26-amazon-triples-its-nvidia-gpu-order-adding-2-million-chips
 embedding_id: 2026-08-20-nvidia-brings-geforce-now-to-the-firefox-browser
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA extended GeForce NOW cloud gaming to Firefox on Windows, letting users st
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-03-new-nvidia-debuts-dlss-5-with-3d-guided-neural-rendering-on]] · [[2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-order-adding-2-million-chips]]
+**Related:** [[2026-09-03-new-nvidia-debuts-dlss-5-with-3d-guided-neural-rendering-on]] · [[2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat]] · [[2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation]]
 <!-- graph:end -->

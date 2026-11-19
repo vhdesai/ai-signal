@@ -5,8 +5,8 @@ title: Consumers turn to ChatGPT, Claude and Gemini over bank chatbots for banki
 date: '2026-11-17'
 source: '[CIO Dive]'
 url_original: https://www.ciodive.com/news/banks-running-out-time-benefit-ai-mckinsey/874818/
-url_canonical: https://www.afr.com/companies/financial-services/banks-on-notice-as-australians-consult-ai-to-help-choose-their-lender-20261115-p6183u
-url_status: repaired
+url_canonical: https://www.ciodive.com/news/banks-running-out-time-benefit-ai-mckinsey/874818/
+url_status: ok
 digest_source: digests\raw\2026-11-17_070307_Inbox_Daily AI News Digest - November
   17, 2026.md
 content_hash: 2893a08327e95f8bc8a417ea0dc51baca9a0a58a4bf9cc3a3193201d9147c636

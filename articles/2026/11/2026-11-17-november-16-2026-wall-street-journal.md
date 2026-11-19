@@ -4,8 +4,8 @@ title: '[November 16, 2026] · [Wall Street Journal]'
 date: '2026-11-17'
 source: '[WSJ Wealth Adviser]'
 url_original: null
-url_canonical: https://thewallstreetjournal.pressreader.com/the-wall-street-journal-1015/20261111
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-17_070307_Inbox_Daily AI News Digest - November
   17, 2026.md
 content_hash: 358bf06f64f0ea776c81808fd025105f9cd51fec84b16fbe2683ebb823a2969c
@@ -22,10 +22,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-18-november-18-2026-the-information
 - 2026-11-16-november-16-2026-pitchbook
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-- 2026-11-15-axios-estimates-the-cost-of-nvidia-s-near-30-share-decline-o
 embedding_id: 2026-11-17-november-16-2026-wall-street-journal
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Analysts expect Nvidia to report that quarterly revenue nearly doubled to about 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-16-november-16-2026-pitchbook]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-11-15-axios-estimates-the-cost-of-nvidia-s-near-30-share-decline-o]]
+**Related:** [[2026-11-18-november-18-2026-the-information]] · [[2026-11-16-november-16-2026-pitchbook]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
 <!-- graph:end -->

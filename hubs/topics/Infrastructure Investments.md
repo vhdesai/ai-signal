@@ -1,13 +1,24 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 2016
+member_count: 2027
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 2016 connected article(s).
+> Auto-generated topic hub. 2027 connected article(s).
 
+- `2026-11-18` [[2026-11-18-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
+- `2026-11-18` [[2026-11-18-texas-clears-spacex-s-1-456gw-supercomputer-power-plant-as-a|Texas clears SpaceX's 1.456GW supercomputer power plant as Abbott lifts a data-center permit freeze]]
+- `2026-11-18` [[2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i|ByteDance nears a $500 million Azure deal for OpenAI models, irking OpenAI]]
+- `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
+- `2026-11-17` [[2026-11-17-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
+- `2026-11-17` [[2026-11-17-ut-austin-opens-horizon-s-gpu-system-to-early-scientific-use|UT Austin opens Horizon’s GPU system to early scientific users]]
+- `2026-11-17` [[2026-11-17-texas-clears-spacex-s-1-456-gigawatt-supercomputer-power-pla|Texas clears SpaceX's 1.456-gigawatt supercomputer power plant as data-center permits resume]]
+- `2026-11-17` [[2026-11-17-nvidia-earnings-put-ai-infrastructure-demand-back-in-focus|Nvidia earnings put AI infrastructure demand back in focus]]
+- `2026-11-17` [[2026-11-17-nvidia-beats-and-lifts-next-year-s-growth-outlook-to-75-in-i|Nvidia beats and lifts next year's growth outlook to 75% in its first quarter without Huang]]
+- `2026-11-17` [[2026-11-17-new-reporting-widens-the-nvidia-megaspeed-export-control-web|New reporting widens the Nvidia–Megaspeed export-control web, from Alibaba introductions to bank loans]]
+- `2026-11-17` [[2026-11-17-nvidia-reports-115-8-billion-quarter-and-higher-revenue-guid|NVIDIA reports $115.8 billion quarter and higher revenue guidance]]
 - `2026-11-17` [[2026-11-17-amd-and-google-chip-away-at-nvidia-as-huang-s-exit-shakes-cu|AMD and Google chip away at Nvidia as Huang's exit shakes customers]]
 - `2026-11-16` [[2026-11-16-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]

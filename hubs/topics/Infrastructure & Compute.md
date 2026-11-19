@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2459
+member_count: 2463
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2459 connected article(s).
+> Auto-generated topic hub. 2463 connected article(s).
 
+- `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]
+- `2026-11-17` [[2026-11-17-ut-austin-opens-horizon-s-gpu-system-to-early-scientific-use|UT Austin opens Horizon’s GPU system to early scientific users]]
+- `2026-11-17` [[2026-11-17-replit-missions-packages-outcome-driven-software-execution|Replit Missions packages outcome-driven software execution]]
+- `2026-11-17` [[2026-11-17-nvidia-reports-115-8-billion-quarter-and-higher-revenue-guid|NVIDIA reports $115.8 billion quarter and higher revenue guidance]]
 - `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]
 - `2026-11-16` [[2026-11-16-reported-deepseek-consumer-limits-highlight-compute-availabi|Reported DeepSeek consumer limits highlight compute availability risk]]
 - `2026-11-16` [[2026-11-16-ibm-newsroom-november-16-2026-08-00-pst|IBM Newsroom · November 16, 2026 · 08:00 PST]]

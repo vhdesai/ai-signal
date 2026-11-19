@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3
+- 2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
 - 2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-- 2026-09-06-bytedance-lands-29-6b-loan-to-fuel-ai-advances
 embedding_id: 2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for
 event_name: ''
 ---
@@ -40,5 +40,5 @@ ByteDance is discussing 2026 AI capital expenditure of as much as $70B (400-500B
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-09-06-bytedance-lands-29-6b-loan-to-fuel-ai-advances]]
+**Related:** [[2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3]] · [[2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-17-google-s-open-source-torchtpu-takes-aim-at-nvidia-s-cuda-moa
 - 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
+- 2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat
 - 2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan
-- 2026-09-17-microsoft-open-sources-taugrid-a-kubernetes-native-stack-for
-- 2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m
 embedding_id: 2026-08-28-vercel-open-sources-vgpu-for-webgpu-shaders
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Vercel open-sourced vgpu, a TypeScript WebGPU library that treats WGSL shader fi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan]] · [[2026-09-17-microsoft-open-sources-taugrid-a-kubernetes-native-stack-for]] · [[2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m]]
+**Related:** [[2026-11-17-google-s-open-source-torchtpu-takes-aim-at-nvidia-s-cuda-moa]] · [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat]] · [[2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan]]
 <!-- graph:end -->

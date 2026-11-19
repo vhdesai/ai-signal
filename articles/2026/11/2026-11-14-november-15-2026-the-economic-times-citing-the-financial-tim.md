@@ -5,7 +5,7 @@ date: '2026-11-14'
 source: '[The Information]'
 url_original: https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html
 url_canonical: https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-15_065726_Final-Daily-AI-News-Digest.md
 content_hash: ca86461ba2efcdc3fe13d42c76f50fd13a340c35b8762e53aa870721deee1b72
 normalized_title_hash: cc5649b51c14c4ca

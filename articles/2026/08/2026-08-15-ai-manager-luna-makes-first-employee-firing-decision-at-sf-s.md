@@ -20,11 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-18-enterprises-put-a-leash-on-ai-spend-as-chief-ai-officers-str
 - 2026-11-07-november-8-2026-business-insider
 - 2026-11-09-enterprises-chase-agentic-ai-value-as-workslop-sparks-a-back
 - 2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril
-- 2026-11-17-november-16-2026-business-insider-2
-- 2026-11-07-november-9-2026-business-insider
 embedding_id: 2026-08-15-ai-manager-luna-makes-first-employee-firing-decision-at-sf-s
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Luna, the Claude-powered AI agent managing San Francisco's Andon Market, recomme
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-07-november-8-2026-business-insider]] · [[2026-11-09-enterprises-chase-agentic-ai-value-as-workslop-sparks-a-back]] · [[2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril]] · [[2026-11-17-november-16-2026-business-insider-2]] · [[2026-11-07-november-9-2026-business-insider]]
+**Related:** [[2026-11-18-enterprises-put-a-leash-on-ai-spend-as-chief-ai-officers-str]] · [[2026-11-07-november-8-2026-business-insider]] · [[2026-11-09-enterprises-chase-agentic-ai-value-as-workslop-sparks-a-back]] · [[2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril]]
 <!-- graph:end -->

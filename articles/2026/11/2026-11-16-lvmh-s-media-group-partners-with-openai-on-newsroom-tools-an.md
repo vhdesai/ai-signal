@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-16-openai-signs-lvmh-s-media-group-bringing-les-echos-and-le-pa
 - 2026-11-16-openai-s-lvmh-media-agreement-joins-enterprise-adoption-with
+- 2026-11-18-openai-and-le-figaro-combine-content-discovery-with-enterpri
 - 2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in
-- 2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi
 embedding_id: 2026-11-16-lvmh-s-media-group-partners-with-openai-on-newsroom-tools-an
 event_name: ''
 ---
@@ -38,5 +38,5 @@ LVMH’s media group announced a strategic partnership to deploy OpenAI tools, i
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-16-openai-signs-lvmh-s-media-group-bringing-les-echos-and-le-pa]] · [[2026-11-16-openai-s-lvmh-media-agreement-joins-enterprise-adoption-with]] · [[2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in]] · [[2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi]]
+**Related:** [[2026-11-16-openai-signs-lvmh-s-media-group-bringing-les-echos-and-le-pa]] · [[2026-11-16-openai-s-lvmh-media-agreement-joins-enterprise-adoption-with]] · [[2026-11-18-openai-and-le-figaro-combine-content-discovery-with-enterpri]] · [[2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in]]
 <!-- graph:end -->

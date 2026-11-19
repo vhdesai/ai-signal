@@ -4,8 +4,8 @@ title: '[November 17, 2026] · [Business Insider]'
 date: '2026-11-17'
 source: '[The Information]'
 url_original: null
-url_canonical: https://www.businessinsider.com/sitemap/html/2026-11.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-17_070307_Inbox_Daily AI News Digest - November
   17, 2026.md
 content_hash: 2839478eb566af48ef4ff0252a198ce4ae2d7b2d87f29b9c5cfc87c4925a0de7

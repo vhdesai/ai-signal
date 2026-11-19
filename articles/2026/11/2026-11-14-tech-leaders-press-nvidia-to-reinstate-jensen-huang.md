@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-15-a-petition-asking-nvidia-s-board-to-bring-back-jensen-huang
+- 2026-11-18-november-17-2026-business-insider
 - 2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke
+- 2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o
 - 2026-11-11-hot-nvidia-faces-reported-ceo-succession-uncertainty
-- 2026-11-14-major-nvidia-shareholders-urge-the-board-not-to-rush-huang-s
 embedding_id: 2026-11-14-tech-leaders-press-nvidia-to-reinstate-jensen-huang
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Source: TechCrunch · By Anthony Ha A public petition is calling on Nvidia to re
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-15-a-petition-asking-nvidia-s-board-to-bring-back-jensen-huang]] · [[2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke]] · [[2026-11-11-hot-nvidia-faces-reported-ceo-succession-uncertainty]] · [[2026-11-14-major-nvidia-shareholders-urge-the-board-not-to-rush-huang-s]]
+**Related:** [[2026-11-15-a-petition-asking-nvidia-s-board-to-bring-back-jensen-huang]] · [[2026-11-18-november-17-2026-business-insider]] · [[2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]] · [[2026-11-11-hot-nvidia-faces-reported-ceo-succession-uncertainty]]
 <!-- graph:end -->

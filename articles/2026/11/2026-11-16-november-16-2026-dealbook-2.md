@@ -5,7 +5,7 @@ date: '2026-11-16'
 source: '[PitchBook]'
 url_original: https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html
 url_canonical: https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-16_065758_Final-Daily-AI-News-Digest.md
 content_hash: 3e72a7eecaa82c679adb0f6c847c2a227dbc29929d2c9e4d4c737b742f5e2fa2
 normalized_title_hash: e6569e3630b244ce

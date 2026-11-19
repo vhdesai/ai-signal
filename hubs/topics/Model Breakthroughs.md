@@ -1,15 +1,33 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3876
+member_count: 3894
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3876 connected article(s).
+> Auto-generated topic hub. 3894 connected article(s).
 
+- `2026-11-18` [[2026-11-18-november-17-2026-microsoft-ai|[November 17, 2026] · [Microsoft AI]]]
+- `2026-11-18` [[2026-11-18-sensetime-reports-accelerating-revenue-and-generative-ai-act|SenseTime reports accelerating revenue and generative-AI activity]]
+- `2026-11-18` [[2026-11-18-openai-board-member-paul-christiano-puts-the-risk-of-ai-take|OpenAI board member Paul Christiano puts the risk of AI takeover near 10% within a year]]
+- `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]
+- `2026-11-18` [[2026-11-18-microsoft-adds-mai-code-2-and-code-2-flash-to-the-coding-mod|Microsoft adds MAI Code 2 and Code 2 Flash to the coding-model mix]]
+- `2026-11-18` [[2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai|MIT and Cornell test adaptive defenses against disguised AI writing]]
+- `2026-11-17` [[2026-11-17-november-17-2026-openai|[November 17, 2026] · [OpenAI]]]
+- `2026-11-17` [[2026-11-17-vals-reports-gaps-in-safeguards-around-weapons-related-workf|Vals reports gaps in safeguards around weapons-related workflows]]
+- `2026-11-17` [[2026-11-17-ut-austin-opens-horizon-s-gpu-system-to-early-scientific-use|UT Austin opens Horizon’s GPU system to early scientific users]]
 - `2026-11-17` [[2026-11-17-q-a-why-building-math-muscles-remains-important-in-the-ai-er|Q&A: Why building math muscles remains important in the AI era]]
+- `2026-11-17` [[2026-11-17-openai-upgrades-its-frontier-and-everyday-models-with-gpt-6|OpenAI upgrades its frontier and everyday models with GPT-6.2 Astra and Sol]]
+- `2026-11-17` [[2026-11-17-openai-ships-gpt-6-2-astra-and-sol-cutting-astra-s-api-price|OpenAI ships GPT-6.2 Astra and Sol, cutting Astra's API prices by 20%]]
+- `2026-11-17` [[2026-11-17-openai-introduces-gpt-6-2-astra-and-sol-with-lower-stated-pr|OpenAI introduces GPT-6.2 Astra and Sol with lower stated pricing]]
+- `2026-11-17` [[2026-11-17-new-reporting-widens-the-nvidia-megaspeed-export-control-web|New reporting widens the Nvidia–Megaspeed export-control web, from Alibaba introductions to bank loans]]
+- `2026-11-17` [[2026-11-17-nvidia-reports-115-8-billion-quarter-and-higher-revenue-guid|NVIDIA reports $115.8 billion quarter and higher revenue guidance]]
+- `2026-11-17` [[2026-11-17-microsoft-launches-mai-code-2-and-offers-licensed-model-weig|Microsoft launches MAI Code 2 and offers licensed model weights at Ignite]]
+- `2026-11-17` [[2026-11-17-microsoft-expands-mai-lineup-and-previews-licensed-weights|Microsoft expands MAI lineup and previews licensed weights]]
 - `2026-11-17` [[2026-11-17-mit-profiles-jacob-andreas-s-work-on-explaining-what-models|MIT profiles Jacob Andreas’s work on explaining what models learn]]
+- `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]
+- `2026-11-17` [[2026-11-17-brockman-steers-openai-toward-cybersecurity-as-it-partners-w|Brockman steers OpenAI toward cybersecurity as it partners with NATO on cyber defense]]
 - `2026-11-16` [[2026-11-16-november-16-2026-theprint-citing-bloomberg|[November 16, 2026] · [ThePrint, citing Bloomberg]]]
 - `2026-11-16` [[2026-11-16-tencent-positions-hy4-flash-for-low-cost-long-context-deploy|Tencent positions Hy4 flash for low-cost, long-context deployment]]
 - `2026-11-16` [[2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m|Tencent launches Hy4 flash as a lower-cost multimodal work model]]

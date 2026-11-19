@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
+- 2026-11-17-microsoft-moves-office-into-copilot-and-starts-the-autopilot
 - 2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut
 - 2026-09-25-microsoft-rebuilds-copilot-around-a-new-autopilot-agent-swit
-- 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
 embedding_id: 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-a-persistent
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft announced a Copilot redesign structured around three destinations: Hom
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]] · [[2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut]] · [[2026-09-25-microsoft-rebuilds-copilot-around-a-new-autopilot-agent-swit]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]]
+**Related:** [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]] · [[2026-11-17-microsoft-moves-office-into-copilot-and-starts-the-autopilot]] · [[2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut]] · [[2026-09-25-microsoft-rebuilds-copilot-around-a-new-autopilot-agent-swit]]
 <!-- graph:end -->

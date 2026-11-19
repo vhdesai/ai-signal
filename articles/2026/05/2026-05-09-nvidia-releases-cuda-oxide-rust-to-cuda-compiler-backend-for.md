@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-17-bytedance-seed-and-tsinghua-introduce-cuda-agent-for-gpu-ker
 - 2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu
 - 2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation
+- 2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat
 - 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
-- 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
 embedding_id: 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NVIDIA released cuda-oxide, an experimental compiler backend that lets AI infras
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-17-bytedance-seed-and-tsinghua-introduce-cuda-agent-for-gpu-ker]] · [[2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu]] · [[2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation]] · [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]]
+**Related:** [[2026-08-17-bytedance-seed-and-tsinghua-introduce-cuda-agent-for-gpu-ker]] · [[2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu]] · [[2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation]] · [[2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat]] · [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]]
 <!-- graph:end -->

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 106
+member_count: 108
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 106 connected article(s).
+> Auto-generated entity hub. 108 connected article(s).
 
+- `2026-11-18` [[2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i|ByteDance nears a $500 million Azure deal for OpenAI models, irking OpenAI]]
+- `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]
 - `2026-10-20` [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo|EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders]]
 - `2026-10-12` [[2026-10-12-deepseek-s-memory-saving-technique-may-hurt-model-accuracy-r|DeepSeek's memory-saving technique may hurt model accuracy, researchers find]]

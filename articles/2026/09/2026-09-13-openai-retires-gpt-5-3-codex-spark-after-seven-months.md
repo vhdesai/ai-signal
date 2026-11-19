@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-08-26-openai-retires-the-o3-reasoning-model-from-chatgpt
 - 2026-06-20-multiple-developers-reported-markedly-different-performance
+- 2026-11-17-november-17-2026-openai
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
-- 2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g
 embedding_id: 2026-09-13-openai-retires-gpt-5-3-codex-spark-after-seven-months
 event_name: ''
 ---
@@ -39,5 +39,5 @@ KuCoin, 36Kr, and finance.biggo.com report OpenAI is shutting down GPT-5.3-Codex
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-08-26-openai-retires-the-o3-reasoning-model-from-chatgpt]] · [[2026-06-20-multiple-developers-reported-markedly-different-performance]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g]]
+**Related:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-08-26-openai-retires-the-o3-reasoning-model-from-chatgpt]] · [[2026-06-20-multiple-developers-reported-markedly-different-performance]] · [[2026-11-17-november-17-2026-openai]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]]
 <!-- graph:end -->

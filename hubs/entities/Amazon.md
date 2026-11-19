@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 820
+member_count: 823
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 820 connected article(s).
+> Auto-generated entity hub. 823 connected article(s).
 
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
+- `2026-11-17` [[2026-11-17-google-s-open-source-torchtpu-takes-aim-at-nvidia-s-cuda-moa|Google's open-source TorchTPU takes aim at Nvidia's CUDA moat]]
+- `2026-11-17` [[2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat|Google's TorchTPU takes aim at Nvidia's CUDA moat]]
 - `2026-11-16` [[2026-11-16-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]
 - `2026-11-16` [[2026-11-16-zoox-robotaxis-go-live-on-the-uber-app-in-las-vegas|Zoox robotaxis go live on the Uber app in Las Vegas]]

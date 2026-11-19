@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-28-google-is-retiring-gemini-s-gems-in-favour-of-skills
+- 2026-11-17-google-broadens-free-gemini-task-execution-across-major-mark
 - 2026-10-09-gemini-shifts-free-users-to-automatic-model-selection
 - 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
-- 2026-10-05-gemini-access-narrows-for-free-and-lower-tier-subscribers
-- 2026-06-29-google-makes-personalized-gemini-image-generation-free-for-u
+- 2026-11-17-google-makes-gemini-tasks-free-and-keeps-temporary-chats-for
 embedding_id: 2026-09-29-google-opens-gemini-skills-to-all-free-account-users
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Following confusion over the Gems sunset, Google dropped the AI Pro/Ultra paywal
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-28-google-is-retiring-gemini-s-gems-in-favour-of-skills]] · [[2026-10-09-gemini-shifts-free-users-to-automatic-model-selection]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]] · [[2026-10-05-gemini-access-narrows-for-free-and-lower-tier-subscribers]] · [[2026-06-29-google-makes-personalized-gemini-image-generation-free-for-u]]
+**Related:** [[2026-09-28-google-is-retiring-gemini-s-gems-in-favour-of-skills]] · [[2026-11-17-google-broadens-free-gemini-task-execution-across-major-mark]] · [[2026-10-09-gemini-shifts-free-users-to-automatic-model-selection]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]] · [[2026-11-17-google-makes-gemini-tasks-free-and-keeps-temporary-chats-for]]
 <!-- graph:end -->

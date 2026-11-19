@@ -1,17 +1,22 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1461
+member_count: 1466
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1461 connected article(s).
+> Auto-generated topic hub. 1466 connected article(s).
 
+- `2026-11-18` [[2026-11-18-november-18-2026-pitchbook|[November 18, 2026] · [PitchBook]]]
+- `2026-11-18` [[2026-11-18-november-17-2026-business-insider-2|[November 17, 2026] · [Business Insider]]]
+- `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]
+- `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-wall-street-journal|[November 16, 2026] · [Wall Street Journal]]]
 - `2026-11-17` [[2026-11-17-isomorphic-labs-raises-5-billion-to-expand-ai-driven-drug-de|Isomorphic Labs raises $5 billion to expand AI-driven drug design]]
 - `2026-11-17` [[2026-11-17-isomorphic-labs-announces-a-5-billion-series-c-for-ai-driven|Isomorphic Labs announces a $5 billion Series C for AI-driven drug development]]
+- `2026-11-17` [[2026-11-17-anthropic-prepares-to-price-its-ipo-above-range-at-a-valuati|Anthropic prepares to price its IPO above range at a valuation near $1.5 trillion]]
 - `2026-11-16` [[2026-11-16-november-16-2026-business-insider|[November 16, 2026] · [Business Insider]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]
 - `2026-11-16` [[2026-11-16-nvidia-s-open-checkbook-era-is-ending-as-its-slump-rattles-a|Nvidia's open-checkbook era is ending as its slump rattles Asia's chipmakers and lifts equal-weight funds]]

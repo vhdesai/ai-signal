@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 201
+member_count: 202
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 201 connected article(s).
+> Auto-generated entity hub. 202 connected article(s).
 
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-16` [[2026-11-16-databricks-launches-a-weekly-index-of-enterprise-ai-usage-an|Databricks launches a weekly index of enterprise AI usage and token economics]]

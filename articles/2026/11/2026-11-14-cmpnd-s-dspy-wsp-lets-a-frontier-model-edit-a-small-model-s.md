@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-11-14-cmpnd-ships-dspy-wsp-bringing-llm-driven-weight-space-progra
 - 2026-11-15-cmpnd-s-mit-licensed-weightspace-optimizer-lets-a-frontier-l
 - 2026-11-02-mit-csail-uses-gpt-6-astra-to-rewrite-qwen-s-weights-directl
-- 2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model
+- 2026-11-17-openai-upgrades-its-frontier-and-everyday-models-with-gpt-6
 embedding_id: 2026-11-14-cmpnd-s-dspy-wsp-lets-a-frontier-model-edit-a-small-model-s
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cmpnd released dspy-wsp, an MIT-licensed DSPy optimizer in which a frontier LLM 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-14-cmpnd-ships-dspy-wsp-bringing-llm-driven-weight-space-progra]] · [[2026-11-15-cmpnd-s-mit-licensed-weightspace-optimizer-lets-a-frontier-l]] · [[2026-11-02-mit-csail-uses-gpt-6-astra-to-rewrite-qwen-s-weights-directl]] · [[2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model]]
+**Related:** [[2026-11-14-cmpnd-ships-dspy-wsp-bringing-llm-driven-weight-space-progra]] · [[2026-11-15-cmpnd-s-mit-licensed-weightspace-optimizer-lets-a-frontier-l]] · [[2026-11-02-mit-csail-uses-gpt-6-astra-to-rewrite-qwen-s-weights-directl]] · [[2026-11-17-openai-upgrades-its-frontier-and-everyday-models-with-gpt-6]]
 <!-- graph:end -->

@@ -37,9 +37,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
 - 2026-10-09-subject-daily-ai-news-digest-october-9-2026
+- 2026-11-17-november-18-2026-the-information
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-08-08-daily-ai-news-digest-august-8-2026
-- 2026-06-29-daily-ai-news-digest-june-29-2026
 embedding_id: 2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving
 event_name: ''
 ---
@@ -53,5 +53,5 @@ Futurism reports a research team embedded a frontier LLM directly onto a self-dr
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]]
+**Related:** [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-11-17-november-18-2026-the-information]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
 <!-- graph:end -->

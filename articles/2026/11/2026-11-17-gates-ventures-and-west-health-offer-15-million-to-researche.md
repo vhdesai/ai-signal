@@ -5,8 +5,8 @@ title: Gates Ventures and West Health offer $15 million to researchers building 
 date: '2026-11-17'
 source: '[The Information]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Gates+Alzheimer%27s+AI
-url_canonical: https://vff.ai/article/2026/11/17/bill-gates-backs-push-to-advance-alzheimer-s-research-with-ai
-url_status: repaired
+url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Gates+Alzheimer%27s+AI
+url_status: broken
 digest_source: digests\raw\2026-11-17_070307_Inbox_Daily AI News Digest - November
   17, 2026.md
 content_hash: 3b4b514a6707ae04da7d5631c9c2a18b388664ae3d7c1e3085e4908b35d4268b

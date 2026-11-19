@@ -1,19 +1,36 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1949
+member_count: 1966
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1949 connected article(s).
+> Auto-generated entity hub. 1966 connected article(s).
 
+- `2026-11-18` [[2026-11-18-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
+- `2026-11-18` [[2026-11-18-november-17-2026-business-insider-2|[November 17, 2026] · [Business Insider]]]
+- `2026-11-18` [[2026-11-18-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
+- `2026-11-18` [[2026-11-18-nvidia-turns-disciplined-and-selective-on-the-investments-th|Nvidia turns 'disciplined and selective' on the investments that fueled the AI startup boom]]
+- `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
+- `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
+- `2026-11-17` [[2026-11-17-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-wall-street-journal|[November 16, 2026] · [Wall Street Journal]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-the-information|[November 16, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-business-insider-3|[November 16, 2026] · [Business Insider]]]
+- `2026-11-17` [[2026-11-17-ut-austin-opens-horizon-s-gpu-system-to-early-scientific-use|UT Austin opens Horizon’s GPU system to early scientific users]]
+- `2026-11-17` [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o|Nvidia's board shuts the door on Huang's return as the SEC opens a disclosure probe]]
+- `2026-11-17` [[2026-11-17-nvidia-earnings-put-ai-infrastructure-demand-back-in-focus|Nvidia earnings put AI infrastructure demand back in focus]]
+- `2026-11-17` [[2026-11-17-nvidia-beats-and-lifts-next-year-s-growth-outlook-to-75-in-i|Nvidia beats and lifts next year's growth outlook to 75% in its first quarter without Huang]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-new-reporting-widens-the-nvidia-megaspeed-export-control-web|New reporting widens the Nvidia–Megaspeed export-control web, from Alibaba introductions to bank loans]]
+- `2026-11-17` [[2026-11-17-nvidia-reports-115-8-billion-quarter-and-higher-revenue-guid|NVIDIA reports $115.8 billion quarter and higher revenue guidance]]
 - `2026-11-17` [[2026-11-17-nvidia-creates-a-board-committee-for-national-security-and-e|NVIDIA creates a board committee for national security and export-control oversight]]
+- `2026-11-17` [[2026-11-17-google-s-open-source-torchtpu-takes-aim-at-nvidia-s-cuda-moa|Google's open-source TorchTPU takes aim at Nvidia's CUDA moat]]
+- `2026-11-17` [[2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat|Google's TorchTPU takes aim at Nvidia's CUDA moat]]
+- `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]
 - `2026-11-17` [[2026-11-17-amd-and-google-chip-away-at-nvidia-as-huang-s-exit-shakes-cu|AMD and Google chip away at Nvidia as Huang's exit shakes customers]]
 - `2026-11-16` [[2026-11-16-november-16-2026-pitchbook|[November 16, 2026] · [PitchBook]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]

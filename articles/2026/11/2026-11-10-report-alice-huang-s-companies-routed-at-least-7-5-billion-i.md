@@ -32,8 +32,8 @@ related_article_ids:
 - 2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls
 - 2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia
 - 2026-11-14-november-15-2026-cnbc
+- 2026-11-17-new-reporting-widens-the-nvidia-megaspeed-export-control-web
 - 2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats
-- 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
 embedding_id: 2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i
 event_name: ''
 ---
@@ -47,5 +47,5 @@ According to two people who know her, Alice Huang, her sister, and her husband b
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-11-14-november-15-2026-cnbc]] · [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]]
+**Related:** [[2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-11-14-november-15-2026-cnbc]] · [[2026-11-17-new-reporting-widens-the-nvidia-megaspeed-export-control-web]] · [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats]]
 <!-- graph:end -->

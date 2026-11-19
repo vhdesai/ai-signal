@@ -5,7 +5,7 @@ date: '2026-11-07'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/
 url_canonical: https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-07_061155_Inbox_Daily AI News Digest - November
   7, 2026.md
 content_hash: 04e2084791ead84139fa0506b5001c5a7d53a448e32e8ed68fb100dc02c98a44

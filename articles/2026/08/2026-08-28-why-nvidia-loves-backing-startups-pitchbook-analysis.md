@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
 - 2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups
+- 2026-11-18-nvidia-turns-disciplined-and-selective-on-the-investments-th
 embedding_id: 2026-08-28-why-nvidia-loves-backing-startups-pitchbook-analysis
 event_name: ''
 ---
@@ -37,5 +38,5 @@ PitchBook examines Nvidia’s startup investment strategy: every equity stake in
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups]]
+**Related:** [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups]] · [[2026-11-18-nvidia-turns-disciplined-and-selective-on-the-investments-th]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-11-14'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/
 url_canonical: https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-15_061439_Inbox_Daily AI News Digest - November
   15, 2026.md
 content_hash: 719d73601e88e4f36017b55e38426a0c242299ee222a8d95d87466633fc9d3fc

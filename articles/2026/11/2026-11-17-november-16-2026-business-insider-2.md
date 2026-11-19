@@ -4,8 +4,8 @@ title: '[November 16, 2026] · [Business Insider]'
 date: '2026-11-17'
 source: '[CIO Dive]'
 url_original: null
-url_canonical: https://www.businessinsider.com/sitemap/html/2026-11.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-17_070307_Inbox_Daily AI News Digest - November
   17, 2026.md
 content_hash: 218ad1063a2ed76349e4bd1881f48d3618273112d7e974e474d651530726677d
@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-10-20-october-19-2026-cio-dive
 - 2026-10-29-october-28-2026-techcrunch
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
-- 2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t
 embedding_id: 2026-11-17-november-16-2026-business-insider-2
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Fed Chair Kevin Warsh said the central bank's jobs task force is modeling scenar
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-17-november-16-2026-business-insider-3]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-10-20-october-19-2026-cio-dive]] · [[2026-10-29-october-28-2026-techcrunch]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t]]
+**Related:** [[2026-11-17-november-16-2026-business-insider-3]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-10-20-october-19-2026-cio-dive]] · [[2026-10-29-october-28-2026-techcrunch]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
 <!-- graph:end -->

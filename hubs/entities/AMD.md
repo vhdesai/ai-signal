@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 157
+member_count: 160
 ---
 
 # AMD
 
-> Auto-generated entity hub. 157 connected article(s).
+> Auto-generated entity hub. 160 connected article(s).
 
+- `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]
+- `2026-11-17` [[2026-11-17-google-s-open-source-torchtpu-takes-aim-at-nvidia-s-cuda-moa|Google's open-source TorchTPU takes aim at Nvidia's CUDA moat]]
+- `2026-11-17` [[2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat|Google's TorchTPU takes aim at Nvidia's CUDA moat]]
 - `2026-11-17` [[2026-11-17-amd-and-google-chip-away-at-nvidia-as-huang-s-exit-shakes-cu|AMD and Google chip away at Nvidia as Huang's exit shakes customers]]
 - `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]
 - `2026-11-15` [[2026-11-15-south-korea-s-top-tax-exam-scorer-admits-cheating-with-ai-da|South Korea's top tax-exam scorer admits cheating with AI days before the national college entrance exam]]

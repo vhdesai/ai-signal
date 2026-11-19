@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-11-09-nvidia-lets-korean-chips-plug-into-its-rack-systems-and-plan
 - 2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in
 - 2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio
-- 2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce
 embedding_id: 2026-11-09-nvidia-outlines-further-korean-startup-investments
 event_name: ''
 ---
@@ -37,5 +36,5 @@ At a forum with South Korea's science ministry, Nvidia outlined planned equity i
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-09-nvidia-lets-korean-chips-plug-into-its-rack-systems-and-plan]] · [[2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in]] · [[2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio]] · [[2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce]]
+**Related:** [[2026-11-09-nvidia-lets-korean-chips-plug-into-its-rack-systems-and-plan]] · [[2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in]] · [[2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio]]
 <!-- graph:end -->

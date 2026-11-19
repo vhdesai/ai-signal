@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-08-29-nvidia-developer-updates-point-to-local-tensorrt-llm-deploym
-- 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
+- 2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat
 embedding_id: 2026-05-25-nvidia-flare-tutorial-spotlights-resurgent-fedavg-vs-fedprox
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MarkTechPost published a hands-on guide comparing FedAvg and FedProx federated-l
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-sparks-fly-nvidia-accelerates-local-ai-at-ifa-2026]] · [[2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-08-29-nvidia-developer-updates-point-to-local-tensorrt-llm-deploym]] · [[2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n]]
+**Related:** [[2026-09-03-sparks-fly-nvidia-accelerates-local-ai-at-ifa-2026]] · [[2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-08-29-nvidia-developer-updates-point-to-local-tensorrt-llm-deploym]] · [[2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat]]
 <!-- graph:end -->

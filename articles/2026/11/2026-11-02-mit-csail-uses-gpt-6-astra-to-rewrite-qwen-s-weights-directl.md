@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-11-15-cmpnd-s-mit-licensed-weightspace-optimizer-lets-a-frontier-l
 - 2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2
 - 2026-11-14-cmpnd-ships-dspy-wsp-bringing-llm-driven-weight-space-progra
+- 2026-11-17-openai-upgrades-its-frontier-and-everyday-models-with-gpt-6
 - 2026-11-14-cmpnd-s-dspy-wsp-lets-a-frontier-model-edit-a-small-model-s
-- 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
 embedding_id: 2026-11-02-mit-csail-uses-gpt-6-astra-to-rewrite-qwen-s-weights-directl
 event_name: ''
 ---
@@ -40,5 +40,5 @@ MIT CSAIL researchers had GPT-6 Astra read and edit the raw weights of Qwen3.5-0
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-15-cmpnd-s-mit-licensed-weightspace-optimizer-lets-a-frontier-l]] · [[2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2]] · [[2026-11-14-cmpnd-ships-dspy-wsp-bringing-llm-driven-weight-space-progra]] · [[2026-11-14-cmpnd-s-dspy-wsp-lets-a-frontier-model-edit-a-small-model-s]] · [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]]
+**Related:** [[2026-11-15-cmpnd-s-mit-licensed-weightspace-optimizer-lets-a-frontier-l]] · [[2026-11-08-co-design-bench-the-best-coding-agent-fully-completes-only-2]] · [[2026-11-14-cmpnd-ships-dspy-wsp-bringing-llm-driven-weight-space-progra]] · [[2026-11-17-openai-upgrades-its-frontier-and-everyday-models-with-gpt-6]] · [[2026-11-14-cmpnd-s-dspy-wsp-lets-a-frontier-model-edit-a-small-model-s]]
 <!-- graph:end -->

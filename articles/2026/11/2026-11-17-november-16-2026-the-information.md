@@ -4,8 +4,8 @@ title: '[November 16, 2026] · [The Information]'
 date: '2026-11-17'
 source: '[DealBook]'
 url_original: null
-url_canonical: https://www.almanac.com/content/november-holidays-fun-facts-folklore
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-17_070307_Inbox_Daily AI News Digest - November
   17, 2026.md
 content_hash: c132a63c5f6c2f7b482f0589ebaa9357990c03b7750d8e6329226f52a2c84ea9
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-17-november-16-2026-the-information-2
+- 2026-11-18-november-17-2026-business-insider
 - 2026-11-09-november-9-2026-dealbook
+- 2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o
 - 2026-11-15-november-14-2026-the-information
-- 2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke
-- 2026-11-17-november-16-2026-wall-street-journal
 embedding_id: 2026-11-17-november-16-2026-the-information
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A person familiar with the board's thinking told Business Insider it is not cons
 
 **Entities:** [[Arm]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-17-november-16-2026-the-information-2]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-15-november-14-2026-the-information]] · [[2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke]] · [[2026-11-17-november-16-2026-wall-street-journal]]
+**Related:** [[2026-11-17-november-16-2026-the-information-2]] · [[2026-11-18-november-17-2026-business-insider]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]] · [[2026-11-15-november-14-2026-the-information]]
 <!-- graph:end -->

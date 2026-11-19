@@ -28,7 +28,6 @@ related_article_ids:
 - 2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times
 - 2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u
 - 2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan
-- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 embedding_id: 2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is
 event_name: ''
 ---
@@ -42,5 +41,5 @@ Nvidia committed about $140 billion in investments and credit guarantees in just
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times]] · [[2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u]] · [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
+**Related:** [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times]] · [[2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u]] · [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan]]
 <!-- graph:end -->

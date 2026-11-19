@@ -6,7 +6,7 @@ date: '2026-11-13'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/
 url_canonical: https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-13_061529_Inbox_Daily AI News Digest - November
   13, 2026.md
 content_hash: d792d9b514f09fb276443bf7736710f36e68cfe5cfcb6a6af785d6349b4c298b

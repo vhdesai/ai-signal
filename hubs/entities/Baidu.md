@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 165
+member_count: 166
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 165 connected article(s).
+> Auto-generated entity hub. 166 connected article(s).
 
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-14` [[2026-11-14-scotland-s-ai-build-out-faces-organized-public-opposition|Scotland’s AI build-out faces organized public opposition]]
 - `2026-11-14` [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern|Analysis: Nvidia controversy raises executive-security governance questions]]

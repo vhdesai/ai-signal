@@ -30,7 +30,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-05-hikers-rescued-after-following-flawed-google-gemini-trip-pla
-- 2026-07-22-efficient-new-models-and-mega-deals-collide-with-mounting-sa
+- 2026-11-18-november-17-2026-techcrunch
 embedding_id: 2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini
 event_name: ''
 ---
@@ -44,5 +44,5 @@ A sheriff's office reported rescuing a group of hikers who became lost and injur
 
 **Entities:** [[Cerebras]] · [[Databricks]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-05-hikers-rescued-after-following-flawed-google-gemini-trip-pla]] · [[2026-07-22-efficient-new-models-and-mega-deals-collide-with-mounting-sa]]
+**Related:** [[2026-09-05-hikers-rescued-after-following-flawed-google-gemini-trip-pla]] · [[2026-11-18-november-17-2026-techcrunch]]
 <!-- graph:end -->

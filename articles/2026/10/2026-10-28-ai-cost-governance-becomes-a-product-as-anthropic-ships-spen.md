@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-10-29-october-28-2026-techcrunch
 - 2026-08-20-at-t-has-a-plan-to-curb-its-anthropic-bills
 - 2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com
+- 2026-11-18-enterprises-put-a-leash-on-ai-spend-as-chief-ai-officers-str
 - 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
-- 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
 embedding_id: 2026-10-28-ai-cost-governance-becomes-a-product-as-anthropic-ships-spen
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic launched Claude Enterprise reports, employee surveys and pooled budget
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-29-october-28-2026-techcrunch]] · [[2026-08-20-at-t-has-a-plan-to-curb-its-anthropic-bills]] · [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]]
+**Related:** [[2026-10-29-october-28-2026-techcrunch]] · [[2026-08-20-at-t-has-a-plan-to-curb-its-anthropic-bills]] · [[2026-10-27-anthropic-s-ipo-filing-exposes-frontier-ai-economics-and-com]] · [[2026-11-18-enterprises-put-a-leash-on-ai-spend-as-chief-ai-officers-str]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a
 - 2026-11-16-anthropic-ipo-preview-sets-proposed-range-ahead-of-expected
+- 2026-11-17-anthropic-prepares-to-price-its-ipo-above-range-at-a-valuati
 - 2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back
-- 2026-11-06-november-6-2026-dealbook
 embedding_id: 2026-11-13-anthropic-ipo-demand-meets-questions-about-durability
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Reuters Reuters reports that Anthropic’s IPO order book was six times oversubs
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Company Investments]]
-**Related:** [[2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a]] · [[2026-11-16-anthropic-ipo-preview-sets-proposed-range-ahead-of-expected]] · [[2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back]] · [[2026-11-06-november-6-2026-dealbook]]
+**Related:** [[2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a]] · [[2026-11-16-anthropic-ipo-preview-sets-proposed-range-ahead-of-expected]] · [[2026-11-17-anthropic-prepares-to-price-its-ipo-above-range-at-a-valuati]] · [[2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back]]
 <!-- graph:end -->

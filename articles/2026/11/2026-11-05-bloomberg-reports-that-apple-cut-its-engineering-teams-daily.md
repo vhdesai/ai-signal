@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-04-token-rationing-arrives-apple-trims-internal-ai-budgets-as-e
 - 2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual
+- 2026-11-18-enterprises-put-a-leash-on-ai-spend-as-chief-ai-officers-str
 embedding_id: 2026-11-05-bloomberg-reports-that-apple-cut-its-engineering-teams-daily
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Bloomberg reports that Apple cut its engineering teams' daily AI spending cap fr
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-04-token-rationing-arrives-apple-trims-internal-ai-budgets-as-e]] · [[2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual]]
+**Related:** [[2026-11-04-token-rationing-arrives-apple-trims-internal-ai-budgets-as-e]] · [[2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual]] · [[2026-11-18-enterprises-put-a-leash-on-ai-spend-as-chief-ai-officers-str]]
 <!-- graph:end -->

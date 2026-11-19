@@ -1,16 +1,30 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 3053
+member_count: 3067
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 3053 connected article(s).
+> Auto-generated entity hub. 3067 connected article(s).
 
-- `2026-11-17` [[2026-11-17-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
+- `2026-11-18` [[2026-11-18-november-17-2026-techcrunch|[November 17, 2026] · [TechCrunch]]]
+- `2026-11-18` [[2026-11-18-november-17-2026-microsoft-ai|[November 17, 2026] · [Microsoft AI]]]
+- `2026-11-18` [[2026-11-18-openai-board-member-paul-christiano-puts-the-risk-of-ai-take|OpenAI board member Paul Christiano puts the risk of AI takeover near 10% within a year]]
+- `2026-11-18` [[2026-11-18-openai-and-le-figaro-combine-content-discovery-with-enterpri|OpenAI and Le Figaro combine content discovery with enterprise adoption]]
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
+- `2026-11-18` [[2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i|ByteDance nears a $500 million Azure deal for OpenAI models, irking OpenAI]]
+- `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
+- `2026-11-17` [[2026-11-17-november-17-2026-openai|[November 17, 2026] · [OpenAI]]]
 - `2026-11-17` [[2026-11-17-q-a-why-building-math-muscles-remains-important-in-the-ai-er|Q&A: Why building math muscles remains important in the AI era]]
+- `2026-11-17` [[2026-11-17-openai-upgrades-its-frontier-and-everyday-models-with-gpt-6|OpenAI upgrades its frontier and everyday models with GPT-6.2 Astra and Sol]]
+- `2026-11-17` [[2026-11-17-openai-ships-gpt-6-2-astra-and-sol-cutting-astra-s-api-price|OpenAI ships GPT-6.2 Astra and Sol, cutting Astra's API prices by 20%]]
+- `2026-11-17` [[2026-11-17-openai-introduces-gpt-6-2-astra-and-sol-with-lower-stated-pr|OpenAI introduces GPT-6.2 Astra and Sol with lower stated pricing]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-microsoft-launches-mai-code-2-and-offers-licensed-model-weig|Microsoft launches MAI Code 2 and offers licensed model weights at Ignite]]
+- `2026-11-17` [[2026-11-17-google-makes-gemini-tasks-free-and-keeps-temporary-chats-for|Google makes Gemini Tasks free and keeps temporary chats for two months]]
+- `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]
+- `2026-11-17` [[2026-11-17-brockman-steers-openai-toward-cybersecurity-as-it-partners-w|Brockman steers OpenAI toward cybersecurity as it partners with NATO on cyber defense]]
 - `2026-11-17` [[2026-11-17-amd-and-google-chip-away-at-nvidia-as-huang-s-exit-shakes-cu|AMD and Google chip away at Nvidia as Huang's exit shakes customers]]
 - `2026-11-16` [[2026-11-16-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]

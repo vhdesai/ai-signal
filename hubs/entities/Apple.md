@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 564
+member_count: 566
 ---
 
 # Apple
 
-> Auto-generated entity hub. 564 connected article(s).
+> Auto-generated entity hub. 566 connected article(s).
 
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
+- `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]
 - `2026-11-16` [[2026-11-16-tencent-positions-hy4-flash-for-low-cost-long-context-deploy|Tencent positions Hy4 flash for low-cost, long-context deployment]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-16` [[2026-11-16-corma-raises-125-million-for-defensive-ai-agents-as-the-fire|Corma raises $125 million for defensive AI agents as the Fireworks breach reaches Uber drivers]]

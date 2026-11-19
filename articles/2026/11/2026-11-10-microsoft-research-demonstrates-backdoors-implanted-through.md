@@ -29,10 +29,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-10-microsoft-research-shows-agent-backdoors-can-be-planted-by-r
+- 2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym
 - 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion
-- 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 embedding_id: 2026-11-10-microsoft-research-demonstrates-backdoors-implanted-through
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Microsoft Research describes a method for changing fewer than ten seldom-used ne
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Google]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-11-10-microsoft-research-shows-agent-backdoors-can-be-planted-by-r]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]]
+**Related:** [[2026-11-10-microsoft-research-shows-agent-backdoors-can-be-planted-by-r]] · [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion]]
 <!-- graph:end -->

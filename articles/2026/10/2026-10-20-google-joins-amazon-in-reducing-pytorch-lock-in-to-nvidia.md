@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-19-aws-releases-torchneuron-to-lower-the-barrier-to-trainium
+- 2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat
 embedding_id: 2026-10-20-google-joins-amazon-in-reducing-pytorch-lock-in-to-nvidia
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Google open-sourced TorchTPU while Amazon promoted TorchNeuron, both aimed at ru
 
 **Entities:** [[Amazon]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-10-19-aws-releases-torchneuron-to-lower-the-barrier-to-trainium]]
+**Related:** [[2026-10-19-aws-releases-torchneuron-to-lower-the-barrier-to-trainium]] · [[2026-11-17-google-s-torchtpu-takes-aim-at-nvidia-s-cuda-moat]]
 <!-- graph:end -->

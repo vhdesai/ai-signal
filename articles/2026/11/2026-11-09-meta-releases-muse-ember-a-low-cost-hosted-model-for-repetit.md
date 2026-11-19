@@ -5,7 +5,7 @@ date: '2026-11-09'
 source: '[MarkTechPost]'
 url_original: https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/
 url_canonical: https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-10_061512_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 3f62b01c66874e20a807df28e26a5a675cd41d1d83544ab43d24adc6e32c0dcb

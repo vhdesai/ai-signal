@@ -5,7 +5,7 @@ date: '2026-11-16'
 source: OpenAI
 url_original: https://openai.com/index/our-first-phase-of-embedded-assessments/
 url_canonical: https://openai.com/index/our-first-phase-of-embedded-assessments/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-17_062147_Inbox_Daily AI News Digest - November
   17, 2026.md
 content_hash: 9cd6b94cc25c532c9365a31e042513879d08dbb144cf2d28d2849fcf5a40431f

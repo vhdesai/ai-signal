@@ -1,15 +1,23 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2686
+member_count: 2694
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2686 connected article(s).
+> Auto-generated entity hub. 2694 connected article(s).
 
+- `2026-11-18` [[2026-11-18-november-18-2026-pitchbook|[November 18, 2026] · [PitchBook]]]
+- `2026-11-18` [[2026-11-18-november-17-2026-microsoft-ai|[November 17, 2026] · [Microsoft AI]]]
+- `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]
+- `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
+- `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-the-information-2|[November 16, 2026] · [The Information]]]
+- `2026-11-17` [[2026-11-17-microsoft-launches-mai-code-2-and-offers-licensed-model-weig|Microsoft launches MAI Code 2 and offers licensed model weights at Ignite]]
+- `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]
+- `2026-11-17` [[2026-11-17-anthropic-prepares-to-price-its-ipo-above-range-at-a-valuati|Anthropic prepares to price its IPO above range at a valuation near $1.5 trillion]]
 - `2026-11-16` [[2026-11-16-november-16-2026-dealbook-2|[November 16, 2026] · [DealBook]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-business-insider|[November 16, 2026] · [Business Insider]]]
 - `2026-11-16` [[2026-11-16-november-16-2026-bleepingcomputer|[November 16, 2026] · [BleepingComputer]]]

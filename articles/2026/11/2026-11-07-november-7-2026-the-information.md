@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-07-november-7-2026-the-information-2
 - 2026-11-07-spacex-appears-to-be-building-a-multigigawatt-supercomputer
-- 2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue
-- 2026-08-04-texas-pauses-new-data-center-approvals-pending-a-statewide-g
+- 2026-11-18-texas-clears-spacex-s-1-456gw-supercomputer-power-plant-as-a
+- 2026-11-17-texas-clears-spacex-s-1-456-gigawatt-supercomputer-power-pla
 embedding_id: 2026-11-07-november-7-2026-the-information
 event_name: ''
 ---
@@ -35,5 +35,5 @@ CoreWeave CEO Michael Intrator wrote to Texas Governor-elect Gina Hinojosa, who 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-11-07-november-7-2026-the-information-2]] · [[2026-11-07-spacex-appears-to-be-building-a-multigigawatt-supercomputer]] · [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue]] · [[2026-08-04-texas-pauses-new-data-center-approvals-pending-a-statewide-g]]
+**Related:** [[2026-11-07-november-7-2026-the-information-2]] · [[2026-11-07-spacex-appears-to-be-building-a-multigigawatt-supercomputer]] · [[2026-11-18-texas-clears-spacex-s-1-456gw-supercomputer-power-plant-as-a]] · [[2026-11-17-texas-clears-spacex-s-1-456-gigawatt-supercomputer-power-pla]]
 <!-- graph:end -->

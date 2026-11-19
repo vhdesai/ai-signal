@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
+- 2026-11-18-texas-clears-spacex-s-1-456gw-supercomputer-power-plant-as-a
 - 2026-11-13-november-12-2026-wall-street-journal
 embedding_id: 2026-11-12-spacex-plans-more-than-74-billion-in-texas-arizona-data-cent
 event_name: ''
@@ -35,5 +36,5 @@ SpaceX outlined approximately $24 billion of supercomputing investment in Texas 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-11-13-november-12-2026-wall-street-journal]]
+**Related:** [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-11-18-texas-clears-spacex-s-1-456gw-supercomputer-power-plant-as-a]] · [[2026-11-13-november-12-2026-wall-street-journal]]
 <!-- graph:end -->

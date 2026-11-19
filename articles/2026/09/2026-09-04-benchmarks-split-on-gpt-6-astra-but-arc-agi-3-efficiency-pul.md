@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model
 - 2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was
 - 2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a
+- 2026-11-17-november-17-2026-openai
 - 2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in
-- 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 embedding_id: 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Independent evaluations of OpenAI's GPT-6 Astra disagree sharply: Epoch AI ranks
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model]] · [[2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was]] · [[2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a]] · [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]]
+**Related:** [[2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model]] · [[2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was]] · [[2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a]] · [[2026-11-17-november-17-2026-openai]] · [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in]]
 <!-- graph:end -->

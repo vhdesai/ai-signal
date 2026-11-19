@@ -28,7 +28,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu
 related_article_ids:
 - 2026-11-10-november-10-2026-dealbook-2
-- 2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900b-in-sp
+- 2026-11-18-november-17-2026-anthropic-pbc
 embedding_id: 2026-11-10-november-10-2026-dealbook
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Anthropic's amended filing offers 825 million Class A shares at $70 to $78, rais
 **Entities:** [[AMD]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-11-10-anthropic-sets-an-ipo-price-range-of-70-to-78-per-share-valu]]
-**Related:** [[2026-11-10-november-10-2026-dealbook-2]] · [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900b-in-sp]]
+**Related:** [[2026-11-10-november-10-2026-dealbook-2]] · [[2026-11-18-november-17-2026-anthropic-pbc]]
 <!-- graph:end -->
