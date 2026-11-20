@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
 - 2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive
 - 2026-09-04-nvidia-to-acquire-hugging-face-for-roughly-13-billion
-- 2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b
 embedding_id: 2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Nvidia has agreed to acquire the open-model hub Hugging Face for roughly $12.93 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive]] · [[2026-09-04-nvidia-to-acquire-hugging-face-for-roughly-13-billion]] · [[2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b]]
+**Related:** [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive]] · [[2026-09-04-nvidia-to-acquire-hugging-face-for-roughly-13-billion]]
 <!-- graph:end -->

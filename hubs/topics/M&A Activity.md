@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 566
+member_count: 568
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 566 connected article(s).
+> Auto-generated topic hub. 568 connected article(s).
 
+- `2026-11-19` [[2026-11-19-november-18-2026-wall-street-journal-2|[November 18, 2026] · [Wall Street Journal]]]
+- `2026-11-18` [[2026-11-18-palo-alto-networks-targets-enterprise-model-infrastructure-w|Palo Alto Networks targets enterprise model infrastructure with acquisition]]
 - `2026-11-16` [[2026-11-16-openai-explored-a-5-billion-plus-acquisition-of-goodfire-a-s|OpenAI explored a $5 billion-plus acquisition of Goodfire, a startup that decodes how AI models think]]
 - `2026-11-15` [[2026-11-15-anthropic-looks-set-to-price-above-its-range-ahead-of-thursd|Anthropic looks set to price above its range ahead of Thursday's 'Grandthropic' debut as crypto loses out]]
 - `2026-11-13` [[2026-11-13-xai-lays-off-most-of-the-grok-imagine-video-generation-team|xAI lays off most of the Grok Imagine video-generation team]]

@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Cornell Chronicle · Cornell University
 url_original: https://news.cornell.edu/categories/artificial-intelligence
 url_canonical: https://news.cornell.edu/categories/artificial-intelligence
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 1ddd13a69712de6c5a2fd868c90bd2b36f4a08eb0b8f46b2c664b2906a6a0316
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-29-thirteen-early-career-cornell-professors-win-nsf-career-awar
 - 2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica
 - 2026-05-18-breaking-cornell-and-toyota-research-institute-launch-31-uni
-- 2026-08-28-cornell-what-happened-when-we-put-ai-to-work
+- 2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati
 embedding_id: 2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Seven Cornell research teams received Center for Advanced Technology grants to a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-03-new-cornell-leads-7-5m-usda-center-of-excellence-for-orchard]] · [[2026-07-29-thirteen-early-career-cornell-professors-win-nsf-career-awar]] · [[2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica]] · [[2026-05-18-breaking-cornell-and-toyota-research-institute-launch-31-uni]] · [[2026-08-28-cornell-what-happened-when-we-put-ai-to-work]]
+**Related:** [[2026-09-03-new-cornell-leads-7-5m-usda-center-of-excellence-for-orchard]] · [[2026-07-29-thirteen-early-career-cornell-professors-win-nsf-career-awar]] · [[2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica]] · [[2026-05-18-breaking-cornell-and-toyota-research-institute-launch-31-uni]] · [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-14-capitalg-led-the-round-with-gic-dfj-growth-ivp-and-sapphire
 - 2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation
-- 2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion
 - 2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi
+- 2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion
 embedding_id: 2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation-on-its
 event_name: ''
 ---
@@ -40,5 +40,5 @@ CapitalG led the Series C, with GIC, DFJ Growth, IVP and Sapphire participating.
 
 **Entities:** [[NVIDIA]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-11-14-capitalg-led-the-round-with-gic-dfj-growth-ivp-and-sapphire]] · [[2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation]] · [[2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion]] · [[2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi]]
+**Related:** [[2026-11-14-capitalg-led-the-round-with-gic-dfj-growth-ivp-and-sapphire]] · [[2026-11-13-langchain-raises-300-million-at-a-3-billion-valuation]] · [[2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi]] · [[2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-09-ai-reliable-detectors.html
 url_canonical: https://techxplore.com/news/2026-09-ai-reliable-detectors.html
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-27_060139_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 972945d6e99c23a555b46f0178e91e850f0e750be250a4d976dbded44e497a39
@@ -41,11 +41,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness
 - 2026-11-18-mit-and-cornell-lift-detection-of-disguised-ai-text-from-27
 - 2026-09-02-pangram-s-max-spero-on-why-ai-detection-is-harder-than-real
 - 2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme
 embedding_id: 2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v
 event_name: ''
 ---
@@ -59,5 +59,5 @@ Prompted by allegations that novelist Thelyson Orelien used AI tools, AFP ran id
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-11-18-mit-and-cornell-lift-detection-of-disguised-ai-text-from-27]] · [[2026-09-02-pangram-s-max-spero-on-why-ai-detection-is-harder-than-real]] · [[2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme]]
+**Related:** [[2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness]] · [[2026-11-18-mit-and-cornell-lift-detection-of-disguised-ai-text-from-27]] · [[2026-09-02-pangram-s-max-spero-on-why-ai-detection-is-harder-than-real]] · [[2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
 <!-- graph:end -->

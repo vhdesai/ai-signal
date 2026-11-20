@@ -5,7 +5,7 @@ date: '2026-11-16'
 source: OpenAI
 url_original: https://openai.com/index/our-first-phase-of-embedded-assessments/
 url_canonical: https://openai.com/index/our-first-phase-of-embedded-assessments/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-17_062147_Inbox_Daily AI News Digest - November
   17, 2026.md
 content_hash: 9cd6b94cc25c532c9365a31e042513879d08dbb144cf2d28d2849fcf5a40431f
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-17-q-a-why-building-math-muscles-remains-important-in-the-ai-er
+- 2026-11-18-openai-reports-model-written-optimizations-entering-chip-des
 - 2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter
 - 2026-09-22-openai-publishes-priorities-and-principles-for-third-party-s
 - 2026-11-16-openai-expands-academic-researcher-grants-with-applications
-- 2026-08-22-openai-says-california-should-strengthen-its-ai-safety-bill
 embedding_id: 2026-11-16-openai-adds-embedded-assessors-with-scoped-access-and-disclo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI announced agreements with Apollo Research, METR, Transluce and Goodfire f
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-17-q-a-why-building-math-muscles-remains-important-in-the-ai-er]] · [[2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter]] · [[2026-09-22-openai-publishes-priorities-and-principles-for-third-party-s]] · [[2026-11-16-openai-expands-academic-researcher-grants-with-applications]] · [[2026-08-22-openai-says-california-should-strengthen-its-ai-safety-bill]]
+**Related:** [[2026-11-17-q-a-why-building-math-muscles-remains-important-in-the-ai-er]] · [[2026-11-18-openai-reports-model-written-optimizations-entering-chip-des]] · [[2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter]] · [[2026-09-22-openai-publishes-priorities-and-principles-for-third-party-s]] · [[2026-11-16-openai-expands-academic-researcher-grants-with-applications]]
 <!-- graph:end -->

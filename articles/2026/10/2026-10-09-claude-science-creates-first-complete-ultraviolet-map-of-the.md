@@ -21,8 +21,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-04-claude-assisted-lab-work-yields-the-first-structure-of-a-pro
-- 2026-05-26-anthropic-s-claude-mythos-solves-erd-s-unit-distance-conject
-- 2026-08-16-claude-model-produced-a-genuine-math-result-during-a-failed
 embedding_id: 2026-10-09-claude-science-creates-first-complete-ultraviolet-map-of-the
 event_name: ''
 ---
@@ -35,5 +33,5 @@ Johns Hopkins astrophysicist Brice Menard used Claude Science to build the first
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-04-claude-assisted-lab-work-yields-the-first-structure-of-a-pro]] · [[2026-05-26-anthropic-s-claude-mythos-solves-erd-s-unit-distance-conject]] · [[2026-08-16-claude-model-produced-a-genuine-math-result-during-a-failed]]
+**Related:** [[2026-11-04-claude-assisted-lab-work-yields-the-first-structure-of-a-pro]]
 <!-- graph:end -->

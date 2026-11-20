@@ -24,7 +24,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50
-- 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va
 - 2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo
 embedding_id: 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b
 event_name: ''
@@ -38,5 +37,5 @@ Moonshot AI, developer of the Kimi model family, has confidentially filed for a 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50]] · [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va]] · [[2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo]]
+**Related:** [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50]] · [[2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo]]
 <!-- graph:end -->

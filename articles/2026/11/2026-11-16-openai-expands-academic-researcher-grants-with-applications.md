@@ -6,7 +6,7 @@ date: '2026-11-16'
 source: OpenAI
 url_original: https://openai.com/index/expanding-chatgpt-for-academic-researchers/
 url_canonical: https://openai.com/index/expanding-chatgpt-for-academic-researchers/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-17_062147_Inbox_Daily AI News Digest - November
   17, 2026.md
 content_hash: ba0594071d5ea5a205e54f8be665dcb719dc92f48e82c1e1883dafb1ffb7df3e

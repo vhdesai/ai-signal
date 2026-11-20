@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-11-12-november-12-2026-wsj-pro-cybersecurity-2
 - 2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights
 - 2026-11-16-november-16-2026-federal-reserve
-- 2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance
-- 2026-08-28-subject-daily-ai-news-digest-august-28-2026
+- 2026-11-16-banks-race-to-keep-up-as-ai-agents-use-credit-cards-and-the
+- 2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a
 embedding_id: 2026-11-12-november-12-2026-wsj-pro-cybersecurity
 event_name: ''
 ---
@@ -37,5 +37,5 @@ United will block personal AI assistants such as Meta's Muse and OpenAI's Dots f
 ## Connections
 
 **Entities:** [[Meta]] · [[OpenAI]]
-**Related:** [[2026-11-12-november-12-2026-wsj-pro-cybersecurity-2]] · [[2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights]] · [[2026-11-16-november-16-2026-federal-reserve]] · [[2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
+**Related:** [[2026-11-12-november-12-2026-wsj-pro-cybersecurity-2]] · [[2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights]] · [[2026-11-16-november-16-2026-federal-reserve]] · [[2026-11-16-banks-race-to-keep-up-as-ai-agents-use-credit-cards-and-the]] · [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a]]
 <!-- graph:end -->

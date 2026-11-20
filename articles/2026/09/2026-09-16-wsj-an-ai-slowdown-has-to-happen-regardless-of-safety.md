@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-09-wsj-watch-the-ai-boom-s-weakest-link
-- 2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t
-- 2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c
-- 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
+- 2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot
+- 2026-09-14-monday-september-14-2026
 embedding_id: 2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety
 event_name: ''
 ---
@@ -43,5 +43,5 @@ WSJ's Markets A.M. argues Monday's software-vs-chip market split — hyperscaler
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-09-wsj-watch-the-ai-boom-s-weakest-link]] · [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t]] · [[2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]]
+**Related:** [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-09-wsj-watch-the-ai-boom-s-weakest-link]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot]] · [[2026-09-14-monday-september-14-2026]]
 <!-- graph:end -->

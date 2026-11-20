@@ -29,9 +29,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times
-- 2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an
-- 2026-11-15-bessent-demands-an-outside-nvidia-ceo-as-huang-s-allies-push
+- 2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is
 - 2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan
+- 2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an
 embedding_id: 2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Nvidia's board has approached Arm CEO Rene Haas as a possible successor, the Fin
 
 **Entities:** [[Arm]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times]] · [[2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an]] · [[2026-11-15-bessent-demands-an-outside-nvidia-ceo-as-huang-s-allies-push]] · [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan]]
+**Related:** [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times]] · [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is]] · [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan]] · [[2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an]]
 <!-- graph:end -->

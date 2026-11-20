@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r
 - 2026-08-21-anthropic-prepares-a-record-ipo-that-could-top-spacex-s-debu
+- 2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r
 - 2026-08-24-anthropic-s-ipo-could-break-spacex-s-recordtrending
 - 2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo
-- 2026-08-20-anthropic-expects-an-ipo-that-matches-or-exceeds-spacex-s-re
+- 2026-05-21-spacex-s-1-reveals-45b-anthropic-compute-deal
 embedding_id: 2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Anthropic privately expects its IPO to match or exceed SpaceX’s $86.2B June ra
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r]] · [[2026-08-21-anthropic-prepares-a-record-ipo-that-could-top-spacex-s-debu]] · [[2026-08-24-anthropic-s-ipo-could-break-spacex-s-recordtrending]] · [[2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo]] · [[2026-08-20-anthropic-expects-an-ipo-that-matches-or-exceeds-spacex-s-re]]
+**Related:** [[2026-08-21-anthropic-prepares-a-record-ipo-that-could-top-spacex-s-debu]] · [[2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r]] · [[2026-08-24-anthropic-s-ipo-could-break-spacex-s-recordtrending]] · [[2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo]] · [[2026-05-21-spacex-s-1-reveals-45b-anthropic-compute-deal]]
 <!-- graph:end -->

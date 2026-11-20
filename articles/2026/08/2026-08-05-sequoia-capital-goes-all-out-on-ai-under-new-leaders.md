@@ -20,8 +20,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-11-ai-services-find-business-models-sequoia-backs-an-ai-holding
 - 2026-11-11-ai-services-find-business-models-sequoia-backs-ai-holding-co
+- 2026-11-11-ai-services-find-business-models-sequoia-backs-an-ai-holding
 - 2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market
 - 2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds
 - 2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc
@@ -37,5 +37,5 @@ The Information profiles how Sequoia Capital is dramatically increasing its AI b
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-11-ai-services-find-business-models-sequoia-backs-an-ai-holding]] · [[2026-11-11-ai-services-find-business-models-sequoia-backs-ai-holding-co]] · [[2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market]] · [[2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds]] · [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc]]
+**Related:** [[2026-11-11-ai-services-find-business-models-sequoia-backs-ai-holding-co]] · [[2026-11-11-ai-services-find-business-models-sequoia-backs-an-ai-holding]] · [[2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market]] · [[2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds]] · [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc]]
 <!-- graph:end -->

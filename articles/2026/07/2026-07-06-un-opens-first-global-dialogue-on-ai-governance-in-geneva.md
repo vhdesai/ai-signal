@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene
 - 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
 - 2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu
-- 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
 - 2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha
+- 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
 embedding_id: 2026-07-06-un-opens-first-global-dialogue-on-ai-governance-in-geneva
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The UN's first Global Dialogue on AI Governance opened July 6–7 at Geneva's Pa
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha]]
+**Related:** [[2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu]] · [[2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]]
 <!-- graph:end -->

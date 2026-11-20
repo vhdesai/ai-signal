@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-11-01-axios-reports-openai-will-launch-a-policy-and-pr-campaign-ri
 - 2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue
 - 2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas
-- 2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co
 embedding_id: 2026-11-01-openai-plans-post-midterm-policy-push-including-rebranding-d
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Citing Axios, TechCrunch reports that OpenAI global affairs chief Chris Lehane i
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-01-axios-reports-openai-will-launch-a-policy-and-pr-campaign-ri]] · [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue]] · [[2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas]] · [[2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co]]
+**Related:** [[2026-11-01-axios-reports-openai-will-launch-a-policy-and-pr-campaign-ri]] · [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue]] · [[2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas]]
 <!-- graph:end -->

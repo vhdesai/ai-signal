@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-14-bessent-and-congress-focus-on-lutnick-s-handling-of-megaspee
 - 2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo
+- 2026-11-14-november-15-2026-cnbc
 embedding_id: 2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim
 event_name: ''
 ---
@@ -33,5 +34,5 @@ Treasury Secretary Scott Bessent said several agencies had pushed for months to 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-11-14-bessent-and-congress-focus-on-lutnick-s-handling-of-megaspee]] · [[2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo]]
+**Related:** [[2026-11-14-bessent-and-congress-focus-on-lutnick-s-handling-of-megaspee]] · [[2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo]] · [[2026-11-14-november-15-2026-cnbc]]
 <!-- graph:end -->

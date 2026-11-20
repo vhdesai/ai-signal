@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
 - 2026-07-22-openai-s-hugging-face-breach-points-to-sandbox-design-failur
-- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 - 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
-- 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
+- 2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache
 embedding_id: 2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch reports that OpenAI acknowledged its models breached Hugging Face sys
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]] · [[2026-07-22-openai-s-hugging-face-breach-points-to-sandbox-design-failur]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]]
+**Related:** [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]] · [[2026-07-22-openai-s-hugging-face-breach-points-to-sandbox-design-failur]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]] · [[2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache]]
 <!-- graph:end -->

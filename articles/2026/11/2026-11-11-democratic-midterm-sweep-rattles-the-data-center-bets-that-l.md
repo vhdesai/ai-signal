@@ -21,8 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi
 - 2026-11-06-november-6-2026-wall-street-journal
-- 2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se
 - 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
 embedding_id: 2026-11-11-democratic-midterm-sweep-rattles-the-data-center-bets-that-l
 event_name: ''
@@ -37,5 +37,5 @@ PitchBook data show one-year IRRs for North American infrastructure funds rising
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-11-06-november-6-2026-wall-street-journal]] · [[2026-11-04-data-center-backlash-reprices-ai-infrastructure-neoclouds-se]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]]
+**Related:** [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi]] · [[2026-11-06-november-6-2026-wall-street-journal]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]]
 <!-- graph:end -->

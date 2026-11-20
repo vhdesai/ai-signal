@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
 - 2026-10-18-ai-wearables-run-into-wiretap-law-limits-anthropic-asks-outs
-- 2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled
 - 2026-07-13-government-fight-with-anthropic-raises-broader-free-speech-q
 - 2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1
+- 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
 embedding_id: 2026-04-16-in-us-v-heppner-judge-jed-rakoff-of-the-southern-district-of
 event_name: ''
 ---
@@ -40,5 +40,5 @@ In US v. Heppner, Judge Jed Rakoff of the Southern District of New York ruled th
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-10-18-ai-wearables-run-into-wiretap-law-limits-anthropic-asks-outs]] · [[2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled]] · [[2026-07-13-government-fight-with-anthropic-raises-broader-free-speech-q]] · [[2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1]]
+**Related:** [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-10-18-ai-wearables-run-into-wiretap-law-limits-anthropic-asks-outs]] · [[2026-07-13-government-fight-with-anthropic-raises-broader-free-speech-q]] · [[2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]]
 <!-- graph:end -->

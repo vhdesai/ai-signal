@@ -24,7 +24,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 - 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
-- 2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole
 - 2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor
 embedding_id: 2026-08-05-u-s-moves-to-ban-chinese-data-center-components
 event_name: ''
@@ -38,5 +37,5 @@ WSJ Pro Cybersecurity reports that the U.S. government is advancing plans to ban
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole]] · [[2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor]]
+**Related:** [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor]]
 <!-- graph:end -->

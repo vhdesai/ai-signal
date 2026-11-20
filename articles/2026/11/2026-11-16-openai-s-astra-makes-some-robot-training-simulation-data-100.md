@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-13-openai-folds-its-robotics-team-into-research-and-applied-gro
 - 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
+- 2026-11-09-november-9-2026-nvidia-blog
 embedding_id: 2026-11-16-openai-s-astra-makes-some-robot-training-simulation-data-100
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia robotics chief Deepu Talla told The Information's AI Deep Dive that OpenA
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-13-openai-folds-its-robotics-team-into-research-and-applied-gro]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]]
+**Related:** [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-11-09-november-9-2026-nvidia-blog]]
 <!-- graph:end -->

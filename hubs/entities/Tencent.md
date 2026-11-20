@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 268
+member_count: 272
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 268 connected article(s).
+> Auto-generated entity hub. 272 connected article(s).
 
+- `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-19` [[2026-11-19-the-remote-access-rule-bites-moonshot-scraps-a-150-million-i|The remote-access rule bites: Moonshot scraps a $150 million Indonesia deal and Tencent says it sets China back]]
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
 - `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]

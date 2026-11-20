@@ -26,7 +26,6 @@ related_article_ids:
 - 2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense
 - 2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f
 - 2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight
-- 2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda
 embedding_id: 2026-10-29-mistral-releases-trillion-parameter-large-4-weights-for-self
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Mistral published downloadable weights for Mistral Large 4, letting enterprises 
 
 **Entities:** [[Google]] · [[Mistral]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us]] · [[2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense]] · [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f]] · [[2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight]] · [[2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda]]
+**Related:** [[2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us]] · [[2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense]] · [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f]] · [[2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability
 - 2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with
 - 2026-09-18-google-s-gemini-autonomously-hacked-three-companies-in-cyber
-- 2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe
+- 2026-11-11-berkeley-s-cyberbingym-shows-ai-agents-can-reverse-engineer
 embedding_id: 2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cycle
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google introduced Gemini 4 Carbon with leading scores on SEC-bench Pro (88.2%), 
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability]] · [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with]] · [[2026-09-18-google-s-gemini-autonomously-hacked-three-companies-in-cyber]] · [[2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe]]
+**Related:** [[2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability]] · [[2026-10-29-google-ships-gemini-4-carbon-weeks-after-argon-leading-with]] · [[2026-09-18-google-s-gemini-autonomously-hacked-three-companies-in-cyber]] · [[2026-11-11-berkeley-s-cyberbingym-shows-ai-agents-can-reverse-engineer]]
 <!-- graph:end -->

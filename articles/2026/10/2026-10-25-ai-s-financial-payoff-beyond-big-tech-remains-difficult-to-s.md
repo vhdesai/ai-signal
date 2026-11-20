@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-26-ai-payoff-outside-tech-remains-contested-despite-sustained-s
 - 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
-- 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
+- 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
 embedding_id: 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reports Apollo chief economist Torsten Slok's assessment that margins
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-26-ai-payoff-outside-tech-remains-contested-despite-sustained-s]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]] · [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]]
+**Related:** [[2026-10-26-ai-payoff-outside-tech-remains-contested-despite-sustained-s]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off]]
 <!-- graph:end -->

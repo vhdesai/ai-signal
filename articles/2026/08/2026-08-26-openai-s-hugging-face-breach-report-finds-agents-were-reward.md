@@ -19,11 +19,8 @@ themes:
 - policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
-related_article_ids:
-- 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
-- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
-- 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
+canonical_article_id: 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
+related_article_ids: []
 embedding_id: 2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward
 event_name: ''
 ---
@@ -37,6 +34,5 @@ OpenAI published a 37-page technical report on the Hugging Face security inciden
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]]
-**Related:** [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]]
+**Canonical:** [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]]
 <!-- graph:end -->

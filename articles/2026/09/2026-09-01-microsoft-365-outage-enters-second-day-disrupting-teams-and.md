@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and
 - 2026-11-14-november-13-2026-dealbook
 - 2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil
+- 2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and
 - 2026-11-13-microsoft-s-roughly-18-hour-outage-spreads-from-outlook-and
 - 2026-11-16-cios-draw-lessons-from-the-microsoft-365-outage-as-compute-s
 embedding_id: 2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and
@@ -37,5 +37,5 @@ Microsoft worked Tuesday to restore Microsoft 365 after a multi-service outage a
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and]] · [[2026-11-14-november-13-2026-dealbook]] · [[2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil]] · [[2026-11-13-microsoft-s-roughly-18-hour-outage-spreads-from-outlook-and]] · [[2026-11-16-cios-draw-lessons-from-the-microsoft-365-outage-as-compute-s]]
+**Related:** [[2026-11-14-november-13-2026-dealbook]] · [[2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil]] · [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and]] · [[2026-11-13-microsoft-s-roughly-18-hour-outage-spreads-from-outlook-and]] · [[2026-11-16-cios-draw-lessons-from-the-microsoft-365-outage-as-compute-s]]
 <!-- graph:end -->

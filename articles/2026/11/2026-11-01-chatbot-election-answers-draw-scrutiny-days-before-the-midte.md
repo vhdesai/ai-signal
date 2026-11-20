@@ -31,8 +31,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi
 - 2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter
+- 2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi
 - 2026-10-30-mit-project-tracks-how-chatbots-answer-2026-midterm-election
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 - 2026-10-14-new-anthropic-prepares-voting-information-and-election-resul
@@ -49,5 +49,5 @@ AFP reports that the November 3 vote is the first federal election in which mill
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Meta]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi]] · [[2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter]] · [[2026-10-30-mit-project-tracks-how-chatbots-answer-2026-midterm-election]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul]]
+**Related:** [[2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter]] · [[2026-10-30-mit-s-llm-election-observatory-tracks-how-chatbots-answer-mi]] · [[2026-10-30-mit-project-tracks-how-chatbots-answer-2026-midterm-election]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul]]
 <!-- graph:end -->

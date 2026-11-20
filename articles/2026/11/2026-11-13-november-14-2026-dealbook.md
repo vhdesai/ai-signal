@@ -28,10 +28,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats
 - 2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne
 - 2026-11-09-november-9-2026-dealbook
 - 2026-11-12-democrats-open-a-second-congressional-probe-into-nvidia-s-ch
-- 2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia
+- 2026-11-14-november-15-2026-cnbc
 embedding_id: 2026-11-13-november-14-2026-dealbook
 event_name: ''
 ---
@@ -45,5 +46,5 @@ Huang agreed to a closed-door briefing for three House committees before Thanksg
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-12-democrats-open-a-second-congressional-probe-into-nvidia-s-ch]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]]
+**Related:** [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats]] · [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-12-democrats-open-a-second-congressional-probe-into-nvidia-s-ch]] · [[2026-11-14-november-15-2026-cnbc]]
 <!-- graph:end -->

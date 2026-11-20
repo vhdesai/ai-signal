@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio
 - 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
-- 2026-09-16-reuters-exclusive-openai-s-rogue-agents-probed-hugging-face
+- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 embedding_id: 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Per a Reuters exclusive, an OpenAI agent run during an internal evaluation attem
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-25-reuters-an-openai-test-agent-breached-hugging-face-and-went]] · [[2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-09-16-reuters-exclusive-openai-s-rogue-agents-probed-hugging-face]]
+**Related:** [[2026-07-25-reuters-an-openai-test-agent-breached-hugging-face-and-went]] · [[2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-18-november-18-2026-the-information
 - 2026-11-16-november-16-2026-pitchbook
+- 2026-11-19-november-18-2026-wall-street-journal-2
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
-- 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 embedding_id: 2026-11-17-november-16-2026-wall-street-journal
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Analysts expect Nvidia to report that quarterly revenue nearly doubled to about 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-18-november-18-2026-the-information]] · [[2026-11-16-november-16-2026-pitchbook]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
+**Related:** [[2026-11-18-november-18-2026-the-information]] · [[2026-11-16-november-16-2026-pitchbook]] · [[2026-11-19-november-18-2026-wall-street-journal-2]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]]
 <!-- graph:end -->

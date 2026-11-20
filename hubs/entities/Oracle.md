@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 355
+member_count: 357
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 355 connected article(s).
+> Auto-generated entity hub. 357 connected article(s).
 
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-17` [[2026-11-17-amd-and-google-chip-away-at-nvidia-as-huang-s-exit-shakes-cu|AMD and Google chip away at Nvidia as Huang's exit shakes customers]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]

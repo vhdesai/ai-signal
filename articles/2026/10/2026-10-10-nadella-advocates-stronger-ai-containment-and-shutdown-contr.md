@@ -40,11 +40,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in
 - 2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and
 - 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 - 2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t
 - 2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti
-- 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
 embedding_id: 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 event_name: ''
 ---
@@ -58,5 +58,5 @@ Nadella advocates external safeguards, auditable actions and authorized shutdown
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t]] · [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]]
+**Related:** [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in]] · [[2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t]] · [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti]]
 <!-- graph:end -->

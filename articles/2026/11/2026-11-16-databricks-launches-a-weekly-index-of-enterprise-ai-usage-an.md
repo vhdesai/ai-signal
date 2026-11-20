@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight
 - 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
+- 2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch
 - 2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications
-- 2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s
 embedding_id: 2026-11-16-databricks-launches-a-weekly-index-of-enterprise-ai-usage-an
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Databricks introduced a public weekly AI Index combining anonymized Unity Gatewa
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications]] · [[2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s]]
+**Related:** [[2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch]] · [[2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications]]
 <!-- graph:end -->

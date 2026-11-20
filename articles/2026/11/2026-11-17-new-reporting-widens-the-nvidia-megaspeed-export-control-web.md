@@ -24,10 +24,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-17-november-17-2026-the-information
 - 2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls
 - 2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i
 - 2026-11-14-november-15-2026-cnbc
-- 2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia
 embedding_id: 2026-11-17-new-reporting-widens-the-nvidia-megaspeed-export-control-web
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Nvidia's sales team introduced Alibaba to Alice Huang twice in 2022, months befo
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls]] · [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i]] · [[2026-11-14-november-15-2026-cnbc]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]]
+**Related:** [[2026-11-17-november-17-2026-the-information]] · [[2026-11-09-spy-scandal-revives-push-for-tighter-nvidia-export-controls]] · [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i]] · [[2026-11-14-november-15-2026-cnbc]]
 <!-- graph:end -->

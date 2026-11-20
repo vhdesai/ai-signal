@@ -20,8 +20,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-15-gates-foundation-commits-1b-over-two-years-to-close-ai-s-lan
 - 2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par
+- 2026-09-15-gates-foundation-commits-1b-over-two-years-to-close-ai-s-lan
 - 2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve
 embedding_id: 2026-11-17-gates-ventures-and-west-health-offer-15-million-to-researche
 event_name: ''
@@ -35,5 +35,5 @@ Gates Ventures and West Health will provide up to $15 million in philanthropic f
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-15-gates-foundation-commits-1b-over-two-years-to-close-ai-s-lan]] · [[2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par]] · [[2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve]]
+**Related:** [[2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par]] · [[2026-09-15-gates-foundation-commits-1b-over-two-years-to-close-ai-s-lan]] · [[2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve]]
 <!-- graph:end -->

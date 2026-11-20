@@ -21,8 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a
 - 2026-11-09-anthropic-launches-fable-5-2-and-restricts-mythos-5-2-to-vet
+- 2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cutting-f
 embedding_id: 2026-09-02-trending-anthropic-s-triple-release-read-as-a-2-trillion-ipo
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Analysis of Anthropic's September 1 launch of Claude Fable 5.1, Mythos 5.1 and E
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a]] · [[2026-11-09-anthropic-launches-fable-5-2-and-restricts-mythos-5-2-to-vet]]
+**Related:** [[2026-11-09-anthropic-launches-fable-5-2-and-restricts-mythos-5-2-to-vet]] · [[2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cutting-f]]
 <!-- graph:end -->

@@ -26,10 +26,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
-- 2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m
 - 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
+- 2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode
 embedding_id: 2026-09-07-ifm-releases-k2-horizon-six-apache-2-0-open-weight-models-sp
 event_name: ''
 ---
@@ -43,5 +42,5 @@ The Institute for the Future of Machines released K2 Horizon, a family of six Ap
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Meta]] · [[Mistral]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode]] · [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]]
+**Related:** [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]] · [[2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode]]
 <!-- graph:end -->

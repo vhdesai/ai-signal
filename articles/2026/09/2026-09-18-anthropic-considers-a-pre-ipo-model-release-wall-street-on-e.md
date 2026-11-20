@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-09-20-anthropic-reportedly-pushes-ipo-from-october-to-november-2t
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
-- 2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion
 - 2026-09-20-anthropic-reportedly-delays-ipo-to-november-to-present-a-str
+- 2026-09-18-anthropic-s-annualized-revenue-reportedly-passes-100b-ahead
 embedding_id: 2026-09-18-anthropic-considers-a-pre-ipo-model-release-wall-street-on-e
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The Information reports Anthropic finance chief Krishna Rao and other executives
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-20-anthropic-reportedly-pushes-ipo-from-october-to-november-2t]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion]] · [[2026-09-20-anthropic-reportedly-delays-ipo-to-november-to-present-a-str]]
+**Related:** [[2026-09-20-anthropic-reportedly-pushes-ipo-from-october-to-november-2t]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-09-20-anthropic-reportedly-delays-ipo-to-november-to-present-a-str]] · [[2026-09-18-anthropic-s-annualized-revenue-reportedly-passes-100b-ahead]]
 <!-- graph:end -->

@@ -25,10 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-15-november-16-2026-business-insider
-- 2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni
+- 2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times
 - 2026-11-09-november-9-2026-dealbook
 - 2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an
-- 2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times
 embedding_id: 2026-11-15-bessent-demands-an-outside-nvidia-ceo-as-huang-s-allies-push
 event_name: ''
 ---
@@ -42,5 +41,5 @@ Treasury Secretary Scott Bessent called for a dramatic shake-up and an outside C
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-11-15-november-16-2026-business-insider]] · [[2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an]] · [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times]]
+**Related:** [[2026-11-15-november-16-2026-business-insider]] · [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an]]
 <!-- graph:end -->

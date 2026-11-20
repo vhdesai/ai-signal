@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-11-11-berkeley-s-cyberbingym-shows-ai-agents-can-turn-binary-secur
 - 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
 - 2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cycle
+- 2026-09-17-the-information-same-flaw-found-across-claude-code-codex-gem
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
-- 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
 embedding_id: 2026-11-11-berkeley-s-cyberbingym-shows-ai-agents-can-reverse-engineer
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Berkeley RDI and collaborators built CyberBinGym, a benchmark of 100 real vulner
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-11-berkeley-s-cyberbingym-shows-ai-agents-can-turn-binary-secur]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]] · [[2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cycle]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]]
+**Related:** [[2026-11-11-berkeley-s-cyberbingym-shows-ai-agents-can-turn-binary-secur]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]] · [[2026-11-04-offensive-ai-cyber-capability-is-outrunning-the-patch-cycle]] · [[2026-09-17-the-information-same-flaw-found-across-claude-code-codex-gem]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
 <!-- graph:end -->

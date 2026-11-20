@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-10-31-isomorphic-labs-pushes-ai-first-drug-discovery-toward-cancer
 - 2026-10-31-anthropic-s-s-1-makes-life-sciences-central-to-its-ipo-pitch
 - 2026-10-28-anthropic-pushes-claude-deeper-into-drug-discovery-with-acqu
-- 2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i
+- 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
 embedding_id: 2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Business Insider reports that Anthropic's S-1 positions Claude as core infrastru
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-10-31-isomorphic-labs-pushes-ai-first-drug-discovery-toward-cancer]] · [[2026-10-31-anthropic-s-s-1-makes-life-sciences-central-to-its-ipo-pitch]] · [[2026-10-28-anthropic-pushes-claude-deeper-into-drug-discovery-with-acqu]] · [[2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i]]
+**Related:** [[2026-10-31-isomorphic-labs-pushes-ai-first-drug-discovery-toward-cancer]] · [[2026-10-31-anthropic-s-s-1-makes-life-sciences-central-to-its-ipo-pitch]] · [[2026-10-28-anthropic-pushes-claude-deeper-into-drug-discovery-with-acqu]] · [[2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc]]
 <!-- graph:end -->

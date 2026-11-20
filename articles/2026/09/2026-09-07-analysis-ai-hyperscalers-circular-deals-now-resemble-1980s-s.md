@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-09-wsj-watch-the-ai-boom-s-weakest-link
+- 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
+- 2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex
+- 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further
-- 2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble
-- 2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch
 embedding_id: 2026-09-07-analysis-ai-hyperscalers-circular-deals-now-resemble-1980s-s
 event_name: ''
 ---
@@ -38,5 +39,5 @@ A senior opinion analysis in SCMP argues that interlocking multi-year commitment
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-09-wsj-watch-the-ai-boom-s-weakest-link]] · [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further]] · [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch]]
+**Related:** [[2026-09-09-wsj-watch-the-ai-boom-s-weakest-link]] · [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c]] · [[2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further]]
 <!-- graph:end -->

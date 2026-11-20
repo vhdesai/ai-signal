@@ -1,14 +1,22 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2463
+member_count: 2471
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2463 connected article(s).
+> Auto-generated topic hub. 2471 connected article(s).
 
+- `2026-11-19` [[2026-11-19-mit-study-traces-data-center-air-pollution-effects-across-th|MIT study traces data-center air-pollution effects across the grid]]
+- `2026-11-19` [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard|MIT microrobot brings sensing and flight computation onboard]]
+- `2026-11-19` [[2026-11-19-alibaba-reports-accelerating-ai-cloud-growth-alongside-heavy|Alibaba reports accelerating AI-cloud growth alongside heavy investment]]
+- `2026-11-18` [[2026-11-18-palo-alto-networks-targets-enterprise-model-infrastructure-w|Palo Alto Networks targets enterprise model infrastructure with acquisition]]
+- `2026-11-18` [[2026-11-18-openai-reports-model-written-optimizations-entering-chip-des|OpenAI reports model-written optimizations entering chip designs]]
 - `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
+- `2026-11-18` [[2026-11-18-intel-reports-an-outside-customer-for-its-18a-p-process|Intel reports an outside customer for its 18A-P process]]
 - `2026-11-17` [[2026-11-17-ut-austin-opens-horizon-s-gpu-system-to-early-scientific-use|UT Austin opens Horizon’s GPU system to early scientific users]]
 - `2026-11-17` [[2026-11-17-replit-missions-packages-outcome-driven-software-execution|Replit Missions packages outcome-driven software execution]]
 - `2026-11-17` [[2026-11-17-nvidia-reports-115-8-billion-quarter-and-higher-revenue-guid|NVIDIA reports $115.8 billion quarter and higher revenue guidance]]

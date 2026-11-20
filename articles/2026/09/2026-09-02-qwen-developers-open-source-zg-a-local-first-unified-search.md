@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code
-- 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache
+- 2026-10-12-alibaba-qwen-introduces-qwengyre-for-extreme-long-horizon-ag
 embedding_id: 2026-09-02-qwen-developers-open-source-zg-a-local-first-unified-search
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Qwen Developers released zg (zvec-grep) under Apache 2.0, a local-first search l
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache]]
+**Related:** [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]] · [[2026-10-12-alibaba-qwen-introduces-qwengyre-for-extreme-long-horizon-ag]]
 <!-- graph:end -->

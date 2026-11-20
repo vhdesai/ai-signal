@@ -6,7 +6,7 @@ date: '2026-11-13'
 source: '[MIT News]'
 url_original: https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113
 url_canonical: https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-13_061529_Inbox_Daily AI News Digest - November
   13, 2026.md
 content_hash: e1c928cbfde2c583087f7ab7bc789c3b81a77ae95efe1627fcb5ac789e46e762

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-02-pangram-s-max-spero-on-why-ai-detection-is-harder-than-real
+- 2026-07-29-pangram-raises-9-million-as-ai-content-floods-the-internet
 - 2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v
 - 2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i
 - 2026-07-30-linkedin-adds-seems-like-ai-slop-report-button-and-swaps-ai
-- 2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf
 embedding_id: 2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reports that Substack integrated Pangram's AI-writing detection into 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-02-pangram-s-max-spero-on-why-ai-detection-is-harder-than-real]] · [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v]] · [[2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i]] · [[2026-07-30-linkedin-adds-seems-like-ai-slop-report-button-and-swaps-ai]] · [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf]]
+**Related:** [[2026-09-02-pangram-s-max-spero-on-why-ai-detection-is-harder-than-real]] · [[2026-07-29-pangram-raises-9-million-as-ai-content-floods-the-internet]] · [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v]] · [[2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i]] · [[2026-07-30-linkedin-adds-seems-like-ai-slop-report-button-and-swaps-ai]]
 <!-- graph:end -->

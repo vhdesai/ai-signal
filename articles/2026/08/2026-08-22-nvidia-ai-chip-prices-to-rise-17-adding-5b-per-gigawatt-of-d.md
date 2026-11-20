@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-22-nvidia-notifies-customers-of-ai-server-price-hikes-above-15
 - 2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser
-- 2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s
 - 2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s
 - 2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs
+- 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
 embedding_id: 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Prices for Nvidia’s flagship Grace Blackwell 300 and Vera Rubin 200 server chi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-22-nvidia-notifies-customers-of-ai-server-price-hikes-above-15]] · [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser]] · [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs]]
+**Related:** [[2026-08-22-nvidia-notifies-customers-of-ai-server-price-hikes-above-15]] · [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser]] · [[2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]]
 <!-- graph:end -->

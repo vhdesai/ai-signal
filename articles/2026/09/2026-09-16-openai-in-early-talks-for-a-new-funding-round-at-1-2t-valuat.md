@@ -23,6 +23,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
@@ -39,5 +40,5 @@ The Information reports OpenAI has held early conversations with investors about
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
+**Related:** [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
 <!-- graph:end -->

@@ -20,11 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-18-replit-makes-fabric-and-teams-integrations-generally-availab
 - 2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams
 - 2026-09-10-cursor-ships-projects-one-coordinator-agent-thousands-of-sub
-- 2026-11-11-anthropic-study-finds-coordination-costs-when-users-delegate
 - 2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag
-- 2026-10-18-harness2-explores-agent-improvements-without-updating-model
 embedding_id: 2026-11-17-replit-missions-packages-outcome-driven-software-execution
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Replit Missions coordinates agent swarms around an outcome, spending cap, approv
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams]] · [[2026-09-10-cursor-ships-projects-one-coordinator-agent-thousands-of-sub]] · [[2026-11-11-anthropic-study-finds-coordination-costs-when-users-delegate]] · [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag]] · [[2026-10-18-harness2-explores-agent-improvements-without-updating-model]]
+**Related:** [[2026-11-18-replit-makes-fabric-and-teams-integrations-generally-availab]] · [[2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams]] · [[2026-09-10-cursor-ships-projects-one-coordinator-agent-thousands-of-sub]] · [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag]]
 <!-- graph:end -->

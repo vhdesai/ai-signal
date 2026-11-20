@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-30-intel-shares-fall-as-ai-demand-for-components-pushes-up-pc-c
 - 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
-- 2026-10-31-intel-guided-q4-revenue-to-15-16-billion-versus-about-17-bil
+- 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
 embedding_id: 2026-10-30-intel-plunges-as-ai-demand-for-memory-squeezes-the-pc-market
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Intel lost 29% after warning of disappointing fourth-quarter revenue and saying 
 
 **Entities:** [[Intel]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-10-30-october-30-2026-wall-street-journal]] · [[2026-10-30-intel-shares-fall-as-ai-demand-for-components-pushes-up-pc-c]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-10-31-intel-guided-q4-revenue-to-15-16-billion-versus-about-17-bil]]
+**Related:** [[2026-10-30-october-30-2026-wall-street-journal]] · [[2026-10-30-intel-shares-fall-as-ai-demand-for-components-pushes-up-pc-c]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin]]
 <!-- graph:end -->

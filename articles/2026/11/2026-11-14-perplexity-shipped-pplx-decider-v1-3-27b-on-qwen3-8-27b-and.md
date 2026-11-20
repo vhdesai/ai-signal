@@ -23,7 +23,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur
-- 2026-11-13-perplexity-releases-open-weight-decider-v1-3-models-that-ret
 - 2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and
 embedding_id: 2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and
 event_name: ''
@@ -38,5 +37,5 @@ Perplexity shipped pplx-decider-v1.3 (27B, on Qwen3.8-27B) and a distilled 4B Fl
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur]] · [[2026-11-13-perplexity-releases-open-weight-decider-v1-3-models-that-ret]] · [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and]]
+**Related:** [[2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur]] · [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and]]
 <!-- graph:end -->

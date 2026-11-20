@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via
-- 2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads
 - 2026-11-17-consumers-turn-to-chatgpt-claude-and-gemini-over-bank-chatbo
 - 2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma
+- 2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads
 embedding_id: 2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Binance launched Agent OS, allowing AI agents built with ChatGPT, Claude Code, a
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via]] · [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads]] · [[2026-11-17-consumers-turn-to-chatgpt-claude-and-gemini-over-bank-chatbo]] · [[2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma]]
+**Related:** [[2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via]] · [[2026-11-17-consumers-turn-to-chatgpt-claude-and-gemini-over-bank-chatbo]] · [[2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma]] · [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads]]
 <!-- graph:end -->

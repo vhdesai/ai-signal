@@ -17,9 +17,13 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-11-14-jure-leskovec-s-snap-group-at-stanford-released-memorilla-a
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-11-13-november-14-2026-marktechpost
+- 2026-11-14-jure-leskovec-s-snap-group-at-stanford-released-memorilla-a
+- 2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie
+- 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 embedding_id: 2026-11-14-stanford-s-memorilla-gives-a-frozen-llm-an-entire-document-s
 event_name: ''
 ---
@@ -32,5 +36,5 @@ Jure Leskovec's SNAP group at Stanford released Memorilla, a 194-million-paramet
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-11-14-jure-leskovec-s-snap-group-at-stanford-released-memorilla-a]]
+**Related:** [[2026-11-13-november-14-2026-marktechpost]] · [[2026-11-14-jure-leskovec-s-snap-group-at-stanford-released-memorilla-a]] · [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]] · [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]]
 <!-- graph:end -->

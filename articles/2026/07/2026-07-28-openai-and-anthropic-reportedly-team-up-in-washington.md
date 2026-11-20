@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
-- 2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
+- 2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated
 embedding_id: 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information reports that OpenAI and Anthropic are quietly teaming up in Wash
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
+**Related:** [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated]]
 <!-- graph:end -->

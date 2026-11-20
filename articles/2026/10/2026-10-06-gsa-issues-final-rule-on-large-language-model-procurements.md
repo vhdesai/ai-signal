@@ -19,9 +19,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based
 - 2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio
 - 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
+- 2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based
 - 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
 embedding_id: 2026-10-06-gsa-issues-final-rule-on-large-language-model-procurements
 event_name: ''
@@ -35,5 +35,5 @@ The Government Contracts Legal Forum reported that the U.S. General Services Adm
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based]] · [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]] · [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]]
+**Related:** [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]] · [[2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based]] · [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]]
 <!-- graph:end -->

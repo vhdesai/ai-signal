@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke
 - 2026-11-18-november-17-2026-business-insider
 - 2026-11-17-november-16-2026-the-information
-- 2026-11-14-major-nvidia-shareholders-urge-the-board-not-to-rush-huang-s
+- 2026-11-19-november-18-2026-wall-street-journal-2
 embedding_id: 2026-11-15-november-14-2026-the-information
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Altimeter's Brad Gerstner and Atreides' Gavin Baker urged Nvidia's board to run 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke]] · [[2026-11-18-november-17-2026-business-insider]] · [[2026-11-17-november-16-2026-the-information]] · [[2026-11-14-major-nvidia-shareholders-urge-the-board-not-to-rush-huang-s]]
+**Related:** [[2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke]] · [[2026-11-18-november-17-2026-business-insider]] · [[2026-11-17-november-16-2026-the-information]] · [[2026-11-19-november-18-2026-wall-street-journal-2]]
 <!-- graph:end -->

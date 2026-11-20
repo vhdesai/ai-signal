@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-06-november-6-2026-reuters
 - 2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-as-neoclouds-hea
-- 2026-11-06-microsoft-is-ending-its-2023-deal-to-rent-servers-from-oracl
-- 2026-11-12-nebius-plans-40-billion-of-2027-capex-as-its-microsoft-capac
+- 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
 - 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
+- 2026-08-27-nvidia-pauses-revenue-sharing-deals-with-ai-cloud-providers
 embedding_id: 2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Microsoft opted not to renew a deal to rent AI cloud capacity from Oracle and is
 
 **Entities:** [[Microsoft]] · [[NVIDIA]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-06-november-6-2026-reuters]] · [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-as-neoclouds-hea]] · [[2026-11-06-microsoft-is-ending-its-2023-deal-to-rent-servers-from-oracl]] · [[2026-11-12-nebius-plans-40-billion-of-2027-capex-as-its-microsoft-capac]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]]
+**Related:** [[2026-11-06-november-6-2026-reuters]] · [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-as-neoclouds-hea]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]] · [[2026-08-27-nvidia-pauses-revenue-sharing-deals-with-ai-cloud-providers]]
 <!-- graph:end -->

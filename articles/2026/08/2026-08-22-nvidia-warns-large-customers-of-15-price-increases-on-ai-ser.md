@@ -24,7 +24,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs
-related_article_ids: []
+related_article_ids:
+- 2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s
 embedding_id: 2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser
 event_name: ''
 ---
@@ -39,4 +40,5 @@ Nvidia has told its largest customers that AI server prices will rise by more th
 **Entities:** [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs]]
+**Related:** [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]]
 <!-- graph:end -->

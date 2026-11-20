@@ -6,7 +6,7 @@ date: '2026-07-04'
 source: WinBuzzer
 url_original: https://winbuzzer.com/2026/07/04/microsoft-plans-copilot-app-merge-to-prove-its-value-xcxwbn/
 url_canonical: https://winbuzzer.com/2026/07/04/microsoft-plans-copilot-app-merge-to-prove-its-value-xcxwbn/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 42c208fd6a7ae81fc585a7496197fb44efd89c0356b3ed4e949ec4722f3bf3b6
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
-- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
 - 2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-a-persistent
+- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
 embedding_id: 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft is reportedly preparing a Copilot overhaul that would consolidate its 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-a-persistent]]
+**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-a-persistent]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]]
 <!-- graph:end -->

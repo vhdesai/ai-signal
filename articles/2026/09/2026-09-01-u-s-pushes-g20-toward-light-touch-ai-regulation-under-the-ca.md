@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-03-g20-endorses-non-binding-carolina-principles-for-light-touch
-- 2026-09-03-g20-endorses-us-backed-carolina-principles-for-sector-based
 - 2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based
+- 2026-09-03-g20-endorses-us-backed-carolina-principles-for-sector-based
 - 2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc
 - 2026-09-02-at-the-g20-the-us-pushes-lighter-ai-regulation-as-the-eu-adv
 embedding_id: 2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca
@@ -41,5 +41,5 @@ At a G20 gathering in North Carolina, U.S. officials promoted the “Carolina Pr
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-03-g20-endorses-non-binding-carolina-principles-for-light-touch]] · [[2026-09-03-g20-endorses-us-backed-carolina-principles-for-sector-based]] · [[2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based]] · [[2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc]] · [[2026-09-02-at-the-g20-the-us-pushes-lighter-ai-regulation-as-the-eu-adv]]
+**Related:** [[2026-09-03-g20-endorses-non-binding-carolina-principles-for-light-touch]] · [[2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based]] · [[2026-09-03-g20-endorses-us-backed-carolina-principles-for-sector-based]] · [[2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc]] · [[2026-09-02-at-the-g20-the-us-pushes-lighter-ai-regulation-as-the-eu-adv]]
 <!-- graph:end -->

@@ -20,9 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac
 - 2026-05-21-anthropic-blackstone-h-f-jv-makes-first-acquisition-fraction
 - 2026-10-29-october-29-2026-wall-street-journal
-- 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
+- 2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s
 embedding_id: 2026-11-16-weil-gotshal-quietly-incubated-kepler-an-ai-native-challenge
 event_name: ''
 ---
@@ -35,5 +36,5 @@ In the months before Weil, Gotshal & Manges dissolved, a small team at the firm 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-anthropic-blackstone-h-f-jv-makes-first-acquisition-fraction]] · [[2026-10-29-october-29-2026-wall-street-journal]] · [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]]
+**Related:** [[2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac]] · [[2026-05-21-anthropic-blackstone-h-f-jv-makes-first-acquisition-fraction]] · [[2026-10-29-october-29-2026-wall-street-journal]] · [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s]]
 <!-- graph:end -->

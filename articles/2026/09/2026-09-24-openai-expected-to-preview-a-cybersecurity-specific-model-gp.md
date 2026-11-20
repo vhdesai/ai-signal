@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Gizmodo / Fortune]
 url_original: https://gizmodo.com/openai-may-announce-new-security-model-gpt-6-cyber-within-days-2000817143
 url_canonical: https://gizmodo.com/openai-may-announce-new-security-model-gpt-6-cyber-within-days-2000817143
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-25_065721_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: c1c7a19699c97cd8e2d373ff59e9367882bf021d2ad204a51463abbf65217944
@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and
+- 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
 - 2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi
 - 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
-- 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
 embedding_id: 2026-09-24-openai-expected-to-preview-a-cybersecurity-specific-model-gp
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI is expected to preview GPT-6 Cyber, a security-focused model, as soon as 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and]] · [[2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]] · [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne]]
+**Related:** [[2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and]] · [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne]] · [[2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-03-september-4-2026-the-information-2
 - 2026-09-05-nvidia-s-hugging-face-deal-keeps-reshaping-the-open-model-su
-- 2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op
+- 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
 embedding_id: 2026-09-03-september-4-2026-the-information
 event_name: ''
 ---
@@ -37,5 +37,5 @@ NVIDIA agreed to acquire Hugging Face for approximately $12.93 billion; the agre
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-09-03-september-4-2026-the-information-2]] · [[2026-09-05-nvidia-s-hugging-face-deal-keeps-reshaping-the-open-model-su]] · [[2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op]]
+**Related:** [[2026-09-03-september-4-2026-the-information-2]] · [[2026-09-05-nvidia-s-hugging-face-deal-keeps-reshaping-the-open-model-su]] · [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control]]
 <!-- graph:end -->

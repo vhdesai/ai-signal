@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
 - 2026-05-01-google-research-catalyzing-scientific-impact-through-global
 - 2026-08-31-planetary-prediction-engine-automating-global-models-via-ear
-- 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
+- 2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a
 embedding_id: 2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google Research published new work applying algorithmic and data-modeling method
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest]] · [[2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-08-31-planetary-prediction-engine-automating-global-models-via-ear]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]]
+**Related:** [[2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest]] · [[2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-08-31-planetary-prediction-engine-automating-global-models-via-ear]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]]
 <!-- graph:end -->

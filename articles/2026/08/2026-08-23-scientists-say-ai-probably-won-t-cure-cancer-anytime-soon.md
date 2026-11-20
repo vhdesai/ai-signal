@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-the-information-questions-near-term-claims-that-ai-will-cure
-- 2026-08-23-scientists-push-back-ai-probably-won-t-cure-cancer-anytime-s
 - 2026-08-22-ai-promises-to-cure-cancer-scientists-feel-existential-dread
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 - 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
+- 2026-07-20-ai-is-supercharging-drug-development
 embedding_id: 2026-08-23-scientists-say-ai-probably-won-t-cure-cancer-anytime-soon
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Prominent researchers caution that AI’s contribution to cancer treatment remai
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-22-the-information-questions-near-term-claims-that-ai-will-cure]] · [[2026-08-23-scientists-push-back-ai-probably-won-t-cure-cancer-anytime-s]] · [[2026-08-22-ai-promises-to-cure-cancer-scientists-feel-existential-dread]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t]]
+**Related:** [[2026-08-22-the-information-questions-near-term-claims-that-ai-will-cure]] · [[2026-08-22-ai-promises-to-cure-cancer-scientists-feel-existential-dread]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t]] · [[2026-07-20-ai-is-supercharging-drug-development]]
 <!-- graph:end -->

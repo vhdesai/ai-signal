@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
 - 2026-09-23-nvidia-and-partners-showcase-production-scale-ai-across-sout
+- 2026-09-24-google-openai-and-anthropic-advance-standards-authority-for
 - 2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership
 - 2026-06-22-google-deepmind-and-a24-announce-research-partnership
-- 2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect
 embedding_id: 2026-05-21-google-deepmind-establishes-singapore-national-ai-partnershi
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google DeepMind announced a new national AI partnership with Singapore focused o
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]] · [[2026-09-23-nvidia-and-partners-showcase-production-scale-ai-across-sout]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]] · [[2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect]]
+**Related:** [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]] · [[2026-09-23-nvidia-and-partners-showcase-production-scale-ai-across-sout]] · [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]]
 <!-- graph:end -->

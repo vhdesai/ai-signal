@@ -1,17 +1,24 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1195
+member_count: 1202
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1195 connected article(s).
+> Auto-generated entity hub. 1202 connected article(s).
 
+- `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-19` [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard|MIT microrobot brings sensing and flight computation onboard]]
+- `2026-11-18` [[2026-11-18-november-19-2026-pitchbook|[November 19, 2026] · [PitchBook]]]
 - `2026-11-18` [[2026-11-18-november-17-2026-microsoft-ai|[November 17, 2026] · [Microsoft AI]]]
+- `2026-11-18` [[2026-11-18-replit-makes-fabric-and-teams-integrations-generally-availab|Replit makes Fabric and Teams integrations generally available]]
 - `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-18` [[2026-11-18-microsoft-adds-mai-code-2-and-code-2-flash-to-the-coding-mod|Microsoft adds MAI Code 2 and Code 2 Flash to the coding-model mix]]
+- `2026-11-18` [[2026-11-18-house-panel-questions-reported-microsoft-bytedance-ai-discus|House panel questions reported Microsoft–ByteDance AI discussions]]
 - `2026-11-18` [[2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i|ByteDance nears a $500 million Azure deal for OpenAI models, irking OpenAI]]
 - `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai
 - 2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc
 - 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
+- 2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi
 - 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
-- 2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7
 embedding_id: 2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A Carnegie China study finds the share of top AI researchers working in China ro
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai]] · [[2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]]
+**Related:** [[2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai]] · [[2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]] · [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]]
 <!-- graph:end -->

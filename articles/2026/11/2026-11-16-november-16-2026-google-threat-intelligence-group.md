@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-23-security-leaders-warn-of-faster-flaw-discovery
 - 2026-11-16-november-16-2026-bleepingcomputer
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d
+- 2026-09-04-september-5-2026-bleepingcomputer
 embedding_id: 2026-11-16-november-16-2026-google-threat-intelligence-group
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Google Threat Intelligence Group reported finding exploit_agent on an exposed th
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]] · [[2026-11-16-november-16-2026-bleepingcomputer]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d]]
+**Related:** [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]] · [[2026-11-16-november-16-2026-bleepingcomputer]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-09-04-september-5-2026-bleepingcomputer]]
 <!-- graph:end -->

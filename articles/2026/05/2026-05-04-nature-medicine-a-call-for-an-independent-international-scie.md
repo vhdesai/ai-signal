@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-tool-past
 - 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
 - 2026-09-23-nature-medicine-publishes-practical-lessons-from-scaling-cli
-- 2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai
 - 2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind
+- 2026-10-11-ai-s-quiet-safety-gatekeepers-step-into-the-spotlight
 embedding_id: 2026-05-04-nature-medicine-a-call-for-an-independent-international-scie
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Mateen et al. argue current AI governance is captured by industry and propose an
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-tool-past]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]] · [[2026-09-23-nature-medicine-publishes-practical-lessons-from-scaling-cli]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind]]
+**Related:** [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-tool-past]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]] · [[2026-09-23-nature-medicine-publishes-practical-lessons-from-scaling-cli]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind]] · [[2026-10-11-ai-s-quiet-safety-gatekeepers-step-into-the-spotlight]]
 <!-- graph:end -->

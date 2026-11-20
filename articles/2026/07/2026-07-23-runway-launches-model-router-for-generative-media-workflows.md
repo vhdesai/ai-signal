@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g
-- 2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti
 - 2026-08-20-ramp-launches-ai-model-router-continued
 - 2026-08-20-ramp-launches-its-own-ai-model-router-called-router
+- 2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti
 - 2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str
 embedding_id: 2026-07-23-runway-launches-model-router-for-generative-media-workflows
 event_name: ''
@@ -38,5 +38,5 @@ Runway launched Media Router, a developer tool that automatically chooses image,
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g]] · [[2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti]] · [[2026-08-20-ramp-launches-ai-model-router-continued]] · [[2026-08-20-ramp-launches-its-own-ai-model-router-called-router]] · [[2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str]]
+**Related:** [[2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g]] · [[2026-08-20-ramp-launches-ai-model-router-continued]] · [[2026-08-20-ramp-launches-its-own-ai-model-router-called-router]] · [[2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti]] · [[2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str]]
 <!-- graph:end -->

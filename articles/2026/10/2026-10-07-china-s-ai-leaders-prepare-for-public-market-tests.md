@@ -22,9 +22,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-- 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b
+- 2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new
 embedding_id: 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 event_name: ''
 ---
@@ -38,5 +37,5 @@ PitchBook highlighted reports that Moonshot AI and DeepSeek may pursue IPOs next
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b]]
+**Related:** [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new]]
 <!-- graph:end -->

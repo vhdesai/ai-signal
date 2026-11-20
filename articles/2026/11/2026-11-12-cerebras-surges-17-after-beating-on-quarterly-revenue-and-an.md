@@ -23,9 +23,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not
-- 2026-11-14-november-12-2026-techcrunch
 - 2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a
+- 2026-11-14-november-12-2026-techcrunch
+- 2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not
 - 2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl
 - 2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch
 embedding_id: 2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an
@@ -41,5 +41,5 @@ Cerebras disclosed a Microsoft agreement alongside quarterly results that exceed
 
 **Entities:** [[Cerebras]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not]] · [[2026-11-14-november-12-2026-techcrunch]] · [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a]] · [[2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl]] · [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch]]
+**Related:** [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a]] · [[2026-11-14-november-12-2026-techcrunch]] · [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not]] · [[2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl]] · [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch]]
 <!-- graph:end -->

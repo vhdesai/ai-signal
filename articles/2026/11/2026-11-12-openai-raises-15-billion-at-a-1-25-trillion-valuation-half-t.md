@@ -27,7 +27,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b
-- 2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as
+- 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou
 embedding_id: 2026-11-12-openai-raises-15-billion-at-a-1-25-trillion-valuation-half-t
@@ -43,5 +43,5 @@ CNBC's David Faber reported that OpenAI first sought up to $30 billion at a $1.4
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b]] · [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou]]
+**Related:** [[2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b]] · [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou]]
 <!-- graph:end -->

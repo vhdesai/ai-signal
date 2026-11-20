@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
+- 2026-11-18-replit-makes-fabric-and-teams-integrations-generally-availab
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 - 2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy
 - 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
@@ -35,5 +36,5 @@ Replit's latest platform update delivers Visual Editor layout controls for drag-
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy]] · [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]]
+**Related:** [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-11-18-replit-makes-fabric-and-teams-integrations-generally-availab]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy]] · [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]]
 <!-- graph:end -->

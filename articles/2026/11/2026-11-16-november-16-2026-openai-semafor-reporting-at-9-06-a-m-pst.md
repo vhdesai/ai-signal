@@ -5,7 +5,7 @@ date: '2026-11-16'
 source: 'Timestamped syndication: Semafor via Yahoo Tech'
 url_original: https://openai.com/index/expanding-chatgpt-for-academic-researchers/
 url_canonical: https://openai.com/index/expanding-chatgpt-for-academic-researchers/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-17_060438_Inbox_Daily AI News Digest - November
   17, 2026.md
 content_hash: 2747d020320c9b28dda7ba9a052757b04332f7c4624a85d769c8889324a4e026

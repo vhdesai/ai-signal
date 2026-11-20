@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-09-november-9-2026-nvidia-blog
+- 2026-11-18-openai-reports-model-written-optimizations-entering-chip-des
 - 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
-- 2026-11-06-nvidia-details-reshard-for-faster-reinforcement-learning-wei
 embedding_id: 2026-11-09-nvidia-reports-few-demonstration-robotics-results-with-gr00t
 event_name: ''
 ---
@@ -37,5 +37,5 @@ NVIDIA introduced GR00T 2 at CoRL and reports average success of 71% across 50 t
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-11-09-november-9-2026-nvidia-blog]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-11-06-nvidia-details-reshard-for-faster-reinforcement-learning-wei]]
+**Related:** [[2026-11-09-november-9-2026-nvidia-blog]] · [[2026-11-18-openai-reports-model-written-optimizations-entering-chip-des]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]]
 <!-- graph:end -->

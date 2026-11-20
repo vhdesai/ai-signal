@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-05-agility-robotics-is-going-public-via-spac
 - 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
 - 2026-07-17-agility-robotics-opens-new-training-center-near-tesla-s-fact
-- 2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte
+- 2026-11-11-november-11-2026-the-information
 embedding_id: 2026-11-08-agility-robotics-is-the-first-us-humanoid-robot-company-to-g
 event_name: ''
 ---
@@ -43,5 +43,5 @@ On Thursday, CEO Peggy Johnson took Agility public through a merger with a speci
 
 **Entities:** [[Amazon]] · [[Tesla]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-11-08-november-8-2026-business-insider]] · [[2026-07-05-agility-robotics-is-going-public-via-spac]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]] · [[2026-07-17-agility-robotics-opens-new-training-center-near-tesla-s-fact]] · [[2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte]]
+**Related:** [[2026-11-08-november-8-2026-business-insider]] · [[2026-07-05-agility-robotics-is-going-public-via-spac]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]] · [[2026-07-17-agility-robotics-opens-new-training-center-near-tesla-s-fact]] · [[2026-11-11-november-11-2026-the-information]]
 <!-- graph:end -->

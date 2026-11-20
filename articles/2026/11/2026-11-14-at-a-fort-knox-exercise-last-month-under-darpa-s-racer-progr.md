@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa
 - 2026-09-11-purdue-ai-racing-sets-autonomous-track-record-at-laguna-seca
+- 2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard
 - 2026-08-30-the-hidden-human-labor-behind-robotaxi-autonomy
-- 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 embedding_id: 2026-11-14-at-a-fort-knox-exercise-last-month-under-darpa-s-racer-progr
 event_name: ''
 ---
@@ -34,5 +34,5 @@ At a Fort Knox exercise last month under DARPA's RACER program, four uncrewed gr
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa]] · [[2026-09-11-purdue-ai-racing-sets-autonomous-track-record-at-laguna-seca]] · [[2026-08-30-the-hidden-human-labor-behind-robotaxi-autonomy]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]]
+**Related:** [[2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa]] · [[2026-09-11-purdue-ai-racing-sets-autonomous-track-record-at-laguna-seca]] · [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard]] · [[2026-08-30-the-hidden-human-labor-behind-robotaxi-autonomy]]
 <!-- graph:end -->

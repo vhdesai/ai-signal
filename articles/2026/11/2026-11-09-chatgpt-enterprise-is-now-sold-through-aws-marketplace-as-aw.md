@@ -6,7 +6,7 @@ date: '2026-11-09'
 source: '[OpenAI Blog]'
 url_original: https://openai.com/index/chatgpt-enterprise-aws-marketplace
 url_canonical: https://openai.com/index/chatgpt-enterprise-aws-marketplace
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-10_061512_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 71b828b5867756c13938defe965f361231d06068704496ca0b5f78baeac1c897

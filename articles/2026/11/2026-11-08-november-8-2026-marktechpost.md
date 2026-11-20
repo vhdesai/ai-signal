@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-a-long-open
 - 2026-05-18-openai-expanded-its-codex-agentic-coding-assistant-to-mobile
 - 2026-11-08-aws-engineer-says-the-key-control-for-coding-agents-is-the-l
-- 2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-the-courtad
+- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 embedding_id: 2026-11-08-november-8-2026-marktechpost
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google open-sourced its Elephant-Goldfish Model plugin for Antigravity, Claude C
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-11-08-google-s-elephant-goldfish-plugin-makes-coding-agents-write]] · [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-a-long-open]] · [[2026-05-18-openai-expanded-its-codex-agentic-coding-assistant-to-mobile]] · [[2026-11-08-aws-engineer-says-the-key-control-for-coding-agents-is-the-l]] · [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-the-courtad]]
+**Related:** [[2026-11-08-google-s-elephant-goldfish-plugin-makes-coding-agents-write]] · [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-a-long-open]] · [[2026-05-18-openai-expanded-its-codex-agentic-coding-assistant-to-mobile]] · [[2026-11-08-aws-engineer-says-the-key-control-for-coding-agents-is-the-l]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
 <!-- graph:end -->

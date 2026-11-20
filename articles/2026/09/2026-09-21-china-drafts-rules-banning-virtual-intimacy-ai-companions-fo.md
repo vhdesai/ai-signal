@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-china-drafts-rules-banning-virtual-intimacy-and-ai-companion
 - 2026-09-18-eu-kids-act-would-switch-ai-companions-off-by-default-for-al
-- 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-al
 - 2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1
+- 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-al
 embedding_id: 2026-09-21-china-drafts-rules-banning-virtual-intimacy-ai-companions-fo
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Cyberspace Administration of China published draft rules — "Ensuring minor
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-21-china-drafts-rules-banning-virtual-intimacy-and-ai-companion]] · [[2026-09-18-eu-kids-act-would-switch-ai-companions-off-by-default-for-al]] · [[2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-al]] · [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1]]
+**Related:** [[2026-09-21-china-drafts-rules-banning-virtual-intimacy-and-ai-companion]] · [[2026-09-18-eu-kids-act-would-switch-ai-companions-off-by-default-for-al]] · [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1]] · [[2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-al]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-23-perplexity-released-bumblebee-an-open-source-read-only-suppl
 - 2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive
 - 2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file
-- 2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur
 - 2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b
+- 2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and
 embedding_id: 2026-05-23-perplexity-open-sources-bumblebee-supply-chain-scanner
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Perplexity released Bumblebee, the internal security tool it uses to harden the 
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-perplexity-released-bumblebee-an-open-source-read-only-suppl]] · [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive]] · [[2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file]] · [[2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur]] · [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b]]
+**Related:** [[2026-05-23-perplexity-released-bumblebee-an-open-source-read-only-suppl]] · [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive]] · [[2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file]] · [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b]] · [[2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and]]
 <!-- graph:end -->

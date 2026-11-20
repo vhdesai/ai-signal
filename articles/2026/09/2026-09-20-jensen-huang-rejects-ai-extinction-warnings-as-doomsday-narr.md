@@ -22,7 +22,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an
-related_article_ids: []
+related_article_ids:
+- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-ai-s
 embedding_id: 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr
 event_name: ''
 ---
@@ -37,4 +38,5 @@ Nvidia CEO Jensen Huang told CBS News there is "0%" chance AI ends the world by 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
 **Canonical:** [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an]]
+**Related:** [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-ai-s]]
 <!-- graph:end -->

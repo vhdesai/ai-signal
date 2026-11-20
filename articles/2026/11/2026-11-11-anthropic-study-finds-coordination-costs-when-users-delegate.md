@@ -17,13 +17,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-11-11-anthropic-finds-agent-teams-acting-for-separate-users-underp
-- 2026-11-06-anthropic-examines-offline-consolidation-for-agent-memory
-- 2026-08-28-anthropic-reports-automated-researchers-can-mitigate-alignme
-- 2026-10-17-anthropic-reports-a-shift-in-hiring-and-coordination-demands
+dedupe_status: duplicate
+canonical_article_id: 2026-11-11-anthropic-finds-agent-teams-acting-for-separate-users-underp
+related_article_ids: []
 embedding_id: 2026-11-11-anthropic-study-finds-coordination-costs-when-users-delegate
 event_name: ''
 ---
@@ -37,5 +33,5 @@ Anthropic Fellows research compared a shared coordinating agent with teams of ag
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-11-anthropic-finds-agent-teams-acting-for-separate-users-underp]] · [[2026-11-06-anthropic-examines-offline-consolidation-for-agent-memory]] · [[2026-08-28-anthropic-reports-automated-researchers-can-mitigate-alignme]] · [[2026-10-17-anthropic-reports-a-shift-in-hiring-and-coordination-demands]]
+**Canonical:** [[2026-11-11-anthropic-finds-agent-teams-acting-for-separate-users-underp]]
 <!-- graph:end -->

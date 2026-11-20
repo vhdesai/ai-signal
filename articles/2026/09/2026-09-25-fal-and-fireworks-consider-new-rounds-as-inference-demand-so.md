@@ -21,7 +21,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
-related_article_ids: []
+related_article_ids:
+- 2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so
 embedding_id: 2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so
 event_name: ''
 ---
@@ -36,4 +37,5 @@ The Information reports Fal — which specializes in inference for video and ima
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]]
+**Related:** [[2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so]]
 <!-- graph:end -->

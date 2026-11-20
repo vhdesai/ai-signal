@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s
 - 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
+- 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
 - 2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via
-- 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
 embedding_id: 2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AP News reports Beijing has issued a formal diplomatic rebuke of Anthropic CEO D
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]] · [[2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via]] · [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code]]
+**Related:** [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]] · [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]] · [[2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via]]
 <!-- graph:end -->

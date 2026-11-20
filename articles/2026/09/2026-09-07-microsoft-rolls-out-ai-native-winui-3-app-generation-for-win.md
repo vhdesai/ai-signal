@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-06-microsoft-pushes-ai-agents-that-write-native-winui-3-windows
 - 2026-09-04-microsoft-announces-project-zenith-a-ready-to-code-on-device
 - 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
-- 2026-09-12-gemini-desktop-app-arrives-on-windows-10-and-11
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
 embedding_id: 2026-09-07-microsoft-rolls-out-ai-native-winui-3-app-generation-for-win
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft is enabling AI-driven creation of native WinUI 3 desktop applications 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-07-microsoft-s-project-zenith-brings-ai-generated-native-winui]] · [[2026-09-06-microsoft-pushes-ai-agents-that-write-native-winui-3-windows]] · [[2026-09-04-microsoft-announces-project-zenith-a-ready-to-code-on-device]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]] · [[2026-09-12-gemini-desktop-app-arrives-on-windows-10-and-11]]
+**Related:** [[2026-09-07-microsoft-s-project-zenith-brings-ai-generated-native-winui]] · [[2026-09-06-microsoft-pushes-ai-agents-that-write-native-winui-3-windows]] · [[2026-09-04-microsoft-announces-project-zenith-a-ready-to-code-on-device]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]]
 <!-- graph:end -->

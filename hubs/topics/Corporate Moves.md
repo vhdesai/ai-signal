@@ -1,13 +1,25 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5521
+member_count: 5542
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5521 connected article(s).
+> Auto-generated topic hub. 5542 connected article(s).
 
+- `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-19` [[2026-11-19-november-18-2026-wall-street-journal-2|[November 18, 2026] · [Wall Street Journal]]]
+- `2026-11-19` [[2026-11-19-november-18-2026-cnbc|[November 18, 2026] · [CNBC]]]
+- `2026-11-19` [[2026-11-19-the-remote-access-rule-bites-moonshot-scraps-a-150-million-i|The remote-access rule bites: Moonshot scraps a $150 million Indonesia deal and Tencent says it sets China back]]
+- `2026-11-19` [[2026-11-19-openai-says-its-models-improved-amd-s-flagship-gpu-design-by|OpenAI says its models improved AMD's flagship GPU design by up to 14% and shrank its own Jalapeno chip]]
+- `2026-11-19` [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard|MIT microrobot brings sensing and flight computation onboard]]
+- `2026-11-19` [[2026-11-19-anthropic-pushes-cowork-managed-agents-and-deep-discounts-to|Anthropic pushes Cowork, Managed Agents and deep discounts to grow beyond coding]]
+- `2026-11-19` [[2026-11-19-anthropic-hires-a-400-000-a-year-natural-gas-lead-as-off-gri|Anthropic hires a $400,000-a-year natural-gas lead as off-grid data centers drive up emissions]]
+- `2026-11-19` [[2026-11-19-alibaba-reports-accelerating-ai-cloud-growth-alongside-heavy|Alibaba reports accelerating AI-cloud growth alongside heavy investment]]
+- `2026-11-18` [[2026-11-18-november-19-2026-pitchbook|[November 19, 2026] · [PitchBook]]]
+- `2026-11-18` [[2026-11-18-november-19-2026-dealbook|[November 19, 2026] · [DealBook]]]
+- `2026-11-18` [[2026-11-18-november-18-2026-wall-street-journal|[November 18, 2026] · [Wall Street Journal]]]
 - `2026-11-18` [[2026-11-18-november-18-2026-the-information-2|[November 18, 2026] · [The Information]]]
 - `2026-11-18` [[2026-11-18-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-18` [[2026-11-18-november-18-2026-pitchbook|[November 18, 2026] · [PitchBook]]]
@@ -16,11 +28,20 @@ member_count: 5521
 - `2026-11-18` [[2026-11-18-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
 - `2026-11-18` [[2026-11-18-texas-clears-spacex-s-1-456gw-supercomputer-power-plant-as-a|Texas clears SpaceX's 1.456GW supercomputer power plant as Abbott lifts a data-center permit freeze]]
 - `2026-11-18` [[2026-11-18-sensetime-reports-accelerating-revenue-and-generative-ai-act|SenseTime reports accelerating revenue and generative-AI activity]]
+- `2026-11-18` [[2026-11-18-replit-makes-fabric-and-teams-integrations-generally-availab|Replit makes Fabric and Teams integrations generally available]]
+- `2026-11-18` [[2026-11-18-openai-reports-model-written-optimizations-entering-chip-des|OpenAI reports model-written optimizations entering chip designs]]
 - `2026-11-18` [[2026-11-18-openai-and-le-figaro-combine-content-discovery-with-enterpri|OpenAI and Le Figaro combine content discovery with enterprise adoption]]
 - `2026-11-18` [[2026-11-18-nvidia-turns-disciplined-and-selective-on-the-investments-th|Nvidia turns 'disciplined and selective' on the investments that fueled the AI startup boom]]
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-mit-and-cornell-lift-detection-of-disguised-ai-text-from-27|MIT and Cornell lift detection of disguised AI text from 27% to 93% with test-time adaptation]]
+- `2026-11-18` [[2026-11-18-gemini-4-neon-sharpens-the-model-price-performance-contest|Gemini 4 Neon sharpens the model price-performance contest]]
 - `2026-11-18` [[2026-11-18-enterprises-put-a-leash-on-ai-spend-as-chief-ai-officers-str|Enterprises put a leash on AI spend as chief AI officers struggle for budget sway]]
+- `2026-11-18` [[2026-11-18-commerce-s-export-chief-rushed-nvidia-h200-licenses-to-china|Commerce's export chief rushed Nvidia H200 licenses to China over other agencies' objections]]
 - `2026-11-18` [[2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i|ByteDance nears a $500 million Azure deal for OpenAI models, irking OpenAI]]
+- `2026-11-18` [[2026-11-18-berkeley-rdi-s-cyberarena-makes-ai-agents-attack-and-defend|Berkeley RDI's CyberArena makes AI agents attack and defend live services, and solved challenges turn hard again]]
+- `2026-11-18` [[2026-11-18-anthropic-prices-its-offering-at-83-a-share|Anthropic prices its offering at $83 a share]]
+- `2026-11-18` [[2026-11-18-anthropic-prices-its-ipo-ahead-of-nasdaq-debut|Anthropic prices its IPO ahead of Nasdaq debut]]
 - `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]

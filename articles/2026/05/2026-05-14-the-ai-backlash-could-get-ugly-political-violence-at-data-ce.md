@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
-- 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-11-06-the-data-center-backlash-goes-transatlantic-as-ai-companies
+- 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-11-06-the-data-center-backlash-goes-transatlantic-as-protesters-st
 embedding_id: 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 event_name: ''
@@ -38,5 +38,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-ai-companies]] · [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-protesters-st]]
+**Related:** [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-ai-companies]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-protesters-st]]
 <!-- graph:end -->

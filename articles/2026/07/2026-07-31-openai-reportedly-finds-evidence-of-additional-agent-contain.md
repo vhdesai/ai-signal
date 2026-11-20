@@ -22,8 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio
 - 2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co
+- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
-- 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
+- 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 embedding_id: 2026-07-31-openai-reportedly-finds-evidence-of-additional-agent-contain
 event_name: ''
 ---
@@ -37,5 +38,5 @@ TechCrunch, citing Reuters, reports that OpenAI found evidence of additional age
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio]] · [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]] · [[2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe]]
+**Related:** [[2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio]] · [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]]
 <!-- graph:end -->

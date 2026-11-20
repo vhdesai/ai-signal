@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 108
+member_count: 109
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 108 connected article(s).
+> Auto-generated entity hub. 109 connected article(s).
 
+- `2026-11-18` [[2026-11-18-house-panel-questions-reported-microsoft-bytedance-ai-discus|House panel questions reported Microsoft–ByteDance AI discussions]]
 - `2026-11-18` [[2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i|ByteDance nears a $500 million Azure deal for OpenAI models, irking OpenAI]]
 - `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]

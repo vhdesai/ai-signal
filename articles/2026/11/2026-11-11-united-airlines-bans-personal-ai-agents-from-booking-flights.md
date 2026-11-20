@@ -27,7 +27,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-12-november-12-2026-wsj-pro-cybersecurity
-- 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
+- 2026-11-07-november-9-2026-business-insider
 embedding_id: 2026-11-11-united-airlines-bans-personal-ai-agents-from-booking-flights
 event_name: ''
 ---
@@ -41,5 +41,5 @@ United will block personal AI assistants such as Meta's Muse and OpenAI's Dots f
 
 **Entities:** [[Amazon]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-12-november-12-2026-wsj-pro-cybersecurity]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]]
+**Related:** [[2026-11-12-november-12-2026-wsj-pro-cybersecurity]] · [[2026-11-07-november-9-2026-business-insider]]
 <!-- graph:end -->

@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
 - 2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo
 - 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
-- 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
 embedding_id: 2026-10-02-deepmind-protein-watermarks-survive-the-first-binders-still
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Mixed Reality News documents the critical validation step for DeepMind's AI-prot
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki]] · [[2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]]
+**Related:** [[2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki]] · [[2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]]
 <!-- graph:end -->

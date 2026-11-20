@@ -22,8 +22,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
-- 2026-07-13-meituan-open-sources-vitabench-2-0-a-benchmark-for-long-term
+- 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
+- 2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g
 - 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 embedding_id: 2026-11-13-ai2-s-xybench-finds-leading-models-rarely-correct-users-mist
 event_name: ''
@@ -38,5 +38,5 @@ The Allen Institute for AI, with Carnegie Mellon, Nvidia and Johns Hopkins, rele
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-07-13-meituan-open-sources-vitabench-2-0-a-benchmark-for-long-term]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]]
+**Related:** [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]] · [[2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]]
 <!-- graph:end -->

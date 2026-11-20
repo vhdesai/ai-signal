@@ -28,8 +28,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-12-consumer-and-small-business-agents-start-spending-money-meta
 - 2026-11-13-november-12-2026-techcrunch
-- 2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy
-- 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
+- 2026-11-12-new-meta-expands-muse-s-business-calling-capability-to-paid
+- 2026-11-06-consumer-agents-become-persistent-and-marketplaces-build-the
 - 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
 embedding_id: 2026-11-12-agents-start-spending-money-and-making-calls-as-amazon-plans
 event_name: ''
@@ -44,5 +44,5 @@ Meta's Muse, with more than 10 million users, can now phone US businesses for pa
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-12-consumer-and-small-business-agents-start-spending-money-meta]] · [[2026-11-13-november-12-2026-techcrunch]] · [[2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]]
+**Related:** [[2026-11-12-consumer-and-small-business-agents-start-spending-money-meta]] · [[2026-11-13-november-12-2026-techcrunch]] · [[2026-11-12-new-meta-expands-muse-s-business-calling-capability-to-paid]] · [[2026-11-06-consumer-agents-become-persistent-and-marketplaces-build-the]] · [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]]
 <!-- graph:end -->

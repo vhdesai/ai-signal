@@ -23,8 +23,8 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim
 related_article_ids:
 - 2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op
-- 2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b
-- 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
+- 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
+- 2026-09-04-nvidia-to-acquire-hugging-face-for-roughly-13-billion
 embedding_id: 2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Wall Street Journal reported that Nvidia agreed to buy Hugging Face for $13 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim]]
-**Related:** [[2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op]] · [[2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control]]
+**Related:** [[2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op]] · [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-09-04-nvidia-to-acquire-hugging-face-for-roughly-13-billion]]
 <!-- graph:end -->

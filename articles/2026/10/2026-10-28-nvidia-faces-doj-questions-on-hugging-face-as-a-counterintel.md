@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-29-october-28-2026-cnbc
 - 2026-09-05-nvidia-s-hugging-face-deal-keeps-reshaping-the-open-model-su
+- 2026-09-03-september-4-2026-the-information
 embedding_id: 2026-10-28-nvidia-faces-doj-questions-on-hugging-face-as-a-counterintel
 event_name: ''
 ---
@@ -39,5 +40,5 @@ The Justice Department is asking how Nvidia's nearly $13 billion acquisition of 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
-**Related:** [[2026-10-29-october-28-2026-cnbc]] · [[2026-09-05-nvidia-s-hugging-face-deal-keeps-reshaping-the-open-model-su]]
+**Related:** [[2026-10-29-october-28-2026-cnbc]] · [[2026-09-05-nvidia-s-hugging-face-deal-keeps-reshaping-the-open-model-su]] · [[2026-09-03-september-4-2026-the-information]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a
 - 2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-geograp
-- 2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price
 embedding_id: 2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-cutting-agen
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic released two models: Fable 5.1, broadly available, and Mythos 5.1, res
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-geograp]] · [[2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price]]
+**Related:** [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a]] · [[2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-geograp]]
 <!-- graph:end -->

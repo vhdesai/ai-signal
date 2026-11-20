@@ -6,7 +6,7 @@ date: '2026-11-10'
 source: MIT News
 url_original: https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110
 url_canonical: https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-10_060826_Inbox_Daily AI News Digest - November
   10, 2026.md
 content_hash: 4a6795e4f1166d7455a145f84a993205c74b274385c973b35e5d8bb62ad2ccd0

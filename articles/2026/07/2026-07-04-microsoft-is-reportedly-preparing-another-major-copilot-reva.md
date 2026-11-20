@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
-- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
 - 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
+- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
 - 2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a
 embedding_id: 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
@@ -39,5 +39,5 @@ Microsoft is reportedly preparing another major Copilot revamp — targeted for 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a]]
+**Related:** [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a]]
 <!-- graph:end -->

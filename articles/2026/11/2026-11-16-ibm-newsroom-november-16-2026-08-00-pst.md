@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-08-12-ibm-and-together-ai-sign-240m-nvidia-powered-inference-deal
+- 2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors
 - 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
 - 2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf
 embedding_id: 2026-11-16-ibm-newsroom-november-16-2026-08-00-pst
@@ -39,5 +40,5 @@ IBM, Fermilab and NVIDIA outlined a proposed co-design environment that would co
 
 **Entities:** [[IBM]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-12-ibm-and-together-ai-sign-240m-nvidia-powered-inference-deal]] · [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]] · [[2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf]]
+**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-12-ibm-and-together-ai-sign-240m-nvidia-powered-inference-deal]] · [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors]] · [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]] · [[2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf]]
 <!-- graph:end -->

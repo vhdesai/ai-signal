@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-02-openai-signs-magnite-and-pubmatic-to-fill-unused-chatgpt-ad
 - 2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india
-- 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
 - 2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing
+- 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
 embedding_id: 2026-11-03-openai-signs-magnite-and-pubmatic-to-fill-unused-chatgpt-ad
 event_name: ''
 ---
@@ -35,5 +35,5 @@ OpenAI has signed deals letting advertisers buy ChatGPT placements through Magni
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-11-02-openai-signs-magnite-and-pubmatic-to-fill-unused-chatgpt-ad]] · [[2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india]] · [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev]] · [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing]]
+**Related:** [[2026-11-02-openai-signs-magnite-and-pubmatic-to-fill-unused-chatgpt-ad]] · [[2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india]] · [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing]] · [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev]]
 <!-- graph:end -->

@@ -25,7 +25,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua
-- 2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some
 - 2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 embedding_id: 2026-09-25-densityai-founded-a-year-ago-by-ex-tesla-dojo-leaders-nears
@@ -41,5 +40,5 @@ DensityAI, founded just a year ago by former leaders of Tesla’s Dojo supercomp
 
 **Entities:** [[Amazon]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua]] · [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some]] · [[2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]]
+**Related:** [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua]] · [[2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]]
 <!-- graph:end -->

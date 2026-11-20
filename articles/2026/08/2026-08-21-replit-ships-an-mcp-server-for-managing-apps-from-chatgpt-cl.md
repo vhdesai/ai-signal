@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
 - 2026-09-15-meta-ships-whatsapp-business-mcp-server-claude-cursor-codex
 - 2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins
-- 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
+- 2026-11-18-replit-makes-fabric-and-teams-integrations-generally-availab
 embedding_id: 2026-08-21-replit-ships-an-mcp-server-for-managing-apps-from-chatgpt-cl
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Replit released an MCP server that lets users create, inspect, update and publis
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-09-15-meta-ships-whatsapp-business-mcp-server-claude-cursor-codex]] · [[2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins]] · [[2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors]]
+**Related:** [[2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-09-15-meta-ships-whatsapp-business-mcp-server-claude-cursor-codex]] · [[2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins]] · [[2026-11-18-replit-makes-fabric-and-teams-integrations-generally-availab]]
 <!-- graph:end -->

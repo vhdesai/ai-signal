@@ -25,6 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-altman-and-amodei-brief-the-un-security-council-on-frontier
+- 2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in
 embedding_id: 2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Sam Altman and Dario Amodei — Altman in person, Amodei virtually — briefed t
 
 **Entities:** [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-23-altman-and-amodei-brief-the-un-security-council-on-frontier]]
+**Related:** [[2026-09-23-altman-and-amodei-brief-the-un-security-council-on-frontier]] · [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in]]
 <!-- graph:end -->

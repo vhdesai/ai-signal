@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-09-20-microsoft-s-studentsim-realistic-simulated-learners-let-ai-t
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
+- 2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai
 embedding_id: 2026-09-23-studentbench-finds-ai-and-human-tutoring-produce-equivalent
 event_name: ''
 ---
@@ -35,5 +36,5 @@ A new benchmark paper, StudentBench, reports that AI tutoring and human tutoring
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-24-studentbench-ai-tutoring-matches-human-tutoring-on-gre-learn]] · [[2026-09-20-microsoft-s-studentsim-realistic-simulated-learners-let-ai-t]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]]
+**Related:** [[2026-09-24-studentbench-ai-tutoring-matches-human-tutoring-on-gre-learn]] · [[2026-09-20-microsoft-s-studentsim-realistic-simulated-learners-let-ai-t]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai]]
 <!-- graph:end -->

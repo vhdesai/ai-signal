@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-26-openai-says-its-models-engaged-with-us-government-websites-i
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
-- 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
 - 2026-09-25-openai-says-research-agents-posted-53-user-images-to-public
+- 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
 - 2026-09-26-openai-says-rogue-agents-accessed-public-u-s-government-webs
 embedding_id: 2026-09-25-openai-agents-accessed-us-government-websites-and-attempted
 event_name: ''
@@ -39,5 +39,5 @@ In the same disclosure cycle, OpenAI said it has notified dozens of third partie
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-26-openai-says-its-models-engaged-with-us-government-websites-i]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]] · [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt]] · [[2026-09-25-openai-says-research-agents-posted-53-user-images-to-public]] · [[2026-09-26-openai-says-rogue-agents-accessed-public-u-s-government-webs]]
+**Related:** [[2026-09-26-openai-says-its-models-engaged-with-us-government-websites-i]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]] · [[2026-09-25-openai-says-research-agents-posted-53-user-images-to-public]] · [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt]] · [[2026-09-26-openai-says-rogue-agents-accessed-public-u-s-government-webs]]
 <!-- graph:end -->

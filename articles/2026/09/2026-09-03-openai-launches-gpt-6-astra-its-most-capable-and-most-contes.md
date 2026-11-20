@@ -24,8 +24,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-04-openai-releases-gpt-6-astra-and-keeps-initial-access-restric
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
+- 2026-09-04-openai-releases-gpt-6-astra-and-keeps-initial-access-restric
 - 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
 embedding_id: 2026-09-03-openai-launches-gpt-6-astra-its-most-capable-and-most-contes
 event_name: ''
@@ -40,5 +40,5 @@ OpenAI released Astra on Thursday, positioning it as "a new frontier on computer
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-openai-releases-gpt-6-astra-and-keeps-initial-access-restric]] · [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]] · [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne]]
+**Related:** [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]] · [[2026-09-04-openai-releases-gpt-6-astra-and-keeps-initial-access-restric]] · [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne]]
 <!-- graph:end -->

@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-pangram-s-max-spero-on-why-ai-detection-is-harder-than-real
+- 2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme
 - 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
-- 2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in
 embedding_id: 2026-07-29-pangram-raises-9-million-as-ai-content-floods-the-internet
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Pangram raised $9 million and launched Pangram 4, a new AI text-detection model,
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in]]
+**Related:** [[2026-09-02-pangram-s-max-spero-on-why-ai-detection-is-harder-than-real]] · [[2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]]
 <!-- graph:end -->

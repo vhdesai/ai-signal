@@ -24,8 +24,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-01-spacex-shakes-up-data-center-leadership-after-aggressive-bui
 - 2026-09-10-spacex-overhauls-data-center-build-out-under-new-rocket-engi
+- 2026-09-01-spacex-shakes-up-data-center-leadership-after-aggressive-bui
 - 2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 embedding_id: 2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten
@@ -41,5 +41,5 @@ The Information reports SpaceX has overhauled its data-center build-out plans, a
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-01-spacex-shakes-up-data-center-leadership-after-aggressive-bui]] · [[2026-09-10-spacex-overhauls-data-center-build-out-under-new-rocket-engi]] · [[2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]]
+**Related:** [[2026-09-10-spacex-overhauls-data-center-build-out-under-new-rocket-engi]] · [[2026-09-01-spacex-shakes-up-data-center-leadership-after-aggressive-bui]] · [[2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]]
 <!-- graph:end -->

@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i
 - 2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan
-- 2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni
+- 2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times
 embedding_id: 2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an
 event_name: ''
 ---
@@ -35,5 +35,5 @@ A day after the board accepted Jensen Huang's resignation and named CFO Colette 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Related:** [[2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i]] · [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan]] · [[2026-11-13-nvidia-s-succession-search-turns-to-arm-s-rene-haas-as-earni]]
+**Related:** [[2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i]] · [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan]] · [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times]]
 <!-- graph:end -->

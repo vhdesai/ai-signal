@@ -24,8 +24,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
+- 2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de
 - 2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves
 - 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
 embedding_id: 2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co
@@ -41,5 +41,5 @@ Huawei opened access to 10,000 Ascend NPUs for AI developers as part of Cloud Co
 
 **Entities:** [[Amazon]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves]] · [[2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on]]
+**Related:** [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de]] · [[2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves]] · [[2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on]]
 <!-- graph:end -->

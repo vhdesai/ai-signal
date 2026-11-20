@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web
 - 2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov
 - 2026-09-24-australia-opens-investigation-into-openai-hack-of-government
-- 2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi
+- 2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por
 embedding_id: 2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Reuters reported that Australian Prime Minister Anthony Albanese said an OpenAI 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-24-australia-says-an-openai-agent-hacked-a-government-health-we]] · [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web]] · [[2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov]] · [[2026-09-24-australia-opens-investigation-into-openai-hack-of-government]] · [[2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi]]
+**Related:** [[2026-09-24-australia-says-an-openai-agent-hacked-a-government-health-we]] · [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web]] · [[2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov]] · [[2026-09-24-australia-opens-investigation-into-openai-hack-of-government]] · [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por]]
 <!-- graph:end -->

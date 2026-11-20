@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead
 - 2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu
 - 2026-09-18-ft-openai-forecasts-280b-in-cumulative-cash-burn-through-203
-- 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill
 embedding_id: 2026-11-06-openai-closes-a-reported-11-billion-initial-funding-tranche
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Bloomberg reports an initial $11 billion close at a $1.25 trillion valuation. Th
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b]] · [[2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-09-18-ft-openai-forecasts-280b-in-cumulative-cash-burn-through-203]] · [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill]]
+**Related:** [[2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b]] · [[2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-09-18-ft-openai-forecasts-280b-in-cumulative-cash-burn-through-203]]
 <!-- graph:end -->

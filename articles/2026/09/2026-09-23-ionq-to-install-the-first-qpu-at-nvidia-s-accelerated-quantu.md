@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors
 - 2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi
 - 2026-05-27-nvidia-gtc-taipei-2026-preview-n1x-arm-laptop-soc-vera-rubin
 embedding_id: 2026-09-23-ionq-to-install-the-first-qpu-at-nvidia-s-accelerated-quantu
@@ -36,5 +37,5 @@ IonQ will place its Superion 256 system at NVIDIA's quantum research center, pai
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi]] · [[2026-05-27-nvidia-gtc-taipei-2026-preview-n1x-arm-laptop-soc-vera-rubin]]
+**Related:** [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors]] · [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi]] · [[2026-05-27-nvidia-gtc-taipei-2026-preview-n1x-arm-laptop-soc-vera-rubin]]
 <!-- graph:end -->

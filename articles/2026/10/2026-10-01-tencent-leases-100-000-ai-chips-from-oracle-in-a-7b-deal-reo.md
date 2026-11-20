@@ -28,6 +28,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-19-the-remote-access-rule-bites-moonshot-scraps-a-150-million-i
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 - 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
 - 2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and
@@ -44,5 +45,5 @@ Benzinga, Reuters, and Quartz confirm Tencent has signed a $7B lease with Oracle
 
 **Entities:** [[NVIDIA]] · [[Oracle]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]] · [[2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and]]
+**Related:** [[2026-11-19-the-remote-access-rule-bites-moonshot-scraps-a-150-million-i]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]] · [[2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and]]
 <!-- graph:end -->

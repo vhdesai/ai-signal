@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-17-november-18-2026-the-information
-- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu
-- 2026-08-26-bill-gates-warns-about-ai-risks
-- 2026-10-07-subject-daily-ai-news-digest-october-7-2026
-- 2026-10-06-subject-daily-ai-news-digest-october-6-2026
+- 2026-09-10-frontier-lab-researchers-escalate-calls-to-slow-development
+- 2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p
+- 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
+- 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
+- 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 embedding_id: 2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A sitting OpenAI board member publicly stated the company is not on track to mee
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-11-17-november-18-2026-the-information]] · [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu]] · [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]]
+**Related:** [[2026-09-10-frontier-lab-researchers-escalate-calls-to-slow-development]] · [[2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]] · [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]]
 <!-- graph:end -->

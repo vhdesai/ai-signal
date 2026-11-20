@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-19-vals-ai-a16z-backed-targets-becoming-the-neutral-gold-standa
+- 2026-11-08-november-7-2026-the-decoder
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation
-- 2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono
 embedding_id: 2026-09-19-vals-raises-40m-to-become-the-independent-standard-for-ai-be
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Vals AI, founded in 2024, raised a $40M Series A led by Andreessen Horowitz foll
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]] · [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]]
+**Related:** [[2026-09-19-vals-ai-a16z-backed-targets-becoming-the-neutral-gold-standa]] · [[2026-11-08-november-7-2026-the-decoder]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]]
 <!-- graph:end -->

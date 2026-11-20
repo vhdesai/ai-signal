@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr
 - 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
 - 2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor
+- 2026-11-18-openai-reports-model-written-optimizations-entering-chip-des
 - 2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo
-- 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
 embedding_id: 2026-09-22-china-pushes-miniaturized-han-xin-barcode-into-iso-standardi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ China's State Administration for Market Regulation confirmed that "Micro Han Xin
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor]] · [[2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo]] · [[2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n]]
+**Related:** [[2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor]] · [[2026-11-18-openai-reports-model-written-optimizations-entering-chip-des]] · [[2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo]]
 <!-- graph:end -->

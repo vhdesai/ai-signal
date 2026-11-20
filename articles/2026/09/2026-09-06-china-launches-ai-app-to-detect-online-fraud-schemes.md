@@ -20,8 +20,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
+- 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
 - 2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks
 - 2026-05-27-visa-warns-ai-scam-artists-are-fueling-nearly-1b-in-fraud
 - 2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane
@@ -37,5 +37,5 @@ VOI.ID reported that China launched an AI application aimed at detecting online 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks]] · [[2026-05-27-visa-warns-ai-scam-artists-are-fueling-nearly-1b-in-fraud]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]]
+**Related:** [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica]] · [[2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks]] · [[2026-05-27-visa-warns-ai-scam-artists-are-fueling-nearly-1b-in-fraud]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]]
 <!-- graph:end -->

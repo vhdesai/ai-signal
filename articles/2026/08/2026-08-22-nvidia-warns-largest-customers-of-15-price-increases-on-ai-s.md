@@ -21,8 +21,11 @@ themes:
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs
-related_article_ids: []
+canonical_article_id: 2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser
+related_article_ids:
+- 2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s
+- 2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs
+- 2026-08-22-nvidia-customers-reportedly-warned-about-ai-related-price-hi
 embedding_id: 2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s
 event_name: ''
 ---
@@ -36,5 +39,6 @@ Vera Rubin and Grace Blackwell configurations shipping early 2027 are affected. 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Canonical:** [[2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs]]
+**Canonical:** [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser]]
+**Related:** [[2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs]] · [[2026-08-22-nvidia-customers-reportedly-warned-about-ai-related-price-hi]]
 <!-- graph:end -->

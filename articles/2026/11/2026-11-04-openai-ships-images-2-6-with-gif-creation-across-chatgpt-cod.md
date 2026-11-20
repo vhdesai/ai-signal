@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-11-05-openai-introduced-images-2-6-across-chatgpt-codex-and-the-ap
 - 2026-10-19-openai-tests-three-aurora-image-models
 - 2026-10-09-openai-adds-interactive-graphics-to-chatgpt
-- 2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme
 embedding_id: 2026-11-04-openai-ships-images-2-6-with-gif-creation-across-chatgpt-cod
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Images 2.6 adds animated GIF creation from prompts or photos, reusable saved ref
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-05-openai-introduced-images-2-6-across-chatgpt-codex-and-the-ap]] · [[2026-10-19-openai-tests-three-aurora-image-models]] · [[2026-10-09-openai-adds-interactive-graphics-to-chatgpt]] · [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme]]
+**Related:** [[2026-11-05-openai-introduced-images-2-6-across-chatgpt-codex-and-the-ap]] · [[2026-10-19-openai-tests-three-aurora-image-models]] · [[2026-10-09-openai-adds-interactive-graphics-to-chatgpt]]
 <!-- graph:end -->

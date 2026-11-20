@@ -26,11 +26,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par
-- 2026-11-17-gates-ventures-and-west-health-offer-15-million-to-researche
-- 2026-11-10-november-9-2026-education-week
-- 2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
+- 2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo
+- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
+- 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
+- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 embedding_id: 2026-09-15-gates-foundation-commits-1b-over-two-years-to-close-ai-s-lan
 event_name: ''
 ---
@@ -44,5 +44,5 @@ The Gates Foundation committed at least $1B over two years to expand AI access i
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par]] · [[2026-11-17-gates-ventures-and-west-health-offer-15-million-to-researche]] · [[2026-11-10-november-9-2026-education-week]] · [[2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]]
+**Related:** [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
 <!-- graph:end -->

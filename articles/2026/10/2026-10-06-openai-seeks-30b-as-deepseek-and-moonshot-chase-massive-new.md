@@ -27,8 +27,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
+- 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
-- 2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead
 embedding_id: 2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Bloomberg reports OpenAI is seeking $30B as the rush to raise AI capital quicken
 
 **Entities:** [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]] · [[2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead]]
+**Related:** [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]]
 <!-- graph:end -->

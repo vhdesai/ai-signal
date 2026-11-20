@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-11-11-november-12-2026-cio-dive-2
 - 2026-11-11-databricks-positions-genie-for-extended-data-grounded-assign
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
-- 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 - 2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt
+- 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 embedding_id: 2026-11-11-databricks-turns-genie-into-an-always-on-business-agent-as-t
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Databricks unveiled an updated Genie agent that runs long, multistep jobs unsupe
 
 **Entities:** [[Databricks]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-11-november-12-2026-cio-dive-2]] · [[2026-11-11-databricks-positions-genie-for-extended-data-grounded-assign]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt]]
+**Related:** [[2026-11-11-november-12-2026-cio-dive-2]] · [[2026-11-11-databricks-positions-genie-for-extended-data-grounded-assign]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-11-06'
 source: '[MIT News]'
 url_original: https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106
 url_canonical: https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-07_061155_Inbox_Daily AI News Digest - November
   7, 2026.md
 content_hash: b06158d8db10484f695fc90de1ba0ed053f55edfedcd655e9a4130cdd8ba0121

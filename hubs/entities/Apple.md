@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 566
+member_count: 569
 ---
 
 # Apple
 
-> Auto-generated entity hub. 566 connected article(s).
+> Auto-generated entity hub. 569 connected article(s).
 
+- `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
 - `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]

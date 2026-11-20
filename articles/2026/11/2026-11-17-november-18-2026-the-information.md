@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-08-26-bill-gates-warns-about-ai-risks
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
-- 2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas
+- 2026-11-08-november-7-2026-techcrunch
 embedding_id: 2026-11-17-november-18-2026-the-information
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Paul Christiano, who sits on the board of the OpenAI Foundation, told podcaster 
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[ByteDance]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas]]
+**Related:** [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-11-08-november-7-2026-techcrunch]]
 <!-- graph:end -->

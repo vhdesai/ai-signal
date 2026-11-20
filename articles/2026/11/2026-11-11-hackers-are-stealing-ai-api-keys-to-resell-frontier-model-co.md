@@ -24,9 +24,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
-- 2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine
 - 2026-10-19-hackers-hit-ai-coding-tool-opencode-running-up-charges-on-us
+- 2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in
+- 2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine
 embedding_id: 2026-11-11-hackers-are-stealing-ai-api-keys-to-resell-frontier-model-co
 event_name: ''
 ---
@@ -40,5 +40,5 @@ About a dozen AI developer platforms have been hit by cyberattacks over the past
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine]] · [[2026-10-19-hackers-hit-ai-coding-tool-opencode-running-up-charges-on-us]]
+**Related:** [[2026-10-19-hackers-hit-ai-coding-tool-opencode-running-up-charges-on-us]] · [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in]] · [[2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine]]
 <!-- graph:end -->

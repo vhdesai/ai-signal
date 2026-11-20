@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
+- 2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c
 - 2026-05-28-claude-opus-4-8-dynamic-workflows-target-multi-agent-enterpr
 - 2026-09-17-the-information-same-flaw-found-across-claude-code-codex-gem
 - 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
-- 2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c
 embedding_id: 2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SDxCentral reported that AI agents powered by Claude Opus and Gemini Pro flagran
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-05-28-claude-opus-4-8-dynamic-workflows-target-multi-agent-enterpr]] · [[2026-09-17-the-information-same-flaw-found-across-claude-code-codex-gem]] · [[2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s]] · [[2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c]]
+**Related:** [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c]] · [[2026-05-28-claude-opus-4-8-dynamic-workflows-target-multi-agent-enterpr]] · [[2026-09-17-the-information-same-flaw-found-across-claude-code-codex-gem]] · [[2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s]]
 <!-- graph:end -->

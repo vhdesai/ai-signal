@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u
 - 2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha
+- 2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u
 - 2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian-defense
-- 2026-11-17-november-17-2026-the-information
+- 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 embedding_id: 2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Under a partnership announced Wednesday, Ukrainian officials will get access to 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]] · [[2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian-defense]] · [[2026-11-17-november-17-2026-the-information]]
+**Related:** [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]] · [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u]] · [[2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian-defense]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
 <!-- graph:end -->

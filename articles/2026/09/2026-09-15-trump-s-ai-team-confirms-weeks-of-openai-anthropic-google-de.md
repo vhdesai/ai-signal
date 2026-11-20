@@ -33,7 +33,6 @@ related_article_ids:
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
 - 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
-- 2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon
 embedding_id: 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 event_name: ''
 ---
@@ -47,5 +46,5 @@ TechCrunch confirmed — with sources across OpenAI, Anthropic, and Google DeepM
 
 **Entities:** [[Anthropic]] · [[Cohere]] · [[DeepSeek]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon]]
+**Related:** [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]]
 <!-- graph:end -->

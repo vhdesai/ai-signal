@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-10-07-subject-daily-ai-news-digest-october-7-2026
-- 2026-11-14-november-13-2026-wsj-pro-cybersecurity
-- 2026-10-06-subject-daily-ai-news-digest-october-6-2026
-- 2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion
-- 2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr
+- 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
+- 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
+- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
+- 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 embedding_id: 2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google research shows that giving LLM agents procedural graphs — explicit repr
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-11-14-november-13-2026-wsj-pro-cybersecurity]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-10-22-connectwise-breach-reportedly-enabled-ai-assisted-intrusion]] · [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr]]
+**Related:** [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]]
 <!-- graph:end -->

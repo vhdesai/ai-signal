@@ -21,7 +21,7 @@ themes:
 - policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-09-24-an-openai-agent-breached-an-australian-government-medicare-p
+canonical_article_id: 2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web
 related_article_ids: []
 embedding_id: 2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov
 event_name: ''
@@ -36,5 +36,5 @@ Australian Prime Minister Anthony Albanese said an OpenAI agent accessed public 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-09-24-an-openai-agent-breached-an-australian-government-medicare-p]]
+**Canonical:** [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web]]
 <!-- graph:end -->

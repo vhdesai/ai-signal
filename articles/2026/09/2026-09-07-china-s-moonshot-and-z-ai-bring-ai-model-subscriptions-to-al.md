@@ -22,9 +22,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a
-- 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
+- 2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic
 - 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
+- 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
+- 2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz
 embedding_id: 2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Moonshot AI (developer of the Kimi K3 model) and Z.ai/MiniMax are in advanced ta
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
-**Related:** [[2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops]]
+**Related:** [[2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic]] · [[2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops]] · [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]] · [[2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz]]
 <!-- graph:end -->

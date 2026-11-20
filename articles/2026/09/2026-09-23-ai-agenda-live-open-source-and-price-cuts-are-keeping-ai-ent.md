@@ -31,10 +31,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final
-- 2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio
 - 2026-09-26-daily-ai-news-digest-september-27-2026
-- 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
+- 2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
+- 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
 embedding_id: 2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent
 event_name: ''
 ---
@@ -48,5 +48,5 @@ At The Information's AI Agenda Live conference, Replit CEO Amjad Masad said "the
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final]] · [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]]
+**Related:** [[2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off]]
 <!-- graph:end -->

@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
 - 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr
 - 2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def
-- 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo
+- 2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis
 embedding_id: 2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Filtered to items published between September 2, 2026 at 6:45 AM PDT and Septemb
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr]] · [[2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def]] · [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo]]
+**Related:** [[2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr]] · [[2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def]] · [[2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis]]
 <!-- graph:end -->

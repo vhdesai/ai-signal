@@ -6,7 +6,7 @@ date: '2026-11-18'
 source: '[The Information, citing the Texas Tribune]'
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Texas+SpaceX+power+plant
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Texas+SpaceX+power+plant
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-18_070508_Inbox_Daily AI News Digest - November
   18, 2026.md
 content_hash: 8fda86e1e77603a5d5422378c10f6edb8977394c4e20f3a55dc41fca08b0d723

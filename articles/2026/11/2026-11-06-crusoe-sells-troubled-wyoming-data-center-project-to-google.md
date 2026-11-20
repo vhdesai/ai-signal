@@ -44,7 +44,6 @@ related_article_ids:
 - 2026-11-06-november-6-2026-reuters
 - 2026-11-06-crusoe-sells-its-delayed-wyoming-data-center-project-to-goog
 - 2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste
-- 2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane
 embedding_id: 2026-11-06-crusoe-sells-troubled-wyoming-data-center-project-to-google
 event_name: ''
 ---
@@ -58,5 +57,5 @@ Google took over Crusoe’s unfinished Wyoming data center project. The price wa
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-06-november-6-2026-reuters]] · [[2026-11-06-crusoe-sells-its-delayed-wyoming-data-center-project-to-goog]] · [[2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste]] · [[2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane]]
+**Related:** [[2026-11-06-november-6-2026-reuters]] · [[2026-11-06-crusoe-sells-its-delayed-wyoming-data-center-project-to-goog]] · [[2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste]]
 <!-- graph:end -->

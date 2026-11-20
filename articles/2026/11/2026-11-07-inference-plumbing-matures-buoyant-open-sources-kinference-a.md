@@ -22,10 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-06-november-7-2026-marktechpost
-- 2026-11-07-buoyant-open-sources-kinference-a-routing-layer-for-running
 - 2026-11-06-nvidia-details-reshard-for-faster-reinforcement-learning-wei
-- 2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu
 - 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
+- 2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu
 embedding_id: 2026-11-07-inference-plumbing-matures-buoyant-open-sources-kinference-a
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Buoyant, the maker of Linkerd, released Kinference, an early-alpha Apache 2.0 co
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-06-november-7-2026-marktechpost]] · [[2026-11-07-buoyant-open-sources-kinference-a-routing-layer-for-running]] · [[2026-11-06-nvidia-details-reshard-for-faster-reinforcement-learning-wei]] · [[2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]]
+**Related:** [[2026-11-06-november-7-2026-marktechpost]] · [[2026-11-06-nvidia-details-reshard-for-faster-reinforcement-learning-wei]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu]]
 <!-- graph:end -->

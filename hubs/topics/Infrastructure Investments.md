@@ -1,15 +1,21 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 2027
+member_count: 2033
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 2027 connected article(s).
+> Auto-generated topic hub. 2033 connected article(s).
 
+- `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-19` [[2026-11-19-the-remote-access-rule-bites-moonshot-scraps-a-150-million-i|The remote-access rule bites: Moonshot scraps a $150 million Indonesia deal and Tencent says it sets China back]]
+- `2026-11-19` [[2026-11-19-anthropic-hires-a-400-000-a-year-natural-gas-lead-as-off-gri|Anthropic hires a $400,000-a-year natural-gas lead as off-grid data centers drive up emissions]]
+- `2026-11-19` [[2026-11-19-alibaba-reports-accelerating-ai-cloud-growth-alongside-heavy|Alibaba reports accelerating AI-cloud growth alongside heavy investment]]
+- `2026-11-18` [[2026-11-18-november-19-2026-pitchbook|[November 19, 2026] · [PitchBook]]]
 - `2026-11-18` [[2026-11-18-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-18` [[2026-11-18-texas-clears-spacex-s-1-456gw-supercomputer-power-plant-as-a|Texas clears SpaceX's 1.456GW supercomputer power plant as Abbott lifts a data-center permit freeze]]
+- `2026-11-18` [[2026-11-18-intel-reports-an-outside-customer-for-its-18a-p-process|Intel reports an outside customer for its 18A-P process]]
 - `2026-11-18` [[2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i|ByteDance nears a $500 million Azure deal for OpenAI models, irking OpenAI]]
 - `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-the-information|[November 17, 2026] · [The Information]]]

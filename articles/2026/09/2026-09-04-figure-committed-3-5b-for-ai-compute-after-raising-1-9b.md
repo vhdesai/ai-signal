@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-figure-commits-3-5b-to-nscale-for-up-to-100-000-nvidia-vera
 - 2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion
+- 2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 embedding_id: 2026-09-04-figure-committed-3-5b-for-ai-compute-after-raising-1-9b
 event_name: ''
 ---
@@ -38,5 +38,5 @@ An analysis of Figure's compute commitments found the robotics company has contr
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-04-figure-commits-3-5b-to-nscale-for-up-to-100-000-nvidia-vera]] · [[2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]]
+**Related:** [[2026-09-04-figure-commits-3-5b-to-nscale-for-up-to-100-000-nvidia-vera]] · [[2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
 <!-- graph:end -->

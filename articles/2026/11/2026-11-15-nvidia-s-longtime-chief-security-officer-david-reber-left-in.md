@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-18-november-17-2026-business-insider
-- 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i
 - 2026-11-09-november-9-2026-dealbook
 - 2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o
+- 2026-11-14-tech-leaders-press-nvidia-to-reinstate-jensen-huang
 embedding_id: 2026-11-15-nvidia-s-longtime-chief-security-officer-david-reber-left-in
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia's longtime chief security officer, David Reber, left in August for health
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-11-18-november-17-2026-business-insider]] · [[2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]]
+**Related:** [[2026-11-18-november-17-2026-business-insider]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]] · [[2026-11-14-tech-leaders-press-nvidia-to-reinstate-jensen-huang]]
 <!-- graph:end -->

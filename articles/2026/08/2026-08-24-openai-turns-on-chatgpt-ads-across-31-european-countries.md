@@ -20,9 +20,14 @@ themes:
 - company-storylines
 - ma-activity
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
+- 2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media
+- 2026-08-12-openai-begins-testing-ads-in-chatgpt
+- 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
+- 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in
 embedding_id: 2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries
 event_name: ''
 ---
@@ -36,5 +41,5 @@ Formalizes advertising as a third revenue line alongside subscriptions and API. 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
-**Canonical:** [[2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media]]
+**Related:** [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev]] · [[2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in]]
 <!-- graph:end -->

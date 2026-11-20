@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache
 - 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial
+- 2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode
 embedding_id: 2026-10-09-alibaba-qwen-releases-qwen-image-2-1-turbo-for-faster-2k-ima
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Alibaba's Qwen team released Qwen-Image-2.1-Turbo, an accelerated 7B image-gener
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial]]
+**Related:** [[2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial]] · [[2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode]]
 <!-- graph:end -->

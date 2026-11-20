@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and
 - 2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-ai-emergency-brak
+- 2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt
 embedding_id: 2026-10-11-policy-microsoft-microsoft-s-satya-nadella-says-ai-models-ne
 event_name: ''
 ---
@@ -36,5 +37,5 @@ POLICY MICROSOFT Microsoft’s Satya Nadella says AI models need an ‘emergency
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and]] · [[2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-ai-emergency-brak]]
+**Related:** [[2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and]] · [[2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-ai-emergency-brak]] · [[2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt]]
 <!-- graph:end -->

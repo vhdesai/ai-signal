@@ -20,11 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai
 - 2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as
-- 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
-- 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
-- 2026-10-12-hardwired-frontier-ai-pause-is-technically-feasible-uc-berke
+- 2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r
+- 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
+- 2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit
 embedding_id: 2026-10-05-berkeley-s-stuart-russell-says-aligning-ai-with-human-goals
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Berkeley professor Stuart Russell told The Information that OpenAI was right to 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai]] · [[2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-10-12-hardwired-frontier-ai-pause-is-technically-feasible-uc-berke]]
+**Related:** [[2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as]] · [[2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r]] · [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]] · [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit]]
 <!-- graph:end -->

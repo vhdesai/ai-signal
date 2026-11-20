@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-11-06-consumer-agents-get-persistent-meta-launches-muse-spaces-as
 - 2026-11-06-consumer-agents-become-persistent-and-marketplaces-build-the
 - 2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
+- 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
 embedding_id: 2026-11-06-amazon-lets-shoppers-text-alexa-to-search-compare-and-buy
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Selected US customers can now text Alexa to search for products, compare items, 
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-06-consumer-agents-get-persistent-meta-launches-muse-spaces-as]] · [[2026-11-06-consumer-agents-become-persistent-and-marketplaces-build-the]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]]
+**Related:** [[2026-11-06-consumer-agents-get-persistent-meta-launches-muse-spaces-as]] · [[2026-11-06-consumer-agents-become-persistent-and-marketplaces-build-the]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]]
 <!-- graph:end -->

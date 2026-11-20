@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti
 - 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
-- 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
+- 2026-10-06-the-information-workday-customers-use-external-ai-agents-pre
 embedding_id: 2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Amazon, Microsoft, Figma, and Workday are dangling new AI discounts and free-acc
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]]
+**Related:** [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre]]
 <!-- graph:end -->

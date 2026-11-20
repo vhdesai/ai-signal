@@ -41,8 +41,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-- 2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole
 - 2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation
+- 2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval
 embedding_id: 2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a
 event_name: ''
 ---
@@ -56,5 +56,5 @@ A timestamped publisher listing reports that the U.S. Commerce Department is fin
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole]] · [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation]]
+**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation]] · [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval]]
 <!-- graph:end -->

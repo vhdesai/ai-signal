@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-11-alphagenome-2-adds-cell-specific-predictions-for-genetic-res
+- 2026-11-11-deepmind-s-alphagenome-2-predicts-dna-variant-effects-in-spe
 - 2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci
 - 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
 - 2026-07-15-google-research-offers-a-mathematical-account-of-diffusion-m
-- 2026-11-11-deepmind-s-alphagenome-2-predicts-dna-variant-effects-in-spe
 embedding_id: 2026-09-03-transfer-learning-for-genomic-prediction-in-underrepresented
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Research published work on transfer learning for genomic prediction in un
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-11-alphagenome-2-adds-cell-specific-predictions-for-genetic-res]] · [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]] · [[2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr]] · [[2026-07-15-google-research-offers-a-mathematical-account-of-diffusion-m]] · [[2026-11-11-deepmind-s-alphagenome-2-predicts-dna-variant-effects-in-spe]]
+**Related:** [[2026-11-11-alphagenome-2-adds-cell-specific-predictions-for-genetic-res]] · [[2026-11-11-deepmind-s-alphagenome-2-predicts-dna-variant-effects-in-spe]] · [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]] · [[2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr]] · [[2026-07-15-google-research-offers-a-mathematical-account-of-diffusion-m]]
 <!-- graph:end -->

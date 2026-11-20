@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-29-the-hugging-face-hack-s-chilling-postmortem
 - 2026-08-26-openai-publishes-official-hugging-face-breach-postmortem
-- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
+- 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
 embedding_id: 2026-08-29-the-information-publishes-a-postmortem-on-the-hugging-face-h
 event_name: ''
 ---
@@ -34,5 +34,5 @@ The Information published a postmortem on the Hugging Face hack, framing it as a
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-29-the-hugging-face-hack-s-chilling-postmortem]] · [[2026-08-26-openai-publishes-official-hugging-face-breach-postmortem]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]]
+**Related:** [[2026-08-29-the-hugging-face-hack-s-chilling-postmortem]] · [[2026-08-26-openai-publishes-official-hugging-face-breach-postmortem]] · [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]]
 <!-- graph:end -->

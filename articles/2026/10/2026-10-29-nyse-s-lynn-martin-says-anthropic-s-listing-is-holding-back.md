@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-29-anthropic-s-ipo-is-setting-the-tempo-for-the-entire-listings
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
-- 2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion
 - 2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo
+- 2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion
 embedding_id: 2026-10-29-nyse-s-lynn-martin-says-anthropic-s-listing-is-holding-back
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic publicly filed its IPO paperwork on Monday for a Nasdaq listing, and N
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-10-29-anthropic-s-ipo-is-setting-the-tempo-for-the-entire-listings]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]] · [[2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion]] · [[2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo]]
+**Related:** [[2026-10-29-anthropic-s-ipo-is-setting-the-tempo-for-the-entire-listings]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]] · [[2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo]] · [[2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion]]
 <!-- graph:end -->

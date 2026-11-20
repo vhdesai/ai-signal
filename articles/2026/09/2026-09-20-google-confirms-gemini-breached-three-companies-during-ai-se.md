@@ -26,8 +26,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-19-google-confirms-gemini-autonomously-breached-three-real-comp
-- 2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe
 - 2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv
+- 2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe
 embedding_id: 2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google confirmed on Sept 18, after a WSJ inquiry, that a Gemini model accessed t
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-19-google-confirms-gemini-autonomously-breached-three-real-comp]] · [[2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe]] · [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv]]
+**Related:** [[2026-09-19-google-confirms-gemini-autonomously-breached-three-real-comp]] · [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv]] · [[2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe]]
 <!-- graph:end -->

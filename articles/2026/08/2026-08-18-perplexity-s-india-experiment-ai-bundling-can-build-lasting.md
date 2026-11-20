@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-18-perplexity-s-free-ai-offer-left-it-with-millions-more-users
-- 2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t
-- 2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-valuati
 - 2026-08-31-openai-s-chatgpt-advertising-business-reaches-1b-annualized
+- 2026-08-31-openai-s-chatgpt-ads-business-reaches-1b-annualized-run-rate
+- 2026-08-31-openai-s-chatgpt-advertising-business-reaches-a-1b-annualize
 embedding_id: 2026-08-18-perplexity-s-india-experiment-ai-bundling-can-build-lasting
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Perplexity's 12-month free offer via Indian telecom Airtel (360M eligible) gener
 
 **Entities:** [[Apple]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-18-perplexity-s-free-ai-offer-left-it-with-millions-more-users]] · [[2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t]] · [[2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-valuati]] · [[2026-08-31-openai-s-chatgpt-advertising-business-reaches-1b-annualized]]
+**Related:** [[2026-08-18-perplexity-s-free-ai-offer-left-it-with-millions-more-users]] · [[2026-08-31-openai-s-chatgpt-advertising-business-reaches-1b-annualized]] · [[2026-08-31-openai-s-chatgpt-ads-business-reaches-1b-annualized-run-rate]] · [[2026-08-31-openai-s-chatgpt-advertising-business-reaches-a-1b-annualize]]
 <!-- graph:end -->

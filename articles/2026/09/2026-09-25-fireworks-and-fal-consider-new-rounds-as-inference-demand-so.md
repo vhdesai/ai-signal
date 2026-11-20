@@ -19,8 +19,8 @@ themes:
 - company-storylines
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so
 related_article_ids:
 - 2026-09-26-fireworks-ai-and-fal-weigh-new-funding-rounds-as-inference-d
 - 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
@@ -37,5 +37,6 @@ The Information reported that inference providers Fireworks and Fal are consider
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
+**Canonical:** [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so]]
 **Related:** [[2026-09-26-fireworks-ai-and-fal-weigh-new-funding-rounds-as-inference-d]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-10-21-fireworks-ai-reportedly-seeks-funding-at-a-30b-40b-valuation]]
 <!-- graph:end -->

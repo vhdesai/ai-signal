@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 233
+member_count: 235
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 233 connected article(s).
+> Auto-generated entity hub. 235 connected article(s).
 
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-14` [[2026-11-14-scotland-s-ai-build-out-faces-organized-public-opposition|Scotland’s AI build-out faces organized public opposition]]

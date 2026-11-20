@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
+- 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
 - 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
 - 2026-08-06-alphabet-seeks-up-to-25b-in-bond-sale-to-fund-ai-capital-spe
-- 2026-11-03-november-3-2026-dealbook
 embedding_id: 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Memory chip stocks reversed sharply after major manufacturers issued softer-than
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]] · [[2026-08-06-alphabet-seeks-up-to-25b-in-bond-sale-to-fund-ai-capital-spe]] · [[2026-11-03-november-3-2026-dealbook]]
+**Related:** [[2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]] · [[2026-08-06-alphabet-seeks-up-to-25b-in-bond-sale-to-fund-ai-capital-spe]]
 <!-- graph:end -->

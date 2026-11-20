@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote
 - 2026-08-27-trump-administration-s-ai-self-regulatory-eo-has-stalled
 - 2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo
-- 2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole
 embedding_id: 2026-08-27-trump-admin-s-ai-self-regulatory-eo-stalls-new-china-chip-ac
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Draft EO for an AI self-regulatory org has stalled amid interagency disagreement
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote]] · [[2026-08-27-trump-administration-s-ai-self-regulatory-eo-has-stalled]] · [[2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo]] · [[2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole]]
+**Related:** [[2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote]] · [[2026-08-27-trump-administration-s-ai-self-regulatory-eo-has-stalled]] · [[2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape
+- 2026-11-19-alibaba-reports-accelerating-ai-cloud-growth-alongside-heavy
 - 2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai
-- 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 embedding_id: 2026-10-08-alibaba-s-ai-cloud-revenue-set-to-surge-more-than-50
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Analysts expect Alibaba's AI Cloud and Compute Services unit to report more than
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape]] · [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]]
+**Related:** [[2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape]] · [[2026-11-19-alibaba-reports-accelerating-ai-cloud-growth-alongside-heavy]] · [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]]
 <!-- graph:end -->

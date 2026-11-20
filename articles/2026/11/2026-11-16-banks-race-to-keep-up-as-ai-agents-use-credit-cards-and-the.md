@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-11-16-fed-governor-barr-warns-about-herding-and-consent-risks-from
 - 2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris
 - 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
-- 2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance
+- 2026-11-19-november-18-2026-cnbc
 embedding_id: 2026-11-16-banks-race-to-keep-up-as-ai-agents-use-credit-cards-and-the
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta's Muse and other assistants can now buy on cardholders' behalf, and the Jou
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-16-november-16-2026-federal-reserve]] · [[2026-11-16-fed-governor-barr-warns-about-herding-and-consent-risks-from]] · [[2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]] · [[2026-11-08-november-7-2026-the-telegraph-via-yahoo-finance]]
+**Related:** [[2026-11-16-november-16-2026-federal-reserve]] · [[2026-11-16-fed-governor-barr-warns-about-herding-and-consent-risks-from]] · [[2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]] · [[2026-11-19-november-18-2026-cnbc]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership
 - 2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management
 - 2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat
-- 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
+- 2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t
 embedding_id: 2026-05-04-ibm-oracle-expanded-partnership-for-ai-and-cloud-modernizati
 event_name: ''
 ---
@@ -39,5 +39,5 @@ IBM and Oracle announced an expanded partnership to help organizations modernize
 
 **Entities:** [[IBM]] · [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-03-hpe-expands-oracle-collaboration-for-ai-data-center-networki]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management]] · [[2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]]
+**Related:** [[2026-09-03-hpe-expands-oracle-collaboration-for-ai-data-center-networki]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management]] · [[2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat]] · [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t]]
 <!-- graph:end -->

@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 237
+member_count: 239
 ---
 
 # IBM
 
-> Auto-generated entity hub. 237 connected article(s).
+> Auto-generated entity hub. 239 connected article(s).
 
 - `2026-11-18` [[2026-11-18-november-18-2026-the-information-2|[November 18, 2026] · [The Information]]]
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-18` [[2026-11-18-enterprises-put-a-leash-on-ai-spend-as-chief-ai-officers-str|Enterprises put a leash on AI spend as chief AI officers struggle for budget sway]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]

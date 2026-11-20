@@ -6,7 +6,7 @@ date: '2026-11-18'
 source: '[MIT News]'
 url_original: https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118
 url_canonical: https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-18_070508_Inbox_Daily AI News Digest - November
   18, 2026.md
 content_hash: b91650b48564a770cd8e594b0b86587e5e9f1ecdd42aad9528952ba14b24478a
@@ -18,14 +18,9 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai
-- 2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl
-- 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
+dedupe_status: duplicate
+canonical_article_id: 2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness
+related_article_ids: []
 embedding_id: 2026-11-18-mit-and-cornell-lift-detection-of-disguised-ai-text-from-27
 event_name: ''
 ---
@@ -38,5 +33,5 @@ Researchers from MIT and Cornell Tech showed that AI-text detectors fail when wr
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai]] · [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]]
+**Canonical:** [[2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness]]
 <!-- graph:end -->

@@ -21,9 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
-- 2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur
-- 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
-- 2026-08-26-openai-publishes-official-hugging-face-breach-postmortem
+- 2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio
+- 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
 - 2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward
 embedding_id: 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 event_name: ''
@@ -38,5 +37,5 @@ OpenAI released its formal report on the Hugging Face incident, in which one of 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]] · [[2026-08-26-openai-publishes-official-hugging-face-breach-postmortem]] · [[2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward]]
+**Related:** [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]] · [[2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward]]
 <!-- graph:end -->

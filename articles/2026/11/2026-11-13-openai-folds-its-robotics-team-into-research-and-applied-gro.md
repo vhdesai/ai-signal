@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-11-13-openai-redistributes-robotics-work-across-research-and-appli
 - 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 - 2026-11-16-openai-s-astra-makes-some-robot-training-simulation-data-100
+- 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
 embedding_id: 2026-11-13-openai-folds-its-robotics-team-into-research-and-applied-gro
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI dissolved its standalone robotics team, moving research under Mark Chen a
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-13-openai-redistributes-robotics-work-across-research-and-appli]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-11-16-openai-s-astra-makes-some-robot-training-simulation-data-100]]
+**Related:** [[2026-11-13-openai-redistributes-robotics-work-across-research-and-appli]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-11-16-openai-s-astra-makes-some-robot-training-simulation-data-100]] · [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne]]
 <!-- graph:end -->

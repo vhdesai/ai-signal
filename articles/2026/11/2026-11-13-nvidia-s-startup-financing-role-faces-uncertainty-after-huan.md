@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-13-nvidia-startup-funding-faces-uncertainty-after-huang-departu
 - 2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an
-- 2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u
 - 2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is
+- 2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u
 embedding_id: 2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Investors and founders told TechCrunch that Jensen Huang’s departure could red
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-13-nvidia-startup-funding-faces-uncertainty-after-huang-departu]] · [[2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an]] · [[2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u]] · [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is]]
+**Related:** [[2026-11-13-nvidia-startup-funding-faces-uncertainty-after-huang-departu]] · [[2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an]] · [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is]] · [[2026-11-13-vcs-and-founders-expect-nvidia-s-startup-funding-to-shrink-u]]
 <!-- graph:end -->

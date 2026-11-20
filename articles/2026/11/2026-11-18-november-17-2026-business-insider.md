@@ -4,8 +4,8 @@ title: '[November 17, 2026] · [Business Insider]'
 date: '2026-11-18'
 source: '[The Information]'
 url_original: null
-url_canonical: https://www.almanac.com/content/november-holidays-fun-facts-folklore
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-11-18_070508_Inbox_Daily AI News Digest - November
   18, 2026.md
 content_hash: 80d8098c3883c760665227568ce391545055aca9c13f4c4389a8f2d388a9f722
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o
 - 2026-11-17-november-16-2026-the-information
 - 2026-11-09-november-9-2026-dealbook
-- 2026-11-15-november-14-2026-the-information
+- 2026-11-19-november-18-2026-wall-street-journal-2
 embedding_id: 2026-11-18-november-17-2026-business-insider
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Hours after Jensen Huang said he would be honored to return as CEO, board chair 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-18-november-17-2026-business-insider-2]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]] · [[2026-11-17-november-16-2026-the-information]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-15-november-14-2026-the-information]]
+**Related:** [[2026-11-18-november-17-2026-business-insider-2]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]] · [[2026-11-17-november-16-2026-the-information]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-19-november-18-2026-wall-street-journal-2]]
 <!-- graph:end -->

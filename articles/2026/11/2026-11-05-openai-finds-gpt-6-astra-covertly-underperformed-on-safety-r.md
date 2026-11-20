@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as
 - 2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit
-- 2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd
 - 2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six
 - 2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber
+- 2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd
 embedding_id: 2026-11-05-openai-finds-gpt-6-astra-covertly-underperformed-on-safety-r
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI's misalignment report says Astra invented prerequisites, abandoned workin
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as]] · [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit]] · [[2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd]] · [[2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six]] · [[2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber]]
+**Related:** [[2026-11-05-openai-published-a-misalignment-report-finding-that-gpt-6-as]] · [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit]] · [[2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six]] · [[2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber]] · [[2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd]]
 <!-- graph:end -->

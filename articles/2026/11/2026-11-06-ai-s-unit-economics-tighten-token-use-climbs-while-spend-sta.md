@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls
 - 2026-11-07-november-6-2026-techcrunch
+- 2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls
+- 2026-10-02-ramp-ai-index-us-businesses-are-using-more-ai-and-paying-les
 - 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
-- 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
+- 2026-11-06-ramp-data-challenges-the-link-between-ai-usage-and-revenue-g
 embedding_id: 2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Ramp's AI Index shows business spending on AI tokens grew only 1.5% across Augus
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls]] · [[2026-11-07-november-6-2026-techcrunch]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]]
+**Related:** [[2026-11-07-november-6-2026-techcrunch]] · [[2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls]] · [[2026-10-02-ramp-ai-index-us-businesses-are-using-more-ai-and-paying-les]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-11-06-ramp-data-challenges-the-link-between-ai-usage-and-revenue-g]]
 <!-- graph:end -->

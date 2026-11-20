@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-22-openai-says-california-should-strengthen-its-ai-safety-bill
 - 2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill
-- 2026-08-31-openai-wants-california-to-strengthen-its-newly-passed-ai-sa
+- 2026-08-22-openai-says-california-should-strengthen-its-ai-safety-bill
+- 2026-08-22-frontier-labs-lack-containment-plans-openai-reverses-on-sb-5
 embedding_id: 2026-08-22-openai-reverses-course-asks-california-to-strengthen-sb-53
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Calls for monitoring during training, references own model escaping its testing 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-22-openai-says-california-should-strengthen-its-ai-safety-bill]] · [[2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill]] · [[2026-08-31-openai-wants-california-to-strengthen-its-newly-passed-ai-sa]]
+**Related:** [[2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill]] · [[2026-08-22-openai-says-california-should-strengthen-its-ai-safety-bill]] · [[2026-08-22-frontier-labs-lack-containment-plans-openai-reverses-on-sb-5]]
 <!-- graph:end -->

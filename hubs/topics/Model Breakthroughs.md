@@ -1,19 +1,30 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3894
+member_count: 3905
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3894 connected article(s).
+> Auto-generated topic hub. 3905 connected article(s).
 
+- `2026-11-19` [[2026-11-19-mit-study-traces-data-center-air-pollution-effects-across-th|MIT study traces data-center air-pollution effects across the grid]]
+- `2026-11-19` [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard|MIT microrobot brings sensing and flight computation onboard]]
+- `2026-11-19` [[2026-11-19-alibaba-reports-accelerating-ai-cloud-growth-alongside-heavy|Alibaba reports accelerating AI-cloud growth alongside heavy investment]]
 - `2026-11-18` [[2026-11-18-november-17-2026-microsoft-ai|[November 17, 2026] · [Microsoft AI]]]
 - `2026-11-18` [[2026-11-18-sensetime-reports-accelerating-revenue-and-generative-ai-act|SenseTime reports accelerating revenue and generative-AI activity]]
+- `2026-11-18` [[2026-11-18-openai-reports-model-written-optimizations-entering-chip-des|OpenAI reports model-written optimizations entering chip designs]]
 - `2026-11-18` [[2026-11-18-openai-board-member-paul-christiano-puts-the-risk-of-ai-take|OpenAI board member Paul Christiano puts the risk of AI takeover near 10% within a year]]
 - `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-adds-mai-code-2-and-code-2-flash-to-the-coding-mod|Microsoft adds MAI Code 2 and Code 2 Flash to the coding-model mix]]
 - `2026-11-18` [[2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai|MIT and Cornell test adaptive defenses against disguised AI writing]]
+- `2026-11-18` [[2026-11-18-house-panel-questions-reported-microsoft-bytedance-ai-discus|House panel questions reported Microsoft–ByteDance AI discussions]]
+- `2026-11-18` [[2026-11-18-gemini-4-neon-sharpens-the-model-price-performance-contest|Gemini 4 Neon sharpens the model price-performance contest]]
+- `2026-11-18` [[2026-11-18-gemini-4-neon-adds-a-new-option-for-demanding-agent-workload|Gemini 4 Neon adds a new option for demanding agent workloads]]
+- `2026-11-18` [[2026-11-18-anthropic-prices-its-offering-at-83-a-share|Anthropic prices its offering at $83 a share]]
+- `2026-11-18` [[2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness|Adaptive AI-text detection improves experimental robustness]]
 - `2026-11-17` [[2026-11-17-november-17-2026-openai|[November 17, 2026] · [OpenAI]]]
 - `2026-11-17` [[2026-11-17-vals-reports-gaps-in-safeguards-around-weapons-related-workf|Vals reports gaps in safeguards around weapons-related workflows]]
 - `2026-11-17` [[2026-11-17-ut-austin-opens-horizon-s-gpu-system-to-early-scientific-use|UT Austin opens Horizon’s GPU system to early scientific users]]

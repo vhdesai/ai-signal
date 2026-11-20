@@ -20,12 +20,8 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-and-pre
-related_article_ids:
-- 2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model
-- 2026-08-26-google-releases-gemini-3-5-transcribe-85-languages-speaker-a
-- 2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er
-- 2026-08-27-google-releases-gemini-3-5-transcribe-with-2-6-average-word
+canonical_article_id: 2026-08-26-google-releases-gemini-3-5-transcribe-85-languages-speaker-a
+related_article_ids: []
 embedding_id: 2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t
 event_name: ''
 ---
@@ -39,6 +35,5 @@ Gemini 3.5 Transcribe auto-detects 85+ languages, learns custom vocabulary, and 
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Canonical:** [[2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-and-pre]]
-**Related:** [[2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model]] · [[2026-08-26-google-releases-gemini-3-5-transcribe-85-languages-speaker-a]] · [[2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er]] · [[2026-08-27-google-releases-gemini-3-5-transcribe-with-2-6-average-word]]
+**Canonical:** [[2026-08-26-google-releases-gemini-3-5-transcribe-85-languages-speaker-a]]
 <!-- graph:end -->

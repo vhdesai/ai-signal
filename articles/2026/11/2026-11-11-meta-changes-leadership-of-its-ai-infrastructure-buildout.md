@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft
 - 2026-11-11-november-11-2026-cnbc
 - 2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate
+- 2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft
 - 2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten
 - 2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d
 embedding_id: 2026-11-11-meta-changes-leadership-of-its-ai-infrastructure-buildout
@@ -40,5 +40,5 @@ Meta infrastructure chief and engineering co-head Santosh Janardhan is stepping 
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft]] · [[2026-11-11-november-11-2026-cnbc]] · [[2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate]] · [[2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten]] · [[2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d]]
+**Related:** [[2026-11-11-november-11-2026-cnbc]] · [[2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate]] · [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft]] · [[2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten]] · [[2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d]]
 <!-- graph:end -->

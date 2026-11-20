@@ -30,10 +30,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai
 - 2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind
-- 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
+- 2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
+- 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 embedding_id: 2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard
 event_name: ''
@@ -48,5 +48,5 @@ The Information reports Anthropic, OpenAI, and Google have been holding private 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]]
+**Related:** [[2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]]
 <!-- graph:end -->

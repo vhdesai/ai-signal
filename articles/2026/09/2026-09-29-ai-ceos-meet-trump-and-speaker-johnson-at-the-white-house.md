@@ -20,8 +20,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-20-altman-huang-cook-and-musk-reported-as-confirmed-for-the-tru
 - 2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a
+- 2026-09-20-altman-huang-cook-and-musk-reported-as-confirmed-for-the-tru
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 embedding_id: 2026-09-29-ai-ceos-meet-trump-and-speaker-johnson-at-the-white-house
@@ -37,5 +37,5 @@ Leaders of the major AI companies are attending a lunch meeting with President T
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-20-altman-huang-cook-and-musk-reported-as-confirmed-for-the-tru]] · [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]]
+**Related:** [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a]] · [[2026-09-20-altman-huang-cook-and-musk-reported-as-confirmed-for-the-tru]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]]
 <!-- graph:end -->

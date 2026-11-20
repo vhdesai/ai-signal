@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and
-- 2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and
 - 2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil
 - 2026-07-31-microsoft-holds-capex-line-while-cloud-revenue-climbs
+- 2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and
 embedding_id: 2026-11-16-cios-draw-lessons-from-the-microsoft-365-outage-as-compute-s
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CIO Dive says last week's 19-hour Microsoft 365 outage shows CIOs should spread 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and]] · [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and]] · [[2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil]] · [[2026-07-31-microsoft-holds-capex-line-while-cloud-revenue-climbs]]
+**Related:** [[2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and]] · [[2026-11-13-microsoft-apologizes-after-prolonged-microsoft-365-and-copil]] · [[2026-07-31-microsoft-holds-capex-line-while-cloud-revenue-climbs]] · [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
+- 2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-- 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
 embedding_id: 2026-10-14-nature-covered-research-finding-that-ai-writing-support-chan
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Publication window: items published Oct 13 – Oct 14, 2026 (last 24 hours). Com
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]]
+**Related:** [[2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c]] · [[2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p
 - 2026-10-22-ai-assisted-analysis-surfaced-a-critical-php-vulnerability-w
 - 2026-09-04-september-5-2026-bleepingcomputer
+- 2026-11-19-november-19-2026-wsj-pro-cybersecurity
 - 2026-10-23-security-leaders-warn-of-faster-flaw-discovery
-- 2026-10-29-october-28-2026-the-information
 embedding_id: 2026-10-21-october-22-2026-wsj-pro-cybersecurity
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Coverage described high-severity PHP vulnerabilities discovered with AI-assisted
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p]] · [[2026-10-22-ai-assisted-analysis-surfaced-a-critical-php-vulnerability-w]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]] · [[2026-10-29-october-28-2026-the-information]]
+**Related:** [[2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p]] · [[2026-10-22-ai-assisted-analysis-surfaced-a-critical-php-vulnerability-w]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-11-19-november-19-2026-wsj-pro-cybersecurity]] · [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]]
 <!-- graph:end -->

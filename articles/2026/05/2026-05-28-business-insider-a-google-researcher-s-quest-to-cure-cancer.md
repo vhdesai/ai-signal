@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-ai-promises-to-cure-cancer-scientists-feel-existential-dread
-- 2026-08-23-scientists-push-back-ai-probably-won-t-cure-cancer-anytime-s
 - 2026-08-22-the-information-questions-near-term-claims-that-ai-will-cure
 - 2026-08-23-scientists-say-ai-probably-won-t-cure-cancer-anytime-soon
 - 2026-11-07-november-8-2026-business-insider
+- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 embedding_id: 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider profiled a Google researcher working to apply foundation models
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-22-ai-promises-to-cure-cancer-scientists-feel-existential-dread]] · [[2026-08-23-scientists-push-back-ai-probably-won-t-cure-cancer-anytime-s]] · [[2026-08-22-the-information-questions-near-term-claims-that-ai-will-cure]] · [[2026-08-23-scientists-say-ai-probably-won-t-cure-cancer-anytime-soon]] · [[2026-11-07-november-8-2026-business-insider]]
+**Related:** [[2026-08-22-ai-promises-to-cure-cancer-scientists-feel-existential-dread]] · [[2026-08-22-the-information-questions-near-term-claims-that-ai-will-cure]] · [[2026-08-23-scientists-say-ai-probably-won-t-cure-cancer-anytime-soon]] · [[2026-11-07-november-8-2026-business-insider]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
 <!-- graph:end -->

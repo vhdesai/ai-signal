@@ -23,7 +23,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
-- 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 - 2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind
 - 2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del
@@ -40,5 +39,5 @@ Cybernews reports Thales unveiled HexaForce, a European-sovereign alternative to
 
 **Entities:** [[Palantir]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind]] · [[2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del]]
+**Related:** [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind]] · [[2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del]]
 <!-- graph:end -->

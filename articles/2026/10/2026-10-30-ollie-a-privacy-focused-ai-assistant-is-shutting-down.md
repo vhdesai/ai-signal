@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-03-ollie-bets-privacy-positioning-can-win-the-ai-assistant-race
 - 2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam
 - 2026-10-24-the-ai-graveyard-narrative-highlights-faster-shutdown-and-pi
 - 2026-08-17-ai-automation-startup-relay-shuts-down-founder-rejoins-googl
+- 2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise
 embedding_id: 2026-10-30-ollie-a-privacy-focused-ai-assistant-is-shutting-down
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Source Timing note: Published October 30 at 15:56 PDT, inside the source window.
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-03-ollie-bets-privacy-positioning-can-win-the-ai-assistant-race]] · [[2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam]] · [[2026-10-24-the-ai-graveyard-narrative-highlights-faster-shutdown-and-pi]] · [[2026-08-17-ai-automation-startup-relay-shuts-down-founder-rejoins-googl]]
+**Related:** [[2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam]] · [[2026-10-24-the-ai-graveyard-narrative-highlights-faster-shutdown-and-pi]] · [[2026-08-17-ai-automation-startup-relay-shuts-down-founder-rejoins-googl]] · [[2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise]]
 <!-- graph:end -->

@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control
 - 2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum
+- 2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard
 embedding_id: 2026-09-23-university-of-washington-builds-a-one-gram-hopping-robot-wit
 event_name: ''
 ---
@@ -36,5 +37,5 @@ UW's Autonomous Insect Robotics Lab demonstrated "DirectHop," a grasshopper-insp
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control]] · [[2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum]]
+**Related:** [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control]] · [[2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum]] · [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard]]
 <!-- graph:end -->

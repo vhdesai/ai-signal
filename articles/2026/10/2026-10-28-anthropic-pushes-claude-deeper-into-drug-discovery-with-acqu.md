@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 - 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
 - 2026-10-28-anthropic-buys-a-one-person-biotech-and-starts-its-own-drug
+- 2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr
 - 2026-07-28-icon-to-deploy-anthropic-s-claude-across-the-clinical-trial
-- 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
 embedding_id: 2026-10-28-anthropic-pushes-claude-deeper-into-drug-discovery-with-acqu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic acquired Mithril Medicine and announced additional partnerships with B
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
-**Related:** [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc]] · [[2026-10-28-anthropic-buys-a-one-person-biotech-and-starts-its-own-drug]] · [[2026-07-28-icon-to-deploy-anthropic-s-claude-across-the-clinical-trial]] · [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]]
+**Related:** [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc]] · [[2026-10-28-anthropic-buys-a-one-person-biotech-and-starts-its-own-drug]] · [[2026-10-31-drug-discovery-becomes-a-frontier-lab-growth-story-for-anthr]] · [[2026-07-28-icon-to-deploy-anthropic-s-claude-across-the-clinical-trial]]
 <!-- graph:end -->

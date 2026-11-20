@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-14-google-deepmind-and-singapore-build-on-device-ai-scam-detect
 - 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
-- 2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners
+- 2026-11-14-november-13-2026-wsj-pro-cybersecurity
 embedding_id: 2026-10-14-deepmind-and-singapore-develop-local-scam-detection
 event_name: ''
 ---
@@ -41,5 +41,5 @@ DeepMind and GovTech developed on-device scam detection using a lightweight scre
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Databricks]] · [[Google]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-14-google-deepmind-and-singapore-build-on-device-ai-scam-detect]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-10-24-uk-announces-ai-biosecurity-lab-with-frontier-model-partners]]
+**Related:** [[2026-10-14-google-deepmind-and-singapore-build-on-device-ai-scam-detect]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-11-14-november-13-2026-wsj-pro-cybersecurity]]
 <!-- graph:end -->

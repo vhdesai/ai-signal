@@ -21,7 +21,9 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
+related_article_ids:
+- 2026-09-04-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug
+- 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
 embedding_id: 2026-09-06-nvidia-s-12-9b-hugging-face-deal-shows-why-ipos-are-now-opti
 event_name: ''
 ---
@@ -35,4 +37,5 @@ PitchBook's Weekend Pitch argues that Hugging Face's exit demonstrates that star
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
+**Related:** [[2026-09-04-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug]] · [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control]]
 <!-- graph:end -->

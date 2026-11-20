@@ -22,8 +22,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-12-agents-start-spending-money-and-making-calls-as-amazon-plans
 - 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
+- 2026-11-12-agents-start-spending-money-and-making-calls-as-amazon-plans
 - 2026-08-01-the-ai-brief-august-1-2026
 - 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
 - 2026-09-25-saturday-september-26-2026
@@ -40,5 +40,5 @@ An internal Amazon planning memo (a "PR/FAQ") reviewed by Reuters describes coll
 
 **Entities:** [[Amazon]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-12-agents-start-spending-money-and-making-calls-as-amazon-plans]] · [[2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land]] · [[2026-08-01-the-ai-brief-august-1-2026]] · [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu]] · [[2026-09-25-saturday-september-26-2026]]
+**Related:** [[2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land]] · [[2026-11-12-agents-start-spending-money-and-making-calls-as-amazon-plans]] · [[2026-08-01-the-ai-brief-august-1-2026]] · [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu]] · [[2026-09-25-saturday-september-26-2026]]
 <!-- graph:end -->

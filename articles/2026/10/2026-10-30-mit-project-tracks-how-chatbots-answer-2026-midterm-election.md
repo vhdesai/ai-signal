@@ -5,7 +5,7 @@ date: '2026-10-30'
 source: '[MIT News]'
 url_original: https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030
 url_canonical: https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-31_061259_Inbox_Daily AI News Digest - October
   31, 2026.md
 content_hash: 6d01a2c3dd909a2ba725bd2b118b8a39f08340d1aec0f06fdd5cd21a48511c3a

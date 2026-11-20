@@ -30,7 +30,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o
 - 2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance
-- 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
+- 2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour
 embedding_id: 2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Nvidia has handed off governance of the Open Secure AI Alliance — a coalition 
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[IBM]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o]] · [[2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance]] · [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]]
+**Related:** [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o]] · [[2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance]] · [[2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour]]
 <!-- graph:end -->

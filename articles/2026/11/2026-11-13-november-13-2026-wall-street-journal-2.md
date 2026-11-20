@@ -20,9 +20,12 @@ themes:
 - company-investments
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as
+- 2026-11-18-november-19-2026-pitchbook
+- 2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo
 embedding_id: 2026-11-13-november-13-2026-wall-street-journal-2
 event_name: ''
 ---
@@ -36,5 +39,5 @@ CNBC reports OpenAI raised $15 billion at a $1.25 trillion valuation, half the $
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Canonical:** [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo]]
+**Related:** [[2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as]] · [[2026-11-18-november-19-2026-pitchbook]] · [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo]]
 <!-- graph:end -->

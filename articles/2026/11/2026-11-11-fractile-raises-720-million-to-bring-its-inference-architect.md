@@ -22,8 +22,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some
 - 2026-11-11-november-11-2026-the-information
+- 2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some
 - 2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
 embedding_id: 2026-11-11-fractile-raises-720-million-to-bring-its-inference-architect
@@ -38,5 +38,5 @@ Fractile raised a $720 million Series C, with backing from Britain’s Sovereign
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some]] · [[2026-11-11-november-11-2026-the-information]] · [[2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]]
+**Related:** [[2026-11-11-november-11-2026-the-information]] · [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some]] · [[2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]]
 <!-- graph:end -->

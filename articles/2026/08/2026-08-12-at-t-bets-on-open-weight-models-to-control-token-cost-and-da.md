@@ -20,8 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
+- 2026-08-20-at-t-has-a-plan-to-curb-its-anthropic-bills
+- 2026-08-20-at-t-plans-to-curb-anthropic-and-openai-spending-by-shifting
 - 2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi
-- 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 embedding_id: 2026-08-12-at-t-bets-on-open-weight-models-to-control-token-cost-and-da
 event_name: ''
 ---
@@ -34,5 +35,5 @@ AT&T is leaning heavily on open-weight models — reportedly around a quarter of
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]] · [[2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]]
+**Related:** [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]] · [[2026-08-20-at-t-has-a-plan-to-curb-its-anthropic-bills]] · [[2026-08-20-at-t-plans-to-curb-anthropic-and-openai-spending-by-shifting]] · [[2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi]]
 <!-- graph:end -->

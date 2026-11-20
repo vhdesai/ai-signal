@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-10-30-tokeneconomizer-cuts-coding-agent-token-costs-by-up-to-30-9
 - 2026-10-31-tokeneconomizer-is-an-open-source-plugin-for-claude-code-cod
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
+- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 embedding_id: 2026-10-30-microsoft-research-and-uc-berkeley-s-tokeneconomizer-cuts-co
 event_name: ''
 ---
@@ -38,5 +39,5 @@ TokenEconomizer is an open-source plugin for Claude Code, Codex, GitHub Copilot 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-30-tokeneconomizer-cuts-coding-agent-token-costs-by-up-to-30-9]] · [[2026-10-31-tokeneconomizer-is-an-open-source-plugin-for-claude-code-cod]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]]
+**Related:** [[2026-10-30-tokeneconomizer-cuts-coding-agent-token-costs-by-up-to-30-9]] · [[2026-10-31-tokeneconomizer-is-an-open-source-plugin-for-claude-code-cod]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
 <!-- graph:end -->

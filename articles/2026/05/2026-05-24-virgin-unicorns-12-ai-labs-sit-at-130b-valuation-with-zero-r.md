@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val
-- 2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation
+- 2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 - 2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val
@@ -40,5 +40,5 @@ AI economist Oren Etzioni's analysis catalogs 12 AI labs that have collectively 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val]] · [[2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val]]
+**Related:** [[2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val]] · [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val]]
 <!-- graph:end -->

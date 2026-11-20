@@ -19,14 +19,10 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh
 related_article_ids:
 - 2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at
-- 2026-09-06-openai-says-it-has-hit-its-automated-research-intern-goal-3
-- 2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh
-- 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
-- 2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu
 embedding_id: 2026-09-06-openai-says-it-has-reached-its-automated-research-intern-mil
 event_name: ''
 ---
@@ -40,5 +36,6 @@ OpenAI announced it has met the goal Sam Altman set in an October 2025 livestrea
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at]] · [[2026-09-06-openai-says-it-has-hit-its-automated-research-intern-goal-3]] · [[2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh]] · [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu]]
+**Canonical:** [[2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh]]
+**Related:** [[2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at]]
 <!-- graph:end -->

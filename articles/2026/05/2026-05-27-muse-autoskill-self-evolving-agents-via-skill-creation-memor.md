@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r
 - 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-- 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
+- 2026-11-06-meta-deploys-specialized-muse-models-with-active-memory-and
 embedding_id: 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MUSE proposes an architecture for agents that autonomously create, store, manage
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]]
+**Related:** [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-11-06-meta-deploys-specialized-muse-models-with-active-memory-and]]
 <!-- graph:end -->

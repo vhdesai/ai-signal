@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 612
+member_count: 614
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 612 connected article(s).
+> Auto-generated entity hub. 614 connected article(s).
 
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]
 - `2026-11-16` [[2026-11-16-reported-deepseek-consumer-limits-highlight-compute-availabi|Reported DeepSeek consumer limits highlight compute availability risk]]

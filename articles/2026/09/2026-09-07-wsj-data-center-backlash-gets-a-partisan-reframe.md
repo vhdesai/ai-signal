@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
+- 2026-11-06-the-data-center-backlash-goes-transatlantic-as-ai-companies
 - 2026-08-21-when-backing-data-centers-backfires-lawmakers-sour-on-megasi
-- 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
 embedding_id: 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Wall Street Journal reports that industry allies and the Trump administratio
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]] · [[2026-08-21-when-backing-data-centers-backfires-lawmakers-sour-on-megasi]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]]
+**Related:** [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]] · [[2026-11-06-the-data-center-backlash-goes-transatlantic-as-ai-companies]] · [[2026-08-21-when-backing-data-centers-backfires-lawmakers-sour-on-megasi]]
 <!-- graph:end -->

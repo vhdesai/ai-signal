@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap
 - 2026-08-02-the-race-to-build-an-american-alternative-to-cheap-ai-from-c
+- 2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi
 - 2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs
-- 2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t
 embedding_id: 2026-09-19-young-workers-in-china-turn-burnout-and-unemployment-into-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Wall Street Journal reported that burned-out and unemployed young people in 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap]] · [[2026-08-02-the-race-to-build-an-american-alternative-to-cheap-ai-from-c]] · [[2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs]] · [[2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t]]
+**Related:** [[2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap]] · [[2026-08-02-the-race-to-build-an-american-alternative-to-cheap-ai-from-c]] · [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi]] · [[2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs]]
 <!-- graph:end -->

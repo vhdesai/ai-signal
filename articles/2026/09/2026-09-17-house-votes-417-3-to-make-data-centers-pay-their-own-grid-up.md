@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-17-senate-blocks-data-center-ratepayer-bill-a-day-after-417-3-h
 - 2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow
+- 2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi
 - 2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t
 - 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
-- 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 embedding_id: 2026-09-17-house-votes-417-3-to-make-data-centers-pay-their-own-grid-up
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The US House voted 417–3 to require large AI data centers to pay their own gri
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-17-senate-blocks-data-center-ratepayer-bill-a-day-after-417-3-h]] · [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]] · [[2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]]
+**Related:** [[2026-09-17-senate-blocks-data-center-ratepayer-bill-a-day-after-417-3-h]] · [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]] · [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi]] · [[2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety
 - 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
-- 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law
+- 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
 embedding_id: 2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models
 event_name: ''
@@ -41,5 +41,5 @@ Quartz reports the U.K. has regained pre-release access to OpenAI and Anthropic 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety]] · [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law]] · [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model]]
+**Related:** [[2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety]] · [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]] · [[2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model]]
 <!-- graph:end -->

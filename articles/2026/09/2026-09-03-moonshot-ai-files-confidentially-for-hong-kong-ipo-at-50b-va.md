@@ -22,12 +22,9 @@ themes:
 - company-investments
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50
-- 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b
-- 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
+dedupe_status: duplicate
+canonical_article_id: 2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo
+related_article_ids: []
 embedding_id: 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va
 event_name: ''
 ---
@@ -41,5 +38,5 @@ Beijing-based Moonshot AI, developer of the Kimi model family including Kimi K3,
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50]] · [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]]
+**Canonical:** [[2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo]]
 <!-- graph:end -->

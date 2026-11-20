@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
-- 2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und
+- 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
 embedding_id: 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 event_name: ''
 ---
@@ -38,5 +38,5 @@ In its annual economic report (released Sunday), the Bank for International Sett
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]] · [[2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und]]
+**Related:** [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]] · [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c]]
 <!-- graph:end -->

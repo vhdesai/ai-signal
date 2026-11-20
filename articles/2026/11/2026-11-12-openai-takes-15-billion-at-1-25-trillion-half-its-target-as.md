@@ -28,7 +28,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-13-november-13-2026-wall-street-journal-2
-- 2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion
 embedding_id: 2026-11-12-openai-takes-15-billion-at-1-25-trillion-half-its-target-as
 event_name: ''
 ---
@@ -42,5 +41,5 @@ CNBC reports that OpenAI raised $15 billion at a $1.25 trillion valuation, half 
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-11-13-november-13-2026-wall-street-journal-2]] · [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion]]
+**Related:** [[2026-11-13-november-13-2026-wall-street-journal-2]]
 <!-- graph:end -->

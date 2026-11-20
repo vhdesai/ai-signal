@@ -26,7 +26,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cutting-f
-- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a
 embedding_id: 2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cuts-fabl
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Anthropic says both models improve on coding, reasoning, and vision. Fable 5.2's
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cutting-f]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a]]
+**Related:** [[2026-11-09-anthropic-releases-claude-mythos-5-2-and-fable-5-2-cutting-f]]
 <!-- graph:end -->

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a
 - 2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f
-- 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
+- 2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon
 embedding_id: 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Starting Sunday night, Muse users attempting to buy on Amazon received an error 
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Perplexity]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us]] · [[2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]]
+**Related:** [[2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us]] · [[2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f]] · [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon]]
 <!-- graph:end -->

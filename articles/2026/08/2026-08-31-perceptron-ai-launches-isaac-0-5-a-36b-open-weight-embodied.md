@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-08-26-ex-meta-scientists-launch-perceptron-to-bring-visual-ai-to-t
 - 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
+- 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
 embedding_id: 2026-08-31-perceptron-ai-launches-isaac-0-5-a-36b-open-weight-embodied
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Perceptron AI launched Isaac 0.5, a 36-billion-parameter open-weight embodied fo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-20-generalist-ai-s-gen-1-5-robot-model-learns-new-tasks-from-a]] · [[2026-08-26-ex-meta-scientists-launch-perceptron-to-bring-visual-ai-to-t]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]]
+**Related:** [[2026-08-20-generalist-ai-s-gen-1-5-robot-model-learns-new-tasks-from-a]] · [[2026-08-26-ex-meta-scientists-launch-perceptron-to-bring-visual-ai-to-t]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]]
 <!-- graph:end -->

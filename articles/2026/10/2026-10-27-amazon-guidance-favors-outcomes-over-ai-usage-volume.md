@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
 - 2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter
 - 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
-- 2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte
+- 2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio
 embedding_id: 2026-10-27-amazon-guidance-favors-outcomes-over-ai-usage-volume
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Amazon’s engineering guidance rejects token usage and code-generation counts a
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte]]
+**Related:** [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio]]
 <!-- graph:end -->

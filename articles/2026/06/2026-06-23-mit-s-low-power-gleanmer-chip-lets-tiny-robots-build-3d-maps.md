@@ -6,7 +6,7 @@ date: '2026-06-23'
 source: MIT News
 url_original: https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623
 url_canonical: https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 846b20fa22cf399e049be667db3450324c31523f784bef9526dbbab9b153f649
 normalized_title_hash: 7c7c9fb86fca65df
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world
 - 2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m
 - 2026-04-02-research-breakthroughs
+- 2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard
 - 2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles
-- 2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and
 embedding_id: 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT researchers unveiled a system-on-chip that generates real-time 3D navigation
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]] · [[2026-04-02-research-breakthroughs]] · [[2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles]] · [[2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and]]
+**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]] · [[2026-04-02-research-breakthroughs]] · [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard]] · [[2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles]]
 <!-- graph:end -->

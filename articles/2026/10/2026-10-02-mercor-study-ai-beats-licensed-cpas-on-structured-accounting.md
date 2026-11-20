@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai
-- 2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
+- 2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck
 - 2026-09-21-new-cais-benchmark-ranks-which-models-cheat-most-on-evaluati
 - 2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre
 embedding_id: 2026-10-02-mercor-study-ai-beats-licensed-cpas-on-structured-accounting
@@ -37,5 +37,5 @@ A new Mercor study shows frontier AI models now outperform licensed CPAs on stru
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai]] · [[2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-09-21-new-cais-benchmark-ranks-which-models-cheat-most-on-evaluati]] · [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]]
+**Related:** [[2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck]] · [[2026-09-21-new-cais-benchmark-ranks-which-models-cheat-most-on-evaluati]] · [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]]
 <!-- graph:end -->

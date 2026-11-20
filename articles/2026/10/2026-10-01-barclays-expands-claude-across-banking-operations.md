@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to
 - 2026-05-28-cognizant-deploys-anthropic-claude-to-modernize-travelport
+- 2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili
 embedding_id: 2026-10-01-barclays-expands-claude-across-banking-operations
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Barclays plans broader Claude deployment, including developer adoption. Anthropi
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-01-barclays-materially-expands-enterprise-claude-deployment-sta]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to]] · [[2026-05-28-cognizant-deploys-anthropic-claude-to-modernize-travelport]]
+**Related:** [[2026-10-01-barclays-materially-expands-enterprise-claude-deployment-sta]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to]] · [[2026-05-28-cognizant-deploys-anthropic-claude-to-modernize-travelport]] · [[2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili]]
 <!-- graph:end -->

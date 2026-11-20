@@ -20,9 +20,10 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an
+canonical_article_id: 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr
 related_article_ids:
-- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu
+- 2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an
+- 2026-09-19-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can
 embedding_id: 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-ai-s
 event_name: ''
 ---
@@ -36,6 +37,6 @@ Nvidia CEO Jensen Huang told CBS News there is "0% chance" AI ends the world by 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Canonical:** [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an]]
-**Related:** [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu]]
+**Canonical:** [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr]]
+**Related:** [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an]] · [[2026-09-19-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can]]
 <!-- graph:end -->

@@ -18,9 +18,13 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high
+- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
+- 2026-07-22-nvidia-helps-customers-finance-gpu-purchases-to-expand-ai-ch
+- 2026-11-03-nvidia-tells-cloud-partners-to-limit-future-business-with-ch
 embedding_id: 2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers
 event_name: ''
 ---
@@ -34,5 +38,5 @@ Three customers were responsible for 44% of total NVIDIA sales in H1 FY26, up fr
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high]]
+**Related:** [[2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-07-22-nvidia-helps-customers-finance-gpu-purchases-to-expand-ai-ch]] · [[2026-11-03-nvidia-tells-cloud-partners-to-limit-future-business-with-ch]]
 <!-- graph:end -->

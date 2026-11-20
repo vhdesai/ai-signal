@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-08-20-at-t-has-a-plan-to-curb-its-anthropic-bills
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
-- 2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope
+- 2026-11-19-anthropic-pushes-cowork-managed-agents-and-deep-discounts-to
 embedding_id: 2026-09-04-anthropic-explores-bringing-more-billing-and-payments-techno
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic job postings indicate that it is evaluating internal billing, fraud-de
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-09-04-anthropic-explores-bringing-payments-and-billing-infrastruct]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-20-at-t-has-a-plan-to-curb-its-anthropic-bills]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope]]
+**Related:** [[2026-09-04-anthropic-explores-bringing-payments-and-billing-infrastruct]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-20-at-t-has-a-plan-to-curb-its-anthropic-bills]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-11-19-anthropic-pushes-cowork-managed-agents-and-deep-discounts-to]]
 <!-- graph:end -->

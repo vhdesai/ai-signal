@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic
 - 2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic
-- 2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment
+- 2026-11-19-alibaba-reports-accelerating-ai-cloud-growth-alongside-heavy
 embedding_id: 2026-09-05-alibaba-s-wan3-0-expands-its-ai-ambitions-could-shareholders
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Yahoo Finance reports on Alibaba's Wan3.0 ambitions and the investor question of
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic]] · [[2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic]] · [[2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment]]
+**Related:** [[2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic]] · [[2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic]] · [[2026-11-19-alibaba-reports-accelerating-ai-cloud-growth-alongside-heavy]]
 <!-- graph:end -->

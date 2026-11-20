@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-chinese-models-cross-60-of-all-openrouter-usage
+- 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 embedding_id: 2026-09-26-chinese-model-providers-take-majority-token-share-on-major-d
 event_name: ''
@@ -35,5 +36,5 @@ CNBC reports Chinese-origin models reached 57–67% of tokens routed through Ope
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-25-chinese-models-cross-60-of-all-openrouter-usage]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
+**Related:** [[2026-05-25-chinese-models-cross-60-of-all-openrouter-usage]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
 <!-- graph:end -->

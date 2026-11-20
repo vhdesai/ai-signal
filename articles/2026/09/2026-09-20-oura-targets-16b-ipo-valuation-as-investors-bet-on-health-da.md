@@ -22,8 +22,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-18-november-19-2026-pitchbook
 - 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
-- 2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor
 embedding_id: 2026-09-20-oura-targets-16b-ipo-valuation-as-investors-bet-on-health-da
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Finnish smart-ring maker Oura is preparing to list as early as this month at up 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]] · [[2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor]]
+**Related:** [[2026-11-18-november-19-2026-pitchbook]] · [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]]
 <!-- graph:end -->

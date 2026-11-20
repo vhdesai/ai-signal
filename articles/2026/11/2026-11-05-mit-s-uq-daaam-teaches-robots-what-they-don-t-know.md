@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-05-mit-spark-lab-researchers-added-uncertainty-quantification-t
 - 2026-11-09-november-9-2026-mit-news
-- 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
+- 2026-07-26-abbel-belief-state-memory-for-llm-agents
 embedding_id: 2026-11-05-mit-s-uq-daaam-teaches-robots-what-they-don-t-know
 event_name: ''
 ---
@@ -34,5 +34,5 @@ MIT SPARK Lab researchers added uncertainty quantification to DAAAM, a vision-la
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-05-mit-spark-lab-researchers-added-uncertainty-quantification-t]] · [[2026-11-09-november-9-2026-mit-news]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]]
+**Related:** [[2026-11-05-mit-spark-lab-researchers-added-uncertainty-quantification-t]] · [[2026-11-09-november-9-2026-mit-news]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]]
 <!-- graph:end -->

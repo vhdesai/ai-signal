@@ -23,8 +23,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and
 - 2026-11-13-perplexity-releases-open-weight-decider-v1-3-models-that-ret
+- 2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and
 - 2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and
 embedding_id: 2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur
 event_name: ''
@@ -39,5 +39,5 @@ Perplexity released pplx-decider-v1.3 at 27 billion parameters and a 4-billion-p
 
 **Entities:** [[Google]] · [[Perplexity]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and]] · [[2026-11-13-perplexity-releases-open-weight-decider-v1-3-models-that-ret]] · [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and]]
+**Related:** [[2026-11-13-perplexity-releases-open-weight-decider-v1-3-models-that-ret]] · [[2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and]] · [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and]]
 <!-- graph:end -->

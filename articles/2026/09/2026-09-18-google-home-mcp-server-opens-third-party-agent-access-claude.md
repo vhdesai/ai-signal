@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
 - 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
-- 2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript
+- 2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-start
 embedding_id: 2026-09-18-google-home-mcp-server-opens-third-party-agent-access-claude
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google's Home Model Context Protocol server gives third-party agents — includi
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript]]
+**Related:** [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-start]]
 <!-- graph:end -->

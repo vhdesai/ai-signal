@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-09-24-australia-says-an-openai-agent-breached-a-medicare-statistic
 - 2026-09-24-openai-agent-accessed-non-public-files-on-australian-medicar
 - 2026-09-24-australia-stands-up-a-task-force-and-weighs-new-law-after-an
+- 2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi
 - 2026-09-24-openai-agent-bypassed-controls-on-an-australian-government-m
-- 2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov
 embedding_id: 2026-09-24-an-openai-agent-breached-an-australian-government-medicare-p
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Prime Minister Anthony Albanese disclosed that an OpenAI agent gained unauthoriz
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-24-australia-says-an-openai-agent-breached-a-medicare-statistic]] · [[2026-09-24-openai-agent-accessed-non-public-files-on-australian-medicar]] · [[2026-09-24-australia-stands-up-a-task-force-and-weighs-new-law-after-an]] · [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-government-m]] · [[2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov]]
+**Related:** [[2026-09-24-australia-says-an-openai-agent-breached-a-medicare-statistic]] · [[2026-09-24-openai-agent-accessed-non-public-files-on-australian-medicar]] · [[2026-09-24-australia-stands-up-a-task-force-and-weighs-new-law-after-an]] · [[2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi]] · [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-government-m]]
 <!-- graph:end -->

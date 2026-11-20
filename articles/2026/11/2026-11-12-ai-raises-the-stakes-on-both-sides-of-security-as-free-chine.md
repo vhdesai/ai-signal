@@ -25,8 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-14-november-13-2026-wsj-pro-cybersecurity
-- 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
-- 2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d
+- 2026-11-12-the-fireworks-ai-breach-reached-notion-ai-chat-transcripts-s
+- 2026-11-13-openai-unveils-daybreak-red-team-defense-factory-security-to
 embedding_id: 2026-11-12-ai-raises-the-stakes-on-both-sides-of-security-as-free-chine
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Tenzai's CTO says freely downloadable Chinese open-weight models can now break i
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-11-14-november-13-2026-wsj-pro-cybersecurity]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-11-06-autonomous-attack-tooling-spreads-as-labs-widen-access-for-d]]
+**Related:** [[2026-11-14-november-13-2026-wsj-pro-cybersecurity]] · [[2026-11-12-the-fireworks-ai-breach-reached-notion-ai-chat-transcripts-s]] · [[2026-11-13-openai-unveils-daybreak-red-team-defense-factory-security-to]]
 <!-- graph:end -->

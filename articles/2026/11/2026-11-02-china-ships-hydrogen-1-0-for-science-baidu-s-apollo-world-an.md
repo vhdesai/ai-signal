@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-11-03-november-3-2026-reuters
 - 2026-11-02-deep-principle-releases-hydrogen-1-0-a-753b-open-weight-mode
 - 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
-- 2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite
+- 2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as
 embedding_id: 2026-11-02-china-ships-hydrogen-1-0-for-science-baidu-s-apollo-world-an
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Hangzhou-based Deep Principle released Hydrogen-1.0, a 753B-parameter MIT-licens
 
 **Entities:** [[Baidu]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-11-02-chinese-labs-ship-hydrogen-1-0-for-science-baidu-s-apollo-wo]] · [[2026-11-03-november-3-2026-reuters]] · [[2026-11-02-deep-principle-releases-hydrogen-1-0-a-753b-open-weight-mode]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite]]
+**Related:** [[2026-11-02-chinese-labs-ship-hydrogen-1-0-for-science-baidu-s-apollo-wo]] · [[2026-11-03-november-3-2026-reuters]] · [[2026-11-02-deep-principle-releases-hydrogen-1-0-a-753b-open-weight-mode]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-11-05-open-weights-advance-baidu-releases-ernie-5-5-flash-base-as]]
 <!-- graph:end -->

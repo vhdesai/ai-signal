@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-21-academic-counterargument-extinction-scenarios-require-physic
 - 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
-- 2026-09-26-study-ai-access-nearly-eliminates-people-s-willingness-to-sa
-- 2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai
+- 2026-09-21-academic-counterargument-extinction-scenarios-require-physic
+- 2026-11-18-openai-board-member-paul-christiano-puts-the-risk-of-ai-take
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
+- 2026-10-05-quinnipiac-poll-77-of-americans-want-ai-development-slowed-o
 embedding_id: 2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A 2024 AI Impacts survey of more than 1,500 leading AI researchers reported an a
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic]] · [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]] · [[2026-09-26-study-ai-access-nearly-eliminates-people-s-willingness-to-sa]] · [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]]
+**Related:** [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]] · [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic]] · [[2026-11-18-openai-board-member-paul-christiano-puts-the-risk-of-ai-take]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-10-05-quinnipiac-poll-77-of-americans-want-ai-development-slowed-o]]
 <!-- graph:end -->

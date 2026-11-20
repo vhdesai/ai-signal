@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-11-13-google-s-teamwork-multi-agent-system-helps-settle-long-open
 - 2026-11-14-google-research-says-teams-using-gemini-4-models-and-antigra
 - 2026-11-08-november-8-2026-marktechpost
-- 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 embedding_id: 2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-a-long-open
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Google says Antigravity's /teamwork harness runs many solution attempts in paral
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-the-courtad]] · [[2026-11-13-google-s-teamwork-multi-agent-system-helps-settle-long-open]] · [[2026-11-14-google-research-says-teams-using-gemini-4-models-and-antigra]] · [[2026-11-08-november-8-2026-marktechpost]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]]
+**Related:** [[2026-11-13-google-s-teamwork-multi-agent-system-helps-prove-the-courtad]] · [[2026-11-13-google-s-teamwork-multi-agent-system-helps-settle-long-open]] · [[2026-11-14-google-research-says-teams-using-gemini-4-models-and-antigra]] · [[2026-11-08-november-8-2026-marktechpost]]
 <!-- graph:end -->

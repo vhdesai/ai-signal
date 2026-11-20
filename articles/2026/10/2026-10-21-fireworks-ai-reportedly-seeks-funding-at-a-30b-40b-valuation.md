@@ -22,7 +22,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation
 - 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
-- 2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so
 - 2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation
 embedding_id: 2026-10-21-fireworks-ai-reportedly-seeks-funding-at-a-30b-40b-valuation
 event_name: ''
@@ -36,5 +35,5 @@ Business Insider reports Fireworks AI is pursuing a new round at a materially hi
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so]] · [[2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation]]
+**Related:** [[2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation]]
 <!-- graph:end -->

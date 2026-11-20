@@ -40,9 +40,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce
 - 2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture
 - 2026-11-05-news-source-discovery-also-covered-wsj-ai-marktechpost-techc
+- 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
+- 2026-07-05-news-sites-wsj-ai-marktechpost-techcrunch-ai-venturebeat-ai
+- 2026-11-06-news-outlets-checked-through-search-results-reuters-techcrun
 embedding_id: 2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce
 event_name: ''
 ---
@@ -56,5 +58,5 @@ Disney agreed to hire most Character.AI staff. Competing bids could replace the 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce]] · [[2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture]] · [[2026-11-05-news-source-discovery-also-covered-wsj-ai-marktechpost-techc]]
+**Related:** [[2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture]] · [[2026-11-05-news-source-discovery-also-covered-wsj-ai-marktechpost-techc]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-07-05-news-sites-wsj-ai-marktechpost-techcrunch-ai-venturebeat-ai]] · [[2026-11-06-news-outlets-checked-through-search-results-reuters-techcrun]]
 <!-- graph:end -->

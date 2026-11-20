@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade
+- 2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is
 - 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
-- 2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent
-- 2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize
+- 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
 embedding_id: 2026-10-10-reported-nvidia-reflection-ai-talks-remain-unconfirmed-but-s
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reuters relayed Financial Times reporting that Nvidia is in early discussions to
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent]] · [[2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize]]
+**Related:** [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade]] · [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo]]
 <!-- graph:end -->

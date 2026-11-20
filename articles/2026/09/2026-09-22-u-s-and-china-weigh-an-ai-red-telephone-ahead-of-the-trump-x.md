@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af
 - 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
 - 2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a
-- 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
 embedding_id: 2026-09-22-u-s-and-china-weigh-an-ai-red-telephone-ahead-of-the-trump-x
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Washington and Beijing are weighing an emergency notification channel for AI inc
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]] · [[2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a]] · [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]]
+**Related:** [[2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]] · [[2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a]]
 <!-- graph:end -->

@@ -1,18 +1,29 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 3067
+member_count: 3078
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 3067 connected article(s).
+> Auto-generated entity hub. 3078 connected article(s).
 
+- `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-19` [[2026-11-19-openai-says-its-models-improved-amd-s-flagship-gpu-design-by|OpenAI says its models improved AMD's flagship GPU design by up to 14% and shrank its own Jalapeno chip]]
+- `2026-11-19` [[2026-11-19-mit-study-traces-data-center-air-pollution-effects-across-th|MIT study traces data-center air-pollution effects across the grid]]
+- `2026-11-19` [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard|MIT microrobot brings sensing and flight computation onboard]]
+- `2026-11-18` [[2026-11-18-november-19-2026-pitchbook|[November 19, 2026] · [PitchBook]]]
+- `2026-11-18` [[2026-11-18-november-19-2026-dealbook|[November 19, 2026] · [DealBook]]]
+- `2026-11-18` [[2026-11-18-november-18-2026-wall-street-journal|[November 18, 2026] · [Wall Street Journal]]]
 - `2026-11-18` [[2026-11-18-november-17-2026-techcrunch|[November 17, 2026] · [TechCrunch]]]
 - `2026-11-18` [[2026-11-18-november-17-2026-microsoft-ai|[November 17, 2026] · [Microsoft AI]]]
+- `2026-11-18` [[2026-11-18-openai-reports-model-written-optimizations-entering-chip-des|OpenAI reports model-written optimizations entering chip designs]]
 - `2026-11-18` [[2026-11-18-openai-board-member-paul-christiano-puts-the-risk-of-ai-take|OpenAI board member Paul Christiano puts the risk of AI takeover near 10% within a year]]
 - `2026-11-18` [[2026-11-18-openai-and-le-figaro-combine-content-discovery-with-enterpri|OpenAI and Le Figaro combine content discovery with enterprise adoption]]
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
+- `2026-11-18` [[2026-11-18-house-panel-questions-reported-microsoft-bytedance-ai-discus|House panel questions reported Microsoft–ByteDance AI discussions]]
 - `2026-11-18` [[2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i|ByteDance nears a $500 million Azure deal for OpenAI models, irking OpenAI]]
 - `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-openai|[November 17, 2026] · [OpenAI]]]

@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 - 2026-10-31-october-31-2026-wall-street-journal
-- 2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc
+- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 embedding_id: 2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open
 event_name: ''
 ---
@@ -39,5 +39,5 @@ PitchBook data show global AI venture deal value fell 43.4% quarter over quarter
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-10-31-october-31-2026-wall-street-journal]] · [[2026-11-01-citing-the-financial-times-and-the-wall-street-journal-techc]]
+**Related:** [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-10-31-october-31-2026-wall-street-journal]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]]
 <!-- graph:end -->

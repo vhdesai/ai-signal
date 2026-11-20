@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-09-04-nscale-seeks-about-3-5-billion-in-pre-ipo-financing
 - 2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b
 - 2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-anthropic-compu
-- 2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d
 - 2026-09-04-nscale-reportedly-seeks-3-5b-ahead-of-a-potential-ipo
+- 2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d
 embedding_id: 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
 event_name: ''
 ---
@@ -41,5 +41,5 @@ TechCrunch reported that U.K.-based AI infrastructure company Nscale is in talks
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-04-nscale-seeks-about-3-5-billion-in-pre-ipo-financing]] · [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b]] · [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-anthropic-compu]] · [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d]] · [[2026-09-04-nscale-reportedly-seeks-3-5b-ahead-of-a-potential-ipo]]
+**Related:** [[2026-09-04-nscale-seeks-about-3-5-billion-in-pre-ipo-financing]] · [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b]] · [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-anthropic-compu]] · [[2026-09-04-nscale-reportedly-seeks-3-5b-ahead-of-a-potential-ipo]] · [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d]]
 <!-- graph:end -->

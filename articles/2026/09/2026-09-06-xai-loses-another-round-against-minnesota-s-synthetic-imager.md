@@ -21,8 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
-- 2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica
-- 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
+- 2026-08-01-judge-denies-xai-request-to-block-minnesota-ban-on-nudify-ap
 embedding_id: 2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager
 event_name: ''
 ---
@@ -36,5 +35,5 @@ A judge allowed Minnesota to continue enforcing its law penalizing platforms tha
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai]] · [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]]
+**Related:** [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai]] · [[2026-08-01-judge-denies-xai-request-to-block-minnesota-ban-on-nudify-ap]]
 <!-- graph:end -->

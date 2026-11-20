@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
 - 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
 - 2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou
-- 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
+- 2026-11-18-openai-reports-model-written-optimizations-entering-chip-des
 embedding_id: 2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored
 event_name: ''
 ---
@@ -36,5 +36,5 @@ No standalone research‑breakthrough items from the monitored labs carried a co
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]] · [[2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]]
+**Related:** [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]] · [[2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou]] · [[2026-11-18-openai-reports-model-written-optimizations-entering-chip-des]]
 <!-- graph:end -->

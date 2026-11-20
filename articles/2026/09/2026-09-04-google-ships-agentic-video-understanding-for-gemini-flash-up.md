@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for
 - 2026-09-01-google-introduces-agentic-video-understanding-for-gemini
 - 2026-11-11-new-google-introduces-gemini-decision-1-for-high-volume-deci
 - 2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google
+- 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
 embedding_id: 2026-09-04-google-ships-agentic-video-understanding-for-gemini-flash-up
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Rather than ingesting video at a fixed one-frame-per-second rate, Gemini now nav
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for]] · [[2026-09-01-google-introduces-agentic-video-understanding-for-gemini]] · [[2026-11-11-new-google-introduces-gemini-decision-1-for-high-volume-deci]] · [[2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google]]
+**Related:** [[2026-09-01-google-introduces-agentic-video-understanding-for-gemini]] · [[2026-11-11-new-google-introduces-gemini-decision-1-for-high-volume-deci]] · [[2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]]
 <!-- graph:end -->

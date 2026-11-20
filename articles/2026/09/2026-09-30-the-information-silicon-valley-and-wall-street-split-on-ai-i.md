@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-06-november-6-2026-the-information
-- 2026-11-09-anthropic-presses-ahead-with-its-ipo-roadshow-as-openai-clos
 - 2026-11-13-november-13-2026-wall-street-journal-2
+- 2026-11-09-anthropic-presses-ahead-with-its-ipo-roadshow-as-openai-clos
 embedding_id: 2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information reports shifting economic forces are driving a widening divide b
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-06-november-6-2026-the-information]] · [[2026-11-09-anthropic-presses-ahead-with-its-ipo-roadshow-as-openai-clos]] · [[2026-11-13-november-13-2026-wall-street-journal-2]]
+**Related:** [[2026-11-06-november-6-2026-the-information]] · [[2026-11-13-november-13-2026-wall-street-journal-2]] · [[2026-11-09-anthropic-presses-ahead-with-its-ipo-roadshow-as-openai-clos]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale
 - 2026-09-12-oracle-reportedly-weighing-further-job-cuts-as-ai-data-cente
+- 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
 - 2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke
@@ -40,5 +40,5 @@ Oracle disclosed an additional $700 million in restructuring costs — largely j
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale]] · [[2026-09-12-oracle-reportedly-weighing-further-job-cuts-as-ai-data-cente]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke]]
+**Related:** [[2026-09-12-oracle-reportedly-weighing-further-job-cuts-as-ai-data-cente]] · [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke]]
 <!-- graph:end -->

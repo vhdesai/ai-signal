@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Artificial Lawyer
 url_original: https://www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law/
 url_canonical: https://www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-20_061751_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: dd774080e5dc64ce88aab8f42cde6639e04393352e399943f1e1f2189634cefe
@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-17-openai-launches-astra-for-law-with-a-230-million-url-legal-s
 - 2026-09-18-openai-ships-astra-for-law-with-a-230-million-url-legal-sear
-- 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
+- 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
 embedding_id: 2026-09-18-openai-ships-astra-for-law-a-legal-configuration-of-gpt-6-as
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI launched Astra for Law — not a new model, but GPT-6 Astra paired with a
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-17-openai-launches-astra-for-law-with-a-230-million-url-legal-s]] · [[2026-09-18-openai-ships-astra-for-law-with-a-230-million-url-legal-sear]] · [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]]
+**Related:** [[2026-09-17-openai-launches-astra-for-law-with-a-230-million-url-legal-s]] · [[2026-09-18-openai-ships-astra-for-law-with-a-230-million-url-legal-sear]] · [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne]]
 <!-- graph:end -->

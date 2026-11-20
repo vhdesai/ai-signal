@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-tier-in-india
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in
-- 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
+- 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
 embedding_id: 2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenAI Ireland notified Free and Go plan users across the EEA that ads will appe
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]] · [[2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-tier-in-india]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in]] · [[2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india]]
+**Related:** [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]] · [[2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-tier-in-india]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-23-claude-autonomously-designed-protein-binders-that-worked-aga
 - 2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo
+- 2026-08-23-claude-autonomously-designed-protein-binders-that-worked-aga
 - 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
 - 2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico
 - 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
@@ -40,5 +40,5 @@ Anthropic published lab-validated results in which Claude models designed protei
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-23-claude-autonomously-designed-protein-binders-that-worked-aga]] · [[2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico]] · [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]]
+**Related:** [[2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo]] · [[2026-08-23-claude-autonomously-designed-protein-binders-that-worked-aga]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico]] · [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]]
 <!-- graph:end -->

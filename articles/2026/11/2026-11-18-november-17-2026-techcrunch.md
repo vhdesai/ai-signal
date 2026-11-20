@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-17-google-makes-gemini-tasks-free-and-keeps-temporary-chats-for
 - 2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months
-- 2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads
 - 2026-03-28-google-rolled-out-gemini-3-1-flash-live-to-more-than-200-cou
+- 2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads
 embedding_id: 2026-11-18-november-17-2026-techcrunch
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google is rolling out Tasks for free, letting Gemini call businesses, book appoi
 
 **Entities:** [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-17-google-makes-gemini-tasks-free-and-keeps-temporary-chats-for]] · [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months]] · [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads]] · [[2026-03-28-google-rolled-out-gemini-3-1-flash-live-to-more-than-200-cou]]
+**Related:** [[2026-11-17-google-makes-gemini-tasks-free-and-keeps-temporary-chats-for]] · [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months]] · [[2026-03-28-google-rolled-out-gemini-3-1-flash-live-to-more-than-200-cou]] · [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads]]
 <!-- graph:end -->

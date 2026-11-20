@@ -26,8 +26,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new
 - 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
+- 2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n
 - 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
@@ -44,5 +44,5 @@ SpaceX is reportedly seeking roughly $40B in loans and debt financing to buy Nvi
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new]] · [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]]
+**Related:** [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests]] · [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]]
 <!-- graph:end -->

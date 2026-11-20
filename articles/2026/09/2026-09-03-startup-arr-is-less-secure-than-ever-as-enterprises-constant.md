@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 - 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
 - 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
-- 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 embedding_id: 2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reported on new Madrona research showing that 74% of surveyed enterpr
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]]
+**Related:** [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]]
 <!-- graph:end -->

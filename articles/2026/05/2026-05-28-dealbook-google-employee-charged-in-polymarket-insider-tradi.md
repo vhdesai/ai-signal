@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-29-october-28-2026-cnbc
 - 2026-11-17-november-17-2026-business-insider
 - 2026-11-16-november-16-2026-federal-reserve
-- 2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing
+- 2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac
 embedding_id: 2026-05-28-dealbook-google-employee-charged-in-polymarket-insider-tradi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A Google employee, Michele Spagnuolo, was charged by the CFTC after making more 
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-11-07-november-7-2026-dealbook]] · [[2026-10-29-october-28-2026-cnbc]] · [[2026-11-17-november-17-2026-business-insider]] · [[2026-11-16-november-16-2026-federal-reserve]] · [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing]]
+**Related:** [[2026-11-07-november-7-2026-dealbook]] · [[2026-10-29-october-28-2026-cnbc]] · [[2026-11-17-november-17-2026-business-insider]] · [[2026-11-16-november-16-2026-federal-reserve]] · [[2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac]]
 <!-- graph:end -->

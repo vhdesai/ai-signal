@@ -1,19 +1,29 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1835
+member_count: 1845
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1835 connected article(s).
+> Auto-generated topic hub. 1845 connected article(s).
 
+- `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-19` [[2026-11-19-november-18-2026-wall-street-journal-2|[November 18, 2026] · [Wall Street Journal]]]
+- `2026-11-19` [[2026-11-19-the-remote-access-rule-bites-moonshot-scraps-a-150-million-i|The remote-access rule bites: Moonshot scraps a $150 million Indonesia deal and Tencent says it sets China back]]
+- `2026-11-19` [[2026-11-19-alibaba-reports-accelerating-ai-cloud-growth-alongside-heavy|Alibaba reports accelerating AI-cloud growth alongside heavy investment]]
 - `2026-11-18` [[2026-11-18-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-18` [[2026-11-18-november-18-2026-pitchbook|[November 18, 2026] · [PitchBook]]]
 - `2026-11-18` [[2026-11-18-sensetime-reports-accelerating-revenue-and-generative-ai-act|SenseTime reports accelerating revenue and generative-AI activity]]
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-18` [[2026-11-18-mit-and-cornell-lift-detection-of-disguised-ai-text-from-27|MIT and Cornell lift detection of disguised AI text from 27% to 93% with test-time adaptation]]
+- `2026-11-18` [[2026-11-18-house-panel-questions-reported-microsoft-bytedance-ai-discus|House panel questions reported Microsoft–ByteDance AI discussions]]
+- `2026-11-18` [[2026-11-18-commerce-s-export-chief-rushed-nvidia-h200-licenses-to-china|Commerce's export chief rushed Nvidia H200 licenses to China over other agencies' objections]]
 - `2026-11-18` [[2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i|ByteDance nears a $500 million Azure deal for OpenAI models, irking OpenAI]]
+- `2026-11-18` [[2026-11-18-berkeley-rdi-s-cyberarena-makes-ai-agents-attack-and-defend|Berkeley RDI's CyberArena makes AI agents attack and defend live services, and solved challenges turn hard again]]
+- `2026-11-18` [[2026-11-18-anthropic-prices-its-offering-at-83-a-share|Anthropic prices its offering at $83 a share]]
 - `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-wall-street-journal|[November 16, 2026] · [Wall Street Journal]]]

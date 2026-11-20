@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-12-microsoft-president-says-uk-is-best-placed-to-drive-ai-regul
 - 2026-10-12-brad-smith-calls-for-binding-ai-safety-controls
+- 2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com
 embedding_id: 2026-10-12-microsoft-president-says-the-uk-is-best-positioned-to-lead-g
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Microsoft president Brad Smith argued that AI now needs urgent regulation and th
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-12-microsoft-president-says-uk-is-best-placed-to-drive-ai-regul]] · [[2026-10-12-brad-smith-calls-for-binding-ai-safety-controls]]
+**Related:** [[2026-10-12-microsoft-president-says-uk-is-best-placed-to-drive-ai-regul]] · [[2026-10-12-brad-smith-calls-for-binding-ai-safety-controls]] · [[2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com]]
 <!-- graph:end -->

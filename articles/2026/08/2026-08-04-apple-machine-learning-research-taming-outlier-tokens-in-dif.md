@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
+- 2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
-- 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
 embedding_id: 2026-08-04-apple-machine-learning-research-taming-outlier-tokens-in-dif
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple (with Rice University collaborators) published research on "outlier tokens
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]]
+**Related:** [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]]
 <!-- graph:end -->

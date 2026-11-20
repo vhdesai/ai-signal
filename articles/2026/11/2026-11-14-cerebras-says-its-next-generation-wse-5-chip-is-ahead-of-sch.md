@@ -28,9 +28,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-14-november-12-2026-techcrunch
-- 2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro
 - 2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a
 - 2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability
+- 2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro
 - 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
 embedding_id: 2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch
 event_name: ''
@@ -45,5 +45,5 @@ CEO Andrew Feldman said the WSE-5 chip, taped out June 15 on TSMC's 5nm process,
 
 **Entities:** [[Amazon]] · [[Cerebras]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]] · [[TSMC]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-14-november-12-2026-techcrunch]] · [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro]] · [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a]] · [[2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]]
+**Related:** [[2026-11-14-november-12-2026-techcrunch]] · [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a]] · [[2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability]] · [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]]
 <!-- graph:end -->

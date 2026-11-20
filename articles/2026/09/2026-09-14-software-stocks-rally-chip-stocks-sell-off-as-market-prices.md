@@ -25,9 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
-- 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
 - 2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow
-- 2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n
+- 2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety
 embedding_id: 2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices
 event_name: ''
 ---
@@ -41,5 +40,5 @@ Enterprise-software firms rallied Monday on the coordinated slowdown call: Servi
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin]] · [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow]] · [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n]]
+**Related:** [[2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow]] · [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety]]
 <!-- graph:end -->

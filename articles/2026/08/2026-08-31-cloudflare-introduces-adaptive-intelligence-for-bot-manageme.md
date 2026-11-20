@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-07-22-aws-turns-security-hub-into-an-ai-and-multicloud-security-co
 - 2026-10-19-cloudflare-previews-clairic-a-typed-extraction-model-for-wor
-- 2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo
+- 2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai
 embedding_id: 2026-08-31-cloudflare-introduces-adaptive-intelligence-for-bot-manageme
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cloudflare announced Adaptive Intelligence, a continuous detection engine built 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-07-22-aws-turns-security-hub-into-an-ai-and-multicloud-security-co]] · [[2026-10-19-cloudflare-previews-clairic-a-typed-extraction-model-for-wor]] · [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]]
+**Related:** [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-07-22-aws-turns-security-hub-into-an-ai-and-multicloud-security-co]] · [[2026-10-19-cloudflare-previews-clairic-a-typed-extraction-model-for-wor]] · [[2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai]]
 <!-- graph:end -->

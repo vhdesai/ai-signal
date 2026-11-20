@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 - 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
-- 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
+- 2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou
 embedding_id: 2026-09-24-pension-giants-sound-the-alarm-texas-teacher-s-cio-compares
 event_name: ''
 ---
@@ -40,5 +40,5 @@ At the $225.3B Teacher Retirement System of Texas investment-committee meeting, 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex]] · [[2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]]
+**Related:** [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex]] · [[2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou]]
 <!-- graph:end -->

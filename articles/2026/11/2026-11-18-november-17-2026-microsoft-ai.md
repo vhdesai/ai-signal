@@ -5,7 +5,7 @@ date: '2026-11-18'
 source: '[The Information]'
 url_original: https://microsoft.ai/news/microsoft-ignite-2026/
 url_canonical: https://microsoft.ai/news/microsoft-ignite-2026/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-18_070508_Inbox_Daily AI News Digest - November
   18, 2026.md
 content_hash: ca43d4b75b8c8f060d6c0a82c8af81a0a4088de046851df22bf6929ebd94905a

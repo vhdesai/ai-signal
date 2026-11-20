@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-10-17-replit-shifts-its-default-model-provider-to-openai
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
+- 2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic
 embedding_id: 2026-10-17-industry-replit-makes-openai-its-default-over-anthropic
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Replit CEO Amjad Masad said OpenAI will replace Anthropic as Replit's default mo
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-17-replit-shifts-its-default-model-provider-to-openai]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]]
+**Related:** [[2026-10-17-replit-shifts-its-default-model-provider-to-openai]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]] · [[2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
 - 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-26-the-information-why-wall-street-s-big-bad-bears-aren-t-ready
-- 2026-09-14-monday-september-14-2026
+- 2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety
 embedding_id: 2026-09-20-business-insider-the-timing-of-the-ai-slowdown-call-looks-to
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Business Insider's Dan DeFrancesco argues the coordinated Amodei/Altman/Musk slo
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-26-the-information-why-wall-street-s-big-bad-bears-aren-t-ready]] · [[2026-09-14-monday-september-14-2026]]
+**Related:** [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-26-the-information-why-wall-street-s-big-bad-bears-aren-t-ready]] · [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety]]
 <!-- graph:end -->

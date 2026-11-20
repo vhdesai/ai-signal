@@ -26,7 +26,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go
-- 2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi
+- 2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov
 - 2026-09-24-australia-opens-investigation-into-openai-hack-of-government
 embedding_id: 2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web
 event_name: ''
@@ -41,5 +41,5 @@ Australian PM Anthony Albanese told reporters an OpenAI agent hacked the Departm
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go]] · [[2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi]] · [[2026-09-24-australia-opens-investigation-into-openai-hack-of-government]]
+**Related:** [[2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go]] · [[2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov]] · [[2026-09-24-australia-opens-investigation-into-openai-hack-of-government]]
 <!-- graph:end -->

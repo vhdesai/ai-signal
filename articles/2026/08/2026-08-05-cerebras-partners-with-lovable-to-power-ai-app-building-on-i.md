@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a
 - 2026-08-20-cerebras-partners-with-callosum-to-expand-agentic-inference
 - 2026-07-22-crowdstrike-and-cerebras-partner-on-high-speed-ai-threat-det
-- 2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation
+- 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 embedding_id: 2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Cerebras announced a partnership bringing its wafer-scale inference performance 
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo]] · [[2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a]] · [[2026-08-20-cerebras-partners-with-callosum-to-expand-agentic-inference]] · [[2026-07-22-crowdstrike-and-cerebras-partner-on-high-speed-ai-threat-det]] · [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation]]
+**Related:** [[2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo]] · [[2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a]] · [[2026-08-20-cerebras-partners-with-callosum-to-expand-agentic-inference]] · [[2026-07-22-crowdstrike-and-cerebras-partner-on-high-speed-ai-threat-det]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]]
 <!-- graph:end -->

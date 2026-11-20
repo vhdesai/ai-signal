@@ -30,7 +30,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
-- 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
+- 2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m
 embedding_id: 2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second
 event_name: ''
 ---
@@ -44,5 +44,5 @@ MarkTechPost reports Alibaba's Qwen team released Qwen3.8-LiveTranslate, a real-
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Huawei]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]]
+**Related:** [[2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m]]
 <!-- graph:end -->

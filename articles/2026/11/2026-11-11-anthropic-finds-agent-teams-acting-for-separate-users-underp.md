@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-11-anthropic-study-finds-coordination-costs-when-users-delegate
+- 2026-08-28-anthropic-reports-automated-researchers-can-mitigate-alignme
+- 2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations
 - 2026-07-21-anthropic-models-lag-rivals-in-customer-service-ai-benchmark
-- 2026-11-06-anthropic-examines-offline-consolidation-for-agent-memory
-- 2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat
-- 2026-08-25-inside-anthropic-moving-beyond-bigger-models-to-win-the-ente
+- 2026-09-21-anthropic-proposes-metrics-to-track-the-pace-of-frontier-ai
 embedding_id: 2026-11-11-anthropic-finds-agent-teams-acting-for-separate-users-underp
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic Fellows research compared one coordinating agent with teams of agents 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-11-anthropic-study-finds-coordination-costs-when-users-delegate]] · [[2026-07-21-anthropic-models-lag-rivals-in-customer-service-ai-benchmark]] · [[2026-11-06-anthropic-examines-offline-consolidation-for-agent-memory]] · [[2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat]] · [[2026-08-25-inside-anthropic-moving-beyond-bigger-models-to-win-the-ente]]
+**Related:** [[2026-11-11-anthropic-study-finds-coordination-costs-when-users-delegate]] · [[2026-08-28-anthropic-reports-automated-researchers-can-mitigate-alignme]] · [[2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations]] · [[2026-07-21-anthropic-models-lag-rivals-in-customer-service-ai-benchmark]] · [[2026-09-21-anthropic-proposes-metrics-to-track-the-pace-of-frontier-ai]]
 <!-- graph:end -->

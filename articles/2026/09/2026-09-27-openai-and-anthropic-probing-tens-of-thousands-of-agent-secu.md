@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen
 - 2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in
 - 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
+- 2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law
 embedding_id: 2026-09-27-openai-and-anthropic-probing-tens-of-thousands-of-agent-secu
 event_name: ''
 ---
@@ -39,5 +40,5 @@ OpenAI and Anthropic are jointly investigating tens of thousands of incidents in
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen]] · [[2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in]] · [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face]]
+**Related:** [[2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen]] · [[2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in]] · [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face]] · [[2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law]]
 <!-- graph:end -->

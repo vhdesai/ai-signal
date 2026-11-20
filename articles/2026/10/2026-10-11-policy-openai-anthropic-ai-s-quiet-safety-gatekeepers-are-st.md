@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi
-- 2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front
 - 2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u
+- 2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front
 embedding_id: 2026-10-11-policy-openai-anthropic-ai-s-quiet-safety-gatekeepers-are-st
 event_name: ''
 ---
@@ -39,5 +39,5 @@ POLICY OPENAI ANTHROPIC AI’s quiet safety gatekeepers are stepping into the sp
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi]] · [[2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front]] · [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u]]
+**Related:** [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi]] · [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u]] · [[2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front]]
 <!-- graph:end -->

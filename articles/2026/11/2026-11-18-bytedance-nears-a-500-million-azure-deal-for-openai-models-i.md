@@ -24,11 +24,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-18-house-panel-questions-reported-microsoft-bytedance-ai-discus
 - 2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for
 - 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
-- 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 - 2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru
-- 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
+- 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 embedding_id: 2026-11-18-bytedance-nears-a-500-million-azure-deal-for-openai-models-i
 event_name: ''
 ---
@@ -42,5 +42,5 @@ ByteDance is in advanced talks to spend roughly $500 million more on Microsoft c
 
 **Entities:** [[ByteDance]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]]
+**Related:** [[2026-11-18-house-panel-questions-reported-microsoft-bytedance-ai-discus]] · [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]]
 <!-- graph:end -->

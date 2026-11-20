@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 1054
+member_count: 1056
 ---
 
 # Meta
 
-> Auto-generated entity hub. 1054 connected article(s).
+> Auto-generated entity hub. 1056 connected article(s).
 
 - `2026-11-18` [[2026-11-18-november-17-2026-techcrunch|[November 17, 2026] · [TechCrunch]]]
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-17` [[2026-11-17-november-17-2026-nvidia-newsroom|November 17, 2026 · NVIDIA Newsroom]]
 - `2026-11-17` [[2026-11-17-google-s-open-source-torchtpu-takes-aim-at-nvidia-s-cuda-moa|Google's open-source TorchTPU takes aim at Nvidia's CUDA moat]]

@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-14-stanford-s-open-source-memorilla-compresses-a-whole-document
-- 2026-11-14-stanford-s-memorilla-gives-a-frozen-llm-an-entire-document-s
 - 2026-11-13-november-14-2026-marktechpost
+- 2026-11-14-stanford-s-memorilla-gives-a-frozen-llm-an-entire-document-s
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 embedding_id: 2026-11-14-jure-leskovec-s-snap-group-at-stanford-released-memorilla-a
@@ -37,5 +37,5 @@ Jure Leskovec's SNAP group at Stanford released Memorilla, a 194M-parameter modu
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-14-stanford-s-open-source-memorilla-compresses-a-whole-document]] · [[2026-11-14-stanford-s-memorilla-gives-a-frozen-llm-an-entire-document-s]] · [[2026-11-13-november-14-2026-marktechpost]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]]
+**Related:** [[2026-11-14-stanford-s-open-source-memorilla-compresses-a-whole-document]] · [[2026-11-13-november-14-2026-marktechpost]] · [[2026-11-14-stanford-s-memorilla-gives-a-frozen-llm-an-entire-document-s]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]]
 <!-- graph:end -->

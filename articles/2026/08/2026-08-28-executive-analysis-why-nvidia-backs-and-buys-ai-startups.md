@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-08-28-why-nvidia-loves-backing-startups-pitchbook-analysis
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a
+- 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 embedding_id: 2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Nvidia's startup activity is best understood as ecosystem engineering rather tha
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-28-why-nvidia-loves-backing-startups-pitchbook-analysis]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a]]
+**Related:** [[2026-08-28-why-nvidia-loves-backing-startups-pitchbook-analysis]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
 <!-- graph:end -->

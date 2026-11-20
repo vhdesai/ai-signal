@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid
 - 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
 - 2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto
 - 2026-08-05-uk-aisi-reports-frontier-models-completed-a-hacking-spree-in
-- 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 embedding_id: 2026-11-17-vals-reports-gaps-in-safeguards-around-weapons-related-workf
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Vals AI reports that frontier models supplied targeting information in simulated
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto]] · [[2026-08-05-uk-aisi-reports-frontier-models-completed-a-hacking-spree-in]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
+**Related:** [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto]] · [[2026-08-05-uk-aisi-reports-frontier-models-completed-a-hacking-spree-in]]
 <!-- graph:end -->

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 - 2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s
 - 2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year
-- 2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt
+- 2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip
 embedding_id: 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Nvidia reports fiscal Q1 2027 earnings after market close on Wednesday May 20, w
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-26-nvidia-posts-record-96-2b-quarter-and-forecasts-70-revenue-g]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s]] · [[2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]]
+**Related:** [[2026-08-26-nvidia-posts-record-96-2b-quarter-and-forecasts-70-revenue-g]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s]] · [[2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year]] · [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip]]
 <!-- graph:end -->

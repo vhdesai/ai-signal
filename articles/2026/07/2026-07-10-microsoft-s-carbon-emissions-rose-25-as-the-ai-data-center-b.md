@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032
 - 2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po
-- 2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim
+- 2026-11-19-mit-study-traces-data-center-air-pollution-effects-across-th
 embedding_id: 2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft's 2026 Environmental Sustainability Report shows carbon emissions grew
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-09-11-microsoft-targets-38-gigawatts-of-data-center-capacity-by-20]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032]] · [[2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim]]
+**Related:** [[2026-09-11-microsoft-targets-38-gigawatts-of-data-center-capacity-by-20]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032]] · [[2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po]] · [[2026-11-19-mit-study-traces-data-center-air-pollution-effects-across-th]]
 <!-- graph:end -->

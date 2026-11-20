@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: TechRepublic
 url_original: https://www.techrepublic.com/article/news-cursor-git-code-execution-vulnerability-cve-2026-63093/
 url_canonical: https://www.techrepublic.com/article/news-cursor-git-code-execution-vulnerability-cve-2026-63093/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 28574e5591d3d8e1b322c463b16f5b3c65ce115968207725d307eeeeaa347e92
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-29-october-29-2026-cursor
 - 2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues
-- 2026-11-13-cursor-traces-a-malicious-claude-code-extension-to-a-key-lea
 - 2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le
 - 2026-11-13-cursor-traces-its-breach-and-a-malicious-claude-code-extensi
+- 2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy
 embedding_id: 2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cursor (Anysphere) patched a high-severity Windows vulnerability that let malici
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-29-october-29-2026-cursor]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]] · [[2026-11-13-cursor-traces-a-malicious-claude-code-extension-to-a-key-lea]] · [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]] · [[2026-11-13-cursor-traces-its-breach-and-a-malicious-claude-code-extensi]]
+**Related:** [[2026-10-29-october-29-2026-cursor]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]] · [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]] · [[2026-11-13-cursor-traces-its-breach-and-a-malicious-claude-code-extensi]] · [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy]]
 <!-- graph:end -->

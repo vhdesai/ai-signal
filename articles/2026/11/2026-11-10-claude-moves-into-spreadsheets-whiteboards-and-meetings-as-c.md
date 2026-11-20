@@ -29,6 +29,7 @@ related_article_ids:
 - 2026-11-10-claude-adds-meetings-whiteboards-and-spreadsheets-to-its-wor
 - 2026-11-10-claude-adds-shared-spreadsheets-and-whiteboards-claude-data
 - 2026-10-06-claude-moves-into-google-workspace-as-assistants-converge-on
+- 2026-11-13-november-13-2026-databricks
 - 2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros
 embedding_id: 2026-11-10-claude-moves-into-spreadsheets-whiteboards-and-meetings-as-c
 event_name: ''
@@ -43,5 +44,5 @@ Anthropic launched betas of Claude Sheets and Claude Whiteboards, made Claude Da
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-10-claude-adds-meetings-whiteboards-and-spreadsheets-to-its-wor]] · [[2026-11-10-claude-adds-shared-spreadsheets-and-whiteboards-claude-data]] · [[2026-10-06-claude-moves-into-google-workspace-as-assistants-converge-on]] · [[2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros]]
+**Related:** [[2026-11-10-claude-adds-meetings-whiteboards-and-spreadsheets-to-its-wor]] · [[2026-11-10-claude-adds-shared-spreadsheets-and-whiteboards-claude-data]] · [[2026-10-06-claude-moves-into-google-workspace-as-assistants-converge-on]] · [[2026-11-13-november-13-2026-databricks]] · [[2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros]]
 <!-- graph:end -->

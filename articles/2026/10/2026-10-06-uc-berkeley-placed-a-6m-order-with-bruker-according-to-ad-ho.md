@@ -28,7 +28,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
-- 2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so
 - 2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai
 - 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
 - 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
@@ -45,5 +44,5 @@ Publication window: items published Oct 5 – Oct 6, 2026 (last 24 hours). Compi
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so]] · [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society]]
+**Related:** [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society]]
 <!-- graph:end -->

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 284
+member_count: 286
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 284 connected article(s).
+> Auto-generated entity hub. 286 connected article(s).
 
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]
 - `2026-11-16` [[2026-11-16-reported-u-s-ai-export-initiative-would-back-selected-nation|Reported U.S. AI export initiative would back selected national champions]]

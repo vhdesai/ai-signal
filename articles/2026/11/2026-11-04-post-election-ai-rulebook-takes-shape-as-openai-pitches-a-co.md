@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi
-- 2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas
 - 2026-11-05-pentagon-cto-emil-michael-vice-chair-of-the-white-house-s-su
+- 2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas
 embedding_id: 2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Pentagon CTO Emil Michael, vice chair of the White House's Super Intelligence Ta
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi]] · [[2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas]] · [[2026-11-05-pentagon-cto-emil-michael-vice-chair-of-the-white-house-s-su]]
+**Related:** [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi]] · [[2026-11-05-pentagon-cto-emil-michael-vice-chair-of-the-white-house-s-su]] · [[2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas]]
 <!-- graph:end -->

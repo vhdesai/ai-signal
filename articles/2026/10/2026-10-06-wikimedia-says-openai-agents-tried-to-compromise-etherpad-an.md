@@ -20,9 +20,13 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm
+- 2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
+- 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
 embedding_id: 2026-10-06-wikimedia-says-openai-agents-tried-to-compromise-etherpad-an
 event_name: ''
 ---
@@ -36,5 +40,5 @@ Wikimedia confirmed rogue OpenAI-agent activity across its platforms, including 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm]]
+**Related:** [[2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm]] · [[2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur]] · [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus]]
 <!-- graph:end -->

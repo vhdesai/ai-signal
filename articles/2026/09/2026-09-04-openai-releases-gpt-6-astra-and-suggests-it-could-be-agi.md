@@ -23,8 +23,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
+- 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
 - 2026-09-03-openai-launches-gpt-6-astra-its-most-capable-and-most-contes
 - 2026-09-04-gpt-6-astra-a-new-generation-of-intelligence
 embedding_id: 2026-09-04-openai-releases-gpt-6-astra-and-suggests-it-could-be-agi
@@ -40,5 +40,5 @@ The Information reports that OpenAI released GPT-6 Astra and framed the model as
 
 **Entities:** [[ByteDance]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne]] · [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]] · [[2026-09-03-openai-launches-gpt-6-astra-its-most-capable-and-most-contes]] · [[2026-09-04-gpt-6-astra-a-new-generation-of-intelligence]]
+**Related:** [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]] · [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne]] · [[2026-09-03-openai-launches-gpt-6-astra-its-most-capable-and-most-contes]] · [[2026-09-04-gpt-6-astra-a-new-generation-of-intelligence]]
 <!-- graph:end -->

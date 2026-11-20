@@ -22,13 +22,9 @@ themes:
 - infrastructure-investments
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim
-- 2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites
-- 2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches
-- 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
+dedupe_status: duplicate
+canonical_article_id: 2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites
+related_article_ids: []
 embedding_id: 2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt
 event_name: ''
 ---
@@ -42,5 +38,5 @@ Bloomberg reports Huawei has raised prices on its most advanced Ascend AI chips 
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim]] · [[2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites]] · [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]]
+**Canonical:** [[2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-07-november-8-2026-business-insider
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
-- 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
 - 2026-10-29-october-28-2026-techcrunch
+- 2026-10-20-october-19-2026-cio-dive
 embedding_id: 2026-11-09-enterprises-chase-agentic-ai-value-as-workslop-sparks-a-back
 event_name: ''
 ---
@@ -39,5 +39,5 @@ CIO Dive reports Allstate is preparing to serve customers through personal AI ag
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-07-november-8-2026-business-insider]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]] · [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden]] · [[2026-10-29-october-28-2026-techcrunch]]
+**Related:** [[2026-11-07-november-8-2026-business-insider]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]] · [[2026-10-29-october-28-2026-techcrunch]] · [[2026-10-20-october-19-2026-cio-dive]]
 <!-- graph:end -->

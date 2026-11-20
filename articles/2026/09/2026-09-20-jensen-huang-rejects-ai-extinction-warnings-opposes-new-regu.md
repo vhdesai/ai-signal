@@ -21,9 +21,8 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-ai-s
-related_article_ids:
-- 2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul
+canonical_article_id: 2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an
+related_article_ids: []
 embedding_id: 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu
 event_name: ''
 ---
@@ -37,6 +36,5 @@ Nvidia CEO Jensen Huang told CBS News that predictions of AI-driven catastrophe 
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Canonical:** [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-ai-s]]
-**Related:** [[2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul]]
+**Canonical:** [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an]]
 <!-- graph:end -->

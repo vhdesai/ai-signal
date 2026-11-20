@@ -1,19 +1,26 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1966
+member_count: 1973
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1966 connected article(s).
+> Auto-generated entity hub. 1973 connected article(s).
 
+- `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-19` [[2026-11-19-november-18-2026-wall-street-journal-2|[November 18, 2026] · [Wall Street Journal]]]
+- `2026-11-19` [[2026-11-19-the-remote-access-rule-bites-moonshot-scraps-a-150-million-i|The remote-access rule bites: Moonshot scraps a $150 million Indonesia deal and Tencent says it sets China back]]
+- `2026-11-18` [[2026-11-18-november-19-2026-pitchbook|[November 19, 2026] · [PitchBook]]]
 - `2026-11-18` [[2026-11-18-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-18` [[2026-11-18-november-17-2026-business-insider-2|[November 17, 2026] · [Business Insider]]]
 - `2026-11-18` [[2026-11-18-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
 - `2026-11-18` [[2026-11-18-nvidia-turns-disciplined-and-selective-on-the-investments-th|Nvidia turns 'disciplined and selective' on the investments that fueled the AI startup boom]]
 - `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
+- `2026-11-18` [[2026-11-18-commerce-s-export-chief-rushed-nvidia-h200-licenses-to-china|Commerce's export chief rushed Nvidia H200 licenses to China over other agencies' objections]]
 - `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-the-information|[November 17, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]

@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: Unconventional AI
 url_original: https://unconv.ai/blog/2026-unconventional-grant-winners/
 url_canonical: https://unconv.ai/blog/2026-unconventional-grant-winners/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 055e1b18c82b77d2035e4a13a6e3a8fe4f271d54611d6845e6ca7a4fe32c73a1

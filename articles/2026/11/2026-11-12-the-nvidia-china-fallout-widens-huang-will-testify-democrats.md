@@ -23,9 +23,14 @@ themes:
 - infrastructure-investments
 cross_cutting_topics:
 - china-compete
-dedupe_status: duplicate
-canonical_article_id: 2026-11-12-democrats-open-a-second-congressional-probe-into-nvidia-s-ch
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-11-13-november-14-2026-dealbook
+- 2026-11-12-democrats-open-a-second-congressional-probe-into-nvidia-s-ch
+- 2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia
+- 2026-11-14-november-15-2026-cnbc
+- 2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i
 embedding_id: 2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats
 event_name: ''
 ---
@@ -39,5 +44,5 @@ Huang agreed to a closed-door briefing for three Republican-led House committees
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Canonical:** [[2026-11-12-democrats-open-a-second-congressional-probe-into-nvidia-s-ch]]
+**Related:** [[2026-11-13-november-14-2026-dealbook]] · [[2026-11-12-democrats-open-a-second-congressional-probe-into-nvidia-s-ch]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-11-14-november-15-2026-cnbc]] · [[2026-11-10-report-alice-huang-s-companies-routed-at-least-7-5-billion-i]]
 <!-- graph:end -->

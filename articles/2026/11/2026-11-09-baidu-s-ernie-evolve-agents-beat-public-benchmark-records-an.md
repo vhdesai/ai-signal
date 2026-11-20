@@ -27,7 +27,6 @@ related_article_ids:
 - 2026-11-09-baidu-s-ernie-evolve-runs-its-own-experiments-and-speeds-up
 - 2026-11-09-baidu-introduces-ernie-evolve-for-automated-research
 - 2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to
-- 2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra
 embedding_id: 2026-11-09-baidu-s-ernie-evolve-agents-beat-public-benchmark-records-an
 event_name: ''
 ---
@@ -41,5 +40,5 @@ ERNIE Evolve gives AI agents a code repository, a goal, and success criteria. Ag
 
 **Entities:** [[Baidu]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-11-09-baidu-s-ernie-evolve-automates-ml-research-and-lifts-product]] · [[2026-11-09-baidu-s-ernie-evolve-runs-its-own-experiments-and-speeds-up]] · [[2026-11-09-baidu-introduces-ernie-evolve-for-automated-research]] · [[2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to]] · [[2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra]]
+**Related:** [[2026-11-09-baidu-s-ernie-evolve-automates-ml-research-and-lifts-product]] · [[2026-11-09-baidu-s-ernie-evolve-runs-its-own-experiments-and-speeds-up]] · [[2026-11-09-baidu-introduces-ernie-evolve-for-automated-research]] · [[2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to]]
 <!-- graph:end -->

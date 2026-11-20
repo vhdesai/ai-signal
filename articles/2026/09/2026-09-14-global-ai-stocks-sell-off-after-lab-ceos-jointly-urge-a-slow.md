@@ -28,9 +28,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
 - 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
 - 2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea
+- 2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen
 embedding_id: 2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow
 event_name: ''
 ---
@@ -44,5 +44,5 @@ AI-linked equities fell worldwide on Monday after Amodei's call to slow frontier
 
 **Entities:** [[Amazon]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Samsung]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin]] · [[2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk]] · [[2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea]]
+**Related:** [[2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk]] · [[2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea]] · [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen]]
 <!-- graph:end -->

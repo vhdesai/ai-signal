@@ -21,7 +21,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-unattributed-ox-alpha-frontier-class-model-appears-on-openro
-- 2026-08-23-who-s-behind-the-stealth-model-ox-alpha-mystery-deepens
 - 2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p
 - 2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha
 embedding_id: 2026-08-23-ox-alpha-a-stealth-reasoning-model-appears-on-openrouter
@@ -37,5 +36,5 @@ A new model called Ox Alpha appeared on OpenRouter, described as a reasoning mod
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-23-unattributed-ox-alpha-frontier-class-model-appears-on-openro]] · [[2026-08-23-who-s-behind-the-stealth-model-ox-alpha-mystery-deepens]] · [[2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p]] · [[2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha]]
+**Related:** [[2026-08-23-unattributed-ox-alpha-frontier-class-model-appears-on-openro]] · [[2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p]] · [[2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha]]
 <!-- graph:end -->

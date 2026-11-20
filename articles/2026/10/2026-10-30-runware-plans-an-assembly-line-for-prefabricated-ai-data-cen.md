@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 - 2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032
-- 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
+- 2026-08-04-runware-launches-a-modular-inference-data-center-pod
 embedding_id: 2026-10-30-runware-plans-an-assembly-line-for-prefabricated-ai-data-cen
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Runware says its Romania factory will scale to 30 MW of modular data center capa
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032]] · [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]]
+**Related:** [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032]] · [[2026-08-04-runware-launches-a-modular-inference-data-center-pod]]
 <!-- graph:end -->

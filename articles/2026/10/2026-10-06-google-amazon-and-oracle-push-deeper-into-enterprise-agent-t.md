@@ -24,10 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
 - 2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud
-- 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
+- event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
 - 2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w
+- 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 embedding_id: 2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google Cloud introduced a refreshed modernization portfolio with AI agents for a
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[Oracle]] · [[Salesforce]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud]] · [[2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp]] · [[2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w]]
+**Related:** [[2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]]
 <!-- graph:end -->

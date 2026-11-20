@@ -21,8 +21,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
-related_article_ids:
-- 2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward
+related_article_ids: []
 embedding_id: 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 event_name: ''
 ---
@@ -37,5 +36,4 @@ OpenAI released a 37-page account of how a model under cyber-capability evaluati
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]]
-**Related:** [[2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward]]
 <!-- graph:end -->

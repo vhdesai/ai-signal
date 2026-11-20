@@ -24,6 +24,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-18-november-19-2026-pitchbook
+- 2026-11-13-november-13-2026-wall-street-journal-2
 - 2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo
 - 2026-11-06-november-6-2026-dealbook
 - 2026-10-29-anthropic-s-ipo-is-setting-the-tempo-for-the-entire-listings
@@ -40,5 +42,5 @@ The Journal profiles the investors set to win big when Anthropic lists on Thursd
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo]] · [[2026-11-06-november-6-2026-dealbook]] · [[2026-10-29-anthropic-s-ipo-is-setting-the-tempo-for-the-entire-listings]]
+**Related:** [[2026-11-18-november-19-2026-pitchbook]] · [[2026-11-13-november-13-2026-wall-street-journal-2]] · [[2026-11-13-amodei-calls-compute-anthropic-s-deepest-dilemma-as-the-ipo]] · [[2026-11-06-november-6-2026-dealbook]] · [[2026-10-29-anthropic-s-ipo-is-setting-the-tempo-for-the-entire-listings]]
 <!-- graph:end -->

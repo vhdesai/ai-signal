@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-08-november-8-2026-financial-times-via-yahoo-finance
-- 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro
+- 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 embedding_id: 2026-11-13-drogue-raises-20-million-to-put-data-centers-on-ships-powere
 event_name: ''
@@ -37,5 +37,5 @@ The six-month-old startup in Washington, D.C., plans to use ocean thermal energy
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
+**Related:** [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance]] · [[2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
 <!-- graph:end -->

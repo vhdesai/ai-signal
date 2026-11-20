@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g
-- 2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz
-- 2026-07-23-runway-launches-model-router-for-generative-media-workflows
-- 2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo
 - 2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp
+- 2026-07-23-runway-launches-model-router-for-generative-media-workflows
+- 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
+- 2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz
 embedding_id: 2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Runway is repositioning around live-streaming video generation built on its GWM-
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g]] · [[2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz]] · [[2026-07-23-runway-launches-model-router-for-generative-media-workflows]] · [[2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo]] · [[2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp]]
+**Related:** [[2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g]] · [[2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp]] · [[2026-07-23-runway-launches-model-router-for-generative-media-workflows]] · [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]] · [[2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
-- 2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the
-- 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
-- 2026-09-04-nvidia-to-acquire-hugging-face-for-roughly-13-billion
 - 2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face
+- 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
+- 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion
+- 2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the
+- 2026-09-03-hot-breaking-nvidia-confirms-12-93b-acquisition-of-hugging-f
 embedding_id: 2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nvidia has reportedly agreed to buy Hugging Face for ~$12.9B. The deal would giv
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[M&A Activity]]
-**Related:** [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the]] · [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control]] · [[2026-09-04-nvidia-to-acquire-hugging-face-for-roughly-13-billion]] · [[2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face]]
+**Related:** [[2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face]] · [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]] · [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the]] · [[2026-09-03-hot-breaking-nvidia-confirms-12-93b-acquisition-of-hugging-f]]
 <!-- graph:end -->

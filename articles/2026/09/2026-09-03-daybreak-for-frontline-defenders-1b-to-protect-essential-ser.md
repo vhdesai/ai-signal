@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: OpenAI
 url_original: https://openai.com/index/daybreak-for-frontline-defenders/
 url_canonical: https://openai.com/index/daybreak-for-frontline-defenders/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-04_061134_Inbox_Daily AI News Digest – September
   4, 2026.md
 content_hash: dab3879696b4a8280da4a8306e577257adbc04b286145eb0c156488a2adbd4bd
@@ -20,8 +20,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-03-openai-pairs-astra-with-daybreak-a-1b-cyber-defense-program
 - 2026-09-03-openai-pairs-astra-with-daybreak-a-1-billion-cyber-defense-p
+- 2026-09-03-openai-pairs-astra-with-daybreak-a-1b-cyber-defense-program
 - 2026-09-23-openai-extends-daybreak-cyber-defense-program-to-ukraine
 - 2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen
 embedding_id: 2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential-ser
@@ -37,5 +37,5 @@ OpenAI announced Daybreak for Frontline Defenders, a $1 billion commitment to ex
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-03-openai-pairs-astra-with-daybreak-a-1b-cyber-defense-program]] · [[2026-09-03-openai-pairs-astra-with-daybreak-a-1-billion-cyber-defense-p]] · [[2026-09-23-openai-extends-daybreak-cyber-defense-program-to-ukraine]] · [[2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen]]
+**Related:** [[2026-09-03-openai-pairs-astra-with-daybreak-a-1-billion-cyber-defense-p]] · [[2026-09-03-openai-pairs-astra-with-daybreak-a-1b-cyber-defense-program]] · [[2026-09-23-openai-extends-daybreak-cyber-defense-program-to-ukraine]] · [[2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen]]
 <!-- graph:end -->

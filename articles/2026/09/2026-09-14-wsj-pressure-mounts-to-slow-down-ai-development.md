@@ -24,7 +24,8 @@ related_article_ids:
 - 2026-09-16-sanders-and-bannon-share-a-stage-to-demand-tighter-ai-restri
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
-- 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
+- 2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp
+- 2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety
 embedding_id: 2026-09-14-wsj-pressure-mounts-to-slow-down-ai-development
 event_name: ''
 ---
@@ -37,5 +38,5 @@ WSJ's "Pressure Mounts to Slow Down AI Development" makes the coordinated Amodei
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-16-sanders-and-bannon-share-a-stage-to-demand-tighter-ai-restri]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development]]
+**Related:** [[2026-09-16-sanders-and-bannon-share-a-stage-to-demand-tighter-ai-restri]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp]] · [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety]]
 <!-- graph:end -->

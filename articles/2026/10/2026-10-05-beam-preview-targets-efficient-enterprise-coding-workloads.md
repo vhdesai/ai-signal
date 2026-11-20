@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f
 - 2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built
 - 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
+- 2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de
 - 2026-08-28-tencent-open-sources-hy4-preview-770b-moe-1m-token-context
 embedding_id: 2026-10-05-beam-preview-targets-efficient-enterprise-coding-workloads
 event_name: ''
@@ -37,5 +38,5 @@ Reflection previewed a 501B-parameter coding model with 23B active parameters. W
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f]] · [[2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-08-28-tencent-open-sources-hy4-preview-770b-moe-1m-token-context]]
+**Related:** [[2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f]] · [[2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de]] · [[2026-08-28-tencent-open-sources-hy4-preview-770b-moe-1m-token-context]]
 <!-- graph:end -->

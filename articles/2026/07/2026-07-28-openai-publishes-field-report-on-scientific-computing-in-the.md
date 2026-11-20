@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: OpenAI Blog
 url_original: https://openai.com/index/scientific-computing-agentic-ai/
 url_canonical: https://openai.com/index/scientific-computing-agentic-ai/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 22106ad76f8f6b985ce08659d0395dffabdc1bee89aca16fbe510b492e8f587b
@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
-- 2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
+- 2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh
 - 2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 embedding_id: 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
@@ -38,5 +38,5 @@ OpenAI published a field report on how scientists use AI coding agents to modern
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]]
+**Related:** [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh]] · [[2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]]
 <!-- graph:end -->

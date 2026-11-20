@@ -23,8 +23,8 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face
 related_article_ids:
-- 2026-09-03-nvidia-to-acquire-hugging-face-for-12-93-billion-in-its-larg
 - 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
+- 2026-09-03-nvidia-to-acquire-hugging-face-for-12-93-billion-in-its-larg
 embedding_id: 2026-09-03-nvidia-confirms-12-93b-acquisition-of-hugging-face
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia agreed to acquire Hugging Face for $12.93B, its largest transaction to da
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face]]
-**Related:** [[2026-09-03-nvidia-to-acquire-hugging-face-for-12-93-billion-in-its-larg]] · [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control]]
+**Related:** [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control]] · [[2026-09-03-nvidia-to-acquire-hugging-face-for-12-93-billion-in-its-larg]]
 <!-- graph:end -->

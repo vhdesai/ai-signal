@@ -6,7 +6,7 @@ date: '2026-11-09'
 source: MIT News; November 9, 2026 · Berkeley News*
 url_original: https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109
 url_canonical: https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-09_084847_Final-Daily-AI-News-Digest.md
 content_hash: aeb30a27181e857b7e9cbc2ddf25636a92d44ecedd3a9d539a7aeedc53d5ebce
 normalized_title_hash: b85cc733396bfa27

@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-07-un-rights-chief-warns-ai-could-pose-existential-risk-to-huma
-- 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
 - 2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow
+- 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
 - 2026-09-23-altman-and-amodei-address-the-un-security-council-as-washing
 - 2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha
 embedding_id: 2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks
@@ -38,5 +38,5 @@ The United Nations human rights chief called on countries and frontier AI compan
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-07-un-rights-chief-warns-ai-could-pose-existential-risk-to-huma]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow]] · [[2026-09-23-altman-and-amodei-address-the-un-security-council-as-washing]] · [[2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha]]
+**Related:** [[2026-09-07-un-rights-chief-warns-ai-could-pose-existential-risk-to-huma]] · [[2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-09-23-altman-and-amodei-address-the-un-security-council-as-washing]] · [[2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha]]
 <!-- graph:end -->

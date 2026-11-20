@@ -20,8 +20,8 @@ themes:
 - ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
+dedupe_status: canonical
+canonical_article_id: null
 related_article_ids:
 - 2026-09-03-nvidia-agrees-to-buy-ai-platform-hugging-face-for-13b
 embedding_id: 2026-09-04-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug
@@ -37,6 +37,5 @@ Bloomberg reports that Nvidia agreed to acquire Hugging Face in a deal valued ar
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Canonical:** [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control]]
 **Related:** [[2026-09-03-nvidia-agrees-to-buy-ai-platform-hugging-face-for-13b]]
 <!-- graph:end -->

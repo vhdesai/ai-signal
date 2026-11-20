@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-02-u-s-startups-race-to-build-an-american-alternative-to-cheap
 - 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-- 2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi
+- 2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s
 embedding_id: 2026-08-02-the-race-to-build-an-american-alternative-to-cheap-ai-from-c
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A new crop of Silicon Valley startups is racing to build open-weight AI models c
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-02-u-s-startups-race-to-build-an-american-alternative-to-cheap]] · [[2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi]]
+**Related:** [[2026-08-02-u-s-startups-race-to-build-an-american-alternative-to-cheap]] · [[2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s]]
 <!-- graph:end -->

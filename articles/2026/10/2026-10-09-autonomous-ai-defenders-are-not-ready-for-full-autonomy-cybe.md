@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p
+- 2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy
+- 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
 - 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
-- 2026-09-13-ai-risk-debate-shifts-from-raw-speed-to-autonomy
-- 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
 embedding_id: 2026-10-09-autonomous-ai-defenders-are-not-ready-for-full-autonomy-cybe
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Corporate security chiefs remain wary of unleashing fully autonomous AI defender
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]] · [[2026-09-13-ai-risk-debate-shifts-from-raw-speed-to-autonomy]] · [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]]
+**Related:** [[2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p]] · [[2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy]] · [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]]
 <!-- graph:end -->

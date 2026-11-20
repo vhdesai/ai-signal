@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no
 - 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
+- 2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi
 - 2026-05-31-china-restricts-travel-for-top-ai-researchers
-- 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
 embedding_id: 2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Carnegie China's newly released study finds China employed 41% of the world's le
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]] · [[2026-05-31-china-restricts-travel-for-top-ai-researchers]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]]
+**Related:** [[2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]] · [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi]] · [[2026-05-31-china-restricts-travel-for-top-ai-researchers]]
 <!-- graph:end -->

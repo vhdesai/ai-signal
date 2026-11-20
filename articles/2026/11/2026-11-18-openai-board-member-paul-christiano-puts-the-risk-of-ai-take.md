@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-17-november-18-2026-the-information
-- 2026-11-17-november-17-2026-the-information
 - 2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas
+- 2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-11-08-november-7-2026-the-decoder
 embedding_id: 2026-11-18-openai-board-member-paul-christiano-puts-the-risk-of-ai-take
@@ -40,5 +40,5 @@ Paul Christiano, who sits on the board of the OpenAI Foundation, told podcaster 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-17-november-18-2026-the-information]] · [[2026-11-17-november-17-2026-the-information]] · [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-11-08-november-7-2026-the-decoder]]
+**Related:** [[2026-11-17-november-18-2026-the-information]] · [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas]] · [[2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-11-08-november-7-2026-the-decoder]]
 <!-- graph:end -->

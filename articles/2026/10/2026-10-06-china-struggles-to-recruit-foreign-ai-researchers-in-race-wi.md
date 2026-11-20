@@ -20,11 +20,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us
-- 2026-10-06-subject-daily-ai-news-digest-october-6-2026
-- 2026-08-02-the-race-to-build-an-american-alternative-to-cheap-ai-from-c
-- 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
-- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
+- 2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no
+- 2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc
+- 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
+- 2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap
 embedding_id: 2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi
 event_name: ''
 ---
@@ -37,5 +36,5 @@ The New York Times reports China is struggling to recruit foreign AI researchers
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-02-the-race-to-build-an-american-alternative-to-cheap-ai-from-c]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
+**Related:** [[2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no]] · [[2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]] · [[2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap]]
 <!-- graph:end -->

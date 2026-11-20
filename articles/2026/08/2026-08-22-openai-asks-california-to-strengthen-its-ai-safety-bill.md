@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-22-openai-asks-california-to-strengthen-its-own-ai-safety-bill
 - 2026-08-22-openai-reverses-course-calls-for-california-to-strengthen-sb
 - 2026-08-31-openai-wants-california-to-strengthen-its-newly-passed-ai-sa
-- 2026-08-22-openai-reverses-course-asks-california-to-strengthen-sb-53
 - 2026-08-22-openai-says-california-should-strengthen-its-ai-safety-bill
+- 2026-08-22-openai-reverses-course-asks-california-to-strengthen-sb-53
 embedding_id: 2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI said SB 53 “should be amended to expand safeguards,” including requir
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-22-openai-asks-california-to-strengthen-its-own-ai-safety-bill]] · [[2026-08-22-openai-reverses-course-calls-for-california-to-strengthen-sb]] · [[2026-08-31-openai-wants-california-to-strengthen-its-newly-passed-ai-sa]] · [[2026-08-22-openai-reverses-course-asks-california-to-strengthen-sb-53]] · [[2026-08-22-openai-says-california-should-strengthen-its-ai-safety-bill]]
+**Related:** [[2026-08-22-openai-asks-california-to-strengthen-its-own-ai-safety-bill]] · [[2026-08-22-openai-reverses-course-calls-for-california-to-strengthen-sb]] · [[2026-08-31-openai-wants-california-to-strengthen-its-newly-passed-ai-sa]] · [[2026-08-22-openai-says-california-should-strengthen-its-ai-safety-bill]] · [[2026-08-22-openai-reverses-course-asks-california-to-strengthen-sb-53]]
 <!-- graph:end -->

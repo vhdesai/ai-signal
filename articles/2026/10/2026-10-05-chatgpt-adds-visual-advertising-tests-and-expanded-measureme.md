@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen
 - 2026-10-05-openai-launches-visual-ads-alongside-image-generation-result
 - 2026-08-12-openai-begins-testing-ads-in-chatgpt
-- 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
+- 2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing
 embedding_id: 2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI will test labeled visual ads beside ChatGPT image generation in the US th
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi]] · [[2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen]] · [[2026-10-05-openai-launches-visual-ads-alongside-image-generation-result]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]]
+**Related:** [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi]] · [[2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen]] · [[2026-10-05-openai-launches-visual-ads-alongside-image-generation-result]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing]]
 <!-- graph:end -->

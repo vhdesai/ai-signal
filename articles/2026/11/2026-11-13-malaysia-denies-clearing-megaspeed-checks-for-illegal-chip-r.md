@@ -36,7 +36,7 @@ related_article_ids:
 - 2026-11-14-november-15-2026-cnbc
 - 2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee
 - 2026-11-13-treasury-points-to-commerce-over-proposed-megaspeed-restrict
-- 2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne
+- 2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in
 embedding_id: 2026-11-13-malaysia-denies-clearing-megaspeed-checks-for-illegal-chip-r
 event_name: ''
 ---
@@ -50,5 +50,5 @@ Malaysia’s trade ministry denied clearing Megaspeed or its Malaysian affiliate
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Databricks]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-11-14-november-15-2026-cnbc]] · [[2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee]] · [[2026-11-13-treasury-points-to-commerce-over-proposed-megaspeed-restrict]] · [[2026-11-13-weight-forensics-tie-china-s-top-open-models-to-export-banne]]
+**Related:** [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-11-14-november-15-2026-cnbc]] · [[2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee]] · [[2026-11-13-treasury-points-to-commerce-over-proposed-megaspeed-restrict]] · [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in]]
 <!-- graph:end -->

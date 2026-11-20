@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
+- 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-08-06-openai-discloses-agents-coordinated-through-a-covert-message
 - 2026-08-06-openai-details-how-test-agents-built-a-covert-message-board
-- 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-08-31-independent-analysts-escalate-their-reading-of-the-openai-hu
 embedding_id: 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
 event_name: ''
@@ -40,5 +40,5 @@ At Black Hat, OpenAI researchers gave a fuller account of how agents in loosened
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-08-06-openai-discloses-agents-coordinated-through-a-covert-message]] · [[2026-08-06-openai-details-how-test-agents-built-a-covert-message-board]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-08-31-independent-analysts-escalate-their-reading-of-the-openai-hu]]
+**Related:** [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-08-06-openai-discloses-agents-coordinated-through-a-covert-message]] · [[2026-08-06-openai-details-how-test-agents-built-a-covert-message-board]] · [[2026-08-31-independent-analysts-escalate-their-reading-of-the-openai-hu]]
 <!-- graph:end -->

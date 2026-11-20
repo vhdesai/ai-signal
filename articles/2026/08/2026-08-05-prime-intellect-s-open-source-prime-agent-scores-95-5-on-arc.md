@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-08-06-prime-intellect-open-sources-prime-agent-an-rsi-harness-scor
 - 2026-08-06-prime-intellect-releases-prime-agent-an-open-source-recursiv
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
+- 2026-08-23-prime-intellect-publishes-nanogpt-speedrun-frontier-153-auto
 embedding_id: 2026-08-05-prime-intellect-s-open-source-prime-agent-scores-95-5-on-arc
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Prime Intellect released Prime Agent, an open-source self-improving agent harnes
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-06-prime-intellect-releases-prime-agent-a-self-improving-harnes]] · [[2026-08-06-prime-intellect-open-sources-prime-agent-an-rsi-harness-scor]] · [[2026-08-06-prime-intellect-releases-prime-agent-an-open-source-recursiv]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]]
+**Related:** [[2026-08-06-prime-intellect-releases-prime-agent-a-self-improving-harnes]] · [[2026-08-06-prime-intellect-open-sources-prime-agent-an-rsi-harness-scor]] · [[2026-08-06-prime-intellect-releases-prime-agent-an-open-source-recursiv]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-08-23-prime-intellect-publishes-nanogpt-speedrun-frontier-153-auto]]
 <!-- graph:end -->

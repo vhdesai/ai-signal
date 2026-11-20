@@ -32,8 +32,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s
 - 2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n
+- 2026-11-06-ai-for-science-gets-measured-and-agents-still-fabricate
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
-- 2026-11-06-november-7-2026-the-decoder
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 embedding_id: 2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag
 event_name: ''
@@ -48,5 +48,5 @@ Ginkgo Bioworks CEO Jason Kelly is producing a three-round contest at Ginkgo’s
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s]] · [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-11-06-november-7-2026-the-decoder]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
+**Related:** [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s]] · [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n]] · [[2026-11-06-ai-for-science-gets-measured-and-agents-still-fabricate]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
 <!-- graph:end -->

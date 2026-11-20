@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-31-citing-the-information-and-bloomberg-techcrunch-reports-nvid
 - 2026-08-27-anthropic-signs-45b-six-year-compute-deal-with-nscale
+- 2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin
 - 2026-09-14-rumble-shares-rise-after-anthropic-is-identified-behind-larg
-- 2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra
 embedding_id: 2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information and Bloomberg report that Nvidia may provide a residual value gu
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-31-citing-the-information-and-bloomberg-techcrunch-reports-nvid]] · [[2026-08-27-anthropic-signs-45b-six-year-compute-deal-with-nscale]] · [[2026-09-14-rumble-shares-rise-after-anthropic-is-identified-behind-larg]] · [[2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra]]
+**Related:** [[2026-10-31-citing-the-information-and-bloomberg-techcrunch-reports-nvid]] · [[2026-08-27-anthropic-signs-45b-six-year-compute-deal-with-nscale]] · [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin]] · [[2026-09-14-rumble-shares-rise-after-anthropic-is-identified-behind-larg]]
 <!-- graph:end -->

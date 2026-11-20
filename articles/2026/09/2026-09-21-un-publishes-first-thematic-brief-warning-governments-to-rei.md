@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling
 - 2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu
 - 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
-- 2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow
-- 2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling
-- 2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro
+- 2026-09-21-un-scientific-panel-warns-the-traditional-model-of-ai-safegu
+- 2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug
 embedding_id: 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The United Nations published its first thematic brief on AI — "AI Agents, Misa
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow]] · [[2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling]] · [[2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro]]
+**Related:** [[2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling]] · [[2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-09-21-un-scientific-panel-warns-the-traditional-model-of-ai-safegu]] · [[2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug]]
 <!-- graph:end -->

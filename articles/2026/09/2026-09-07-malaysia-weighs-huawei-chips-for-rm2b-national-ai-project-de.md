@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: Bloomberg
 url_original: https://www.bloomberg.com/news/articles/2026-09-07/malaysia-considers-defying-us-with-huawei-chips-for-ai-projects
 url_canonical: https://www.bloomberg.com/news/articles/2026-09-07/malaysia-considers-defying-us-with-huawei-chips-for-ai-projects
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: 77cf6665bed746f3b781c04c298d41239861e996d8e4d35a6f69815057fb39b6
 normalized_title_hash: effc979a52af945a
@@ -25,7 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us
-- 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
+- 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 embedding_id: 2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Malaysia is seriously evaluating Huawei AI hardware as the backbone of a 2 billi
 
 **Entities:** [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us]] · [[2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i]]
+**Related:** [[2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]]
 <!-- graph:end -->

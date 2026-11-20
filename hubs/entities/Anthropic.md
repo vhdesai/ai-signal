@@ -1,17 +1,26 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2694
+member_count: 2703
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2694 connected article(s).
+> Auto-generated entity hub. 2703 connected article(s).
 
+- `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-19` [[2026-11-19-anthropic-pushes-cowork-managed-agents-and-deep-discounts-to|Anthropic pushes Cowork, Managed Agents and deep discounts to grow beyond coding]]
+- `2026-11-19` [[2026-11-19-anthropic-hires-a-400-000-a-year-natural-gas-lead-as-off-gri|Anthropic hires a $400,000-a-year natural-gas lead as off-grid data centers drive up emissions]]
+- `2026-11-18` [[2026-11-18-november-19-2026-pitchbook|[November 19, 2026] · [PitchBook]]]
 - `2026-11-18` [[2026-11-18-november-18-2026-pitchbook|[November 18, 2026] · [PitchBook]]]
 - `2026-11-18` [[2026-11-18-november-17-2026-microsoft-ai|[November 17, 2026] · [Microsoft AI]]]
 - `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]
+- `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
+- `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
+- `2026-11-18` [[2026-11-18-gemini-4-neon-sharpens-the-model-price-performance-contest|Gemini 4 Neon sharpens the model price-performance contest]]
+- `2026-11-18` [[2026-11-18-anthropic-prices-its-offering-at-83-a-share|Anthropic prices its offering at $83 a share]]
+- `2026-11-18` [[2026-11-18-anthropic-prices-its-ipo-ahead-of-nasdaq-debut|Anthropic prices its IPO ahead of Nasdaq debut]]
 - `2026-11-17` [[2026-11-17-november-18-2026-the-information|[November 18, 2026] · [The Information]]]
 - `2026-11-17` [[2026-11-17-november-17-2026-business-insider|[November 17, 2026] · [Business Insider]]]
 - `2026-11-17` [[2026-11-17-november-16-2026-the-information-2|[November 16, 2026] · [The Information]]]

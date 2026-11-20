@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 - 2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re
 - 2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi
+- 2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt
 - 2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year
-- 2026-08-27-nvidia-posts-a-record-quarter-and-guides-for-ai-growth-throu
 embedding_id: 2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Nvidia reported Q1 FY2027 revenue of $81.6 billion, up 85% year-over-year and be
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]] · [[2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year]] · [[2026-08-27-nvidia-posts-a-record-quarter-and-guides-for-ai-growth-throu]]
+**Related:** [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]] · [[2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year]]
 <!-- graph:end -->

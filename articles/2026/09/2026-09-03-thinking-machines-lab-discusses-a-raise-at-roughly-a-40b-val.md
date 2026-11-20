@@ -22,8 +22,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m
 - 2026-09-03-accel-reportedly-in-talks-to-lead-1b-round-for-thinking-mach
+- 2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 - 2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights
 embedding_id: 2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val
@@ -39,5 +39,5 @@ The Information reports that Thinking Machines Lab, led by former OpenAI CTO Mir
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m]] · [[2026-09-03-accel-reportedly-in-talks-to-lead-1b-round-for-thinking-mach]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights]]
+**Related:** [[2026-09-03-accel-reportedly-in-talks-to-lead-1b-round-for-thinking-mach]] · [[2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights]]
 <!-- graph:end -->

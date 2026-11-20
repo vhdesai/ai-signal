@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an
-- 2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra
 - 2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah
+- 2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
 embedding_id: 2026-10-31-citing-the-information-and-bloomberg-techcrunch-reports-nvid
 event_name: ''
@@ -40,5 +40,5 @@ Citing The Information and Bloomberg, TechCrunch reports Nvidia is discussing a 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an]] · [[2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra]] · [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]]
+**Related:** [[2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an]] · [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah]] · [[2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]]
 <!-- graph:end -->

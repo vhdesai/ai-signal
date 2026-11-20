@@ -5,7 +5,7 @@ date: '2026-10-28'
 source: '[Berkeley RDI]'
 url_original: https://berkeleyrdi.substack.com/p/agentic-ai-weekly-berkeley-rdi-october-8a2
 url_canonical: https://berkeleyrdi.substack.com/p/agentic-ai-weekly-berkeley-rdi-october-8a2
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-29_070116_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: e3eaef93af888340f0a5cf9fbf5dcf80c94e54a7bb7379b98d1460b880a33802

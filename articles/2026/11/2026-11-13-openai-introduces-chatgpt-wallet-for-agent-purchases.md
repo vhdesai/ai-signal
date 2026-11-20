@@ -16,9 +16,12 @@ entities:
 - OpenAI
 themes: []
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-11-14-chatgpt-wallet-lets-openai-s-dots-agents-buy-on-a-user-s-beh
+- 2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads
+- 2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa
 embedding_id: 2026-11-13-openai-introduces-chatgpt-wallet-for-agent-purchases
 event_name: ''
 ---
@@ -31,5 +34,5 @@ TechCrunch OpenAI introduced ChatGPT Wallet to let agents complete purchases, wi
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Canonical:** [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads]]
+**Related:** [[2026-11-14-chatgpt-wallet-lets-openai-s-dots-agents-buy-on-a-user-s-beh]] · [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads]] · [[2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa]]
 <!-- graph:end -->

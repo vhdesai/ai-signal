@@ -17,7 +17,7 @@ themes:
 - policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling
+canonical_article_id: 2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu
 related_article_ids: []
 embedding_id: 2026-09-21-un-scientific-panel-warns-the-traditional-model-of-ai-safegu
 event_name: ''
@@ -31,5 +31,5 @@ The UN-backed Independent International Scientific Panel on AI issued its first 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling]]
+**Canonical:** [[2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu]]
 <!-- graph:end -->

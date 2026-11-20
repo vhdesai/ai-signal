@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: GeekWire**
 url_original: https://www.geekwire.com/2026/departing-aws-exec-dave-brown-is-reportedly-joining-meta-as-facebook-parent-mulls-its-own-cloud/
 url_canonical: https://www.geekwire.com/2026/departing-aws-exec-dave-brown-is-reportedly-joining-meta-as-facebook-parent-mulls-its-own-cloud/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: f123eb13cb017f1192fedeef047cff2a8ce49273be817af00679706ae9363a92
 normalized_title_hash: 9a888b2527787f2f
@@ -28,8 +28,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi
 - 2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft
-- 2026-11-11-november-11-2026-cnbc
 - 2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c
+- 2026-11-11-november-11-2026-cnbc
 embedding_id: 2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Meta is hiring Dave Brown, one of AWS's most senior compute and AI executives, t
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi]] · [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft]] · [[2026-11-11-november-11-2026-cnbc]] · [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c]]
+**Related:** [[2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi]] · [[2026-11-12-meta-hands-its-ai-buildout-to-an-ex-aws-leader-as-microsoft]] · [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c]] · [[2026-11-11-november-11-2026-cnbc]]
 <!-- graph:end -->

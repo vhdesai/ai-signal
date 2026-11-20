@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-27-salesforce-and-anthropic-launch-claudeforce
 - 2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th
+- 2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in
 - 2026-09-01-salesforce-puts-its-entire-crm-inside-claude
-- 2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag
 embedding_id: 2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic released Salesforce in Claude in beta — a plugin that brings account
 
 **Entities:** [[Anthropic]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-27-salesforce-and-anthropic-launch-claudeforce]] · [[2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th]] · [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude]] · [[2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag]]
+**Related:** [[2026-08-27-salesforce-and-anthropic-launch-claudeforce]] · [[2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th]] · [[2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in]] · [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude]]
 <!-- graph:end -->

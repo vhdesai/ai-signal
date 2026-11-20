@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
-- 2026-09-04-gpt-6-astra-a-new-generation-of-intelligence
+- 2026-09-03-openai-launches-gpt-6-astra-its-most-capable-and-most-contes
 embedding_id: 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI began releasing GPT-6 Astra, positioning it as a major advance in commerc
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]] · [[2026-09-04-gpt-6-astra-a-new-generation-of-intelligence]]
+**Related:** [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]] · [[2026-09-03-openai-launches-gpt-6-astra-its-most-capable-and-most-contes]]
 <!-- graph:end -->

@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac
 - 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
+- 2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness
 embedding_id: 2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Cornell announced grants for evaluating model values and improving AI-assisted m
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-11-11-cornell-names-leadership-for-independent-new-york-ai-safety]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]]
+**Related:** [[2026-11-11-cornell-names-leadership-for-independent-new-york-ai-safety]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness]]
 <!-- graph:end -->

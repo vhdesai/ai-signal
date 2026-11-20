@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
 - 2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the
-- 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
 embedding_id: 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
 event_name: ''
@@ -38,5 +38,5 @@ Hugging Face’s security team published a phase-by-phase reconstruction of the 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina]]
+**Related:** [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the]] · [[2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina]]
 <!-- graph:end -->

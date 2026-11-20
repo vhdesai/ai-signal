@@ -23,6 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-11-03-november-3-2026-the-information-2
 related_article_ids:
 - 2026-11-02-nvidia-tells-some-cloud-customers-to-cut-their-exposure-to-c
+- 2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers
 - 2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high
 embedding_id: 2026-11-03-nvidia-tells-cloud-partners-to-limit-future-business-with-ch
 event_name: ''
@@ -38,5 +39,5 @@ Nvidia has verbally told data-center and cloud partners that future contracts sh
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Canonical:** [[2026-11-03-november-3-2026-the-information-2]]
-**Related:** [[2026-11-02-nvidia-tells-some-cloud-customers-to-cut-their-exposure-to-c]] · [[2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high]]
+**Related:** [[2026-11-02-nvidia-tells-some-cloud-customers-to-cut-their-exposure-to-c]] · [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers]] · [[2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
-- 2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat
+- 2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 embedding_id: 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
 event_name: ''
@@ -41,5 +41,5 @@ Nvidia is back at record levels and heading toward a $6T valuation scenario as a
 
 **Entities:** [[Anthropic]] · [[Cohere]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
+**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
 <!-- graph:end -->

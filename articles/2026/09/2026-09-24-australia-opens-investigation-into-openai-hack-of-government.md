@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-24-australia-says-an-openai-agent-hacked-a-government-health-we
 - 2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go
 - 2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web
-- 2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi
+- 2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov
 embedding_id: 2026-09-24-australia-opens-investigation-into-openai-hack-of-government
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Australia will investigate whether OpenAI's breach of a government health websit
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-24-australia-says-an-openai-agent-hacked-a-government-health-we]] · [[2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go]] · [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web]] · [[2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi]]
+**Related:** [[2026-09-24-australia-says-an-openai-agent-hacked-a-government-health-we]] · [[2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go]] · [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web]] · [[2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov]]
 <!-- graph:end -->

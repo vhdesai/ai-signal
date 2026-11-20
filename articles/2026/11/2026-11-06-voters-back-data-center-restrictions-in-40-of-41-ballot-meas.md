@@ -25,8 +25,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue
 - 2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi
+- 2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue
 - 2026-11-01-openai-plans-post-midterm-policy-push-including-rebranding-d
 - 2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co
 embedding_id: 2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas
@@ -42,5 +42,5 @@ Voters passed more restrictions on data center development in all but one of 41 
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue]] · [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi]] · [[2026-11-01-openai-plans-post-midterm-policy-push-including-rebranding-d]] · [[2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co]]
+**Related:** [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi]] · [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue]] · [[2026-11-01-openai-plans-post-midterm-policy-push-including-rebranding-d]] · [[2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co]]
 <!-- graph:end -->

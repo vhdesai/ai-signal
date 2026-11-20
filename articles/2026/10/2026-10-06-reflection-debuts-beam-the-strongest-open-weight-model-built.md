@@ -22,8 +22,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f
 - 2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de
+- 2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f
 - 2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse
 - 2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea
 - 2026-10-05-beam-preview-targets-efficient-enterprise-coding-workloads
@@ -40,5 +40,5 @@ Nvidia-backed Reflection released Beam, a 501B-parameter MoE model activating 23
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f]] · [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de]] · [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse]] · [[2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea]] · [[2026-10-05-beam-preview-targets-efficient-enterprise-coding-workloads]]
+**Related:** [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de]] · [[2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f]] · [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse]] · [[2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea]] · [[2026-10-05-beam-preview-targets-efficient-enterprise-coding-workloads]]
 <!-- graph:end -->

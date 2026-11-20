@@ -28,7 +28,6 @@ related_article_ids:
 - 2026-10-30-blackstone-reportedly-expects-anthropic-to-get-a-high-junk-r
 - 2026-10-31-according-to-the-financial-times-blackstone-the-anchor-inves
 - 2026-10-31-citing-the-information-and-bloomberg-techcrunch-reports-nvid
-- 2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat
 embedding_id: 2026-10-30-anthropic-s-financing-stack-shows-strain-an-expected-junk-ra
 event_name: ''
 ---
@@ -42,5 +41,5 @@ Citing the Financial Times, TechCrunch reports that Blackstone, anchor investor 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-30-blackstone-reportedly-expects-anthropic-to-get-a-high-junk-r]] · [[2026-10-31-according-to-the-financial-times-blackstone-the-anchor-inves]] · [[2026-10-31-citing-the-information-and-bloomberg-techcrunch-reports-nvid]] · [[2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat]]
+**Related:** [[2026-10-30-blackstone-reportedly-expects-anthropic-to-get-a-high-junk-r]] · [[2026-10-31-according-to-the-financial-times-blackstone-the-anchor-inves]] · [[2026-10-31-citing-the-information-and-bloomberg-techcrunch-reports-nvid]]
 <!-- graph:end -->

@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-14-november-12-2026-techcrunch
 - 2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a
-- 2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an
 - 2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu
-- 2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl
+- 2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an
+- 2026-11-12-nebius-plans-40-billion-of-2027-capex-as-its-microsoft-capac
 embedding_id: 2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Cerebras reported core revenue up 70% to $230.9 million, an unexpected adjusted 
 
 **Entities:** [[Cerebras]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-14-november-12-2026-techcrunch]] · [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a]] · [[2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl]]
+**Related:** [[2026-11-14-november-12-2026-techcrunch]] · [[2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an]] · [[2026-11-12-nebius-plans-40-billion-of-2027-capex-as-its-microsoft-capac]]
 <!-- graph:end -->

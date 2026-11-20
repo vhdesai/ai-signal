@@ -1,14 +1,17 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2475
+member_count: 2478
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2475 connected article(s).
+> Auto-generated topic hub. 2478 connected article(s).
 
+- `2026-11-19` [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard|MIT microrobot brings sensing and flight computation onboard]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
+- `2026-11-18` [[2026-11-18-house-panel-questions-reported-microsoft-bytedance-ai-discus|House panel questions reported Microsoft–ByteDance AI discussions]]
+- `2026-11-18` [[2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness|Adaptive AI-text detection improves experimental robustness]]
 - `2026-11-17` [[2026-11-17-november-16-2026-business-insider-3|[November 16, 2026] · [Business Insider]]]
 - `2026-11-17` [[2026-11-17-ut-austin-opens-horizon-s-gpu-system-to-early-scientific-use|UT Austin opens Horizon’s GPU system to early scientific users]]
 - `2026-11-17` [[2026-11-17-gemini-s-history-off-retention-extends-to-around-two-months|Gemini’s history-off retention extends to around two months]]

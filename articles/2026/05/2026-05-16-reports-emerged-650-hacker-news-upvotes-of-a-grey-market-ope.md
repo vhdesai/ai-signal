@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-10-02-the-information-chinese-token-resellers-running-an-anthropic
 - 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
+- 2026-11-19-anthropic-pushes-cowork-managed-agents-and-deep-discounts-to
 - 2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac
-- 2026-07-13-anthropic-begins-localizing-claude-pricing-for-india
 embedding_id: 2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Reports emerged (650 Hacker News upvotes) of a grey market operating within Chin
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-10-02-the-information-chinese-token-resellers-running-an-anthropic]] · [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac]] · [[2026-07-13-anthropic-begins-localizing-claude-pricing-for-india]]
+**Related:** [[2026-10-02-the-information-chinese-token-resellers-running-an-anthropic]] · [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-11-19-anthropic-pushes-cowork-managed-agents-and-deep-discounts-to]] · [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac]]
 <!-- graph:end -->

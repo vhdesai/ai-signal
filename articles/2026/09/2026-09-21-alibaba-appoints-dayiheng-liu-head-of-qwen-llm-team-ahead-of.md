@@ -26,8 +26,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
-- 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
+- 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
 embedding_id: 2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Alibaba appointed senior AI researcher Dayiheng Liu as Head of the Qwen LLM Proj
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]]
+**Related:** [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]]
 <!-- graph:end -->

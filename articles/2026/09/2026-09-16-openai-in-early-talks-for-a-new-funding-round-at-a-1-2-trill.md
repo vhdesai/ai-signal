@@ -21,14 +21,9 @@ themes:
 - company-storylines
 - company-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
-- 2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead
-- 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
-- 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
-- 2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b
+dedupe_status: duplicate
+canonical_article_id: 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
+related_article_ids: []
 embedding_id: 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill
 event_name: ''
 ---
@@ -42,5 +37,5 @@ The Information, CNBC, and Fortune report OpenAI has held early conversations wi
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]] · [[2026-10-22-openai-is-reportedly-preparing-a-new-30b-private-raise-ahead]] · [[2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo]] · [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re]] · [[2026-11-06-openai-raises-11-billion-at-a-1-25-trillion-valuation-well-b]]
+**Canonical:** [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]]
 <!-- graph:end -->

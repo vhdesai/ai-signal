@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
+- 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
 - 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat
-- 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
 - 2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st
 embedding_id: 2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off
 event_name: ''
@@ -38,5 +38,5 @@ Memory and chip leaders fell sharply — Micron among the biggest decliners — 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]] · [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin]] · [[2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st]]
+**Related:** [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]] · [[2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st]]
 <!-- graph:end -->

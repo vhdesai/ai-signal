@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
+- 2026-11-19-anthropic-pushes-cowork-managed-agents-and-deep-discounts-to
 - 2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili
 - 2026-10-30-anthropic-s-internal-claude-usage-now-exceeds-its-payroll-at
-- 2026-08-20-anthropic-incident-spreads-across-claude-ai-api-claude-code
 embedding_id: 2026-06-08-anthropic-doubles-claude-cowork-limits-at-no-extra-charge
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic doubled usage limits for Claude Cowork at no additional charge — a c
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]] · [[2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili]] · [[2026-10-30-anthropic-s-internal-claude-usage-now-exceeds-its-payroll-at]] · [[2026-08-20-anthropic-incident-spreads-across-claude-ai-api-claude-code]]
+**Related:** [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]] · [[2026-11-19-anthropic-pushes-cowork-managed-agents-and-deep-discounts-to]] · [[2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili]] · [[2026-10-30-anthropic-s-internal-claude-usage-now-exceeds-its-payroll-at]]
 <!-- graph:end -->

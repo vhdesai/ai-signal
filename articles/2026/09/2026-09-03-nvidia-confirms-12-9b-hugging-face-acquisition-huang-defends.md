@@ -22,8 +22,8 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face
 related_article_ids:
-- 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
 - 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
+- 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
 - 2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive
 embedding_id: 2026-09-03-nvidia-confirms-12-9b-hugging-face-acquisition-huang-defends
 event_name: ''
@@ -39,5 +39,5 @@ Nvidia confirmed it will acquire open-source AI hub Hugging Face for $12.93 bill
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
 **Canonical:** [[2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face]]
-**Related:** [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control]] · [[2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive]]
+**Related:** [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control]] · [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive]]
 <!-- graph:end -->

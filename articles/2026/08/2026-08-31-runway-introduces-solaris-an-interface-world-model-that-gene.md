@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-31-runway-unveils-solaris-its-first-interface-world-model
 - 2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g
 - 2026-06-06-cursor-3-7-ships-design-mode-edit-ui-by-pointing-drawing-or
+- 2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti
 - 2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into
-- 2026-10-22-mit-introduces-design-software-for-embedding-sensing-into-ev
 embedding_id: 2026-08-31-runway-introduces-solaris-an-interface-world-model-that-gene
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Solaris treats a software interface as a generated visual world rather than rend
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-31-runway-unveils-solaris-its-first-interface-world-model]] · [[2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g]] · [[2026-06-06-cursor-3-7-ships-design-mode-edit-ui-by-pointing-drawing-or]] · [[2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into]] · [[2026-10-22-mit-introduces-design-software-for-embedding-sensing-into-ev]]
+**Related:** [[2026-08-31-runway-unveils-solaris-its-first-interface-world-model]] · [[2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g]] · [[2026-06-06-cursor-3-7-ships-design-mode-edit-ui-by-pointing-drawing-or]] · [[2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti]] · [[2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
-- 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
 - 2026-11-11-november-11-2026-the-information
+- 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
 embedding_id: 2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Mercor, which supplies human expertise for training and evaluating AI models, ra
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]] · [[2026-11-11-november-11-2026-the-information]]
+**Related:** [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-11-11-november-11-2026-the-information]] · [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]]
 <!-- graph:end -->

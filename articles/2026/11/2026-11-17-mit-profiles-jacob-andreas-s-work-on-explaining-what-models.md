@@ -5,7 +5,7 @@ date: '2026-11-17'
 source: MIT News
 url_original: https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117
 url_canonical: https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-17_060438_Inbox_Daily AI News Digest - November
   17, 2026.md
 content_hash: ad9ec9ec71403460105188ec2af5e701ed375388388cf7990c98cc7c972e81f8

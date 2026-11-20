@@ -29,6 +29,7 @@ related_article_ids:
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
 - 2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner
 - 2026-09-04-deepseek-plots-major-huawei-ai-chip-order
+- 2026-09-04-september-4-2026-the-information
 embedding_id: 2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru
 event_name: ''
 ---
@@ -42,5 +43,5 @@ The Information reported that DeepSeek plans to install at least 160,000 Huawei 
 
 **Entities:** [[ByteDance]] · [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-04-deepseek-plans-major-huawei-chip-deployment-as-bytedance-rai]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner]] · [[2026-09-04-deepseek-plots-major-huawei-ai-chip-order]]
+**Related:** [[2026-09-04-deepseek-plans-major-huawei-chip-deployment-as-bytedance-rai]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner]] · [[2026-09-04-deepseek-plots-major-huawei-ai-chip-order]] · [[2026-09-04-september-4-2026-the-information]]
 <!-- graph:end -->

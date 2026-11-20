@@ -19,9 +19,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for
-related_article_ids:
-- 2026-11-12-november-11-2026-google
-- 2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl
+related_article_ids: []
 embedding_id: 2026-11-11-new-google-introduces-gemini-decision-1-for-high-volume-deci
 event_name: ''
 ---
@@ -36,5 +34,4 @@ Gemini Decision 1 brings a specialized model to Google’s Gemini Decisions API,
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for]]
-**Related:** [[2026-11-12-november-11-2026-google]] · [[2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl]]
 <!-- graph:end -->

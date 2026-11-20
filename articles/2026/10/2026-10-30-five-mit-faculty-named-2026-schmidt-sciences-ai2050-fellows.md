@@ -5,7 +5,7 @@ date: '2026-10-30'
 source: '[MIT News]'
 url_original: https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030
 url_canonical: https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-31_061259_Inbox_Daily AI News Digest - October
   31, 2026.md
 content_hash: be5bbdb54f67d95893e66b2aad213606c2e7a1570f5dfb32675d755ef647f443

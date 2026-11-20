@@ -5,7 +5,7 @@ date: '2026-11-18'
 source: OpenAI; AFP via Yahoo News
 url_original: https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership/
 url_canonical: https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-18_060402_Inbox_Daily AI News Digest - November
   18, 2026.md
 content_hash: 29261423c603df2a50e939e7c52898cd0f35921165adfa71069dc7fa7ce1badf

@@ -20,14 +20,9 @@ themes:
 - infrastructure-investments
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-11-16-california-attorney-general-november-16-2026
-- 2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg
-- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
-- 2026-09-04-september-5-2026-bleepingcomputer
-- 2026-08-28-subject-daily-ai-news-digest-august-28-2026
+dedupe_status: duplicate
+canonical_article_id: 2026-11-17-new-reporting-widens-the-nvidia-megaspeed-export-control-web
+related_article_ids: []
 embedding_id: 2026-11-17-november-17-2026-the-information
 event_name: ''
 ---
@@ -41,5 +36,5 @@ Nvidia's sales team introduced Alibaba to Alice Huang twice in 2022, months befo
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-16-california-attorney-general-november-16-2026]] · [[2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
+**Canonical:** [[2026-11-17-new-reporting-widens-the-nvidia-megaspeed-export-control-web]]
 <!-- graph:end -->

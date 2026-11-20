@@ -24,9 +24,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open
 - 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
+- 2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open
 embedding_id: 2026-09-19-pitchbook-ai-s-safety-slowdown-spooks-the-market-and-slows-i
 event_name: ''
 ---
@@ -40,5 +40,5 @@ PitchBook's Susan Hu argues venture is at a paradox — 2026 exit value hit a re
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open]] · [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]]
+**Related:** [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open]]
 <!-- graph:end -->

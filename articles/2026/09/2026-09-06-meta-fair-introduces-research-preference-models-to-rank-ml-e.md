@@ -18,9 +18,12 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-09-06-meta-fair-introduces-research-preference-models-to-rank-expe
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-09-06-meta-fair-introduces-research-preference-models-to-rank-expe
+- 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
+- 2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals
 embedding_id: 2026-09-06-meta-fair-introduces-research-preference-models-to-rank-ml-e
 event_name: ''
 ---
@@ -34,5 +37,5 @@ Meta FAIR introduced Research Preference Models, or RPMs, which rank machine-lea
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-09-06-meta-fair-introduces-research-preference-models-to-rank-expe]]
+**Related:** [[2026-09-06-meta-fair-introduces-research-preference-models-to-rank-expe]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals]]
 <!-- graph:end -->

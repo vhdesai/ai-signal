@@ -24,7 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-11-inference-resellers-start-buying-their-own-gpus-as-coreweave
 - 2026-10-19-october-20-2026-the-information
-- 2026-10-19-infra-neocloud-shakeout-looms-with-nvidia-exposed-to-non-hyp
+- 2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp
+- 2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure
 embedding_id: 2026-11-12-november-11-2026-wall-street-journal
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Inference startups that resell rented cloud capacity, including Fal, Together an
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-11-inference-resellers-start-buying-their-own-gpus-as-coreweave]] · [[2026-10-19-october-20-2026-the-information]] · [[2026-10-19-infra-neocloud-shakeout-looms-with-nvidia-exposed-to-non-hyp]]
+**Related:** [[2026-11-11-inference-resellers-start-buying-their-own-gpus-as-coreweave]] · [[2026-10-19-october-20-2026-the-information]] · [[2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp]] · [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure]]
 <!-- graph:end -->

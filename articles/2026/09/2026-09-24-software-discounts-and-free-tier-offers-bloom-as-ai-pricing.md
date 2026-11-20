@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic
-- 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
-- 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
-- 2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree
-- 2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final
+- 2026-08-21-openai-cuts-gpt-5-6-sol-api-and-credit-pricing-by-more-than
+- 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
+- 2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti
+- 2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio
 embedding_id: 2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The Information’s Martin Peers frames a broad reversal in AI pricing: Amazon j
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]] · [[2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final]]
+**Related:** [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic]] · [[2026-08-21-openai-cuts-gpt-5-6-sol-api-and-credit-pricing-by-more-than]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-10-25-new-openai-s-reported-enterprise-discounts-sharpen-competiti]] · [[2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio]]
 <!-- graph:end -->

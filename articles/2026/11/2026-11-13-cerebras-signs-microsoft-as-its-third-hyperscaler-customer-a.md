@@ -27,9 +27,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not
-- 2026-11-14-november-12-2026-techcrunch
 - 2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu
 - 2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an
+- 2026-11-14-november-12-2026-techcrunch
 - 2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability
 embedding_id: 2026-11-13-cerebras-signs-microsoft-as-its-third-hyperscaler-customer-a
 event_name: ''
@@ -44,5 +44,5 @@ Third-quarter core revenue rose 70% to $231 million and cloud revenue rose 272%.
 
 **Entities:** [[Amazon]] · [[Cerebras]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not]] · [[2026-11-14-november-12-2026-techcrunch]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an]] · [[2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability]]
+**Related:** [[2026-11-12-cerebras-lands-microsoft-and-raises-guidance-as-delivery-not]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-11-12-cerebras-surges-17-after-beating-on-quarterly-revenue-and-an]] · [[2026-11-14-november-12-2026-techcrunch]] · [[2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability]]
 <!-- graph:end -->

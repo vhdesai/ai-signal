@@ -23,8 +23,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-war
 - 2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-receives
+- 2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-war
 - 2026-09-25-anthropic-commits-11-6b-over-seven-years-to-akamai-cloud-cap
 - 2026-09-25-anthropic-to-pay-akamai-11-6-billion-over-seven-years-a-cpu
 - 2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend
@@ -41,5 +41,5 @@ Akamai announced a seven-year, $11.6B contractual commitment from Anthropic, exp
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-war]] · [[2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-receives]] · [[2026-09-25-anthropic-commits-11-6b-over-seven-years-to-akamai-cloud-cap]] · [[2026-09-25-anthropic-to-pay-akamai-11-6-billion-over-seven-years-a-cpu]] · [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend]]
+**Related:** [[2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-receives]] · [[2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-war]] · [[2026-09-25-anthropic-commits-11-6b-over-seven-years-to-akamai-cloud-cap]] · [[2026-09-25-anthropic-to-pay-akamai-11-6-billion-over-seven-years-a-cpu]] · [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend]]
 <!-- graph:end -->

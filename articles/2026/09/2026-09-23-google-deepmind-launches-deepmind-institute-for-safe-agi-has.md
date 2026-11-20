@@ -27,9 +27,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
+- 2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi
 - 2026-09-24-google-openai-and-anthropic-advance-standards-authority-for
-- 2026-08-13-hassabis-pitched-an-independent-ai-oversight-body-to-rival-l
-- 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
 embedding_id: 2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has
 event_name: ''
 ---
@@ -43,5 +42,5 @@ Google launched the DeepMind Institute for the safe development of artificial ge
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for]] · [[2026-08-13-hassabis-pitched-an-independent-ai-oversight-body-to-rival-l]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]]
+**Related:** [[2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi]] · [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for]]
 <!-- graph:end -->

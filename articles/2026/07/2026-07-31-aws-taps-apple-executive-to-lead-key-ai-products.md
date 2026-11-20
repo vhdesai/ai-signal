@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-aws-hires-apple-and-google-veteran-to-lead-key-ai-products
 - 2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi
 - 2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role
-- 2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate
+- 2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t
 embedding_id: 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon Web Services has recruited a senior Apple executive to lead key AI produc
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-aws-hires-apple-and-google-veteran-to-lead-key-ai-products]] · [[2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi]] · [[2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role]] · [[2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate]]
+**Related:** [[2026-07-31-aws-hires-apple-and-google-veteran-to-lead-key-ai-products]] · [[2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi]] · [[2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role]] · [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t]]
 <!-- graph:end -->

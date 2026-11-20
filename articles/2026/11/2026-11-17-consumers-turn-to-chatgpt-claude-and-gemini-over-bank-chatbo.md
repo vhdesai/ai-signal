@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-researchers-at-northwestern-university-and-american-universi
-- 2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
+- 2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads
 - 2026-05-23-researchers-from-northwestern-and-american-university-tested
 embedding_id: 2026-11-17-consumers-turn-to-chatgpt-claude-and-gemini-over-bank-chatbo
 event_name: ''
@@ -36,5 +36,5 @@ A McKinsey report covered by CIO Dive finds nearly three in four consumers who u
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-05-23-researchers-from-northwestern-and-american-university-tested]]
+**Related:** [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads]] · [[2026-05-23-researchers-from-northwestern-and-american-university-tested]]
 <!-- graph:end -->

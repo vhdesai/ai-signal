@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-29-the-information-publishes-a-postmortem-on-the-hugging-face-h
 - 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
+- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 - 2026-08-26-openai-publishes-official-hugging-face-breach-postmortem
 embedding_id: 2026-08-29-the-hugging-face-hack-s-chilling-postmortem
 event_name: ''
@@ -39,5 +40,5 @@ The Information's weekend edition features the postmortem of the Hugging Face ha
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[M&A Activity]]
-**Related:** [[2026-08-29-the-information-publishes-a-postmortem-on-the-hugging-face-h]] · [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-08-26-openai-publishes-official-hugging-face-breach-postmortem]]
+**Related:** [[2026-08-29-the-information-publishes-a-postmortem-on-the-hugging-face-h]] · [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]] · [[2026-08-26-openai-publishes-official-hugging-face-breach-postmortem]]
 <!-- graph:end -->

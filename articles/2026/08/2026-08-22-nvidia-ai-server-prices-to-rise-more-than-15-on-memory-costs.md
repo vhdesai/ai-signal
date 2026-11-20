@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser
-- 2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s
 - 2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s
 - 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
+- 2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s
 embedding_id: 2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia’s largest customers have been notified of 15%+ price increases on AI se
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser]] · [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]]
+**Related:** [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser]] · [[2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]] · [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]]
 <!-- graph:end -->

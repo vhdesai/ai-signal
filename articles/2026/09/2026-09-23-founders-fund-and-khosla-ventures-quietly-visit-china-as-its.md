@@ -25,6 +25,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour
 - 2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba
 - 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
 - 2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave
@@ -42,5 +43,5 @@ The Information reports three Founders Fund partners (Sean Liu, John Luttig, Joe
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba]] · [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]] · [[2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave]] · [[2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e]]
+**Related:** [[2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour]] · [[2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba]] · [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]] · [[2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave]] · [[2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e]]
 <!-- graph:end -->

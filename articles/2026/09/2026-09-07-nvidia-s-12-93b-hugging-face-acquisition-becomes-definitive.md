@@ -25,8 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion
-- 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
 - 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
+- 2026-09-04-nvidia-to-acquire-hugging-face-for-roughly-13-billion
+- 2026-09-03-hot-breaking-nvidia-confirms-12-93b-acquisition-of-hugging-f
 embedding_id: 2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Nvidia’s acquisition of Hugging Face — roughly $11.9B in cash plus up to $1B
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
-**Related:** [[2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion]] · [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control]] · [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]]
+**Related:** [[2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion]] · [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-09-04-nvidia-to-acquire-hugging-face-for-roughly-13-billion]] · [[2026-09-03-hot-breaking-nvidia-confirms-12-93b-acquisition-of-hugging-f]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Medical Xpress / University of Adelaide
 url_original: https://medicalxpress.com/news/2026-09-ai-tool-endometriosis-diagnosis.html
 url_canonical: https://medicalxpress.com/news/2026-09-ai-tool-endometriosis-diagnosis.html
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: f2150593994381dc0138df27508bf02d7eceb66b0a597e0131dbbeb0ed681c8c
@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-18-midjourney-launches-medical-division-with-full-body-ultrasou
 - 2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de
 - 2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
+- 2026-09-12-ai-could-help-clinicians-detect-schizophrenia-earlier-from-s
 embedding_id: 2026-09-21-endofusion-multimodal-ai-tool-aims-to-speed-endometriosis-di
 event_name: ''
 ---
@@ -36,5 +36,5 @@ EndoFusion fuses MRI and transvaginal ultrasound data — more than 9,000 pelvic
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-18-midjourney-launches-medical-division-with-full-body-ultrasou]] · [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de]] · [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]]
+**Related:** [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de]] · [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-09-12-ai-could-help-clinicians-detect-schizophrenia-earlier-from-s]]
 <!-- graph:end -->

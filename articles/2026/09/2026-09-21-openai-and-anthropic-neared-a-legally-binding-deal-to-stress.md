@@ -27,8 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
-- 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
+- 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
+- 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 embedding_id: 2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress
 event_name: ''
 ---
@@ -42,5 +43,5 @@ The Information reports OpenAI and Anthropic were negotiating a legally binding 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]]
+**Related:** [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-07-november-6-2026-techcrunch
 - 2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls
+- 2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta
 - 2026-06-07-deepseek-tops-ramp-s-trending-software-vendors-as-u-s-compan
 - 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
-- 2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta
 embedding_id: 2026-10-02-ramp-ai-index-us-businesses-are-using-more-ai-and-paying-les
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Ramp economist Ara Kharazian's monthly Ramp AI Index shows US company spend on A
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-07-november-6-2026-techcrunch]] · [[2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls]] · [[2026-06-07-deepseek-tops-ramp-s-trending-software-vendors-as-u-s-compan]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta]]
+**Related:** [[2026-11-07-november-6-2026-techcrunch]] · [[2026-11-06-ramp-data-shows-ai-token-use-rising-while-spending-stalls]] · [[2026-11-06-ai-s-unit-economics-tighten-token-use-climbs-while-spend-sta]] · [[2026-06-07-deepseek-tops-ramp-s-trending-software-vendors-as-u-s-compan]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]]
 <!-- graph:end -->

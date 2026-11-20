@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-blackstone-we-have-not-mapped-out-who-s-going-to-buy-all-the
+- 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
 - 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
-- 2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure
-- 2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras
+- 2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge
 embedding_id: 2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Jas Khaira, head of Blackstone’s AI-focused investment team, said at The Infor
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-23-blackstone-we-have-not-mapped-out-who-s-going-to-buy-all-the]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure]] · [[2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras]]
+**Related:** [[2026-09-23-blackstone-we-have-not-mapped-out-who-s-going-to-buy-all-the]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]]
 <!-- graph:end -->

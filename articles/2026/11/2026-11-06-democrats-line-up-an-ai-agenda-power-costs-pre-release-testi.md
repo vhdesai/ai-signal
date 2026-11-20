@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 - 2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co
 - 2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas
-- 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
+- 2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue
+- 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 embedding_id: 2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Reuters reports Democrats will introduce a wave of AI bills when they take contr
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co]] · [[2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]]
+**Related:** [[2026-11-04-post-election-ai-rulebook-takes-shape-as-openai-pitches-a-co]] · [[2026-11-06-voters-back-data-center-restrictions-in-40-of-41-ballot-meas]] · [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]]
 <!-- graph:end -->

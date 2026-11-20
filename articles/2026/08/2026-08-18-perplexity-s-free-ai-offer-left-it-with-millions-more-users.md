@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-18-perplexity-s-india-experiment-ai-bundling-can-build-lasting
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-s-free-and-go-tiers-in
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in
-- 2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing
+- 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
 embedding_id: 2026-08-18-perplexity-s-free-ai-offer-left-it-with-millions-more-users
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Perplexity's India revenue rose approximately 60% after its free Airtel-bundled 
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-18-perplexity-s-india-experiment-shows-ai-bundling-can-build-la]] · [[2026-08-18-perplexity-s-india-experiment-ai-bundling-can-build-lasting]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-s-free-and-go-tiers-in]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in]] · [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing]]
+**Related:** [[2026-08-18-perplexity-s-india-experiment-shows-ai-bundling-can-build-la]] · [[2026-08-18-perplexity-s-india-experiment-ai-bundling-can-build-lasting]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-s-free-and-go-tiers-in]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in]] · [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]]
 <!-- graph:end -->

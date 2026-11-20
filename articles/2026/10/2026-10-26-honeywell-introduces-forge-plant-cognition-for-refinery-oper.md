@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu
 - 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
-- 2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc
-- 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
+- 2026-10-24-cognition-open-sources-a-vulnerability-fix-plugin-for-recent
+- 2026-10-25-marktechpost-reports-cognition-published-open-source-remedia
 embedding_id: 2026-10-26-honeywell-introduces-forge-plant-cognition-for-refinery-oper
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Honeywell's announcement describes a Forge Plant Cognition deployment at Dangote
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]]
+**Related:** [[2026-10-24-cognition-details-devin-vulnerability-remediation-across-plu]] · [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-10-24-cognition-open-sources-a-vulnerability-fix-plugin-for-recent]] · [[2026-10-25-marktechpost-reports-cognition-published-open-source-remedia]]
 <!-- graph:end -->

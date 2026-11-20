@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
+- 2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new
 embedding_id: 2026-09-04-ai-leads-unicorn-creation-in-2026-deepseek-tops-new-ai-unico
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Fortune India reported that 54 AI startups have crossed the $1 billion valuation
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]]
+**Related:** [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new]]
 <!-- graph:end -->

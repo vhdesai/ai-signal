@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: GeekWire / The Information]
 url_original: https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/
 url_canonical: https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: a8e23289047be8bd6d9f4703e2669ba9f20e511fd67c6337cbdb3123f5dc9ae3
@@ -22,8 +22,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-23-amazon-opens-seller-assistant-to-claude-and-gives-sellers-12
-related_article_ids:
-- 2026-09-23-amazon-opens-seller-central-to-outside-ai-agents-beginning-w
+related_article_ids: []
 embedding_id: 2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-start
 event_name: ''
 ---
@@ -38,5 +37,4 @@ At its Accelerate conference, Amazon launched a Selling Partner plugin letting m
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Meta]]
 **Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-09-23-amazon-opens-seller-assistant-to-claude-and-gives-sellers-12]]
-**Related:** [[2026-09-23-amazon-opens-seller-central-to-outside-ai-agents-beginning-w]]
 <!-- graph:end -->

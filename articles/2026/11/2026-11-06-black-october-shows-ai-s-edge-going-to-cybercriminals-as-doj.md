@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks
 - 2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr
 - 2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane
-- 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 embedding_id: 2026-11-06-black-october-shows-ai-s-edge-going-to-cybercriminals-as-doj
 event_name: ''
 ---
@@ -37,5 +36,5 @@ WSJ Pro reports that recent AI-powered hacks in Japan, South Korea, the US and E
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks]] · [[2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]]
+**Related:** [[2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks]] · [[2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]]
 <!-- graph:end -->

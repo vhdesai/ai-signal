@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste
 - 2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an
 - 2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex
-- 2026-10-10-nvidia-gpu-access-becomes-a-fragmented-procurement-market-ac
+- 2026-11-14-november-12-2026-techcrunch
 embedding_id: 2026-11-12-nebius-plans-40-billion-of-2027-capex-as-its-microsoft-capac
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Nebius will fund the buildout mostly through customer prepayments and loans back
 
 **Entities:** [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste]] · [[2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an]] · [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-10-10-nvidia-gpu-access-becomes-a-fragmented-procurement-market-ac]]
+**Related:** [[2026-11-06-microsoft-drops-oracle-capacity-and-trims-its-neocloud-roste]] · [[2026-10-30-nvidia-reportedly-in-talks-to-guarantee-debt-for-nscale-s-an]] · [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-11-14-november-12-2026-techcrunch]]
 <!-- graph:end -->

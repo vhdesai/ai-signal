@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-13-openai-introduces-chatgpt-wallet-for-agent-purchases
 - 2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads
 - 2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa
 embedding_id: 2026-11-14-chatgpt-wallet-lets-openai-s-dots-agents-buy-on-a-user-s-beh
@@ -35,5 +36,5 @@ ChatGPT Wallet lets OpenAI's dots agents buy on a user's behalf using tokenized 
 ## Connections
 
 **Entities:** [[Amazon]] · [[OpenAI]]
-**Related:** [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads]] · [[2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa]]
+**Related:** [[2026-11-13-openai-introduces-chatgpt-wallet-for-agent-purchases]] · [[2026-11-13-agents-get-wallets-chatgpt-can-now-buy-for-you-gemini-reads]] · [[2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa]]
 <!-- graph:end -->

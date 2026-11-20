@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some
 - 2026-11-11-fractile-raises-720-million-to-bring-its-inference-architect
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
-- 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
-- 2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi
+- 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
+- 2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte
 embedding_id: 2026-11-11-november-11-2026-the-information
 event_name: ''
 ---
@@ -39,5 +39,5 @@ UK inference-chip startup Fractile raised a $720 million Series C led by Thrive 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some]] · [[2026-11-11-fractile-raises-720-million-to-bring-its-inference-architect]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-11-11-venture-capital-follows-the-agent-stack-mercor-reaches-20-bi]]
+**Related:** [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some]] · [[2026-11-11-fractile-raises-720-million-to-bring-its-inference-architect]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]] · [[2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte]]
 <!-- graph:end -->

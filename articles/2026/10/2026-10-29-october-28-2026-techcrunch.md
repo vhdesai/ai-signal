@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00
 - 2026-10-20-october-19-2026-cio-dive
 - 2026-10-01-barclays-materially-expands-enterprise-claude-deployment-sta
+- 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 embedding_id: 2026-10-29-october-28-2026-techcrunch
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Anthropic launched Claude Enterprise reports, employee surveys and pooled budget
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-28-ai-cost-governance-becomes-a-product-as-anthropic-ships-spen]] · [[2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00]] · [[2026-10-20-october-19-2026-cio-dive]] · [[2026-10-01-barclays-materially-expands-enterprise-claude-deployment-sta]]
+**Related:** [[2026-10-28-ai-cost-governance-becomes-a-product-as-anthropic-ships-spen]] · [[2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00]] · [[2026-10-20-october-19-2026-cio-dive]] · [[2026-10-01-barclays-materially-expands-enterprise-claude-deployment-sta]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]]
 <!-- graph:end -->

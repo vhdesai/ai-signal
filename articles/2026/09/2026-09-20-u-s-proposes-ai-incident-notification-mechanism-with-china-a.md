@@ -19,13 +19,9 @@ themes:
 - policy-regulation
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
-- 2026-09-21-us-proposes-an-ai-incident-hotline-with-china-ahead-of-the-t
-- 2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a
-- 2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not
+dedupe_status: duplicate
+canonical_article_id: 2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not
+related_article_ids: []
 embedding_id: 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
 event_name: ''
 ---
@@ -38,5 +34,5 @@ After daylong talks with Chinese Vice Premier He Lifeng in New York, Treasury Se
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-21-us-proposes-an-ai-incident-hotline-with-china-ahead-of-the-t]] · [[2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a]] · [[2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not]]
+**Canonical:** [[2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not]]
 <!-- graph:end -->

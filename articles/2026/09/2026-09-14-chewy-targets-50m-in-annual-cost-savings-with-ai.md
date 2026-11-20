@@ -21,11 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-27-subject-daily-ai-news-digest-august-27-2026
-- 2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity
-- 2026-10-29-october-28-2026-techcrunch
-- 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-- 2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro
+- 2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai
+- 2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative
 embedding_id: 2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai
 event_name: ''
 ---
@@ -38,5 +35,5 @@ Chewy is deploying AI tools across customer care, pharmacy, and vet services to 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity]] · [[2026-10-29-october-28-2026-techcrunch]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro]]
+**Related:** [[2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai]] · [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]]
 <!-- graph:end -->

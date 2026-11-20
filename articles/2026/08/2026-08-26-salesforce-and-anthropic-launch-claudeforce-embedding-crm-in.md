@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-01-salesforce-puts-its-entire-crm-inside-claude
 - 2026-08-27-salesforce-and-anthropic-launch-claudeforce
 - 2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin
-- 2026-08-26-salesforce-and-anthropic-announce-claudeforce
 - 2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag
+- 2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th
 embedding_id: 2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Claudeforce brings live Salesforce data, workflows, and governance directly into
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Salesforce]]
-**Related:** [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin]] · [[2026-08-26-salesforce-and-anthropic-announce-claudeforce]] · [[2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag]]
+**Related:** [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin]] · [[2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag]] · [[2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th]]
 <!-- graph:end -->

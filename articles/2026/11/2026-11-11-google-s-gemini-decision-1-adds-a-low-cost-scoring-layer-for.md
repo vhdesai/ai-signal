@@ -19,10 +19,13 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl
+dedupe_status: canonical
+canonical_article_id: null
 related_article_ids:
+- 2026-11-12-november-11-2026-google
 - 2026-11-11-new-google-introduces-gemini-decision-1-for-high-volume-deci
+- 2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl
+- 2026-11-18-gemini-4-neon-sharpens-the-model-price-performance-contest
 embedding_id: 2026-11-11-google-s-gemini-decision-1-adds-a-low-cost-scoring-layer-for
 event_name: ''
 ---
@@ -36,6 +39,5 @@ The new Gemini Decisions API and its first model answer yes/no, multiple-choice 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl]]
-**Related:** [[2026-11-11-new-google-introduces-gemini-decision-1-for-high-volume-deci]]
+**Related:** [[2026-11-12-november-11-2026-google]] · [[2026-11-11-new-google-introduces-gemini-decision-1-for-high-volume-deci]] · [[2026-11-11-google-introduces-a-low-cost-decision-layer-for-agent-workfl]] · [[2026-11-18-gemini-4-neon-sharpens-the-model-price-performance-contest]]
 <!-- graph:end -->

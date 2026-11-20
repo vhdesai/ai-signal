@@ -26,10 +26,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch
-- 2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent
 - 2026-11-08-november-8-2026-financial-times-via-yahoo-finance
-- 2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token
-- 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
+- 2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent
+- 2026-11-15-wall-street-wants-to-trade-ai-compute-like-oil-as-private-cr
 embedding_id: 2026-11-13-ai-infrastructure-finance-matures-compute-futures-near-appro
 event_name: ''
 ---
@@ -43,5 +42,5 @@ PitchBook reports that CME's compute-futures platform awaits US regulatory appro
 
 **Entities:** [[Anthropic]] · [[Cerebras]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch]] · [[2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent]] · [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance]] · [[2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]]
+**Related:** [[2026-11-14-cerebras-says-its-next-generation-wse-5-chip-is-ahead-of-sch]] · [[2026-11-08-november-8-2026-financial-times-via-yahoo-finance]] · [[2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent]] · [[2026-11-15-wall-street-wants-to-trade-ai-compute-like-oil-as-private-cr]]
 <!-- graph:end -->

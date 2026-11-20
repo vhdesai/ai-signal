@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: OpenAI / The Decoder
 url_original: https://openai.com/index/disrupting-ai-enabled-false-front-operations
 url_canonical: https://openai.com/index/disrupting-ai-enabled-false-front-operations
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: bc5adaad85ac738a346d029d38dc45afaeb51464f504043930eee628d2e39a02
@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th
+- 2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i
 - 2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
-- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 embedding_id: 2026-10-09-openai-uncovers-russian-and-iranian-ai-enabled-false-front-i
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI exposed and banned accounts tied to Russia's "Dark Clark" campaign and Ir
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
+**Related:** [[2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th]] · [[2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]]
 <!-- graph:end -->

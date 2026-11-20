@@ -28,8 +28,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-18-november-18-2026-the-information
 - 2026-11-17-nvidia-reports-115-8-billion-quarter-and-higher-revenue-guid
-- 2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027
-- 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
+- 2026-11-19-november-18-2026-wall-street-journal-2
 embedding_id: 2026-11-17-nvidia-beats-and-lifts-next-year-s-growth-outlook-to-75-in-i
 event_name: ''
 ---
@@ -43,5 +42,5 @@ Nvidia reported October-quarter revenue of $115.8 billion, more than double a ye
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-18-november-18-2026-the-information]] · [[2026-11-17-nvidia-reports-115-8-billion-quarter-and-higher-revenue-guid]] · [[2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027]] · [[2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as]]
+**Related:** [[2026-11-18-november-18-2026-the-information]] · [[2026-11-17-nvidia-reports-115-8-billion-quarter-and-higher-revenue-guid]] · [[2026-11-19-november-18-2026-wall-street-journal-2]]
 <!-- graph:end -->

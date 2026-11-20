@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
-- 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 - 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
-- 2026-08-31-openai-s-advertising-business-reaches-a-1-billion-annualized
+- 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
+- 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
+- 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in
 embedding_id: 2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing
 event_name: ''
 ---
@@ -40,5 +41,5 @@ OpenAI has told partners it will no longer accept advertising in ChatGPT for ima
 
 **Entities:** [[Adobe]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev]] · [[2026-08-31-openai-s-advertising-business-reaches-a-1-billion-annualized]]
+**Related:** [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis]] · [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in]]
 <!-- graph:end -->

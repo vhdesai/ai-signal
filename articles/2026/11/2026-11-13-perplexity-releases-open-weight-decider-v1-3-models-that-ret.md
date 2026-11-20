@@ -18,14 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur
-- 2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and
-- 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
-- 2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and
-- 2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-rea
+dedupe_status: duplicate
+canonical_article_id: 2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur
+related_article_ids: []
 embedding_id: 2026-11-13-perplexity-releases-open-weight-decider-v1-3-models-that-ret
 event_name: ''
 ---
@@ -39,5 +34,5 @@ Perplexity's Decider models answer yes/no, multiple-choice and scoring questions
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur]] · [[2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and]] · [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring]] · [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and]] · [[2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-rea]]
+**Canonical:** [[2026-11-13-perplexity-open-sources-decider-v1-3-small-models-that-retur]]
 <!-- graph:end -->

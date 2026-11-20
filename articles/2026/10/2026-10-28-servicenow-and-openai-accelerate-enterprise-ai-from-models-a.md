@@ -6,7 +6,7 @@ date: '2026-10-28'
 source: Business Wire release, 4:07 p.m. ET · ServiceNow / Business Wire
 url_original: https://investor.servicenow.com/news/news-details/2026/ServiceNow-and-OpenAI-accelerate-enterprise-AI-from-models-and-operations-to-cybersecurity-and-agentic-development/default.aspx
 url_canonical: https://investor.servicenow.com/news/news-details/2026/ServiceNow-and-OpenAI-accelerate-enterprise-AI-from-models-and-operations-to-cybersecurity-and-agentic-development/default.aspx
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-29_060338_Inbox_Daily AI News Digest – October
   29, 2026.md
 content_hash: ffd99b6073782db8618f9c61a7f735cdfed48d0d7b2b1cb55d5edccd3a49a8f6

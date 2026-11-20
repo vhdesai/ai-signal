@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
 - 2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an
-- 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
 - 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p
+- 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
 - 2026-05-19-paramount-cto-departs-as-media-companies-rewire-around-ai
 embedding_id: 2026-07-20-u-s-ai-standards-office-loses-another-leader
 event_name: ''
@@ -39,5 +39,5 @@ TechCrunch reports that Chris Fall, director of the Center for AI Standards and 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]] · [[2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an]] · [[2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p]] · [[2026-05-19-paramount-cto-departs-as-media-companies-rewire-around-ai]]
+**Related:** [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]] · [[2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p]] · [[2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u]] · [[2026-05-19-paramount-cto-departs-as-media-companies-rewire-around-ai]]
 <!-- graph:end -->

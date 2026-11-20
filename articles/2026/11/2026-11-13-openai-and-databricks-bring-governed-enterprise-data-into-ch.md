@@ -25,9 +25,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-13-november-13-2026-databricks
 - 2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
+- 2026-11-13-november-13-2026-databricks
 - 2026-11-11-databricks-positions-genie-for-extended-data-grounded-assign
 embedding_id: 2026-11-13-openai-and-databricks-bring-governed-enterprise-data-into-ch
 event_name: ''
@@ -42,5 +42,5 @@ A Databricks Genie plugin for ChatGPT, built on Genie MCP, lets employees query 
 
 **Entities:** [[Databricks]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-13-november-13-2026-databricks]] · [[2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-11-11-databricks-positions-genie-for-extended-data-grounded-assign]]
+**Related:** [[2026-11-13-openai-and-databricks-put-governed-company-data-into-chatgpt]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-11-13-november-13-2026-databricks]] · [[2026-11-11-databricks-positions-genie-for-extended-data-grounded-assign]]
 <!-- graph:end -->

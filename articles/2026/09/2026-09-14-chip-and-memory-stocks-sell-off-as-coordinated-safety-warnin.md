@@ -26,9 +26,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th
-- 2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow
 - 2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks
-- 2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea
+- 2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off
+- 2026-09-13-ai-stock-weakness-collides-with-oil-shock-and-rate-concerns
 embedding_id: 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The pacing argument spread from memory suppliers into logic and accelerators, wi
 
 **Entities:** [[AMD]] · [[Intel]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th]] · [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow]] · [[2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks]] · [[2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea]]
+**Related:** [[2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th]] · [[2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks]] · [[2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off]] · [[2026-09-13-ai-stock-weakness-collides-with-oil-shock-and-rate-concerns]]
 <!-- graph:end -->

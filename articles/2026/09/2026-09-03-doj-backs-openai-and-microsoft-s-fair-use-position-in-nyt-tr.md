@@ -21,7 +21,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo
-related_article_ids: []
+related_article_ids:
+- 2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim
 embedding_id: 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr
 event_name: ''
 ---
@@ -36,4 +37,5 @@ The U.S. Department of Justice filed a statement of interest supporting OpenAI a
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Canonical:** [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo]]
+**Related:** [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim]]
 <!-- graph:end -->

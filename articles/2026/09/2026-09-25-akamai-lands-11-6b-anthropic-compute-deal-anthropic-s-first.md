@@ -27,8 +27,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai
 - 2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend
+- 2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai
 - 2026-09-25-anthropic-to-pay-akamai-11-6-billion-over-seven-years-a-cpu
 - 2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w
 embedding_id: 2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first
@@ -44,5 +44,5 @@ Akamai signed an $11.6 billion cloud-services deal with Anthropic, sending Akama
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[Palantir]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]] · [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend]] · [[2026-09-25-anthropic-to-pay-akamai-11-6-billion-over-seven-years-a-cpu]] · [[2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w]]
+**Related:** [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend]] · [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]] · [[2026-09-25-anthropic-to-pay-akamai-11-6-billion-over-seven-years-a-cpu]] · [[2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w]]
 <!-- graph:end -->

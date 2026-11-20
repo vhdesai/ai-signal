@@ -23,9 +23,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a
 - 2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5
 - 2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price
+- 2026-08-07-anthropic-loosens-claude-fable-5-biology-guardrails-while-wa
 embedding_id: 2026-09-02-anthropic-ships-fable-5-1-and-mythos-5-1-with-tiered-access
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic released Claude Fable 5.1 and Claude Mythos 5.1, restricting the latte
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a]] · [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5]] · [[2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price]]
+**Related:** [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5]] · [[2026-11-09-anthropic-ships-claude-fable-5-2-and-mythos-5-2-with-a-price]] · [[2026-08-07-anthropic-loosens-claude-fable-5-biology-guardrails-while-wa]]
 <!-- graph:end -->

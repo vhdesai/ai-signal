@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-11-13-google-open-sources-tpu-sync-to-move-kv-caches-and-weights-b
 - 2026-11-13-llama-cpp-and-ggml-reach-version-1-0-with-a-stable-api-commi
 - 2026-11-14-the-ggml-org-team-released-v1-0-0-of-llama-cpp-and-ggml-afte
-- event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family
+- 2026-10-21-llm-d-1-0-lands-as-a-production-distributed-inference-stack
 embedding_id: 2026-11-13-open-inference-plumbing-matures-google-open-sources-tpu-sync
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google Cloud released TPU Sync, an Apache-2.0 library that moves KV caches and m
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-13-google-open-sources-tpu-sync-to-move-kv-caches-and-weights-b]] · [[2026-11-13-llama-cpp-and-ggml-reach-version-1-0-with-a-stable-api-commi]] · [[2026-11-14-the-ggml-org-team-released-v1-0-0-of-llama-cpp-and-ggml-afte]] · [[event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family]]
+**Related:** [[2026-11-13-google-open-sources-tpu-sync-to-move-kv-caches-and-weights-b]] · [[2026-11-13-llama-cpp-and-ggml-reach-version-1-0-with-a-stable-api-commi]] · [[2026-11-14-the-ggml-org-team-released-v1-0-0-of-llama-cpp-and-ggml-afte]] · [[2026-10-21-llm-d-1-0-lands-as-a-production-distributed-inference-stack]]
 <!-- graph:end -->

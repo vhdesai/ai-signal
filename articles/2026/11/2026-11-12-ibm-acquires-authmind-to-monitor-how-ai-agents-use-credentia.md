@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi
 - 2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance
 - 2026-09-11-ai-agents-breached-395-organizations-across-48-countries-in
 - 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
+- 2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out
 embedding_id: 2026-11-12-ibm-acquires-authmind-to-monitor-how-ai-agents-use-credentia
 event_name: ''
 ---
@@ -40,5 +40,5 @@ IBM will integrate AuthMind's identity-activity graph into HashiCorp Vault, addi
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-11-12-agent-infrastructure-draws-capital-langchain-doubles-to-3-bi]] · [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]] · [[2026-09-11-ai-agents-breached-395-organizations-across-48-countries-in]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]]
+**Related:** [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]] · [[2026-09-11-ai-agents-breached-395-organizations-across-48-countries-in]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]]
 <!-- graph:end -->

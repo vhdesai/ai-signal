@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-11-03-openai-signs-magnite-and-pubmatic-to-fill-unused-chatgpt-ad
 - 2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing
 - 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
+- 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 embedding_id: 2026-11-02-openai-signs-magnite-and-pubmatic-to-fill-unused-chatgpt-ad
 event_name: ''
 ---
@@ -37,5 +38,5 @@ According to three people familiar with the deals, OpenAI has signed deals with 
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-03-openai-signs-magnite-and-pubmatic-to-fill-unused-chatgpt-ad]] · [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing]] · [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev]]
+**Related:** [[2026-11-03-openai-signs-magnite-and-pubmatic-to-fill-unused-chatgpt-ad]] · [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing]] · [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]]
 <!-- graph:end -->

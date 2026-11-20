@@ -6,7 +6,7 @@ date: '2026-11-09'
 source: '[MIT News]'
 url_original: https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109
 url_canonical: https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-09_061126_Inbox_Daily AI News Digest - November
   9, 2026.md
 content_hash: 14d52f91101ddbb5a8c50456be5011192836d497fb73a7c121702886fe9c8bb4

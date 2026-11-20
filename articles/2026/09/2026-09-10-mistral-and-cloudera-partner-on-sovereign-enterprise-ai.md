@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne
 - 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e
-- 2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
+- 2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 embedding_id: 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
 event_name: ''
@@ -41,5 +41,5 @@ Cloudera and Mistral announced a partnership to bring Mistral models directly to
 
 **Entities:** [[Mistral]] · [[NVIDIA]] · [[Palantir]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne]] · [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e]] · [[2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus]] · [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]]
+**Related:** [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne]] · [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e]] · [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par]] · [[2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]]
 <!-- graph:end -->

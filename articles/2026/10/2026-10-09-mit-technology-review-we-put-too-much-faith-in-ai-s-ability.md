@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-10-09-subject-daily-ai-news-digest-october-9-2026
-- 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
-- 2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence
-- 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
+- 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
+- 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
+- 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
+- 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 embedding_id: 2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT Technology Review argues current safety systems put too much faith in AI's a
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]]
+**Related:** [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]]
 <!-- graph:end -->

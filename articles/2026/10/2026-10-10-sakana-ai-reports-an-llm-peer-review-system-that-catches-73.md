@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-11-research-24-48h-exception-sakana-ai-s-llm-peer-review-system
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
+- 2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness
 embedding_id: 2026-10-10-sakana-ai-reports-an-llm-peer-review-system-that-catches-73
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Sakana AI published research on a Multi-Layered Review system for AI-assisted sc
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-10-10-sakana-ai-reports-llm-peer-review-system-that-catches-73-of]] · [[2026-10-11-research-24-48h-exception-sakana-ai-s-llm-peer-review-system]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]]
+**Related:** [[2026-10-10-sakana-ai-reports-llm-peer-review-system-that-catches-73-of]] · [[2026-10-11-research-24-48h-exception-sakana-ai-s-llm-peer-review-system]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness]]
 <!-- graph:end -->

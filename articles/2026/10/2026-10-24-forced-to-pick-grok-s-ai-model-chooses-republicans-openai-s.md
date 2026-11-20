@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-10-24-cross-model-political-preference-findings-raise-governance-a
 - 2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod
 - 2026-10-25-techcrunch-reports-on-a-convovo-study-led-by-a-cornell-affil
+- 2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi
 - 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
-- 2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr
 embedding_id: 2026-10-24-forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A forced-choice API study found opposing partisan recommendations from Grok and 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-10-24-cross-model-political-preference-findings-raise-governance-a]] · [[2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod]] · [[2026-10-25-techcrunch-reports-on-a-convovo-study-led-by-a-cornell-affil]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr]]
+**Related:** [[2026-10-24-cross-model-political-preference-findings-raise-governance-a]] · [[2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod]] · [[2026-10-25-techcrunch-reports-on-a-convovo-study-led-by-a-cornell-affil]] · [[2026-11-06-democrats-line-up-an-ai-agenda-power-costs-pre-release-testi]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-10-09-google-unifies-fragmented-agents-while-microsoft-turns-windo
 - 2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete
 - 2026-05-20-google-launches-managed-agents-api-one-call-to-deploy-at-the
-- 2026-09-20-google-publishes-ax-an-apache-2-0-agentic-orchestrator-for-k
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
+- 2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici
 embedding_id: 2026-10-22-google-cloud-introduces-agent-compute-engine-with-microvm-is
 event_name: ''
 ---
@@ -40,5 +40,5 @@ MarkTechPost reports Google Cloud announced Agent Compute Engine, designed to ru
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-10-09-google-unifies-fragmented-agents-while-microsoft-turns-windo]] · [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete]] · [[2026-05-20-google-launches-managed-agents-api-one-call-to-deploy-at-the]] · [[2026-09-20-google-publishes-ax-an-apache-2-0-agentic-orchestrator-for-k]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]]
+**Related:** [[2026-10-09-google-unifies-fragmented-agents-while-microsoft-turns-windo]] · [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete]] · [[2026-05-20-google-launches-managed-agents-api-one-call-to-deploy-at-the]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici]]
 <!-- graph:end -->

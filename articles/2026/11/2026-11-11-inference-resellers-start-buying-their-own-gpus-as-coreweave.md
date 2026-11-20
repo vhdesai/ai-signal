@@ -27,7 +27,6 @@ related_article_ids:
 - 2026-11-12-november-11-2026-wall-street-journal
 - 2026-10-19-october-20-2026-the-information
 - 2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge
-- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 embedding_id: 2026-11-11-inference-resellers-start-buying-their-own-gpus-as-coreweave
 event_name: ''
 ---
@@ -41,5 +40,5 @@ Inference startups that have historically resold rented cloud capacity, includin
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-12-november-11-2026-wall-street-journal]] · [[2026-10-19-october-20-2026-the-information]] · [[2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
+**Related:** [[2026-11-12-november-11-2026-wall-street-journal]] · [[2026-10-19-october-20-2026-the-information]] · [[2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge]]
 <!-- graph:end -->

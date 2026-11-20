@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-time-publishes-inside-openai-s-reboot-a-sam-altman-interview
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
-- 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 - 2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh
+- 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 - 2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t
 embedding_id: 2026-08-26-time-publishes-inside-openai-s-reboot
 event_name: ''
@@ -39,5 +39,5 @@ TIME published a long-form feature built on extensive interviews with OpenAI lea
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-26-time-publishes-inside-openai-s-reboot-a-sam-altman-interview]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh]] · [[2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t]]
+**Related:** [[2026-08-26-time-publishes-inside-openai-s-reboot-a-sam-altman-interview]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t]]
 <!-- graph:end -->

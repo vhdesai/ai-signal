@@ -5,7 +5,7 @@ date: '2026-11-17'
 source: MIT News
 url_original: https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117
 url_canonical: https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-17_060438_Inbox_Daily AI News Digest - November
   17, 2026.md
 content_hash: 90d9f0dcc2bcfa6d39ee589aed4db53c013aa21a22e570bc23079dac9a254cb1

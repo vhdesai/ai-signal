@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-targets-20gw-of
 - 2026-09-22-alibaba-unveils-zhenwu-v900-and-targets-20gw-of-data-center
-- 2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion
 - 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent
+- 2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion
 - 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl
 embedding_id: 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-20gw-capacity-target
 event_name: ''
@@ -42,5 +42,5 @@ At its Apsara Conference in Hangzhou, Alibaba introduced the Zhenwu V900, claime
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-targets-20gw-of]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-and-targets-20gw-of-data-center]] · [[2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl]]
+**Related:** [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-targets-20gw-of]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-and-targets-20gw-of-data-center]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent]] · [[2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl]]
 <!-- graph:end -->

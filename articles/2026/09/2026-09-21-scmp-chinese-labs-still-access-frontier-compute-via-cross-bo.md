@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-offshore-as-u
 - 2026-11-02-nvidia-tells-some-cloud-customers-to-cut-their-exposure-to-c
-- 2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole
+- 2026-11-13-forensic-analysis-of-model-weights-suggests-deepseek-v4-and
 embedding_id: 2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo
 event_name: ''
 ---
@@ -36,5 +36,5 @@ SCMP details the operating mechanism Chinese frontier labs have used for years t
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-offshore-as-u]] · [[2026-11-02-nvidia-tells-some-cloud-customers-to-cut-their-exposure-to-c]] · [[2026-11-11-commerce-moves-to-close-china-s-remote-chip-access-loophole]]
+**Related:** [[2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-offshore-as-u]] · [[2026-11-02-nvidia-tells-some-cloud-customers-to-cut-their-exposure-to-c]] · [[2026-11-13-forensic-analysis-of-model-weights-suggests-deepseek-v4-and]]
 <!-- graph:end -->

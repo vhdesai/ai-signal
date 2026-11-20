@@ -22,7 +22,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-06-openai-says-it-has-reached-its-automated-research-intern-mil
-related_article_ids: []
+related_article_ids:
+- 2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh
+- 2026-09-06-openai-says-it-has-hit-its-automated-research-intern-goal-3
+- 2026-09-27-openai-says-80-90-percent-of-its-research-already-targets-gp
+- 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 embedding_id: 2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at
 event_name: ''
 ---
@@ -37,4 +41,5 @@ OpenAI published internal measurements claiming it met the target Sam Altman set
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-09-06-openai-says-it-has-reached-its-automated-research-intern-mil]]
+**Related:** [[2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh]] · [[2026-09-06-openai-says-it-has-hit-its-automated-research-intern-goal-3]] · [[2026-09-27-openai-says-80-90-percent-of-its-research-already-targets-gp]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
 <!-- graph:end -->
