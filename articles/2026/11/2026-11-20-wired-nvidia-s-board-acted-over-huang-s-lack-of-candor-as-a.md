@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-shares-surge-about-30
 - 2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports
 - 2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o
+- 2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-after-washington-signs
 - 2026-11-23-november-23-2026-cnbc
-- 2026-11-18-november-17-2026-business-insider
-- 2026-11-09-trump-says-fbi-is-looking-into-huang-matter-as-nvidia-shares
 embedding_id: 2026-11-20-wired-nvidia-s-board-acted-over-huang-s-lack-of-candor-as-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Sources told Wired the board's main concern was Jensen Huang's "lack of candor,"
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]] · [[2026-11-23-november-23-2026-cnbc]] · [[2026-11-18-november-17-2026-business-insider]] · [[2026-11-09-trump-says-fbi-is-looking-into-huang-matter-as-nvidia-shares]]
+**Related:** [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-shares-surge-about-30]] · [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]] · [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-after-washington-signs]] · [[2026-11-23-november-23-2026-cnbc]]
 <!-- graph:end -->

@@ -24,8 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-18-november-17-2026-business-insider
 - 2026-11-23-november-23-2026-cnbc
+- 2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-after-washington-signs
+- 2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-and-the-stock-jumps-ab
 - 2026-11-17-november-16-2026-the-information
-- 2026-11-21-calls-for-jensen-huang-s-return-grow-including-from-trump-as
 embedding_id: 2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Hours after Jensen Huang said he would be "honored" to return as CEO, board chai
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-18-november-17-2026-business-insider]] · [[2026-11-23-november-23-2026-cnbc]] · [[2026-11-17-november-16-2026-the-information]] · [[2026-11-21-calls-for-jensen-huang-s-return-grow-including-from-trump-as]]
+**Related:** [[2026-11-18-november-17-2026-business-insider]] · [[2026-11-23-november-23-2026-cnbc]] · [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-after-washington-signs]] · [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-and-the-stock-jumps-ab]] · [[2026-11-17-november-16-2026-the-information]]
 <!-- graph:end -->

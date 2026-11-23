@@ -21,8 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-22-nvidia-releases-alpamayo-2-edge-a-2b-reasoning-driving-model
+- 2026-11-22-nvidia-releases-alpamayo-2-edge-an-open-2b-reasoning-model-f
 - 2026-08-04-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
-- 2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
 embedding_id: 2026-11-10-nvidia-targets-onboard-compute-constraints-with-alpamayo-2-e
 event_name: ''
 ---
@@ -36,5 +37,5 @@ NVIDIA introduced Alpamayo 2 Edge to fit reasoning-based autonomous-driving mode
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-04-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso]] · [[2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso]]
+**Related:** [[2026-11-22-nvidia-releases-alpamayo-2-edge-a-2b-reasoning-driving-model]] · [[2026-11-22-nvidia-releases-alpamayo-2-edge-an-open-2b-reasoning-model-f]] · [[2026-08-04-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso]]
 <!-- graph:end -->

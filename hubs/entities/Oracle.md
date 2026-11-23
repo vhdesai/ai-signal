@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 367
+member_count: 368
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 367 connected article(s).
+> Auto-generated entity hub. 368 connected article(s).
 
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
 - `2026-11-21` [[2026-11-21-november-20-2026-oracle|[November 20, 2026] · [Oracle]]]
 - `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]

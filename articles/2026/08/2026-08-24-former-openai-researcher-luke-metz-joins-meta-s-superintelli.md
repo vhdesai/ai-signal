@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-24-meta-hires-openai-veteran-luke-metz
 - 2026-08-24-luke-metz-leaves-openai-for-meta-superintelligence-labs
-- 2026-06-17-noam-shazeer-transformer-co-inventor-and-gemini-co-lead-leav
+- 2026-11-22-openai-s-chief-scientist-proposes-perplexity-based-limits-on
 embedding_id: 2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Luke Metz, previously a researcher at OpenAI, has joined Meta's Superintelligenc
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-24-meta-hires-openai-veteran-luke-metz]] · [[2026-08-24-luke-metz-leaves-openai-for-meta-superintelligence-labs]] · [[2026-06-17-noam-shazeer-transformer-co-inventor-and-gemini-co-lead-leav]]
+**Related:** [[2026-08-24-meta-hires-openai-veteran-luke-metz]] · [[2026-08-24-luke-metz-leaves-openai-for-meta-superintelligence-labs]] · [[2026-11-22-openai-s-chief-scientist-proposes-perplexity-based-limits-on]]
 <!-- graph:end -->

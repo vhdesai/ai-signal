@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 617
+member_count: 618
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 617 connected article(s).
+> Auto-generated entity hub. 618 connected article(s).
 
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
 - `2026-11-20` [[2026-11-20-november-19-2026-global-times|[November 19, 2026] · [Global Times]]]
 - `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]

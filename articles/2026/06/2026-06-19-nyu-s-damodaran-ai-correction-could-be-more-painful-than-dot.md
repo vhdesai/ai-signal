@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th
 - 2026-06-20-nyu-finance-professor-aswath-damodaran-known-as-the-dean-of
+- 2026-11-23-stocks-rebound-but-ai-s-financing-math-looks-shakier-anthrop
 - 2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety
 - 2026-08-28-lambda-1b-debt-global-ai-debt-crosses-400b-continued
-- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 embedding_id: 2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th]] · [[2026-06-20-nyu-finance-professor-aswath-damodaran-known-as-the-dean-of]] · [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety]] · [[2026-08-28-lambda-1b-debt-global-ai-debt-crosses-400b-continued]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]]
+**Related:** [[2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th]] · [[2026-06-20-nyu-finance-professor-aswath-damodaran-known-as-the-dean-of]] · [[2026-11-23-stocks-rebound-but-ai-s-financing-math-looks-shakier-anthrop]] · [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety]] · [[2026-08-28-lambda-1b-debt-global-ai-debt-crosses-400b-continued]]
 <!-- graph:end -->

@@ -31,8 +31,8 @@ related_article_ids:
 - 2026-11-14-november-15-2026-cnbc
 - 2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee
 - 2026-11-17-november-17-2026-nvidia-newsroom
+- 2026-11-23-huang-s-return-doesn-t-close-nvidia-s-export-control-exposur
 - 2026-11-09-november-9-2026-dealbook
-- 2026-11-08-november-9-2026-wall-street-journal-wsj-politics
 embedding_id: 2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Singapore-based Megaspeed told CNBC that Alice Huang left the company effective 
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Apple]] · [[Databricks]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-11-14-november-15-2026-cnbc]] · [[2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee]] · [[2026-11-17-november-17-2026-nvidia-newsroom]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]]
+**Related:** [[2026-11-14-november-15-2026-cnbc]] · [[2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee]] · [[2026-11-17-november-17-2026-nvidia-newsroom]] · [[2026-11-23-huang-s-return-doesn-t-close-nvidia-s-export-control-exposur]] · [[2026-11-09-november-9-2026-dealbook]]
 <!-- graph:end -->

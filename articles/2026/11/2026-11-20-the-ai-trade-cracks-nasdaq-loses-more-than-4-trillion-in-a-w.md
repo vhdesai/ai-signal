@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-11-20-the-ai-trade-cracks-nasdaq-sheds-4-trillion-in-a-week-as-ant
 - 2026-11-21-november-20-2026-cnbc
 - 2026-11-20-anthropic-falls-8-5-on-its-first-full-trading-day-as-tech-st
-- 2026-11-20-anthropic-s-post-ipo-decline-tests-investor-appetite-for-ai
+- 2026-11-23-wall-street-splits-over-how-to-finance-ai-s-buildout-as-anth
 embedding_id: 2026-11-20-the-ai-trade-cracks-nasdaq-loses-more-than-4-trillion-in-a-w
 event_name: ''
 ---
@@ -44,5 +44,5 @@ The Nasdaq Composite fell 5.3% on Friday to cap its worst week in more than a ye
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-20-the-ai-trade-cracks-nasdaq-sheds-4-trillion-in-a-week-as-ant]] · [[2026-11-21-november-20-2026-cnbc]] · [[2026-11-20-anthropic-falls-8-5-on-its-first-full-trading-day-as-tech-st]] · [[2026-11-20-anthropic-s-post-ipo-decline-tests-investor-appetite-for-ai]]
+**Related:** [[2026-11-20-the-ai-trade-cracks-nasdaq-sheds-4-trillion-in-a-week-as-ant]] · [[2026-11-21-november-20-2026-cnbc]] · [[2026-11-20-anthropic-falls-8-5-on-its-first-full-trading-day-as-tech-st]] · [[2026-11-23-wall-street-splits-over-how-to-finance-ai-s-buildout-as-anth]]
 <!-- graph:end -->

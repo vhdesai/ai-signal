@@ -1,15 +1,16 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2485
+member_count: 2486
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2485 connected article(s).
+> Auto-generated topic hub. 2486 connected article(s).
 
 - `2026-11-22` [[2026-11-22-november-23-2026-calcalist|[November 23, 2026] · [Calcalist]]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-on-cbs-s-face-the-nation-microsoft-president-brad-smith-said|On CBS's Face the Nation, Microsoft President Brad Smith said AI has made flaws far easier to find, setting off a global race to patch before attackers can exploit them — often with less time to test fixes, especially on older systems. "We have to be prepared, frankly, for the coming months," he said, while stressing that Microsoft's recent outage was not AI-related or a cyberattack. He urged better update testing, replacement of aging infrastructure and closer government–industry threat sharing.]]
 - `2026-11-21` [[2026-11-21-november-21-2026-financial-times|[November 21, 2026] · [Financial Times]]]
 - `2026-11-21` [[2026-11-21-november-20-2026-oracle|[November 20, 2026] · [Oracle]]]
 - `2026-11-21` [[2026-11-21-messaging-based-ai-assistants-broaden-personal-channel-data|Messaging-based AI assistants broaden personal-channel data access]]

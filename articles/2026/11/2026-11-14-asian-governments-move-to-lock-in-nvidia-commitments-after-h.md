@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-11-15-south-korea-s-science-ministry-said-nvidia-reaffirmed-its-pl
 - 2026-11-14-asian-governments-emphasize-continuity-in-nvidia-infrastruct
 - 2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee
-- 2026-11-02-nvidia-tells-some-cloud-customers-to-cut-their-exposure-to-c
+- 2026-11-23-us-probe-into-megaspeed-and-alice-huang-remains-open-despite
 embedding_id: 2026-11-14-asian-governments-move-to-lock-in-nvidia-commitments-after-h
 event_name: ''
 ---
@@ -38,5 +38,5 @@ South Korea's Science Ministry said Nvidia reaffirmed its plan to supply 260,000
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-11-15-south-korea-s-science-ministry-said-nvidia-reaffirmed-its-pl]] · [[2026-11-14-asian-governments-emphasize-continuity-in-nvidia-infrastruct]] · [[2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee]] · [[2026-11-02-nvidia-tells-some-cloud-customers-to-cut-their-exposure-to-c]]
+**Related:** [[2026-11-15-south-korea-s-science-ministry-said-nvidia-reaffirmed-its-pl]] · [[2026-11-14-asian-governments-emphasize-continuity-in-nvidia-infrastruct]] · [[2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee]] · [[2026-11-23-us-probe-into-megaspeed-and-alice-huang-remains-open-despite]]
 <!-- graph:end -->

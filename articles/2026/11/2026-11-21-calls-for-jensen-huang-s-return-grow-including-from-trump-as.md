@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-11-21-november-22-2026-business-insider
 - 2026-11-17-november-16-2026-the-information
 - 2026-11-18-november-17-2026-business-insider
+- 2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-and-the-stock-jumps-ab
 - 2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o
-- 2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke
 embedding_id: 2026-11-21-calls-for-jensen-huang-s-return-grow-including-from-trump-as
 event_name: ''
 ---
@@ -41,5 +41,5 @@ President Trump said Friday that Nvidia should give Jensen Huang his job back ("
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-21-november-22-2026-business-insider]] · [[2026-11-17-november-16-2026-the-information]] · [[2026-11-18-november-17-2026-business-insider]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]] · [[2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke]]
+**Related:** [[2026-11-21-november-22-2026-business-insider]] · [[2026-11-17-november-16-2026-the-information]] · [[2026-11-18-november-17-2026-business-insider]] · [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-and-the-stock-jumps-ab]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]]
 <!-- graph:end -->

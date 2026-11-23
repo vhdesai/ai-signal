@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep
+- 2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des
 - 2026-06-29-drawing-an-analogy-to-the-early-internet-this-paper-proposes
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
@@ -36,5 +37,5 @@ MIT researchers introduced Glia — an AI system modeled on the brain's glial ce
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep]] · [[2026-06-29-drawing-an-analogy-to-the-early-internet-this-paper-proposes]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep]] · [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des]] · [[2026-06-29-drawing-an-analogy-to-the-early-internet-this-paper-proposes]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

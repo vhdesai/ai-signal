@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 508
+member_count: 509
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 508 connected article(s).
+> Auto-generated entity hub. 509 connected article(s).
 
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
 - `2026-11-21` [[2026-11-21-signal-expands-screenshot-blocking-to-limit-exposure-to-plat|Signal expands screenshot blocking to limit exposure to platform AI agents]]
 - `2026-11-20` [[2026-11-20-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]

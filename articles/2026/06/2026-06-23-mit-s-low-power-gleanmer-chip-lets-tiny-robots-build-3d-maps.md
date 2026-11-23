@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world
 - 2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m
+- 2026-11-23-mit-trains-a-small-model-for-locally-deployable-analog-chip
 - 2026-04-02-research-breakthroughs
-- 2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard
-- 2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles
+- 2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des
 embedding_id: 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT researchers unveiled a system-on-chip that generates real-time 3D navigation
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]] · [[2026-04-02-research-breakthroughs]] · [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard]] · [[2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles]]
+**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]] · [[2026-11-23-mit-trains-a-small-model-for-locally-deployable-analog-chip]] · [[2026-04-02-research-breakthroughs]] · [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des]]
 <!-- graph:end -->

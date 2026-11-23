@@ -1,15 +1,20 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 2056
+member_count: 2061
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 2056 connected article(s).
+> Auto-generated topic hub. 2061 connected article(s).
 
+- `2026-11-23` [[2026-11-23-wall-street-splits-over-how-to-finance-ai-s-buildout-as-anth|Wall Street splits over how to finance AI's buildout as Anthropic's debt is expected to be rated junk]]
+- `2026-11-23` [[2026-11-23-mit-trains-a-small-model-for-locally-deployable-analog-chip|MIT trains a small model for locally deployable analog-chip design assistance]]
+- `2026-11-23` [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-optimization-st|Amazon signs a $7.5 billion deal for Decart's optimization stack as startups bet on compute 'beyond Nvidia']]
 - `2026-11-22` [[2026-11-22-november-23-2026-the-wall-street-journal|[November 23, 2026] · [The Wall Street Journal]]]
 - `2026-11-22` [[2026-11-22-november-23-2026-calcalist|[November 23, 2026] · [Calcalist]]]
+- `2026-11-22` [[2026-11-22-data-center-opposition-highlights-local-execution-risk-for-a|Data-center opposition highlights local execution risk for AI infrastructure]]
+- `2026-11-22` [[2026-11-22-amazon-signs-7-5-billion-deal-for-decart-s-chip-optimization|Amazon signs $7.5 billion deal for Decart's chip-optimization technology and team]]
 - `2026-11-21` [[2026-11-21-november-21-2026-financial-times|[November 21, 2026] · [Financial Times]]]
 - `2026-11-21` [[2026-11-21-november-20-2026-oracle|[November 20, 2026] · [Oracle]]]
 - `2026-11-21` [[2026-11-21-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 294
+member_count: 295
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 294 connected article(s).
+> Auto-generated entity hub. 295 connected article(s).
 
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
 - `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
 - `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]

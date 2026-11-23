@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
 - 2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op
 - 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
+- 2026-11-22-data-center-opposition-highlights-local-execution-risk-for-a
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-- 2026-09-07-tech-giants-say-ai-data-centers-are-getting-less-thirsty-as
 embedding_id: 2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Environmental activist Erin Brockovich has launched a campaign targeting the lac
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op]] · [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-09-07-tech-giants-say-ai-data-centers-are-getting-less-thirsty-as]]
+**Related:** [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op]] · [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur]] · [[2026-11-22-data-center-opposition-highlights-local-execution-risk-for-a]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
 <!-- graph:end -->

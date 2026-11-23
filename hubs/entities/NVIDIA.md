@@ -1,20 +1,35 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 2017
+member_count: 2032
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 2017 connected article(s).
+> Auto-generated entity hub. 2032 connected article(s).
 
 - `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-23` [[2026-11-23-november-23-2026-cnbc|[November 23, 2026] · [CNBC]]]
+- `2026-11-23` [[2026-11-23-us-probe-into-megaspeed-and-alice-huang-remains-open-despite|US probe into Megaspeed and Alice Huang remains open despite Huang's return]]
+- `2026-11-23` [[2026-11-23-stocks-rebound-but-ai-s-financing-math-looks-shakier-anthrop|Stocks rebound, but AI's financing math looks shakier: Anthropic's debt is expected to be rated junk and AMD's valuation runs ahead]]
+- `2026-11-23` [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-shares-surge-about-30|Nvidia reinstates Jensen Huang as CEO; shares surge about 30%]]
+- `2026-11-23` [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-and-the-stock-jumps-ab|Nvidia reinstates Jensen Huang as CEO, and the stock jumps about 29%]]
+- `2026-11-23` [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-after-washington-signs|Nvidia reinstates Jensen Huang as CEO after Washington signs off, and the stock jumps about 29%]]
+- `2026-11-23` [[2026-11-23-meta-s-tlx-gives-triton-kernels-cuda-level-control-on-nvidia|Meta's TLX gives Triton kernels CUDA-level control on Nvidia and AMD GPUs]]
+- `2026-11-23` [[2026-11-23-meta-s-tlx-gives-triton-cuda-level-control-on-nvidia-and-amd|Meta's TLX gives Triton CUDA-level control on Nvidia and AMD GPUs]]
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
+- `2026-11-23` [[2026-11-23-huang-s-return-doesn-t-close-nvidia-s-export-control-exposur|Huang's return doesn't close Nvidia's export-control exposure as the Megaspeed probe stays open]]
+- `2026-11-23` [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-optimization-st|Amazon signs a $7.5 billion deal for Decart's optimization stack as startups bet on compute 'beyond Nvidia']]
+- `2026-11-23` [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-ai-optimization|Amazon signs a $7.5 billion deal for Decart's AI-optimization technology and team]]
 - `2026-11-22` [[2026-11-22-november-23-2026-calcalist|[November 23, 2026] · [Calcalist]]]
 - `2026-11-22` [[2026-11-22-november-22-2026-afp|[November 22, 2026] · [AFP]]]
 - `2026-11-22` [[2026-11-22-november-21-2026-investing-com|[November 21, 2026] · [Investing.com]]]
 - `2026-11-22` [[2026-11-22-the-ai-selloff-goes-global-taiwan-bans-short-sales-after-the|The AI selloff goes global: Taiwan bans short sales after the Taiex's worst week since 1991 as Chinese AI stocks shed $1.7 trillion]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-nvidia-releases-alpamayo-2-edge-an-open-2b-reasoning-model-f|Nvidia releases Alpamayo 2 Edge, an open 2B reasoning model for in-car autonomous driving]]
+- `2026-11-22` [[2026-11-22-nvidia-releases-alpamayo-2-edge-a-2b-reasoning-driving-model|Nvidia releases Alpamayo 2 Edge, a 2B reasoning driving model for in-car hardware]]
+- `2026-11-22` [[2026-11-22-microsoft-s-brad-smith-warns-of-months-of-outage-risk-as-ai|Microsoft's Brad Smith warns of months of outage risk as AI speeds up the race to patch security flaws]]
+- `2026-11-22` [[2026-11-22-amazon-signs-7-5-billion-deal-for-decart-s-chip-optimization|Amazon signs $7.5 billion deal for Decart's chip-optimization technology and team]]
 - `2026-11-22` [[2026-11-22-ai-cheating-upends-education-south-korea-s-education-ministe|AI cheating upends education: South Korea's education minister resigns as Caltech stops grading homework for accuracy]]
 - `2026-11-21` [[2026-11-21-november-22-2026-business-insider|[November 22, 2026] · [Business Insider]]]
 - `2026-11-21` [[2026-11-21-november-21-2026-the-wall-street-journal|[November 21, 2026] · [The Wall Street Journal]]]

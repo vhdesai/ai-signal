@@ -1,18 +1,26 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1489
+member_count: 1497
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1489 connected article(s).
+> Auto-generated topic hub. 1497 connected article(s).
 
 - `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-23` [[2026-11-23-november-23-2026-cnbc-2|[November 23, 2026] · [CNBC]]]
+- `2026-11-23` [[2026-11-23-wsj-wall-street-expects-anthropic-s-debt-to-be-rated-junk|WSJ: Wall Street expects Anthropic's debt to be rated junk]]
 - `2026-11-23` [[2026-11-23-sierra-raises-1-75-billion-at-a-30-billion-valuation-as-ai-c|Sierra raises $1.75 billion at a $30 billion valuation as AI customer-service demand takes off]]
+- `2026-11-23` [[2026-11-23-sierra-doubles-valuation-to-30-billion-in-six-months|Sierra doubles valuation to $30 billion in six months]]
+- `2026-11-23` [[2026-11-23-sierra-doubles-its-valuation-to-30-billion-in-six-months-as|Sierra doubles its valuation to $30 billion in six months as AI customer-service revenue takes off]]
+- `2026-11-23` [[2026-11-23-crowdstrike-agrees-to-buy-zscaler-for-43-9-billion-in-stock|CrowdStrike agrees to buy Zscaler for $43.9 billion in stock to build an AI-era security platform]]
+- `2026-11-23` [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-optimization-st|Amazon signs a $7.5 billion deal for Decart's optimization stack as startups bet on compute 'beyond Nvidia']]
 - `2026-11-22` [[2026-11-22-november-22-2026-business-insider|[November 22, 2026] · [Business Insider]]]
 - `2026-11-22` [[2026-11-22-november-22-2026-afp|[November 22, 2026] · [AFP]]]
+- `2026-11-22` [[2026-11-22-microsoft-s-brad-smith-warns-of-months-of-outage-risk-as-ai|Microsoft's Brad Smith warns of months of outage risk as AI speeds up the race to patch security flaws]]
+- `2026-11-22` [[2026-11-22-anthropic-investors-explain-the-enterprise-thesis-behind-the|Anthropic investors explain the enterprise thesis behind their pre-IPO bets]]
+- `2026-11-22` [[2026-11-22-anthropic-investors-explain-the-adoption-signals-behind-thei|Anthropic investors explain the adoption signals behind their investments]]
 - `2026-11-22` [[2026-11-22-anthropic-ipo-post-mortems-an-unusual-bank-process-a-blame-g|Anthropic IPO post-mortems: an unusual bank process, a blame game over the slide and the hunt for its next hit]]
 - `2026-11-22` [[2026-11-22-ai-cheating-upends-education-south-korea-s-education-ministe|AI cheating upends education: South Korea's education minister resigns as Caltech stops grading homework for accuracy]]
 - `2026-11-21` [[2026-11-21-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]

@@ -1,16 +1,18 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3940
+member_count: 3942
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3940 connected article(s).
+> Auto-generated topic hub. 3942 connected article(s).
 
-- `2026-11-23` [[2026-11-23-mit-s-slic-uses-a-small-language-model-to-speed-up-analog-ch|MIT's SLIC uses a small language model to speed up analog chip design]]
-- `2026-11-23` [[2026-11-23-architect-labs-frostbite-is-a-cpu-for-interaction-nets-desig|Architect Labs' Frostbite is a CPU for interaction nets designed end to end by AI agents]]
+- `2026-11-23` [[2026-11-23-mit-s-slic-trains-small-locally-run-models-to-design-analog|MIT's SLIC trains small, locally run models to design analog chips nearly as well as frontier LLMs]]
+- `2026-11-23` [[2026-11-23-mit-trains-a-small-model-for-locally-deployable-analog-chip|MIT trains a small model for locally deployable analog-chip design assistance]]
+- `2026-11-23` [[2026-11-23-architect-labs-says-ai-agents-designed-its-frostbite-cpu-fro|Architect Labs says AI agents designed its Frostbite CPU from theory to final chip layout]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-nvidia-releases-alpamayo-2-edge-an-open-2b-reasoning-model-f|Nvidia releases Alpamayo 2 Edge, an open 2B reasoning model for in-car autonomous driving]]
 - `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]
 - `2026-11-21` [[2026-11-21-thinking-machines-releases-inkling-2-mini-a-26b-looped-moe-t|Thinking Machines releases Inkling 2 Mini, a 26B looped MoE that runs on a 32GB Mac]]
 - `2026-11-21` [[2026-11-21-openai-ships-gpt-live-1-1-in-the-api-with-a-cheaper-standby|OpenAI ships GPT-Live-1.1 in the API with a cheaper standby mode for idle calls]]

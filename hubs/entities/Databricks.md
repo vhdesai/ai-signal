@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 213
+member_count: 215
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 213 connected article(s).
+> Auto-generated entity hub. 215 connected article(s).
 
+- `2026-11-23` [[2026-11-23-us-probe-into-megaspeed-and-alice-huang-remains-open-despite|US probe into Megaspeed and Alice Huang remains open despite Huang's return]]
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
 - `2026-11-21` [[2026-11-21-november-20-2026-the-wall-street-journal|[November 20, 2026] · [The Wall Street Journal]]]
 - `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]

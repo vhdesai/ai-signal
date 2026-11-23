@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 101
+member_count: 102
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 101 connected article(s).
+> Auto-generated entity hub. 102 connected article(s).
 
+- `2026-11-22` [[2026-11-22-openai-s-chief-scientist-proposes-perplexity-as-the-yardstic|OpenAI's chief scientist proposes perplexity as the yardstick for industry AI limits]]
 - `2026-11-14` [[2026-11-14-november-13-2026-wsj-pro-cybersecurity|[November 13, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-14` [[2026-11-14-perplexity-shipped-pplx-decider-v1-3-27b-on-qwen3-8-27b-and|Perplexity shipped pplx-decider-v1.3 (27B, on Qwen3.8-27B) and a distilled 4B Flash variant under Apache 2.0]]
 - `2026-11-14` [[2026-11-14-google-deepmind-s-weathernext-team-released-historical-archi|Google DeepMind’s WeatherNext team released historical archives and live feeds of SatWeave, an hourly 17-channel global satellite mosaic, and PARDIG precipitation estimates at 15-minute intervals and approximately 10-kilometer resolution. This is an observational dataset release, not a new model-capability breakthrough; the sampling interval should not be read as delivery latency. The datasets expand inputs for weather, flood, drought and climate modeling, including in regions with limited radar coverage.]]

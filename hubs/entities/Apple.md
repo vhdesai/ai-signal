@@ -1,15 +1,19 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 583
+member_count: 587
 ---
 
 # Apple
 
-> Auto-generated entity hub. 583 connected article(s).
+> Auto-generated entity hub. 587 connected article(s).
 
 - `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-23` [[2026-11-23-us-probe-into-megaspeed-and-alice-huang-remains-open-despite|US probe into Megaspeed and Alice Huang remains open despite Huang's return]]
+- `2026-11-23` [[2026-11-23-stocks-rebound-but-ai-s-financing-math-looks-shakier-anthrop|Stocks rebound, but AI's financing math looks shakier: Anthropic's debt is expected to be rated junk and AMD's valuation runs ahead]]
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-microsoft-s-brad-smith-warns-of-months-of-outage-risk-as-ai|Microsoft's Brad Smith warns of months of outage risk as AI speeds up the race to patch security flaws]]
 - `2026-11-22` [[2026-11-22-google-s-ai-search-features-slow-its-ad-growth-and-the-pain|Google's AI search features slow its ad growth, and the pain spreads to Apple and Reddit]]
 - `2026-11-21` [[2026-11-21-signal-expands-screenshot-blocking-to-limit-exposure-to-plat|Signal expands screenshot blocking to limit exposure to platform AI agents]]
 - `2026-11-21` [[2026-11-21-nvidia-strong-business-results-meet-leadership-and-china-unc|Nvidia: strong business results meet leadership and China uncertainty]]

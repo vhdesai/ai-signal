@@ -1,18 +1,29 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 579
+member_count: 590
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 579 connected article(s).
+> Auto-generated topic hub. 590 connected article(s).
 
 - `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-23` [[2026-11-23-november-23-2026-cnbc-2|[November 23, 2026] · [CNBC]]]
 - `2026-11-23` [[2026-11-23-november-22-2026-wired|[November 22, 2026] · [WIRED]]]
+- `2026-11-23` [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-shares-surge-about-30|Nvidia reinstates Jensen Huang as CEO; shares surge about 30%]]
+- `2026-11-23` [[2026-11-23-meta-s-tlx-gives-triton-cuda-level-control-on-nvidia-and-amd|Meta's TLX gives Triton CUDA-level control on Nvidia and AMD GPUs]]
+- `2026-11-23` [[2026-11-23-crowdstrike-to-buy-zscaler-for-43-9-billion-in-all-stock-dea|CrowdStrike to buy Zscaler for $43.9 billion in all-stock deal]]
+- `2026-11-23` [[2026-11-23-crowdstrike-agrees-to-buy-zscaler-for-43-9-billion-in-stock|CrowdStrike agrees to buy Zscaler for $43.9 billion in stock to build an AI-era security platform]]
+- `2026-11-23` [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-optimization-st|Amazon signs a $7.5 billion deal for Decart's optimization stack as startups bet on compute 'beyond Nvidia']]
+- `2026-11-23` [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-ai-optimization|Amazon signs a $7.5 billion deal for Decart's AI-optimization technology and team]]
 - `2026-11-22` [[2026-11-22-november-23-2026-calcalist|[November 23, 2026] · [Calcalist]]]
+- `2026-11-22` [[2026-11-22-oregon-and-virginia-sue-spacex-and-x-over-sexual-deepfakes-m|Oregon and Virginia sue SpaceX and X over sexual deepfakes made with Grok]]
+- `2026-11-22` [[2026-11-22-oregon-and-virginia-sue-spacex-and-x-corp-over-sexual-deepfa|Oregon and Virginia sue SpaceX and X Corp over sexual deepfakes made with Grok]]
+- `2026-11-22` [[2026-11-22-microsoft-s-brad-smith-warns-of-months-of-outage-risk-as-ai|Microsoft's Brad Smith warns of months of outage risk as AI speeds up the race to patch security flaws]]
+- `2026-11-22` [[2026-11-22-google-s-ai-search-features-slow-its-ad-growth-and-the-pain|Google's AI search features slow its ad growth, and the pain spreads to Apple and Reddit]]
 - `2026-11-22` [[2026-11-22-google-previews-tool-retrieval-in-the-gemini-api-for-agents|Google previews Tool Retrieval in the Gemini API for agents with large tool libraries]]
+- `2026-11-22` [[2026-11-22-amazon-signs-7-5-billion-deal-for-decart-s-chip-optimization|Amazon signs $7.5 billion deal for Decart's chip-optimization technology and team]]
 - `2026-11-21` [[2026-11-21-november-21-2026-financial-times|[November 21, 2026] · [Financial Times]]]
 - `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]
 - `2026-11-21` [[2026-11-21-amazon-nears-a-7-5-billion-deal-for-israeli-ai-efficiency-st|Amazon nears a $7.5 billion deal for Israeli AI-efficiency startup Decart]]

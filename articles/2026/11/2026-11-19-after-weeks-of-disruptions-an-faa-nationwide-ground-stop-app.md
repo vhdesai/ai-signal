@@ -26,9 +26,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-19-november-19-2026-wsj-pro-cybersecurity
+- 2026-11-22-on-cbs-s-face-the-nation-microsoft-president-brad-smith-said
 - 2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and
 - 2026-10-21-october-22-2026-wsj-pro-cybersecurity
-- 2026-10-23-security-leaders-warn-of-faster-flaw-discovery
 embedding_id: 2026-11-19-after-weeks-of-disruptions-an-faa-nationwide-ground-stop-app
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Compiled by ClawPilot from public sources published in the 24 hours ending 6:45 
 
 **Entities:** [[Apple]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-11-19-november-19-2026-wsj-pro-cybersecurity]] · [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and]] · [[2026-10-21-october-22-2026-wsj-pro-cybersecurity]] · [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]]
+**Related:** [[2026-11-19-november-19-2026-wsj-pro-cybersecurity]] · [[2026-11-22-on-cbs-s-face-the-nation-microsoft-president-brad-smith-said]] · [[2026-11-13-an-18-hour-microsoft-365-outage-takes-down-outlook-teams-and]] · [[2026-10-21-october-22-2026-wsj-pro-cybersecurity]]
 <!-- graph:end -->

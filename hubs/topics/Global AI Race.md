@@ -1,14 +1,20 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1872
+member_count: 1878
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1872 connected article(s).
+> Auto-generated topic hub. 1878 connected article(s).
 
 - `2026-11-23` [[2026-11-23-november-23-2026-cnbc|[November 23, 2026] · [CNBC]]]
+- `2026-11-23` [[2026-11-23-us-probe-into-megaspeed-and-alice-huang-remains-open-despite|US probe into Megaspeed and Alice Huang remains open despite Huang's return]]
+- `2026-11-23` [[2026-11-23-oregon-and-virginia-sue-spacex-and-x-over-grok-sexual-deepfa|Oregon and Virginia sue SpaceX and X over Grok sexual deepfakes]]
+- `2026-11-23` [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-and-the-stock-jumps-ab|Nvidia reinstates Jensen Huang as CEO, and the stock jumps about 29%]]
+- `2026-11-23` [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-after-washington-signs|Nvidia reinstates Jensen Huang as CEO after Washington signs off, and the stock jumps about 29%]]
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
+- `2026-11-23` [[2026-11-23-huang-s-return-doesn-t-close-nvidia-s-export-control-exposur|Huang's return doesn't close Nvidia's export-control exposure as the Megaspeed probe stays open]]
 - `2026-11-22` [[2026-11-22-november-22-2026-afp|[November 22, 2026] · [AFP]]]
 - `2026-11-22` [[2026-11-22-november-21-2026-investing-com|[November 21, 2026] · [Investing.com]]]
 - `2026-11-22` [[2026-11-22-the-ai-selloff-goes-global-taiwan-bans-short-sales-after-the|The AI selloff goes global: Taiwan bans short sales after the Taiex's worst week since 1991 as Chinese AI stocks shed $1.7 trillion]]

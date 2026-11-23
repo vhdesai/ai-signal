@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin
 - 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
 - 2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai
+- 2026-11-23-mit-trains-a-small-model-for-locally-deployable-analog-chip
 - 2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d
-- 2026-08-18-mit-study-ai-generated-images-often-cannot-be-traced-to-any
 embedding_id: 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT researchers introduced an auditing method that detects whether a generative 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin]] · [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai]] · [[2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d]] · [[2026-08-18-mit-study-ai-generated-images-often-cannot-be-traced-to-any]]
+**Related:** [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin]] · [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-11-18-mit-and-cornell-test-adaptive-defenses-against-disguised-ai]] · [[2026-11-23-mit-trains-a-small-model-for-locally-deployable-analog-chip]] · [[2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d]]
 <!-- graph:end -->

@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan
 - 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
-- 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
+- 2026-11-23-meta-s-tlx-gives-triton-cuda-level-control-on-nvidia-and-amd
 embedding_id: 2026-11-21-columbia-and-certik-s-tensorlean-formally-verifies-the-gpu-k
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Researchers from Columbia University and CertiK introduced TensorLean, a Lean-ba
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan]] · [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
+**Related:** [[2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan]] · [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-11-23-meta-s-tlx-gives-triton-cuda-level-control-on-nvidia-and-amd]]
 <!-- graph:end -->

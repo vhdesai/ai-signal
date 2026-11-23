@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-11-13-november-14-2026-dealbook
 - 2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia
 - 2026-11-09-november-9-2026-dealbook
-- 2026-11-08-november-9-2026-wall-street-journal-wsj-politics
+- 2026-11-23-huang-s-return-doesn-t-close-nvidia-s-export-control-exposur
 embedding_id: 2026-11-12-democrats-open-a-second-congressional-probe-into-nvidia-s-ch
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Sen. Ron Wyden and Rep. Richard Neal wrote to Commerce Secretary Howard Lutnick,
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats]] · [[2026-11-13-november-14-2026-dealbook]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-08-november-9-2026-wall-street-journal-wsj-politics]]
+**Related:** [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats]] · [[2026-11-13-november-14-2026-dealbook]] · [[2026-11-11-the-huang-scandal-becomes-an-export-control-fight-as-nvidia]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-23-huang-s-return-doesn-t-close-nvidia-s-export-control-exposur]]
 <!-- graph:end -->

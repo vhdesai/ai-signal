@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
+- 2026-11-23-mit-trains-a-small-model-for-locally-deployable-analog-chip
 - 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 - 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
-- 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 embedding_id: 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Five $100,000 awards, selected from nearly 100 submissions, went to faculty purs
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
+**Related:** [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-11-23-mit-trains-a-small-model-for-locally-deployable-analog-chip]] · [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]]
 <!-- graph:end -->

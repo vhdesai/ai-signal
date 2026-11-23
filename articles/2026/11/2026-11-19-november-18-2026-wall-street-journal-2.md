@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-and-the-stock-jumps-ab
 - 2026-11-17-november-16-2026-the-information
 - 2026-11-18-november-18-2026-the-information
 - 2026-11-17-november-16-2026-wall-street-journal
 - 2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times
-- 2026-11-18-november-17-2026-business-insider
 embedding_id: 2026-11-19-november-18-2026-wall-street-journal-2
 event_name: ''
 ---
@@ -40,5 +40,5 @@ At Nvidia's first all-hands since Huang's exit, interim CEO Colette Kress promis
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
-**Related:** [[2026-11-17-november-16-2026-the-information]] · [[2026-11-18-november-18-2026-the-information]] · [[2026-11-17-november-16-2026-wall-street-journal]] · [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times]] · [[2026-11-18-november-17-2026-business-insider]]
+**Related:** [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-and-the-stock-jumps-ab]] · [[2026-11-17-november-16-2026-the-information]] · [[2026-11-18-november-18-2026-the-information]] · [[2026-11-17-november-16-2026-wall-street-journal]] · [[2026-11-13-november-13-2026-crypto-briefing-citing-the-financial-times]]
 <!-- graph:end -->

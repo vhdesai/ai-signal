@@ -1,16 +1,23 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 3097
+member_count: 3104
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 3097 connected article(s).
+> Auto-generated entity hub. 3104 connected article(s).
 
 - `2026-11-23` [[2026-11-23-november-22-2026-openai|[November 22, 2026] · [OpenAI]]]
+- `2026-11-23` [[2026-11-23-us-probe-into-megaspeed-and-alice-huang-remains-open-despite|US probe into Megaspeed and Alice Huang remains open despite Huang's return]]
+- `2026-11-23` [[2026-11-23-mit-trains-a-small-model-for-locally-deployable-analog-chip|MIT trains a small model for locally deployable analog-chip design assistance]]
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
 - `2026-11-22` [[2026-11-22-sam-altman-s-home-struck-by-gunfire-two-days-after-a-molotov|Sam Altman's home struck by gunfire two days after a Molotov cocktail attack]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-openai-s-chief-scientist-proposes-perplexity-based-limits-on|OpenAI's chief scientist proposes perplexity-based limits on AI development as Meta's Alexandr Wang warns superintelligence is arriving]]
+- `2026-11-22` [[2026-11-22-openai-s-chief-scientist-proposes-perplexity-as-the-yardstic|OpenAI's chief scientist proposes perplexity as the yardstick for industry AI limits]]
+- `2026-11-22` [[2026-11-22-openai-scientist-proposes-a-shared-measure-for-frontier-deve|OpenAI scientist proposes a shared measure for frontier-development limits]]
+- `2026-11-22` [[2026-11-22-openai-chief-scientist-proposes-shared-limits-on-frontier-mo|OpenAI chief scientist proposes shared limits on frontier-model development]]
 - `2026-11-21` [[2026-11-21-november-20-2026-oracle|[November 20, 2026] · [Oracle]]]
 - `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]
 - `2026-11-21` [[2026-11-21-signal-expands-screenshot-blocking-to-limit-exposure-to-plat|Signal expands screenshot blocking to limit exposure to platform AI agents]]

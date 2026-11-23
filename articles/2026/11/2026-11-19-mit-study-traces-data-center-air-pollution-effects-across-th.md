@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
 - 2026-11-12-mit-explores-more-data-efficient-training-for-ai-climate-emu
+- 2026-11-22-data-center-opposition-highlights-local-execution-risk-for-a
 - 2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b
 embedding_id: 2026-11-19-mit-study-traces-data-center-air-pollution-effects-across-th
 event_name: ''
@@ -38,5 +39,5 @@ MIT researchers modeled how data-center electricity demand changes generation ac
 
 **Entities:** [[AMD]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur]] · [[2026-11-12-mit-explores-more-data-efficient-training-for-ai-climate-emu]] · [[2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b]]
+**Related:** [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur]] · [[2026-11-12-mit-explores-more-data-efficient-training-for-ai-climate-emu]] · [[2026-11-22-data-center-opposition-highlights-local-execution-risk-for-a]] · [[2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b]]
 <!-- graph:end -->

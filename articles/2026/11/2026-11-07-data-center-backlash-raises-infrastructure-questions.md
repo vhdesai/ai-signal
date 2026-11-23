@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op
+- 2026-11-22-data-center-opposition-highlights-local-execution-risk-for-a
 - 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
-- 2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod
 embedding_id: 2026-11-07-data-center-backlash-raises-infrastructure-questions
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch’s Equity hosts discuss electoral resistance to data centers. They h
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-10-24-study-finds-strong-partisan-divergence-between-api-level-mod]]
+**Related:** [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op]] · [[2026-11-22-data-center-opposition-highlights-local-execution-risk-for-a]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]]
 <!-- graph:end -->

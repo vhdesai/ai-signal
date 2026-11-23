@@ -23,9 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-ai-optimization
+- 2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-optimization-st
 - 2026-11-21-amazon-nears-a-7-5-billion-deal-for-israeli-ai-efficiency-st
-- 2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou
-- 2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition
+- 2026-11-22-amazon-signs-7-5-billion-deal-for-decart-s-chip-optimization
 embedding_id: 2026-11-22-november-23-2026-calcalist
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Amazon signed a roughly $7.5 billion deal, paid in cash and stock over installme
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-21-amazon-nears-a-7-5-billion-deal-for-israeli-ai-efficiency-st]] · [[2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou]] · [[2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition]]
+**Related:** [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-ai-optimization]] · [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-optimization-st]] · [[2026-11-21-amazon-nears-a-7-5-billion-deal-for-israeli-ai-efficiency-st]] · [[2026-11-22-amazon-signs-7-5-billion-deal-for-decart-s-chip-optimization]]
 <!-- graph:end -->

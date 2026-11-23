@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 177
+member_count: 180
 ---
 
 # AMD
 
-> Auto-generated entity hub. 177 connected article(s).
+> Auto-generated entity hub. 180 connected article(s).
 
+- `2026-11-23` [[2026-11-23-stocks-rebound-but-ai-s-financing-math-looks-shakier-anthrop|Stocks rebound, but AI's financing math looks shakier: Anthropic's debt is expected to be rated junk and AMD's valuation runs ahead]]
+- `2026-11-23` [[2026-11-23-meta-s-tlx-gives-triton-kernels-cuda-level-control-on-nvidia|Meta's TLX gives Triton kernels CUDA-level control on Nvidia and AMD GPUs]]
+- `2026-11-23` [[2026-11-23-meta-s-tlx-gives-triton-cuda-level-control-on-nvidia-and-amd|Meta's TLX gives Triton CUDA-level control on Nvidia and AMD GPUs]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
 - `2026-11-21` [[2026-11-21-november-21-2026-dealbook|[November 21, 2026] · [DealBook]]]
 - `2026-11-20` [[2026-11-20-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]

@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
+- 2026-11-23-stocks-rebound-but-ai-s-financing-math-looks-shakier-anthrop
 - 2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are
-- 2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai
 embedding_id: 2026-06-20-nyu-finance-professor-aswath-damodaran-known-as-the-dean-of
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NYU finance professor Aswath Damodaran, known as the "Dean of Valuation," warned
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are]] · [[2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai]]
+**Related:** [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-11-23-stocks-rebound-but-ai-s-financing-math-looks-shakier-anthrop]] · [[2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are]]
 <!-- graph:end -->

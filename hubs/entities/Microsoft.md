@@ -1,16 +1,23 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1216
+member_count: 1223
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1216 connected article(s).
+> Auto-generated entity hub. 1223 connected article(s).
 
 - `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-23` [[2026-11-23-us-probe-into-megaspeed-and-alice-huang-remains-open-despite|US probe into Megaspeed and Alice Huang remains open despite Huang's return]]
+- `2026-11-23` [[2026-11-23-mit-trains-a-small-model-for-locally-deployable-analog-chip|MIT trains a small model for locally deployable analog-chip design assistance]]
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
+- `2026-11-23` [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-optimization-st|Amazon signs a $7.5 billion deal for Decart's optimization stack as startups bet on compute 'beyond Nvidia']]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-on-cbs-s-face-the-nation-microsoft-president-brad-smith-said|On CBS's Face the Nation, Microsoft President Brad Smith said AI has made flaws far easier to find, setting off a global race to patch before attackers can exploit them — often with less time to test fixes, especially on older systems. "We have to be prepared, frankly, for the coming months," he said, while stressing that Microsoft's recent outage was not AI-related or a cyberattack. He urged better update testing, replacement of aging infrastructure and closer government–industry threat sharing.]]
+- `2026-11-22` [[2026-11-22-microsoft-s-brad-smith-warns-of-months-of-outage-risk-as-ai|Microsoft's Brad Smith warns of months of outage risk as AI speeds up the race to patch security flaws]]
 - `2026-11-22` [[2026-11-22-microsoft-ai-s-suleyman-says-models-now-help-improve-their-s|Microsoft AI's Suleyman says models now help improve their successors, and he's "really, really nervous"]]
+- `2026-11-22` [[2026-11-22-ai-supply-chain-risk-widens-openrouter-drops-three-inference|AI supply-chain risk widens: OpenRouter drops three inference providers and Microsoft warns of months of patch-driven outages]]
 - `2026-11-21` [[2026-11-21-nvidia-strong-business-results-meet-leadership-and-china-unc|Nvidia: strong business results meet leadership and China uncertainty]]
 - `2026-11-21` [[2026-11-21-attackers-ai-agents-exploit-a-zero-day-in-11-minutes-as-sign|Attackers' AI agents exploit a zero-day in 11 minutes as Signal blocks screenshots to keep OS agents out]]
 - `2026-11-20` [[2026-11-20-november-20-2026-anthropic|[November 20, 2026] · [Anthropic]]]

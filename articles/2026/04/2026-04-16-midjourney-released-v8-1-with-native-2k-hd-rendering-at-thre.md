@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation
+- 2026-11-22-nvidia-releases-alpamayo-2-edge-a-2b-reasoning-driving-model
 embedding_id: 2026-04-16-midjourney-released-v8-1-with-native-2k-hd-rendering-at-thre
 event_name: ''
 ---
@@ -33,5 +34,5 @@ Midjourney released V8.1 with native 2K HD rendering at three times the speed of
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation]]
+**Related:** [[2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation]] · [[2026-11-22-nvidia-releases-alpamayo-2-edge-a-2b-reasoning-driving-model]]
 <!-- graph:end -->

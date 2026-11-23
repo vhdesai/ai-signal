@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-11-17-november-16-2026-wall-street-journal
 - 2026-11-17-nvidia-beats-and-lifts-next-year-s-growth-outlook-to-75-in-i
 - 2026-11-19-november-18-2026-wall-street-journal-2
+- 2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-and-the-stock-jumps-ab
 - 2026-11-16-november-16-2026-pitchbook
 embedding_id: 2026-11-18-november-18-2026-the-information
 event_name: ''
@@ -40,5 +41,5 @@ Nvidia reported October-quarter revenue of $115.8 billion, more than double a ye
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-18-november-18-2026-the-information-2]] · [[2026-11-17-november-16-2026-wall-street-journal]] · [[2026-11-17-nvidia-beats-and-lifts-next-year-s-growth-outlook-to-75-in-i]] · [[2026-11-19-november-18-2026-wall-street-journal-2]] · [[2026-11-16-november-16-2026-pitchbook]]
+**Related:** [[2026-11-18-november-18-2026-the-information-2]] · [[2026-11-17-november-16-2026-wall-street-journal]] · [[2026-11-17-nvidia-beats-and-lifts-next-year-s-growth-outlook-to-75-in-i]] · [[2026-11-19-november-18-2026-wall-street-journal-2]] · [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-and-the-stock-jumps-ab]] · [[2026-11-16-november-16-2026-pitchbook]]
 <!-- graph:end -->

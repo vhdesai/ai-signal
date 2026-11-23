@@ -20,8 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-23-wall-street-splits-over-how-to-finance-ai-s-buildout-as-anth
+- 2026-11-23-stocks-rebound-but-ai-s-financing-math-looks-shakier-anthrop
 - 2026-11-18-november-19-2026-pitchbook
-- 2026-11-21-november-20-2026-cnbc
 embedding_id: 2026-11-22-november-23-2026-the-wall-street-journal
 event_name: ''
 ---
@@ -35,5 +36,5 @@ DealBook reports a split among private-credit giants: Ares calls AI chips "one o
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-18-november-19-2026-pitchbook]] · [[2026-11-21-november-20-2026-cnbc]]
+**Related:** [[2026-11-23-wall-street-splits-over-how-to-finance-ai-s-buildout-as-anth]] · [[2026-11-23-stocks-rebound-but-ai-s-financing-math-looks-shakier-anthrop]] · [[2026-11-18-november-19-2026-pitchbook]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-06-an-alien-mind-openai-s-chief-scientist-calls-for-voluntary-s
+- 2026-11-22-openai-chief-scientist-proposes-shared-limits-on-frontier-mo
 embedding_id: 2026-09-06-openai-s-chief-scientist-calls-frontier-models-an-alien-mind
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Jakub Pachocki published an essay arguing that increasingly capable systems are 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-06-an-alien-mind-openai-s-chief-scientist-calls-for-voluntary-s]]
+**Related:** [[2026-09-06-an-alien-mind-openai-s-chief-scientist-calls-for-voluntary-s]] · [[2026-11-22-openai-chief-scientist-proposes-shared-limits-on-frontier-mo]]
 <!-- graph:end -->

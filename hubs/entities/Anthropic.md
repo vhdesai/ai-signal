@@ -1,20 +1,31 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2729
+member_count: 2740
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2729 connected article(s).
+> Auto-generated entity hub. 2740 connected article(s).
 
 - `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-23` [[2026-11-23-wall-street-splits-over-how-to-finance-ai-s-buildout-as-anth|Wall Street splits over how to finance AI's buildout as Anthropic's debt is expected to be rated junk]]
+- `2026-11-23` [[2026-11-23-wsj-wall-street-expects-anthropic-s-debt-to-be-rated-junk|WSJ: Wall Street expects Anthropic's debt to be rated junk]]
+- `2026-11-23` [[2026-11-23-stocks-rebound-but-ai-s-financing-math-looks-shakier-anthrop|Stocks rebound, but AI's financing math looks shakier: Anthropic's debt is expected to be rated junk and AMD's valuation runs ahead]]
+- `2026-11-23` [[2026-11-23-meta-s-tlx-gives-triton-cuda-level-control-on-nvidia-and-amd|Meta's TLX gives Triton CUDA-level control on Nvidia and AMD GPUs]]
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
+- `2026-11-23` [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-optimization-st|Amazon signs a $7.5 billion deal for Decart's optimization stack as startups bet on compute 'beyond Nvidia']]
+- `2026-11-23` [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-ai-optimization|Amazon signs a $7.5 billion deal for Decart's AI-optimization technology and team]]
 - `2026-11-22` [[2026-11-22-november-23-2026-the-wall-street-journal|[November 23, 2026] · [The Wall Street Journal]]]
 - `2026-11-22` [[2026-11-22-november-23-2026-calcalist|[November 23, 2026] · [Calcalist]]]
 - `2026-11-22` [[2026-11-22-november-22-2026-business-insider|[November 22, 2026] · [Business Insider]]]
 - `2026-11-22` [[2026-11-22-november-22-2026-afp|[November 22, 2026] · [AFP]]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-microsoft-s-brad-smith-warns-of-months-of-outage-risk-as-ai|Microsoft's Brad Smith warns of months of outage risk as AI speeds up the race to patch security flaws]]
+- `2026-11-22` [[2026-11-22-anthropic-investors-explain-the-enterprise-thesis-behind-the|Anthropic investors explain the enterprise thesis behind their pre-IPO bets]]
+- `2026-11-22` [[2026-11-22-anthropic-investors-explain-the-adoption-signals-behind-thei|Anthropic investors explain the adoption signals behind their investments]]
 - `2026-11-22` [[2026-11-22-anthropic-ipo-post-mortems-an-unusual-bank-process-a-blame-g|Anthropic IPO post-mortems: an unusual bank process, a blame game over the slide and the hunt for its next hit]]
+- `2026-11-22` [[2026-11-22-amazon-signs-7-5-billion-deal-for-decart-s-chip-optimization|Amazon signs $7.5 billion deal for Decart's chip-optimization technology and team]]
 - `2026-11-22` [[2026-11-22-ai-cheating-upends-education-south-korea-s-education-ministe|AI cheating upends education: South Korea's education minister resigns as Caltech stops grading homework for accuracy]]
 - `2026-11-21` [[2026-11-21-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]
 - `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]

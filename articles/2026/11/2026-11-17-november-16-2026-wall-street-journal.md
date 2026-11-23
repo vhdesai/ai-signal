@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-11-18-november-18-2026-the-information
 - 2026-11-16-november-16-2026-pitchbook
 - 2026-11-19-november-18-2026-wall-street-journal-2
-- 2026-11-20-nvidia-sinks-14-on-a-reported-sec-accounting-probe-as-its-go
+- 2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-and-the-stock-jumps-ab
 embedding_id: 2026-11-17-november-16-2026-wall-street-journal
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Analysts expect Nvidia to report that quarterly revenue nearly doubled to about 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-18-november-18-2026-the-information]] · [[2026-11-16-november-16-2026-pitchbook]] · [[2026-11-19-november-18-2026-wall-street-journal-2]] · [[2026-11-20-nvidia-sinks-14-on-a-reported-sec-accounting-probe-as-its-go]]
+**Related:** [[2026-11-18-november-18-2026-the-information]] · [[2026-11-16-november-16-2026-pitchbook]] · [[2026-11-19-november-18-2026-wall-street-journal-2]] · [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-and-the-stock-jumps-ab]]
 <!-- graph:end -->

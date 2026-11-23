@@ -1,25 +1,40 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2508
+member_count: 2523
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2508 connected article(s).
+> Auto-generated topic hub. 2523 connected article(s).
 
 - `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-23` [[2026-11-23-november-22-2026-wired|[November 22, 2026] · [WIRED]]]
 - `2026-11-23` [[2026-11-23-november-22-2026-openai|[November 22, 2026] · [OpenAI]]]
+- `2026-11-23` [[2026-11-23-virginia-and-oregon-announce-lawsuits-over-grok-image-genera|Virginia and Oregon announce lawsuits over Grok image-generation safeguards]]
+- `2026-11-23` [[2026-11-23-us-probe-into-megaspeed-and-alice-huang-remains-open-despite|US probe into Megaspeed and Alice Huang remains open despite Huang's return]]
+- `2026-11-23` [[2026-11-23-stanford-policy-report-emphasizes-planning-for-multiple-ai-e|Stanford policy report emphasizes planning for multiple AI economic outcomes]]
+- `2026-11-23` [[2026-11-23-oregon-and-virginia-sue-spacex-and-x-over-grok-sexual-deepfa|Oregon and Virginia sue SpaceX and X over Grok sexual deepfakes]]
+- `2026-11-23` [[2026-11-23-huang-s-return-doesn-t-close-nvidia-s-export-control-exposur|Huang's return doesn't close Nvidia's export-control exposure as the Megaspeed probe stays open]]
 - `2026-11-22` [[2026-11-22-november-22-2026-bloomberg|[November 22, 2026] · [Bloomberg]]]
 - `2026-11-22` [[2026-11-22-november-22-2026-afp|[November 22, 2026] · [AFP]]]
 - `2026-11-22` [[2026-11-22-sam-altman-s-home-struck-by-gunfire-two-days-after-a-molotov|Sam Altman's home struck by gunfire two days after a Molotov cocktail attack]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-oregon-and-virginia-sue-spacex-and-x-over-sexual-deepfakes-m|Oregon and Virginia sue SpaceX and X over sexual deepfakes made with Grok]]
+- `2026-11-22` [[2026-11-22-oregon-and-virginia-sue-spacex-and-x-corp-over-sexual-deepfa|Oregon and Virginia sue SpaceX and X Corp over sexual deepfakes made with Grok]]
+- `2026-11-22` [[2026-11-22-openrouter-removes-providers-and-revises-zero-retention-elig|OpenRouter removes providers and revises zero-retention eligibility]]
 - `2026-11-22` [[2026-11-22-openrouter-off-boards-three-inference-providers-and-pulls-12|OpenRouter off-boards three inference providers and pulls 125 endpoints from zero-data-retention eligibility]]
+- `2026-11-22` [[2026-11-22-openai-s-chief-scientist-proposes-perplexity-based-limits-on|OpenAI's chief scientist proposes perplexity-based limits on AI development as Meta's Alexandr Wang warns superintelligence is arriving]]
+- `2026-11-22` [[2026-11-22-openai-s-chief-scientist-proposes-perplexity-as-the-yardstic|OpenAI's chief scientist proposes perplexity as the yardstick for industry AI limits]]
+- `2026-11-22` [[2026-11-22-openai-scientist-proposes-a-shared-measure-for-frontier-deve|OpenAI scientist proposes a shared measure for frontier-development limits]]
+- `2026-11-22` [[2026-11-22-openai-chief-scientist-proposes-shared-limits-on-frontier-mo|OpenAI chief scientist proposes shared limits on frontier-model development]]
+- `2026-11-22` [[2026-11-22-on-cbs-s-face-the-nation-microsoft-president-brad-smith-said|On CBS's Face the Nation, Microsoft President Brad Smith said AI has made flaws far easier to find, setting off a global race to patch before attackers can exploit them — often with less time to test fixes, especially on older systems. "We have to be prepared, frankly, for the coming months," he said, while stressing that Microsoft's recent outage was not AI-related or a cyberattack. He urged better update testing, replacement of aging infrastructure and closer government–industry threat sharing.]]
+- `2026-11-22` [[2026-11-22-microsoft-s-brad-smith-warns-of-months-of-outage-risk-as-ai|Microsoft's Brad Smith warns of months of outage risk as AI speeds up the race to patch security flaws]]
 - `2026-11-22` [[2026-11-22-microsoft-ai-s-suleyman-says-models-now-help-improve-their-s|Microsoft AI's Suleyman says models now help improve their successors, and he's "really, really nervous"]]
 - `2026-11-22` [[2026-11-22-governors-push-for-federal-frontier-ai-rules-that-preserve-s|Governors push for federal frontier-AI rules that preserve state power as a UN-backed safety summit convenes]]
 - `2026-11-22` [[2026-11-22-executive-interviews-highlight-ai-era-cyber-disruption-conce|Executive interviews highlight AI-era cyber-disruption concerns]]
 - `2026-11-22` [[2026-11-22-education-minister-choi-kyo-jin-resigned-sunday-after-critic|Education Minister Choi Kyo-jin resigned Sunday after criticism of last-minute measures to stop AI-assisted cheating on the Suneung college entrance exam. The scramble began when the top scorer on a national tax-accountant exam confessed to cheating with a miniature camera and a smartphone. Officials blocked public Wi-Fi near test sites and covered clothing buttons with stickers, and identified 111 cases of device-related misconduct during the exam; President Lee Jae Myung accepted the resignation.]]
+- `2026-11-22` [[2026-11-22-ai-supply-chain-risk-widens-openrouter-drops-three-inference|AI supply-chain risk widens: OpenRouter drops three inference providers and Microsoft warns of months of patch-driven outages]]
 - `2026-11-22` [[2026-11-22-ai-cheating-upends-education-south-korea-s-education-ministe|AI cheating upends education: South Korea's education minister resigns as Caltech stops grading homework for accuracy]]
 - `2026-11-21` [[2026-11-21-november-21-2026-the-wall-street-journal|[November 21, 2026] · [The Wall Street Journal]]]
 - `2026-11-21` [[2026-11-21-wsj-traces-an-alleged-nvidia-chip-smuggling-network-to-an-as|WSJ traces an alleged Nvidia chip-smuggling network to an associate of Alice Huang]]

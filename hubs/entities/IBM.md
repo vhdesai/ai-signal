@@ -1,15 +1,19 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 242
+member_count: 246
 ---
 
 # IBM
 
-> Auto-generated entity hub. 242 connected article(s).
+> Auto-generated entity hub. 246 connected article(s).
 
 - `2026-11-23` [[2026-11-23-mit-s-slic-uses-a-small-language-model-to-speed-up-analog-ch|MIT's SLIC uses a small language model to speed up analog chip design]]
+- `2026-11-23` [[2026-11-23-mit-s-slic-trains-small-locally-run-models-to-design-analog|MIT's SLIC trains small, locally run models to design analog chips nearly as well as frontier LLMs]]
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-mit-s-slic-trains-small-laptop-scale-models-to-design-analog|MIT's SLIC trains small, laptop-scale models to design analog chips as well as frontier LLMs]]
+- `2026-11-22` [[2026-11-22-anthropic-investors-explain-the-enterprise-thesis-behind-the|Anthropic investors explain the enterprise thesis behind their pre-IPO bets]]
 - `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
 - `2026-11-18` [[2026-11-18-november-18-2026-the-information-2|[November 18, 2026] · [The Information]]]
 - `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]

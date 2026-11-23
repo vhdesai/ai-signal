@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an
 - 2026-11-13-nvidia-startup-funding-faces-uncertainty-after-huang-departu
 - 2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan
-- 2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is
+- 2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-after-washington-signs
 embedding_id: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Nvidia said Jensen Huang has resigned as president, CEO and director after repor
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-11-12-november-12-2026-dealbook]] · [[2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an]] · [[2026-11-13-nvidia-startup-funding-faces-uncertainty-after-huang-departu]] · [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan]] · [[2026-11-12-without-huang-nvidia-s-role-as-the-ai-economy-s-financier-is]]
+**Related:** [[2026-11-12-november-12-2026-dealbook]] · [[2026-11-14-a-day-after-the-board-accepted-jensen-huang-s-resignation-an]] · [[2026-11-13-nvidia-startup-funding-faces-uncertainty-after-huang-departu]] · [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan]] · [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-after-washington-signs]]
 <!-- graph:end -->

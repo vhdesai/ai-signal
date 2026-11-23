@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i
 - 2026-11-09-mit-s-flex-lets-robots-infer-the-intent-behind-spoken-instru
+- 2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des
 - 2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha
 - 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
-- 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
 embedding_id: 2026-06-27-mit-csail-researchers-introduced-masked-irl-a-method-that-he
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT CSAIL researchers introduced "Masked IRL," a method that helps robots learn 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i]] · [[2026-11-09-mit-s-flex-lets-robots-infer-the-intent-behind-spoken-instru]] · [[2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]]
+**Related:** [[2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i]] · [[2026-11-09-mit-s-flex-lets-robots-infer-the-intent-behind-spoken-instru]] · [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des]] · [[2026-11-09-corl-research-pushes-robots-past-literal-instructions-and-ha]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]]
 <!-- graph:end -->

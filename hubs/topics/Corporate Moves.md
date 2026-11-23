@@ -1,24 +1,51 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5604
+member_count: 5631
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5604 connected article(s).
+> Auto-generated topic hub. 5631 connected article(s).
 
 - `2026-11-23` [[2026-11-23-november-23-2026-cnbc-2|[November 23, 2026] · [CNBC]]]
 - `2026-11-23` [[2026-11-23-november-23-2026-cnbc|[November 23, 2026] · [CNBC]]]
+- `2026-11-23` [[2026-11-23-wall-street-splits-over-how-to-finance-ai-s-buildout-as-anth|Wall Street splits over how to finance AI's buildout as Anthropic's debt is expected to be rated junk]]
+- `2026-11-23` [[2026-11-23-wsj-wall-street-expects-anthropic-s-debt-to-be-rated-junk|WSJ: Wall Street expects Anthropic's debt to be rated junk]]
+- `2026-11-23` [[2026-11-23-stocks-rebound-but-ai-s-financing-math-looks-shakier-anthrop|Stocks rebound, but AI's financing math looks shakier: Anthropic's debt is expected to be rated junk and AMD's valuation runs ahead]]
 - `2026-11-23` [[2026-11-23-sierra-raises-1-75-billion-at-a-30-billion-valuation-as-ai-c|Sierra raises $1.75 billion at a $30 billion valuation as AI customer-service demand takes off]]
+- `2026-11-23` [[2026-11-23-sierra-doubles-valuation-to-30-billion-in-six-months|Sierra doubles valuation to $30 billion in six months]]
+- `2026-11-23` [[2026-11-23-sierra-doubles-its-valuation-to-30-billion-in-six-months-as|Sierra doubles its valuation to $30 billion in six months as AI customer-service revenue takes off]]
+- `2026-11-23` [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-shares-surge-about-30|Nvidia reinstates Jensen Huang as CEO; shares surge about 30%]]
+- `2026-11-23` [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-and-the-stock-jumps-ab|Nvidia reinstates Jensen Huang as CEO, and the stock jumps about 29%]]
+- `2026-11-23` [[2026-11-23-nvidia-reinstates-jensen-huang-as-ceo-after-washington-signs|Nvidia reinstates Jensen Huang as CEO after Washington signs off, and the stock jumps about 29%]]
+- `2026-11-23` [[2026-11-23-meta-s-tlx-gives-triton-kernels-cuda-level-control-on-nvidia|Meta's TLX gives Triton kernels CUDA-level control on Nvidia and AMD GPUs]]
+- `2026-11-23` [[2026-11-23-meta-s-tlx-gives-triton-cuda-level-control-on-nvidia-and-amd|Meta's TLX gives Triton CUDA-level control on Nvidia and AMD GPUs]]
+- `2026-11-23` [[2026-11-23-mit-s-slic-uses-a-small-language-model-to-speed-up-analog-ch|MIT's SLIC uses a small language model to speed up analog chip design]]
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
+- `2026-11-23` [[2026-11-23-crowdstrike-to-buy-zscaler-for-43-9-billion-in-all-stock-dea|CrowdStrike to buy Zscaler for $43.9 billion in all-stock deal]]
+- `2026-11-23` [[2026-11-23-crowdstrike-agrees-to-buy-zscaler-for-43-9-billion-to-build|CrowdStrike agrees to buy Zscaler for $43.9 billion to build a control plane for AI-era security]]
+- `2026-11-23` [[2026-11-23-crowdstrike-agrees-to-buy-zscaler-for-43-9-billion-in-stock|CrowdStrike agrees to buy Zscaler for $43.9 billion in stock to build an AI-era security platform]]
+- `2026-11-23` [[2026-11-23-architect-labs-frostbite-is-a-cpu-for-interaction-nets-desig|Architect Labs' Frostbite is a CPU for interaction nets designed end to end by AI agents]]
+- `2026-11-23` [[2026-11-23-architect-labs-unveils-frostbite-a-cpu-its-ai-agents-designe|Architect Labs unveils Frostbite, a CPU its AI agents designed from theory to final layout]]
+- `2026-11-23` [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-optimization-st|Amazon signs a $7.5 billion deal for Decart's optimization stack as startups bet on compute 'beyond Nvidia']]
+- `2026-11-23` [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-ai-optimization|Amazon signs a $7.5 billion deal for Decart's AI-optimization technology and team]]
 - `2026-11-22` [[2026-11-22-november-23-2026-the-wall-street-journal|[November 23, 2026] · [The Wall Street Journal]]]
 - `2026-11-22` [[2026-11-22-november-22-2026-business-insider|[November 22, 2026] · [Business Insider]]]
 - `2026-11-22` [[2026-11-22-november-21-2026-investing-com|[November 21, 2026] · [Investing.com]]]
 - `2026-11-22` [[2026-11-22-the-ai-selloff-goes-global-taiwan-bans-short-sales-after-the|The AI selloff goes global: Taiwan bans short sales after the Taiex's worst week since 1991 as Chinese AI stocks shed $1.7 trillion]]
+- `2026-11-22` [[2026-11-22-practitioner-analysis-makes-the-case-for-enforceable-model-r|Practitioner analysis makes the case for enforceable model-release gates]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-on-cbs-s-face-the-nation-microsoft-president-brad-smith-said|On CBS's Face the Nation, Microsoft President Brad Smith said AI has made flaws far easier to find, setting off a global race to patch before attackers can exploit them — often with less time to test fixes, especially on older systems. "We have to be prepared, frankly, for the coming months," he said, while stressing that Microsoft's recent outage was not AI-related or a cyberattack. He urged better update testing, replacement of aging infrastructure and closer government–industry threat sharing.]]
+- `2026-11-22` [[2026-11-22-nvidia-releases-alpamayo-2-edge-a-2b-reasoning-driving-model|Nvidia releases Alpamayo 2 Edge, a 2B reasoning driving model for in-car hardware]]
+- `2026-11-22` [[2026-11-22-mit-s-slic-trains-small-laptop-scale-models-to-design-analog|MIT's SLIC trains small, laptop-scale models to design analog chips as well as frontier LLMs]]
 - `2026-11-22` [[2026-11-22-google-s-ai-search-features-slow-its-ad-growth-and-the-pain|Google's AI search features slow its ad growth, and the pain spreads to Apple and Reddit]]
 - `2026-11-22` [[2026-11-22-google-previews-tool-retrieval-in-the-gemini-api-for-agents|Google previews Tool Retrieval in the Gemini API for agents with large tool libraries]]
+- `2026-11-22` [[2026-11-22-data-center-opposition-highlights-local-execution-risk-for-a|Data-center opposition highlights local execution risk for AI infrastructure]]
+- `2026-11-22` [[2026-11-22-anthropic-investors-explain-the-enterprise-thesis-behind-the|Anthropic investors explain the enterprise thesis behind their pre-IPO bets]]
+- `2026-11-22` [[2026-11-22-anthropic-investors-explain-the-adoption-signals-behind-thei|Anthropic investors explain the adoption signals behind their investments]]
 - `2026-11-22` [[2026-11-22-anthropic-ipo-post-mortems-an-unusual-bank-process-a-blame-g|Anthropic IPO post-mortems: an unusual bank process, a blame game over the slide and the hunt for its next hit]]
+- `2026-11-22` [[2026-11-22-amazon-signs-7-5-billion-deal-for-decart-s-chip-optimization|Amazon signs $7.5 billion deal for Decart's chip-optimization technology and team]]
 - `2026-11-21` [[2026-11-21-november-22-2026-business-insider|[November 22, 2026] · [Business Insider]]]
 - `2026-11-21` [[2026-11-21-november-21-2026-dealbook|[November 21, 2026] · [DealBook]]]
 - `2026-11-21` [[2026-11-21-november-20-2026-the-wall-street-journal|[November 20, 2026] · [The Wall Street Journal]]]

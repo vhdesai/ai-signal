@@ -19,10 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-23-mit-trains-a-small-model-for-locally-deployable-analog-chip
+- 2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des
 - 2026-10-08-3-questions-what-is-the-best-path-forward-for-ai-in-academia
 - 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 embedding_id: 2026-10-13-mit-explores-how-networks-develop-their-own-learning-machine
 event_name: ''
 ---
@@ -35,5 +36,5 @@ MIT reports networks self-organizing learning machinery under simple local rules
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-08-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-11-23-mit-trains-a-small-model-for-locally-deployable-analog-chip]] · [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des]] · [[2026-10-08-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]]
 <!-- graph:end -->

@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-11-14-pressure-shifts-to-commerce-as-bessent-says-bis-has-the-pen
 - 2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim
 - 2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo
+- 2026-11-23-us-probe-into-megaspeed-and-alice-huang-remains-open-despite
 - 2026-11-20-sen-tom-cotton-says-lutnick-repeatedly-ignored-his-warnings
 embedding_id: 2026-11-14-bessent-and-congress-focus-on-lutnick-s-handling-of-megaspee
 event_name: ''
@@ -39,5 +40,5 @@ Treasury Secretary Scott Bessent said Treasury, War, USTR and State had pushed "
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-11-14-pressure-shifts-to-commerce-as-bessent-says-bis-has-the-pen]] · [[2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim]] · [[2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo]] · [[2026-11-20-sen-tom-cotton-says-lutnick-repeatedly-ignored-his-warnings]]
+**Related:** [[2026-11-14-pressure-shifts-to-commerce-as-bessent-says-bis-has-the-pen]] · [[2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim]] · [[2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo]] · [[2026-11-23-us-probe-into-megaspeed-and-alice-huang-remains-open-despite]] · [[2026-11-20-sen-tom-cotton-says-lutnick-repeatedly-ignored-his-warnings]]
 <!-- graph:end -->

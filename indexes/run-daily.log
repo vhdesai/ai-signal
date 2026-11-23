@@ -1,97 +1,88 @@
 
 Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights:  31%|███       | 61/199 [00:00<00:00, 594.95it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1124.58it/s]
+Loading weights:  24%|██▍       | 48/199 [00:00<00:00, 460.75it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1373.59it/s]
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 {
   "command": "run-daily",
   "stages": {
     "ingest": {
-      "digests_total": 1739,
-      "digests_changed": 16,
+      "digests_total": 1746,
+      "digests_changed": 7,
       "changed": [
-        "news\\2026-11-21_000000_Publication-Sources.md",
-        "news\\2026-11-21_060252_Inbox_Daily AI News Digest - November 21, 2026.md",
-        "news\\2026-11-21_060611_Inbox_Daily AI News Digest - November 21, 2026.md",
-        "news\\2026-11-21_061211_Inbox_Daily AI News Digest - November 21, 2026.md",
-        "news\\2026-11-21_061814_Inbox_Daily AI News Digest - November 21, 2026.md",
-        "news\\2026-11-21_065220_Inbox_ClawPilot - Daily AI News Digest - November 21, 2026.md",
-        "news\\2026-11-21_065518_Inbox_Daily AI News Digest - November 21, 2026.md",
-        "news\\2026-11-21_070342_Final-Daily-AI-News-Digest.md",
-        "news\\2026-11-21_070602_Inbox_Daily AI News Digest - November 21, 2026.md",
-        "news\\2026-11-22_000000_Publication-Sources.md",
-        "news\\2026-11-22_055953_Inbox_Daily AI News Digest - November 22, 2026.md",
-        "news\\2026-11-22_061947_Inbox_Daily AI News Digest - November 22, 2026.md",
-        "news\\2026-11-22_065336_Inbox_ClawPilot - Daily AI News Digest - November 22, 2026.md",
-        "news\\2026-11-22_070351_Final-Daily-AI-News-Digest.md",
-        "news\\2026-11-22_070553_Inbox_Daily AI News Digest - November 22, 2026.md",
-        "news\\2026-11-23_070343_Final-Daily-AI-News-Digest.md"
+        "news\\2026-11-23_000000_Publication-Sources.md",
+        "news\\2026-11-23_060202_Inbox_Daily AI News Digest - November 23, 2026.md",
+        "news\\2026-11-23_062014_Inbox_Daily AI News Digest - November 23, 2026.md",
+        "news\\2026-11-23_065133_Inbox_ClawPilot - Daily AI News Digest - November 23, 2026.md",
+        "news\\2026-11-23_070535_Inbox_Daily AI News Digest - November 23, 2026.md",
+        "news\\2026-11-23_070740_Inbox_Daily AI News Digest - November 23, 2026.md",
+        "news\\2026-11-23_071225_Inbox_Daily AI News Digest - November 23, 2026.md"
       ]
     },
     "split": {
-      "digests_parsed": 1739,
-      "articles_written": 16221,
+      "digests_parsed": 1746,
+      "articles_written": 16270,
       "events_parsed": 144,
       "event_articles_written": 77,
-      "skipped_publication_sources": 81,
-      "skipped_thin_articles": 6228
+      "skipped_publication_sources": 82,
+      "skipped_thin_articles": 6242
     },
     "index": {
-      "articles_indexed": 11760,
+      "articles_indexed": 11803,
       "embeddings": {
         "enabled": true,
-        "added": 108,
-        "total": 11760,
-        "md_rewritten": 11756
+        "added": 43,
+        "total": 11803,
+        "md_rewritten": 11799
       }
     },
     "dedupe": {
-      "articles": 11760,
+      "articles": 11803,
       "exact_duplicates": 26,
-      "canonical": 8740,
-      "semantic_duplicates": 2994,
-      "related_links": 35812
+      "canonical": 8765,
+      "semantic_duplicates": 3012,
+      "related_links": 35917
     },
     "build-graph": {
       "status": "ok",
-      "articles_linked": 11760,
-      "wikilinks_emitted": 80856,
+      "articles_linked": 11803,
+      "wikilinks_emitted": 81154,
       "entity_hubs": 34,
       "topic_hubs": 8,
       "hubs_dir": "C:\\Users\\vdesai\\source\\repos\\Newsletter\\ext-host\\hubs"
     },
     "validate-urls": {
-      "checked": 5432,
-      "ok": 3498,
-      "broken": 1934,
-      "missing": 6303,
-      "skipped": 25
+      "checked": 5457,
+      "ok": 3512,
+      "broken": 1945,
+      "missing": 6322,
+      "skipped": 24
     },
     "repair-urls": {
-      "attempted": 3,
-      "repaired": 2,
-      "unresolved": 1,
+      "attempted": 21,
+      "repaired": 11,
+      "unresolved": 10,
       "skipped": 0,
       "reverted": 0,
       "deferred": 0,
       "terminated": "completed",
-      "elapsed_s": 221.5,
+      "elapsed_s": 206.4,
       "max_workers": 10
     },
     "build-site-daily": {
       "pages": 336,
-      "articles": 11760,
-      "canonical": 8740,
+      "articles": 11803,
+      "canonical": 8765,
       "site_dir": "C:\\Users\\vdesai\\source\\repos\\Newsletter\\ext-host\\site",
       "mode": "incremental",
-      "changed_articles": 160,
-      "written_files": 91,
-      "elapsed_s": 16.61
+      "changed_articles": 64,
+      "written_files": 67,
+      "elapsed_s": 15.81
     },
     "publish": {
       "status": "dry-run",
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20261123T155855+0000-4ef4cd.json"
+  "run_log": "indexes\\runs\\run-20261123T211243+0000-8d1b7d.json"
 }

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki
 - 2026-09-11-ex-deepmind-research-head-vinyals-ai-self-improvement-is-rea
 - 2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c
-- 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
+- 2026-11-22-openai-s-chief-scientist-proposes-perplexity-based-limits-on
 embedding_id: 2026-11-08-richard-sutton-says-compute-alone-won-t-deliver-intelligence
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Turing Award winner Richard Sutton, author of “The Bitter Lesson,” argued th
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr]] · [[2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki]] · [[2026-09-11-ex-deepmind-research-head-vinyals-ai-self-improvement-is-rea]] · [[2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c]] · [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]]
+**Related:** [[2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr]] · [[2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki]] · [[2026-09-11-ex-deepmind-research-head-vinyals-ai-self-improvement-is-rea]] · [[2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c]] · [[2026-11-22-openai-s-chief-scientist-proposes-perplexity-based-limits-on]]
 <!-- graph:end -->

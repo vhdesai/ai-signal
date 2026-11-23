@@ -1,17 +1,23 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 841
+member_count: 847
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 841 connected article(s).
+> Auto-generated entity hub. 847 connected article(s).
 
 - `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-23` [[2026-11-23-us-probe-into-megaspeed-and-alice-huang-remains-open-despite|US probe into Megaspeed and Alice Huang remains open despite Huang's return]]
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
+- `2026-11-23` [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-optimization-st|Amazon signs a $7.5 billion deal for Decart's optimization stack as startups bet on compute 'beyond Nvidia']]
+- `2026-11-23` [[2026-11-23-amazon-signs-a-7-5-billion-deal-for-decart-s-ai-optimization|Amazon signs a $7.5 billion deal for Decart's AI-optimization technology and team]]
 - `2026-11-22` [[2026-11-22-november-23-2026-calcalist|[November 23, 2026] · [Calcalist]]]
 - `2026-11-22` [[2026-11-22-november-22-2026-afp|[November 22, 2026] · [AFP]]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-microsoft-s-brad-smith-warns-of-months-of-outage-risk-as-ai|Microsoft's Brad Smith warns of months of outage risk as AI speeds up the race to patch security flaws]]
+- `2026-11-22` [[2026-11-22-amazon-signs-7-5-billion-deal-for-decart-s-chip-optimization|Amazon signs $7.5 billion deal for Decart's chip-optimization technology and team]]
 - `2026-11-22` [[2026-11-22-ai-cheating-upends-education-south-korea-s-education-ministe|AI cheating upends education: South Korea's education minister resigns as Caltech stops grading homework for accuracy]]
 - `2026-11-21` [[2026-11-21-november-21-2026-financial-times|[November 21, 2026] · [Financial Times]]]
 - `2026-11-21` [[2026-11-21-attackers-ai-agents-exploit-a-zero-day-in-11-minutes-as-sign|Attackers' AI agents exploit a zero-day in 11 minutes as Signal blocks screenshots to keep OS agents out]]

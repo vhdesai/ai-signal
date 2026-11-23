@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-09-27-some-early-anthropic-employees-are-reportedly-buying-remote
 - 2026-09-27-wsj-anthropic-veterans-quietly-buying-remote-us-parcels-as-p
 - 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
+- 2026-11-23-wsj-wall-street-expects-anthropic-s-debt-to-be-rated-junk
 - 2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b
 embedding_id: 2026-09-27-wsj-some-anthropic-veterans-are-buying-remote-land-in-case-a
 event_name: ''
@@ -38,5 +39,5 @@ The Wall Street Journal reports that some of Anthropic's longest-tenured employe
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]]
-**Related:** [[2026-09-27-some-early-anthropic-employees-are-reportedly-buying-remote]] · [[2026-09-27-wsj-anthropic-veterans-quietly-buying-remote-us-parcels-as-p]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b]]
+**Related:** [[2026-09-27-some-early-anthropic-employees-are-reportedly-buying-remote]] · [[2026-09-27-wsj-anthropic-veterans-quietly-buying-remote-us-parcels-as-p]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-11-23-wsj-wall-street-expects-anthropic-s-debt-to-be-rated-junk]] · [[2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b]]
 <!-- graph:end -->

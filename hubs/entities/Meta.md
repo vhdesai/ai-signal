@@ -1,15 +1,19 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 1067
+member_count: 1071
 ---
 
 # Meta
 
-> Auto-generated entity hub. 1067 connected article(s).
+> Auto-generated entity hub. 1071 connected article(s).
 
 - `2026-11-23` [[2026-11-23-november-22-2026-openai|[November 22, 2026] · [OpenAI]]]
+- `2026-11-23` [[2026-11-23-meta-s-tlx-gives-triton-kernels-cuda-level-control-on-nvidia|Meta's TLX gives Triton kernels CUDA-level control on Nvidia and AMD GPUs]]
+- `2026-11-23` [[2026-11-23-meta-s-tlx-gives-triton-cuda-level-control-on-nvidia-and-amd|Meta's TLX gives Triton CUDA-level control on Nvidia and AMD GPUs]]
+- `2026-11-23` [[2026-11-23-mit-presents-a-smaller-locally-run-model-for-analog-chip-des|MIT presents a smaller, locally run model for analog-chip design]]
 - `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-openai-s-chief-scientist-proposes-perplexity-based-limits-on|OpenAI's chief scientist proposes perplexity-based limits on AI development as Meta's Alexandr Wang warns superintelligence is arriving]]
 - `2026-11-21` [[2026-11-21-signal-expands-screenshot-blocking-to-limit-exposure-to-plat|Signal expands screenshot blocking to limit exposure to platform AI agents]]
 - `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
 - `2026-11-20` [[2026-11-20-trump-threatens-a-tremendous-tax-on-us-companies-that-build|Trump threatens a "tremendous tax" on US companies that build data centers abroad]]
