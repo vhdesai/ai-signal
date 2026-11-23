@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
+- 2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod
 - 2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we
 - 2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on
 embedding_id: 2026-09-29-company-releases-holo4-open-weight-computer-use-models
@@ -35,5 +36,5 @@ Holo4 ships in two sizes — a 27B dense model and a 35B-A3B mixture-of-experts 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we]] · [[2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on]]
+**Related:** [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod]] · [[2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we]] · [[2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on]]
 <!-- graph:end -->

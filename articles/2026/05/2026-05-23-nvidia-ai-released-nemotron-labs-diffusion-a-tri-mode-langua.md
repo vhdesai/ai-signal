@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
+- 2026-11-20-november-19-2026-the-information-3
 - 2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo
-- 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
 embedding_id: 2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA AI released Nemotron-Labs-Diffusion, a tri-mode language model achieving 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]]
+**Related:** [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-11-20-november-19-2026-the-information-3]] · [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo]]
 <!-- graph:end -->

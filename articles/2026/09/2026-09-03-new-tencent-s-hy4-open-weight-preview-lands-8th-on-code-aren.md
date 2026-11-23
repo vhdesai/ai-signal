@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod
 - 2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and
-- 2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on
+- 2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod
 embedding_id: 2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Tencent's Hy4 preview, part of its Hunyuan series, ranked 8th on Code Arena's We
 
 **Entities:** [[Alibaba]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod]] · [[2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and]] · [[2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on]]
+**Related:** [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod]] · [[2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and]] · [[2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod]]
 <!-- graph:end -->

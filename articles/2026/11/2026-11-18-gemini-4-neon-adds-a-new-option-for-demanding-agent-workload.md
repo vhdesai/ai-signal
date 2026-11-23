@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-18-gemini-4-neon-sharpens-the-model-price-performance-contest
+- 2026-11-19-november-18-2026-google
 - 2026-11-10-google-expands-gemini-4-carbon-beyond-restricted-access
-- 2026-11-12-november-11-2026-google
 embedding_id: 2026-11-18-gemini-4-neon-adds-a-new-option-for-demanding-agent-workload
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Google introduced Gemini 4 Neon with a one-million-token context window, four th
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-18-gemini-4-neon-sharpens-the-model-price-performance-contest]] · [[2026-11-10-google-expands-gemini-4-carbon-beyond-restricted-access]] · [[2026-11-12-november-11-2026-google]]
+**Related:** [[2026-11-18-gemini-4-neon-sharpens-the-model-price-performance-contest]] · [[2026-11-19-november-18-2026-google]] · [[2026-11-10-google-expands-gemini-4-carbon-beyond-restricted-access]]
 <!-- graph:end -->

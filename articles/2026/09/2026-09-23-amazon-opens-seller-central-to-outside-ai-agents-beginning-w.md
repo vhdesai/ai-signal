@@ -25,7 +25,7 @@ canonical_article_id: 2026-09-23-amazon-opens-seller-central-apis-to-third-party
 related_article_ids:
 - 2026-09-23-amazon-opens-seller-assistant-to-claude-and-gives-sellers-12
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
-- 2026-09-24-amazon-gives-sellers-12-months-of-quick-plus-for-free-as-par
+- 2026-11-19-november-20-2026-cio-dive
 embedding_id: 2026-09-23-amazon-opens-seller-central-to-outside-ai-agents-beginning-w
 event_name: ''
 ---
@@ -40,5 +40,5 @@ At its Accelerate conference, Amazon launched a Selling Partner plugin that lets
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-begin]]
-**Related:** [[2026-09-23-amazon-opens-seller-assistant-to-claude-and-gives-sellers-12]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-09-24-amazon-gives-sellers-12-months-of-quick-plus-for-free-as-par]]
+**Related:** [[2026-09-23-amazon-opens-seller-assistant-to-claude-and-gives-sellers-12]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-11-19-november-20-2026-cio-dive]]
 <!-- graph:end -->

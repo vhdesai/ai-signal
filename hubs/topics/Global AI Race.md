@@ -1,13 +1,18 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1845
+member_count: 1850
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1845 connected article(s).
+> Auto-generated topic hub. 1850 connected article(s).
 
+- `2026-11-20` [[2026-11-20-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]
+- `2026-11-20` [[2026-11-20-november-19-2026-the-wall-street-journal|[November 19, 2026] · [The Wall Street Journal]]]
+- `2026-11-20` [[2026-11-20-november-19-2026-global-times|[November 19, 2026] · [Global Times]]]
+- `2026-11-20` [[2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod|Tencent opens the weights of its flagship Hy4 multimodal model]]
+- `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-19` [[2026-11-19-november-18-2026-wall-street-journal-2|[November 18, 2026] · [Wall Street Journal]]]
 - `2026-11-19` [[2026-11-19-the-remote-access-rule-bites-moonshot-scraps-a-150-million-i|The remote-access rule bites: Moonshot scraps a $150 million Indonesia deal and Tencent says it sets China back]]

@@ -1,14 +1,19 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 5542
+member_count: 5548
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 5542 connected article(s).
+> Auto-generated topic hub. 5548 connected article(s).
 
+- `2026-11-20` [[2026-11-20-november-20-2026-dealbook|[November 20, 2026] · [DealBook]]]
+- `2026-11-20` [[2026-11-20-november-19-2026-9to5mac|[November 19, 2026] · [9to5Mac]]]
+- `2026-11-19` [[2026-11-19-november-20-2026-dealbook|[November 20, 2026] · [DealBook]]]
+- `2026-11-19` [[2026-11-19-november-20-2026-cio-dive|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-19` [[2026-11-19-november-19-2026-the-information|[November 19, 2026] · [The Information]]]
 - `2026-11-19` [[2026-11-19-november-18-2026-wall-street-journal-2|[November 18, 2026] · [Wall Street Journal]]]
 - `2026-11-19` [[2026-11-19-november-18-2026-cnbc|[November 18, 2026] · [CNBC]]]
 - `2026-11-19` [[2026-11-19-the-remote-access-rule-bites-moonshot-scraps-a-150-million-i|The remote-access rule bites: Moonshot scraps a $150 million Indonesia deal and Tencent says it sets China back]]
@@ -17,6 +22,7 @@ member_count: 5542
 - `2026-11-19` [[2026-11-19-anthropic-pushes-cowork-managed-agents-and-deep-discounts-to|Anthropic pushes Cowork, Managed Agents and deep discounts to grow beyond coding]]
 - `2026-11-19` [[2026-11-19-anthropic-hires-a-400-000-a-year-natural-gas-lead-as-off-gri|Anthropic hires a $400,000-a-year natural-gas lead as off-grid data centers drive up emissions]]
 - `2026-11-19` [[2026-11-19-alibaba-reports-accelerating-ai-cloud-growth-alongside-heavy|Alibaba reports accelerating AI-cloud growth alongside heavy investment]]
+- `2026-11-19` [[2026-11-19-after-weeks-of-disruptions-an-faa-nationwide-ground-stop-app|After weeks of disruptions — an FAA nationwide ground stop, Apple Pay and NASA communications failures, and a near two-day outage of Outlook, Teams and Copilot — officials and the companies involved say none were cyberattacks. Security veterans such as former McAfee CEO Dave DeWalt argue AI tools are surfacing vulnerabilities at unprecedented speed, and the resulting rush to patch is causing short-term breakage.]]
 - `2026-11-18` [[2026-11-18-november-19-2026-pitchbook|[November 19, 2026] · [PitchBook]]]
 - `2026-11-18` [[2026-11-18-november-19-2026-dealbook|[November 19, 2026] · [DealBook]]]
 - `2026-11-18` [[2026-11-18-november-18-2026-wall-street-journal|[November 18, 2026] · [Wall Street Journal]]]

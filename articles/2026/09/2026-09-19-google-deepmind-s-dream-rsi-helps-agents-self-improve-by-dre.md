@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea
 - 2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei
-- 2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory
+- 2026-11-19-meta-fair-s-self-improving-memory-lets-agents-write-then-lea
 embedding_id: 2026-09-19-google-deepmind-s-dream-rsi-helps-agents-self-improve-by-dre
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google DeepMind's Dream-RSI lets AI agents evaluate new search-strategy hypothes
 
 **Entities:** [[ByteDance]] · [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea]] · [[2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei]] · [[2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory]]
+**Related:** [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea]] · [[2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei]] · [[2026-11-19-meta-fair-s-self-improving-memory-lets-agents-write-then-lea]]
 <!-- graph:end -->

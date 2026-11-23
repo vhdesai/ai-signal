@@ -31,10 +31,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-16-california-sues-openai-over-alleged-failures-in-experimental
+- 2026-11-20-november-19-2026-the-wall-street-journal
 - 2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg
 - 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
 - 2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af
-- 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 embedding_id: 2026-11-16-california-attorney-general-november-16-2026
 event_name: ''
 ---
@@ -48,5 +48,5 @@ California’s attorney general sued OpenAI in San Francisco Superior Court, all
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[IBM]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-11-16-california-sues-openai-over-alleged-failures-in-experimental]] · [[2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg]] · [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
+**Related:** [[2026-11-16-california-sues-openai-over-alleged-failures-in-experimental]] · [[2026-11-20-november-19-2026-the-wall-street-journal]] · [[2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg]] · [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af]]
 <!-- graph:end -->

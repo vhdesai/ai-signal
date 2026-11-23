@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 825
+member_count: 827
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 825 connected article(s).
+> Auto-generated entity hub. 827 connected article(s).
 
+- `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
+- `2026-11-19` [[2026-11-19-november-20-2026-cio-dive|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
 - `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]

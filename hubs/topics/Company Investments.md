@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1470
+member_count: 1471
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1470 connected article(s).
+> Auto-generated topic hub. 1471 connected article(s).
 
+- `2026-11-20` [[2026-11-20-november-20-2026-dealbook|[November 20, 2026] · [DealBook]]]
 - `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-18` [[2026-11-18-november-19-2026-pitchbook|[November 19, 2026] · [PitchBook]]]
 - `2026-11-18` [[2026-11-18-november-18-2026-pitchbook|[November 18, 2026] · [PitchBook]]]

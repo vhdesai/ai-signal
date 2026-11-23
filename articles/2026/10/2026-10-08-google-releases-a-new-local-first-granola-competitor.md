@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-08-google-releases-local-first-ai-edge-foresight-a-granola-comp
 - 2026-08-01-the-information-makes-the-case-for-apple-buying-granola
+- 2026-11-20-november-19-2026-9to5mac
 - 2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device
 - 2026-05-16-google-deepmind-s-ai-powered-mouse-pointer-begins-chrome-rol
 embedding_id: 2026-10-08-google-releases-a-new-local-first-granola-competitor
@@ -38,5 +39,5 @@ Google’s AI Edge Foresight runs meeting transcription and notes locally on Mac
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-08-google-releases-local-first-ai-edge-foresight-a-granola-comp]] · [[2026-08-01-the-information-makes-the-case-for-apple-buying-granola]] · [[2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device]] · [[2026-05-16-google-deepmind-s-ai-powered-mouse-pointer-begins-chrome-rol]]
+**Related:** [[2026-10-08-google-releases-local-first-ai-edge-foresight-a-granola-comp]] · [[2026-08-01-the-information-makes-the-case-for-apple-buying-granola]] · [[2026-11-20-november-19-2026-9to5mac]] · [[2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device]] · [[2026-05-16-google-deepmind-s-ai-powered-mouse-pointer-begins-chrome-rol]]
 <!-- graph:end -->

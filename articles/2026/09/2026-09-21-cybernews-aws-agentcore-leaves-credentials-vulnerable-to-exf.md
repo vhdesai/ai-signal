@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 - 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 - 2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici
+- 2026-11-19-november-20-2026-cio-dive
 embedding_id: 2026-09-21-cybernews-aws-agentcore-leaves-credentials-vulnerable-to-exf
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Cybernews reports that AWS's AgentCore agentic platform leaves credentials vulne
 
 **Entities:** [[Amazon]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-08-aws-patches-agentcore-flaw-that-let-one-public-agent-hijack]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]] · [[2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici]]
+**Related:** [[2026-10-08-aws-patches-agentcore-flaw-that-let-one-public-agent-hijack]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]] · [[2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici]] · [[2026-11-19-november-20-2026-cio-dive]]
 <!-- graph:end -->

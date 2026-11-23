@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 503
+member_count: 505
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 503 connected article(s).
+> Auto-generated entity hub. 505 connected article(s).
 
+- `2026-11-20` [[2026-11-20-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]
+- `2026-11-20` [[2026-11-20-november-19-2026-global-times|[November 19, 2026] · [Global Times]]]
 - `2026-11-19` [[2026-11-19-alibaba-reports-accelerating-ai-cloud-growth-alongside-heavy|Alibaba reports accelerating AI-cloud growth alongside heavy investment]]
 - `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
 - `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]

@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
-- 2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo
+- 2026-11-20-november-19-2026-the-information-3
 embedding_id: 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nvidia is reportedly building a new open-model family targeting roughly one tril
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo]]
+**Related:** [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-11-20-november-19-2026-the-information-3]]
 <!-- graph:end -->

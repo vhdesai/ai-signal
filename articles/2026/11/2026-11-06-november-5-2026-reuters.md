@@ -5,7 +5,7 @@ date: '2026-11-06'
 source: '[WSJ Pro CyberSecurity]'
 url_original: https://openai.com/index/introducing-gpt-6-cyber/
 url_canonical: https://openai.com/index/introducing-gpt-6-cyber/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-06_070742_Inbox_Daily AI News Digest - November
   6, 2026.md
 content_hash: 942a4d31b0660cd6477d9f6003b14da52fe131e892efc93bedf0140aa4b65d98

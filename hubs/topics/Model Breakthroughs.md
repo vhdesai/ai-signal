@@ -1,13 +1,18 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3905
+member_count: 3910
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3905 connected article(s).
+> Auto-generated topic hub. 3910 connected article(s).
 
+- `2026-11-20` [[2026-11-20-november-19-2026-the-information-3|[November 19, 2026] · [The Information]]]
+- `2026-11-20` [[2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod|Tencent opens the weights of its flagship Hy4 multimodal model]]
+- `2026-11-19` [[2026-11-19-november-18-2026-google|[November 18, 2026] · [Google]]]
+- `2026-11-19` [[2026-11-19-meta-fair-s-self-improving-memory-lets-agents-write-then-lea|Meta FAIR's Self-Improving Memory lets agents write, then learn, their own memory strategy]]
+- `2026-11-19` [[2026-11-19-mit-led-team-uses-llms-to-audit-code-sharing-across-nearly-4|MIT-led team uses LLMs to audit code sharing across nearly 4,000 medical AI studies]]
 - `2026-11-19` [[2026-11-19-mit-study-traces-data-center-air-pollution-effects-across-th|MIT study traces data-center air-pollution effects across the grid]]
 - `2026-11-19` [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard|MIT microrobot brings sensing and flight computation onboard]]
 - `2026-11-19` [[2026-11-19-alibaba-reports-accelerating-ai-cloud-growth-alongside-heavy|Alibaba reports accelerating AI-cloud growth alongside heavy investment]]

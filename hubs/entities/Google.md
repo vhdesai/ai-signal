@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1881
+member_count: 1884
 ---
 
 # Google
 
-> Auto-generated entity hub. 1881 connected article(s).
+> Auto-generated entity hub. 1884 connected article(s).
 
+- `2026-11-20` [[2026-11-20-november-19-2026-9to5mac|[November 19, 2026] · [9to5Mac]]]
+- `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
+- `2026-11-19` [[2026-11-19-november-18-2026-google|[November 18, 2026] · [Google]]]
 - `2026-11-18` [[2026-11-18-november-19-2026-pitchbook|[November 19, 2026] · [PitchBook]]]
 - `2026-11-18` [[2026-11-18-november-17-2026-techcrunch|[November 17, 2026] · [TechCrunch]]]
 - `2026-11-18` [[2026-11-18-november-17-2026-anthropic-pbc|November 17, 2026 · Anthropic, PBC]]

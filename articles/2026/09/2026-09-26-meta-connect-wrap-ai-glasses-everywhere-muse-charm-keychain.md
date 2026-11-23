@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-meta-connect-1-300-meta-vr-glasses-with-eye-tracking-virtual
 - 2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec
 - 2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses
-- 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
+- 2026-11-19-november-19-2026-the-information
 embedding_id: 2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch's Meta Connect wrap captures the theme: "the company's smart glasses 
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-25-meta-connect-1-300-meta-vr-glasses-with-eye-tracking-virtual]] · [[2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec]] · [[2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses]] · [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses]]
+**Related:** [[2026-09-25-meta-connect-1-300-meta-vr-glasses-with-eye-tracking-virtual]] · [[2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec]] · [[2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses]] · [[2026-11-19-november-19-2026-the-information]]
 <!-- graph:end -->

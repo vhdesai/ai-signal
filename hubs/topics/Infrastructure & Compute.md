@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2471
+member_count: 2473
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2471 connected article(s).
+> Auto-generated topic hub. 2473 connected article(s).
 
+- `2026-11-20` [[2026-11-20-november-19-2026-global-times|[November 19, 2026] · [Global Times]]]
+- `2026-11-19` [[2026-11-19-november-20-2026-dealbook-2|[November 20, 2026] · [DealBook]]]
 - `2026-11-19` [[2026-11-19-mit-study-traces-data-center-air-pollution-effects-across-th|MIT study traces data-center air-pollution effects across the grid]]
 - `2026-11-19` [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard|MIT microrobot brings sensing and flight computation onboard]]
 - `2026-11-19` [[2026-11-19-alibaba-reports-accelerating-ai-cloud-growth-alongside-heavy|Alibaba reports accelerating AI-cloud growth alongside heavy investment]]

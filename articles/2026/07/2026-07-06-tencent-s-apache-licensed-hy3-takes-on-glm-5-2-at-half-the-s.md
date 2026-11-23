@@ -21,10 +21,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod
 - 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
 - 2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
-- 2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on
 embedding_id: 2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Tencent released Hy3 as a 295B-parameter mixture-of-experts model with 21B activ
 
 **Entities:** [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on]]
+**Related:** [[2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod]] · [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]]
 <!-- graph:end -->

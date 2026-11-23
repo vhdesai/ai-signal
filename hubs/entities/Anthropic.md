@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2703
+member_count: 2706
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2703 connected article(s).
+> Auto-generated entity hub. 2706 connected article(s).
 
+- `2026-11-20` [[2026-11-20-november-20-2026-dealbook|[November 20, 2026] · [DealBook]]]
+- `2026-11-19` [[2026-11-19-november-20-2026-dealbook|[November 20, 2026] · [DealBook]]]
+- `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-19` [[2026-11-19-anthropic-pushes-cowork-managed-agents-and-deep-discounts-to|Anthropic pushes Cowork, Managed Agents and deep discounts to grow beyond coding]]
 - `2026-11-19` [[2026-11-19-anthropic-hires-a-400-000-a-year-natural-gas-lead-as-off-gri|Anthropic hires a $400,000-a-year natural-gas lead as off-grid data centers drive up emissions]]

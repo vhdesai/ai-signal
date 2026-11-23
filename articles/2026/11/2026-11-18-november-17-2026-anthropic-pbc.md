@@ -5,7 +5,7 @@ date: '2026-11-18'
 source: 'Secondary reporting: November 18, 2026'
 url_original: https://ipo.anthropic.com/documents/us/prospectus.pdf
 url_canonical: https://ipo.anthropic.com/documents/us/prospectus.pdf
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-11-18_062225_Inbox_Daily AI News Digest - November
   18, 2026.md
 content_hash: 43ff0914fdd4699a6e2ebaf2cfd4ed7a2c5c0ee54037599d9992be84a4a2488c

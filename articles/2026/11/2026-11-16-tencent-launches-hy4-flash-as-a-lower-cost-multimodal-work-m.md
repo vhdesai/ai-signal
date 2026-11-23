@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-16-tencent-positions-hy4-flash-for-low-cost-long-context-deploy
 - 2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod
+- 2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod
 embedding_id: 2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Tencent introduced Hy4 flash, a multimodal model with a one-million-token contex
 
 **Entities:** [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-11-16-tencent-positions-hy4-flash-for-low-cost-long-context-deploy]] · [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod]]
+**Related:** [[2026-11-16-tencent-positions-hy4-flash-for-low-cost-long-context-deploy]] · [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod]] · [[2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod]]
 <!-- graph:end -->

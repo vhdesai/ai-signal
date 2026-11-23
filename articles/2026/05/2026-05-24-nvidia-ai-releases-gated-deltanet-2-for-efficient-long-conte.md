@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-24-nvidia-releases-gated-deltanet-2-linear-attention-with-decou
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
-- 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
+- 2026-11-20-november-19-2026-the-information-3
 embedding_id: 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia Research published Gated DeltaNet-2, a linear-attention layer that decoup
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-linear-attention-layer-d]] · [[2026-05-24-nvidia-releases-gated-deltanet-2-linear-attention-with-decou]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]]
+**Related:** [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-linear-attention-layer-d]] · [[2026-05-24-nvidia-releases-gated-deltanet-2-linear-attention-with-decou]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-11-20-november-19-2026-the-information-3]]
 <!-- graph:end -->

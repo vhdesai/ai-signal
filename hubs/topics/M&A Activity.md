@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 568
+member_count: 569
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 568 connected article(s).
+> Auto-generated topic hub. 569 connected article(s).
 
+- `2026-11-20` [[2026-11-20-november-19-2026-the-information-3|[November 19, 2026] · [The Information]]]
 - `2026-11-19` [[2026-11-19-november-18-2026-wall-street-journal-2|[November 18, 2026] · [Wall Street Journal]]]
 - `2026-11-18` [[2026-11-18-palo-alto-networks-targets-enterprise-model-infrastructure-w|Palo Alto Networks targets enterprise model infrastructure with acquisition]]
 - `2026-11-16` [[2026-11-16-openai-explored-a-5-billion-plus-acquisition-of-goodfire-a-s|OpenAI explored a $5 billion-plus acquisition of Goodfire, a startup that decodes how AI models think]]

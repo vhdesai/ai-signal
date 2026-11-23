@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1202
+member_count: 1203
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1202 connected article(s).
+> Auto-generated entity hub. 1203 connected article(s).
 
+- `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-19` [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard|MIT microrobot brings sensing and flight computation onboard]]
 - `2026-11-18` [[2026-11-18-november-19-2026-pitchbook|[November 19, 2026] · [PitchBook]]]

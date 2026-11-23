@@ -5,7 +5,7 @@ date: '2026-11-18'
 source: OpenAI
 url_original: https://openai.com/index/advancing-chip-design-with-our-models/
 url_canonical: https://openai.com/index/advancing-chip-design-with-our-models/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-19_061833_Inbox_Daily AI News Digest - November
   19, 2026.md
 content_hash: ab257df68e507b334973386f76f5b20074025f9c856ea0bf8c3885c5dc88ca1b

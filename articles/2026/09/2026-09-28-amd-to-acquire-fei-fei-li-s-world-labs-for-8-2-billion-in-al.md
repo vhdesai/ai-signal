@@ -24,6 +24,7 @@ canonical_article_id: 2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-
 related_article_ids:
 - 2026-10-05-amd-s-8-2b-world-labs-deal-puts-a-price-on-world-model-talen
 - 2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon
+- 2026-11-20-november-20-2026-cnbc
 embedding_id: 2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion-in-al
 event_name: ''
 ---
@@ -38,5 +39,5 @@ AMD entered a definitive agreement to acquire World Labs, the spatial-intelligen
 **Entities:** [[AMD]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion]]
-**Related:** [[2026-10-05-amd-s-8-2b-world-labs-deal-puts-a-price-on-world-model-talen]] · [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon]]
+**Related:** [[2026-10-05-amd-s-8-2b-world-labs-deal-puts-a-price-on-world-model-talen]] · [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon]] · [[2026-11-20-november-20-2026-cnbc]]
 <!-- graph:end -->

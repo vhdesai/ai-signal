@@ -23,8 +23,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-20-november-19-2026-the-information-3
 - 2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control
-- 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 embedding_id: 2026-11-10-nvidia-s-nemotron-wins-cost-driven-defections-as-enterprises
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Booz Allen Hamilton moved its cybersecurity and defense software from Anthropic 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
+**Related:** [[2026-11-20-november-19-2026-the-information-3]] · [[2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem
+- 2026-11-20-november-19-2026-9to5mac
 - 2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona
 - 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
-- 2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi
 embedding_id: 2026-04-16-google-released-a-fully-native-swift-app-for-macos-that-lets
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google released a fully-native Swift app for macOS that lets users share their s
 ## Connections
 
 **Entities:** [[Apple]] · [[Google]]
-**Related:** [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]] · [[2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]] · [[2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi]]
+**Related:** [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]] · [[2026-11-20-november-19-2026-9to5mac]] · [[2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]]
 <!-- graph:end -->

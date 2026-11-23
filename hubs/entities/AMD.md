@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 164
+member_count: 166
 ---
 
 # AMD
 
-> Auto-generated entity hub. 164 connected article(s).
+> Auto-generated entity hub. 166 connected article(s).
 
+- `2026-11-20` [[2026-11-20-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]
+- `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-19` [[2026-11-19-openai-says-its-models-improved-amd-s-flagship-gpu-design-by|OpenAI says its models improved AMD's flagship GPU design by up to 14% and shrank its own Jalapeno chip]]
 - `2026-11-19` [[2026-11-19-mit-study-traces-data-center-air-pollution-effects-across-th|MIT study traces data-center air-pollution effects across the grid]]

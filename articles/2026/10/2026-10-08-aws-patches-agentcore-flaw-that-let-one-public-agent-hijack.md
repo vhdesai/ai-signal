@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-21-cybernews-aws-agentcore-leaves-credentials-vulnerable-to-exf
+- 2026-11-19-november-20-2026-cio-dive
 - 2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici
 - 2026-08-07-aws-details-how-cohere-health-digitizes-clinical-policies-us
 - 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
-- 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
 embedding_id: 2026-10-08-aws-patches-agentcore-flaw-that-let-one-public-agent-hijack
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Zenity Labs found that one public-facing Amazon Bedrock AgentCore agent could re
 
 **Entities:** [[Amazon]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-21-cybernews-aws-agentcore-leaves-credentials-vulnerable-to-exf]] · [[2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici]] · [[2026-08-07-aws-details-how-cohere-health-digitizes-clinical-policies-us]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]]
+**Related:** [[2026-09-21-cybernews-aws-agentcore-leaves-credentials-vulnerable-to-exf]] · [[2026-11-19-november-20-2026-cio-dive]] · [[2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici]] · [[2026-08-07-aws-details-how-cohere-health-digitizes-clinical-policies-us]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]]
 <!-- graph:end -->

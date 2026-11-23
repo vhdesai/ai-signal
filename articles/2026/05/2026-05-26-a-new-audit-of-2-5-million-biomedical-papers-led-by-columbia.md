@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-19-mit-led-team-uses-llms-to-audit-code-sharing-across-nearly-4
 - 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
 - 2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
-- 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 embedding_id: 2026-05-26-a-new-audit-of-2-5-million-biomedical-papers-led-by-columbia
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A new audit of 2.5 million biomedical papers led by Columbia University and part
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]]
+**Related:** [[2026-11-19-mit-led-team-uses-llms-to-audit-code-sharing-across-nearly-4]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore]]
 <!-- graph:end -->

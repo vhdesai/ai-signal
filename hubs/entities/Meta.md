@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 1056
+member_count: 1060
 ---
 
 # Meta
 
-> Auto-generated entity hub. 1056 connected article(s).
+> Auto-generated entity hub. 1060 connected article(s).
 
+- `2026-11-19` [[2026-11-19-november-20-2026-dealbook-2|[November 20, 2026] · [DealBook]]]
+- `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
+- `2026-11-19` [[2026-11-19-november-19-2026-the-information|[November 19, 2026] · [The Information]]]
+- `2026-11-19` [[2026-11-19-meta-fair-s-self-improving-memory-lets-agents-write-then-lea|Meta FAIR's Self-Improving Memory lets agents write, then learn, their own memory strategy]]
 - `2026-11-18` [[2026-11-18-november-17-2026-techcrunch|[November 17, 2026] · [TechCrunch]]]
 - `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
 - `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir
+- 2026-11-20-november-19-2026-global-times
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 - 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
-- 2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi
 embedding_id: 2026-07-06-policy-china-us-judge-orders-pentagon-to-stop-treating-aliba
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Policy China US judge orders Pentagon to stop treating Alibaba as a "Chinese mil
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]] · [[2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi]]
+**Related:** [[2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir]] · [[2026-11-20-november-19-2026-global-times]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]]
 <!-- graph:end -->

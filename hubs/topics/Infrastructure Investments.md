@@ -1,13 +1,18 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 2033
+member_count: 2038
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 2033 connected article(s).
+> Auto-generated topic hub. 2038 connected article(s).
 
+- `2026-11-20` [[2026-11-20-november-20-2026-dealbook|[November 20, 2026] · [DealBook]]]
+- `2026-11-20` [[2026-11-20-november-19-2026-global-times|[November 19, 2026] · [Global Times]]]
+- `2026-11-19` [[2026-11-19-november-20-2026-dealbook-2|[November 20, 2026] · [DealBook]]]
+- `2026-11-19` [[2026-11-19-november-20-2026-dealbook|[November 20, 2026] · [DealBook]]]
+- `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-19` [[2026-11-19-the-remote-access-rule-bites-moonshot-scraps-a-150-million-i|The remote-access rule bites: Moonshot scraps a $150 million Indonesia deal and Tencent says it sets China back]]
 - `2026-11-19` [[2026-11-19-anthropic-hires-a-400-000-a-year-natural-gas-lead-as-off-gri|Anthropic hires a $400,000-a-year natural-gas lead as off-grid data centers drive up emissions]]

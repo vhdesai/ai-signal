@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
+- 2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
 - 2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active
 - 2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m
-- 2026-11-16-november-16-2026-theprint-citing-bloomberg
 embedding_id: 2026-08-20-tencent-releases-hy-mt2-30b-a3b-and-hy-mt2-1-8b-translation
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Tencent shipped two new machine-translation models: the flagship Hy-MT2-30B-A3B,
 
 **Entities:** [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active]] · [[2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m]] · [[2026-11-16-november-16-2026-theprint-citing-bloomberg]]
+**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active]] · [[2026-11-16-tencent-launches-hy4-flash-as-a-lower-cost-multimodal-work-m]]
 <!-- graph:end -->

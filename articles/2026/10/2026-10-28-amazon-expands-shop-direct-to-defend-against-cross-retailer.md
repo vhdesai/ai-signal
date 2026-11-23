@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-11-01-ai-shopping-agents-emerge-as-a-potential-rival-to-amazon-s-e
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
-- 2026-07-18-retailers-prepare-for-bots-as-buyers
+- 2026-11-19-november-20-2026-cio-dive
 embedding_id: 2026-10-28-amazon-expands-shop-direct-to-defend-against-cross-retailer
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Amazon expanded Shop Direct to approximately 250 million listings connecting sho
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-01-ai-shopping-agents-emerge-as-a-potential-rival-to-amazon-s-e]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]]
+**Related:** [[2026-11-01-ai-shopping-agents-emerge-as-a-potential-rival-to-amazon-s-e]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-11-19-november-20-2026-cio-dive]]
 <!-- graph:end -->

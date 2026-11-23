@@ -26,7 +26,6 @@ related_article_ids:
 - 2026-09-15-us-ai-data-centers-on-track-to-consume-more-natural-gas-than
 - 2026-09-11-microsoft-targets-38-gigawatts-of-data-center-capacity-by-20
 - 2026-09-11-microsoft-targets-more-than-38-gigawatts-of-data-center-capa
-- 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 embedding_id: 2026-07-21-data-centers-expected-to-use-four-times-more-u-s-electricity
 event_name: ''
 ---
@@ -39,5 +38,5 @@ TechCrunch reports that BloombergNEF expects U.S. data centers to use one-fifth 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032]] · [[2026-09-15-us-ai-data-centers-on-track-to-consume-more-natural-gas-than]] · [[2026-09-11-microsoft-targets-38-gigawatts-of-data-center-capacity-by-20]] · [[2026-09-11-microsoft-targets-more-than-38-gigawatts-of-data-center-capa]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]]
+**Related:** [[2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032]] · [[2026-09-15-us-ai-data-centers-on-track-to-consume-more-natural-gas-than]] · [[2026-09-11-microsoft-targets-38-gigawatts-of-data-center-capacity-by-20]] · [[2026-09-11-microsoft-targets-more-than-38-gigawatts-of-data-center-capa]]
 <!-- graph:end -->

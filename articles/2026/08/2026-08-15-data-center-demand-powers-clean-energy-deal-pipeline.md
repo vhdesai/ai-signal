@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank
 - 2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient
 - 2026-08-31-sb-energy-issued-openai-warrants-now-valued-near-5-5b-to-sec
-- 2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope
 embedding_id: 2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline
 event_name: ''
 ---
@@ -37,5 +36,5 @@ PE investment in clean energy fell 62.3% quarter-over-quarter to $24.5 billion i
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-08-31-sb-energy-issued-openai-warrants-now-valued-near-5-5b-to-sec]] · [[2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope]]
+**Related:** [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-08-31-sb-energy-issued-openai-warrants-now-valued-near-5-5b-to-sec]]
 <!-- graph:end -->

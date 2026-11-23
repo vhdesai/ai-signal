@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
-- 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
+- 2026-11-19-november-20-2026-cio-dive
 embedding_id: 2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch reported Walmart's MCP-based Agent Gateway and account-level controls
 
 **Entities:** [[Amazon]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
+**Related:** [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]] · [[2026-11-19-november-20-2026-cio-dive]]
 <!-- graph:end -->

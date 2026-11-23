@@ -1,14 +1,18 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2478
+member_count: 2482
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2478 connected article(s).
+> Auto-generated topic hub. 2482 connected article(s).
 
+- `2026-11-20` [[2026-11-20-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]
+- `2026-11-20` [[2026-11-20-november-19-2026-the-wall-street-journal|[November 19, 2026] · [The Wall Street Journal]]]
+- `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard|MIT microrobot brings sensing and flight computation onboard]]
+- `2026-11-19` [[2026-11-19-after-weeks-of-disruptions-an-faa-nationwide-ground-stop-app|After weeks of disruptions — an FAA nationwide ground stop, Apple Pay and NASA communications failures, and a near two-day outage of Outlook, Teams and Copilot — officials and the companies involved say none were cyberattacks. Security veterans such as former McAfee CEO Dave DeWalt argue AI tools are surfacing vulnerabilities at unprecedented speed, and the resulting rush to patch is causing short-term breakage.]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]
 - `2026-11-18` [[2026-11-18-house-panel-questions-reported-microsoft-bytedance-ai-discus|House panel questions reported Microsoft–ByteDance AI discussions]]
 - `2026-11-18` [[2026-11-18-adaptive-ai-text-detection-improves-experimental-robustness|Adaptive AI-text detection improves experimental robustness]]
