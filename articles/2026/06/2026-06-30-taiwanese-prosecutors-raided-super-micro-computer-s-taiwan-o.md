@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
 - 2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi
 - 2026-08-25-taiwan-indicts-nine-including-nvidia-and-super-micro-staff-o
-- 2026-11-15-wsj-southeast-asian-data-centers-gave-chinese-ai-firms-a-bac
+- 2026-11-21-wsj-traces-an-alleged-nvidia-chip-smuggling-network-to-an-as
 embedding_id: 2026-06-30-taiwanese-prosecutors-raided-super-micro-computer-s-taiwan-o
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Taiwanese prosecutors raided Super Micro Computer's Taiwan offices and two other
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-25-taiwan-charges-nvidia-and-super-micro-employees-with-ai-serv]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi]] · [[2026-08-25-taiwan-indicts-nine-including-nvidia-and-super-micro-staff-o]] · [[2026-11-15-wsj-southeast-asian-data-centers-gave-chinese-ai-firms-a-bac]]
+**Related:** [[2026-08-25-taiwan-charges-nvidia-and-super-micro-employees-with-ai-serv]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi]] · [[2026-08-25-taiwan-indicts-nine-including-nvidia-and-super-micro-staff-o]] · [[2026-11-21-wsj-traces-an-alleged-nvidia-chip-smuggling-network-to-an-as]]
 <!-- graph:end -->

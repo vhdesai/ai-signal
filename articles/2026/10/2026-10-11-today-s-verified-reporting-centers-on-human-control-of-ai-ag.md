@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-21-ai-cluster-reliability-depends-on-coordinated-release-operat
+- 2026-11-21-together-ai-discloses-exposure-of-stored-prompt-samples
 - 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter
-- 2026-04-10-practitioners-who-deployed-agentic-ai-pipelines-in-late-2025
 embedding_id: 2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Today's verified reporting centers on human control of AI agents, independent ev
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter]] · [[2026-04-10-practitioners-who-deployed-agentic-ai-pipelines-in-late-2025]]
+**Related:** [[2026-11-21-ai-cluster-reliability-depends-on-coordinated-release-operat]] · [[2026-11-21-together-ai-discloses-exposure-of-stored-prompt-samples]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-11-09-openai-describes-inference-layer-controls-for-stopping-inter]]
 <!-- graph:end -->

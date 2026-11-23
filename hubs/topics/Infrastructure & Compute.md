@@ -1,14 +1,26 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2473
+member_count: 2485
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2473 connected article(s).
+> Auto-generated topic hub. 2485 connected article(s).
 
+- `2026-11-22` [[2026-11-22-november-23-2026-calcalist|[November 23, 2026] · [Calcalist]]]
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-21` [[2026-11-21-november-21-2026-financial-times|[November 21, 2026] · [Financial Times]]]
+- `2026-11-21` [[2026-11-21-november-20-2026-oracle|[November 20, 2026] · [Oracle]]]
+- `2026-11-21` [[2026-11-21-messaging-based-ai-assistants-broaden-personal-channel-data|Messaging-based AI assistants broaden personal-channel data access]]
+- `2026-11-21` [[2026-11-21-ai-cluster-reliability-depends-on-coordinated-release-operat|AI cluster reliability depends on coordinated release operations]]
 - `2026-11-20` [[2026-11-20-november-19-2026-global-times|[November 19, 2026] · [Global Times]]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
+- `2026-11-20` [[2026-11-20-t-mobile-s-agent-experience-favors-narrowly-routed-context-o|T-Mobile’s agent experience favors narrowly routed context over more documents]]
+- `2026-11-20` [[2026-11-20-softbank-s-masayoshi-son-explored-a-1-trillion-buyout-of-mem|SoftBank's Masayoshi Son explored a $1 trillion buyout of memory maker SK Hynix]]
+- `2026-11-20` [[2026-11-20-meta-reconsiders-its-2030-net-zero-goal-as-ai-data-center-em|Meta reconsiders its 2030 net-zero goal as AI data center emissions hit a record]]
+- `2026-11-20` [[2026-11-20-inkling-2-mini-brings-open-weights-and-long-context-to-a-loo|Inkling 2 Mini brings open weights and long context to a looped architecture]]
+- `2026-11-20` [[2026-11-20-google-expands-connected-apps-into-grocery-shopping-and-erra|Google expands Connected Apps into grocery shopping and errands]]
 - `2026-11-19` [[2026-11-19-november-20-2026-dealbook-2|[November 20, 2026] · [DealBook]]]
 - `2026-11-19` [[2026-11-19-mit-study-traces-data-center-air-pollution-effects-across-th|MIT study traces data-center air-pollution effects across the grid]]
 - `2026-11-19` [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard|MIT microrobot brings sensing and flight computation onboard]]

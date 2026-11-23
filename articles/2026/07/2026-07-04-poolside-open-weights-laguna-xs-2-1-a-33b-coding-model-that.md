@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-21-poolside-releases-laguna-s-2-1-open-weight-agentic-coding-mo
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-model-und
+- 2026-11-20-open-weight-wave-thinking-machines-inkling-2-mini-baseten-s
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to
 - 2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic
-- 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
 embedding_id: 2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that
 event_name: ''
 ---
@@ -37,5 +37,5 @@ San Francisco lab Poolside released (July 2) its first open-weight model, Laguna
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-21-poolside-releases-laguna-s-2-1-open-weight-agentic-coding-mo]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-model-und]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to]] · [[2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]]
+**Related:** [[2026-07-21-poolside-releases-laguna-s-2-1-open-weight-agentic-coding-mo]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-model-und]] · [[2026-11-20-open-weight-wave-thinking-machines-inkling-2-mini-baseten-s]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to]] · [[2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic]]
 <!-- graph:end -->

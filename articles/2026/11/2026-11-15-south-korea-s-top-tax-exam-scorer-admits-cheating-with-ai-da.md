@@ -30,10 +30,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-22-november-22-2026-afp
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
+- 2026-11-22-ai-cheating-upends-education-south-korea-s-education-ministe
 - 2026-11-08-november-7-2026-techcrunch
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-- 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 embedding_id: 2026-11-15-south-korea-s-top-tax-exam-scorer-admits-cheating-with-ai-da
 event_name: ''
 ---
@@ -47,5 +48,5 @@ The top scorer on South Korea's national tax accountant exam, who missed only on
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[NVIDIA]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-11-08-november-7-2026-techcrunch]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]]
+**Related:** [[2026-11-22-november-22-2026-afp]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-11-22-ai-cheating-upends-education-south-korea-s-education-ministe]] · [[2026-11-08-november-7-2026-techcrunch]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
 <!-- graph:end -->

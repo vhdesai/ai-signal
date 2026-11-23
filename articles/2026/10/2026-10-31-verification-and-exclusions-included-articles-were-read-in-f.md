@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval
 - 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
+- 2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices
 - 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 - 2026-10-24-washington-s-message-to-ai-execs-please-shut-up
-- 2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a
 embedding_id: 2026-10-31-verification-and-exclusions-included-articles-were-read-in-f
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Verification and exclusions: Included articles were read in full and their publi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Related:** [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval]] · [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up]] · [[2026-11-11-reported-u-s-rule-would-restrict-remote-access-to-advanced-a]]
+**Related:** [[2026-11-12-lawmakers-seek-records-on-nvidia-s-china-chip-sales-approval]] · [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up]]
 <!-- graph:end -->

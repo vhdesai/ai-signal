@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-29-october-29-2026-pitchbook
+- 2026-11-20-oracle-says-its-openai-buildout-is-fully-funded-as-capital-r
 - 2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
-- 2026-10-28-big-tech-s-ai-buildout-is-colliding-with-rising-capital-requ
 embedding_id: 2026-10-29-ai-buildout-financing-shifts-toward-discipline-as-oracle-cap
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Oracle shares rose more than 10% after it framed fiscal 2028 and 2029 as "peak c
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-29-october-29-2026-pitchbook]] · [[2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-10-28-big-tech-s-ai-buildout-is-colliding-with-rising-capital-requ]]
+**Related:** [[2026-10-29-october-29-2026-pitchbook]] · [[2026-11-20-oracle-says-its-openai-buildout-is-fully-funded-as-capital-r]] · [[2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]]
 <!-- graph:end -->

@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer
 - 2026-10-19-october-20-2026-pitchbook
 - 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
+- 2026-11-20-databricks-in-early-talks-to-raise-at-a-225-billion-valuatio
 embedding_id: 2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Tenstorrent closed a $1.5 billion Series E at a $6.2 billion valuation. It plans
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer]] · [[2026-10-19-october-20-2026-pitchbook]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]]
+**Related:** [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer]] · [[2026-10-19-october-20-2026-pitchbook]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-11-20-databricks-in-early-talks-to-raise-at-a-225-billion-valuatio]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: '[November 20, 2026] · [DealBook]'
 date: '2026-11-20'
 source: '[CNBC]'
 url_original: https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec
-url_canonical: https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html
-url_status: repaired
+url_canonical: https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec
+url_status: broken
 digest_source: digests\raw\2026-11-20_070938_Final-Daily-AI-News-Digest.md
 content_hash: c175be52c0d2be85b7fa59834ef97c959cb1632a37b40bbf1571b80aa81790a6
 normalized_title_hash: ed138c0a84faf836
@@ -20,12 +20,9 @@ themes:
 - company-investments
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-11-18-november-19-2026-pitchbook
-- 2026-11-13-november-13-2026-wall-street-journal-2
-- 2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900-billio
+dedupe_status: duplicate
+canonical_article_id: 2026-11-20-anthropic-falls-8-5-on-its-first-full-trading-day-as-tech-st
+related_article_ids: []
 embedding_id: 2026-11-20-november-20-2026-dealbook
 event_name: ''
 ---
@@ -39,5 +36,5 @@ Anthropic opened on Nasdaq Thursday at $111.50, 34% above its $83 IPO price, and
 
 **Entities:** [[Anthropic]] · [[Samsung]] · [[TSMC]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-18-november-19-2026-pitchbook]] · [[2026-11-13-november-13-2026-wall-street-journal-2]] · [[2026-11-15-anthropic-heads-into-thursday-s-nasdaq-debut-with-900-billio]]
+**Canonical:** [[2026-11-20-anthropic-falls-8-5-on-its-first-full-trading-day-as-tech-st]]
 <!-- graph:end -->

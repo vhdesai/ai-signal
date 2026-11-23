@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
+- 2026-11-20-oracle-says-its-openai-buildout-is-fully-funded-as-capital-r
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-09-03-data-center-dollars-chase-quantum-infrastructure
-- 2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit
 embedding_id: 2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ PitchBook reported that private equity is following the AI data-center boom into
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-09-03-data-center-dollars-chase-quantum-infrastructure]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]]
+**Related:** [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-11-20-oracle-says-its-openai-buildout-is-fully-funded-as-capital-r]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-09-03-data-center-dollars-chase-quantum-infrastructure]]
 <!-- graph:end -->

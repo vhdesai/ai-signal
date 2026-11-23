@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-10-google-faces-ai-s-impact-on-its-search-advertising-business
+- 2026-11-22-google-s-ai-search-features-slow-its-ad-growth-and-the-pain
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 - 2026-09-29-the-information-google-tests-paying-100-digital-publishers-f
-- 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 embedding_id: 2026-11-10-advertisers-say-ai-chatbots-are-starting-to-dent-google-s-22
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Some advertisers tell The Information that part of their Google search budgets n
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-11-10-google-faces-ai-s-impact-on-its-search-advertising-business]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]]
+**Related:** [[2026-11-10-google-faces-ai-s-impact-on-its-search-advertising-business]] · [[2026-11-22-google-s-ai-search-features-slow-its-ad-growth-and-the-pain]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f]]
 <!-- graph:end -->

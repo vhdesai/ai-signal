@@ -23,8 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-21-amazon-nears-a-7-5-billion-deal-for-israeli-ai-efficiency-st
+- 2026-11-21-november-21-2026-financial-times
 - 2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou
-- 2026-05-18-decart-raises-300m-at-4b-valuation-for-real-time-generative
+- 2026-11-22-november-23-2026-calcalist
 embedding_id: 2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition
 event_name: ''
 ---
@@ -38,5 +40,5 @@ Reuters relayed WSJ reporting that Amazon is in talks to acquire AI startup Deca
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou]] · [[2026-05-18-decart-raises-300m-at-4b-valuation-for-real-time-generative]]
+**Related:** [[2026-11-21-amazon-nears-a-7-5-billion-deal-for-israeli-ai-efficiency-st]] · [[2026-11-21-november-21-2026-financial-times]] · [[2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou]] · [[2026-11-22-november-23-2026-calcalist]]
 <!-- graph:end -->

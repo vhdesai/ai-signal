@@ -22,7 +22,7 @@ canonical_article_id: 2026-11-01-anthropic-s-s-1-locks-in-founder-control-and-un
 related_article_ids:
 - 2026-11-01-anthropic-s-ipo-filing-commits-founder-stock-and-company-equ
 - 2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda
-- 2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven
+- 2026-11-20-november-20-2026-anthropic
 embedding_id: 2026-11-01-november-1-2026-pitchbook
 event_name: ''
 ---
@@ -37,5 +37,5 @@ PitchBook notes that Anthropic's seven cofounders will hold 50.1% of voting powe
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-11-01-anthropic-s-s-1-locks-in-founder-control-and-unusual-equity]]
-**Related:** [[2026-11-01-anthropic-s-ipo-filing-commits-founder-stock-and-company-equ]] · [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda]] · [[2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven]]
+**Related:** [[2026-11-01-anthropic-s-ipo-filing-commits-founder-stock-and-company-equ]] · [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda]] · [[2026-11-20-november-20-2026-anthropic]]
 <!-- graph:end -->

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 239
+member_count: 242
 ---
 
 # IBM
 
-> Auto-generated entity hub. 239 connected article(s).
+> Auto-generated entity hub. 242 connected article(s).
 
+- `2026-11-23` [[2026-11-23-mit-s-slic-uses-a-small-language-model-to-speed-up-analog-ch|MIT's SLIC uses a small language model to speed up analog chip design]]
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
 - `2026-11-18` [[2026-11-18-november-18-2026-the-information-2|[November 18, 2026] · [The Information]]]
 - `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
 - `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]

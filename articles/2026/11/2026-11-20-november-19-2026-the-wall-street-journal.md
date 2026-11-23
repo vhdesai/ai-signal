@@ -4,8 +4,8 @@ title: '[November 19, 2026] · [The Wall Street Journal]'
 date: '2026-11-20'
 source: '[DealBook]'
 url_original: https://www.yahoo.com/news/politics/articles/california-suit-against-openai-could-100000038.html
-url_canonical: https://thewallstreetjournal.pressreader.com/the-wall-street-journal-1015/20261111
-url_status: repaired
+url_canonical: https://www.yahoo.com/news/politics/articles/california-suit-against-openai-could-100000038.html
+url_status: broken
 digest_source: digests\raw\2026-11-20_070938_Final-Daily-AI-News-Digest.md
 content_hash: 567e8ecbdef3f580b64bd95bdb25574a7e3732052c2c61970098138788e7cace
 normalized_title_hash: 1fb83b6922b22d1e

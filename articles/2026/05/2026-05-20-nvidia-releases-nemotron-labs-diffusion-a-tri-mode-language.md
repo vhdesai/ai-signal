@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-11-20-november-19-2026-the-information-3
-- 2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo
+- 2026-11-20-nvidia-open-sources-nemotron-labs-sigma-a-family-of-continuo
 embedding_id: 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA researchers introduced Nemotron-Labs-Diffusion, a model family unifying t
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-11-20-november-19-2026-the-information-3]] · [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo]]
+**Related:** [[2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-11-20-november-19-2026-the-information-3]] · [[2026-11-20-nvidia-open-sources-nemotron-labs-sigma-a-family-of-continuo]]
 <!-- graph:end -->

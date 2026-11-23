@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-10-nvidia-s-selloff-highlights-governance-and-concentration-ris
 - 2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors
-- 2026-11-15-axios-estimates-the-cost-of-nvidia-s-near-30-share-decline-o
-- 2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f
-- 2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen
+- 2026-11-23-november-23-2026-cnbc
+- 2026-11-20-nvidia-drops-14-on-reported-sec-accounting-probe-extending-i
+- 2026-11-20-nvidia-s-sharp-selloff-adds-pressure-to-the-ai-trade
 embedding_id: 2026-11-09-nvidia-s-share-decline-puts-governance-and-litigation-risk-i
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CNN reports that Nvidia shares closed about 4.3% lower after falling as much as 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Related:** [[2026-11-10-nvidia-s-selloff-highlights-governance-and-concentration-ris]] · [[2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors]] · [[2026-11-15-axios-estimates-the-cost-of-nvidia-s-near-30-share-decline-o]] · [[2026-11-09-nvidia-s-crisis-turns-legal-and-political-fbi-interest-the-f]] · [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen]]
+**Related:** [[2026-11-10-nvidia-s-selloff-highlights-governance-and-concentration-ris]] · [[2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors]] · [[2026-11-23-november-23-2026-cnbc]] · [[2026-11-20-nvidia-drops-14-on-reported-sec-accounting-probe-extending-i]] · [[2026-11-20-nvidia-s-sharp-selloff-adds-pressure-to-the-ai-trade]]
 <!-- graph:end -->

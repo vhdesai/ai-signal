@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-u-s-moves-to-ban-chinese-data-center-components
 - 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
 - 2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote
-- 2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo
+- 2026-11-20-trump-signals-penalties-for-us-companies-building-data-cente
 embedding_id: 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Trump administration is considering a ban on Chinese-made devices used in US
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote]] · [[2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo]]
+**Related:** [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote]] · [[2026-11-20-trump-signals-penalties-for-us-companies-building-data-cente]]
 <!-- graph:end -->

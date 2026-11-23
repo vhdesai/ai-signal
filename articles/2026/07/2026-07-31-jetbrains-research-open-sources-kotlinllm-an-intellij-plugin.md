@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
 - 2026-10-21-llm-d-1-0-lands-as-a-production-distributed-inference-stack
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
+- 2026-11-20-open-weight-wave-thinking-machines-inkling-2-mini-baseten-s
 - 2026-09-23-nokia-open-sources-anyjev-a-training-free-layer-that-turns-a
-- 2026-10-24-cognition-open-sources-a-vulnerability-fix-plugin-for-recent
 embedding_id: 2026-07-31-jetbrains-research-open-sources-kotlinllm-an-intellij-plugin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ JetBrains Research open-sourced KotlinLLM (Apache-2.0), an IntelliJ IDEA plugin 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-10-21-llm-d-1-0-lands-as-a-production-distributed-inference-stack]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-09-23-nokia-open-sources-anyjev-a-training-free-layer-that-turns-a]] · [[2026-10-24-cognition-open-sources-a-vulnerability-fix-plugin-for-recent]]
+**Related:** [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-10-21-llm-d-1-0-lands-as-a-production-distributed-inference-stack]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-11-20-open-weight-wave-thinking-machines-inkling-2-mini-baseten-s]] · [[2026-09-23-nokia-open-sources-anyjev-a-training-free-layer-that-turns-a]]
 <!-- graph:end -->

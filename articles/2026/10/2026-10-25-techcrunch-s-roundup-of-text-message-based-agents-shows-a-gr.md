@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-24-messaging-native-ai-agents-are-expanding-as-a-distribution-m
+- 2026-11-21-messaging-based-ai-assistants-broaden-personal-channel-data
 - 2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
 - 2026-09-25-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
-- 2026-06-04-apple-approves-first-ai-agent-on-messages-for-business
 embedding_id: 2026-10-25-techcrunch-s-roundup-of-text-message-based-agents-shows-a-gr
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch’s roundup of text-message-based agents shows a growing competitive 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-24-messaging-native-ai-agents-are-expanding-as-a-distribution-m]] · [[2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-09-25-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business]]
+**Related:** [[2026-10-24-messaging-native-ai-agents-are-expanding-as-a-distribution-m]] · [[2026-11-21-messaging-based-ai-assistants-broaden-personal-channel-data]] · [[2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-09-25-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]]
 <!-- graph:end -->

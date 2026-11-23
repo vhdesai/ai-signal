@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-01-deepseek-open-sources-dsh-superagent-a-coding-agent-that-run
 - 2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod
+- 2026-11-20-metr-reports-longer-task-horizons-with-important-measurement
 - 2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model
 - 2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at
-- 2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra
 embedding_id: 2026-06-26-epoch-ai-and-metr-launch-mirrorcode-a-long-horizon-coding-be
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MirrorCode, co-developed by Epoch AI and METR, tasks models with reimplementing 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-11-01-deepseek-open-sources-dsh-superagent-a-coding-agent-that-run]] · [[2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod]] · [[2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model]] · [[2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at]] · [[2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra]]
+**Related:** [[2026-11-01-deepseek-open-sources-dsh-superagent-a-coding-agent-that-run]] · [[2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod]] · [[2026-11-20-metr-reports-longer-task-horizons-with-important-measurement]] · [[2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model]] · [[2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at]]
 <!-- graph:end -->

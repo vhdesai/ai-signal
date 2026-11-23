@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-20-anthropic-s-post-ipo-decline-tests-investor-appetite-for-ai
 - 2026-09-14-anthropic-picks-nasdaq-for-potential-ipo
-- 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
-- 2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i
-- 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits
-- 2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion
+- 2026-11-20-the-ai-trade-cracks-nasdaq-loses-more-than-4-trillion-in-a-w
+- 2026-11-20-anthropic-falls-8-5-on-its-first-full-trading-day-as-tech-st
+- 2026-11-20-the-ai-trade-cracks-nasdaq-sheds-4-trillion-in-a-week-as-ant
 embedding_id: 2026-06-02-u-s-futures-slip-after-ai-driven-record-highs
 event_name: ''
 ---
@@ -40,5 +40,5 @@ U.S. stock futures pointed lower Tuesday after major indexes hit all-time highs 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i]] · [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits]] · [[2026-11-10-anthropic-s-proposed-ipo-could-raise-about-64-4-billion]]
+**Related:** [[2026-11-20-anthropic-s-post-ipo-decline-tests-investor-appetite-for-ai]] · [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo]] · [[2026-11-20-the-ai-trade-cracks-nasdaq-loses-more-than-4-trillion-in-a-w]] · [[2026-11-20-anthropic-falls-8-5-on-its-first-full-trading-day-as-tech-st]] · [[2026-11-20-the-ai-trade-cracks-nasdaq-sheds-4-trillion-in-a-week-as-ant]]
 <!-- graph:end -->

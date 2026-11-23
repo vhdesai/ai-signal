@@ -1,14 +1,25 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 572
+member_count: 583
 ---
 
 # Apple
 
-> Auto-generated entity hub. 572 connected article(s).
+> Auto-generated entity hub. 583 connected article(s).
 
+- `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-google-s-ai-search-features-slow-its-ad-growth-and-the-pain|Google's AI search features slow its ad growth, and the pain spreads to Apple and Reddit]]
+- `2026-11-21` [[2026-11-21-signal-expands-screenshot-blocking-to-limit-exposure-to-plat|Signal expands screenshot blocking to limit exposure to platform AI agents]]
+- `2026-11-21` [[2026-11-21-nvidia-strong-business-results-meet-leadership-and-china-unc|Nvidia: strong business results meet leadership and China uncertainty]]
+- `2026-11-21` [[2026-11-21-attackers-ai-agents-exploit-a-zero-day-in-11-minutes-as-sign|Attackers' AI agents exploit a zero-day in 11 minutes as Signal blocks screenshots to keep OS agents out]]
 - `2026-11-20` [[2026-11-20-november-19-2026-9to5mac|[November 19, 2026] · [9to5Mac]]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
+- `2026-11-20` [[2026-11-20-nvidia-drops-14-on-reported-sec-accounting-probe-extending-i|Nvidia drops 14% on reported SEC accounting probe, extending its longest losing streak since 2008]]
+- `2026-11-20` [[2026-11-20-inkling-2-mini-brings-open-weights-and-long-context-to-a-loo|Inkling 2 Mini brings open weights and long context to a looped architecture]]
+- `2026-11-20` [[2026-11-20-house-report-cursor-maker-exploring-a-phase-out-of-chinese-o|House report: Cursor maker exploring a phase-out of Chinese open-weight models]]
+- `2026-11-20` [[2026-11-20-cursor-reportedly-weighs-phasing-out-chinese-developed-ai-mo|Cursor reportedly weighs phasing out Chinese-developed AI models]]
 - `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-19` [[2026-11-19-after-weeks-of-disruptions-an-faa-nationwide-ground-stop-app|After weeks of disruptions — an FAA nationwide ground stop, Apple Pay and NASA communications failures, and a near two-day outage of Outlook, Teams and Copilot — officials and the companies involved say none were cyberattacks. Security veterans such as former McAfee CEO Dave DeWalt argue AI tools are surfacing vulnerabilities at unprecedented speed, and the resulting rush to patch is causing short-term breakage.]]

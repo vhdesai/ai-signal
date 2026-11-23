@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
 - 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
 - 2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin
-- 2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption
+- 2026-11-21-ai-cluster-reliability-depends-on-coordinated-release-operat
 embedding_id: 2026-07-29-waymo-an-ai-project-isn-t-ready-until-its-evals-are
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Waymo detailed how it treats AI evaluation as continuous engineering rather than
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin]] · [[2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption]]
+**Related:** [[2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin]] · [[2026-11-21-ai-cluster-reliability-depends-on-coordinated-release-operat]]
 <!-- graph:end -->

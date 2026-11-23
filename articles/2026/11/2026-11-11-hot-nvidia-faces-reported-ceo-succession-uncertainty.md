@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-11-13-nvidia-startup-funding-faces-uncertainty-after-huang-departu
 - 2026-11-12-november-12-2026-dealbook
 - 2026-11-14-tech-leaders-press-nvidia-to-reinstate-jensen-huang
-- 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i
+- 2026-11-21-nvidia-strong-business-results-meet-leadership-and-china-unc
 embedding_id: 2026-11-11-hot-nvidia-faces-reported-ceo-succession-uncertainty
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reports that Nvidia’s board is preparing for a possible replacement
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan]] · [[2026-11-13-nvidia-startup-funding-faces-uncertainty-after-huang-departu]] · [[2026-11-12-november-12-2026-dealbook]] · [[2026-11-14-tech-leaders-press-nvidia-to-reinstate-jensen-huang]] · [[2026-11-12-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-steps-i]]
+**Related:** [[2026-11-13-nvidia-s-startup-financing-role-faces-uncertainty-after-huan]] · [[2026-11-13-nvidia-startup-funding-faces-uncertainty-after-huang-departu]] · [[2026-11-12-november-12-2026-dealbook]] · [[2026-11-14-tech-leaders-press-nvidia-to-reinstate-jensen-huang]] · [[2026-11-21-nvidia-strong-business-results-meet-leadership-and-china-unc]]
 <!-- graph:end -->

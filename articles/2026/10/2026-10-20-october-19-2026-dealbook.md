@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-19-fundingworkplace-agentstown-raises-108-million-as-workplace
+- 2026-11-21-november-20-2026-the-wall-street-journal
 - 2026-10-21-october-22-2026-dealbook
 - 2026-11-09-november-9-2026-pitchbook
 - 2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac
-- 2026-10-29-october-30-2026-pitchbook
 embedding_id: 2026-10-20-october-19-2026-dealbook
 event_name: ''
 ---
@@ -36,5 +36,5 @@ DealBook reports that Town raised $108 million at a $1 billion valuation in a ro
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-10-19-fundingworkplace-agentstown-raises-108-million-as-workplace]] · [[2026-10-21-october-22-2026-dealbook]] · [[2026-11-09-november-9-2026-pitchbook]] · [[2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac]] · [[2026-10-29-october-30-2026-pitchbook]]
+**Related:** [[2026-10-19-fundingworkplace-agentstown-raises-108-million-as-workplace]] · [[2026-11-21-november-20-2026-the-wall-street-journal]] · [[2026-10-21-october-22-2026-dealbook]] · [[2026-11-09-november-9-2026-pitchbook]] · [[2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac]]
 <!-- graph:end -->

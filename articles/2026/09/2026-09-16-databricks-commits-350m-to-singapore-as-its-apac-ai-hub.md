@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-20-databricks-in-early-talks-to-raise-at-a-225-billion-valuatio
 - 2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight
 embedding_id: 2026-09-16-databricks-commits-350m-to-singapore-as-its-apac-ai-hub
 event_name: ''
@@ -35,5 +36,5 @@ Databricks will invest $350M+ (up to $445M per some sources) in Singapore, expan
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight]]
+**Related:** [[2026-11-20-databricks-in-early-talks-to-raise-at-a-225-billion-valuatio]] · [[2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight]]
 <!-- graph:end -->

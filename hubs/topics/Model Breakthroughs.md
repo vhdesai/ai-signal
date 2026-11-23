@@ -1,15 +1,45 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3910
+member_count: 3940
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3910 connected article(s).
+> Auto-generated topic hub. 3940 connected article(s).
 
+- `2026-11-23` [[2026-11-23-mit-s-slic-uses-a-small-language-model-to-speed-up-analog-ch|MIT's SLIC uses a small language model to speed up analog chip design]]
+- `2026-11-23` [[2026-11-23-architect-labs-frostbite-is-a-cpu-for-interaction-nets-desig|Architect Labs' Frostbite is a CPU for interaction nets designed end to end by AI agents]]
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]
+- `2026-11-21` [[2026-11-21-thinking-machines-releases-inkling-2-mini-a-26b-looped-moe-t|Thinking Machines releases Inkling 2 Mini, a 26B looped MoE that runs on a 32GB Mac]]
+- `2026-11-21` [[2026-11-21-openai-ships-gpt-live-1-1-in-the-api-with-a-cheaper-standby|OpenAI ships GPT-Live-1.1 in the API with a cheaper standby mode for idle calls]]
+- `2026-11-21` [[2026-11-21-inkling-2-mini-analysis-examines-prospects-for-local-ai-codi|Inkling 2 Mini analysis examines prospects for local AI coding]]
+- `2026-11-21` [[2026-11-21-ai-cluster-reliability-depends-on-coordinated-release-operat|AI cluster reliability depends on coordinated release operations]]
+- `2026-11-20` [[2026-11-20-november-21-2026-marktechpost|[November 21, 2026] · [MarkTechPost]]]
+- `2026-11-20` [[2026-11-20-november-20-2026-scientific-american|[November 20, 2026] · [Scientific American]]]
+- `2026-11-20` [[2026-11-20-november-20-2026-metr|[November 20, 2026] · [METR]]]
 - `2026-11-20` [[2026-11-20-november-19-2026-the-information-3|[November 19, 2026] · [The Information]]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
+- `2026-11-20` [[2026-11-20-thinking-machines-open-sources-inkling-2-mini-a-looped-model|Thinking Machines open-sources Inkling 2 Mini, a looped model that runs on a laptop]]
 - `2026-11-20` [[2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod|Tencent opens the weights of its flagship Hy4 multimodal model]]
+- `2026-11-20` [[2026-11-20-oracle-says-openai-contract-funding-is-secured|Oracle says OpenAI contract funding is secured]]
+- `2026-11-20` [[2026-11-20-nvidia-open-sources-nemotron-labs-sigma-a-family-of-continuo|Nvidia open-sources Nemotron-Labs-Sigma, a family of continuous diffusion language models]]
+- `2026-11-20` [[2026-11-20-medchembench-tests-medicinal-chemistry-reasoning-not-drug-di|MedChemBench tests medicinal-chemistry reasoning, not drug-discovery success]]
+- `2026-11-20` [[2026-11-20-mit-method-guarantees-ai-models-of-chaotic-systems-stay-phys|MIT method guarantees AI models of chaotic systems stay physically bounded]]
+- `2026-11-20` [[2026-11-20-mit-keeps-ai-models-of-chaotic-systems-within-physically-pos|MIT keeps AI models of chaotic systems within physically possible bounds]]
+- `2026-11-20` [[2026-11-20-mit-guarantees-that-ai-models-of-chaotic-systems-stay-within|MIT guarantees that AI models of chaotic systems stay within physically possible bounds]]
+- `2026-11-20` [[2026-11-20-metr-frontier-models-now-match-or-beat-skilled-humans-on-its|METR: frontier models now match or beat skilled humans on its coding tasks, and rapid AI R&D acceleration can't be ruled out]]
+- `2026-11-20` [[2026-11-20-metr-says-frontier-models-now-match-or-beat-skilled-humans-o|METR says frontier models now match or beat skilled humans on its coding tasks and cannot rule out rapid AI R&D acceleration]]
+- `2026-11-20` [[2026-11-20-metr-reports-longer-task-horizons-with-important-measurement|METR reports longer task horizons, with important measurement limits]]
+- `2026-11-20` [[2026-11-20-inkling-2-mini-brings-open-weights-and-long-context-to-a-loo|Inkling 2 Mini brings open weights and long context to a looped architecture]]
+- `2026-11-20` [[2026-11-20-house-report-cursor-maker-exploring-a-phase-out-of-chinese-o|House report: Cursor maker exploring a phase-out of Chinese open-weight models]]
+- `2026-11-20` [[2026-11-20-house-report-maps-us-reliance-on-chinese-open-models-as-a-to|House report maps US reliance on Chinese open models as a top senator faults Commerce over chip smuggling]]
+- `2026-11-20` [[2026-11-20-attackers-ai-agents-found-and-exploited-a-zero-day-in-11-min|Attackers' AI agents found and exploited a zero-day in 11 minutes as Signal walls off OS-level assistants]]
+- `2026-11-20` [[2026-11-20-anthropic-mathematician-releases-a-lean-verified-riemann-hyp|Anthropic mathematician releases a Lean-verified Riemann hypothesis proof built with Claude]]
+- `2026-11-20` [[2026-11-20-anthropic-closes-ipo-and-concurrent-private-placement|Anthropic closes IPO and concurrent private placement]]
+- `2026-11-20` [[2026-11-20-an-anthropic-mathematician-posts-a-claude-assisted-lean-veri|An Anthropic mathematician posts a Claude-assisted, Lean-verified proof of the Riemann hypothesis]]
+- `2026-11-20` [[2026-11-20-an-anthropic-mathematician-posts-a-claude-assisted-lean-chec|An Anthropic mathematician posts a Claude-assisted, Lean-checked proof of the Riemann hypothesis]]
 - `2026-11-19` [[2026-11-19-november-18-2026-google|[November 18, 2026] · [Google]]]
 - `2026-11-19` [[2026-11-19-meta-fair-s-self-improving-memory-lets-agents-write-then-lea|Meta FAIR's Self-Improving Memory lets agents write, then learn, their own memory strategy]]
 - `2026-11-19` [[2026-11-19-mit-led-team-uses-llms-to-audit-code-sharing-across-nearly-4|MIT-led team uses LLMs to audit code sharing across nearly 4,000 medical AI studies]]

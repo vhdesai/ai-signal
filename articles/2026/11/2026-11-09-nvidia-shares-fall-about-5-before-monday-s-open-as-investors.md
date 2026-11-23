@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen
 - 2026-11-15-axios-estimates-the-cost-of-nvidia-s-near-30-share-decline-o
 - 2026-11-09-nvidia-s-share-decline-puts-governance-and-litigation-risk-i
+- 2026-11-20-nvidia-drops-14-on-reported-sec-accounting-probe-extending-i
 - 2026-11-17-november-16-2026-wall-street-journal
-- 2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke
 embedding_id: 2026-11-09-nvidia-shares-fall-about-5-before-monday-s-open-as-investors
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Just after 8 a.m. ET, Nvidia was down about 5% in premarket trading, pointing to
 
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen]] · [[2026-11-15-axios-estimates-the-cost-of-nvidia-s-near-30-share-decline-o]] · [[2026-11-09-nvidia-s-share-decline-puts-governance-and-litigation-risk-i]] · [[2026-11-17-november-16-2026-wall-street-journal]] · [[2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke]]
+**Related:** [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen]] · [[2026-11-15-axios-estimates-the-cost-of-nvidia-s-near-30-share-decline-o]] · [[2026-11-09-nvidia-s-share-decline-puts-governance-and-litigation-risk-i]] · [[2026-11-20-nvidia-drops-14-on-reported-sec-accounting-probe-extending-i]] · [[2026-11-17-november-16-2026-wall-street-journal]]
 <!-- graph:end -->

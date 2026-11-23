@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-22-google-s-ai-search-features-slow-its-ad-growth-and-the-pain
 - 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
 - 2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r
 - 2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s
 - 2026-10-30-october-29-2026-techcrunch
-- 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 embedding_id: 2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Reddit reported strong revenue and net income, but shares fell after management 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-10-30-october-29-2026-techcrunch]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]]
+**Related:** [[2026-11-22-google-s-ai-search-features-slow-its-ad-growth-and-the-pain]] · [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r]] · [[2026-10-25-ai-s-financial-payoff-beyond-big-tech-remains-difficult-to-s]] · [[2026-10-30-october-29-2026-techcrunch]]
 <!-- graph:end -->

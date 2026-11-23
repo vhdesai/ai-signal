@@ -42,7 +42,7 @@ related_article_ids:
 - 2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe
 - 2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs
 - 2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red
-- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+- 2026-11-20-anthropic-closes-its-93-5-billion-ipo-with-founder-controls
 embedding_id: 2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc
 event_name: ''
 ---
@@ -56,5 +56,5 @@ Anthropic Crosses $30B ARR and Acquires Biotech Startup; Huawei Ascend 950PR Ach
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Baidu]] · [[ByteDance]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]] · [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs]] · [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
+**Related:** [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]] · [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs]] · [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]] · [[2026-11-20-anthropic-closes-its-93-5-billion-ipo-with-founder-controls]]
 <!-- graph:end -->

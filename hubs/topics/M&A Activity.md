@@ -1,14 +1,24 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 569
+member_count: 579
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 569 connected article(s).
+> Auto-generated topic hub. 579 connected article(s).
 
+- `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-23` [[2026-11-23-november-23-2026-cnbc-2|[November 23, 2026] · [CNBC]]]
+- `2026-11-23` [[2026-11-23-november-22-2026-wired|[November 22, 2026] · [WIRED]]]
+- `2026-11-22` [[2026-11-22-november-23-2026-calcalist|[November 23, 2026] · [Calcalist]]]
+- `2026-11-22` [[2026-11-22-google-previews-tool-retrieval-in-the-gemini-api-for-agents|Google previews Tool Retrieval in the Gemini API for agents with large tool libraries]]
+- `2026-11-21` [[2026-11-21-november-21-2026-financial-times|[November 21, 2026] · [Financial Times]]]
+- `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]
+- `2026-11-21` [[2026-11-21-amazon-nears-a-7-5-billion-deal-for-israeli-ai-efficiency-st|Amazon nears a $7.5 billion deal for Israeli AI-efficiency startup Decart]]
 - `2026-11-20` [[2026-11-20-november-19-2026-the-information-3|[November 19, 2026] · [The Information]]]
+- `2026-11-20` [[2026-11-20-softbank-s-masayoshi-son-explored-a-1-trillion-moonshot-buyo|SoftBank's Masayoshi Son explored a $1 trillion moonshot buyout of SK Hynix]]
+- `2026-11-20` [[2026-11-20-softbank-s-masayoshi-son-explored-a-1-trillion-buyout-of-mem|SoftBank's Masayoshi Son explored a $1 trillion buyout of memory maker SK Hynix]]
 - `2026-11-19` [[2026-11-19-november-18-2026-wall-street-journal-2|[November 18, 2026] · [Wall Street Journal]]]
 - `2026-11-18` [[2026-11-18-palo-alto-networks-targets-enterprise-model-infrastructure-w|Palo Alto Networks targets enterprise model infrastructure with acquisition]]
 - `2026-11-16` [[2026-11-16-openai-explored-a-5-billion-plus-acquisition-of-goodfire-a-s|OpenAI explored a $5 billion-plus acquisition of Goodfire, a startup that decodes how AI models think]]

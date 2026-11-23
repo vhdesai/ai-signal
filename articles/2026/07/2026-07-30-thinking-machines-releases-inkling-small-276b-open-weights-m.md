@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-thinking-machines-releases-inkling-small-a-276b-open-weights
+- 2026-11-20-thinking-machines-open-sources-inkling-2-mini-a-looped-model
 - 2026-08-01-venturebeat-reports-that-thinking-machines-led-by-former-ope
-- 2026-07-15-thinking-machines-releases-inkling-its-first-open-weight-mod
-- 2026-07-16-thinking-machines-lab-releases-inkling-a-975b-parameter-open
+- 2026-11-20-november-21-2026-marktechpost
 embedding_id: 2026-07-30-thinking-machines-releases-inkling-small-276b-open-weights-m
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Thinking Machines Lab released Inkling-Small, a 276B-parameter multimodal reason
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-30-thinking-machines-releases-inkling-small-a-276b-open-weights]] · [[2026-08-01-venturebeat-reports-that-thinking-machines-led-by-former-ope]] · [[2026-07-15-thinking-machines-releases-inkling-its-first-open-weight-mod]] · [[2026-07-16-thinking-machines-lab-releases-inkling-a-975b-parameter-open]]
+**Related:** [[2026-07-30-thinking-machines-releases-inkling-small-a-276b-open-weights]] · [[2026-11-20-thinking-machines-open-sources-inkling-2-mini-a-looped-model]] · [[2026-08-01-venturebeat-reports-that-thinking-machines-led-by-former-ope]] · [[2026-11-20-november-21-2026-marktechpost]]
 <!-- graph:end -->

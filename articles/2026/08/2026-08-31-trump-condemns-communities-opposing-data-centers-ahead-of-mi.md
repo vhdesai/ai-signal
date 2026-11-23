@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-75-of-americans-now-oppose-data-centers-up-from-42-a-year-ag
+- 2026-11-20-trump-signals-penalties-for-us-companies-building-data-cente
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue
 - 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
@@ -36,5 +37,5 @@ President Trump said communities that reject data centers will end up “backwar
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-22-75-of-americans-now-oppose-data-centers-up-from-42-a-year-ag]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]]
+**Related:** [[2026-08-22-75-of-americans-now-oppose-data-centers-up-from-42-a-year-ag]] · [[2026-11-20-trump-signals-penalties-for-us-companies-building-data-cente]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-11-01-opposition-to-data-centers-becomes-a-midterm-election-issue]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]]
 <!-- graph:end -->

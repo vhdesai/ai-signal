@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-20-metr-reports-longer-task-horizons-with-important-measurement
 - 2026-11-06-openai-introduces-biobasicsbench-for-routine-laboratory-anal
 - 2026-11-16-databricks-launches-a-weekly-index-of-enterprise-ai-usage-an
 - 2026-11-09-nvidia-reports-few-demonstration-robotics-results-with-gr00t
 - 2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu
-- 2026-11-16-november-16-2026-google-threat-intelligence-group
 embedding_id: 2026-11-01-gdpx-tests-agents-on-long-horizon-professional-tasks
 event_name: ''
 ---
@@ -34,5 +34,5 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-11-06-openai-introduces-biobasicsbench-for-routine-laboratory-anal]] · [[2026-11-16-databricks-launches-a-weekly-index-of-enterprise-ai-usage-an]] · [[2026-11-09-nvidia-reports-few-demonstration-robotics-results-with-gr00t]] · [[2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu]] · [[2026-11-16-november-16-2026-google-threat-intelligence-group]]
+**Related:** [[2026-11-20-metr-reports-longer-task-horizons-with-important-measurement]] · [[2026-11-06-openai-introduces-biobasicsbench-for-routine-laboratory-anal]] · [[2026-11-16-databricks-launches-a-weekly-index-of-enterprise-ai-usage-an]] · [[2026-11-09-nvidia-reports-few-demonstration-robotics-results-with-gr00t]] · [[2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu]]
 <!-- graph:end -->

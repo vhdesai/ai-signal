@@ -1,15 +1,33 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 2038
+member_count: 2056
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 2038 connected article(s).
+> Auto-generated topic hub. 2056 connected article(s).
 
+- `2026-11-22` [[2026-11-22-november-23-2026-the-wall-street-journal|[November 23, 2026] · [The Wall Street Journal]]]
+- `2026-11-22` [[2026-11-22-november-23-2026-calcalist|[November 23, 2026] · [Calcalist]]]
+- `2026-11-21` [[2026-11-21-november-21-2026-financial-times|[November 21, 2026] · [Financial Times]]]
+- `2026-11-21` [[2026-11-21-november-20-2026-oracle|[November 20, 2026] · [Oracle]]]
+- `2026-11-21` [[2026-11-21-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]
+- `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]
+- `2026-11-21` [[2026-11-21-amazon-nears-a-7-5-billion-deal-for-israeli-ai-efficiency-st|Amazon nears a $7.5 billion deal for Israeli AI-efficiency startup Decart]]
 - `2026-11-20` [[2026-11-20-november-20-2026-dealbook|[November 20, 2026] · [DealBook]]]
 - `2026-11-20` [[2026-11-20-november-19-2026-global-times|[November 19, 2026] · [Global Times]]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
+- `2026-11-20` [[2026-11-20-trump-threatens-a-tremendous-tax-on-us-companies-that-build|Trump threatens a "tremendous tax" on US companies that build data centers abroad]]
+- `2026-11-20` [[2026-11-20-trump-signals-penalties-for-us-companies-building-data-cente|Trump signals penalties for US companies building data centers overseas]]
+- `2026-11-20` [[2026-11-20-the-ai-trade-cracks-nasdaq-sheds-4-trillion-in-a-week-as-ant|The AI trade cracks: Nasdaq sheds $4 trillion in a week as Anthropic gives back its debut pop]]
+- `2026-11-20` [[2026-11-20-the-ai-trade-cracks-nasdaq-loses-more-than-4-trillion-in-a-w|The AI trade cracks: Nasdaq loses more than $4 trillion in a week as Anthropic slides on its second day]]
+- `2026-11-20` [[2026-11-20-softbank-s-masayoshi-son-explored-a-1-trillion-moonshot-buyo|SoftBank's Masayoshi Son explored a $1 trillion moonshot buyout of SK Hynix]]
+- `2026-11-20` [[2026-11-20-softbank-s-masayoshi-son-explored-a-1-trillion-buyout-of-mem|SoftBank's Masayoshi Son explored a $1 trillion buyout of memory maker SK Hynix]]
+- `2026-11-20` [[2026-11-20-oracle-says-its-openai-infrastructure-commitment-is-fully-fu|Oracle says its OpenAI infrastructure commitment is fully funded]]
+- `2026-11-20` [[2026-11-20-oracle-says-its-openai-buildout-is-fully-funded-as-capital-r|Oracle says its OpenAI buildout is fully funded as capital rotates into AI's physical layer]]
+- `2026-11-20` [[2026-11-20-meta-reconsiders-its-2030-net-zero-goal-as-ai-data-center-em|Meta reconsiders its 2030 net-zero goal as AI data center emissions hit a record]]
+- `2026-11-20` [[2026-11-20-anthropic-falls-8-5-on-its-first-full-trading-day-as-tech-st|Anthropic falls 8.5% on its first full trading day as tech stocks sell off]]
 - `2026-11-19` [[2026-11-19-november-20-2026-dealbook-2|[November 20, 2026] · [DealBook]]]
 - `2026-11-19` [[2026-11-19-november-20-2026-dealbook|[November 20, 2026] · [DealBook]]]
 - `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]

@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen
 - 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
 - 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
+- 2026-11-20-databricks-in-early-talks-to-raise-at-a-225-billion-valuatio
 - 2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da
 embedding_id: 2026-08-25-emerald-ai-raises-150m-at-1-05b-to-make-data-centers-flexibl
 event_name: ''
@@ -38,5 +39,5 @@ Washington, D.C.-based Emerald AI closed an oversubscribed $150 million round at
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo]] · [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da]]
+**Related:** [[2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo]] · [[2026-11-20-databricks-in-early-talks-to-raise-at-a-225-billion-valuatio]] · [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da]]
 <!-- graph:end -->

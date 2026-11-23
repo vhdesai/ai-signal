@@ -22,8 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-25-claude-computes-a-nine-loop-scattering-amplitude-one-loop-pa
+- 2026-11-20-an-anthropic-mathematician-posts-a-claude-assisted-lean-veri
 - 2026-08-11-anthropic-reports-an-unreleased-claude-model-advanced-a-riem
-- 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
+- 2026-11-20-an-anthropic-mathematician-posts-a-claude-assisted-lean-chec
 embedding_id: 2026-09-25-claude-computes-a-nine-loop-scattering-amplitude-beating-the
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Anthropic published a guest post by physicist Matt von Hippel reporting that Cla
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-25-claude-computes-a-nine-loop-scattering-amplitude-one-loop-pa]] · [[2026-08-11-anthropic-reports-an-unreleased-claude-model-advanced-a-riem]] · [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]]
+**Related:** [[2026-09-25-claude-computes-a-nine-loop-scattering-amplitude-one-loop-pa]] · [[2026-11-20-an-anthropic-mathematician-posts-a-claude-assisted-lean-veri]] · [[2026-08-11-anthropic-reports-an-unreleased-claude-model-advanced-a-riem]] · [[2026-11-20-an-anthropic-mathematician-posts-a-claude-assisted-lean-chec]]
 <!-- graph:end -->

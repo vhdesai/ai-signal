@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
+- 2026-11-20-nvidia-drops-14-on-reported-sec-accounting-probe-extending-i
 - 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
 - 2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c
-- 2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a
 embedding_id: 2026-07-17-apple-overtakes-nvidia-as-the-world-s-most-valuable-company
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple reclaimed the top spot at roughly $4.88T as a semiconductor sell-off pulle
 
 **Entities:** [[Apple]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c]] · [[2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a]]
+**Related:** [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-11-20-nvidia-drops-14-on-reported-sec-accounting-probe-extending-i]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c]]
 <!-- graph:end -->

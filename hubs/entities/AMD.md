@@ -1,14 +1,25 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 166
+member_count: 177
 ---
 
 # AMD
 
-> Auto-generated entity hub. 166 connected article(s).
+> Auto-generated entity hub. 177 connected article(s).
 
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-21` [[2026-11-21-november-21-2026-dealbook|[November 21, 2026] · [DealBook]]]
 - `2026-11-20` [[2026-11-20-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]
+- `2026-11-20` [[2026-11-20-november-20-2026-anthropic|[November 20, 2026] · [Anthropic]]]
+- `2026-11-20` [[2026-11-20-the-ai-trade-cracks-nasdaq-sheds-4-trillion-in-a-week-as-ant|The AI trade cracks: Nasdaq sheds $4 trillion in a week as Anthropic gives back its debut pop]]
+- `2026-11-20` [[2026-11-20-the-ai-trade-cracks-nasdaq-loses-more-than-4-trillion-in-a-w|The AI trade cracks: Nasdaq loses more than $4 trillion in a week as Anthropic slides on its second day]]
+- `2026-11-20` [[2026-11-20-nvidia-sinks-14-on-a-reported-sec-accounting-probe-extending|Nvidia sinks 14% on a reported SEC accounting probe, extending its longest losing streak since 2008]]
+- `2026-11-20` [[2026-11-20-nvidia-sinks-14-on-a-reported-sec-accounting-probe-as-its-go|Nvidia sinks 14% on a reported SEC accounting probe as its governance crisis deepens]]
+- `2026-11-20` [[2026-11-20-nvidia-drops-14-on-reported-sec-accounting-probe-extending-i|Nvidia drops 14% on reported SEC accounting probe, extending its longest losing streak since 2008]]
+- `2026-11-20` [[2026-11-20-anthropic-falls-8-5-on-its-first-full-trading-day-as-tech-st|Anthropic falls 8.5% on its first full trading day as tech stocks sell off]]
+- `2026-11-20` [[2026-11-20-anthropic-closes-its-93-5-billion-ipo-with-founder-controls|Anthropic closes its $93.5 billion IPO with founder controls that make leadership hard to oust]]
+- `2026-11-20` [[2026-11-20-anthropic-closes-its-93-5-billion-ipo-with-a-dual-class-stru|Anthropic closes its $93.5 billion IPO with a dual-class structure that makes its founders hard to oust]]
 - `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-19` [[2026-11-19-openai-says-its-models-improved-amd-s-flagship-gpu-design-by|OpenAI says its models improved AMD's flagship GPU design by up to 14% and shrank its own Jalapeno chip]]

@@ -1,13 +1,23 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 357
+member_count: 367
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 357 connected article(s).
+> Auto-generated entity hub. 367 connected article(s).
 
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-21` [[2026-11-21-november-20-2026-oracle|[November 20, 2026] · [Oracle]]]
+- `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
+- `2026-11-20` [[2026-11-20-trump-threatens-a-tremendous-tax-on-us-companies-that-build|Trump threatens a "tremendous tax" on US companies that build data centers abroad]]
+- `2026-11-20` [[2026-11-20-t-mobile-s-agent-experience-favors-narrowly-routed-context-o|T-Mobile’s agent experience favors narrowly routed context over more documents]]
+- `2026-11-20` [[2026-11-20-oracle-says-its-openai-infrastructure-commitment-is-fully-fu|Oracle says its OpenAI infrastructure commitment is fully funded]]
+- `2026-11-20` [[2026-11-20-oracle-says-its-openai-buildout-is-fully-funded-as-capital-r|Oracle says its OpenAI buildout is fully funded as capital rotates into AI's physical layer]]
+- `2026-11-20` [[2026-11-20-oracle-says-openai-contract-funding-is-secured|Oracle says OpenAI contract funding is secured]]
+- `2026-11-20` [[2026-11-20-cursor-reportedly-weighs-phasing-out-chinese-developed-ai-mo|Cursor reportedly weighs phasing out Chinese-developed AI models]]
 - `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
 - `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]

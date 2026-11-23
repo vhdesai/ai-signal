@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-11-06-mit-reports-chemeleon-s-data-efficient-molecular-property-pr
 - 2026-10-30-q-a-hey-ai-who-should-i-vote-for-this-year
 - 2026-11-18-openai-reports-model-written-optimizations-entering-chip-des
-- 2026-11-13-new-ai-copilot-helps-engineers-design-better-structures
+- 2026-11-20-metr-reports-longer-task-horizons-with-important-measurement
 embedding_id: 2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT described an ongoing survey comparing accelerator performance and power from
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-11-06-mit-reports-chemeleon-s-data-efficient-molecular-property-pr]] · [[2026-10-30-q-a-hey-ai-who-should-i-vote-for-this-year]] · [[2026-11-18-openai-reports-model-written-optimizations-entering-chip-des]] · [[2026-11-13-new-ai-copilot-helps-engineers-design-better-structures]]
+**Related:** [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-11-06-mit-reports-chemeleon-s-data-efficient-molecular-property-pr]] · [[2026-10-30-q-a-hey-ai-who-should-i-vote-for-this-year]] · [[2026-11-18-openai-reports-model-written-optimizations-entering-chip-des]] · [[2026-11-20-metr-reports-longer-task-horizons-with-important-measurement]]
 <!-- graph:end -->

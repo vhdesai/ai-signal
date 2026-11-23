@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-18-november-18-2026-wall-street-journal
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
-- 2026-09-11-positron-ai-raises-875m-at-a-5b-valuation-for-memory-first-i
-- 2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token
+- 2026-11-21-november-20-2026-oracle
+- 2026-11-20-oracle-says-its-openai-buildout-is-fully-funded-as-capital-r
 embedding_id: 2026-11-18-palo-alto-networks-targets-enterprise-model-infrastructure-w
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Palo Alto Networks agreed to acquire Applied Compute in an all-stock transaction
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-11-18-november-18-2026-wall-street-journal]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-09-11-positron-ai-raises-875m-at-a-5b-valuation-for-memory-first-i]] · [[2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token]]
+**Related:** [[2026-11-18-november-18-2026-wall-street-journal]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-11-21-november-20-2026-oracle]] · [[2026-11-20-oracle-says-its-openai-buildout-is-fully-funded-as-capital-r]]
 <!-- graph:end -->

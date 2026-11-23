@@ -24,10 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-20-meta-reconsiders-its-2030-net-zero-goal-as-ai-data-center-em
 - 2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu
 - 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing
 - 2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a
-- 2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g
 embedding_id: 2026-11-12-meta-uses-long-term-commitments-to-support-cleaner-data-cent
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta announced commitments supporting lower-carbon cement, near-zero-emission st
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing]] · [[2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a]] · [[2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g]]
+**Related:** [[2026-11-20-meta-reconsiders-its-2030-net-zero-goal-as-ai-data-center-em]] · [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing]] · [[2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a]]
 <!-- graph:end -->

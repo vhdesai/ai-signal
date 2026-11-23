@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-10-19-october-20-2026-pitchbook
 - 2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t
 - 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
+- 2026-11-20-databricks-in-early-talks-to-raise-at-a-225-billion-valuatio
 - 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
 embedding_id: 2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer
 event_name: ''
@@ -40,5 +41,5 @@ Tenstorrent raised $1.5 billion at a $6.2 billion valuation in a round led by Tr
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-10-19-october-20-2026-pitchbook]] · [[2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]]
+**Related:** [[2026-10-19-october-20-2026-pitchbook]] · [[2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-11-20-databricks-in-early-talks-to-raise-at-a-225-billion-valuatio]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]]
 <!-- graph:end -->

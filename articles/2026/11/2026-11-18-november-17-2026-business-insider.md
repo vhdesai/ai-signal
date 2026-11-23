@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-11-18-november-17-2026-business-insider-2
 - 2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o
 - 2026-11-17-november-16-2026-the-information
+- 2026-11-23-november-23-2026-cnbc
 - 2026-11-09-november-9-2026-dealbook
-- 2026-11-19-november-18-2026-wall-street-journal-2
 embedding_id: 2026-11-18-november-17-2026-business-insider
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Hours after Jensen Huang said he would be honored to return as CEO, board chair 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-18-november-17-2026-business-insider-2]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]] · [[2026-11-17-november-16-2026-the-information]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-19-november-18-2026-wall-street-journal-2]]
+**Related:** [[2026-11-18-november-17-2026-business-insider-2]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]] · [[2026-11-17-november-16-2026-the-information]] · [[2026-11-23-november-23-2026-cnbc]] · [[2026-11-09-november-9-2026-dealbook]]
 <!-- graph:end -->

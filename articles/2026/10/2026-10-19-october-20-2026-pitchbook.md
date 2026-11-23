@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t
 - 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
+- 2026-11-21-november-20-2026-the-wall-street-journal
 embedding_id: 2026-10-19-october-20-2026-pitchbook
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Tenstorrent raised $1.5 billion at a $6.2 billion valuation in a round led by Tr
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer]] · [[2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]]
+**Related:** [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer]] · [[2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-11-21-november-20-2026-the-wall-street-journal]]
 <!-- graph:end -->

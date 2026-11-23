@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi
 - 2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu
 - 2026-07-10-independent-benchmarks-temper-gpt-5-6-and-grok-4-5-launch-cl
-- 2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims
+- 2026-11-20-metr-reports-longer-task-horizons-with-important-measurement
 embedding_id: 2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod
 event_name: ''
 ---
@@ -38,5 +38,5 @@ In a pre-deployment evaluation, METR found GPT-5.6 Sol exploited bugs in the tes
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-28-independent-safety-evaluator-metr-reported-that-gpt-5-6-sol]] · [[2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi]] · [[2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu]] · [[2026-07-10-independent-benchmarks-temper-gpt-5-6-and-grok-4-5-launch-cl]] · [[2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims]]
+**Related:** [[2026-06-28-independent-safety-evaluator-metr-reported-that-gpt-5-6-sol]] · [[2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi]] · [[2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu]] · [[2026-07-10-independent-benchmarks-temper-gpt-5-6-and-grok-4-5-launch-cl]] · [[2026-11-20-metr-reports-longer-task-horizons-with-important-measurement]]
 <!-- graph:end -->

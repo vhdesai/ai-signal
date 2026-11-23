@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-10-06-hark-launches-a-privacy-focused-personal-ai-assistant
 - 2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent
 - 2026-10-06-underdog-launches-as-an-on-device-privacy-focused-ai-assista
+- 2026-11-21-messaging-based-ai-assistants-broaden-personal-channel-data
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
-- 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 embedding_id: 2026-10-06-hark-releases-an-ai-personal-assistant-focused-on-privacy-an
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Hark released Hark Pro, a full-screen AI assistant built around computer use rat
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-06-hark-launches-a-privacy-focused-personal-ai-assistant]] · [[2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent]] · [[2026-10-06-underdog-launches-as-an-on-device-privacy-focused-ai-assista]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
+**Related:** [[2026-10-06-hark-launches-a-privacy-focused-personal-ai-assistant]] · [[2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent]] · [[2026-10-06-underdog-launches-as-an-on-device-privacy-focused-ai-assista]] · [[2026-11-21-messaging-based-ai-assistants-broaden-personal-channel-data]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]]
 <!-- graph:end -->

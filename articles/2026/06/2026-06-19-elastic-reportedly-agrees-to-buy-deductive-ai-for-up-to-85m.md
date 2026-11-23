@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
 - 2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
+- 2026-11-21-amazon-nears-a-7-5-billion-deal-for-israeli-ai-efficiency-st
 - 2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion
-- 2026-08-25-agentic-web-search-infrastructure-startup-keenable-raises-26
 embedding_id: 2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Elastic has reportedly agreed to acquire Deductive AI, a startup applying AI to 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-08-25-agentic-web-search-infrastructure-startup-keenable-raises-26]]
+**Related:** [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-11-21-amazon-nears-a-7-5-billion-deal-for-israeli-ai-efficiency-st]] · [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]]
 <!-- graph:end -->

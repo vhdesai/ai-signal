@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-11-06-november-6-2026-business-insider-2
-- 2026-11-17-november-16-2026-wall-street-journal
-- 2026-11-16-november-16-2026-pitchbook
+- 2026-11-21-november-20-2026-cnbc
+- 2026-11-22-november-23-2026-the-wall-street-journal
 embedding_id: 2026-11-06-november-6-2026-business-insider
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Stocks reversed sharply on Thursday as fears centered on AI companies: the Nasda
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-06-november-6-2026-business-insider-2]] · [[2026-11-17-november-16-2026-wall-street-journal]] · [[2026-11-16-november-16-2026-pitchbook]]
+**Related:** [[2026-11-06-november-6-2026-business-insider-2]] · [[2026-11-21-november-20-2026-cnbc]] · [[2026-11-22-november-23-2026-the-wall-street-journal]]
 <!-- graph:end -->

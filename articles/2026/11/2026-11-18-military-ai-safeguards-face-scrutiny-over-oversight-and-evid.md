@@ -44,8 +44,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 - 2026-11-17-vals-reports-gaps-in-safeguards-around-weapons-related-workf
+- 2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices
 - 2026-10-01-researchers-report-failed-agent-probes-of-government-website
-- 2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti
 embedding_id: 2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid
 event_name: ''
 ---
@@ -59,5 +59,5 @@ TIME reports that a Palantir white paper promotes civilian-harm-mitigation workf
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr]] · [[2026-11-17-vals-reports-gaps-in-safeguards-around-weapons-related-workf]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]] · [[2026-11-02-uk-ai-security-institute-researcher-says-ai-models-are-getti]]
+**Related:** [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr]] · [[2026-11-17-vals-reports-gaps-in-safeguards-around-weapons-related-workf]] · [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]]
 <!-- graph:end -->

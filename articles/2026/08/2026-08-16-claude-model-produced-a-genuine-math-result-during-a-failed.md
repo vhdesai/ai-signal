@@ -19,8 +19,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-15-wsj-ai-achieves-another-math-breakthrough-on-riemann-hypothe
-- 2026-08-11-anthropic-reports-an-unreleased-claude-model-advanced-a-riem
+- 2026-11-20-an-anthropic-mathematician-posts-a-claude-assisted-lean-veri
+- 2026-11-20-an-anthropic-mathematician-posts-a-claude-assisted-lean-chec
+- 2026-11-20-mathematicians-scrutinize-an-ai-assisted-riemann-hypothesis
 embedding_id: 2026-08-16-claude-model-produced-a-genuine-math-result-during-a-failed
 event_name: ''
 ---
@@ -33,5 +34,5 @@ The Journal reports that a Claude model, prompted over a 54-hour session by a no
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-15-wsj-ai-achieves-another-math-breakthrough-on-riemann-hypothe]] · [[2026-08-11-anthropic-reports-an-unreleased-claude-model-advanced-a-riem]]
+**Related:** [[2026-11-20-an-anthropic-mathematician-posts-a-claude-assisted-lean-veri]] · [[2026-11-20-an-anthropic-mathematician-posts-a-claude-assisted-lean-chec]] · [[2026-11-20-mathematicians-scrutinize-an-ai-assisted-riemann-hypothesis]]
 <!-- graph:end -->

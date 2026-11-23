@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-26-bill-gates-warns-about-ai-risks
+- 2026-11-23-november-23-2026-wsj-pro-cybersecurity-2
 - 2026-11-14-november-13-2026-wsj-pro-cybersecurity
 - 2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern
-- 2026-11-17-november-18-2026-the-information
 embedding_id: 2026-08-18-wsj-deep-dive-trump-s-privateer-hacking-plan-brings-high-ris
 event_name: ''
 ---
@@ -40,5 +40,5 @@ WSJ Pro CyberSecurity follows up on last week's Trump memo authorizing corporate
 
 **Entities:** [[Databricks]] · [[NVIDIA]] · [[Tesla]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-11-14-november-13-2026-wsj-pro-cybersecurity]] · [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern]] · [[2026-11-17-november-18-2026-the-information]]
+**Related:** [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2]] · [[2026-11-14-november-13-2026-wsj-pro-cybersecurity]] · [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern]]
 <!-- graph:end -->

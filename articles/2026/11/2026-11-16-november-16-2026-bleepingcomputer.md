@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-04-september-5-2026-bleepingcomputer
 - 2026-11-16-november-16-2026-google-threat-intelligence-group
 - 2026-10-23-security-leaders-warn-of-faster-flaw-discovery
-- 2026-10-21-october-22-2026-wsj-pro-cybersecurity
+- 2026-11-20-attackers-ai-agents-found-and-exploited-a-zero-day-in-11-min
 embedding_id: 2026-11-16-november-16-2026-bleepingcomputer
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Google joined the FBI in warning that agentic AI frameworks such as the Artex pe
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-19-november-19-2026-wsj-pro-cybersecurity]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-11-16-november-16-2026-google-threat-intelligence-group]] · [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]] · [[2026-10-21-october-22-2026-wsj-pro-cybersecurity]]
+**Related:** [[2026-11-19-november-19-2026-wsj-pro-cybersecurity]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-11-16-november-16-2026-google-threat-intelligence-group]] · [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]] · [[2026-11-20-attackers-ai-agents-found-and-exploited-a-zero-day-in-11-min]]
 <!-- graph:end -->

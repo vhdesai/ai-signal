@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-13-databricks-raises-5b-at-190b-valuation-as-annualized-revenue
 - 2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b
 - 2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of
-- 2026-08-14-databricks-closes-5b-at-a-190b-valuation-as-annualized-reven
+- 2026-11-20-databricks-in-early-talks-to-raise-at-a-225-billion-valuatio
 embedding_id: 2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Databricks holds the #3 spot on CNBC's 2026 Disruptor 50 (behind Anthropic and O
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-annualized-revenue]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b]] · [[2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of]] · [[2026-08-14-databricks-closes-5b-at-a-190b-valuation-as-annualized-reven]]
+**Related:** [[2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-annualized-revenue]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b]] · [[2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of]] · [[2026-11-20-databricks-in-early-talks-to-raise-at-a-225-billion-valuatio]]
 <!-- graph:end -->

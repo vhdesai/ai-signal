@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-to-reduce-reas
+- 2026-11-21-thinking-machines-releases-inkling-2-mini-a-26b-looped-moe-t
 - 2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex
+- 2026-11-20-november-21-2026-marktechpost
 - 2026-07-30-thinking-machines-releases-inkling-small-276b-open-weights-m
-- 2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch
-- 2026-05-17-an-open-source-project-called-orthrus-qwen3-claims-up-to-7-8
 embedding_id: 2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-rea
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A fine-tune of Qwen3.8-27B optimised purely for shorter reasoning traces: across
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-to-reduce-reas]] · [[2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex]] · [[2026-07-30-thinking-machines-releases-inkling-small-276b-open-weights-m]] · [[2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch]] · [[2026-05-17-an-open-source-project-called-orthrus-qwen3-claims-up-to-7-8]]
+**Related:** [[2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-to-reduce-reas]] · [[2026-11-21-thinking-machines-releases-inkling-2-mini-a-26b-looped-moe-t]] · [[2026-11-16-alibaba-introduces-qwen4-max-with-a-one-million-token-contex]] · [[2026-11-20-november-21-2026-marktechpost]] · [[2026-07-30-thinking-machines-releases-inkling-small-276b-open-weights-m]]
 <!-- graph:end -->

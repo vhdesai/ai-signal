@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Cohere
-member_count: 31
+member_count: 32
 ---
 
 # Cohere
 
-> Auto-generated entity hub. 31 connected article(s).
+> Auto-generated entity hub. 32 connected article(s).
 
+- `2026-11-20` [[2026-11-20-house-report-cursor-maker-exploring-a-phase-out-of-chinese-o|House report: Cursor maker exploring a phase-out of Chinese open-weight models]]
 - `2026-11-02` [[2026-11-02-new-york-times-sues-brave-alleging-it-scraped-content-and-so|New York Times sues Brave, alleging it scraped content and sold it to AI companies]]
 - `2026-10-30` [[2026-10-30-october-29-2026-techcrunch|[October 29, 2026] · [TechCrunch]]]
 - `2026-10-29` [[2026-10-29-october-30-2026-pitchbook|[October 30, 2026] · [PitchBook]]]

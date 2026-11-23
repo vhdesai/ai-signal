@@ -20,8 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-24-washington-s-message-to-ai-execs-please-shut-up
+- 2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices
 - 2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf
-- 2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern
+- 2026-11-22-executive-interviews-highlight-ai-era-cyber-disruption-conce
 embedding_id: 2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Axios reports unchecked healthcare agents raise privacy and safety concerns as a
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up]] · [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf]] · [[2026-11-14-analysis-nvidia-controversy-raises-executive-security-govern]]
+**Related:** [[2026-10-24-washington-s-message-to-ai-execs-please-shut-up]] · [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices]] · [[2026-11-10-fireworks-exposure-and-hugging-face-warning-sharpen-ai-platf]] · [[2026-11-22-executive-interviews-highlight-ai-era-cyber-disruption-conce]]
 <!-- graph:end -->

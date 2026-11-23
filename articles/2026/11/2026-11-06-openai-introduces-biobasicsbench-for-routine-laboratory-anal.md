@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-11-06-ai-for-science-gets-measured-and-agents-still-fabricate
 - 2026-10-19-advancing-coding-in-low-resource-programming-languages
 - 2026-11-17-november-17-2026-openai
+- 2026-11-20-medchembench-tests-medicinal-chemistry-reasoning-not-drug-di
 embedding_id: 2026-11-06-openai-introduces-biobasicsbench-for-routine-laboratory-anal
 event_name: ''
 ---
@@ -36,5 +37,5 @@ OpenAI and Ligo introduce 100 raw-data laboratory tasks. OpenAI reports 66.7% cr
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-06-ai-for-science-gets-measured-and-agents-still-fabricate]] · [[2026-10-19-advancing-coding-in-low-resource-programming-languages]] · [[2026-11-17-november-17-2026-openai]]
+**Related:** [[2026-11-06-ai-for-science-gets-measured-and-agents-still-fabricate]] · [[2026-10-19-advancing-coding-in-low-resource-programming-languages]] · [[2026-11-17-november-17-2026-openai]] · [[2026-11-20-medchembench-tests-medicinal-chemistry-reasoning-not-drug-di]]
 <!-- graph:end -->

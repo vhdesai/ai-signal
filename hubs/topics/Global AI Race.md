@@ -1,17 +1,39 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1850
+member_count: 1872
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1850 connected article(s).
+> Auto-generated topic hub. 1872 connected article(s).
 
+- `2026-11-23` [[2026-11-23-november-23-2026-cnbc|[November 23, 2026] · [CNBC]]]
+- `2026-11-22` [[2026-11-22-november-22-2026-afp|[November 22, 2026] · [AFP]]]
+- `2026-11-22` [[2026-11-22-november-21-2026-investing-com|[November 21, 2026] · [Investing.com]]]
+- `2026-11-22` [[2026-11-22-the-ai-selloff-goes-global-taiwan-bans-short-sales-after-the|The AI selloff goes global: Taiwan bans short sales after the Taiex's worst week since 1991 as Chinese AI stocks shed $1.7 trillion]]
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-ai-cheating-upends-education-south-korea-s-education-ministe|AI cheating upends education: South Korea's education minister resigns as Caltech stops grading homework for accuracy]]
+- `2026-11-21` [[2026-11-21-november-21-2026-the-wall-street-journal|[November 21, 2026] · [The Wall Street Journal]]]
+- `2026-11-21` [[2026-11-21-wsj-traces-an-alleged-nvidia-chip-smuggling-network-to-an-as|WSJ traces an alleged Nvidia chip-smuggling network to an associate of Alice Huang]]
+- `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]
+- `2026-11-21` [[2026-11-21-signal-expands-screenshot-blocking-to-limit-exposure-to-plat|Signal expands screenshot blocking to limit exposure to platform AI agents]]
+- `2026-11-21` [[2026-11-21-nvidia-strong-business-results-meet-leadership-and-china-unc|Nvidia: strong business results meet leadership and China uncertainty]]
+- `2026-11-21` [[2026-11-21-nvidia-coverage-separates-operating-momentum-from-governance|Nvidia coverage separates operating momentum from governance risk]]
+- `2026-11-20` [[2026-11-20-november-20-2026-unite-ai|[November 20, 2026] · [Unite.AI]]]
+- `2026-11-20` [[2026-11-20-november-20-2026-hacked-com|[November 20, 2026] · [Hacked.com]]]
 - `2026-11-20` [[2026-11-20-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]
 - `2026-11-20` [[2026-11-20-november-19-2026-the-wall-street-journal|[November 19, 2026] · [The Wall Street Journal]]]
 - `2026-11-20` [[2026-11-20-november-19-2026-global-times|[November 19, 2026] · [Global Times]]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
 - `2026-11-20` [[2026-11-20-tencent-opens-the-weights-of-its-flagship-hy4-multimodal-mod|Tencent opens the weights of its flagship Hy4 multimodal model]]
+- `2026-11-20` [[2026-11-20-sen-tom-cotton-says-lutnick-repeatedly-ignored-his-warnings|Sen. Tom Cotton says Lutnick repeatedly ignored his warnings about Nvidia chips reaching China]]
+- `2026-11-20` [[2026-11-20-mistral-opens-a-singapore-science-hub-and-plans-to-double-it|Mistral opens a Singapore science hub and plans to double its Asia-Pacific staff]]
+- `2026-11-20` [[2026-11-20-house-report-cursor-maker-exploring-a-phase-out-of-chinese-o|House report: Cursor maker exploring a phase-out of Chinese open-weight models]]
+- `2026-11-20` [[2026-11-20-house-report-pushes-us-companies-off-chinese-open-weight-mod|House report pushes US companies off Chinese open-weight models as Cursor explores a phase-out]]
+- `2026-11-20` [[2026-11-20-house-report-maps-us-reliance-on-chinese-open-models-as-a-to|House report maps US reliance on Chinese open models as a top senator faults Commerce over chip smuggling]]
+- `2026-11-20` [[2026-11-20-cursor-reportedly-weighs-phasing-out-chinese-developed-ai-mo|Cursor reportedly weighs phasing out Chinese-developed AI models]]
+- `2026-11-20` [[2026-11-20-attackers-ai-agents-found-and-exploited-a-zero-day-in-11-min|Attackers' AI agents found and exploited a zero-day in 11 minutes as Signal walls off OS-level assistants]]
 - `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-19` [[2026-11-19-november-18-2026-wall-street-journal-2|[November 18, 2026] · [Wall Street Journal]]]

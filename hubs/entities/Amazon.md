@@ -1,13 +1,27 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 827
+member_count: 841
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 827 connected article(s).
+> Auto-generated entity hub. 841 connected article(s).
 
+- `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-22` [[2026-11-22-november-23-2026-calcalist|[November 23, 2026] · [Calcalist]]]
+- `2026-11-22` [[2026-11-22-november-22-2026-afp|[November 22, 2026] · [AFP]]]
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-ai-cheating-upends-education-south-korea-s-education-ministe|AI cheating upends education: South Korea's education minister resigns as Caltech stops grading homework for accuracy]]
+- `2026-11-21` [[2026-11-21-november-21-2026-financial-times|[November 21, 2026] · [Financial Times]]]
+- `2026-11-21` [[2026-11-21-attackers-ai-agents-exploit-a-zero-day-in-11-minutes-as-sign|Attackers' AI agents exploit a zero-day in 11 minutes as Signal blocks screenshots to keep OS agents out]]
+- `2026-11-21` [[2026-11-21-amazon-nears-a-7-5-billion-deal-for-israeli-ai-efficiency-st|Amazon nears a $7.5 billion deal for Israeli AI-efficiency startup Decart]]
+- `2026-11-20` [[2026-11-20-november-20-2026-hacked-com|[November 20, 2026] · [Hacked.com]]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
+- `2026-11-20` [[2026-11-20-trump-threatens-a-tremendous-tax-on-us-companies-that-build|Trump threatens a "tremendous tax" on US companies that build data centers abroad]]
+- `2026-11-20` [[2026-11-20-meta-reconsiders-its-2030-net-zero-goal-as-ai-data-center-em|Meta reconsiders its 2030 net-zero goal as AI data center emissions hit a record]]
+- `2026-11-20` [[2026-11-20-house-report-cursor-maker-exploring-a-phase-out-of-chinese-o|House report: Cursor maker exploring a phase-out of Chinese open-weight models]]
+- `2026-11-20` [[2026-11-20-attackers-ai-agents-found-and-exploited-a-zero-day-in-11-min|Attackers' AI agents found and exploited a zero-day in 11 minutes as Signal walls off OS-level assistants]]
 - `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-20-2026-cio-dive|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]

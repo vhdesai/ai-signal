@@ -22,6 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-11-09-november-9-2026-dealbook-2
 related_article_ids:
 - 2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n
+- 2026-11-22-november-23-2026-the-wall-street-journal
 embedding_id: 2026-11-09-november-9-2026-semafor
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Tech giants, chipmakers and AI clouds have sold or priced more than $300 billion
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-11-09-november-9-2026-dealbook-2]]
-**Related:** [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n]]
+**Related:** [[2026-11-08-ai-s-capital-appetite-meets-a-tiring-market-300-billion-of-n]] · [[2026-11-22-november-23-2026-the-wall-street-journal]]
 <!-- graph:end -->

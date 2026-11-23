@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor
 - 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 - 2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e
-- 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
+- 2026-11-20-oracle-says-its-openai-buildout-is-fully-funded-as-capital-r
 embedding_id: 2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Oracle's official newsroom highlighted Heathrow, Kent, and MTN as enterprise ref
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an]] · [[2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e]] · [[2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a]]
+**Related:** [[2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an]] · [[2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e]] · [[2026-11-20-oracle-says-its-openai-buildout-is-fully-funded-as-capital-r]]
 <!-- graph:end -->

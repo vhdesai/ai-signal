@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-07-17-apple-overtakes-nvidia-as-the-world-s-most-valuable-company
 - 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
 - 2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen
+- 2026-11-20-nvidia-s-sharp-selloff-adds-pressure-to-the-ai-trade
 - 2026-11-15-axios-estimates-the-cost-of-nvidia-s-near-30-share-decline-o
-- 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 embedding_id: 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Nvidia fell roughly 5%, allowing Apple to reclaim the top US market-cap spot ami
 
 **Entities:** [[Apple]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-07-17-apple-overtakes-nvidia-as-the-world-s-most-valuable-company]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen]] · [[2026-11-15-axios-estimates-the-cost-of-nvidia-s-near-30-share-decline-o]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
+**Related:** [[2026-07-17-apple-overtakes-nvidia-as-the-world-s-most-valuable-company]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen]] · [[2026-11-20-nvidia-s-sharp-selloff-adds-pressure-to-the-ai-trade]] · [[2026-11-15-axios-estimates-the-cost-of-nvidia-s-near-30-share-decline-o]]
 <!-- graph:end -->

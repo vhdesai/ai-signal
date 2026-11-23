@@ -1,16 +1,56 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1977
+member_count: 2017
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1977 connected article(s).
+> Auto-generated entity hub. 2017 connected article(s).
 
+- `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-23` [[2026-11-23-november-23-2026-cnbc|[November 23, 2026] · [CNBC]]]
+- `2026-11-22` [[2026-11-22-november-23-2026-calcalist|[November 23, 2026] · [Calcalist]]]
+- `2026-11-22` [[2026-11-22-november-22-2026-afp|[November 22, 2026] · [AFP]]]
+- `2026-11-22` [[2026-11-22-november-21-2026-investing-com|[November 21, 2026] · [Investing.com]]]
+- `2026-11-22` [[2026-11-22-the-ai-selloff-goes-global-taiwan-bans-short-sales-after-the|The AI selloff goes global: Taiwan bans short sales after the Taiex's worst week since 1991 as Chinese AI stocks shed $1.7 trillion]]
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-ai-cheating-upends-education-south-korea-s-education-ministe|AI cheating upends education: South Korea's education minister resigns as Caltech stops grading homework for accuracy]]
+- `2026-11-21` [[2026-11-21-november-22-2026-business-insider|[November 22, 2026] · [Business Insider]]]
+- `2026-11-21` [[2026-11-21-november-21-2026-the-wall-street-journal|[November 21, 2026] · [The Wall Street Journal]]]
+- `2026-11-21` [[2026-11-21-november-21-2026-financial-times|[November 21, 2026] · [Financial Times]]]
+- `2026-11-21` [[2026-11-21-november-21-2026-dealbook|[November 21, 2026] · [DealBook]]]
+- `2026-11-21` [[2026-11-21-november-20-2026-oracle|[November 20, 2026] · [Oracle]]]
+- `2026-11-21` [[2026-11-21-wsj-traces-an-alleged-nvidia-chip-smuggling-network-to-an-as|WSJ traces an alleged Nvidia chip-smuggling network to an associate of Alice Huang]]
+- `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]
+- `2026-11-21` [[2026-11-21-signal-expands-screenshot-blocking-to-limit-exposure-to-plat|Signal expands screenshot blocking to limit exposure to platform AI agents]]
+- `2026-11-21` [[2026-11-21-nvidia-strong-business-results-meet-leadership-and-china-unc|Nvidia: strong business results meet leadership and China uncertainty]]
+- `2026-11-21` [[2026-11-21-nvidia-coverage-separates-operating-momentum-from-governance|Nvidia coverage separates operating momentum from governance risk]]
+- `2026-11-21` [[2026-11-21-calls-for-jensen-huang-s-return-grow-including-from-trump-as|Calls for Jensen Huang's return grow, including from Trump, as Nvidia faces an engineer-exodus risk]]
+- `2026-11-21` [[2026-11-21-amazon-nears-a-7-5-billion-deal-for-israeli-ai-efficiency-st|Amazon nears a $7.5 billion deal for Israeli AI-efficiency startup Decart]]
+- `2026-11-20` [[2026-11-20-november-20-2026-unite-ai|[November 20, 2026] · [Unite.AI]]]
 - `2026-11-20` [[2026-11-20-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]
+- `2026-11-20` [[2026-11-20-november-20-2026-anthropic|[November 20, 2026] · [Anthropic]]]
 - `2026-11-20` [[2026-11-20-november-19-2026-the-wall-street-journal|[November 19, 2026] · [The Wall Street Journal]]]
 - `2026-11-20` [[2026-11-20-november-19-2026-the-information-3|[November 19, 2026] · [The Information]]]
+- `2026-11-20` [[2026-11-20-wired-nvidia-s-board-acted-over-huang-s-lack-of-candor-as-a|Wired: Nvidia's board acted over Huang's "lack of candor" as a faction weighs his return]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
+- `2026-11-20` [[2026-11-20-the-ai-trade-cracks-nasdaq-sheds-4-trillion-in-a-week-as-ant|The AI trade cracks: Nasdaq sheds $4 trillion in a week as Anthropic gives back its debut pop]]
+- `2026-11-20` [[2026-11-20-the-ai-trade-cracks-nasdaq-loses-more-than-4-trillion-in-a-w|The AI trade cracks: Nasdaq loses more than $4 trillion in a week as Anthropic slides on its second day]]
+- `2026-11-20` [[2026-11-20-sen-tom-cotton-says-lutnick-repeatedly-ignored-his-warnings|Sen. Tom Cotton says Lutnick repeatedly ignored his warnings about Nvidia chips reaching China]]
+- `2026-11-20` [[2026-11-20-oracle-says-its-openai-infrastructure-commitment-is-fully-fu|Oracle says its OpenAI infrastructure commitment is fully funded]]
+- `2026-11-20` [[2026-11-20-oracle-says-its-openai-buildout-is-fully-funded-as-capital-r|Oracle says its OpenAI buildout is fully funded as capital rotates into AI's physical layer]]
+- `2026-11-20` [[2026-11-20-nvidia-s-sharp-selloff-adds-pressure-to-the-ai-trade|Nvidia's sharp selloff adds pressure to the AI trade]]
+- `2026-11-20` [[2026-11-20-nvidia-sinks-14-on-a-reported-sec-accounting-probe-extending|Nvidia sinks 14% on a reported SEC accounting probe, extending its longest losing streak since 2008]]
+- `2026-11-20` [[2026-11-20-nvidia-sinks-14-on-a-reported-sec-accounting-probe-as-its-go|Nvidia sinks 14% on a reported SEC accounting probe as its governance crisis deepens]]
+- `2026-11-20` [[2026-11-20-nvidia-open-sources-nemotron-labs-sigma-a-family-of-continuo|Nvidia open-sources Nemotron-Labs-Sigma, a family of continuous diffusion language models]]
+- `2026-11-20` [[2026-11-20-nvidia-drops-14-on-reported-sec-accounting-probe-extending-i|Nvidia drops 14% on reported SEC accounting probe, extending its longest losing streak since 2008]]
+- `2026-11-20` [[2026-11-20-house-report-cursor-maker-exploring-a-phase-out-of-chinese-o|House report: Cursor maker exploring a phase-out of Chinese open-weight models]]
+- `2026-11-20` [[2026-11-20-house-report-maps-us-reliance-on-chinese-open-models-as-a-to|House report maps US reliance on Chinese open models as a top senator faults Commerce over chip smuggling]]
+- `2026-11-20` [[2026-11-20-cursor-reportedly-weighs-phasing-out-chinese-developed-ai-mo|Cursor reportedly weighs phasing out Chinese-developed AI models]]
+- `2026-11-20` [[2026-11-20-anthropic-falls-8-5-on-its-first-full-trading-day-as-tech-st|Anthropic falls 8.5% on its first full trading day as tech stocks sell off]]
+- `2026-11-20` [[2026-11-20-anthropic-closes-its-93-5-billion-ipo-with-founder-controls|Anthropic closes its $93.5 billion IPO with founder controls that make leadership hard to oust]]
+- `2026-11-20` [[2026-11-20-anthropic-closes-its-93-5-billion-ipo-with-a-dual-class-stru|Anthropic closes its $93.5 billion IPO with a dual-class structure that makes its founders hard to oust]]
 - `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-19` [[2026-11-19-november-18-2026-wall-street-journal-2|[November 18, 2026] · [Wall Street Journal]]]

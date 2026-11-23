@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-09-november-9-2026-nvidia-blog
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
-- 2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou
+- 2026-11-21-november-20-2026-the-wall-street-journal
 embedding_id: 2026-11-09-physical-ai-s-data-boom-is-a-race-to-get-out-of-the-data-bus
 event_name: ''
 ---
@@ -36,5 +36,5 @@ PitchBook reports that robotics-data suppliers are expanding beyond collection i
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-11-09-november-9-2026-nvidia-blog]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou]]
+**Related:** [[2026-11-09-november-9-2026-nvidia-blog]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-11-21-november-20-2026-the-wall-street-journal]]
 <!-- graph:end -->

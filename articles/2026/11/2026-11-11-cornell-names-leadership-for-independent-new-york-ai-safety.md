@@ -32,9 +32,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati
 - 2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica
+- 2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices
 - 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 - 2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m
-- 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
 embedding_id: 2026-11-11-cornell-names-leadership-for-independent-new-york-ai-safety
 event_name: ''
 ---
@@ -48,5 +48,5 @@ Cornell Tech dean Greg Morrisett has been named interim co-director of the New Y
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Databricks]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]] · [[TSMC]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati]] · [[2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]]
+**Related:** [[2026-11-11-new-york-names-leaders-for-an-independent-ai-safety-evaluati]] · [[2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica]] · [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-10-24-new-cornell-linked-study-examines-political-preferences-in-m]]
 <!-- graph:end -->

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-11-22-executive-interviews-highlight-ai-era-cyber-disruption-conce
 - 2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern
 - 2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit
 - 2026-05-21-two-hours-that-changed-ai-axios-documents-the-historic-may-2
-- 2026-10-23-security-leaders-warn-of-faster-flaw-discovery
-- 2026-10-28-october-28-2026-house-science-committee-democrats
+- 2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices
 embedding_id: 2026-10-24-washington-s-message-to-ai-execs-please-shut-up
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Lawmakers and White House advisers increasingly view AI leaders as political lia
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern]] · [[2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit]] · [[2026-05-21-two-hours-that-changed-ai-axios-documents-the-historic-may-2]] · [[2026-10-23-security-leaders-warn-of-faster-flaw-discovery]] · [[2026-10-28-october-28-2026-house-science-committee-democrats]]
+**Related:** [[2026-11-22-executive-interviews-highlight-ai-era-cyber-disruption-conce]] · [[2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern]] · [[2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit]] · [[2026-05-21-two-hours-that-changed-ai-axios-documents-the-historic-may-2]] · [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices]]
 <!-- graph:end -->

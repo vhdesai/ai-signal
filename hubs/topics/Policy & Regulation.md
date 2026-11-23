@@ -1,15 +1,41 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2482
+member_count: 2508
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2482 connected article(s).
+> Auto-generated topic hub. 2508 connected article(s).
 
+- `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-23` [[2026-11-23-november-22-2026-wired|[November 22, 2026] · [WIRED]]]
+- `2026-11-23` [[2026-11-23-november-22-2026-openai|[November 22, 2026] · [OpenAI]]]
+- `2026-11-22` [[2026-11-22-november-22-2026-bloomberg|[November 22, 2026] · [Bloomberg]]]
+- `2026-11-22` [[2026-11-22-november-22-2026-afp|[November 22, 2026] · [AFP]]]
+- `2026-11-22` [[2026-11-22-sam-altman-s-home-struck-by-gunfire-two-days-after-a-molotov|Sam Altman's home struck by gunfire two days after a Molotov cocktail attack]]
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-openrouter-off-boards-three-inference-providers-and-pulls-12|OpenRouter off-boards three inference providers and pulls 125 endpoints from zero-data-retention eligibility]]
+- `2026-11-22` [[2026-11-22-microsoft-ai-s-suleyman-says-models-now-help-improve-their-s|Microsoft AI's Suleyman says models now help improve their successors, and he's "really, really nervous"]]
+- `2026-11-22` [[2026-11-22-governors-push-for-federal-frontier-ai-rules-that-preserve-s|Governors push for federal frontier-AI rules that preserve state power as a UN-backed safety summit convenes]]
+- `2026-11-22` [[2026-11-22-executive-interviews-highlight-ai-era-cyber-disruption-conce|Executive interviews highlight AI-era cyber-disruption concerns]]
+- `2026-11-22` [[2026-11-22-education-minister-choi-kyo-jin-resigned-sunday-after-critic|Education Minister Choi Kyo-jin resigned Sunday after criticism of last-minute measures to stop AI-assisted cheating on the Suneung college entrance exam. The scramble began when the top scorer on a national tax-accountant exam confessed to cheating with a miniature camera and a smartphone. Officials blocked public Wi-Fi near test sites and covered clothing buttons with stickers, and identified 111 cases of device-related misconduct during the exam; President Lee Jae Myung accepted the resignation.]]
+- `2026-11-22` [[2026-11-22-ai-cheating-upends-education-south-korea-s-education-ministe|AI cheating upends education: South Korea's education minister resigns as Caltech stops grading homework for accuracy]]
+- `2026-11-21` [[2026-11-21-november-21-2026-the-wall-street-journal|[November 21, 2026] · [The Wall Street Journal]]]
+- `2026-11-21` [[2026-11-21-wsj-traces-an-alleged-nvidia-chip-smuggling-network-to-an-as|WSJ traces an alleged Nvidia chip-smuggling network to an associate of Alice Huang]]
+- `2026-11-21` [[2026-11-21-together-ai-says-an-ai-coding-agent-leaked-a-credential-that|Together AI says an AI coding agent leaked a credential that exposed customer prompt samples]]
+- `2026-11-21` [[2026-11-21-nvidia-coverage-separates-operating-momentum-from-governance|Nvidia coverage separates operating momentum from governance risk]]
+- `2026-11-21` [[2026-11-21-attackers-ai-agents-exploit-a-zero-day-in-11-minutes-as-sign|Attackers' AI agents exploit a zero-day in 11 minutes as Signal blocks screenshots to keep OS agents out]]
+- `2026-11-21` [[2026-11-21-ai-cluster-reliability-depends-on-coordinated-release-operat|AI cluster reliability depends on coordinated release operations]]
+- `2026-11-20` [[2026-11-20-november-20-2026-unite-ai|[November 20, 2026] · [Unite.AI]]]
+- `2026-11-20` [[2026-11-20-november-20-2026-hacked-com|[November 20, 2026] · [Hacked.com]]]
 - `2026-11-20` [[2026-11-20-november-20-2026-cnbc|[November 20, 2026] · [CNBC]]]
 - `2026-11-20` [[2026-11-20-november-19-2026-the-wall-street-journal|[November 19, 2026] · [The Wall Street Journal]]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
+- `2026-11-20` [[2026-11-20-signal-president-meredith-whittaker-announced-that-the-app-n|Signal President Meredith Whittaker announced that the app now blocks screenshots by default on iOS 27 to keep built-in assistants such as Siri AI and Gemini from capturing conversations, and on Android automatically turns on screen security when it detects an AI assistant accessing the screen. Signal says it cannot reliably block capture on macOS, recommends that users exclude Signal in Siri settings, calls its fix incomplete, and is urging platform vendors to give developers a simple way to opt out of AI screen access.]]
+- `2026-11-20` [[2026-11-20-sen-tom-cotton-says-lutnick-repeatedly-ignored-his-warnings|Sen. Tom Cotton says Lutnick repeatedly ignored his warnings about Nvidia chips reaching China]]
+- `2026-11-20` [[2026-11-20-metr-reports-longer-task-horizons-with-important-measurement|METR reports longer task horizons, with important measurement limits]]
+- `2026-11-20` [[2026-11-20-house-report-pushes-us-companies-off-chinese-open-weight-mod|House report pushes US companies off Chinese open-weight models as Cursor explores a phase-out]]
 - `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-mit-microrobot-brings-sensing-and-flight-computation-onboard|MIT microrobot brings sensing and flight computation onboard]]
 - `2026-11-19` [[2026-11-19-after-weeks-of-disruptions-an-faa-nationwide-ground-stop-app|After weeks of disruptions — an FAA nationwide ground stop, Apple Pay and NASA communications failures, and a near two-day outage of Outlook, Teams and Copilot — officials and the companies involved say none were cyberattacks. Security veterans such as former McAfee CEO Dave DeWalt argue AI tools are surfacing vulnerabilities at unprecedented speed, and the resulting rush to patch is causing short-term breakage.]]

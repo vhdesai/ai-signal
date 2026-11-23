@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-11-06-access-and-metadata-gaps-wsj-bodies-and-the-information-arti
 - 2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern
 - 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
-- 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
+- 2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices
 embedding_id: 2026-11-06-access-and-coverage-gaps-axios-ai-was-not-effectively-checke
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Access and coverage gaps: Axios AI+ was not effectively checked: searches return
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-10-31-additional-news-source-searches-wsj-ai-axios-ai-aithority-pi]] · [[2026-11-06-access-and-metadata-gaps-wsj-bodies-and-the-information-arti]] · [[2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern]] · [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]]
+**Related:** [[2026-10-31-additional-news-source-searches-wsj-ai-axios-ai-aithority-pi]] · [[2026-11-06-access-and-metadata-gaps-wsj-bodies-and-the-information-arti]] · [[2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern]] · [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices]]
 <!-- graph:end -->

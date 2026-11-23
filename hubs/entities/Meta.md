@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 1060
+member_count: 1067
 ---
 
 # Meta
 
-> Auto-generated entity hub. 1060 connected article(s).
+> Auto-generated entity hub. 1067 connected article(s).
 
+- `2026-11-23` [[2026-11-23-november-22-2026-openai|[November 22, 2026] · [OpenAI]]]
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-21` [[2026-11-21-signal-expands-screenshot-blocking-to-limit-exposure-to-plat|Signal expands screenshot blocking to limit exposure to platform AI agents]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
+- `2026-11-20` [[2026-11-20-trump-threatens-a-tremendous-tax-on-us-companies-that-build|Trump threatens a "tremendous tax" on US companies that build data centers abroad]]
+- `2026-11-20` [[2026-11-20-meta-reconsiders-its-2030-net-zero-goal-as-ai-data-center-em|Meta reconsiders its 2030 net-zero goal as AI data center emissions hit a record]]
+- `2026-11-20` [[2026-11-20-cursor-reportedly-weighs-phasing-out-chinese-developed-ai-mo|Cursor reportedly weighs phasing out Chinese-developed AI models]]
 - `2026-11-19` [[2026-11-19-november-20-2026-dealbook-2|[November 20, 2026] · [DealBook]]]
 - `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-19-2026-the-information|[November 19, 2026] · [The Information]]]

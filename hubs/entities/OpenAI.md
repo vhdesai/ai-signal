@@ -1,15 +1,31 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 3081
+member_count: 3097
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 3081 connected article(s).
+> Auto-generated entity hub. 3097 connected article(s).
 
+- `2026-11-23` [[2026-11-23-november-22-2026-openai|[November 22, 2026] · [OpenAI]]]
+- `2026-11-22` [[2026-11-22-sam-altman-s-home-struck-by-gunfire-two-days-after-a-molotov|Sam Altman's home struck by gunfire two days after a Molotov cocktail attack]]
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-21` [[2026-11-21-november-20-2026-oracle|[November 20, 2026] · [Oracle]]]
+- `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]
+- `2026-11-21` [[2026-11-21-signal-expands-screenshot-blocking-to-limit-exposure-to-plat|Signal expands screenshot blocking to limit exposure to platform AI agents]]
+- `2026-11-21` [[2026-11-21-openai-ships-gpt-live-1-1-in-the-api-with-a-cheaper-standby|OpenAI ships GPT-Live-1.1 in the API with a cheaper standby mode for idle calls]]
+- `2026-11-21` [[2026-11-21-openai-brings-gpt-live-1-1-to-its-api-with-cheaper-standby-b|OpenAI brings GPT-Live-1.1 to its API with cheaper standby billing for voice agents]]
+- `2026-11-21` [[2026-11-21-openai-brings-gpt-live-1-1-to-its-api-with-a-cheaper-standby|OpenAI brings GPT-Live-1.1 to its API with a cheaper standby mode for idle calls]]
 - `2026-11-20` [[2026-11-20-november-19-2026-the-wall-street-journal|[November 19, 2026] · [The Wall Street Journal]]]
 - `2026-11-20` [[2026-11-20-november-19-2026-9to5mac|[November 19, 2026] · [9to5Mac]]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
+- `2026-11-20` [[2026-11-20-oracle-says-its-openai-infrastructure-commitment-is-fully-fu|Oracle says its OpenAI infrastructure commitment is fully funded]]
+- `2026-11-20` [[2026-11-20-oracle-says-its-openai-buildout-is-fully-funded-as-capital-r|Oracle says its OpenAI buildout is fully funded as capital rotates into AI's physical layer]]
+- `2026-11-20` [[2026-11-20-oracle-says-openai-contract-funding-is-secured|Oracle says OpenAI contract funding is secured]]
+- `2026-11-20` [[2026-11-20-medchembench-tests-medicinal-chemistry-reasoning-not-drug-di|MedChemBench tests medicinal-chemistry reasoning, not drug-discovery success]]
+- `2026-11-20` [[2026-11-20-house-report-cursor-maker-exploring-a-phase-out-of-chinese-o|House report: Cursor maker exploring a phase-out of Chinese open-weight models]]
+- `2026-11-20` [[2026-11-20-cursor-reportedly-weighs-phasing-out-chinese-developed-ai-mo|Cursor reportedly weighs phasing out Chinese-developed AI models]]
 - `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-19-2026-wsj-pro-cybersecurity|[November 19, 2026] · [WSJ Pro CyberSecurity]]]
 - `2026-11-19` [[2026-11-19-openai-says-its-models-improved-amd-s-flagship-gpu-design-by|OpenAI says its models improved AMD's flagship GPU design by up to 14% and shrank its own Jalapeno chip]]

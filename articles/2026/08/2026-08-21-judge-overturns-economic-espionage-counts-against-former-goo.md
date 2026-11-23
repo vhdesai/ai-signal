@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 - 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft
 - 2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe
+- 2026-11-21-november-21-2026-the-wall-street-journal
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 embedding_id: 2026-08-21-judge-overturns-economic-espionage-counts-against-former-goo
 event_name: ''
@@ -38,5 +39,5 @@ A federal judge vacated seven economic-espionage convictions against former Goog
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]]
+**Related:** [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe]] · [[2026-11-21-november-21-2026-the-wall-street-journal]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]]
 <!-- graph:end -->

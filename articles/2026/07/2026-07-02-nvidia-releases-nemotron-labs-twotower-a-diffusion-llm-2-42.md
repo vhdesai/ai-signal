@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 - 2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua
 - 2026-11-20-november-19-2026-the-information-3
-- 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
+- 2026-11-20-nvidia-open-sources-nemotron-labs-sigma-a-family-of-continuo
 embedding_id: 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA's research team published open weights and training code for Nemotron-Lab
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua]] · [[2026-11-20-november-19-2026-the-information-3]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]]
+**Related:** [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua]] · [[2026-11-20-november-19-2026-the-information-3]] · [[2026-11-20-nvidia-open-sources-nemotron-labs-sigma-a-family-of-continuo]]
 <!-- graph:end -->

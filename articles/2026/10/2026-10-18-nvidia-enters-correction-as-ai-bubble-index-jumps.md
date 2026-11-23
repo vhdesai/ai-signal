@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade
+- 2026-11-20-nvidia-s-sharp-selloff-adds-pressure-to-the-ai-trade
 - 2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize
 - 2026-08-24-can-nvidia-keep-the-ai-party-going-wsj-preview-ahead-of-earn
-- 2026-08-22-reuters-reports-nvidia-customers-were-notified-of-ai-related
 embedding_id: 2026-10-18-nvidia-enters-correction-as-ai-bubble-index-jumps
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Benzinga reported that Nvidia entered correction territory after a technical bre
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade]] · [[2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize]] · [[2026-08-24-can-nvidia-keep-the-ai-party-going-wsj-preview-ahead-of-earn]] · [[2026-08-22-reuters-reports-nvidia-customers-were-notified-of-ai-related]]
+**Related:** [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade]] · [[2026-11-20-nvidia-s-sharp-selloff-adds-pressure-to-the-ai-trade]] · [[2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize]] · [[2026-08-24-can-nvidia-keep-the-ai-party-going-wsj-preview-ahead-of-earn]]
 <!-- graph:end -->

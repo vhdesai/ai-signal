@@ -5,7 +5,7 @@ date: '2026-11-14'
 source: The Hill
 url_original: https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/
 url_canonical: https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-11-15_061439_Inbox_Daily AI News Digest - November
   15, 2026.md
 content_hash: 674a4ded1f77951482bcc23fdd20abe053adb0d2d35d8b6cddcaf7544b6f26d3
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-11-14-pressure-shifts-to-commerce-as-bessent-says-bis-has-the-pen
 - 2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim
 - 2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo
-- 2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats
+- 2026-11-20-sen-tom-cotton-says-lutnick-repeatedly-ignored-his-warnings
 embedding_id: 2026-11-14-bessent-and-congress-focus-on-lutnick-s-handling-of-megaspee
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Treasury Secretary Scott Bessent said Treasury, War, USTR and State had pushed "
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-11-14-pressure-shifts-to-commerce-as-bessent-says-bis-has-the-pen]] · [[2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim]] · [[2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo]] · [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats]]
+**Related:** [[2026-11-14-pressure-shifts-to-commerce-as-bessent-says-bis-has-the-pen]] · [[2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim]] · [[2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo]] · [[2026-11-20-sen-tom-cotton-says-lutnick-repeatedly-ignored-his-warnings]]
 <!-- graph:end -->

@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-11-14-bessent-and-congress-focus-on-lutnick-s-handling-of-megaspee
 - 2026-11-14-pressure-shifts-to-commerce-as-bessent-says-bis-has-the-pen
 - 2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim
+- 2026-11-20-sen-tom-cotton-says-lutnick-repeatedly-ignored-his-warnings
 - 2026-11-15-u-s-export-control-scrutiny-puts-nvidia-governance-in-focus
-- 2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats
 embedding_id: 2026-11-14-axios-reports-treasury-secretary-scott-bessent-pointed-respo
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Axios reports Treasury Secretary Scott Bessent pointed responsibility for the Me
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-11-14-bessent-and-congress-focus-on-lutnick-s-handling-of-megaspee]] · [[2026-11-14-pressure-shifts-to-commerce-as-bessent-says-bis-has-the-pen]] · [[2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim]] · [[2026-11-15-u-s-export-control-scrutiny-puts-nvidia-governance-in-focus]] · [[2026-11-12-the-nvidia-china-fallout-widens-huang-will-testify-democrats]]
+**Related:** [[2026-11-14-bessent-and-congress-focus-on-lutnick-s-handling-of-megaspee]] · [[2026-11-14-pressure-shifts-to-commerce-as-bessent-says-bis-has-the-pen]] · [[2026-11-14-november-15-2026-the-economic-times-citing-the-financial-tim]] · [[2026-11-20-sen-tom-cotton-says-lutnick-repeatedly-ignored-his-warnings]] · [[2026-11-15-u-s-export-control-scrutiny-puts-nvidia-governance-in-focus]]
 <!-- graph:end -->

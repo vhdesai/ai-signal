@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 - 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
+- 2026-11-20-databricks-in-early-talks-to-raise-at-a-225-billion-valuatio
 - 2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some
 embedding_id: 2026-07-08-velocity-raises-27m-seed-for-ai-monetization-infrastructure
 event_name: ''
@@ -37,5 +38,5 @@ Velocity raised $27 million in seed funding led by NFX and Red Dot Capital Partn
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]] · [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some]]
+**Related:** [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]] · [[2026-11-20-databricks-in-early-talks-to-raise-at-a-225-billion-valuatio]] · [[2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some]]
 <!-- graph:end -->

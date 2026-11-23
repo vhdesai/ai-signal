@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 204
+member_count: 213
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 204 connected article(s).
+> Auto-generated entity hub. 213 connected article(s).
 
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-21` [[2026-11-21-november-20-2026-the-wall-street-journal|[November 20, 2026] · [The Wall Street Journal]]]
+- `2026-11-21` [[2026-11-21-un-talks-agree-to-craft-killer-robot-rules-by-2028-but-leave|UN talks agree to craft "killer robot" rules by 2028 but leave binding status open]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
+- `2026-11-20` [[2026-11-20-house-report-cursor-maker-exploring-a-phase-out-of-chinese-o|House report: Cursor maker exploring a phase-out of Chinese open-weight models]]
+- `2026-11-20` [[2026-11-20-databricks-seeks-funding-at-a-225-billion-valuation-as-priva|Databricks seeks funding at a $225 billion valuation as private money keeps backing enterprise AI platforms]]
+- `2026-11-20` [[2026-11-20-databricks-seeks-a-225-billion-valuation-as-private-ai-money|Databricks seeks a $225 billion valuation as private AI money keeps flowing]]
+- `2026-11-20` [[2026-11-20-databricks-reportedly-explores-a-funding-round-at-a-225-bill|Databricks reportedly explores a funding round at a $225 billion valuation]]
+- `2026-11-20` [[2026-11-20-databricks-in-early-talks-to-raise-at-a-225-billion-valuatio|Databricks in early talks to raise at a $225 billion valuation]]
 - `2026-11-18` [[2026-11-18-nadella-highlights-the-security-exposure-of-hard-to-patch-in|Nadella highlights the security exposure of hard-to-patch infrastructure]]
 - `2026-11-18` [[2026-11-18-military-ai-safeguards-face-scrutiny-over-oversight-and-evid|Military AI safeguards face scrutiny over oversight and evidence]]
 - `2026-11-18` [[2026-11-18-microsoft-keeps-its-next-cyber-model-on-a-restricted-deploym|Microsoft keeps its next cyber model on a restricted deployment path]]

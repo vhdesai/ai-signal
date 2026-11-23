@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-11-november-11-2026-the-information
 - 2026-11-11-fractile-raises-720-million-to-bring-its-inference-architect
+- 2026-11-20-databricks-seeks-a-225-billion-valuation-as-private-ai-money
 - 2026-11-18-nvidia-turns-disciplined-and-selective-on-the-investments-th
-- 2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open
 embedding_id: 2026-11-12-capital-keeps-flowing-to-ai-chips-and-robotics-even-as-some
 event_name: ''
 ---
@@ -40,5 +40,5 @@ UK chip startup Fractile raised a $720 million Series C led by Thrive Capital, F
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-11-11-november-11-2026-the-information]] · [[2026-11-11-fractile-raises-720-million-to-bring-its-inference-architect]] · [[2026-11-18-nvidia-turns-disciplined-and-selective-on-the-investments-th]] · [[2026-11-05-capital-narrows-at-the-top-ai-venture-funding-slides-as-open]]
+**Related:** [[2026-11-11-november-11-2026-the-information]] · [[2026-11-11-fractile-raises-720-million-to-bring-its-inference-architect]] · [[2026-11-20-databricks-seeks-a-225-billion-valuation-as-private-ai-money]] · [[2026-11-18-nvidia-turns-disciplined-and-selective-on-the-investments-th]]
 <!-- graph:end -->

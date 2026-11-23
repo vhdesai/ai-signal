@@ -23,10 +23,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-11-17-november-16-2026-the-information-2
 - 2026-11-18-november-17-2026-business-insider
+- 2026-11-21-calls-for-jensen-huang-s-return-grow-including-from-trump-as
+- 2026-11-21-november-22-2026-business-insider
+- 2026-11-23-november-23-2026-cnbc
 - 2026-11-09-november-9-2026-dealbook
-- 2026-11-19-november-18-2026-wall-street-journal-2
-- 2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o
-- 2026-11-15-november-14-2026-the-information
 embedding_id: 2026-11-17-november-16-2026-the-information
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A person familiar with the board's thinking told Business Insider it is not cons
 
 **Entities:** [[Arm]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-17-november-16-2026-the-information-2]] · [[2026-11-18-november-17-2026-business-insider]] · [[2026-11-09-november-9-2026-dealbook]] · [[2026-11-19-november-18-2026-wall-street-journal-2]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]] · [[2026-11-15-november-14-2026-the-information]]
+**Related:** [[2026-11-17-november-16-2026-the-information-2]] · [[2026-11-18-november-17-2026-business-insider]] · [[2026-11-21-calls-for-jensen-huang-s-return-grow-including-from-trump-as]] · [[2026-11-21-november-22-2026-business-insider]] · [[2026-11-23-november-23-2026-cnbc]] · [[2026-11-09-november-9-2026-dealbook]]
 <!-- graph:end -->

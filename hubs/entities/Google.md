@@ -1,14 +1,32 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1884
+member_count: 1902
 ---
 
 # Google
 
-> Auto-generated entity hub. 1884 connected article(s).
+> Auto-generated entity hub. 1902 connected article(s).
 
+- `2026-11-23` [[2026-11-23-november-23-2026-wsj-pro-cybersecurity-2|[November 23, 2026] · [WSJ Pro CyberSecurity]]]
+- `2026-11-22` [[2026-11-22-policy-authors-call-for-interoperable-ai-safety-practices|Policy authors call for interoperable AI safety practices]]
+- `2026-11-22` [[2026-11-22-google-s-ai-search-features-slow-its-ad-growth-and-the-pain|Google's AI search features slow its ad growth, and the pain spreads to Apple and Reddit]]
+- `2026-11-22` [[2026-11-22-google-previews-tool-retrieval-in-the-gemini-api-for-agents|Google previews Tool Retrieval in the Gemini API for agents with large tool libraries]]
+- `2026-11-21` [[2026-11-21-signal-expands-screenshot-blocking-to-limit-exposure-to-plat|Signal expands screenshot blocking to limit exposure to platform AI agents]]
+- `2026-11-21` [[2026-11-21-nvidia-strong-business-results-meet-leadership-and-china-unc|Nvidia: strong business results meet leadership and China uncertainty]]
+- `2026-11-21` [[2026-11-21-attackers-ai-agents-exploit-a-zero-day-in-11-minutes-as-sign|Attackers' AI agents exploit a zero-day in 11 minutes as Signal blocks screenshots to keep OS agents out]]
+- `2026-11-20` [[2026-11-20-november-21-2026-marktechpost|[November 21, 2026] · [MarkTechPost]]]
+- `2026-11-20` [[2026-11-20-november-20-2026-anthropic|[November 20, 2026] · [Anthropic]]]
 - `2026-11-20` [[2026-11-20-november-19-2026-9to5mac|[November 19, 2026] · [9to5Mac]]]
+- `2026-11-20` [[2026-11-20-trump-threatens-tax-on-u-s-companies-building-data-centers-a|Trump threatens tax on U.S. companies building data centers abroad]]
+- `2026-11-20` [[2026-11-20-open-weight-wave-thinking-machines-inkling-2-mini-baseten-s|Open-weight wave: Thinking Machines' Inkling 2 Mini, Baseten's decision models and RadixArk's RL-only coder]]
+- `2026-11-20` [[2026-11-20-meta-reconsiders-its-2030-net-zero-goal-as-ai-data-center-em|Meta reconsiders its 2030 net-zero goal as AI data center emissions hit a record]]
+- `2026-11-20` [[2026-11-20-inkling-2-mini-brings-open-weights-and-long-context-to-a-loo|Inkling 2 Mini brings open weights and long context to a looped architecture]]
+- `2026-11-20` [[2026-11-20-house-report-cursor-maker-exploring-a-phase-out-of-chinese-o|House report: Cursor maker exploring a phase-out of Chinese open-weight models]]
+- `2026-11-20` [[2026-11-20-google-expands-connected-apps-into-grocery-shopping-and-erra|Google expands Connected Apps into grocery shopping and errands]]
+- `2026-11-20` [[2026-11-20-cursor-reportedly-weighs-phasing-out-chinese-developed-ai-mo|Cursor reportedly weighs phasing out Chinese-developed AI models]]
+- `2026-11-20` [[2026-11-20-anthropic-closes-its-93-5-billion-ipo-with-founder-controls|Anthropic closes its $93.5 billion IPO with founder controls that make leadership hard to oust]]
+- `2026-11-20` [[2026-11-20-anthropic-closes-its-93-5-billion-ipo-with-a-dual-class-stru|Anthropic closes its $93.5 billion IPO with a dual-class structure that makes its founders hard to oust]]
 - `2026-11-19` [[2026-11-19-november-20-2026-cio-dive-2|[November 20, 2026] · [CIO Dive]]]
 - `2026-11-19` [[2026-11-19-november-18-2026-google|[November 18, 2026] · [Google]]]
 - `2026-11-18` [[2026-11-18-november-19-2026-pitchbook|[November 19, 2026] · [PitchBook]]]

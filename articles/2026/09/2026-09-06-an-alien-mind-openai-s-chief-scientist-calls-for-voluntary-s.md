@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-09-06-openai-s-chief-scientist-calls-for-voluntary-slowdowns-acros
 - 2026-09-06-openai-chief-scientist-pachocki-alignment-and-monitoring-are
 - 2026-09-06-openai-s-chief-scientist-calls-frontier-models-an-alien-mind
+- 2026-11-23-november-22-2026-openai
 - 2026-09-10-frontier-lab-researchers-escalate-calls-to-slow-development
-- 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 embedding_id: 2026-09-06-an-alien-mind-openai-s-chief-scientist-calls-for-voluntary-s
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI Chief Scientist Jakub Pachocki published an essay arguing that current pr
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-06-openai-s-chief-scientist-calls-for-voluntary-slowdowns-acros]] · [[2026-09-06-openai-chief-scientist-pachocki-alignment-and-monitoring-are]] · [[2026-09-06-openai-s-chief-scientist-calls-frontier-models-an-alien-mind]] · [[2026-09-10-frontier-lab-researchers-escalate-calls-to-slow-development]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]]
+**Related:** [[2026-09-06-openai-s-chief-scientist-calls-for-voluntary-slowdowns-acros]] · [[2026-09-06-openai-chief-scientist-pachocki-alignment-and-monitoring-are]] · [[2026-09-06-openai-s-chief-scientist-calls-frontier-models-an-alien-mind]] · [[2026-11-23-november-22-2026-openai]] · [[2026-09-10-frontier-lab-researchers-escalate-calls-to-slow-development]]
 <!-- graph:end -->

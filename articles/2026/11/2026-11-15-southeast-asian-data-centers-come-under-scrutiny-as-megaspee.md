@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-11-14-november-15-2026-cnbc
 - 2026-11-15-the-journal-reports-that-large-data-centers-in-southeast-asi
 - 2026-11-15-wsj-southeast-asian-data-centers-gave-chinese-ai-firms-a-bac
-- 2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in
+- 2026-11-21-wsj-traces-an-alleged-nvidia-chip-smuggling-network-to-an-as
 embedding_id: 2026-11-15-southeast-asian-data-centers-come-under-scrutiny-as-megaspee
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The Wall Street Journal reports that large Southeast Asian data centers gave Chi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-11-14-november-15-2026-cnbc]] · [[2026-11-15-the-journal-reports-that-large-data-centers-in-southeast-asi]] · [[2026-11-15-wsj-southeast-asian-data-centers-gave-chinese-ai-firms-a-bac]] · [[2026-11-15-megaspeed-opens-internal-probe-and-says-alice-huang-left-in]]
+**Related:** [[2026-11-14-november-15-2026-cnbc]] · [[2026-11-15-the-journal-reports-that-large-data-centers-in-southeast-asi]] · [[2026-11-15-wsj-southeast-asian-data-centers-gave-chinese-ai-firms-a-bac]] · [[2026-11-21-wsj-traces-an-alleged-nvidia-chip-smuggling-network-to-an-as]]
 <!-- graph:end -->

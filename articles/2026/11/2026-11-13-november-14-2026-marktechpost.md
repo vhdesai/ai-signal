@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-11-14-stanford-s-open-source-memorilla-compresses-a-whole-document
 - 2026-11-14-jure-leskovec-s-snap-group-at-stanford-released-memorilla-a
 - 2026-11-14-stanford-s-memorilla-gives-a-frozen-llm-an-entire-document-s
+- 2026-11-20-november-21-2026-marktechpost
 - 2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec
-- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 embedding_id: 2026-11-13-november-14-2026-marktechpost
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Jure Leskovec's SNAP group at Stanford released Memorilla, a 194-million-paramet
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-11-14-stanford-s-open-source-memorilla-compresses-a-whole-document]] · [[2026-11-14-jure-leskovec-s-snap-group-at-stanford-released-memorilla-a]] · [[2026-11-14-stanford-s-memorilla-gives-a-frozen-llm-an-entire-document-s]] · [[2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]]
+**Related:** [[2026-11-14-stanford-s-open-source-memorilla-compresses-a-whole-document]] · [[2026-11-14-jure-leskovec-s-snap-group-at-stanford-released-memorilla-a]] · [[2026-11-14-stanford-s-memorilla-gives-a-frozen-llm-an-entire-document-s]] · [[2026-11-20-november-21-2026-marktechpost]] · [[2026-10-28-princeton-and-collaborators-release-flashmap-speculative-dec]]
 <!-- graph:end -->

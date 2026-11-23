@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-11-14-major-nvidia-shareholders-urge-the-board-not-to-rush-huang-s
 - 2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke
 - 2026-11-15-november-14-2026-the-information
-- 2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o
+- 2026-11-21-calls-for-jensen-huang-s-return-grow-including-from-trump-as
 embedding_id: 2026-11-15-a-petition-asking-nvidia-s-board-to-bring-back-jensen-huang
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A petition asking Nvidia's board to bring back Jensen Huang while an independent
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Related:** [[2026-11-14-tech-leaders-press-nvidia-to-reinstate-jensen-huang]] · [[2026-11-14-major-nvidia-shareholders-urge-the-board-not-to-rush-huang-s]] · [[2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke]] · [[2026-11-15-november-14-2026-the-information]] · [[2026-11-17-nvidia-s-board-shuts-the-door-on-huang-s-return-as-the-sec-o]]
+**Related:** [[2026-11-14-tech-leaders-press-nvidia-to-reinstate-jensen-huang]] · [[2026-11-14-major-nvidia-shareholders-urge-the-board-not-to-rush-huang-s]] · [[2026-11-14-investors-and-115-000-petitioners-press-nvidia-s-board-to-ke]] · [[2026-11-15-november-14-2026-the-information]] · [[2026-11-21-calls-for-jensen-huang-s-return-grow-including-from-trump-as]]
 <!-- graph:end -->

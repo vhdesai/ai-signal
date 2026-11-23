@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-22-1password-launches-delegated-agent-login-without-exposing-us
+- 2026-11-21-together-ai-says-an-ai-coding-agent-leaked-a-credential-that
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
-- 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 embedding_id: 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SecurityWeek reported that 1Password and OpenAI are working together to prevent 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-10-22-1password-launches-delegated-agent-login-without-exposing-us]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]]
+**Related:** [[2026-10-22-1password-launches-delegated-agent-login-without-exposing-us]] · [[2026-11-21-together-ai-says-an-ai-coding-agent-leaked-a-credential-that]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]]
 <!-- graph:end -->

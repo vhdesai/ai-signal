@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp
 - 2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub
+- 2026-11-21-openai-brings-gpt-live-1-1-to-its-api-with-a-cheaper-standby
+- 2026-11-21-openai-brings-gpt-live-1-1-to-its-api-with-cheaper-standby-b
 - 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
-- 2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api
-- 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
 embedding_id: 2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha
 event_name: ''
 ---
@@ -38,5 +38,5 @@ GPT-Live-1 and GPT-Live-1 mini replace Advanced Voice Mode with an architecture 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp]] · [[2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub]] · [[2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop]] · [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]]
+**Related:** [[2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp]] · [[2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub]] · [[2026-11-21-openai-brings-gpt-live-1-1-to-its-api-with-a-cheaper-standby]] · [[2026-11-21-openai-brings-gpt-live-1-1-to-its-api-with-cheaper-standby-b]] · [[2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop]]
 <!-- graph:end -->
